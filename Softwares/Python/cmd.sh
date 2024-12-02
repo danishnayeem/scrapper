@@ -75,7 +75,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.13.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.13.0';
+        #rclone -P move 'Python 3.13.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.13.0';
     
         mkdir 'Python 3.12.7';
         cd 'Python 3.12.7';
@@ -153,7 +153,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.12.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.7';
+        #rclone -P move 'Python 3.12.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.7';
     
         mkdir 'Python 3.11.10';
         cd 'Python 3.11.10';
@@ -175,7 +175,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.10';
+        #rclone -P move 'Python 3.11.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.10';
     
         mkdir 'Python 3.10.15';
         cd 'Python 3.10.15';
@@ -197,7 +197,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.15' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.15';
+        #rclone -P move 'Python 3.10.15' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.15';
     
         mkdir 'Python 3.12.6';
         cd 'Python 3.12.6';
@@ -275,7 +275,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.12.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.6';
+        #rclone -P move 'Python 3.12.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.6';
     
         mkdir 'Python 3.9.20';
         cd 'Python 3.9.20';
@@ -297,7 +297,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.20' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.20';
+        #rclone -P move 'Python 3.9.20' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.20';
     
         mkdir 'Python 3.8.20';
         cd 'Python 3.8.20';
@@ -319,7 +319,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.20' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.20';
+        #rclone -P move 'Python 3.8.20' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.20';
     
         mkdir 'Python 3.12.5';
         cd 'Python 3.12.5';
@@ -397,7 +397,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.12.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.5';
+        #rclone -P move 'Python 3.12.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.5';
     
         mkdir 'Python 3.12.4';
         cd 'Python 3.12.4';
@@ -475,7 +475,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.12.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.4';
+        #rclone -P move 'Python 3.12.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.4';
     
         mkdir 'Python 3.12.3';
         cd 'Python 3.12.3';
@@ -553,7 +553,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.12.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.3';
+        #rclone -P move 'Python 3.12.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.3';
     
         mkdir 'Python 3.11.9';
         cd 'Python 3.11.9';
@@ -631,7 +631,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.9';
+        #rclone -P move 'Python 3.11.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.9';
     
         mkdir 'Python 3.10.14';
         cd 'Python 3.10.14';
@@ -653,7 +653,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.14' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.14';
+        #rclone -P move 'Python 3.10.14' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.14';
     
         mkdir 'Python 3.9.19';
         cd 'Python 3.9.19';
@@ -675,7 +675,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.19' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.19';
+        #rclone -P move 'Python 3.9.19' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.19';
     
         mkdir 'Python 3.8.19';
         cd 'Python 3.8.19';
@@ -697,7 +697,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.19' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.19';
+        #rclone -P move 'Python 3.8.19' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.19';
     
         mkdir 'Python 3.11.8';
         cd 'Python 3.11.8';
@@ -775,7 +775,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.8';
+        #rclone -P move 'Python 3.11.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.8';
     
         mkdir 'Python 3.12.2';
         cd 'Python 3.12.2';
@@ -853,7 +853,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.12.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.2';
+        #rclone -P move 'Python 3.12.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.2';
     
         mkdir 'Python 3.12.1';
         cd 'Python 3.12.1';
@@ -931,7 +931,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.12.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.1';
+        #rclone -P move 'Python 3.12.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.1';
     
         mkdir 'Python 3.11.7';
         cd 'Python 3.11.7';
@@ -1009,7 +1009,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.7';
+        #rclone -P move 'Python 3.11.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.7';
     
         mkdir 'Python 3.12.0';
         cd 'Python 3.12.0';
@@ -1087,7 +1087,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.12.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.0';
+        #rclone -P move 'Python 3.12.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.12.0';
     
         mkdir 'Python 3.11.6';
         cd 'Python 3.11.6';
@@ -1165,7 +1165,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.6';
+        #rclone -P move 'Python 3.11.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.6';
     
         mkdir 'Python 3.11.5';
         cd 'Python 3.11.5';
@@ -1243,7 +1243,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.5';
+        #rclone -P move 'Python 3.11.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.5';
     
         mkdir 'Python 3.10.13';
         cd 'Python 3.10.13';
@@ -1265,7 +1265,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.13' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.13';
+        #rclone -P move 'Python 3.10.13' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.13';
     
         mkdir 'Python 3.9.18';
         cd 'Python 3.9.18';
@@ -1287,7 +1287,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.18' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.18';
+        #rclone -P move 'Python 3.9.18' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.18';
     
         mkdir 'Python 3.8.18';
         cd 'Python 3.8.18';
@@ -1309,7 +1309,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.18' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.18';
+        #rclone -P move 'Python 3.8.18' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.18';
     
         mkdir 'Python 3.10.12';
         cd 'Python 3.10.12';
@@ -1331,7 +1331,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.12' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.12';
+        #rclone -P move 'Python 3.10.12' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.12';
     
         mkdir 'Python 3.11.4';
         cd 'Python 3.11.4';
@@ -1409,7 +1409,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.4';
+        #rclone -P move 'Python 3.11.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.4';
     
         mkdir 'Python 3.7.17';
         cd 'Python 3.7.17';
@@ -1431,7 +1431,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.17' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.17';
+        #rclone -P move 'Python 3.7.17' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.17';
     
         mkdir 'Python 3.8.17';
         cd 'Python 3.8.17';
@@ -1453,7 +1453,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.17' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.17';
+        #rclone -P move 'Python 3.8.17' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.17';
     
         mkdir 'Python 3.9.17';
         cd 'Python 3.9.17';
@@ -1475,7 +1475,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.17' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.17';
+        #rclone -P move 'Python 3.9.17' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.17';
     
         mkdir 'Python 3.10.11';
         cd 'Python 3.10.11';
@@ -1545,7 +1545,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.11' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.11';
+        #rclone -P move 'Python 3.10.11' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.11';
     
         mkdir 'Python 3.11.3';
         cd 'Python 3.11.3';
@@ -1623,7 +1623,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.3';
+        #rclone -P move 'Python 3.11.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.3';
     
         mkdir 'Python 3.10.10';
         cd 'Python 3.10.10';
@@ -1693,7 +1693,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.10';
+        #rclone -P move 'Python 3.10.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.10';
     
         mkdir 'Python 3.11.2';
         cd 'Python 3.11.2';
@@ -1771,7 +1771,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.2';
+        #rclone -P move 'Python 3.11.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.2';
     
         mkdir 'Python 3.11.1';
         cd 'Python 3.11.1';
@@ -1849,7 +1849,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.1';
+        #rclone -P move 'Python 3.11.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.1';
     
         mkdir 'Python 3.10.9';
         cd 'Python 3.10.9';
@@ -1919,7 +1919,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.9';
+        #rclone -P move 'Python 3.10.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.9';
     
         mkdir 'Python 3.9.16';
         cd 'Python 3.9.16';
@@ -1941,7 +1941,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.16' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.16';
+        #rclone -P move 'Python 3.9.16' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.16';
     
         mkdir 'Python 3.8.16';
         cd 'Python 3.8.16';
@@ -1963,7 +1963,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.16' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.16';
+        #rclone -P move 'Python 3.8.16' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.16';
     
         mkdir 'Python 3.7.16';
         cd 'Python 3.7.16';
@@ -1985,7 +1985,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.16' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.16';
+        #rclone -P move 'Python 3.7.16' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.16';
     
         mkdir 'Python 3.11.0';
         cd 'Python 3.11.0';
@@ -2063,7 +2063,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.11.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.0';
+        #rclone -P move 'Python 3.11.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.11.0';
     
         mkdir 'Python 3.9.15';
         cd 'Python 3.9.15';
@@ -2085,7 +2085,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.15' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.15';
+        #rclone -P move 'Python 3.9.15' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.15';
     
         mkdir 'Python 3.8.15';
         cd 'Python 3.8.15';
@@ -2107,7 +2107,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.15' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.15';
+        #rclone -P move 'Python 3.8.15' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.15';
     
         mkdir 'Python 3.10.8';
         cd 'Python 3.10.8';
@@ -2177,7 +2177,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.8';
+        #rclone -P move 'Python 3.10.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.8';
     
         mkdir 'Python 3.7.15';
         cd 'Python 3.7.15';
@@ -2199,7 +2199,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.15' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.15';
+        #rclone -P move 'Python 3.7.15' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.15';
     
         mkdir 'Python 3.7.14';
         cd 'Python 3.7.14';
@@ -2221,7 +2221,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.14' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.14';
+        #rclone -P move 'Python 3.7.14' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.14';
     
         mkdir 'Python 3.8.14';
         cd 'Python 3.8.14';
@@ -2243,7 +2243,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.14' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.14';
+        #rclone -P move 'Python 3.8.14' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.14';
     
         mkdir 'Python 3.9.14';
         cd 'Python 3.9.14';
@@ -2265,7 +2265,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.14' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.14';
+        #rclone -P move 'Python 3.9.14' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.14';
     
         mkdir 'Python 3.10.7';
         cd 'Python 3.10.7';
@@ -2335,7 +2335,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.7';
+        #rclone -P move 'Python 3.10.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.7';
     
         mkdir 'Python 3.10.6';
         cd 'Python 3.10.6';
@@ -2405,7 +2405,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.6';
+        #rclone -P move 'Python 3.10.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.6';
     
         mkdir 'Python 3.10.5';
         cd 'Python 3.10.5';
@@ -2475,7 +2475,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.5';
+        #rclone -P move 'Python 3.10.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.5';
     
         mkdir 'Python 3.9.13';
         cd 'Python 3.9.13';
@@ -2553,7 +2553,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.13' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.13';
+        #rclone -P move 'Python 3.9.13' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.13';
     
         mkdir 'Python 3.10.4';
         cd 'Python 3.10.4';
@@ -2623,7 +2623,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.4';
+        #rclone -P move 'Python 3.10.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.4';
     
         mkdir 'Python 3.9.12';
         cd 'Python 3.9.12';
@@ -2701,7 +2701,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.12' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.12';
+        #rclone -P move 'Python 3.9.12' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.12';
     
         mkdir 'Python 3.10.3';
         cd 'Python 3.10.3';
@@ -2771,7 +2771,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.3';
+        #rclone -P move 'Python 3.10.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.3';
     
         mkdir 'Python 3.9.11';
         cd 'Python 3.9.11';
@@ -2849,7 +2849,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.11' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.11';
+        #rclone -P move 'Python 3.9.11' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.11';
     
         mkdir 'Python 3.8.13';
         cd 'Python 3.8.13';
@@ -2871,7 +2871,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.13' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.13';
+        #rclone -P move 'Python 3.8.13' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.13';
     
         mkdir 'Python 3.7.13';
         cd 'Python 3.7.13';
@@ -2893,7 +2893,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.13' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.13';
+        #rclone -P move 'Python 3.7.13' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.13';
     
         mkdir 'Python 3.9.10';
         cd 'Python 3.9.10';
@@ -2971,7 +2971,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.10';
+        #rclone -P move 'Python 3.9.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.10';
     
         mkdir 'Python 3.10.2';
         cd 'Python 3.10.2';
@@ -3041,7 +3041,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.2';
+        #rclone -P move 'Python 3.10.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.2';
     
         mkdir 'Python 3.10.1';
         cd 'Python 3.10.1';
@@ -3119,7 +3119,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.1';
+        #rclone -P move 'Python 3.10.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.1';
     
         mkdir 'Python 3.9.9';
         cd 'Python 3.9.9';
@@ -3197,7 +3197,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.9';
+        #rclone -P move 'Python 3.9.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.9';
     
         mkdir 'Python 3.9.8';
         cd 'Python 3.9.8';
@@ -3275,7 +3275,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.8';
+        #rclone -P move 'Python 3.9.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.8';
     
         mkdir 'Python 3.10.0';
         cd 'Python 3.10.0';
@@ -3345,7 +3345,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.10.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.0';
+        #rclone -P move 'Python 3.10.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.10.0';
     
         mkdir 'Python 3.7.12';
         cd 'Python 3.7.12';
@@ -3367,7 +3367,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.12' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.12';
+        #rclone -P move 'Python 3.7.12' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.12';
     
         mkdir 'Python 3.6.15';
         cd 'Python 3.6.15';
@@ -3389,7 +3389,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.15' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.15';
+        #rclone -P move 'Python 3.6.15' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.15';
     
         mkdir 'Python 3.9.7';
         cd 'Python 3.9.7';
@@ -3467,7 +3467,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.7';
+        #rclone -P move 'Python 3.9.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.7';
     
         mkdir 'Python 3.8.12';
         cd 'Python 3.8.12';
@@ -3489,7 +3489,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.12' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.12';
+        #rclone -P move 'Python 3.8.12' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.12';
     
         mkdir 'Python 3.9.6';
         cd 'Python 3.9.6';
@@ -3567,7 +3567,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.6';
+        #rclone -P move 'Python 3.9.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.6';
     
         mkdir 'Python 3.8.11';
         cd 'Python 3.8.11';
@@ -3589,7 +3589,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.11' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.11';
+        #rclone -P move 'Python 3.8.11' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.11';
     
         mkdir 'Python 3.7.11';
         cd 'Python 3.7.11';
@@ -3611,7 +3611,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.11' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.11';
+        #rclone -P move 'Python 3.7.11' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.11';
     
         mkdir 'Python 3.6.14';
         cd 'Python 3.6.14';
@@ -3633,7 +3633,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.14' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.14';
+        #rclone -P move 'Python 3.6.14' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.14';
     
         mkdir 'Python 3.9.5';
         cd 'Python 3.9.5';
@@ -3711,7 +3711,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.5';
+        #rclone -P move 'Python 3.9.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.5';
     
         mkdir 'Python 3.8.10';
         cd 'Python 3.8.10';
@@ -3789,7 +3789,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.10';
+        #rclone -P move 'Python 3.8.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.10';
     
         mkdir 'Python 3.9.4';
         cd 'Python 3.9.4';
@@ -3867,7 +3867,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.4';
+        #rclone -P move 'Python 3.9.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.4';
     
         mkdir 'Python 3.8.9';
         cd 'Python 3.8.9';
@@ -3937,7 +3937,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.9';
+        #rclone -P move 'Python 3.8.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.9';
     
         mkdir 'Python 3.9.2';
         cd 'Python 3.9.2';
@@ -4015,7 +4015,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.2';
+        #rclone -P move 'Python 3.9.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.2';
     
         mkdir 'Python 3.8.8';
         cd 'Python 3.8.8';
@@ -4085,7 +4085,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.8';
+        #rclone -P move 'Python 3.8.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.8';
     
         mkdir 'Python 3.6.13';
         cd 'Python 3.6.13';
@@ -4107,7 +4107,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.13' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.13';
+        #rclone -P move 'Python 3.6.13' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.13';
     
         mkdir 'Python 3.7.10';
         cd 'Python 3.7.10';
@@ -4129,7 +4129,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.10';
+        #rclone -P move 'Python 3.7.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.10';
     
         mkdir 'Python 3.8.7';
         cd 'Python 3.8.7';
@@ -4199,7 +4199,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.7';
+        #rclone -P move 'Python 3.8.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.7';
     
         mkdir 'Python 3.9.1';
         cd 'Python 3.9.1';
@@ -4277,7 +4277,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.1';
+        #rclone -P move 'Python 3.9.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.1';
     
         mkdir 'Python 3.9.0';
         cd 'Python 3.9.0';
@@ -4363,7 +4363,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.9.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.0';
+        #rclone -P move 'Python 3.9.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.9.0';
     
         mkdir 'Python 3.8.6';
         cd 'Python 3.8.6';
@@ -4449,7 +4449,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.6';
+        #rclone -P move 'Python 3.8.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.6';
     
         mkdir 'Python 3.5.10';
         cd 'Python 3.5.10';
@@ -4471,7 +4471,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.10';
+        #rclone -P move 'Python 3.5.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.10';
     
         mkdir 'Python 3.7.9';
         cd 'Python 3.7.9';
@@ -4557,7 +4557,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.9';
+        #rclone -P move 'Python 3.7.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.9';
     
         mkdir 'Python 3.6.12';
         cd 'Python 3.6.12';
@@ -4579,7 +4579,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.12' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.12';
+        #rclone -P move 'Python 3.6.12' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.12';
     
         mkdir 'Python 3.8.5';
         cd 'Python 3.8.5';
@@ -4665,7 +4665,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.5';
+        #rclone -P move 'Python 3.8.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.5';
     
         mkdir 'Python 3.8.4';
         cd 'Python 3.8.4';
@@ -4751,7 +4751,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.4';
+        #rclone -P move 'Python 3.8.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.4';
     
         mkdir 'Python 3.7.8';
         cd 'Python 3.7.8';
@@ -4837,7 +4837,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.8';
+        #rclone -P move 'Python 3.7.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.8';
     
         mkdir 'Python 3.6.11';
         cd 'Python 3.6.11';
@@ -4859,7 +4859,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.11' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.11';
+        #rclone -P move 'Python 3.6.11' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.11';
     
         mkdir 'Python 3.8.3';
         cd 'Python 3.8.3';
@@ -4945,7 +4945,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.3';
+        #rclone -P move 'Python 3.8.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.3';
     
         mkdir 'Python 2.7.18';
         cd 'Python 2.7.18';
@@ -5015,7 +5015,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.18' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.18';
+        #rclone -P move 'Python 2.7.18' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.18';
     
         mkdir 'Python 3.7.7';
         cd 'Python 3.7.7';
@@ -5101,7 +5101,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.7';
+        #rclone -P move 'Python 3.7.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.7';
     
         mkdir 'Python 3.8.2';
         cd 'Python 3.8.2';
@@ -5187,7 +5187,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.2';
+        #rclone -P move 'Python 3.8.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.2';
     
         mkdir 'Python 3.8.1';
         cd 'Python 3.8.1';
@@ -5273,7 +5273,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.1';
+        #rclone -P move 'Python 3.8.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.1';
     
         mkdir 'Python 3.7.6';
         cd 'Python 3.7.6';
@@ -5367,7 +5367,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.6';
+        #rclone -P move 'Python 3.7.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.6';
     
         mkdir 'Python 3.6.10';
         cd 'Python 3.6.10';
@@ -5389,7 +5389,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.10';
+        #rclone -P move 'Python 3.6.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.10';
     
         mkdir 'Python 3.5.9';
         cd 'Python 3.5.9';
@@ -5411,7 +5411,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.9';
+        #rclone -P move 'Python 3.5.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.9';
     
         mkdir 'Python 3.5.8';
         cd 'Python 3.5.8';
@@ -5433,7 +5433,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.8';
+        #rclone -P move 'Python 3.5.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.8';
     
         mkdir 'Python 2.7.17';
         cd 'Python 2.7.17';
@@ -5511,7 +5511,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.17' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.17';
+        #rclone -P move 'Python 2.7.17' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.17';
     
         mkdir 'Python 3.7.5';
         cd 'Python 3.7.5';
@@ -5605,7 +5605,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.5';
+        #rclone -P move 'Python 3.7.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.5';
     
         mkdir 'Python 3.8.0';
         cd 'Python 3.8.0';
@@ -5691,7 +5691,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.8.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.0';
+        #rclone -P move 'Python 3.8.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.8.0';
     
         mkdir 'Python 3.7.4';
         cd 'Python 3.7.4';
@@ -5785,7 +5785,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.4';
+        #rclone -P move 'Python 3.7.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.4';
     
         mkdir 'Python 3.6.9';
         cd 'Python 3.6.9';
@@ -5807,7 +5807,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.9';
+        #rclone -P move 'Python 3.6.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.9';
     
         mkdir 'Python 3.7.3';
         cd 'Python 3.7.3';
@@ -5901,7 +5901,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.3';
+        #rclone -P move 'Python 3.7.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.3';
     
         mkdir 'Python 3.4.10';
         cd 'Python 3.4.10';
@@ -5923,7 +5923,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.10';
+        #rclone -P move 'Python 3.4.10' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.10';
     
         mkdir 'Python 3.5.7';
         cd 'Python 3.5.7';
@@ -5945,7 +5945,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.7';
+        #rclone -P move 'Python 3.5.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.7';
     
         mkdir 'Python 2.7.16';
         cd 'Python 2.7.16';
@@ -6023,7 +6023,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.16' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.16';
+        #rclone -P move 'Python 2.7.16' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.16';
     
         mkdir 'Python 3.7.2';
         cd 'Python 3.7.2';
@@ -6117,7 +6117,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.2';
+        #rclone -P move 'Python 3.7.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.2';
     
         mkdir 'Python 3.6.8';
         cd 'Python 3.6.8';
@@ -6211,7 +6211,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.8';
+        #rclone -P move 'Python 3.6.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.8';
     
         mkdir 'Python 3.7.1';
         cd 'Python 3.7.1';
@@ -6305,7 +6305,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.1';
+        #rclone -P move 'Python 3.7.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.1';
     
         mkdir 'Python 3.6.7';
         cd 'Python 3.6.7';
@@ -6399,7 +6399,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.7';
+        #rclone -P move 'Python 3.6.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.7';
     
         mkdir 'Python 3.5.6';
         cd 'Python 3.5.6';
@@ -6421,7 +6421,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.6';
+        #rclone -P move 'Python 3.5.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.6';
     
         mkdir 'Python 3.4.9';
         cd 'Python 3.4.9';
@@ -6443,7 +6443,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.9';
+        #rclone -P move 'Python 3.4.9' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.9';
     
         mkdir 'Python 3.7.0';
         cd 'Python 3.7.0';
@@ -6537,7 +6537,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.7.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.0';
+        #rclone -P move 'Python 3.7.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.7.0';
     
         mkdir 'Python 3.6.6';
         cd 'Python 3.6.6';
@@ -6631,7 +6631,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.6';
+        #rclone -P move 'Python 3.6.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.6';
     
         mkdir 'Python 2.7.15';
         cd 'Python 2.7.15';
@@ -6709,7 +6709,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.15' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.15';
+        #rclone -P move 'Python 2.7.15' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.15';
     
         mkdir 'Python 3.6.5';
         cd 'Python 3.6.5';
@@ -6803,7 +6803,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.5';
+        #rclone -P move 'Python 3.6.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.5';
     
         mkdir 'Python 3.4.8';
         cd 'Python 3.4.8';
@@ -6825,7 +6825,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.8';
+        #rclone -P move 'Python 3.4.8' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.8';
     
         mkdir 'Python 3.5.5';
         cd 'Python 3.5.5';
@@ -6847,7 +6847,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.5';
+        #rclone -P move 'Python 3.5.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.5';
     
         mkdir 'Python 3.6.4';
         cd 'Python 3.6.4';
@@ -6933,7 +6933,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.4';
+        #rclone -P move 'Python 3.6.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.4';
     
         mkdir 'Python 3.6.3';
         cd 'Python 3.6.3';
@@ -7019,7 +7019,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.3';
+        #rclone -P move 'Python 3.6.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.3';
     
         mkdir 'Python 3.3.7';
         cd 'Python 3.3.7';
@@ -7041,7 +7041,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.3.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.7';
+        #rclone -P move 'Python 3.3.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.7';
     
         mkdir 'Python 2.7.14';
         cd 'Python 2.7.14';
@@ -7119,7 +7119,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.14' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.14';
+        #rclone -P move 'Python 2.7.14' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.14';
     
         mkdir 'Python 3.4.7';
         cd 'Python 3.4.7';
@@ -7141,7 +7141,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.7';
+        #rclone -P move 'Python 3.4.7' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.7';
     
         mkdir 'Python 3.5.4';
         cd 'Python 3.5.4';
@@ -7235,7 +7235,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.4';
+        #rclone -P move 'Python 3.5.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.4';
     
         mkdir 'Python 3.6.2';
         cd 'Python 3.6.2';
@@ -7321,7 +7321,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.2';
+        #rclone -P move 'Python 3.6.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.2';
     
         mkdir 'Python 3.6.1';
         cd 'Python 3.6.1';
@@ -7407,7 +7407,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.1';
+        #rclone -P move 'Python 3.6.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.1';
     
         mkdir 'Python 3.4.6';
         cd 'Python 3.4.6';
@@ -7429,7 +7429,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.6';
+        #rclone -P move 'Python 3.4.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.6';
     
         mkdir 'Python 3.5.3';
         cd 'Python 3.5.3';
@@ -7523,7 +7523,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.3';
+        #rclone -P move 'Python 3.5.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.3';
     
         mkdir 'Python 3.6.0';
         cd 'Python 3.6.0';
@@ -7609,7 +7609,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.6.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.0';
+        #rclone -P move 'Python 3.6.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.6.0';
     
         mkdir 'Python 2.7.13';
         cd 'Python 2.7.13';
@@ -7687,7 +7687,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.13' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.13';
+        #rclone -P move 'Python 2.7.13' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.13';
     
         mkdir 'Python 3.4.5';
         cd 'Python 3.4.5';
@@ -7709,7 +7709,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.5';
+        #rclone -P move 'Python 3.4.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.5';
     
         mkdir 'Python 3.5.2';
         cd 'Python 3.5.2';
@@ -7803,7 +7803,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.2';
+        #rclone -P move 'Python 3.5.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.2';
     
         mkdir 'Python 2.7.12';
         cd 'Python 2.7.12';
@@ -7881,7 +7881,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.12' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.12';
+        #rclone -P move 'Python 2.7.12' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.12';
     
         mkdir 'Python 3.4.4';
         cd 'Python 3.4.4';
@@ -7959,7 +7959,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.4';
+        #rclone -P move 'Python 3.4.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.4';
     
         mkdir 'Python 3.5.1';
         cd 'Python 3.5.1';
@@ -8053,7 +8053,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.1';
+        #rclone -P move 'Python 3.5.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.1';
     
         mkdir 'Python 2.7.11';
         cd 'Python 2.7.11';
@@ -8131,7 +8131,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.11' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.11';
+        #rclone -P move 'Python 2.7.11' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.11';
     
         mkdir 'Python 3.5.0';
         cd 'Python 3.5.0';
@@ -8225,7 +8225,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.5.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.0';
+        #rclone -P move 'Python 3.5.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.5.0';
     
         mkdir 'Python 2.7.10';
         cd 'Python 2.7.10';
@@ -8303,7 +8303,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.10' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.10';
+        #rclone -P move 'Python 2.7.10' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.10';
     
         mkdir 'Python 3.4.3';
         cd 'Python 3.4.3';
@@ -8381,7 +8381,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.3';
+        #rclone -P move 'Python 3.4.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.3';
     
         mkdir 'Python 2.7.9';
         cd 'Python 2.7.9';
@@ -8459,7 +8459,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.9' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.9';
+        #rclone -P move 'Python 2.7.9' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.9';
     
         mkdir 'Python 3.4.2';
         cd 'Python 3.4.2';
@@ -8537,7 +8537,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.2';
+        #rclone -P move 'Python 3.4.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.2';
     
         mkdir 'Python 3.3.6';
         cd 'Python 3.3.6';
@@ -8559,7 +8559,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.3.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.6';
+        #rclone -P move 'Python 3.3.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.6';
     
         mkdir 'Python 3.2.6';
         cd 'Python 3.2.6';
@@ -8581,7 +8581,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.2.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.6';
+        #rclone -P move 'Python 3.2.6' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.6';
     
         mkdir 'Python 2.7.8';
         cd 'Python 2.7.8';
@@ -8659,7 +8659,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.8' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.8';
+        #rclone -P move 'Python 2.7.8' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.8';
     
         mkdir 'Python 2.7.7';
         cd 'Python 2.7.7';
@@ -8737,7 +8737,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.7' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.7';
+        #rclone -P move 'Python 2.7.7' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.7';
     
         mkdir 'Python 3.4.1';
         cd 'Python 3.4.1';
@@ -8815,7 +8815,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.1';
+        #rclone -P move 'Python 3.4.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.1';
     
         mkdir 'Python 3.4.0';
         cd 'Python 3.4.0';
@@ -8893,7 +8893,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.4.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.0';
+        #rclone -P move 'Python 3.4.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.4.0';
     
         mkdir 'Python 3.3.5';
         cd 'Python 3.3.5';
@@ -8971,7 +8971,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.3.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.5';
+        #rclone -P move 'Python 3.3.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.5';
     
         mkdir 'Python 3.3.4';
         cd 'Python 3.3.4';
@@ -9025,7 +9025,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.3.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.4';
+        #rclone -P move 'Python 3.3.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.4';
     
         mkdir 'Python 3.3.3';
         cd 'Python 3.3.3';
@@ -9103,7 +9103,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.3.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.3';
+        #rclone -P move 'Python 3.3.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.3';
     
         mkdir 'Python 2.7.6';
         cd 'Python 2.7.6';
@@ -9181,7 +9181,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.6' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.6';
+        #rclone -P move 'Python 2.7.6' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.6';
     
         mkdir 'Python 2.6.9';
         cd 'Python 2.6.9';
@@ -9203,7 +9203,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.6.9' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.9';
+        #rclone -P move 'Python 2.6.9' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.9';
     
         mkdir 'Python 3.2.5';
         cd 'Python 3.2.5';
@@ -9281,7 +9281,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.2.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.5';
+        #rclone -P move 'Python 3.2.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.5';
     
         mkdir 'Python 3.3.2';
         cd 'Python 3.3.2';
@@ -9359,7 +9359,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.3.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.2';
+        #rclone -P move 'Python 3.3.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.2';
     
         mkdir 'Python 2.7.5';
         cd 'Python 2.7.5';
@@ -9437,7 +9437,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.5' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.5';
+        #rclone -P move 'Python 2.7.5' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.5';
     
         mkdir 'Python 3.3.1';
         cd 'Python 3.3.1';
@@ -9515,7 +9515,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.3.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.1';
+        #rclone -P move 'Python 3.3.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.1';
     
         mkdir 'Python 2.7.4';
         cd 'Python 2.7.4';
@@ -9593,7 +9593,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.4' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.4';
+        #rclone -P move 'Python 2.7.4' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.4';
     
         mkdir 'Python 3.2.4';
         cd 'Python 3.2.4';
@@ -9671,7 +9671,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.2.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.4';
+        #rclone -P move 'Python 3.2.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.4';
     
         mkdir 'Python 3.3.0';
         cd 'Python 3.3.0';
@@ -9749,7 +9749,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.3.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.0';
+        #rclone -P move 'Python 3.3.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.3.0';
     
         mkdir 'Python 3.2.3';
         cd 'Python 3.2.3';
@@ -9827,7 +9827,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.2.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.3';
+        #rclone -P move 'Python 3.2.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.3';
     
         mkdir 'Python 2.6.8';
         cd 'Python 2.6.8';
@@ -9849,7 +9849,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.6.8' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.8';
+        #rclone -P move 'Python 2.6.8' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.8';
     
         mkdir 'Python 3.1.5';
         cd 'Python 3.1.5';
@@ -9879,7 +9879,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.1.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.5';
+        #rclone -P move 'Python 3.1.5' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.5';
     
         mkdir 'Python 2.7.3';
         cd 'Python 2.7.3';
@@ -9957,7 +9957,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.3';
+        #rclone -P move 'Python 2.7.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.3';
     
         mkdir 'Python 3.2.2';
         cd 'Python 3.2.2';
@@ -10035,7 +10035,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.2.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.2';
+        #rclone -P move 'Python 3.2.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.2';
     
         mkdir 'Python 3.2.1';
         cd 'Python 3.2.1';
@@ -10113,7 +10113,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.2.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.1';
+        #rclone -P move 'Python 3.2.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.1';
     
         mkdir 'Python 3.1.4';
         cd 'Python 3.1.4';
@@ -10175,7 +10175,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.1.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.4';
+        #rclone -P move 'Python 3.1.4' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.4';
     
         mkdir 'Python 2.7.2';
         cd 'Python 2.7.2';
@@ -10245,7 +10245,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.2';
+        #rclone -P move 'Python 2.7.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.2';
     
         mkdir 'Python 2.6.7';
         cd 'Python 2.6.7';
@@ -10267,7 +10267,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.6.7' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.7';
+        #rclone -P move 'Python 2.6.7' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.7';
     
         mkdir 'Python 2.5.6';
         cd 'Python 2.5.6';
@@ -10289,7 +10289,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.5.6' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.6';
+        #rclone -P move 'Python 2.5.6' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.6';
     
         mkdir 'Python 3.2.0';
         cd 'Python 3.2.0';
@@ -10367,7 +10367,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.2.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.0';
+        #rclone -P move 'Python 3.2.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.2.0';
     
         mkdir 'Python 2.7.1';
         cd 'Python 2.7.1';
@@ -10429,7 +10429,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.1';
+        #rclone -P move 'Python 2.7.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.1';
     
         mkdir 'Python 3.1.3';
         cd 'Python 3.1.3';
@@ -10483,7 +10483,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.1.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.3';
+        #rclone -P move 'Python 3.1.3' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.3';
     
         mkdir 'Python 2.6.6';
         cd 'Python 2.6.6';
@@ -10537,7 +10537,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.6.6' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.6';
+        #rclone -P move 'Python 2.6.6' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.6';
     
         mkdir 'Python 2.7.0';
         cd 'Python 2.7.0';
@@ -10591,7 +10591,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.7.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.0';
+        #rclone -P move 'Python 2.7.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.7.0';
     
         mkdir 'Python 3.1.2';
         cd 'Python 3.1.2';
@@ -10637,7 +10637,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.1.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.2';
+        #rclone -P move 'Python 3.1.2' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.2';
     
         mkdir 'Python 2.6.5';
         cd 'Python 2.6.5';
@@ -10683,7 +10683,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.6.5' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.5';
+        #rclone -P move 'Python 2.6.5' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.5';
     
         mkdir 'Python 2.5.5';
         cd 'Python 2.5.5';
@@ -10705,7 +10705,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.5.5' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.5';
+        #rclone -P move 'Python 2.5.5' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.5';
     
         mkdir 'Python 2.6.4';
         cd 'Python 2.6.4';
@@ -10751,7 +10751,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.6.4' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.4';
+        #rclone -P move 'Python 2.6.4' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.4';
     
         mkdir 'Python 2.6.3';
         cd 'Python 2.6.3';
@@ -10797,7 +10797,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.6.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.3';
+        #rclone -P move 'Python 2.6.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.3';
     
         mkdir 'Python 3.1.1';
         cd 'Python 3.1.1';
@@ -10843,7 +10843,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.1.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.1';
+        #rclone -P move 'Python 3.1.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.1';
     
         mkdir 'Python 3.1.0';
         cd 'Python 3.1.0';
@@ -10889,7 +10889,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.1.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.0';
+        #rclone -P move 'Python 3.1.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.1.0';
     
         mkdir 'Python 2.6.2';
         cd 'Python 2.6.2';
@@ -10943,7 +10943,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.6.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.2';
+        #rclone -P move 'Python 2.6.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.2';
     
         mkdir 'Python 3.0.1';
         cd 'Python 3.0.1';
@@ -10989,7 +10989,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.0.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.0.1';
+        #rclone -P move 'Python 3.0.1' od:'Public/Softwares/Programming_and_IT/Python/Python 3.0.1';
     
         mkdir 'Python 2.5.4';
         cd 'Python 2.5.4';
@@ -11043,7 +11043,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.5.4' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.4';
+        #rclone -P move 'Python 2.5.4' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.4';
     
         mkdir 'Python 2.4.6';
         cd 'Python 2.4.6';
@@ -11065,7 +11065,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.4.6' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.6';
+        #rclone -P move 'Python 2.4.6' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.6';
     
         mkdir 'Python 2.5.3';
         cd 'Python 2.5.3';
@@ -11119,7 +11119,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.5.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.3';
+        #rclone -P move 'Python 2.5.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.3';
     
         mkdir 'Python 2.6.1';
         cd 'Python 2.6.1';
@@ -11165,7 +11165,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.6.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.1';
+        #rclone -P move 'Python 2.6.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.1';
     
         mkdir 'Python 3.0.0';
         cd 'Python 3.0.0';
@@ -11203,7 +11203,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 3.0.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.0.0';
+        #rclone -P move 'Python 3.0.0' od:'Public/Softwares/Programming_and_IT/Python/Python 3.0.0';
     
         mkdir 'Python 2.6.0';
         cd 'Python 2.6.0';
@@ -11249,7 +11249,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.6.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.0';
+        #rclone -P move 'Python 2.6.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.6.0';
     
         mkdir 'Python 2.3.7';
         cd 'Python 2.3.7';
@@ -11271,7 +11271,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.3.7' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.7';
+        #rclone -P move 'Python 2.3.7' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.7';
     
         mkdir 'Python 2.4.5';
         cd 'Python 2.4.5';
@@ -11293,7 +11293,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.4.5' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.5';
+        #rclone -P move 'Python 2.4.5' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.5';
     
         mkdir 'Python 2.5.2';
         cd 'Python 2.5.2';
@@ -11347,7 +11347,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.5.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.2';
+        #rclone -P move 'Python 2.5.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.2';
     
         mkdir 'Python 2.5.1';
         cd 'Python 2.5.1';
@@ -11401,7 +11401,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.5.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.1';
+        #rclone -P move 'Python 2.5.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.1';
     
         mkdir 'Python 2.3.6';
         cd 'Python 2.3.6';
@@ -11423,7 +11423,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.3.6' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.6';
+        #rclone -P move 'Python 2.3.6' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.6';
     
         mkdir 'Python 2.4.4';
         cd 'Python 2.4.4';
@@ -11469,7 +11469,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.4.4' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.4';
+        #rclone -P move 'Python 2.4.4' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.4';
     
         mkdir 'Python 2.5.0';
         cd 'Python 2.5.0';
@@ -11523,7 +11523,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.5.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.0';
+        #rclone -P move 'Python 2.5.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.5.0';
     
         mkdir 'Python 2.4.3';
         cd 'Python 2.4.3';
@@ -11561,7 +11561,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.4.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.3';
+        #rclone -P move 'Python 2.4.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.3';
     
         mkdir 'Python 2.4.2';
         cd 'Python 2.4.2';
@@ -11599,7 +11599,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.4.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.2';
+        #rclone -P move 'Python 2.4.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.2';
     
         mkdir 'Python 2.4.1';
         cd 'Python 2.4.1';
@@ -11629,7 +11629,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.4.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.1';
+        #rclone -P move 'Python 2.4.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.1';
     
         mkdir 'Python 2.3.5';
         cd 'Python 2.3.5';
@@ -11659,7 +11659,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.3.5' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.5';
+        #rclone -P move 'Python 2.3.5' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.5';
     
         mkdir 'Python 2.4.0';
         cd 'Python 2.4.0';
@@ -11689,7 +11689,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.4.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.0';
+        #rclone -P move 'Python 2.4.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.4.0';
     
         mkdir 'Python 2.3.4';
         cd 'Python 2.3.4';
@@ -11719,7 +11719,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.3.4' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.4';
+        #rclone -P move 'Python 2.3.4' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.4';
     
         mkdir 'Python 2.3.3';
         cd 'Python 2.3.3';
@@ -11749,7 +11749,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.3.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.3';
+        #rclone -P move 'Python 2.3.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.3';
     
         mkdir 'Python 2.3.2';
         cd 'Python 2.3.2';
@@ -11779,7 +11779,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.3.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.2';
+        #rclone -P move 'Python 2.3.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.2';
     
         mkdir 'Python 2.3.1';
         cd 'Python 2.3.1';
@@ -11801,7 +11801,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.3.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.1';
+        #rclone -P move 'Python 2.3.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.1';
     
         mkdir 'Python 2.3.0';
         cd 'Python 2.3.0';
@@ -11823,7 +11823,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.3.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.0';
+        #rclone -P move 'Python 2.3.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.3.0';
     
         mkdir 'Python 2.2.3';
         cd 'Python 2.2.3';
@@ -11845,7 +11845,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.2.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.2.3';
+        #rclone -P move 'Python 2.2.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.2.3';
     
         mkdir 'Python 2.2.2';
         cd 'Python 2.2.2';
@@ -11867,7 +11867,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.2.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.2.2';
+        #rclone -P move 'Python 2.2.2' od:'Public/Softwares/Programming_and_IT/Python/Python 2.2.2';
     
         mkdir 'Python 2.2.1';
         cd 'Python 2.2.1';
@@ -11889,7 +11889,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.2.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.2.1';
+        #rclone -P move 'Python 2.2.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.2.1';
     
         mkdir 'Python 2.1.3';
         cd 'Python 2.1.3';
@@ -11911,7 +11911,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.1.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.1.3';
+        #rclone -P move 'Python 2.1.3' od:'Public/Softwares/Programming_and_IT/Python/Python 2.1.3';
     
         mkdir 'Python 2.2.0';
         cd 'Python 2.2.0';
@@ -11933,7 +11933,7 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.2.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.2.0';
+        #rclone -P move 'Python 2.2.0' od:'Public/Softwares/Programming_and_IT/Python/Python 2.2.0';
     
         mkdir 'Python 2.0.1';
         cd 'Python 2.0.1';
@@ -11963,5 +11963,5 @@
             cd ..;
         
         cd ..;
-        rclone -P move 'Python 2.0.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.0.1';
+        #rclone -P move 'Python 2.0.1' od:'Public/Softwares/Programming_and_IT/Python/Python 2.0.1';
     
