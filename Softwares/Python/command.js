@@ -20,7 +20,7 @@ data.forEach(x=>{
     })
     cmd += `
         cd ..;
-        rclone move '${x.title}' od:'Public/Softwares/Programming_and_IT/Python/${x.titlle}';
+        rclone -P move '${x.title}' od:'Public/Softwares/Programming_and_IT/Python/${x.title}';
     `;
 });
 fs.writeFileSync("cmd.sh",cmd)
