@@ -11,16 +11,15 @@ data.forEach(x=>{
         cmd += `
             mkdir '${y.title}';
             cd '${y.title}';
-            wget '${y.downloadLink}';
-            wget '${y.sigLink}';
-            wget '${y.sigstoreLink}';
-            wget '${y.spdxLink}';
+            ${y.downloadLink ? "wget -nc '" + y.downloadLink + "';" : ""}
+            ${y.sigLink ? "wget -nc '" + y.sigLink + "';" : ""}
+            ${y.sigstoreLink ? "wget -nc '" + y.sigstoreLink + "';" : ""}
+            ${y.spdxLink ? "wget -nc '" + y.spdxLink + "';" : ""}
             cd ..;
         `;
     })
     cmd += `
         cd ..;
-        rclone -P move '${x.title}' od:'Public/Softwares/Programming_and_IT/Python/${x.title}';
     `;
 });
 fs.writeFileSync("cmd.sh",cmd)
