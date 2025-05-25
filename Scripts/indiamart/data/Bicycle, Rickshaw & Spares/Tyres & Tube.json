@@ -1,0 +1,505 @@
+[
+  {
+    "category_name": "Two Wheeler Tyres",
+    "category_thumbnail": "http://5.imimg.com/data5/DX/TO/JJ/GLADMIN-68087/two-wheeler-tyres-125x125.jpg",
+    "items": [
+      {
+        "name": "Bike Tyres",
+        "page": "https://dir.indiamart.com/impcat/tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/RX/GW/MY-2/tyres-125x125.jpg"
+      },
+      {
+        "name": "Motorcycle Tyres",
+        "page": "https://dir.indiamart.com/impcat/motorcycle-tires.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/TS/GLADMIN-33597/motorcycle-tires-125x125.jpg"
+      },
+      {
+        "name": "Bicycle Tyres",
+        "page": "https://dir.indiamart.com/impcat/bicycle-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/LE/GLADMIN-64/bicycle-tyres-125x125.jpg"
+      },
+      {
+        "name": "Two Wheeler Tubeless Tyre",
+        "page": "https://dir.indiamart.com/impcat/tubeless-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/CL/GLADMIN-40376/tubeless-tire-125x125.jpg"
+      },
+      {
+        "name": "Scooter Tyres",
+        "page": "https://dir.indiamart.com/impcat/scooter-tires.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/GS/GLADMIN-56200/scooter-tires-125x125.jpg"
+      },
+      {
+        "name": "Track Tyres",
+        "page": "https://dir.indiamart.com/impcat/track-tyres.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320467915/IS/NX/EW/96317/track-tyres-125x125.jpg"
+      },
+      {
+        "name": "Bike Radial Tyres",
+        "page": "https://dir.indiamart.com/impcat/bike-radial-tyres.html",
+        "thumbnail": "http://5.imimg.com/data5/XH/FV/XM/GLADMIN-68087/bike-radial-tyres-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tractor Tyres",
+    "category_thumbnail": "http://3.imimg.com/data3/UP/WI/GLADMIN-40011/tractor-tires-125x125.jpg",
+    "items": [
+      {
+        "name": "Tractor Rear Tyre",
+        "page": "https://dir.indiamart.com/impcat/rear-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/GY/GLADMIN-8051/rear-tyres-125x125.jpg"
+      },
+      {
+        "name": "Agricultural Tyre",
+        "page": "https://dir.indiamart.com/impcat/agricultural-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/MP/GLADMIN-21353/agricultural-tire-125x125.jpg"
+      },
+      {
+        "name": "Used Tractor Tyres",
+        "page": "https://dir.indiamart.com/impcat/used-tractor-tires.html",
+        "thumbnail": "http://5.imimg.com/data5/XP/RT/NI/GLADMIN-65832/used-tractor-tires-125x125.jpg"
+      },
+      {
+        "name": "Retread Tractor Tyres",
+        "page": "https://dir.indiamart.com/impcat/retread-tractor-tires.html",
+        "thumbnail": "http://5.imimg.com/data5/CI/CK/IX/GLADMIN-65832/retread-tractor-tires-125x125.jpg"
+      },
+      {
+        "name": "Agriculture Implement Tyres",
+        "page": "https://dir.indiamart.com/impcat/agriculture-implement-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/WE/LO/GLADMIN-144653/agriculture-implement-tyres-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Motorcycle Tyres",
+    "category_thumbnail": "http://3.imimg.com/data3/JH/TS/GLADMIN-33597/motorcycle-tires-125x125.jpg",
+    "items": [
+      {
+        "name": "Bike Tyres",
+        "page": "https://dir.indiamart.com/impcat/tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/RX/GW/MY-2/tyres-125x125.jpg"
+      },
+      {
+        "name": "Bike Radial Tyres",
+        "page": "https://dir.indiamart.com/impcat/bike-radial-tyres.html",
+        "thumbnail": "http://5.imimg.com/data5/XH/FV/XM/GLADMIN-68087/bike-radial-tyres-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Car Tyres",
+    "category_thumbnail": "http://3.imimg.com/data3/ED/RT/GLADMIN-24151/car-tyres-125x125.jpg",
+    "items": [
+      {
+        "name": "Used Car Tyres",
+        "page": "https://dir.indiamart.com/impcat/used-car-tyres.html",
+        "thumbnail": "http://5.imimg.com/data5/RN/XK/LE/GLADMIN-65832/used-car-tyres-125x125.jpg"
+      },
+      {
+        "name": "Tubeless Car Tyre",
+        "page": "https://dir.indiamart.com/impcat/tubeless-car-tyre.html",
+        "thumbnail": "http://4.imimg.com/data4/AX/JE/GLADMIN-185298/tubeless-car-tyre-125x125.jpg"
+      },
+      {
+        "name": "Jeep Tyre",
+        "page": "https://dir.indiamart.com/impcat/jeep-tyre.html",
+        "thumbnail": "http://4.imimg.com/data4/AC/XB/GLADMIN-2/jeep-tyre-125x125.jpg"
+      },
+      {
+        "name": "Nylon Car Tyre",
+        "page": "https://dir.indiamart.com/impcat/nylon-car-tyre.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/313038612/RD/WF/KD/97095/nylon-car-tyre-125x125.jpg"
+      },
+      {
+        "name": "Sports Car Tyre",
+        "page": "https://dir.indiamart.com/impcat/sport-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/YM/GLADMIN-74945/sport-tire-125x125.jpg"
+      },
+      {
+        "name": "Car Radial Tyre",
+        "page": "https://dir.indiamart.com/impcat/car-radial-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/PA/GLADMIN-161105/car-radial-tyre-125x125.jpg"
+      },
+      {
+        "name": "SUV Tyres",
+        "page": "https://dir.indiamart.com/impcat/suv-tyres.html",
+        "thumbnail": "http://4.imimg.com/data4/KO/MT/GLADMIN-182149/suv-tyres-125x125.jpg"
+      },
+      {
+        "name": "Retread Car Tires",
+        "page": "https://dir.indiamart.com/impcat/retread-car-tires.html",
+        "thumbnail": "http://5.imimg.com/data5/JW/SA/YI/GLADMIN-65832/retread-car-tires-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tyre Tube",
+    "category_thumbnail": "http://3.imimg.com/data3/PB/JC/GLADMIN-74949/tire-tube-125x125.jpg",
+    "items": [
+      {
+        "name": "Butyl Tubes",
+        "page": "https://dir.indiamart.com/impcat/butyl-tubes.html",
+        "thumbnail": "http://3.imimg.com/data3/KS/PA/GLADMIN-139766/butyl-tubes-125x125.jpg"
+      },
+      {
+        "name": "Motorcycle Tubes",
+        "page": "https://dir.indiamart.com/impcat/motorcycle-tubes.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/CM/GLADMIN-69553/motorcycle-tubes-125x125.jpg"
+      },
+      {
+        "name": "Bicycle Tubes",
+        "page": "https://dir.indiamart.com/impcat/bicycle-tubes.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/WX/GLADMIN-4399/bicycle-tubes-125x125.jpg"
+      },
+      {
+        "name": "Scooter Tube",
+        "page": "https://dir.indiamart.com/impcat/automotive-tubes.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/MA/GLADMIN-22261/automotive-tubes-125x125.jpg"
+      },
+      {
+        "name": "Car Tyre Tube",
+        "page": "https://dir.indiamart.com/impcat/car-tire-tube.html",
+        "thumbnail": "http://4.imimg.com/data4/OP/VN/GLADMIN-2/car-tire-tube-125x125.jpg"
+      },
+      {
+        "name": "Truck Tyre Tube",
+        "page": "https://dir.indiamart.com/impcat/truck-tyre-tube.html",
+        "thumbnail": "http://3.imimg.com/data3/MO/LM/GLADMIN-152202/truck-tyre-tube-125x125.jpg"
+      },
+      {
+        "name": "Tractor Tubes",
+        "page": "https://dir.indiamart.com/impcat/tractor-tubes.html",
+        "thumbnail": "http://3.imimg.com/data3/KH/MW/GLADMIN-40013/tractor-tubes-125x125.jpg"
+      },
+      {
+        "name": "E Rickshaw Tyre Tube",
+        "page": "https://dir.indiamart.com/impcat/e-rickshaw-tyre-tube.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319847111/BS/KW/GN/97095/e-rickshaw-tyre-tube-125x125.jpeg"
+      }
+    ]
+  },
+  {
+    "category_name": "Second Hand Tyre",
+    "category_thumbnail": "http://3.imimg.com/data3/NL/DE/GLADMIN-147144/used-tyre-125x125.jpg",
+    "items": [
+      {
+        "name": "Used Car Tyres",
+        "page": "https://dir.indiamart.com/impcat/used-car-tyres.html",
+        "thumbnail": "http://5.imimg.com/data5/RN/XK/LE/GLADMIN-65832/used-car-tyres-125x125.jpg"
+      },
+      {
+        "name": "Used Truck Tyres",
+        "page": "https://dir.indiamart.com/impcat/used-truck-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/PB/XH/GLADMIN-155616/used-truck-tyres-125x125.jpg"
+      },
+      {
+        "name": "Used Motorcycle Tyres",
+        "page": "https://dir.indiamart.com/impcat/used-motorcycle-tires.html",
+        "thumbnail": "http://5.imimg.com/data5/DM/KG/VE/GLADMIN-65832/used-motorcycle-tires-125x125.jpg"
+      },
+      {
+        "name": "Remoulded Truck Tyres",
+        "page": "https://dir.indiamart.com/impcat/remoulded-tyres.html",
+        "thumbnail": "http://5.imimg.com/data5/GF/TM/NC/GLADMIN-65832/remoulded-tyres-125x125.png"
+      },
+      {
+        "name": "Used Tractor Tyres",
+        "page": "https://dir.indiamart.com/impcat/used-tractor-tires.html",
+        "thumbnail": "http://5.imimg.com/data5/XP/RT/NI/GLADMIN-65832/used-tractor-tires-125x125.jpg"
+      },
+      {
+        "name": "Used Bus Tyres",
+        "page": "https://dir.indiamart.com/impcat/used-bus-tyres.html",
+        "thumbnail": "http://4.imimg.com/data4/QP/HT/GLADMIN-2/used-bus-tyres-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Truck Tyres",
+    "category_thumbnail": "http://3.imimg.com/data3/YG/NQ/MY-2/truck-tyre-125x125.jpg",
+    "items": [
+      {
+        "name": "Truck Radial Tyres",
+        "page": "https://dir.indiamart.com/impcat/truck-radial-tyres.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/GA/IS/XX/81953/truck-radial-tyres-125x125.jpg"
+      },
+      {
+        "name": "Heavy Duty Truck Tyre",
+        "page": "https://dir.indiamart.com/impcat/heavy-duty-truck-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/BB/GLADMIN-74931/heavy-duty-truck-tire-125x125.jpg"
+      },
+      {
+        "name": "Nylon Truck Tyre",
+        "page": "https://dir.indiamart.com/impcat/nylon-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/EO/GLADMIN-133882/nylon-tyre-125x125.jpg"
+      },
+      {
+        "name": "Retread Truck Tyre",
+        "page": "https://dir.indiamart.com/impcat/retread-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/NK/GLADMIN-74939/retread-tire-125x125.jpg"
+      },
+      {
+        "name": "Trailer Tyre",
+        "page": "https://dir.indiamart.com/impcat/trailer-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/TS/GLADMIN-74953/trailer-tire-125x125.jpg"
+      },
+      {
+        "name": "Light Truck Tyre",
+        "page": "https://dir.indiamart.com/impcat/light-truck-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/XT/GLADMIN-11580/light-truck-tyre-125x125.jpg"
+      },
+      {
+        "name": "Bus Tyres",
+        "page": "https://dir.indiamart.com/impcat/bus-tires.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/WR/GLADMIN-23913/bus-tires-125x125.jpg"
+      },
+      {
+        "name": "Commercial Truck Tyre",
+        "page": "https://dir.indiamart.com/impcat/commercial-truck-tyre.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/394751524/LV/TW/PM/105497/commercial-truck-tyre-125x125.png"
+      },
+      {
+        "name": "Bias Light Truck Tyre",
+        "page": "https://dir.indiamart.com/impcat/bias-light-truck-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/YA/NU/GLADMIN-100633/bias-light-truck-tire-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Commercial Vehicle Tyres",
+    "category_thumbnail": "http://3.imimg.com/data3/GI/WJ/GLADMIN-42950/industrial-tyres-125x125.jpg",
+    "items": [
+      {
+        "name": "Three Wheeler Tyres",
+        "page": "https://dir.indiamart.com/impcat/three-wheeler-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/YJ/GLADMIN-144655/three-wheeler-tyres-125x125.jpg"
+      },
+      {
+        "name": "E Rickshaw Tyre",
+        "page": "https://dir.indiamart.com/impcat/e-rickshaw-tyre.html",
+        "thumbnail": "http://4.imimg.com/data4/MT/OY/GLADMIN-184064/e-rickshaw-tyre-125x125.jpg"
+      },
+      {
+        "name": "ATV Tyres",
+        "page": "https://dir.indiamart.com/impcat/atv-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/RH/GLADMIN-50513/atv-tyres-125x125.jpg"
+      },
+      {
+        "name": "Go Kart Tyre",
+        "page": "https://dir.indiamart.com/impcat/go-kart-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/HX/PO/GLADMIN-74929/go-kart-tire-125x125.jpg"
+      },
+      {
+        "name": "Golf Cart Tyre and Rim",
+        "page": "https://dir.indiamart.com/impcat/golf-cart-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/KS/GLADMIN-158190/golf-cart-tyre-125x125.jpg"
+      },
+      {
+        "name": "Van Tyre",
+        "page": "https://dir.indiamart.com/impcat/van-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/XU/GLADMIN-74956/van-tyre-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tyre Scrap",
+    "category_thumbnail": "http://3.imimg.com/data3/GF/BL/GLADMIN-107251/tyre-scrap-125x125.jpg",
+    "items": [
+      {
+        "name": "Waste Tyre",
+        "page": "https://dir.indiamart.com/impcat/waste-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/TI/GLADMIN-126277/waste-tire-125x125.jpg"
+      },
+      {
+        "name": "Nylon Tyre Scrap",
+        "page": "https://dir.indiamart.com/impcat/nylon-tyre-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/KY/GLADMIN-149704/nylon-tyre-scrap-125x125.jpg"
+      },
+      {
+        "name": "Radial Tyre Scrap",
+        "page": "https://dir.indiamart.com/impcat/radial-tyre-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/NW/GLADMIN-156520/radial-tyre-scrap-125x125.jpg"
+      },
+      {
+        "name": "Shredded Tyres",
+        "page": "https://dir.indiamart.com/impcat/shredded-tires.html",
+        "thumbnail": "http://3.imimg.com/data3/XR/VM/GLADMIN-69557/shredded-tires-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Radial Tyre",
+    "category_thumbnail": "http://3.imimg.com/data3/FC/UN/GLADMIN-8942/radial-tyre-125x125.jpg",
+    "items": [
+      {
+        "name": "Truck Radial Tyres",
+        "page": "https://dir.indiamart.com/impcat/truck-radial-tyres.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/GA/IS/XX/81953/truck-radial-tyres-125x125.jpg"
+      },
+      {
+        "name": "OTR Radial Tyre",
+        "page": "https://dir.indiamart.com/impcat/otr-radial-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/VC/GLADMIN-132929/otr-radial-tyre-125x125.jpg"
+      },
+      {
+        "name": "Car Radial Tyre",
+        "page": "https://dir.indiamart.com/impcat/car-radial-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/PA/GLADMIN-161105/car-radial-tyre-125x125.jpg"
+      },
+      {
+        "name": "Bus Radial Tyre",
+        "page": "https://dir.indiamart.com/impcat/bus-radial-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/XW/GLADMIN-74919/bus-radial-tire-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Solid Tyres",
+    "category_thumbnail": "http://3.imimg.com/data3/GJ/YN/GLADMIN-37376/solid-tires-125x125.jpg",
+    "items": [
+      {
+        "name": "Rubber Tyres",
+        "page": "https://dir.indiamart.com/impcat/rubber-tires.html",
+        "thumbnail": "http://3.imimg.com/data3/WI/QK/GLADMIN-36055/rubber-tires-125x125.jpg"
+      },
+      {
+        "name": "Solid Rubber Tyre",
+        "page": "https://dir.indiamart.com/impcat/solid-rubber-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/AX/KT/GLADMIN-74942/solid-rubber-tire-125x125.jpg"
+      },
+      {
+        "name": "Forklift Tyres",
+        "page": "https://dir.indiamart.com/impcat/fork-lift-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/EO/GLADMIN-43355/fork-lift-tyres-125x125.jpg"
+      },
+      {
+        "name": "Pneumatic Tyre",
+        "page": "https://dir.indiamart.com/impcat/pneumatic-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/RV/GLADMIN-69555/pneumatic-tire-125x125.jpg"
+      },
+      {
+        "name": "Solid Cushion Tyres",
+        "page": "https://dir.indiamart.com/impcat/solid-cushion-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/KM/VH/GLADMIN-7648/solid-cushion-tyres-125x125.jpg"
+      },
+      {
+        "name": "Winter Tyre",
+        "page": "https://dir.indiamart.com/impcat/winter-tyre.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/321812156/FU/JV/KT/64193/winter-tyre-125x125.png"
+      },
+      {
+        "name": "Press On Band Tyres",
+        "page": "https://dir.indiamart.com/impcat/press-on-band-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/DJ/GLADMIN-177196/press-on-band-tyres-125x125.jpg"
+      },
+      {
+        "name": "Performance Tyre",
+        "page": "https://dir.indiamart.com/impcat/performance-tyre.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/321811658/FM/SY/XT/64193/performance-tyre-125x125.png"
+      },
+      {
+        "name": "All Season Tyre",
+        "page": "https://dir.indiamart.com/impcat/all-season-tyre.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/321812915/XP/VZ/VF/64193/all-season-tyre-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Off Road Tyres",
+    "category_thumbnail": "http://3.imimg.com/data3/UT/IS/GLADMIN-32977/off-road-tires-125x125.jpg",
+    "items": [
+      {
+        "name": "Loader Tyre",
+        "page": "https://dir.indiamart.com/impcat/loader-tire.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/WP/XH/OZ/81953/loader-tyre-125x125.jpg"
+      },
+      {
+        "name": "Heavy Duty Tyre",
+        "page": "https://dir.indiamart.com/impcat/heavy-duty-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/HR/QS/GLADMIN-74930/heavy-duty-tire-125x125.jpg"
+      },
+      {
+        "name": "Crane Tyre",
+        "page": "https://dir.indiamart.com/impcat/crane-tire.html",
+        "thumbnail": "http://5.imimg.com/data5/MX/QO/GLADMIN-2/crane-tire-125x125.jpg"
+      },
+      {
+        "name": "OTR Radial Tyre",
+        "page": "https://dir.indiamart.com/impcat/otr-radial-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/VC/GLADMIN-132929/otr-radial-tyre-125x125.jpg"
+      },
+      {
+        "name": "Skid Steer Tyre",
+        "page": "https://dir.indiamart.com/impcat/skid-steer-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/SB/NG/GLADMIN-74941/skid-steer-tire-125x125.jpg"
+      },
+      {
+        "name": "Earthmover Tyre",
+        "page": "https://dir.indiamart.com/impcat/earthmover-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/CK/GLADMIN-74925/earthmover-tire-125x125.jpg"
+      },
+      {
+        "name": "Dumper Tyre",
+        "page": "https://dir.indiamart.com/impcat/dumper-tyre.html",
+        "thumbnail": "http://4.imimg.com/data4/KE/VI/GLADMIN-2/dumper-tyre-125x125.jpg"
+      },
+      {
+        "name": "Grader Tyre",
+        "page": "https://dir.indiamart.com/impcat/grader-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/HJ/GLADMIN-144654/grader-tire-125x125.jpg"
+      },
+      {
+        "name": "Flotation Implement Tyre",
+        "page": "https://dir.indiamart.com/impcat/flotation-implement-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/YJ/VO/GLADMIN-164855/flotation-implement-tyre-125x125.jpg"
+      },
+      {
+        "name": "OTR Bias Tyre",
+        "page": "https://dir.indiamart.com/impcat/otr-bias-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/MG/LU/GLADMIN-132928/otr-bias-tyre-125x125.jpg"
+      },
+      {
+        "name": "Excavator Tyre",
+        "page": "https://dir.indiamart.com/impcat/excavator-tyre.html",
+        "thumbnail": "http://3.imimg.com/data3/OK/NQ/GLADMIN-164854/excavator-tyre-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Bicycle Tyres",
+        "page": "https://dir.indiamart.com/impcat/bicycle-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/LE/GLADMIN-64/bicycle-tyres-125x125.jpg"
+      },
+      {
+        "name": "Three Wheeler Tyres",
+        "page": "https://dir.indiamart.com/impcat/three-wheeler-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/YJ/GLADMIN-144655/three-wheeler-tyres-125x125.jpg"
+      },
+      {
+        "name": "Two Wheeler Tubeless Tyre",
+        "page": "https://dir.indiamart.com/impcat/tubeless-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/CL/GLADMIN-40376/tubeless-tire-125x125.jpg"
+      },
+      {
+        "name": "Scooter Tyres",
+        "page": "https://dir.indiamart.com/impcat/scooter-tires.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/GS/GLADMIN-56200/scooter-tires-125x125.jpg"
+      },
+      {
+        "name": "SUV Tyres",
+        "page": "https://dir.indiamart.com/impcat/suv-tyres.html",
+        "thumbnail": "http://4.imimg.com/data4/KO/MT/GLADMIN-182149/suv-tyres-125x125.jpg"
+      },
+      {
+        "name": "Bus Tyres",
+        "page": "https://dir.indiamart.com/impcat/bus-tires.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/WR/GLADMIN-23913/bus-tires-125x125.jpg"
+      }
+    ]
+  }
+]

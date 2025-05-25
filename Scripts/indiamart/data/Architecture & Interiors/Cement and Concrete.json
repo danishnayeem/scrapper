@@ -1,0 +1,610 @@
+[
+  {
+    "category_name": "Cement",
+    "category_thumbnail": "http://3.imimg.com/data3/FU/FY/GLADMIN-119126/cement-125x125.jpg",
+    "items": [
+      {
+        "name": "OPC Cement",
+        "page": "https://dir.indiamart.com/impcat/opc-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/SG/GLADMIN-86352/opc-cement-125x125.jpg"
+      },
+      {
+        "name": "PPC Cement",
+        "page": "https://dir.indiamart.com/impcat/ppc-cement.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/QI/PF/DH/92368/ppc-cement-125x125.jpg"
+      },
+      {
+        "name": "White Cement",
+        "page": "https://dir.indiamart.com/impcat/white-cement.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GW/TE/ZK/92368/white-cement-125x125.jpg"
+      },
+      {
+        "name": "Portland Cement",
+        "page": "https://dir.indiamart.com/impcat/portland-cement.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/KC/LW/UO/92368/portland-cement-125x125.jpg"
+      },
+      {
+        "name": "PSC Cement",
+        "page": "https://dir.indiamart.com/impcat/psc-cement.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/BS/ED/KL/92368/psc-cement-125x125.jpg"
+      },
+      {
+        "name": "Concrete Cement",
+        "page": "https://dir.indiamart.com/impcat/concrete-cement.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/KE/GW/TW/92368/concrete-cement-125x125.jpg"
+      },
+      {
+        "name": "Water Proof Cement",
+        "page": "https://dir.indiamart.com/impcat/water-proof-cement.html",
+        "thumbnail": "http://4.imimg.com/data4/UE/NJ/GLADMIN-185407/water-proof-cement-125x125.jpg"
+      },
+      {
+        "name": "Pozzolana Cement",
+        "page": "https://dir.indiamart.com/impcat/pozzolana-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/PW/GLADMIN-35554/pozzolana-cement-125x125.jpg"
+      },
+      {
+        "name": "Slag Cement",
+        "page": "https://dir.indiamart.com/impcat/slag-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/KD/BQ/GLADMIN-37209/slag-cement-125x125.jpg"
+      },
+      {
+        "name": "Sulphate Resistant Cement",
+        "page": "https://dir.indiamart.com/impcat/sulphate-resistant-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/DE/OO/GLADMIN-161737/sulphate-resistant-cement-125x125.jpg"
+      },
+      {
+        "name": "Gray Portland Cement",
+        "page": "https://dir.indiamart.com/impcat/gray-portland-cement.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/375882479/XB/GY/QU/95396/gray-portland-cement-125x125.jpeg"
+      },
+      {
+        "name": "Low Heat Cement",
+        "page": "https://dir.indiamart.com/impcat/low-heat-cement.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/329816226/CL/DR/FK/64193/low-heat-cement-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Plaster",
+    "category_thumbnail": "http://3.imimg.com/data3/UH/DT/GLADMIN-121112/composite-plaster-125x125.jpg",
+    "items": [
+      {
+        "name": "Gypsum Plaster",
+        "page": "https://dir.indiamart.com/impcat/gypsum-plaster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EI/PE/VE/92368/gypsum-plaster-125x125.jpg"
+      },
+      {
+        "name": "Plaster Of Paris",
+        "page": "https://dir.indiamart.com/impcat/plaster-of-paris.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ZT/AR/VT/92368/plaster-of-paris-125x125.jpg"
+      },
+      {
+        "name": "Ready Mix Plaster",
+        "page": "https://dir.indiamart.com/impcat/ready-mix-plaster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SK/OL/GZ/81953/ready-mix-plaster-125x125.jpg"
+      },
+      {
+        "name": "Gypsum Stucco Plaster",
+        "page": "https://dir.indiamart.com/impcat/gypsum-stucco-plaster.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/WW/GLADMIN-131584/gypsum-stucco-plaster-125x125.jpg"
+      },
+      {
+        "name": "Silk Plaster",
+        "page": "https://dir.indiamart.com/impcat/silk-plaster.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/AD/GLADMIN-177993/silk-plaster-125x125.jpg"
+      },
+      {
+        "name": "Stone Crete Plaster",
+        "page": "https://dir.indiamart.com/impcat/stone-crete-plaster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/ZN/UL/SZ/81953/stone-crete-plaster-125x125.jpg"
+      },
+      {
+        "name": "Venetian Plaster",
+        "page": "https://dir.indiamart.com/impcat/gypsum-machine-plaster.html",
+        "thumbnail": "http://3.imimg.com/data3/DI/RM/GLADMIN-131582/venetian-plaster-125x125.jpg"
+      },
+      {
+        "name": "Gypsum Perlite Plaster",
+        "page": "https://dir.indiamart.com/impcat/gypsum-perlite-plaster.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/AE/GLADMIN-131583/gypsum-perlite-plaster-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Concrete Admixture",
+    "category_thumbnail": "http://3.imimg.com/data3/SG/CX/GLADMIN-25675/concrete-admixture-125x125.jpg",
+    "items": [
+      {
+        "name": "Fly Ash",
+        "page": "https://dir.indiamart.com/impcat/fly-ash.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RB/AM/PT/92368/fly-ash-125x125.jpg"
+      },
+      {
+        "name": "Superplasticizer Admixture",
+        "page": "https://dir.indiamart.com/impcat/superplasticizer-admixture.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/NE/GLADMIN-154962/superplasticizer-admixture-125x125.jpg"
+      },
+      {
+        "name": "Concrete Additives",
+        "page": "https://dir.indiamart.com/impcat/concrete-additives.html",
+        "thumbnail": "http://3.imimg.com/data3/IV/WW/GLADMIN-25674/concrete-additives-125x125.jpg"
+      },
+      {
+        "name": "Concrete Waterproofing Admixture",
+        "page": "https://dir.indiamart.com/impcat/concrete-waterproofing-admixture.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/EC/GLADMIN-154905/concrete-waterproofing-admixture-125x125.jpg"
+      },
+      {
+        "name": "Cement Admixture",
+        "page": "https://dir.indiamart.com/impcat/cement-admixture.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/MG/GLADMIN-164109/cement-admixture-125x125.jpg"
+      },
+      {
+        "name": "Oxide Cement Colour",
+        "page": "https://dir.indiamart.com/impcat/oxide-cement-colour.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/IK/GLADMIN-157822/oxide-cement-colour-125x125.jpg"
+      },
+      {
+        "name": "Non Shrink Grout Admixture",
+        "page": "https://dir.indiamart.com/impcat/non-shrink-grout-admixture.html",
+        "thumbnail": "http://3.imimg.com/data3/VC/FX/GLADMIN-154054/non-shrink-grout-admixture-125x125.jpg"
+      },
+      {
+        "name": "Non Metallic Floor Hardener",
+        "page": "https://dir.indiamart.com/impcat/non-metallic-floor-hardener.html",
+        "thumbnail": "http://3.imimg.com/data3/PS/UO/GLADMIN-132768/non-metallic-floor-hardener-125x125.jpg"
+      },
+      {
+        "name": "Mortar Admixture",
+        "page": "https://dir.indiamart.com/impcat/mortar-admixture.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/VW/GLADMIN-132807/mortar-admixture-125x125.jpg"
+      },
+      {
+        "name": "Concrete Densifier",
+        "page": "https://dir.indiamart.com/impcat/concrete-densifier.html",
+        "thumbnail": "http://5.imimg.com/data5/EJ/CW/GLADMIN-2/concrete-densifier-500x500-125x125.jpg"
+      },
+      {
+        "name": "Cement Additives",
+        "page": "https://dir.indiamart.com/impcat/cement-additives.html",
+        "thumbnail": "http://3.imimg.com/data3/PD/IV/GLADMIN-24628/cement-additives-125x125.jpg"
+      },
+      {
+        "name": "Cement Adhesive",
+        "page": "https://dir.indiamart.com/impcat/cement-adhesives.html",
+        "thumbnail": "http://5.imimg.com/data5/DE/DN/GLADMIN-2/cement-adh-125x125.jpg"
+      },
+      {
+        "name": "Mortar Plasticizer",
+        "page": "https://dir.indiamart.com/impcat/mortar-plasticizer.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/FC/GLADMIN-164297/mortar-plasticizer-125x125.jpg"
+      },
+      {
+        "name": "Sunanda Polyalk EP",
+        "page": "https://dir.indiamart.com/impcat/sunanda-polyalk-ep.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/UI/BO/KB/86685/sunanda-polyalk-ep-125x125.jpg"
+      },
+      {
+        "name": "Water Reducing Agent",
+        "page": "https://dir.indiamart.com/impcat/water-reducing-agent.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/NA/GLADMIN-159711/water-reducing-agent-125x125.jpg"
+      },
+      {
+        "name": "Air Entraining Agent",
+        "page": "https://dir.indiamart.com/impcat/air-entraining-agent.html",
+        "thumbnail": "http://3.imimg.com/data3/EY/IF/GLADMIN-/images-cs_air_big-125x125.jpg"
+      },
+      {
+        "name": "Shotcrete Accelerator",
+        "page": "https://dir.indiamart.com/impcat/shotcrete-accelerator.html",
+        "thumbnail": "http://3.imimg.com/data3/VO/HC/GLADMIN-/product-3-1-1-1b-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cement Grout & Grouting compounds",
+    "category_thumbnail": "http://3.imimg.com/data3/AI/MI/GLADMIN-24631/cement-grout-125x125.jpg",
+    "items": [
+      {
+        "name": "Epoxy Grout",
+        "page": "https://dir.indiamart.com/impcat/epoxy-grout.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/IR/PV/NH/92368/epoxy-grout-125x125.png"
+      },
+      {
+        "name": "Grouting Compound",
+        "page": "https://dir.indiamart.com/impcat/grouting-compound.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/QC/GLADMIN-55906/grouting-compound-125x125.jpg"
+      },
+      {
+        "name": "Cement Grout",
+        "page": "https://dir.indiamart.com/impcat/cement-compound.html",
+        "thumbnail": "http://3.imimg.com/data3/TS/FR/GLADMIN-161335/cement-compound-125x125.jpg"
+      },
+      {
+        "name": "Powdered Tile Grout",
+        "page": "https://dir.indiamart.com/impcat/powdered-tile-grout.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/PC/GLADMIN-164145/powdered-tile-grout-125x125.jpg"
+      },
+      {
+        "name": "PU Injection Grout",
+        "page": "https://dir.indiamart.com/impcat/pu-injection-grout-chemical.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/MH/QK/LA/86685/pu-injection-grout-chemical-125x125.jpg"
+      },
+      {
+        "name": "Concrete Sealer",
+        "page": "https://dir.indiamart.com/impcat/concrete-sealers.html",
+        "thumbnail": "http://3.imimg.com/data3/UF/OO/GLADMIN-25701/concrete-sealers-125x125.jpg"
+      },
+      {
+        "name": "Polymer Grout",
+        "page": "https://dir.indiamart.com/impcat/polymer-grout.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/ET/GLADMIN-133900/polymer-grout-125x125.jpg"
+      },
+      {
+        "name": "Concrete Patching Compound",
+        "page": "https://dir.indiamart.com/impcat/concrete-patching-compounds.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/YO/GLADMIN-151629/concrete-patching-compounds-125x125.jpg"
+      },
+      {
+        "name": "Cement Capsule",
+        "page": "https://dir.indiamart.com/impcat/cement-capsule.html",
+        "thumbnail": "http://3.imimg.com/data3/DO/SI/GLADMIN-139543/cement-capsule-125x125.jpg"
+      },
+      {
+        "name": "Bitucure Mastic Compound",
+        "page": "https://dir.indiamart.com/impcat/bitucure-mastic-compound.html",
+        "thumbnail": "http://3.imimg.com/data3/KV/NS/GLADMIN-131577/bitucure-mastic-compound-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Concrete",
+    "category_thumbnail": "http://3.imimg.com/data3/AK/LU/GLADMIN-122160/concrete-125x125.jpg",
+    "items": [
+      {
+        "name": "Ready Mixed Concrete",
+        "page": "https://dir.indiamart.com/impcat/ready-mixed-concrete.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/KZ/CQ/QE/92368/ready-mixed-concrete-125x125.jpg"
+      },
+      {
+        "name": "Concrete Mix",
+        "page": "https://dir.indiamart.com/impcat/concrete-mix.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/PO/GLADMIN-25689/concrete-mix-125x125.jpg"
+      },
+      {
+        "name": "Foam Concrete",
+        "page": "https://dir.indiamart.com/impcat/foam-concrete.html",
+        "thumbnail": "http://3.imimg.com/data3/SV/AJ/GLADMIN-144459/foam-concrete-125x125.jpg"
+      },
+      {
+        "name": "Polymer Concrete",
+        "page": "https://dir.indiamart.com/impcat/polymer-concretes.html",
+        "thumbnail": "http://5.imimg.com/data5/GG/EE/GLADMIN-2/polymer-concrete-125x125.jpg"
+      },
+      {
+        "name": "Steel Fibre Concrete",
+        "page": "https://dir.indiamart.com/impcat/steel-fibre-concrete.html",
+        "thumbnail": "http://3.imimg.com/data3/KK/VA/GLADMIN-148827/steel-fibre-concrete-125x125.jpg"
+      },
+      {
+        "name": "Refractory Concrete",
+        "page": "https://dir.indiamart.com/impcat/refractory-concretes.html",
+        "thumbnail": "http://3.imimg.com/data3/TS/MG/GLADMIN-36282/refractory-concretes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Mortar",
+    "category_thumbnail": "http://5.imimg.com/data5/LI/FO/GLADMIN-2/mortar-125x125.jpg",
+    "items": [
+      {
+        "name": "Chemical Anchor",
+        "page": "https://dir.indiamart.com/impcat/chemical-anchor.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/YC/GLADMIN-12252/chemical-anchor-125x125.jpg"
+      },
+      {
+        "name": "Block Jointing Mortar",
+        "page": "https://dir.indiamart.com/impcat/block-jointing-mortar.html",
+        "thumbnail": "http://4.imimg.com/data4/RP/SK/GLADMIN-183872/block-jointing-mortar-125x125.jpg"
+      },
+      {
+        "name": "Crack Repair Mortar",
+        "page": "https://dir.indiamart.com/impcat/crack-repair-mortar.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/BH/GLADMIN-165025/crack-repair-mortar-125x125.jpg"
+      },
+      {
+        "name": "Injection Mortar",
+        "page": "https://dir.indiamart.com/impcat/injection-mortar.html",
+        "thumbnail": "http://3.imimg.com/data3/YN/GC/GLADMIN-/media-catalog-product-cache-1-thumbnail-500x-ee0cdae22cf0e4109873f3959-125x125.jpg"
+      },
+      {
+        "name": "Polymer Mortar",
+        "page": "https://dir.indiamart.com/impcat/polymer-mortar.html",
+        "thumbnail": "http://5.imimg.com/data5/QP/BN/GLADMIN-2/polymar-motar-125x125.jpg"
+      },
+      {
+        "name": "Epoxy Base Mortar",
+        "page": "https://dir.indiamart.com/impcat/epoxy-base-mortar.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/MM/GLADMIN-131579/epoxy-base-mortar-125x125.jpg"
+      },
+      {
+        "name": "Mortar Cement",
+        "page": "https://dir.indiamart.com/impcat/mortar-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/LM/GLADMIN-5236/mortar-cement-125x125.jpg"
+      },
+      {
+        "name": "Refractory Mortar",
+        "page": "https://dir.indiamart.com/impcat/refractory-mortars.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/JW/GLADMIN-141979/refractory-mortars-125x125.jpg"
+      },
+      {
+        "name": "Fire Resistant Mortar",
+        "page": "https://dir.indiamart.com/impcat/fire-resistant-mortar.html",
+        "thumbnail": "http://3.imimg.com/data3/QH/HL/GLADMIN-138231/fire-resistant-mortar-125x125.jpg"
+      },
+      {
+        "name": "Dry Mix Mortar",
+        "page": "https://dir.indiamart.com/impcat/dry-mix-mortar.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/LD/GLADMIN-12015/dry-mix-mortar-125x125.jpg"
+      },
+      {
+        "name": "Acid Proof Mortar",
+        "page": "https://dir.indiamart.com/impcat/acid-proof-mortar.html",
+        "thumbnail": "http://5.imimg.com/data5/IQ/AR/GLADMIN-2/acid-proof-motar-125x125.jpg"
+      },
+      {
+        "name": "Waterproofing Mortar",
+        "page": "https://dir.indiamart.com/impcat/waterproofing-mortar.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/EO/GLADMIN-2/waterproofing-mortar-125x125.jpg"
+      },
+      {
+        "name": "Sulphur Mortar",
+        "page": "https://dir.indiamart.com/impcat/sulphur-mortar.html",
+        "thumbnail": "http://5.imimg.com/data5/EQ/ZC/UO/GLADMIN-68087/sulphur-mortar-125x125.jpg"
+      },
+      {
+        "name": "Fire Clay Mortar",
+        "page": "https://dir.indiamart.com/impcat/fire-clay-mortar.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/KK/GLADMIN-141838/fire-clay-mortar-125x125.jpg"
+      },
+      {
+        "name": "Cementitious Screed",
+        "page": "https://dir.indiamart.com/impcat/cementitious-screed.html",
+        "thumbnail": "http://3.imimg.com/data3/VM/CT/GLADMIN-106021/cementitious-screed-125x125.jpg"
+      },
+      {
+        "name": "Furan Base Mortar",
+        "page": "https://dir.indiamart.com/impcat/furan-base-mortar.html",
+        "thumbnail": "http://3.imimg.com/data3/TL/BA/GLADMIN-131580/furan-base-mortar-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Adhesive Cement",
+        "page": "https://dir.indiamart.com/impcat/ceramic-adhesive-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/AI/GLADMIN-139007/ceramic-adhesive-cement-125x125.jpg"
+      },
+      {
+        "name": "Phenolic Base Mortar",
+        "page": "https://dir.indiamart.com/impcat/phenolic-base-mortar.html",
+        "thumbnail": "http://3.imimg.com/data3/NR/WO/GLADMIN-131587/phenolic-base-mortar-125x125.jpg"
+      },
+      {
+        "name": "Sillimanite Mortar",
+        "page": "https://dir.indiamart.com/impcat/sillimanite-mortar.html",
+        "thumbnail": "http://5.imimg.com/data5/SL/FQ/GLADMIN-2/sillym-125x125.jpg"
+      },
+      {
+        "name": "Insulation Mortar",
+        "page": "https://dir.indiamart.com/impcat/insulation-mortar.html",
+        "thumbnail": "http://3.imimg.com/data3/MQ/GV/GLADMIN-141884/insulation-mortar-125x125.jpg"
+      },
+      {
+        "name": "Potassium Silicate Mortar",
+        "page": "https://dir.indiamart.com/impcat/potassium-silicate-mortar.html",
+        "thumbnail": "http://5.imimg.com/data5/ZZ/ZB/VR/GLADMIN-65832/potassium-silicate-mortar-125x125.jpg"
+      },
+      {
+        "name": "Capping Cement",
+        "page": "https://dir.indiamart.com/impcat/capping-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/TW/GLADMIN-136693/capping-cement-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cement Plant Machinery & Parts",
+    "category_thumbnail": "http://3.imimg.com/data3/YA/QK/GLADMIN-3651/cement-plant-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Cement Silo",
+        "page": "https://dir.indiamart.com/impcat/cement-silo.html",
+        "thumbnail": "http://3.imimg.com/data3/GA/DV/GLADMIN-24636/cement-silo-125x125.jpg"
+      },
+      {
+        "name": "Adhesive Making Plant",
+        "page": "https://dir.indiamart.com/impcat/adhesive-making-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/IJ/GLADMIN-165107/adhesive-making-plant-125x125.jpg"
+      },
+      {
+        "name": "Cement Plant",
+        "page": "https://dir.indiamart.com/impcat/cement-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/HA/GLADMIN-118/cement-plant-125x125.jpg"
+      },
+      {
+        "name": "Cement Machinery",
+        "page": "https://dir.indiamart.com/impcat/cement-machinery.html",
+        "thumbnail": "http://5.imimg.com/data5/JE/AA/GLADMIN-2/cement-plant-125x125.jpg"
+      },
+      {
+        "name": "Rotary Kilns",
+        "page": "https://dir.indiamart.com/impcat/rotary-kilns.html",
+        "thumbnail": "http://3.imimg.com/data3/FE/VM/MY-2/rotary-kiln-dryer-500x500-125x125.jpg"
+      },
+      {
+        "name": "Dry Mix Mortar Plant",
+        "page": "https://dir.indiamart.com/impcat/dry-mix-mortar-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/WF/NW/GLADMIN-2/dry-mix-mortar-plant-125x125.jpg"
+      },
+      {
+        "name": "Mini Cement Plant",
+        "page": "https://dir.indiamart.com/impcat/mini-cement-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/VB/GLADMIN-5151/mini-cement-plant-125x125.jpg"
+      },
+      {
+        "name": "Cement Feeding Machine",
+        "page": "https://dir.indiamart.com/impcat/cement-feeding-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/LL/MY-2/cementfeeding-500x500-125x125.jpg"
+      },
+      {
+        "name": "Cement Kiln",
+        "page": "https://dir.indiamart.com/impcat/cement-kiln.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/YR/MY-2/grinding-cement-mill-reasons-for-grinding-500x500-125x125.jpg"
+      },
+      {
+        "name": "Plaster Of Paris Plant",
+        "page": "https://dir.indiamart.com/impcat/plaster-of-paris-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/QE/MY-2/plaster-of-paris-plant-125x125.jpg"
+      },
+      {
+        "name": "Clinker Grinding Unit",
+        "page": "https://dir.indiamart.com/impcat/clinker-grinding-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/MV/MY-2/clinker-grinding-unit-125x125.jpg"
+      },
+      {
+        "name": "Vertical Shaft Kiln",
+        "page": "https://dir.indiamart.com/impcat/vertical-shaft-kiln.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/OL/GLADMIN-/pcat-gifs-products-small-vertical-shaft-kiln-125x125.jpg"
+      },
+      {
+        "name": "Cement Grinding Plant",
+        "page": "https://dir.indiamart.com/impcat/cement-grinding-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/WX/MY-2/ms-125x125.jpg"
+      },
+      {
+        "name": "Calcium Carbonate Plant",
+        "page": "https://dir.indiamart.com/impcat/calcium-carbonate-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/QP/GLADMIN-142444/calcium-carbonate-plant-125x125.png"
+      },
+      {
+        "name": "Calcined Lime Plant",
+        "page": "https://dir.indiamart.com/impcat/calcined-lime-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/ED/GLADMIN-118462/calcined-lime-plant-125x125.jpg"
+      },
+      {
+        "name": "Portland Cement Plants",
+        "page": "https://dir.indiamart.com/impcat/portland-cement-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/KB/GLADMIN-41659/portland-cement-plants-125x125.jpg"
+      },
+      {
+        "name": "Cement Plant Gear",
+        "page": "https://dir.indiamart.com/impcat/cement-plant-gear.html",
+        "thumbnail": "http://4.imimg.com/data4/QX/ST/GLADMIN-179549/cement-plant-gear-125x125.jpg"
+      },
+      {
+        "name": "Raw Mill Classifier",
+        "page": "https://dir.indiamart.com/impcat/raw-mill-classifier.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/YY/GLADMIN-161130/raw-mill-classifier-125x125.jpg"
+      },
+      {
+        "name": "Hoisting Damper",
+        "page": "https://dir.indiamart.com/impcat/hoisting-damper.html",
+        "thumbnail": "http://3.imimg.com/data3/GF/XJ/GLADMIN-143700/hoisting-damper-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Roofing & Special Purpose Cements",
+    "category_thumbnail": "http://3.imimg.com/data3/XO/JJ/GLADMIN-160902/furan-resin-cement-125x125.jpg",
+    "items": [
+      {
+        "name": "Refractory Cement",
+        "page": "https://dir.indiamart.com/impcat/refractory-cements.html",
+        "thumbnail": "http://3.imimg.com/data3/NE/VQ/GLADMIN-36280/refractory-cements-125x125.jpg"
+      },
+      {
+        "name": "Calcium Aluminate Cement",
+        "page": "https://dir.indiamart.com/impcat/calcium-aluminate-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/AR/GLADMIN-23074/calcium-aluminate-cement-125x125.jpg"
+      },
+      {
+        "name": "Cement Clinker",
+        "page": "https://dir.indiamart.com/impcat/cement-clinker.html",
+        "thumbnail": "http://3.imimg.com/data3/VB/CS/GLADMIN-24630/cement-clinker-125x125.jpg"
+      },
+      {
+        "name": "High Alumina Refractory Cement",
+        "page": "https://dir.indiamart.com/impcat/high-alumina-refractory-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/XV/QJ/GLADMIN-167371/high-alumina-refractory-cement-125x125.jpg"
+      },
+      {
+        "name": "Roofing Cement",
+        "page": "https://dir.indiamart.com/impcat/roofing-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/DI/VB/GLADMIN-36558/roofing-cement-125x125.jpg"
+      },
+      {
+        "name": "Quick Setting Cement",
+        "page": "https://dir.indiamart.com/impcat/quick-setting-cement.html",
+        "thumbnail": "http://5.imimg.com/data5/UR/LC/WT/GLADMIN-56986/quick-setting-cement-125x125.jpg"
+      },
+      {
+        "name": "Fire Cement",
+        "page": "https://dir.indiamart.com/impcat/fire-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/OQ/GLADMIN-141837/fire-cement-125x125.jpg"
+      },
+      {
+        "name": "Rapid Hardening Cement",
+        "page": "https://dir.indiamart.com/impcat/rapid-hardening-cement.html",
+        "thumbnail": "http://5.imimg.com/data5/TN/UU/AG/GLADMIN-56986/rapid-hardening-cement-125x125.jpg"
+      },
+      {
+        "name": "Acid Proof Cement",
+        "page": "https://dir.indiamart.com/impcat/acid-proof-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/EV/GLADMIN-122561/acid-proof-cement-125x125.jpg"
+      },
+      {
+        "name": "High Alumina Fire Cement",
+        "page": "https://dir.indiamart.com/impcat/high-alumina-fire-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/EV/GLADMIN-141865/high-alumina-fire-cement-125x125.jpg"
+      },
+      {
+        "name": "Calcium Aluminate",
+        "page": "https://dir.indiamart.com/impcat/calcium-aluminate.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/UY/GLADMIN-132855/calcium-aluminate-125x125.jpg"
+      },
+      {
+        "name": "Iron Cement",
+        "page": "https://dir.indiamart.com/impcat/iron-cement.html",
+        "thumbnail": "http://4.imimg.com/data4/LW/RV/GLADMIN-2/iron-cement-125x125.jpg"
+      },
+      {
+        "name": "Insulation Cement",
+        "page": "https://dir.indiamart.com/impcat/insulation-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/CU/GLADMIN-31000/insulation-cement-125x125.jpg"
+      },
+      {
+        "name": "Oil Well Cement",
+        "page": "https://dir.indiamart.com/impcat/oil-well-cements.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/YN/GLADMIN-33036/oil-well-cements-125x125.jpg"
+      },
+      {
+        "name": "Expansive cement",
+        "page": "https://dir.indiamart.com/impcat/expansive-cement.html",
+        "thumbnail": "http://5.imimg.com/data5/DA/ON/SQ/GLADMIN-56986/expansive-cement-125x125.jpg"
+      },
+      {
+        "name": "Epoxy Cement",
+        "page": "https://dir.indiamart.com/impcat/epoxy-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/CA/BE/GLADMIN-27936/epoxy-cement-125x125.jpg"
+      },
+      {
+        "name": "Masonry Cement",
+        "page": "https://dir.indiamart.com/impcat/masonry-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/DT/GLADMIN-32574/masonry-cement-125x125.jpg"
+      },
+      {
+        "name": "Silica Cement",
+        "page": "https://dir.indiamart.com/impcat/silica-cement.html",
+        "thumbnail": "http://3.imimg.com/data3/UX/SK/GLADMIN-37849/silica-cement-125x125.jpg"
+      }
+    ]
+  }
+]

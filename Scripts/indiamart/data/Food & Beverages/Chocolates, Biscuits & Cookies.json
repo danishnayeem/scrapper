@@ -1,0 +1,791 @@
+[
+  {
+    "category_name": "Chocolate",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/MP/RH/IY/92368/chocolate-125x125.jpg",
+    "items": [
+      {
+        "name": "Chocolate Candies",
+        "page": "https://dir.indiamart.com/impcat/chocolate-candies.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/GG/GLADMIN-24845/chocolate-candies-125x125.jpg"
+      },
+      {
+        "name": "Milk Chocolate",
+        "page": "https://dir.indiamart.com/impcat/milk-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/SU/GLADMIN-44138/milk-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Dark Chocolate",
+        "page": "https://dir.indiamart.com/impcat/dark-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/UL/GLADMIN-113654/dark-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Compound Chocolate",
+        "page": "https://dir.indiamart.com/impcat/compound-chocolate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TZ/DV/CB/92368/compound-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Paste",
+        "page": "https://dir.indiamart.com/impcat/chocolate-paste.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/YE/GLADMIN-44145/chocolate-paste-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Bars",
+        "page": "https://dir.indiamart.com/impcat/chocolate-bars.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/TT/GLADMIN-118711/chocolate-bars-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Wafer",
+        "page": "https://dir.indiamart.com/impcat/chocolate-wafer.html",
+        "thumbnail": "http://3.imimg.com/data3/AE/OC/GLADMIN-132597/chocolate-wafer-125x125.jpg"
+      },
+      {
+        "name": "Toffee Chocolate",
+        "page": "https://dir.indiamart.com/impcat/toffee-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/LK/GLADMIN-139814/toffee-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Dark Chocolate Compound",
+        "page": "https://dir.indiamart.com/impcat/dark-chocolate-compound.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/9/340820330/DF/JI/OO/64512/dark-chocolate-compound-125x125.png"
+      },
+      {
+        "name": "Chocolate Spreads",
+        "page": "https://dir.indiamart.com/impcat/chocolate-spreads.html",
+        "thumbnail": "http://3.imimg.com/data3/WP/CI/GLADMIN-24107/chocolate-spreads-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Gems",
+        "page": "https://dir.indiamart.com/impcat/chocolate-gems.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/chocolate-gems-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Fountain",
+        "page": "https://dir.indiamart.com/impcat/chocolate-fountain.html",
+        "thumbnail": "http://3.imimg.com/data3/SX/TM/GLADMIN-83944/chocolate-fountain-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Biscuit",
+        "page": "https://dir.indiamart.com/impcat/chocolate-biscuit.html",
+        "thumbnail": "http://3.imimg.com/data3/FJ/GE/GLADMIN-126305/chocolate-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Chip",
+        "page": "https://dir.indiamart.com/impcat/chocolate-chip.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/390232079/GK/HI/XL/33104/chocolate-chip-125x125.jpeg"
+      },
+      {
+        "name": "Chocolate Balls",
+        "page": "https://dir.indiamart.com/impcat/chocolate-balls.html",
+        "thumbnail": "http://4.imimg.com/data4/JP/QD/GLADMIN-182181/chocolate-balls-125x125.jpg"
+      },
+      {
+        "name": "Imported Chocolate",
+        "page": "https://dir.indiamart.com/impcat/imported-chocolate.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/imported-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Gift",
+        "page": "https://dir.indiamart.com/impcat/chocolate-gift.html",
+        "thumbnail": "http://4.imimg.com/data4/OD/DN/GLADMIN-44173/chocolate-gift-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Slabs",
+        "page": "https://dir.indiamart.com/impcat/chocolate-slabs.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/YP/GLADMIN-106889/chocolate-slabs-125x125.jpg"
+      },
+      {
+        "name": "Almond Chocolate",
+        "page": "https://dir.indiamart.com/impcat/almond-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/DH/GLADMIN-44136/almond-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Van Houten Professional Chocolate",
+        "page": "https://dir.indiamart.com/impcat/van-houten-dark-chocolate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/322048416/VW/JI/NW/92383/van-houten-dark-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Homemade Chocolate",
+        "page": "https://dir.indiamart.com/impcat/homemade-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/QD/BP/GLADMIN-179370/homemade-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Drinking Chocolate",
+        "page": "https://dir.indiamart.com/impcat/drinking-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/YJ/GLADMIN-6724/drinking-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Truffles",
+        "page": "https://dir.indiamart.com/impcat/chocolate-truffles.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/WW/GLADMIN-/chocolate-truffles-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Hearts",
+        "page": "https://dir.indiamart.com/impcat/chocolate-hearts.html",
+        "thumbnail": "http://4.imimg.com/data4/YJ/RM/GLADMIN-178231/chocolate-hearts-125x125.jpg"
+      },
+      {
+        "name": "Dark Chocolate Truffle",
+        "page": "https://dir.indiamart.com/impcat/dark-chocolate-truffle.html",
+        "thumbnail": "http://3.imimg.com/data3/IQ/FX/GLADMIN-105259/dark-chocolate-truffle-125x125.jpg"
+      },
+      {
+        "name": "Coconut Chocolate",
+        "page": "https://dir.indiamart.com/impcat/coconut-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/FX/GLADMIN-44135/coconut-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Couverture Chocolate",
+        "page": "https://dir.indiamart.com/impcat/couverture-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/TM/GY/GLADMIN-181142/couverture-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Dry Fruit Chocolate",
+        "page": "https://dir.indiamart.com/impcat/dry-fruit-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/GF/GLADMIN-44140/dry-fruit-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Date Chocolates",
+        "page": "https://dir.indiamart.com/impcat/date-chocolates.html",
+        "thumbnail": "http://5.imimg.com/data5/QS/JQ/LX/GLADMIN-68087/date-chocolates-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Bouquet",
+        "page": "https://dir.indiamart.com/impcat/chocolate-bouquet.html",
+        "thumbnail": "http://3.imimg.com/data3/GY/YR/GLADMIN-64742/chocolate-bouquet-125x125.jpg"
+      },
+      {
+        "name": "Paan Chocolate",
+        "page": "https://dir.indiamart.com/impcat/paan-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/UI/CI/GLADMIN-183997/paan-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Handmade Chocolate",
+        "page": "https://dir.indiamart.com/impcat/handmade-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/XR/NR/GLADMIN-44134/handmade-chocolate-125x125.jpg"
+      },
+      {
+        "name": "White Chocolate Bar",
+        "page": "https://dir.indiamart.com/impcat/white-chocolate-bar.html",
+        "thumbnail": "http://3.imimg.com/data3/CL/JI/GLADMIN-117467/white-chocolate-bar-125x125.jpg"
+      },
+      {
+        "name": "Morde Dark Chocolate",
+        "page": "https://dir.indiamart.com/impcat/morde-dark-chocolate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318916085/KV/UC/KJ/92383/morde-dark-chocolate-125x125.webp"
+      },
+      {
+        "name": "Assorted Chocolates",
+        "page": "https://dir.indiamart.com/impcat/assorted-chocolates.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/YY/GLADMIN-149625/assorted-chocolates-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Tray",
+        "page": "https://dir.indiamart.com/impcat/chocolate-tray.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/CF/SW/WS/71486/chocolate-tray-125x125.jpg"
+      },
+      {
+        "name": "Sugar Free Sweets",
+        "page": "https://dir.indiamart.com/impcat/sugar-free-sweets.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/YP/GLADMIN-138814/sugar-free-sweets-125x125.jpg"
+      },
+      {
+        "name": "Customized Chocolate",
+        "page": "https://dir.indiamart.com/impcat/customized-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/OV/QN/GLADMIN-178233/customized-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Covered Almond",
+        "page": "https://dir.indiamart.com/impcat/chocolate-covered-almond.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/YN/GLADMIN-104429/chocolate-covered-almond-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Fudge",
+        "page": "https://dir.indiamart.com/impcat/chocolate-fudge.html",
+        "thumbnail": "http://3.imimg.com/data3/TF/MU/GLADMIN-177265/chocolate-fudge-125x125.jpg"
+      },
+      {
+        "name": "Liquor Chocolates",
+        "page": "https://dir.indiamart.com/impcat/liquor-chocolates.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/MG/GLADMIN-177063/liquor-chocolates-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Pack",
+        "page": "https://dir.indiamart.com/impcat/chocolate-pack.html",
+        "thumbnail": "http://4.imimg.com/data4/CF/PD/GLADMIN-182312/chocolate-pack-125x125.jpg"
+      },
+      {
+        "name": "Hazelnut Chocolate",
+        "page": "https://dir.indiamart.com/impcat/hazelnut-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/XI/HA/GLADMIN-182740/hazelnut-chocolate-125x125.png"
+      },
+      {
+        "name": "Choco Cups",
+        "page": "https://dir.indiamart.com/impcat/choco-cups.html",
+        "thumbnail": "http://3.imimg.com/data3/HH/UP/GLADMIN-147362/choco-cups-125x125.jpg"
+      },
+      {
+        "name": "Milk Chocolate Slab",
+        "page": "https://dir.indiamart.com/impcat/milk-chocolate-slab.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/NI/GLADMIN-122427/milk-chocolate-slab-125x125.jpg"
+      },
+      {
+        "name": "Cashew Chocolate",
+        "page": "https://dir.indiamart.com/impcat/cashew-chocolate.html",
+        "thumbnail": "http://5.imimg.com/data5/DA/IC/GLADMIN-2/19028-cashew-chocolate-bark_600x600-125x125.jpg"
+      },
+      {
+        "name": "Strawberry Chocolate",
+        "page": "https://dir.indiamart.com/impcat/strawberry-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/AX/GLADMIN-44144/strawberry-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Cream Biscuit",
+        "page": "https://dir.indiamart.com/impcat/chocolate-cream-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/WQ/BN/GLADMIN-179228/chocolate-cream-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Valentine Day Chocolate",
+        "page": "https://dir.indiamart.com/impcat/valentine-day-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/TA/TV/GLADMIN-178232/valentine-day-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Nuts",
+        "page": "https://dir.indiamart.com/impcat/chocolate-nuts.html",
+        "thumbnail": "http://3.imimg.com/data3/JF/PH/GLADMIN-161386/chocolate-nuts-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Crunch",
+        "page": "https://dir.indiamart.com/impcat/chocolate-crunch.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/RU/GLADMIN-142536/chocolate-crunch-125x125.jpg"
+      },
+      {
+        "name": "Butterscotch Chocolate",
+        "page": "https://dir.indiamart.com/impcat/butterscotch-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/PS/IX/GLADMIN-2/butterscotch-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Covered Caramel",
+        "page": "https://dir.indiamart.com/impcat/chocolate-covered-caramel.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/FY/GLADMIN-104430/chocolate-covered-caramel-125x125.jpg"
+      },
+      {
+        "name": "Orange Chocolate",
+        "page": "https://dir.indiamart.com/impcat/orange-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/XD/GLADMIN-44155/orange-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Molded Chocolate",
+        "page": "https://dir.indiamart.com/impcat/molded-chocolate.html",
+        "thumbnail": "http://5.imimg.com/data5/ZT/BB/PR/GLADMIN-68155/molded-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Shake",
+        "page": "https://dir.indiamart.com/impcat/chocolate-shake.html",
+        "thumbnail": "http://5.imimg.com/data5/NL/BM/GLADMIN-2/chocolate-shake-125x125.jpg"
+      },
+      {
+        "name": "Plain Chocolate",
+        "page": "https://dir.indiamart.com/impcat/plain-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/CF/JG/GLADMIN-44141/plain-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Dessert",
+        "page": "https://dir.indiamart.com/impcat/chocolate-dessert.html",
+        "thumbnail": "http://3.imimg.com/data3/AL/RQ/GLADMIN-55259/chocolate-dessert-125x125.jpg"
+      },
+      {
+        "name": "Designer Chocolate",
+        "page": "https://dir.indiamart.com/impcat/designer-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/CN/YG/GLADMIN-178229/designer-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Raisin Chocolate",
+        "page": "https://dir.indiamart.com/impcat/raisin-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/JM/GLADMIN-44137/raisin-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Corporate Chocolate",
+        "page": "https://dir.indiamart.com/impcat/corporate-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/UD/KT/GLADMIN-182311/corporate-chocolate-125x125.png"
+      },
+      {
+        "name": "Chocolate Dragees",
+        "page": "https://dir.indiamart.com/impcat/chocolate-dragees.html",
+        "thumbnail": "http://5.imimg.com/data5/QG/RH/CO/GLADMIN-72666/chocolate-dragees-125x125.png"
+      },
+      {
+        "name": "Wedding Chocolates",
+        "page": "https://dir.indiamart.com/impcat/wedding-chocolates.html",
+        "thumbnail": "http://4.imimg.com/data4/HR/UD/GLADMIN-178227/wedding-chocolates-125x125.jpg"
+      },
+      {
+        "name": "Walnut Chocolate",
+        "page": "https://dir.indiamart.com/impcat/walnut-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/RB/IL/GLADMIN-44139/walnut-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Pineapple Chocolate",
+        "page": "https://dir.indiamart.com/impcat/pineapple-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/LD/WQ/GLADMIN-44143/pineapple-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Mint Chocolate",
+        "page": "https://dir.indiamart.com/impcat/mint-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/GE/CK/GLADMIN-182739/mint-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Cluster",
+        "page": "https://dir.indiamart.com/impcat/chocolate-cluster.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/UE/GLADMIN-64922/chocolate-cluster-125x125.jpg"
+      },
+      {
+        "name": "Homemade Chocolate Truffles",
+        "page": "https://dir.indiamart.com/impcat/homemade-chocolate-truffles.html",
+        "thumbnail": "http://4.imimg.com/data4/OF/QG/GLADMIN-179450/homemade-chocolate-truffles-125x125.jpg"
+      },
+      {
+        "name": "Blueberry Chocolate",
+        "page": "https://dir.indiamart.com/impcat/blueberry-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/BN/PS/GLADMIN-44142/blueberry-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Peanuts",
+        "page": "https://dir.indiamart.com/impcat/chocolate-peanuts.html",
+        "thumbnail": "http://5.imimg.com/data5/NN/NN/GLADMIN-/chocolate-peanuts-125x125.jpg"
+      },
+      {
+        "name": "Crackle Chocolate",
+        "page": "https://dir.indiamart.com/impcat/crackle-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/OA/AL/GLADMIN-182813/crackle-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Gulkand Chocolate",
+        "page": "https://dir.indiamart.com/impcat/gulkand-chocolate.html",
+        "thumbnail": "http://4.imimg.com/data4/IF/UG/GLADMIN-2/gulkand-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Spirulina Chocolates",
+        "page": "https://dir.indiamart.com/impcat/spirulina-chocolates.html",
+        "thumbnail": "http://4.imimg.com/data4/UR/GB/GLADMIN-178458/spirulina-chocolates-125x125.jpg"
+      },
+      {
+        "name": "Cocoa Paste",
+        "page": "https://dir.indiamart.com/impcat/cocoa-paste.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/BI/GLADMIN-25122/cocoa-paste-125x125.jpg"
+      },
+      {
+        "name": "Seasonal Chocolate",
+        "page": "https://dir.indiamart.com/impcat/seasonal-chocolate.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/JY/GLADMIN-64923/seasonal-chocolate-125x125.jpg"
+      },
+      {
+        "name": "Anniversary Chocolates",
+        "page": "https://dir.indiamart.com/impcat/anniversary-chocolates.html",
+        "thumbnail": "http://4.imimg.com/data4/GF/WG/GLADMIN-178230/anniversary-chocolates-125x125.jpg"
+      },
+      {
+        "name": "Chocolates Platter",
+        "page": "https://dir.indiamart.com/impcat/chocolates-platter.html",
+        "thumbnail": "http://4.imimg.com/data4/VP/CE/GLADMIN-182313/chocolates-platter-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Covered Cherries",
+        "page": "https://dir.indiamart.com/impcat/chocolate-covered-cherries.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/CU/GLADMIN-104431/chocolate-covered-cherries-125x125.png"
+      },
+      {
+        "name": "Parfait",
+        "page": "https://dir.indiamart.com/impcat/parfait.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/a-img923-3277-gk4rrt-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Biscuit",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ON/AC/VK/92368/biscuit-125x125.jpg",
+    "items": [
+      {
+        "name": "Edible Cup",
+        "page": "https://dir.indiamart.com/impcat/edible-cup.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZL/DE/RO/86648/edible-cup-125x125.jpg"
+      },
+      {
+        "name": "Osmania Biscuit",
+        "page": "https://dir.indiamart.com/impcat/osmania-biscuit.html",
+        "thumbnail": "http://5.imimg.com/data5/YZ/TJ/KM/GLADMIN-65832/osmania-biscuit-125x125.png"
+      },
+      {
+        "name": "Bakery Biscuits",
+        "page": "https://dir.indiamart.com/impcat/bakery-biscuits.html",
+        "thumbnail": "http://4.imimg.com/data4/KE/AF/GLADMIN-180823/bakery-biscuits-125x125.jpg"
+      },
+      {
+        "name": "Cream Biscuit",
+        "page": "https://dir.indiamart.com/impcat/cream-biscuit.html",
+        "thumbnail": "http://3.imimg.com/data3/II/RN/GLADMIN-11222/cream-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Khari Biscuit",
+        "page": "https://dir.indiamart.com/impcat/khari-biscuit.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/VA/PG/OB/88287/khari-biscuit-125x125.png"
+      },
+      {
+        "name": "Chocolate Biscuit",
+        "page": "https://dir.indiamart.com/impcat/chocolate-biscuit.html",
+        "thumbnail": "http://3.imimg.com/data3/FJ/GE/GLADMIN-126305/chocolate-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Wafer Biscuits",
+        "page": "https://dir.indiamart.com/impcat/wafer-biscuits.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/KF/GLADMIN-139186/wafer-biscuits-125x125.jpg"
+      },
+      {
+        "name": "Kaju Biscuit",
+        "page": "https://dir.indiamart.com/impcat/kaju-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/KA/JL/GLADMIN-186020/kaju-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Sweet Biscuits",
+        "page": "https://dir.indiamart.com/impcat/sweet-biscuits.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/AX/GLADMIN-39304/sweet-biscuits-125x125.jpg"
+      },
+      {
+        "name": "Coconut Biscuit",
+        "page": "https://dir.indiamart.com/impcat/coconut-biscuit.html",
+        "thumbnail": "http://3.imimg.com/data3/OG/LW/GLADMIN-126306/coconut-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Jeera Biscuit",
+        "page": "https://dir.indiamart.com/impcat/jeera-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/QH/LL/GLADMIN-186119/jeera-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Marie Biscuit",
+        "page": "https://dir.indiamart.com/impcat/marie-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/OO/XD/GLADMIN-186121/marie-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Atta Biscuit",
+        "page": "https://dir.indiamart.com/impcat/atta-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/GP/NY/GLADMIN-186120/atta-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Salted Biscuits",
+        "page": "https://dir.indiamart.com/impcat/salted-biscuits.html",
+        "thumbnail": "http://4.imimg.com/data4/OM/JP/GLADMIN-178242/salted-biscuits-125x125.jpg"
+      },
+      {
+        "name": "Butter Biscuit",
+        "page": "https://dir.indiamart.com/impcat/butter-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/QY/VV/GLADMIN-2/butter-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Glucose Biscuit",
+        "page": "https://dir.indiamart.com/impcat/glucoses-biscuit.html",
+        "thumbnail": "http://3.imimg.com/data3/KQ/EG/GLADMIN-11043/glucose-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Cracker Biscuit",
+        "page": "https://dir.indiamart.com/impcat/cracker-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/OC/RE/GLADMIN-186122/cracker-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Parle Monaco Biscuit",
+        "page": "https://dir.indiamart.com/impcat/parle-monaco-biscuit.html",
+        "thumbnail": "http://5.imimg.com/data5/OM/RP/GLADMIN-2/parle-monaco-biscuit-40-gm-1000x1000-125x125.png"
+      },
+      {
+        "name": "Ragi Biscuits",
+        "page": "https://dir.indiamart.com/impcat/ragi-biscuits.html",
+        "thumbnail": "http://5.imimg.com/data5/VL/UB/YN/GLADMIN-68087/ragi-biscuits-125x125.jpg"
+      },
+      {
+        "name": "Digestive Biscuits",
+        "page": "https://dir.indiamart.com/impcat/digestive-biscuits.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/TM/GLADMIN-165835/digestive-biscuits-125x125.jpg"
+      },
+      {
+        "name": "Orange Cream Biscuit",
+        "page": "https://dir.indiamart.com/impcat/orange-cream-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/TR/LN/GLADMIN-179213/orange-cream-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Butter Bite Biscuit",
+        "page": "https://dir.indiamart.com/impcat/butter-bite-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/NW/SO/GLADMIN-2/butter-bite-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Sandwich Biscuit",
+        "page": "https://dir.indiamart.com/impcat/sandwich-biscuit.html",
+        "thumbnail": "http://3.imimg.com/data3/VU/WP/GLADMIN-83947/sandwich-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Cream Biscuit",
+        "page": "https://dir.indiamart.com/impcat/chocolate-cream-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/WQ/BN/GLADMIN-179228/chocolate-cream-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Dry Fruit Biscuit",
+        "page": "https://dir.indiamart.com/impcat/dry-fruit-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/GF/XE/GLADMIN-2/dry-fruit-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Pista Biscuit",
+        "page": "https://dir.indiamart.com/impcat/pista-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/OX/KJ/GLADMIN-181807/pista-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Vanilla Biscuit",
+        "page": "https://dir.indiamart.com/impcat/vanilla-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/ED/OA/GLADMIN-2/vanilla-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Strawberry Biscuit",
+        "page": "https://dir.indiamart.com/impcat/strawberry-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/UH/QY/GLADMIN-186751/strawberry-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Elaichi Biscuits",
+        "page": "https://dir.indiamart.com/impcat/elaichi-biscuits.html",
+        "thumbnail": "http://4.imimg.com/data4/WD/XI/GLADMIN-186019/elaichi-biscuits-125x125.jpg"
+      },
+      {
+        "name": "Fruit Biscuit",
+        "page": "https://dir.indiamart.com/impcat/fruit-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/KV/YK/GLADMIN-186018/fruit-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Homemade Biscuits",
+        "page": "https://dir.indiamart.com/impcat/homemade-biscuits.html",
+        "thumbnail": "http://4.imimg.com/data4/MH/LU/GLADMIN-2/homemade-biscuits-125x125.jpg"
+      },
+      {
+        "name": "Almond Biscuit",
+        "page": "https://dir.indiamart.com/impcat/almond-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/EE/EE/GLADMIN-/almond-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Macaroon",
+        "page": "https://dir.indiamart.com/impcat/macaroon.html",
+        "thumbnail": "http://4.imimg.com/data4/GQ/IA/GLADMIN-179571/macaroon-125x125.jpg"
+      },
+      {
+        "name": "Assorted Biscuits",
+        "page": "https://dir.indiamart.com/impcat/assorted-biscuits.html",
+        "thumbnail": "http://5.imimg.com/data5/OO/OO/GLADMIN-/assorted-biscuits-125x125.jpg"
+      },
+      {
+        "name": "Diabetic Biscuits",
+        "page": "https://dir.indiamart.com/impcat/diabetic-biscuits.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/LR/GLADMIN-165836/diabetic-biscuits-125x125.jpg"
+      },
+      {
+        "name": "Biscuit Sticks",
+        "page": "https://dir.indiamart.com/impcat/biscuit-sticks.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/JO/GLADMIN-163812/biscuit-sticks-125x125.jpg"
+      },
+      {
+        "name": "Suji Biscuit",
+        "page": "https://dir.indiamart.com/impcat/suji-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/OO/OO/GLADMIN-/suji-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Barley Biscuit",
+        "page": "https://dir.indiamart.com/impcat/barley-biscuit.html",
+        "thumbnail": "http://4.imimg.com/data4/HF/SV/GLADMIN-98904/barley-biscuit-125x125.jpg"
+      },
+      {
+        "name": "Organic Biscuits",
+        "page": "https://dir.indiamart.com/impcat/organic-biscuits.html",
+        "thumbnail": "http://5.imimg.com/data5/US/ZF/LU/GLADMIN-81953/organic-biscuits-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cookies",
+    "category_thumbnail": "http://3.imimg.com/data3/SM/SY/GLADMIN-114096/cookies-125x125.jpg",
+    "items": [
+      {
+        "name": "Butter Cookies",
+        "page": "https://dir.indiamart.com/impcat/butter-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/QN/CK/GLADMIN-50748/butter-cookies-125x125.jpg"
+      },
+      {
+        "name": "Millet Cookies",
+        "page": "https://dir.indiamart.com/impcat/millet-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/BI/SQ/OY/GLADMIN-81953/millet-cookies-125x125.jpg"
+      },
+      {
+        "name": "Coconut Cookies",
+        "page": "https://dir.indiamart.com/impcat/coconut-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/DT/GLADMIN-3901/coconut-cookies-125x125.jpg"
+      },
+      {
+        "name": "Nan Khatai",
+        "page": "https://dir.indiamart.com/impcat/nan-khatai.html",
+        "thumbnail": "http://5.imimg.com/data5/LQ/CQ/GLADMIN-2/nan-khatai-125x125.jpg"
+      },
+      {
+        "name": "Bakery Cookies",
+        "page": "https://dir.indiamart.com/impcat/bakery-bites-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/SC/SD/GLADMIN-113746/bakery-bites-cookies-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Cookies",
+        "page": "https://dir.indiamart.com/impcat/chocolate-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/VR/GLADMIN-149640/chocolate-cookies-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "page": "https://dir.indiamart.com/impcat/chocolate-chip-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/FT/GLADMIN-114095/chocolate-chip-cookies-125x125.jpg"
+      },
+      {
+        "name": "Jeera Cookies",
+        "page": "https://dir.indiamart.com/impcat/jeera-cookies.html",
+        "thumbnail": "http://4.imimg.com/data4/BU/QW/GLADMIN-180424/jeera-cookies-125x125.jpg"
+      },
+      {
+        "name": "Sugar Free Cookies",
+        "page": "https://dir.indiamart.com/impcat/sugar-free-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/LS/ET/GLADMIN-127304/sugar-free-cookies-125x125.jpg"
+      },
+      {
+        "name": "Almond Cookies",
+        "page": "https://dir.indiamart.com/impcat/almond-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/KB/FC/GLADMIN-131686/almond-cookies-125x125.jpg"
+      },
+      {
+        "name": "Peanut Cookies",
+        "page": "https://dir.indiamart.com/impcat/peanut-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/TS/CJ/GLADMIN-146536/peanut-cookies-125x125.jpg"
+      },
+      {
+        "name": "Cashew Cookies",
+        "page": "https://dir.indiamart.com/impcat/cashew-cookies.html",
+        "thumbnail": "http://4.imimg.com/data4/HI/LA/GLADMIN-178246/cashew-cookies-125x125.jpg"
+      },
+      {
+        "name": "Milk Cookies",
+        "page": "https://dir.indiamart.com/impcat/milk-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/BY/GLADMIN-101946/milk-cookies-125x125.jpg"
+      },
+      {
+        "name": "Atta Cookies",
+        "page": "https://dir.indiamart.com/impcat/atta-cookies.html",
+        "thumbnail": "http://4.imimg.com/data4/SQ/KP/GLADMIN-183171/atta-cookies-125x125.jpg"
+      },
+      {
+        "name": "Ajwain Cookies",
+        "page": "https://dir.indiamart.com/impcat/ajwain-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/FM/GLADMIN-50746/ajwain-cookies-125x125.jpg"
+      },
+      {
+        "name": "Dry Fruits Cookies",
+        "page": "https://dir.indiamart.com/impcat/dry-fruits-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/QW/HN/RG/GLADMIN-65832/dry-fruits-cookies-125x125.jpg"
+      },
+      {
+        "name": "Pistachio Cookies",
+        "page": "https://dir.indiamart.com/impcat/pistachio-cookies.html",
+        "thumbnail": "http://4.imimg.com/data4/XL/CM/GLADMIN-180468/pistachio-cookies-125x125.jpg"
+      },
+      {
+        "name": "Jam Cookies",
+        "page": "https://dir.indiamart.com/impcat/jam-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/jam-cookies-125x125.jpg"
+      },
+      {
+        "name": "Chewy Oatmeal Cookie",
+        "page": "https://dir.indiamart.com/impcat/chewy-oatmeal-cookie.html",
+        "thumbnail": "http://3.imimg.com/data3/LD/YX/GLADMIN-68215/chewy-oatmeal-cookie-125x125.jpg"
+      },
+      {
+        "name": "Tutti Frutti Cookies",
+        "page": "https://dir.indiamart.com/impcat/tutti-frutti-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/tutti-frutti-cookies-125x125.jpg"
+      },
+      {
+        "name": "Homemade Cookies",
+        "page": "https://dir.indiamart.com/impcat/homemade-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/YH/LT/GLADMIN-2/homemade-cookies-125x125.jpg"
+      },
+      {
+        "name": "Badam Pista Cookies",
+        "page": "https://dir.indiamart.com/impcat/badam-pista-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/badam-pista-cookies-125x125.jpg"
+      },
+      {
+        "name": "Mushroom Cookies",
+        "page": "https://dir.indiamart.com/impcat/mushroom-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/FJ/ZP/QJ/GLADMIN-81953/mushroom-cookies-125x125.png"
+      },
+      {
+        "name": "Shortbread Cookies",
+        "page": "https://dir.indiamart.com/impcat/shortbread-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/EX/JG/GLADMIN-116678/shortbread-cookies-125x125.jpg"
+      },
+      {
+        "name": "Sugar Cookies",
+        "page": "https://dir.indiamart.com/impcat/sugar-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/sugar-cookies-125x125.jpg"
+      },
+      {
+        "name": "Pineapple Cookies",
+        "page": "https://dir.indiamart.com/impcat/pineapple-cookies.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/CX/GLADMIN-111852/pineapple-cookies-125x125.jpg"
+      },
+      {
+        "name": "Organic Cookies",
+        "page": "https://dir.indiamart.com/impcat/organic-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/SD/RI/HR/GLADMIN-81953/organic-cookies-125x125.png"
+      },
+      {
+        "name": "Orange Cookies",
+        "page": "https://dir.indiamart.com/impcat/orange-cookies.html",
+        "thumbnail": "http://4.imimg.com/data4/CD/VG/GLADMIN-183294/orange-cookies-125x125.jpg"
+      },
+      {
+        "name": "Honey Cookies",
+        "page": "https://dir.indiamart.com/impcat/honey-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/370401587/EO/LF/MM/92383/honey-cookies-125x125.jpg"
+      },
+      {
+        "name": "Flaxseed Cookies",
+        "page": "https://dir.indiamart.com/impcat/flaxseed-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/NP/RN/HI/GLADMIN-65832/flaxseed-cookies-125x125.jpg"
+      },
+      {
+        "name": "Whole Wheat Cookies",
+        "page": "https://dir.indiamart.com/impcat/whole-wheat-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/BL/VO/UZ/GLADMIN-73467/whole-wheat-cookies-125x125.jpg"
+      },
+      {
+        "name": "Ginger Cookies",
+        "page": "https://dir.indiamart.com/impcat/ginger-cookies.html",
+        "thumbnail": "http://4.imimg.com/data4/QA/PC/GLADMIN-183292/ginger-cookies-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bakery Cookies",
+    "category_thumbnail": "http://3.imimg.com/data3/SC/SD/GLADMIN-113746/bakery-bites-cookies-125x125.jpg",
+    "items": [
+      {
+        "name": "Jeera Cookies",
+        "page": "https://dir.indiamart.com/impcat/jeera-cookies.html",
+        "thumbnail": "http://4.imimg.com/data4/BU/QW/GLADMIN-180424/jeera-cookies-125x125.jpg"
+      },
+      {
+        "name": "Atta Cookies",
+        "page": "https://dir.indiamart.com/impcat/atta-cookies.html",
+        "thumbnail": "http://4.imimg.com/data4/SQ/KP/GLADMIN-183171/atta-cookies-125x125.jpg"
+      },
+      {
+        "name": "Dry Fruits Cookies",
+        "page": "https://dir.indiamart.com/impcat/dry-fruits-cookies.html",
+        "thumbnail": "http://5.imimg.com/data5/QW/HN/RG/GLADMIN-65832/dry-fruits-cookies-125x125.jpg"
+      }
+    ]
+  }
+]

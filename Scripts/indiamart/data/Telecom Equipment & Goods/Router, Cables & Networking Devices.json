@@ -1,0 +1,1470 @@
+[
+  {
+    "category_name": "Networking Devices and Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/DR/PD/GLADMIN-65237/computer-networking-device-125x125.jpg",
+    "items": [
+      {
+        "name": "GPON ONT Router",
+        "page": "https://dir.indiamart.com/impcat/gpon-ont-router.html",
+        "thumbnail": "http://5.imimg.com/data5/PC/DR/LY/GLADMIN-76441/gpon-ont-router-125x125.jpg"
+      },
+      {
+        "name": "Optical Network Unit",
+        "page": "https://dir.indiamart.com/impcat/optical-network-unit.html",
+        "thumbnail": "http://5.imimg.com/data5/BB/BB/GLADMIN-/image-cache-data-zyxel-235-500x500-125x125.jpg"
+      },
+      {
+        "name": "Wireless Network Equipment",
+        "page": "https://dir.indiamart.com/impcat/wireless-network-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/ER/GLADMIN-41168/wireless-network-equipment-125x125.jpg"
+      },
+      {
+        "name": "Network Switch",
+        "page": "https://dir.indiamart.com/impcat/network-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/OJ/KO/GLADMIN-17652/network-switch-125x125.jpg"
+      },
+      {
+        "name": "Wireless Controller",
+        "page": "https://dir.indiamart.com/impcat/wireless-controller.html",
+        "thumbnail": "http://3.imimg.com/data3/YB/PV/GLADMIN-41147/wireless-controller-125x125.jpg"
+      },
+      {
+        "name": "Wireless Internet Device",
+        "page": "https://dir.indiamart.com/impcat/wireless-internet-device.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/IG/GLADMIN-65149/wireless-internet-device-125x125.jpg"
+      },
+      {
+        "name": "Network Interface Cards",
+        "page": "https://dir.indiamart.com/impcat/network-interface-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/YM/EQ/GLADMIN-32653/network-interface-cards-125x125.jpg"
+      },
+      {
+        "name": "Rack Mount",
+        "page": "https://dir.indiamart.com/impcat/rack-mount.html",
+        "thumbnail": "http://3.imimg.com/data3/GP/IO/GLADMIN-53388/rack-mount-125x125.jpg"
+      },
+      {
+        "name": "Networking Peripherals",
+        "page": "https://dir.indiamart.com/impcat/networking-peripherals.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/FC/GLADMIN-32660/networking-peripherals-125x125.jpg"
+      },
+      {
+        "name": "Server Parts",
+        "page": "https://dir.indiamart.com/impcat/server-parts.html",
+        "thumbnail": "http://4.imimg.com/data4/XR/LY/GLADMIN-178535/server-parts-125x125.jpg"
+      },
+      {
+        "name": "Network Data System",
+        "page": "https://dir.indiamart.com/impcat/network-data-system.html",
+        "thumbnail": "http://3.imimg.com/data3/YB/HS/GLADMIN-32651/network-data-system-125x125.jpg"
+      },
+      {
+        "name": "Modems",
+        "page": "https://dir.indiamart.com/impcat/modems.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/FW/GLADMIN-142/modems-125x125.jpg"
+      },
+      {
+        "name": "Wireless LAN",
+        "page": "https://dir.indiamart.com/impcat/wireless-lan.html",
+        "thumbnail": "http://3.imimg.com/data3/QP/XD/GLADMIN-41306/wireless-lan-125x125.jpg"
+      },
+      {
+        "name": "Mobile Data Terminal",
+        "page": "https://dir.indiamart.com/impcat/mobile-data-terminal.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/HT/GLADMIN-32808/mobile-data-terminal-125x125.jpg"
+      },
+      {
+        "name": "Data Converters",
+        "page": "https://dir.indiamart.com/impcat/data-converters.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/BN/GLADMIN-25339/data-converters-125x125.png"
+      },
+      {
+        "name": "Network Control System",
+        "page": "https://dir.indiamart.com/impcat/network-control-system.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/TT/GLADMIN-32650/network-control-system-125x125.jpg"
+      },
+      {
+        "name": "Network Patch Panel",
+        "page": "https://dir.indiamart.com/impcat/network-patch-panel.html",
+        "thumbnail": "http://3.imimg.com/data3/WK/AK/GLADMIN-32657/network-patch-panel-125x125.jpg"
+      },
+      {
+        "name": "Routerboard",
+        "page": "https://dir.indiamart.com/impcat/routerboard.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/routerboard-125x125.jpg"
+      },
+      {
+        "name": "Network Adapter",
+        "page": "https://dir.indiamart.com/impcat/network-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/PX/GLADMIN-32642/network-adapter-125x125.jpg"
+      },
+      {
+        "name": "Ethernet Device",
+        "page": "https://dir.indiamart.com/impcat/ethernet-device.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/KQ/GLADMIN-28017/ethernet-device-125x125.jpg"
+      },
+      {
+        "name": "Network Communication Connector",
+        "page": "https://dir.indiamart.com/impcat/network-communication-connector.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/IU/GLADMIN-111686/network-communication-connector-125x125.jpg"
+      },
+      {
+        "name": "Termination Unit",
+        "page": "https://dir.indiamart.com/impcat/termination-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/BH/VG/GLADMIN-129680/termination-unit-125x125.jpg"
+      },
+      {
+        "name": "Integrated Access Devices",
+        "page": "https://dir.indiamart.com/impcat/integrated-access-devices.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/NC/GLADMIN-31009/integrated-access-devices-125x125.jpg"
+      },
+      {
+        "name": "Outdoor Wireless LAN",
+        "page": "https://dir.indiamart.com/impcat/outdoor-wireless-lan.html",
+        "thumbnail": "http://3.imimg.com/data3/TJ/CU/GLADMIN-132732/outdoor-wireless-lan-125x125.jpg"
+      },
+      {
+        "name": "Web Server",
+        "page": "https://dir.indiamart.com/impcat/web-server.html",
+        "thumbnail": "http://5.imimg.com/data5/UA/WH/GLADMIN-2/web-server-125x125.jpg"
+      },
+      {
+        "name": "Cable Modems",
+        "page": "https://dir.indiamart.com/impcat/cable-modems.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/VV/GLADMIN-23018/cable-modems-125x125.jpg"
+      },
+      {
+        "name": "Rack Mount System",
+        "page": "https://dir.indiamart.com/impcat/rack-mount-system.html",
+        "thumbnail": "http://3.imimg.com/data3/KX/HA/GLADMIN-132756/rack-mount-system-125x125.jpg"
+      },
+      {
+        "name": "Wireless Data Terminal",
+        "page": "https://dir.indiamart.com/impcat/wireless-data-terminal.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/BT/GLADMIN-129576/wireless-data-terminal-125x125.jpg"
+      },
+      {
+        "name": "Connecting Switches",
+        "page": "https://dir.indiamart.com/impcat/connecting-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/QQ/GLADMIN-100559/connecting-switches-125x125.jpg"
+      },
+      {
+        "name": "Internet Appliance",
+        "page": "https://dir.indiamart.com/impcat/internet-appliance.html",
+        "thumbnail": "http://3.imimg.com/data3/PS/XX/GLADMIN-65243/internet-appliance-125x125.jpg"
+      },
+      {
+        "name": "Owens Bridge",
+        "page": "https://dir.indiamart.com/impcat/owens-bridge.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/GQ/GLADMIN-141936/owens-bridge-125x125.jpg"
+      },
+      {
+        "name": "Physical Layer Switches",
+        "page": "https://dir.indiamart.com/impcat/physical-layer-switches.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/368871366/IH/EE/XW/23669/physical-layer-switches-125x125.jpg"
+      },
+      {
+        "name": "Wireless Distribution System",
+        "page": "https://dir.indiamart.com/impcat/wireless-distribution-system.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/QV/GLADMIN-127315/wireless-distribution-system-125x125.jpg"
+      },
+      {
+        "name": "AC Bridge",
+        "page": "https://dir.indiamart.com/impcat/ac-bridge.html",
+        "thumbnail": "http://3.imimg.com/data3/JA/HO/GLADMIN-141731/ac-bridge-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "WiFi Router",
+    "category_thumbnail": "http://3.imimg.com/data3/KP/GH/GLADMIN-132961/wifi-router-125x125.jpg",
+    "items": [
+      {
+        "name": "Wireless Router",
+        "page": "https://dir.indiamart.com/impcat/wireless-router.html",
+        "thumbnail": "http://3.imimg.com/data3/YF/UG/GLADMIN-20200/wireless-router-125x125.jpg"
+      },
+      {
+        "name": "Wireless Access Point",
+        "page": "https://dir.indiamart.com/impcat/wireless-access-point.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/GM/RV/FN/49660/wireless-access-point-125x125.jpg"
+      },
+      {
+        "name": "WiFi Hotspot Service",
+        "page": "https://dir.indiamart.com/impcat/wi-fi-hotspot.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/TV/GLADMIN-173216/wi-fi-hotspot-125x125.jpg"
+      },
+      {
+        "name": "Dual Band Router",
+        "page": "https://dir.indiamart.com/impcat/dual-band-router.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320468990/CU/DK/YL/96317/dual-band-router-125x125.jpg"
+      },
+      {
+        "name": "Wireless Bridge",
+        "page": "https://dir.indiamart.com/impcat/wireless-bridge.html",
+        "thumbnail": "http://3.imimg.com/data3/SW/TU/GLADMIN-41145/wireless-bridge-125x125.jpg"
+      },
+      {
+        "name": "3G Router",
+        "page": "https://dir.indiamart.com/impcat/3g-router.html",
+        "thumbnail": "http://3.imimg.com/data3/WG/SR/GLADMIN-117749/3g-router-125x125.jpg"
+      },
+      {
+        "name": "Pocket Router",
+        "page": "https://dir.indiamart.com/impcat/pocket-router.html",
+        "thumbnail": "http://5.imimg.com/data5/FY/TB/GLADMIN-2/pocket-router-125x125.jpg"
+      },
+      {
+        "name": "VoIP Wireless Router",
+        "page": "https://dir.indiamart.com/impcat/voip-wireless-router.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/YH/GLADMIN-132543/voip-wireless-router-125x125.jpg"
+      },
+      {
+        "name": "WLAN Access Point",
+        "page": "https://dir.indiamart.com/impcat/wlan-access-point.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/XE/GLADMIN-41337/wlan-access-point-125x125.jpg"
+      },
+      {
+        "name": "GSM Router",
+        "page": "https://dir.indiamart.com/impcat/gsm-router.html",
+        "thumbnail": "http://3.imimg.com/data3/WD/OP/GLADMIN-29894/gsm-router-125x125.jpg"
+      },
+      {
+        "name": "Wireless Components",
+        "page": "https://dir.indiamart.com/impcat/wireless-components.html",
+        "thumbnail": "http://3.imimg.com/data3/HQ/SW/GLADMIN-129574/wireless-components-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "AV Cable",
+    "category_thumbnail": "http://3.imimg.com/data3/VA/VC/GLADMIN-49658/av-cable-125x125.jpg",
+    "items": [
+      {
+        "name": "Snake Cable",
+        "page": "https://dir.indiamart.com/impcat/snake-cable.html",
+        "thumbnail": "http://4.imimg.com/data4/FD/XX/GLADMIN-183729/snake-cable-125x125.jpg"
+      },
+      {
+        "name": "Audio Cables",
+        "page": "https://dir.indiamart.com/impcat/audio-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/PQ/GLADMIN-22174/audio-cables-125x125.jpg"
+      },
+      {
+        "name": "Microphone Cables",
+        "page": "https://dir.indiamart.com/impcat/microphone-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/FP/BD/GLADMIN-33523/microphone-cables-125x125.jpg"
+      },
+      {
+        "name": "RCA Cable",
+        "page": "https://dir.indiamart.com/impcat/rca-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/EG/GLADMIN-36121/rca-cable-125x125.jpg"
+      },
+      {
+        "name": "Auxiliary Cable",
+        "page": "https://dir.indiamart.com/impcat/auxiliary-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/BS/GLADMIN-166201/auxiliary-cable-125x125.jpg"
+      },
+      {
+        "name": "Video Cables",
+        "page": "https://dir.indiamart.com/impcat/video-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/AT/MY-2/video-cables-125x125.jpg"
+      },
+      {
+        "name": "Camera Cable",
+        "page": "https://dir.indiamart.com/impcat/camera-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/SR/GLADMIN-94755/camera-cable-125x125.jpg"
+      },
+      {
+        "name": "HDTV Cable",
+        "page": "https://dir.indiamart.com/impcat/hdtv-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/AQ/GLADMIN-94757/hdtv-cable-125x125.jpg"
+      },
+      {
+        "name": "Oxygen Free Speaker Cable",
+        "page": "https://dir.indiamart.com/impcat/emd-cables.html",
+        "thumbnail": "http://5.imimg.com/data5/OO/OO/GLADMIN-/a-img923-1586-ckyxok-125x125.jpg"
+      },
+      {
+        "name": "Digital Cable",
+        "page": "https://dir.indiamart.com/impcat/digital-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/BD/GLADMIN-26726/digital-cable-125x125.jpg"
+      },
+      {
+        "name": "Projector Cables",
+        "page": "https://dir.indiamart.com/impcat/projector-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/YR/GLADMIN-42036/projector-cables-125x125.jpg"
+      },
+      {
+        "name": "Optical Audio Cable",
+        "page": "https://dir.indiamart.com/impcat/optical-audio-cable.html",
+        "thumbnail": "http://4.imimg.com/data4/BL/NN/GLADMIN-2/optical-audio-cable-125x125.jpg"
+      },
+      {
+        "name": "Mini Jack Cable",
+        "page": "https://dir.indiamart.com/impcat/mini-jack-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/GA/GLADMIN-32788/mini-jack-cable-125x125.jpg"
+      },
+      {
+        "name": "Composite Cables",
+        "page": "https://dir.indiamart.com/impcat/composite-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/GS/CQ/GLADMIN-25595/composite-cables-125x125.jpg"
+      },
+      {
+        "name": "RGB Cables",
+        "page": "https://dir.indiamart.com/impcat/rgb-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/TI/WK/GLADMIN-42037/rgb-cables-125x125.jpg"
+      },
+      {
+        "name": "DVI Video Cable",
+        "page": "https://dir.indiamart.com/impcat/dvi-video-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/PQ/GLADMIN-53118/dvi-video-cable-125x125.jpg"
+      },
+      {
+        "name": "Component Video Cable",
+        "page": "https://dir.indiamart.com/impcat/component-video-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/GQ/GLADMIN-25593/component-video-cable-125x125.jpg"
+      },
+      {
+        "name": "S Video Cable",
+        "page": "https://dir.indiamart.com/impcat/s-video-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/HV/UB/GLADMIN-36651/s-video-cable-125x125.jpg"
+      },
+      {
+        "name": "Digital Audio Cable",
+        "page": "https://dir.indiamart.com/impcat/digital-audio-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/FW/GLADMIN-45850/digital-audio-cable-125x125.jpg"
+      },
+      {
+        "name": "RCA Interconnects",
+        "page": "https://dir.indiamart.com/impcat/rca-interconnects.html",
+        "thumbnail": "http://3.imimg.com/data3/PD/QU/GLADMIN-118193/rca-interconnects-125x125.jpg"
+      },
+      {
+        "name": "Audio Power Cable",
+        "page": "https://dir.indiamart.com/impcat/audio-power-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/QY/GLADMIN-53309/audio-power-cable-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Signal Cables",
+    "category_thumbnail": "http://3.imimg.com/data3/PI/AR/GLADMIN-37842/signal-cables-125x125.jpg",
+    "items": [
+      {
+        "name": "Coaxial Cables",
+        "page": "https://dir.indiamart.com/impcat/coaxial-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/DP/GLADMIN-451/coaxial-cables-125x125.jpg"
+      },
+      {
+        "name": "Communications Cable",
+        "page": "https://dir.indiamart.com/impcat/communications-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/TT/DX/GLADMIN-25447/communications-cables-125x125.jpg"
+      },
+      {
+        "name": "RG6 Cable",
+        "page": "https://dir.indiamart.com/impcat/rg6-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/YR/YE/GLADMIN-36402/rg6-cable-125x125.jpg"
+      },
+      {
+        "name": "Sensor Cable",
+        "page": "https://dir.indiamart.com/impcat/sensor-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/BG/FA/GLADMIN-37602/sensor-cables-125x125.jpg"
+      },
+      {
+        "name": "CAT6 Patch Cable",
+        "page": "https://dir.indiamart.com/impcat/cat6-patch-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/NI/XE/GLADMIN-53107/cat6-patch-cable-125x125.jpg"
+      },
+      {
+        "name": "Dish Cable",
+        "page": "https://dir.indiamart.com/impcat/dish-cable.html",
+        "thumbnail": "http://4.imimg.com/data4/IJ/HW/GLADMIN-185310/dish-cable-125x125.jpg"
+      },
+      {
+        "name": "Cable Assembly",
+        "page": "https://dir.indiamart.com/impcat/cable-assemblies.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/BG/MY-2/cable-assemblies-125x125.jpg"
+      },
+      {
+        "name": "RG 59 Cable",
+        "page": "https://dir.indiamart.com/impcat/rg-59-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/AP/YH/NT/GLADMIN-68155/rg-59-cable-125x125.jpg"
+      },
+      {
+        "name": "LMR Cable",
+        "page": "https://dir.indiamart.com/impcat/lmr-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/OG/WA/GLADMIN-114351/lmr-cables-125x125.jpg"
+      },
+      {
+        "name": "AV Cable",
+        "page": "https://dir.indiamart.com/impcat/av-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/VC/GLADMIN-49658/av-cable-125x125.jpg"
+      },
+      {
+        "name": "SFP Direct Attach Cable",
+        "page": "https://dir.indiamart.com/impcat/sfp-direct-attach-cable.html",
+        "thumbnail": "http://4.imimg.com/data4/XX/XX/GLADMIN-/sfp-direct-attach-cable-125x125.jpg"
+      },
+      {
+        "name": "RJ11 Cable",
+        "page": "https://dir.indiamart.com/impcat/rj11-cables.html",
+        "thumbnail": "http://4.imimg.com/data4/AA/AA/GLADMIN-/rj11-cables-125x125.jpg"
+      },
+      {
+        "name": "TV Coaxial Cables",
+        "page": "https://dir.indiamart.com/impcat/tv-coaxial-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/BU/GLADMIN-150376/tv-coaxial-cables-125x125.jpg"
+      },
+      {
+        "name": "CATV Coaxial Cable",
+        "page": "https://dir.indiamart.com/impcat/catv-coaxial-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/EQ/FT/GLADMIN-53108/catv-coaxial-cable-125x125.jpg"
+      },
+      {
+        "name": "PCM Cable",
+        "page": "https://dir.indiamart.com/impcat/pcm-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/VH/RK/GLADMIN-53139/pcm-cable-125x125.jpg"
+      },
+      {
+        "name": "Data Transmission Cable",
+        "page": "https://dir.indiamart.com/impcat/data-transmission-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/IT/LY/XK/87924/data-transmission-cable-125x125.jpg"
+      },
+      {
+        "name": "RG-58 Cable",
+        "page": "https://dir.indiamart.com/impcat/rg-58-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/OR/GLADMIN-18610/rg-58-cable-125x125.jpg"
+      },
+      {
+        "name": "CAT5E Patch Cable",
+        "page": "https://dir.indiamart.com/impcat/cat5e-patch-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/MI/EY/GLADMIN-53106/cat5e-patch-cable-125x125.jpg"
+      },
+      {
+        "name": "Triaxial Cable",
+        "page": "https://dir.indiamart.com/impcat/triaxial-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/NJ/GLADMIN-19318/triaxial-cable-125x125.jpg"
+      },
+      {
+        "name": "RG6 Quad Cable",
+        "page": "https://dir.indiamart.com/impcat/rg6-quad-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/WG/GLADMIN-128901/rg6-quad-cable-125x125.jpg"
+      },
+      {
+        "name": "RG213 Cable",
+        "page": "https://dir.indiamart.com/impcat/rg213-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/CK/GLADMIN-53153/rg213-cable-125x125.jpg"
+      },
+      {
+        "name": "RG-178 Cable",
+        "page": "https://dir.indiamart.com/impcat/rg-178-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/IF/GLADMIN-18609/rg-178-cable-125x125.jpg"
+      },
+      {
+        "name": "Multimedia Cable",
+        "page": "https://dir.indiamart.com/impcat/multimedia-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/XN/AL/CC/91810/multimedia-cable-125x125.jpg"
+      },
+      {
+        "name": "PTFE Coaxial Wire",
+        "page": "https://dir.indiamart.com/impcat/ptfe-coaxial-wire.html",
+        "thumbnail": "http://3.imimg.com/data3/MU/VR/GLADMIN-159970/ptfe-coaxial-wire-125x125.jpg"
+      },
+      {
+        "name": "Radiating Cable",
+        "page": "https://dir.indiamart.com/impcat/radiating-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/HX/PP/GLADMIN-118524/radiating-cable-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Modems",
+    "category_thumbnail": "http://3.imimg.com/data3/CK/FW/GLADMIN-142/modems-125x125.jpg",
+    "items": [
+      {
+        "name": "HDMI Dongle",
+        "page": "https://dir.indiamart.com/impcat/hdmi-dongle.html",
+        "thumbnail": "http://5.imimg.com/data5/CK/BR/GLADMIN-2/hdmi-dongle-125x125.jpg"
+      },
+      {
+        "name": "Wireless Modem",
+        "page": "https://dir.indiamart.com/impcat/wireless-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/MX/GLADMIN-20195/wireless-modem-125x125.jpg"
+      },
+      {
+        "name": "GSM Modem",
+        "page": "https://dir.indiamart.com/impcat/gsm-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/MS/SE/GLADMIN-15956/gsm-modem-125x125.jpg"
+      },
+      {
+        "name": "Bulk Sms Modem",
+        "page": "https://dir.indiamart.com/impcat/bulk-sms-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/BF/VY/GLADMIN-156968/bulk-sms-modem-125x125.jpg"
+      },
+      {
+        "name": "USB Modem",
+        "page": "https://dir.indiamart.com/impcat/usb-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/EB/GLADMIN-19843/usb-modem-125x125.jpg"
+      },
+      {
+        "name": "GPRS Modem",
+        "page": "https://dir.indiamart.com/impcat/gprs-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/JA/EY/GLADMIN-15918/gprs-modem-125x125.jpg"
+      },
+      {
+        "name": "Leased Line Modems",
+        "page": "https://dir.indiamart.com/impcat/leased-line-modems.html",
+        "thumbnail": "http://3.imimg.com/data3/WG/WF/GLADMIN-30578/leased-line-modems-125x125.jpg"
+      },
+      {
+        "name": "Multi Recharge Modem",
+        "page": "https://dir.indiamart.com/impcat/multi-recharge-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/VX/GLADMIN-158250/multi-recharge-modem-125x125.jpg"
+      },
+      {
+        "name": "External Modem",
+        "page": "https://dir.indiamart.com/impcat/external-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/GD/GLADMIN-28141/external-modem-125x125.jpg"
+      },
+      {
+        "name": "DSL Modem",
+        "page": "https://dir.indiamart.com/impcat/dsl-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/SQ/GLADMIN-13977/dsl-modem-125x125.jpg"
+      },
+      {
+        "name": "Satellite Modem",
+        "page": "https://dir.indiamart.com/impcat/satellite-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/NN/CV/GLADMIN-17975/satellite-modem-125x125.jpg"
+      },
+      {
+        "name": "FAX Modem",
+        "page": "https://dir.indiamart.com/impcat/fax-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/JP/GLADMIN-12257/fax-modem-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Modem",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/CG/JF/GLADMIN-14636/bluetooth-modem-125x125.jpg"
+      },
+      {
+        "name": "GPS Modem",
+        "page": "https://dir.indiamart.com/impcat/gps-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/KS/WD/GLADMIN-163712/gps-modem-125x125.jpg"
+      },
+      {
+        "name": "CDMA Wireless Modem",
+        "page": "https://dir.indiamart.com/impcat/cdma-wireless-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/MU/GLADMIN-104262/cdma-wireless-modem-125x125.jpg"
+      },
+      {
+        "name": "Internal Modems",
+        "page": "https://dir.indiamart.com/impcat/internal-modems.html",
+        "thumbnail": "http://3.imimg.com/data3/DB/DY/GLADMIN-31036/internal-modems-125x125.jpg"
+      },
+      {
+        "name": "Digital Modem",
+        "page": "https://dir.indiamart.com/impcat/digital-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/YU/TW/GLADMIN-13495/digital-modem-125x125.jpg"
+      },
+      {
+        "name": "ISDN Modem",
+        "page": "https://dir.indiamart.com/impcat/isdn-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/RD/MY-2/isdn-modem-125x125.jpg"
+      },
+      {
+        "name": "Analog Modem",
+        "page": "https://dir.indiamart.com/impcat/analog-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/QM/GLADMIN-14710/analog-modem-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Server Parts",
+    "category_thumbnail": "http://4.imimg.com/data4/XR/LY/GLADMIN-178535/server-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "GPON OLT",
+        "page": "https://dir.indiamart.com/impcat/gpon-olt.html",
+        "thumbnail": "http://5.imimg.com/data5/RJ/CU/ZN/GLADMIN-76441/gpon-olt-125x125.png"
+      },
+      {
+        "name": "EPON OLT",
+        "page": "https://dir.indiamart.com/impcat/epon-olt.html",
+        "thumbnail": "http://5.imimg.com/data5/ZE/SW/NA/GLADMIN-76441/epon-olt-125x125.jpg"
+      },
+      {
+        "name": "Server Power Supply",
+        "page": "https://dir.indiamart.com/impcat/server-power-supply.html",
+        "thumbnail": "http://4.imimg.com/data4/NU/IC/GLADMIN-178660/server-power-supply-125x125.jpg"
+      },
+      {
+        "name": "Server Hard Disk",
+        "page": "https://dir.indiamart.com/impcat/server-hard-disk.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/VX/GLADMIN-/cdimg-883782-9978513-0-1249440898-ibm_server_hard_disk-125x125.jpg"
+      },
+      {
+        "name": "Server Memory",
+        "page": "https://dir.indiamart.com/impcat/server-memory.html",
+        "thumbnail": "http://4.imimg.com/data4/RF/BT/GLADMIN-178536/server-memory-125x125.jpg"
+      },
+      {
+        "name": "Server Load Balancer",
+        "page": "https://dir.indiamart.com/impcat/server-load-balancer.html",
+        "thumbnail": "http://3.imimg.com/data3/RF/CY/GLADMIN-70062/server-load-balancer-125x125.jpg"
+      },
+      {
+        "name": "Rack Server Case",
+        "page": "https://dir.indiamart.com/impcat/rack-server-case.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/AY/GLADMIN-87982/rack-server-case-125x125.jpg"
+      },
+      {
+        "name": "Computer Racks",
+        "page": "https://dir.indiamart.com/impcat/computer-racks.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/ST/GLADMIN-25648/computer-racks-125x125.jpg"
+      },
+      {
+        "name": "Network Chassis",
+        "page": "https://dir.indiamart.com/impcat/network-chassis.html",
+        "thumbnail": "http://3.imimg.com/data3/MS/DK/GLADMIN-111685/network-chassis-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ethernet Switch",
+    "category_thumbnail": "http://3.imimg.com/data3/QX/MO/GLADMIN-14209/ethernet-switch-125x125.jpg",
+    "items": [
+      {
+        "name": "POE Switch",
+        "page": "https://dir.indiamart.com/impcat/poe-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/LF/GLADMIN-132747/poe-switch-125x125.jpg"
+      },
+      {
+        "name": "Industrial Ethernet Switches",
+        "page": "https://dir.indiamart.com/impcat/industrial-ethernet-switches.html",
+        "thumbnail": "http://5.imimg.com/data5/KE/OD/GLADMIN-2/industrial-ethernet-switches-125x125.jpg"
+      },
+      {
+        "name": "Gigabit Switch",
+        "page": "https://dir.indiamart.com/impcat/gigabit-switch.html",
+        "thumbnail": "http://5.imimg.com/data5/IF/HS/GLADMIN-2/gigabit-switch-125x125.jpg"
+      },
+      {
+        "name": "Unmanaged Ethernet Switches",
+        "page": "https://dir.indiamart.com/impcat/unmanaged-ethernet-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/PD/GLADMIN-162152/unmanaged-ethernet-switches-125x125.jpg"
+      },
+      {
+        "name": "Managed Gigabit Switches",
+        "page": "https://dir.indiamart.com/impcat/managed-gigabit-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/KW/GLADMIN-108361/managed-gigabit-switches-125x125.jpg"
+      },
+      {
+        "name": "LAN Switches",
+        "page": "https://dir.indiamart.com/impcat/lan-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/VJ/FK/GLADMIN-31508/lan-switches-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ethernet Device",
+    "category_thumbnail": "http://3.imimg.com/data3/TK/KQ/GLADMIN-28017/ethernet-device-125x125.jpg",
+    "items": [
+      {
+        "name": "Mikrotik Routerboard",
+        "page": "https://dir.indiamart.com/impcat/mikrotik-routerboard.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/UU/GLADMIN-111539/mikrotik-routerboard-125x125.jpg"
+      },
+      {
+        "name": "GSM GPRS Module",
+        "page": "https://dir.indiamart.com/impcat/gsm-gprs-module.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/SO/GLADMIN-65241/gsm-gprs-module-125x125.jpg"
+      },
+      {
+        "name": "LAN Extender",
+        "page": "https://dir.indiamart.com/impcat/lan-extender.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/AQ/GLADMIN-150761/lan-extender-125x125.jpg"
+      },
+      {
+        "name": "GSM Module",
+        "page": "https://dir.indiamart.com/impcat/gsm-module.html",
+        "thumbnail": "http://3.imimg.com/data3/MY/WO/GLADMIN-29866/gsm-module-125x125.jpg"
+      },
+      {
+        "name": "Power Over Ethernet Injector",
+        "page": "https://dir.indiamart.com/impcat/power-over-ethernet-injector.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/LP/SI/WM/49660/power-over-ethernet-injector-125x125.jpg"
+      },
+      {
+        "name": "POE Extender",
+        "page": "https://dir.indiamart.com/impcat/poe-extender.html",
+        "thumbnail": "http://3.imimg.com/data3/NU/EM/GLADMIN-132746/poe-extender-125x125.jpg"
+      },
+      {
+        "name": "GPRS Module",
+        "page": "https://dir.indiamart.com/impcat/gprs-module.html",
+        "thumbnail": "http://3.imimg.com/data3/MB/GC/GLADMIN-29888/gprs-module-125x125.jpg"
+      },
+      {
+        "name": "POE Splitters",
+        "page": "https://dir.indiamart.com/impcat/poe-splitters.html",
+        "thumbnail": "http://5.imimg.com/data5/JS/EJ/UZ/GLADMIN-68155/poe-splitters-125x125.jpg"
+      },
+      {
+        "name": "Ethernet Module",
+        "page": "https://dir.indiamart.com/impcat/ethernet-module.html",
+        "thumbnail": "http://3.imimg.com/data3/PN/IL/GLADMIN-147384/ethernet-module-125x125.jpg"
+      },
+      {
+        "name": "POE Power Supply",
+        "page": "https://dir.indiamart.com/impcat/poe-power-supply.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/a-img923-3222-prjm7f-125x125.jpg"
+      },
+      {
+        "name": "Power Over Ethernet",
+        "page": "https://dir.indiamart.com/impcat/power-over-ethernet.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/YA/GLADMIN-35704/power-over-ethernet-125x125.jpg"
+      },
+      {
+        "name": "Ethernet Virtual Desktop",
+        "page": "https://dir.indiamart.com/impcat/ethernet-virtual-desktop.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/TK/GLADMIN-157788/ethernet-virtual-desktop-125x125.jpg"
+      },
+      {
+        "name": "Digital Expansion Module",
+        "page": "https://dir.indiamart.com/impcat/digital-expansion-module.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/FH/GLADMIN-104518/digital-expansion-module-125x125.jpg"
+      },
+      {
+        "name": "Connector Housing",
+        "page": "https://dir.indiamart.com/impcat/connector-housing.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/HG/GLADMIN-53290/connector-housing-125x125.jpg"
+      },
+      {
+        "name": "Ethernet Cards",
+        "page": "https://dir.indiamart.com/impcat/ethernet-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/BW/GLADMIN-28015/ethernet-cards-125x125.jpg"
+      },
+      {
+        "name": "Modem Pools",
+        "page": "https://dir.indiamart.com/impcat/modem-pools.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/JG/GLADMIN-153075/modem-pools-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Media Converter",
+    "category_thumbnail": "http://3.imimg.com/data3/ST/IL/GLADMIN-31848/media-converter-125x125.jpg",
+    "items": [
+      {
+        "name": "RS232 Converter",
+        "page": "https://dir.indiamart.com/impcat/rs232-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/HQ/FS/GLADMIN-36923/rs232-converter-125x125.jpg"
+      },
+      {
+        "name": "Ethernet Media Converter",
+        "page": "https://dir.indiamart.com/impcat/ethernet-media-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/FF/AT/GLADMIN-65238/ethernet-media-converter-125x125.jpg"
+      },
+      {
+        "name": "Fiber Media Converter",
+        "page": "https://dir.indiamart.com/impcat/fiber-media-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/BN/GLADMIN-65239/fiber-media-converter-125x125.jpg"
+      },
+      {
+        "name": "Optical Transceiver",
+        "page": "https://dir.indiamart.com/impcat/optical-transceiver.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/JN/GLADMIN-84118/optical-transceiver-125x125.jpg"
+      },
+      {
+        "name": "Video Converter",
+        "page": "https://dir.indiamart.com/impcat/video-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/ET/GP/GLADMIN-40692/video-converter-125x125.jpg"
+      },
+      {
+        "name": "Media Converter Chassis",
+        "page": "https://dir.indiamart.com/impcat/media-converter-chassis.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/OE/GLADMIN-65245/media-converter-chassis-125x125.jpg"
+      },
+      {
+        "name": "Managed Media Converter Chassis",
+        "page": "https://dir.indiamart.com/impcat/managed-media-converter-chassis.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/TI/GLADMIN-132699/managed-media-converter-chassis-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Network Gateway",
+    "category_thumbnail": "http://3.imimg.com/data3/BF/NO/GLADMIN-17648/network-gateway-125x125.jpg",
+    "items": [
+      {
+        "name": "GSM Gateway Devices",
+        "page": "https://dir.indiamart.com/impcat/gsm-gateway-devices.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/BL/GLADMIN-163258/gsm-gateway-devices-125x125.jpg"
+      },
+      {
+        "name": "VoIP Gateway",
+        "page": "https://dir.indiamart.com/impcat/voip-gateway.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/MA/GLADMIN-40834/voip-gateway-125x125.jpg"
+      },
+      {
+        "name": "Modbus Gateway",
+        "page": "https://dir.indiamart.com/impcat/modbus-gateway.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/SQ/GLADMIN-132708/modbus-gateway-125x125.jpg"
+      },
+      {
+        "name": "IoT Gateway",
+        "page": "https://dir.indiamart.com/impcat/iot-gateway.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/QX/CD/RT/81953/iot-gateway-125x125.jpg"
+      },
+      {
+        "name": "Fixed Cellular Terminal",
+        "page": "https://dir.indiamart.com/impcat/fixed-cellular-terminal.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/SL/GLADMIN-28451/fixed-cellular-terminal-125x125.jpg"
+      },
+      {
+        "name": "PRI Gateway",
+        "page": "https://dir.indiamart.com/impcat/pri-gateway.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/CC/GLADMIN-/pri-gateway-125x125.jpg"
+      },
+      {
+        "name": "Network Hubs",
+        "page": "https://dir.indiamart.com/impcat/network-hubs.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/TD/GLADMIN-32652/network-hubs-125x125.jpg"
+      },
+      {
+        "name": "VPN Gateway",
+        "page": "https://dir.indiamart.com/impcat/vpn-gateway.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/GW/GLADMIN-20035/vpn-gateway-125x125.jpg"
+      },
+      {
+        "name": "Network Bridge",
+        "page": "https://dir.indiamart.com/impcat/network-bridge.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/MU/GLADMIN-17647/network-bridge-125x125.jpg"
+      },
+      {
+        "name": "CDMA Gateway",
+        "page": "https://dir.indiamart.com/impcat/cdma-gateway.html",
+        "thumbnail": "http://3.imimg.com/data3/LS/VI/GLADMIN-156454/cdma-gateway-125x125.jpg"
+      },
+      {
+        "name": "ISDN Gateway",
+        "page": "https://dir.indiamart.com/impcat/isdn-gateway.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/RB/MY-2/isdn-gateway-125x125.jpg"
+      },
+      {
+        "name": "Multi Homing Security Gateway",
+        "page": "https://dir.indiamart.com/impcat/multi-homing-security-gateway.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/SM/GLADMIN-132716/multi-homing-security-gateway-125x125.jpg"
+      },
+      {
+        "name": "LAN Gateway",
+        "page": "https://dir.indiamart.com/impcat/lan-gateway.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/QG/GLADMIN-16954/lan-gateway-125x125.jpg"
+      },
+      {
+        "name": "DSL Gateway",
+        "page": "https://dir.indiamart.com/impcat/dsl-gateway.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/WF/GLADMIN-13976/dsl-gateway-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Web Server",
+    "category_thumbnail": "http://5.imimg.com/data5/UA/WH/GLADMIN-2/web-server-125x125.jpg",
+    "items": [
+      {
+        "name": "Computer Servers",
+        "page": "https://dir.indiamart.com/impcat/computer-servers.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/RA/OE/WA/49660/computer-servers-125x125.webp"
+      },
+      {
+        "name": "Network Attached Storage",
+        "page": "https://dir.indiamart.com/impcat/network-attached-storage.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/MX/GLADMIN-138037/network-attached-storage-125x125.jpg"
+      },
+      {
+        "name": "Refurbished Server",
+        "page": "https://dir.indiamart.com/impcat/refurbished-server.html",
+        "thumbnail": "http://4.imimg.com/data4/NY/LQ/GLADMIN-178622/refurbished-server-125x125.jpg"
+      },
+      {
+        "name": "Network Storage Server",
+        "page": "https://dir.indiamart.com/impcat/network-storage-server.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/SX/GLADMIN-132721/network-storage-server-125x125.jpg"
+      },
+      {
+        "name": "Printer Servers",
+        "page": "https://dir.indiamart.com/impcat/printer-servers.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/BK/GLADMIN-35742/printer-servers-125x125.jpg"
+      },
+      {
+        "name": "Network Server",
+        "page": "https://dir.indiamart.com/impcat/network-server.html",
+        "thumbnail": "http://3.imimg.com/data3/NW/DC/GLADMIN-87553/network-server-125x125.jpg"
+      },
+      {
+        "name": "Storage Server",
+        "page": "https://dir.indiamart.com/impcat/storage-server.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/IX/GLADMIN-38862/storage-server-125x125.jpg"
+      },
+      {
+        "name": "Network Storage System",
+        "page": "https://dir.indiamart.com/impcat/network-storage-system.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/PJ/GLADMIN-32658/network-storage-system-125x125.jpg"
+      },
+      {
+        "name": "Serial Device Server",
+        "page": "https://dir.indiamart.com/impcat/serial-device-server.html",
+        "thumbnail": "http://3.imimg.com/data3/SG/IF/GLADMIN-162373/serial-device-server-125x125.jpg"
+      },
+      {
+        "name": "Console Server",
+        "page": "https://dir.indiamart.com/impcat/console-server.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/GR/GLADMIN-70060/console-server-125x125.jpg"
+      },
+      {
+        "name": "Blade Server",
+        "page": "https://dir.indiamart.com/impcat/blade-server.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/VW/GLADMIN-49720/blade-server-125x125.jpg"
+      },
+      {
+        "name": "Second Hand Server",
+        "page": "https://dir.indiamart.com/impcat/used-server.html",
+        "thumbnail": "http://5.imimg.com/data5/MJ/VB/GLADMIN-2/used-server-125x125.jpg"
+      },
+      {
+        "name": "Proxy Servers",
+        "page": "https://dir.indiamart.com/impcat/proxy-servers.html",
+        "thumbnail": "http://3.imimg.com/data3/FY/KQ/GLADMIN-35903/proxy-servers-125x125.jpg"
+      },
+      {
+        "name": "Tower Servers",
+        "page": "https://dir.indiamart.com/impcat/tower-servers.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381901485/LW/DR/YU/89350/tower-servers-125x125.png"
+      },
+      {
+        "name": "Router Rental",
+        "page": "https://dir.indiamart.com/impcat/router-rental.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/IU/GLADMIN-176788/router-rental-125x125.jpg"
+      },
+      {
+        "name": "Communication Servers",
+        "page": "https://dir.indiamart.com/impcat/communication-servers.html",
+        "thumbnail": "http://3.imimg.com/data3/ES/VJ/GLADMIN-25582/communication-servers-125x125.jpg"
+      },
+      {
+        "name": "Video Server",
+        "page": "https://dir.indiamart.com/impcat/video-server.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/NY/GLADMIN-40726/video-server-125x125.jpg"
+      },
+      {
+        "name": "Entry Level Server",
+        "page": "https://dir.indiamart.com/impcat/entry-level-server.html",
+        "thumbnail": "http://3.imimg.com/data3/VR/YF/GLADMIN-159828/entry-level-server-125x125.jpg"
+      },
+      {
+        "name": "Embedded Device Server",
+        "page": "https://dir.indiamart.com/impcat/embedded-device-server.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/UT/GLADMIN-108353/embedded-device-server-125x125.jpg"
+      },
+      {
+        "name": "Surveillance Server",
+        "page": "https://dir.indiamart.com/impcat/surveillance-server.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/VK/GLADMIN-39288/surveillance-server-125x125.jpg"
+      },
+      {
+        "name": "Pedestal Server",
+        "page": "https://dir.indiamart.com/impcat/pedestal-server.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/CN/GLADMIN-111779/pedestal-server-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Networking Peripherals",
+    "category_thumbnail": "http://3.imimg.com/data3/XC/FC/GLADMIN-32660/networking-peripherals-125x125.jpg",
+    "items": [
+      {
+        "name": "GSM Controller",
+        "page": "https://dir.indiamart.com/impcat/gsm-controller.html",
+        "thumbnail": "http://3.imimg.com/data3/HN/EX/GLADMIN-162335/gsm-controller-125x125.jpg"
+      },
+      {
+        "name": "WiFi Range Extender",
+        "page": "https://dir.indiamart.com/impcat/wifi-range-extender.html",
+        "thumbnail": "http://5.imimg.com/data5/XD/KP/GLADMIN-2/wifi-range-extender-125x125.jpg"
+      },
+      {
+        "name": "MikroTik SXT Router",
+        "page": "https://dir.indiamart.com/impcat/mikrotik-sxt.html",
+        "thumbnail": "http://5.imimg.com/data5/RR/RR/GLADMIN-/mikrotik-sxt-125x125.jpg"
+      },
+      {
+        "name": "TCP IP Device",
+        "page": "https://dir.indiamart.com/impcat/tcp-ip-device.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/GE/GLADMIN-65254/tcp-ip-device-125x125.jpg"
+      },
+      {
+        "name": "Network Transceivers",
+        "page": "https://dir.indiamart.com/impcat/network-transceivers.html",
+        "thumbnail": "http://3.imimg.com/data3/WG/AJ/GLADMIN-32659/network-transceivers-125x125.jpg"
+      },
+      {
+        "name": "USB Switch",
+        "page": "https://dir.indiamart.com/impcat/usb-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/TE/XK/GLADMIN-19848/usb-switch-125x125.jpg"
+      },
+      {
+        "name": "Channel Extender",
+        "page": "https://dir.indiamart.com/impcat/channel-extender.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/QG/GLADMIN-23998/channel-extender-125x125.jpg"
+      },
+      {
+        "name": "GSM SMS Alarm Controller",
+        "page": "https://dir.indiamart.com/impcat/gsm-sms-alarm-controller.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/SN/GLADMIN-165102/gsm-sms-alarm-controller-125x125.jpg"
+      },
+      {
+        "name": "Remote Access Hardware",
+        "page": "https://dir.indiamart.com/impcat/remote-access-hardware.html",
+        "thumbnail": "http://3.imimg.com/data3/FD/XA/GLADMIN-36193/remote-access-hardware-125x125.jpg"
+      },
+      {
+        "name": "Client Terminal",
+        "page": "https://dir.indiamart.com/impcat/client-terminal.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/XA/GLADMIN-129255/client-terminal-125x125.jpg"
+      },
+      {
+        "name": "IP KVM",
+        "page": "https://dir.indiamart.com/impcat/ip-kvm.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/IP/GLADMIN-70061/ip-kvm-125x125.jpg"
+      },
+      {
+        "name": "Monitor Switcher",
+        "page": "https://dir.indiamart.com/impcat/monitor-switcher.html",
+        "thumbnail": "http://3.imimg.com/data3/YV/DM/GLADMIN-33284/monitor-switcher-125x125.jpg"
+      },
+      {
+        "name": "KVM Switch Box",
+        "page": "https://dir.indiamart.com/impcat/kvm-switch-box.html",
+        "thumbnail": "http://3.imimg.com/data3/BR/NG/GLADMIN-31384/kvm-switch-box-125x125.jpg"
+      },
+      {
+        "name": "Symbol Access Points",
+        "page": "https://dir.indiamart.com/impcat/symbol-access-points.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/KK/GLADMIN-129460/symbol-access-points-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Network Router",
+    "category_thumbnail": "http://3.imimg.com/data3/RF/RN/GLADMIN-17651/network-router-125x125.jpg",
+    "items": [
+      {
+        "name": "WiFi Router",
+        "page": "https://dir.indiamart.com/impcat/wifi-router.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/GH/GLADMIN-132961/wifi-router-125x125.jpg"
+      },
+      {
+        "name": "Industrial Routers",
+        "page": "https://dir.indiamart.com/impcat/industrial-routers.html",
+        "thumbnail": "http://5.imimg.com/data5/IG/LW/YO/GLADMIN-56986/industrial-routers-125x125.jpg"
+      },
+      {
+        "name": "VPN Router",
+        "page": "https://dir.indiamart.com/impcat/vpn-router.html",
+        "thumbnail": "http://3.imimg.com/data3/KQ/KE/GLADMIN-20036/vpn-router-125x125.jpg"
+      },
+      {
+        "name": "Cable Modem Router",
+        "page": "https://dir.indiamart.com/impcat/cable-modem-router.html",
+        "thumbnail": "http://3.imimg.com/data3/OU/XO/GLADMIN-23017/cable-modem-router-125x125.jpg"
+      },
+      {
+        "name": "WAN Router",
+        "page": "https://dir.indiamart.com/impcat/wan-router.html",
+        "thumbnail": "http://5.imimg.com/data5/SR/NY/GLADMIN-2/wan-router-125x125.jpg"
+      },
+      {
+        "name": "Optical Router",
+        "page": "https://dir.indiamart.com/impcat/optical-router.html",
+        "thumbnail": "http://3.imimg.com/data3/WD/UW/GLADMIN-17469/optical-router-125x125.jpg"
+      },
+      {
+        "name": "Core Router",
+        "page": "https://dir.indiamart.com/impcat/core-router.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/WH/GLADMIN-13410/core-router-125x125.jpg"
+      },
+      {
+        "name": "DSL Router",
+        "page": "https://dir.indiamart.com/impcat/dsl-router.html",
+        "thumbnail": "http://5.imimg.com/data5/UW/QC/GLADMIN-2/dsl-router-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Network Switch",
+    "category_thumbnail": "http://3.imimg.com/data3/OJ/KO/GLADMIN-17652/network-switch-125x125.jpg",
+    "items": [
+      {
+        "name": "Ethernet Switch",
+        "page": "https://dir.indiamart.com/impcat/ethernet-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/QX/MO/GLADMIN-14209/ethernet-switch-125x125.jpg"
+      },
+      {
+        "name": "Router Switches",
+        "page": "https://dir.indiamart.com/impcat/router-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/TP/GLADMIN-53292/router-switches-125x125.jpg"
+      },
+      {
+        "name": "Layer 3 Switches",
+        "page": "https://dir.indiamart.com/impcat/layer-3-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/TE/GLADMIN-30503/layer-3-switches-125x125.jpg"
+      },
+      {
+        "name": "Layer 2 Switches",
+        "page": "https://dir.indiamart.com/impcat/layer-2-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/XQ/GLADMIN-30502/layer-2-switches-125x125.jpg"
+      },
+      {
+        "name": "Optical Switch",
+        "page": "https://dir.indiamart.com/impcat/optical-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/AE/HT/GLADMIN-34698/optical-switch-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Switches",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/MO/BN/GLADMIN-27410/fiber-optic-switches-125x125.jpg"
+      },
+      {
+        "name": "Fiber Channel Switch",
+        "page": "https://dir.indiamart.com/impcat/fiber-channel-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/GT/SH/GLADMIN-14091/fiber-channel-switch-125x125.jpg"
+      },
+      {
+        "name": "Layer 4 Switches",
+        "page": "https://dir.indiamart.com/impcat/layer-4-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/LA/HJ/GLADMIN-30504/layer-4-switches-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Network Transceivers",
+    "category_thumbnail": "http://3.imimg.com/data3/WG/AJ/GLADMIN-32659/network-transceivers-125x125.jpg",
+    "items": [
+      {
+        "name": "SFP Optical Transceiver",
+        "page": "https://dir.indiamart.com/impcat/sfp-optical-transceiver.html",
+        "thumbnail": "http://3.imimg.com/data3/GN/QB/GLADMIN-84119/sfp-optical-transceiver-125x125.jpg"
+      },
+      {
+        "name": "Optical Transceiver",
+        "page": "https://dir.indiamart.com/impcat/optical-transceiver.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/JN/GLADMIN-84118/optical-transceiver-125x125.jpg"
+      },
+      {
+        "name": "GBIC Transceiver",
+        "page": "https://dir.indiamart.com/impcat/gbic-transceiver.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/RW/GLADMIN-118578/gbic-transceiver-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Network Interface Cards",
+    "category_thumbnail": "http://3.imimg.com/data3/YM/EQ/GLADMIN-32653/network-interface-cards-125x125.jpg",
+    "items": [
+      {
+        "name": "Wireless LAN Card",
+        "page": "https://dir.indiamart.com/impcat/wireless-lan-card.html",
+        "thumbnail": "http://3.imimg.com/data3/YR/WM/GLADMIN-41158/wireless-lan-card-125x125.jpg"
+      },
+      {
+        "name": "Laptop Wireless Card",
+        "page": "https://dir.indiamart.com/impcat/laptop-wireless-card.html",
+        "thumbnail": "http://3.imimg.com/data3/TQ/MP/GLADMIN-105640/laptop-wireless-card-125x125.jpg"
+      },
+      {
+        "name": "LAN Card",
+        "page": "https://dir.indiamart.com/impcat/lan-card.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/IP/GLADMIN-16952/lan-card-125x125.jpg"
+      },
+      {
+        "name": "WAN Card",
+        "page": "https://dir.indiamart.com/impcat/wan-card.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/OY/GLADMIN-20062/wan-card-125x125.jpg"
+      },
+      {
+        "name": "Wireless Cards",
+        "page": "https://dir.indiamart.com/impcat/wireless-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/PL/GLADMIN-41294/wireless-cards-125x125.jpg"
+      },
+      {
+        "name": "Serial Card",
+        "page": "https://dir.indiamart.com/impcat/serial-card.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/AE/GLADMIN-37966/serial-card-125x125.jpg"
+      },
+      {
+        "name": "Telephony Cards",
+        "page": "https://dir.indiamart.com/impcat/telephony-cards.html",
+        "thumbnail": "http://5.imimg.com/data5/LS/UG/GLADMIN-2/telephony-cards-125x125.jpg"
+      },
+      {
+        "name": "Wireless Internet Card",
+        "page": "https://dir.indiamart.com/impcat/wireless-internet-card.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/VX/GLADMIN-53293/wireless-internet-card-125x125.jpg"
+      },
+      {
+        "name": "Network System Board",
+        "page": "https://dir.indiamart.com/impcat/network-system-board.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/OV/GLADMIN-17653/network-system-board-125x125.jpg"
+      },
+      {
+        "name": "Asterisk GSM Cards",
+        "page": "https://dir.indiamart.com/impcat/asterisk-gsm-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/YP/GLADMIN-45484/asterisk-gsm-cards-125x125.jpg"
+      },
+      {
+        "name": "Wireless LAN PCI Card",
+        "page": "https://dir.indiamart.com/impcat/wireless-lan-pci-card.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/KH/GLADMIN-101743/wireless-lan-pci-card-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Network Adapter",
+    "category_thumbnail": "http://3.imimg.com/data3/PK/PX/GLADMIN-32642/network-adapter-125x125.jpg",
+    "items": [
+      {
+        "name": "Ethernet Adapter",
+        "page": "https://dir.indiamart.com/impcat/ethernet-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/RP/XC/GLADMIN-132632/ethernet-adapter-125x125.jpg"
+      },
+      {
+        "name": "LAN Adapters",
+        "page": "https://dir.indiamart.com/impcat/lan-adapters.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/CN/GLADMIN-1063/lan-adapters-125x125.jpg"
+      },
+      {
+        "name": "Wireless LAN USB Adapter",
+        "page": "https://dir.indiamart.com/impcat/wireless-lan-usb-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/AL/IX/GLADMIN-129578/wireless-lan-usb-adapter-125x125.jpg"
+      },
+      {
+        "name": "Ethernet Adaptor",
+        "page": "https://dir.indiamart.com/impcat/ethernet-adaptor.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/PR/GLADMIN-28014/ethernet-adaptor-125x125.jpg"
+      },
+      {
+        "name": "Wireless PCI Adapter",
+        "page": "https://dir.indiamart.com/impcat/wireless-pci-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/QG/GLADMIN-41315/wireless-pci-adapter-125x125.jpg"
+      },
+      {
+        "name": "Wireless USB Network Adapter",
+        "page": "https://dir.indiamart.com/impcat/wireless-usb-network-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/FO/GLADMIN-98708/wireless-usb-network-adapter-125x125.jpg"
+      },
+      {
+        "name": "SCSI Card",
+        "page": "https://dir.indiamart.com/impcat/scsi-card.html",
+        "thumbnail": "http://3.imimg.com/data3/NN/WH/GLADMIN-65252/scsi-card-125x125.jpg"
+      },
+      {
+        "name": "Power line Adapter",
+        "page": "https://dir.indiamart.com/impcat/power-line-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/MJ/GLADMIN-132750/power-line-adapter-125x125.jpg"
+      },
+      {
+        "name": "Modem Adaptor",
+        "page": "https://dir.indiamart.com/impcat/modem-adaptor.html",
+        "thumbnail": "http://3.imimg.com/data3/BG/XV/GLADMIN-33182/modem-adaptor-125x125.jpg"
+      },
+      {
+        "name": "PCMCIA Adapter",
+        "page": "https://dir.indiamart.com/impcat/pcmcia-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/JV/GLADMIN-34759/pcmcia-adapter-125x125.jpg"
+      },
+      {
+        "name": "Storage Adapter",
+        "page": "https://dir.indiamart.com/impcat/storage-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/LC/GLADMIN-45910/storage-adapter-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Data Converters",
+    "category_thumbnail": "http://3.imimg.com/data3/LH/BN/GLADMIN-25339/data-converters-125x125.png",
+    "items": [
+      {
+        "name": "Media Converter",
+        "page": "https://dir.indiamart.com/impcat/media-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/IL/GLADMIN-31848/media-converter-125x125.jpg"
+      },
+      {
+        "name": "Protocol Converter",
+        "page": "https://dir.indiamart.com/impcat/protocol-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/FX/LR/GLADMIN-65249/protocol-converter-125x125.jpg"
+      },
+      {
+        "name": "Gigabit Interface Converter",
+        "page": "https://dir.indiamart.com/impcat/gigabit-interface-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/MQ/WC/GLADMIN-29417/gigabit-interface-converter-125x125.jpg"
+      },
+      {
+        "name": "Channel Switcher",
+        "page": "https://dir.indiamart.com/impcat/channel-switcher.html",
+        "thumbnail": "http://3.imimg.com/data3/AT/OR/GLADMIN-165099/channel-switcher-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Network Patch Panel",
+    "category_thumbnail": "http://3.imimg.com/data3/WK/AK/GLADMIN-32657/network-patch-panel-125x125.jpg",
+    "items": [
+      {
+        "name": "Fiber Optic Patch Panel",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-patch-panel.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/SP/GLADMIN-53330/fiber-optic-patch-panel-125x125.jpg"
+      },
+      {
+        "name": "CAT6 Patch Panel",
+        "page": "https://dir.indiamart.com/impcat/cat6-patch-panel.html",
+        "thumbnail": "http://3.imimg.com/data3/LM/RG/GLADMIN-53288/cat6-patch-panel-125x125.jpg"
+      },
+      {
+        "name": "CAT5 Patch Panel",
+        "page": "https://dir.indiamart.com/impcat/cat5-patch-panel.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/TV/GLADMIN-65236/cat5-patch-panel-125x125.jpg"
+      },
+      {
+        "name": "Cat3 Patch Panel",
+        "page": "https://dir.indiamart.com/impcat/cat3-patch-panel.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/GC/GLADMIN-101736/cat3-patch-panel-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Network Communication Connector",
+    "category_thumbnail": "http://3.imimg.com/data3/TX/IU/GLADMIN-111686/network-communication-connector-125x125.jpg",
+    "items": [
+      {
+        "name": "DIN Rail Terminal Block",
+        "page": "https://dir.indiamart.com/impcat/dinrail-terminal-block.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/YY/GLADMIN-110013/dinrail-terminal-block-125x125.jpg"
+      },
+      {
+        "name": "LAN Connectors",
+        "page": "https://dir.indiamart.com/impcat/lan-connectors.html",
+        "thumbnail": "http://3.imimg.com/data3/AF/IO/GLADMIN-31506/lan-connectors-125x125.jpg"
+      },
+      {
+        "name": "Cat 6 Connector",
+        "page": "https://dir.indiamart.com/impcat/cat-6-connector.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/TJ/GLADMIN-53286/cat-6-connector-125x125.jpg"
+      },
+      {
+        "name": "Cat 5e Connector",
+        "page": "https://dir.indiamart.com/impcat/cat-5e-connector.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/OU/GLADMIN-53284/cat-5e-connector-125x125.jpg"
+      },
+      {
+        "name": "CATV Connector",
+        "page": "https://dir.indiamart.com/impcat/catv-connector.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/GF/GLADMIN-53289/catv-connector-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "DSL Router",
+    "category_thumbnail": "http://5.imimg.com/data5/UW/QC/GLADMIN-2/dsl-router-125x125.jpg",
+    "items": [
+      {
+        "name": "ADSL Router",
+        "page": "https://dir.indiamart.com/impcat/adsl-router.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/SY/GLADMIN-21596/adsl-router-125x125.jpg"
+      },
+      {
+        "name": "ADSL Modem",
+        "page": "https://dir.indiamart.com/impcat/adsl-modem.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/UY/GLADMIN-15072/adsl-modem-125x125.jpg"
+      },
+      {
+        "name": "Wireless DSL Router",
+        "page": "https://dir.indiamart.com/impcat/wireless-dsl-router.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/FI/GLADMIN-41154/wireless-dsl-router-125x125.jpg"
+      },
+      {
+        "name": "Cable DSL Router",
+        "page": "https://dir.indiamart.com/impcat/cable-dsl-router.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/NK/GLADMIN-23985/cable-dsl-router-125x125.jpg"
+      },
+      {
+        "name": "ISDN Router",
+        "page": "https://dir.indiamart.com/impcat/isdn-router.html",
+        "thumbnail": "http://3.imimg.com/data3/GO/GJ/GLADMIN-15879/isdn-router-125x125.jpg"
+      },
+      {
+        "name": "Wireless ADSL",
+        "page": "https://dir.indiamart.com/impcat/wireless-adsl.html",
+        "thumbnail": "http://3.imimg.com/data3/LU/EX/GLADMIN-118038/wireless-adsl-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "LAN Cable",
+    "category_thumbnail": "http://3.imimg.com/data3/VP/SA/GLADMIN-31505/lan-cable-125x125.jpg",
+    "items": [
+      {
+        "name": "Cat 6 Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-6-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/YK/GLADMIN-14433/cat-6-cable-125x125.jpg"
+      },
+      {
+        "name": "Cat 5e Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-5e-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/IR/MY-2/cat-5e-cable-125x125.jpg"
+      },
+      {
+        "name": "Patch Cords",
+        "page": "https://dir.indiamart.com/impcat/patch-cords.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/NJ/GLADMIN-34580/patch-cords-125x125.jpg"
+      },
+      {
+        "name": "Cat 7 Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-7-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/FR/MY-2/cat-7-cable-125x125.jpg"
+      },
+      {
+        "name": "Twisted Pair Cables",
+        "page": "https://dir.indiamart.com/impcat/twisted-pair-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/KL/GLADMIN-1064/twisted-pair-cables-125x125.jpg"
+      },
+      {
+        "name": "Networking Cable",
+        "page": "https://dir.indiamart.com/impcat/networking-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/HH/GLADMIN-17655/networking-cable-125x125.jpg"
+      },
+      {
+        "name": "Cat 5 Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-5-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/BI/OX/GLADMIN-14431/cat-5-cable-125x125.jpg"
+      },
+      {
+        "name": "Cat 6e Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-6e-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/SY/GLADMIN-14434/cat-6e-cable-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Ethernet Media Converter",
+        "page": "https://dir.indiamart.com/impcat/ethernet-media-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/FF/AT/GLADMIN-65238/ethernet-media-converter-125x125.jpg"
+      }
+    ]
+  }
+]

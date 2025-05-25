@@ -1,0 +1,1480 @@
+[
+  {
+    "category_name": "Carrier Oil",
+    "category_thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/wp-content-uploads-2017-01-5-piece-variety-carrier-oil-set-coconut-oil-188387-125x125.jpg",
+    "items": [
+      {
+        "name": "Neem Oil",
+        "page": "https://dir.indiamart.com/impcat/neem-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/TR/GLADMIN-7332/neem-oil-125x125.jpg"
+      },
+      {
+        "name": "Castor Oil",
+        "page": "https://dir.indiamart.com/impcat/castor-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TX/XC/TT/93066/castor-oil-125x125.jpg"
+      },
+      {
+        "name": "Almond Oil",
+        "page": "https://dir.indiamart.com/impcat/almond-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/UF/HJ/GLADMIN-3255/almond-oil-125x125.jpg"
+      },
+      {
+        "name": "Kalonji Oil",
+        "page": "https://dir.indiamart.com/impcat/pure-kalonji-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/GA/GB/GLADMIN-182852/pure-kalonji-oil-125x125.jpg"
+      },
+      {
+        "name": "Linseed Oil",
+        "page": "https://dir.indiamart.com/impcat/linseed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/VE/GLADMIN-32197/linseed-oil-125x125.jpg"
+      },
+      {
+        "name": "Argan Oil",
+        "page": "https://dir.indiamart.com/impcat/argan-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/PL/GG/JK/85062/argan-oil-125x125.jpeg"
+      },
+      {
+        "name": "Karanja Oil",
+        "page": "https://dir.indiamart.com/impcat/karanja-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/VV/GLADMIN-127329/karanja-oil-125x125.jpg"
+      },
+      {
+        "name": "Industrial Coconut Oil",
+        "page": "https://dir.indiamart.com/impcat/industrial-coconut-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/IG/GLADMIN-149688/industrial-coconut-oil-125x125.jpg"
+      },
+      {
+        "name": "Flaxseed Oil",
+        "page": "https://dir.indiamart.com/impcat/flaxseed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/VH/KK/GLADMIN-28542/flaxseed-oil-125x125.jpg"
+      },
+      {
+        "name": "Jojoba Oil",
+        "page": "https://dir.indiamart.com/impcat/jojoba-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/KA/GLADMIN-114065/jojoba-oil-125x125.jpg"
+      },
+      {
+        "name": "Hemp Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/hemp-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/PF/OF/GLADMIN-30270/hemp-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Moringa Oil",
+        "page": "https://dir.indiamart.com/impcat/moringa-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/KN/GLADMIN-20461/moringa-oil-125x125.jpg"
+      },
+      {
+        "name": "Sea Buckthorn Oil",
+        "page": "https://dir.indiamart.com/impcat/sea-buckthorn-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/DA/KU/GLADMIN-151861/sea-buckthorn-oil-125x125.jpg"
+      },
+      {
+        "name": "Grape Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/grape-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/UJ/GLADMIN-11118/grape-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Babchi Oil",
+        "page": "https://dir.indiamart.com/impcat/babchi-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/babchi-oil-125x125.jpg"
+      },
+      {
+        "name": "Malkangani Oil",
+        "page": "https://dir.indiamart.com/impcat/malkangani-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/VV/VV/GLADMIN-/malkangani-oil-125x125.jpg"
+      },
+      {
+        "name": "Olive Carrier Oil",
+        "page": "https://dir.indiamart.com/impcat/olive-carrier-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/402522602/ST/SG/IZ/49262/olive-carrier-oil-125x125.jpg"
+      },
+      {
+        "name": "Aloe Vera Oil",
+        "page": "https://dir.indiamart.com/impcat/aloe-vera-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/XA/GLADMIN-3270/aloe-vera-oil-125x125.jpg"
+      },
+      {
+        "name": "Fractionated Coconut Oil",
+        "page": "https://dir.indiamart.com/impcat/fractionated-coconut-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/KR/AS/PR/GLADMIN-65832/fractionated-coconut-oil-125x125.jpg"
+      },
+      {
+        "name": "Apricot Oil",
+        "page": "https://dir.indiamart.com/impcat/apricot-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/XR/CT/GLADMIN-3095/apricot-oil-125x125.jpg"
+      },
+      {
+        "name": "Wheat Germ Oil",
+        "page": "https://dir.indiamart.com/impcat/wheat-germ-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/BI/IN/GLADMIN-41021/wheat-germ-oil-125x125.jpg"
+      },
+      {
+        "name": "Camellia Oil",
+        "page": "https://dir.indiamart.com/impcat/camellia-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/FO/GLADMIN-23158/camellia-oil-125x125.jpg"
+      },
+      {
+        "name": "Nirgundi Oil",
+        "page": "https://dir.indiamart.com/impcat/nirgundi-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/WW/WW/GLADMIN-/nirgundi-oil-125x125.jpg"
+      },
+      {
+        "name": "Walnut Oils",
+        "page": "https://dir.indiamart.com/impcat/walnut-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/IL/GLADMIN-40898/walnut-oils-125x125.jpg"
+      },
+      {
+        "name": "Pumpkin Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/pumpkin-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/MC/GLADMIN-34846/pumpkin-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Borage Oil",
+        "page": "https://dir.indiamart.com/impcat/borage-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/XX/GLADMIN-/a-img922-8848-xbkdhe-125x125.jpg"
+      },
+      {
+        "name": "Perilla Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/perilla-seed-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SI/BC/MH/85062/perilla-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Apple Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/apple-seed-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/OP/CK/XI/85062/apple-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Sunflower Carrier Oil",
+        "page": "https://dir.indiamart.com/impcat/sunflower-carrier-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/402544913/HW/KE/NW/49262/sunflower-carrier-oil-125x125.jpg"
+      },
+      {
+        "name": "Coconut Acid Oil",
+        "page": "https://dir.indiamart.com/impcat/coconut-acid-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/IY/FF/GLADMIN-156258/coconut-acid-oil-125x125.jpg"
+      },
+      {
+        "name": "Cashew Nut Oils",
+        "page": "https://dir.indiamart.com/impcat/cashew-nut-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/II/IG/GLADMIN-24478/cashew-nut-oils-125x125.jpg"
+      },
+      {
+        "name": "Tamanu Oil",
+        "page": "https://dir.indiamart.com/impcat/tamanu-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/XG/AS/GLADMIN-183781/tamanu-oil-125x125.jpg"
+      },
+      {
+        "name": "Poppy Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/poppy-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/HT/GLADMIN-177224/poppy-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Calendula Oil",
+        "page": "https://dir.indiamart.com/impcat/calendula-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/SO/SX/GLADMIN-5475/calendula-oil-125x125.jpg"
+      },
+      {
+        "name": "Emu Oil",
+        "page": "https://dir.indiamart.com/impcat/emu-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/MJ/GLADMIN-27798/emu-oil-125x125.jpg"
+      },
+      {
+        "name": "Avocado Carrier Oil",
+        "page": "https://dir.indiamart.com/impcat/avocado-carrier-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/402542294/JH/QB/AO/49262/avocado-carrier-oil-125x125.jpeg"
+      },
+      {
+        "name": "Pomegranate Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/pomegranate-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/GW/SH/GLADMIN-164623/pomegranate-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Gourd Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/gourd-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/TY/DC/GLADMIN-145044/gourd-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Macadamia Oil",
+        "page": "https://dir.indiamart.com/impcat/macadamia-natural-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/FN/YO/CE/85062/macadamia-oil-125x125.png"
+      },
+      {
+        "name": "Marula Oil",
+        "page": "https://dir.indiamart.com/impcat/marula-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/FD/LA/QP/85062/marula-oil-125x125.jpg"
+      },
+      {
+        "name": "Peach Oil",
+        "page": "https://dir.indiamart.com/impcat/peach-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/SF/QN/GLADMIN-182723/peach-oil-125x125.jpg"
+      },
+      {
+        "name": "Watermelon Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/watermelon-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/JH/GLADMIN-155931/watermelon-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Sesame Carrier Oil",
+        "page": "https://dir.indiamart.com/impcat/sesame-carrier-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/402806512/KE/FO/JD/49262/sesame-carrier-oil-125x125.jpeg"
+      },
+      {
+        "name": "Babassu Oil",
+        "page": "https://dir.indiamart.com/impcat/babassu-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/372678238/OW/OW/BG/49262/babassu-oil-125x125.jpg"
+      },
+      {
+        "name": "Musk Melon Oil",
+        "page": "https://dir.indiamart.com/impcat/musk-melon-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/KQ/QF/GLADMIN-180487/musk-melon-oil-125x125.jpg"
+      },
+      {
+        "name": "Cucumber Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/cucumber-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/PR/XU/GLADMIN-146195/cucumber-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Peanut Carrier Oil",
+        "page": "https://dir.indiamart.com/impcat/peanut-carrier-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/402799120/VB/AW/VC/49262/peanut-carrier-oil-125x125.jpg"
+      },
+      {
+        "name": "Stand Oil",
+        "page": "https://dir.indiamart.com/impcat/stand-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/AD/CE/IT/85062/stand-oil-125x125.jpg"
+      },
+      {
+        "name": "Hazelnut Oil",
+        "page": "https://dir.indiamart.com/impcat/hazelnut-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/RH/MY-2/hazelnut-oil-125x125.jpg"
+      },
+      {
+        "name": "Mango Oil",
+        "page": "https://dir.indiamart.com/impcat/mango-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/11/464515441/IL/SV/SF/49262/mango-oil-500x500-125x125.jpg"
+      },
+      {
+        "name": "Amaranth Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/amaranth-seed-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/media-catalog-product-cache-1-image-700x700-17f82f742ffe127f42dca9de82fb58b1-a-m-amaranth_oil_100-125x125.jpg"
+      },
+      {
+        "name": "Baobab Oil",
+        "page": "https://dir.indiamart.com/impcat/baobab-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/402564829/FP/RX/JS/49262/baobab-oil-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Essential Oils",
+    "category_thumbnail": "http://5.imimg.com/data5/VX/EW/GLADMIN-2/essential-oils-125x125.jpg",
+    "items": [
+      {
+        "name": "Fragrance Oil",
+        "page": "https://dir.indiamart.com/impcat/fragrance-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/YM/FK/GLADMIN-28936/fragrance-oil-125x125.jpg"
+      },
+      {
+        "name": "Perfume Oils",
+        "page": "https://dir.indiamart.com/impcat/perfume-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/KF/GLADMIN-5830/perfume-oils-125x125.jpg"
+      },
+      {
+        "name": "Aroma Oil",
+        "page": "https://dir.indiamart.com/impcat/aroma-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/HC/GLADMIN-4906/aroma-oil-125x125.jpg"
+      },
+      {
+        "name": "Aromatherapy Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/aromatherapy-essential-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/EI/GLADMIN-22382/aromatherapy-essential-oils-125x125.jpg"
+      },
+      {
+        "name": "Diffuser Oils",
+        "page": "https://dir.indiamart.com/impcat/diffuser-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/XA/GLADMIN-146198/diffuser-oils-125x125.jpg"
+      },
+      {
+        "name": "Musk Oil",
+        "page": "https://dir.indiamart.com/impcat/musk-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/HA/XP/GLADMIN-157974/musk-oil-125x125.jpg"
+      },
+      {
+        "name": "Antibacterial Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/anti-bacterial-essential-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/RG/JJ/GLADMIN-2/anti-bacterial-125x125.jpg"
+      },
+      {
+        "name": "Anti Stress Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/anti-stress-essential-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/CX/QY/GLADMIN-2/stress_relief-125x125.jpg"
+      },
+      {
+        "name": "Medicinal Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/medicinal-essential-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/HY/PO/GLADMIN-2/medicinal-essential-oils-125x125.jpg"
+      },
+      {
+        "name": "Refresher Oils",
+        "page": "https://dir.indiamart.com/impcat/refresher-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/PC/WO/GLADMIN-36284/refresher-oils-125x125.jpg"
+      },
+      {
+        "name": "Flavor Oils",
+        "page": "https://dir.indiamart.com/impcat/flavor-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/DP/GLADMIN-28537/flavor-oils-125x125.jpg"
+      },
+      {
+        "name": "Natural Flower Oil",
+        "page": "https://dir.indiamart.com/impcat/natural-flower-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/XU/GLADMIN-6669/natural-flower-oil-125x125.jpg"
+      },
+      {
+        "name": "Wood Oils",
+        "page": "https://dir.indiamart.com/impcat/wood-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/PN/TX/GLADMIN-41446/wood-oils-125x125.jpg"
+      },
+      {
+        "name": "Synthetic Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/synthetic-essential-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/VB/KN/GLADMIN-2881/synthetic-essential-oils-125x125.jpg"
+      },
+      {
+        "name": "Skin Care Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/skin-care-essential-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GH/AD/GLADMIN-2/skin-care-125x125.jpg"
+      },
+      {
+        "name": "Pain Relief Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/pain-relief-essential-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/JN/DL/GLADMIN-2/painrelief-125x125.jpg"
+      },
+      {
+        "name": "Hair Care Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/hair-care-essential-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/UB/WJ/GLADMIN-2/hair-125x125.jpg"
+      },
+      {
+        "name": "Seeds Oil and Fruit Oils",
+        "page": "https://dir.indiamart.com/impcat/fruit-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/HJ/GLADMIN-6622/fruit-oils-125x125.jpg"
+      },
+      {
+        "name": "Herb Oil",
+        "page": "https://dir.indiamart.com/impcat/herb-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/BA/CY/TJ/81953/herb-oils-125x125.jpg"
+      },
+      {
+        "name": "Helichrysum Essential Oil",
+        "page": "https://dir.indiamart.com/impcat/helichrysum-essential-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/372700477/NC/AS/RN/49262/helichrysum-essential-oil-125x125.jpg"
+      },
+      {
+        "name": "Anti Acne Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/anti-acne-essential-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/370197358/TS/DJ/MH/28031/anti-acne-essential-oils-125x125.jpg"
+      },
+      {
+        "name": "CO2 Extracted Oils",
+        "page": "https://dir.indiamart.com/impcat/co2-extracted-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/408656740/YJ/WQ/QZ/49262/co2-extracted-oils-125x125.jpg"
+      },
+      {
+        "name": "Catnip Oil",
+        "page": "https://dir.indiamart.com/impcat/catnip-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/323383951/QZ/SP/DZ/71486/catnip-oil-125x125.png"
+      },
+      {
+        "name": "Spice Oil",
+        "page": "https://dir.indiamart.com/impcat/spice-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/LQ/GLADMIN-7707/spice-oil-125x125.jpg"
+      },
+      {
+        "name": "Resin Oil",
+        "page": "https://dir.indiamart.com/impcat/resin-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/QP/UG/GLADMIN-2/image_20170830_110324-125x125.jpg"
+      },
+      {
+        "name": "Anti Aging Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/anti-aging-essential-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/DW/EW/GLADMIN-2/aging-125x125.jpg"
+      },
+      {
+        "name": "Tuberose Oil",
+        "page": "https://dir.indiamart.com/impcat/tuberose-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/373410530/WZ/QW/JY/49262/tuberose-oil-125x125.jpg"
+      },
+      {
+        "name": "Sugandh Kokila Oil",
+        "page": "https://dir.indiamart.com/impcat/sugandh-kokila-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/372719746/DC/EW/FZ/49262/sugandh-kokila-oil-125x125.jpeg"
+      },
+      {
+        "name": "Strawberry Oil",
+        "page": "https://dir.indiamart.com/impcat/strawberry-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409851857/EO/II/CH/28031/strawberry-oil-125x125.jpg"
+      },
+      {
+        "name": "Anti Cellulite Essential Oil",
+        "page": "https://dir.indiamart.com/impcat/anti-cellulite-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/LC/BM/GLADMIN-4806/anti-cellulite-oil-125x125.jpg"
+      },
+      {
+        "name": "Eucalyptol",
+        "page": "https://dir.indiamart.com/impcat/eucalyptol.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/AC/GLADMIN-166903/eucalyptol-125x125.jpg"
+      },
+      {
+        "name": "Labdanum Oil",
+        "page": "https://dir.indiamart.com/impcat/labdanum-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/373423944/XV/YW/QG/49262/labdanum-oil-125x125.jpg"
+      },
+      {
+        "name": "Gingergrass Oil",
+        "page": "https://dir.indiamart.com/impcat/ginger-grass-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/11/463657089/GQ/QX/BO/49262/gingergrass-oil-500x500-125x125.jpg"
+      },
+      {
+        "name": "Galbanum Essential Oil",
+        "page": "https://dir.indiamart.com/impcat/galbanum-essential-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/373390650/QB/ON/PX/49262/galbanum-essential-oil-125x125.jpg"
+      },
+      {
+        "name": "Antioxidant Essential Oils",
+        "page": "https://dir.indiamart.com/impcat/anti-oxidant-essential-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/JA/OD/GLADMIN-2/anti-oxi-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Herb Oil",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/BA/CY/TJ/81953/herb-oils-125x125.jpg",
+    "items": [
+      {
+        "name": "Rosemary Oil",
+        "page": "https://dir.indiamart.com/impcat/rosemary-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/TL/DI/GLADMIN-8245/rosemary-oil-125x125.jpg"
+      },
+      {
+        "name": "Lemongrass Oil",
+        "page": "https://dir.indiamart.com/impcat/lemongrass-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/JC/MR/GD/93066/lemongrass-oil-125x125.jpg"
+      },
+      {
+        "name": "Eucalyptus Oil",
+        "page": "https://dir.indiamart.com/impcat/eucalyptus-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/PN/GLADMIN-28039/eucalyptus-oil-125x125.jpg"
+      },
+      {
+        "name": "Tea Tree Oil",
+        "page": "https://dir.indiamart.com/impcat/tea-tree-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/TG/LJ/GLADMIN-39674/tea-tree-oils-125x125.jpg"
+      },
+      {
+        "name": "Vetiver Oil",
+        "page": "https://dir.indiamart.com/impcat/vetiver-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/DP/KB/GLADMIN-39046/vetiver-oil-125x125.jpg"
+      },
+      {
+        "name": "Peppermint Oil",
+        "page": "https://dir.indiamart.com/impcat/peppermint-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GW/VS/OB/93066/peppermint-oil-125x125.jpg"
+      },
+      {
+        "name": "Citronella Oil",
+        "page": "https://dir.indiamart.com/impcat/citronella-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GJ/CO/GLADMIN-2/citronella-essential-oil-125x125.jpg"
+      },
+      {
+        "name": "Garlic Oil",
+        "page": "https://dir.indiamart.com/impcat/garlic-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/YG/GLADMIN-29232/garlic-oil-125x125.jpg"
+      },
+      {
+        "name": "Tulsi Oil",
+        "page": "https://dir.indiamart.com/impcat/tulsi-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/OK/HC/JQ/85062/tulsi-oil-125x125.png"
+      },
+      {
+        "name": "Wintergreen Oil",
+        "page": "https://dir.indiamart.com/impcat/wintergreen-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/XK/CN/GLADMIN-179539/wintergreen-oil-125x125.png"
+      },
+      {
+        "name": "Onion Oil",
+        "page": "https://dir.indiamart.com/impcat/onion-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/AK/GLADMIN-33050/onion-oil-125x125.jpg"
+      },
+      {
+        "name": "Betel Leaf Oil",
+        "page": "https://dir.indiamart.com/impcat/betel-leaf-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/RC/GLADMIN-166423/betel-leaf-oil-125x125.jpg"
+      },
+      {
+        "name": "Nagarmotha Oil",
+        "page": "https://dir.indiamart.com/impcat/nagarmotha-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/DY/GLADMIN-177751/nagarmotha-oil-125x125.jpg"
+      },
+      {
+        "name": "Patchouli Oil",
+        "page": "https://dir.indiamart.com/impcat/patchouli-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/VG/XH/GLADMIN-34585/patchouli-oil-125x125.jpg"
+      },
+      {
+        "name": "Basil Oil",
+        "page": "https://dir.indiamart.com/impcat/basil-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/OT/RG/VB/93066/basil-oil-125x125.jpg"
+      },
+      {
+        "name": "Ashwagandha Oil",
+        "page": "https://dir.indiamart.com/impcat/ashwagandha-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/YU/BQ/IK/GLADMIN-56986/ashwagandha-oil-125x125.jpg"
+      },
+      {
+        "name": "Palmarosa Oil",
+        "page": "https://dir.indiamart.com/impcat/palmarosa-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/VN/GLADMIN-20517/palmarosa-oil-125x125.jpg"
+      },
+      {
+        "name": "Costus Root Oil",
+        "page": "https://dir.indiamart.com/impcat/costus-root-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/YH/NC/GLADMIN-2/costus-root-oil-500x600-125x125.jpg"
+      },
+      {
+        "name": "Fenugreek Oil",
+        "page": "https://dir.indiamart.com/impcat/fenugreek-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/HF/UI/GLADMIN-2/fenugreek-oil-500x500-125x125.jpg"
+      },
+      {
+        "name": "Cypress Oil",
+        "page": "https://dir.indiamart.com/impcat/cypress-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/RO/GLADMIN-25304/cypress-oil-125x125.jpg"
+      },
+      {
+        "name": "Kapoor Kachari Oil",
+        "page": "https://dir.indiamart.com/impcat/kapoor-kachari-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/RL/GLADMIN-177317/kapoor-kachari-oil-125x125.jpg"
+      },
+      {
+        "name": "Curry Leaf Oil",
+        "page": "https://dir.indiamart.com/impcat/curry-leaf-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/FH/FK/GLADMIN-182508/curry-leaf-oil-125x125.jpg"
+      },
+      {
+        "name": "Bay Leaf Oils",
+        "page": "https://dir.indiamart.com/impcat/bay-leaf-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/SA/OP/GLADMIN-2/bay-leaf-125x125.jpg"
+      },
+      {
+        "name": "Sage Oil",
+        "page": "https://dir.indiamart.com/impcat/sage-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/BR/GLADMIN-36711/sage-oil-125x125.jpg"
+      },
+      {
+        "name": "Terpineol Oil",
+        "page": "https://dir.indiamart.com/impcat/terpineol-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/TD/GLADMIN-143614/terpineol-oil-125x125.jpg"
+      },
+      {
+        "name": "Turmeric Leaf Oil",
+        "page": "https://dir.indiamart.com/impcat/turmeric-leaf-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/KH/KS/GLADMIN-155374/turmeric-leaf-oil-125x125.jpg"
+      },
+      {
+        "name": "Spearmint Oil",
+        "page": "https://dir.indiamart.com/impcat/spearmint-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/WD/FW/GLADMIN-7677/spearmint-oil-125x125.jpg"
+      },
+      {
+        "name": "Thyme Oil",
+        "page": "https://dir.indiamart.com/impcat/thyme-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/EV/GLADMIN-2424/thyme-oil-125x125.png"
+      },
+      {
+        "name": "Amyris Oil",
+        "page": "https://dir.indiamart.com/impcat/amyris-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/KO/GLADMIN-167390/amyris-oil-125x125.jpg"
+      },
+      {
+        "name": "Artemisia Oil",
+        "page": "https://dir.indiamart.com/impcat/artemisia-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/RX/KV/GLADMIN-2/artemisia-oil-125x125.jpg"
+      },
+      {
+        "name": "Buchu Oil",
+        "page": "https://dir.indiamart.com/impcat/buchu-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/KF/GLADMIN-23623/buchu-oil-125x125.jpg"
+      },
+      {
+        "name": "Plant Oil",
+        "page": "https://dir.indiamart.com/impcat/plant-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/TH/GLADMIN-87793/plant-oil-125x125.jpg"
+      },
+      {
+        "name": "Cajeput Oil",
+        "page": "https://dir.indiamart.com/impcat/cajeput-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/MU/UI/GLADMIN-23059/cajeput-oil-125x125.jpg"
+      },
+      {
+        "name": "Calamus Oil",
+        "page": "https://dir.indiamart.com/impcat/calamus-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/JD/GLADMIN-23068/calamus-oil-125x125.jpg"
+      },
+      {
+        "name": "Marjoram Oil",
+        "page": "https://dir.indiamart.com/impcat/marjoram-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/HG/GLADMIN-32550/marjoram-oil-125x125.jpg"
+      },
+      {
+        "name": "Sugandh Mantri Oil",
+        "page": "https://dir.indiamart.com/impcat/sugandh-mantri-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/JN/NZ/GLADMIN-72666/sugandh-mantri-oil-125x125.jpg"
+      },
+      {
+        "name": "Myrtle Oil",
+        "page": "https://dir.indiamart.com/impcat/myrtle-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/FB/GLADMIN-33726/myrtle-oil-125x125.jpg"
+      },
+      {
+        "name": "Cade Oil",
+        "page": "https://dir.indiamart.com/impcat/cade-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/DB/UT/GLADMIN-182577/cade-oil-125x125.jpg"
+      },
+      {
+        "name": "Balsam Peru",
+        "page": "https://dir.indiamart.com/impcat/balsam-peru.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/YQ/GLADMIN-21841/balsam-peru-125x125.jpg"
+      },
+      {
+        "name": "Grass Oil",
+        "page": "https://dir.indiamart.com/impcat/grass-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/VD/WJ/OE/81953/grass-oils-125x125.jpg"
+      },
+      {
+        "name": "Juniper Oil",
+        "page": "https://dir.indiamart.com/impcat/juniper-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/NO/PS/GLADMIN-31233/juniper-oil-125x125.jpg"
+      },
+      {
+        "name": "Corn Mint Oil",
+        "page": "https://dir.indiamart.com/impcat/corn-mint-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/SL/MG/GLADMIN-25932/corn-mint-oil-125x125.jpg"
+      },
+      {
+        "name": "Capsicum Oil",
+        "page": "https://dir.indiamart.com/impcat/capsicum-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/VD/YB/GLADMIN-180490/capsicum-oil-125x125.jpg"
+      },
+      {
+        "name": "Angelica Oil",
+        "page": "https://dir.indiamart.com/impcat/angelica-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/LU/SF/GLADMIN-22355/angelica-oil-125x125.jpg"
+      },
+      {
+        "name": "Mentha Citrata Oil",
+        "page": "https://dir.indiamart.com/impcat/mentha-citrata-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/AZ/RZ/GU/86649/mentha-citrata-oil-125x125.jpg"
+      },
+      {
+        "name": "Valerian Oil",
+        "page": "https://dir.indiamart.com/impcat/valerian-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/GX/GLADMIN-40792/valerian-oil-125x125.jpg"
+      },
+      {
+        "name": "Petitgrain Oil",
+        "page": "https://dir.indiamart.com/impcat/petitgrain-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/JS/GLADMIN-34196/petitgrain-oil-125x125.jpg"
+      },
+      {
+        "name": "Melissa Oil",
+        "page": "https://dir.indiamart.com/impcat/melissa-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/FE/CQ/GLADMIN-179538/melissa-oil-125x125.png"
+      },
+      {
+        "name": "Parsley Oil",
+        "page": "https://dir.indiamart.com/impcat/parsley-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/XV/GLADMIN-34552/parsley-oil-125x125.jpg"
+      },
+      {
+        "name": "Jamarosa Oil",
+        "page": "https://dir.indiamart.com/impcat/jamarosa-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/BC/FB/UZ/GLADMIN-68087/jamarosa-oil-125x125.jpg"
+      },
+      {
+        "name": "Ginger Lily Oil",
+        "page": "https://dir.indiamart.com/impcat/ginger-lily-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/GY/GLADMIN-141307/ginger-lily-oil-125x125.jpg"
+      },
+      {
+        "name": "Cedar Leaf Oil",
+        "page": "https://dir.indiamart.com/impcat/cedar-leaf-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/JT/MU/GLADMIN-24719/cedar-leaf-oil-125x125.jpg"
+      },
+      {
+        "name": "Litsea Cubeba Oil",
+        "page": "https://dir.indiamart.com/impcat/litsea-cubeba-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/WY/GLADMIN-32476/litsea-cubeba-oil-125x125.jpg"
+      },
+      {
+        "name": "Armoise Oil",
+        "page": "https://dir.indiamart.com/impcat/armoise-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/LU/CD/GLADMIN-177092/armoise-oil-125x125.jpg"
+      },
+      {
+        "name": "Oakmoss Oil",
+        "page": "https://dir.indiamart.com/impcat/oakmoss-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/OI/NV/GLADMIN-65832/oakmoss-oil-125x125.jpg"
+      },
+      {
+        "name": "Copaiba Oil",
+        "page": "https://dir.indiamart.com/impcat/copaiba-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/PK/GLADMIN-25883/copaiba-oil-125x125.jpg"
+      },
+      {
+        "name": "Niaouli Oil",
+        "page": "https://dir.indiamart.com/impcat/niaouli-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/XW/GLADMIN-32675/niaouli-oil-125x125.jpg"
+      },
+      {
+        "name": "Orris Oil",
+        "page": "https://dir.indiamart.com/impcat/orris-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/FB/WV/GLADMIN-34091/orris-oil-125x125.jpg"
+      },
+      {
+        "name": "Pennyroyal Oil",
+        "page": "https://dir.indiamart.com/impcat/pennyroyal-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/JO/GLADMIN-33898/pennyroyal-oil-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Natural Flower Oil",
+    "category_thumbnail": "http://3.imimg.com/data3/LX/XU/GLADMIN-6669/natural-flower-oil-125x125.jpg",
+    "items": [
+      {
+        "name": "Floral Waters",
+        "page": "https://dir.indiamart.com/impcat/floral-waters.html",
+        "thumbnail": "http://3.imimg.com/data3/KK/CA/GLADMIN-28605/floral-waters-125x125.png"
+      },
+      {
+        "name": "Jasmine Oil",
+        "page": "https://dir.indiamart.com/impcat/jasmine-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/9/447953762/IB/FR/UG/28031/jasmine-125x125.jpg"
+      },
+      {
+        "name": "Lavender Oil",
+        "page": "https://dir.indiamart.com/impcat/lavender-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/DF/GLADMIN-11372/lavender-oil-125x125.jpg"
+      },
+      {
+        "name": "Kewra Water",
+        "page": "https://dir.indiamart.com/impcat/kewra-water.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/IS/GLADMIN-10433/kewra-water-125x125.jpg"
+      },
+      {
+        "name": "Rose Oil",
+        "page": "https://dir.indiamart.com/impcat/rose-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/PR/GLADMIN-36864/rose-oil-125x125.jpg"
+      },
+      {
+        "name": "Geranium Oil",
+        "page": "https://dir.indiamart.com/impcat/geranium-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/AE/YU/GLADMIN-12028/geranium-oil-125x125.jpg"
+      },
+      {
+        "name": "Chamomile Oil",
+        "page": "https://dir.indiamart.com/impcat/chamomile-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/WD/GLADMIN-23995/chamomile-oil-125x125.jpg"
+      },
+      {
+        "name": "Saffron Oil",
+        "page": "https://dir.indiamart.com/impcat/saffron-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/XL/DI/GLADMIN-122675/saffron-oil-125x125.jpg"
+      },
+      {
+        "name": "Primrose Oil",
+        "page": "https://dir.indiamart.com/impcat/primrose-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/QH/GLADMIN-138574/primrose-oil-125x125.jpg"
+      },
+      {
+        "name": "Kewra Oil",
+        "page": "https://dir.indiamart.com/impcat/kewra-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/IH/XU/GLADMIN-182334/kewra-oil-125x125.jpg"
+      },
+      {
+        "name": "Ylang Ylang Oil",
+        "page": "https://dir.indiamart.com/impcat/ylang-ylang-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/FM/BB/GLADMIN-44079/ylang-ylang-oil-125x125.jpg"
+      },
+      {
+        "name": "Davana Oil",
+        "page": "https://dir.indiamart.com/impcat/davana-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/AH/RG/GLADMIN-182512/davana-oil-125x125.jpg"
+      },
+      {
+        "name": "Vanilla Oil",
+        "page": "https://dir.indiamart.com/impcat/vanilla-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/HV/SH/GLADMIN-40646/vanilla-oil-125x125.jpg"
+      },
+      {
+        "name": "Lotus Oil",
+        "page": "https://dir.indiamart.com/impcat/lotus-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/VT/FL/LS/GLADMIN-68087/lotus-oil-125x125.jpg"
+      },
+      {
+        "name": "Absolute Oil",
+        "page": "https://dir.indiamart.com/impcat/absolute-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/378659135/VZ/PO/WM/107065/absolute-oil-125x125.jpg"
+      },
+      {
+        "name": "Clary Sage Oil",
+        "page": "https://dir.indiamart.com/impcat/clary-sage-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/OB/GLADMIN-24197/clary-sage-oil-125x125.jpg"
+      },
+      {
+        "name": "Tagetes Oil",
+        "page": "https://dir.indiamart.com/impcat/tagetes-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/CE/GLADMIN-166424/tagetes-oil-125x125.jpg"
+      },
+      {
+        "name": "Champa Oil",
+        "page": "https://dir.indiamart.com/impcat/champa-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/VG/UX/SX/GLADMIN-73467/champa-oil-125x125.jpg"
+      },
+      {
+        "name": "Hyssop Oil",
+        "page": "https://dir.indiamart.com/impcat/hyssop-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/EF/GLADMIN-29874/hyssop-oil-125x125.jpg"
+      },
+      {
+        "name": "Potpourri Oils",
+        "page": "https://dir.indiamart.com/impcat/potpourri-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/VG/DY/GLADMIN-7232/potpourri-oils-125x125.jpg"
+      },
+      {
+        "name": "Neroli Oil",
+        "page": "https://dir.indiamart.com/impcat/neroli-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/OO/MS/GLADMIN-181505/neroli-oil-125x125.jpg"
+      },
+      {
+        "name": "Lily Oil",
+        "page": "https://dir.indiamart.com/impcat/lily-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/OX/YE/GLADMIN-2/lily-oil-125x125.jpg"
+      },
+      {
+        "name": "Gardenia Oil",
+        "page": "https://dir.indiamart.com/impcat/gardenia-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/FA/VL/GLADMIN-160652/gardenia-oil-125x125.jpg"
+      },
+      {
+        "name": "Frangipani Oil",
+        "page": "https://dir.indiamart.com/impcat/frangipani-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/323378325/GE/GS/FK/71486/frangipani-oil-125x125.png"
+      },
+      {
+        "name": "Cananga Oil",
+        "page": "https://dir.indiamart.com/impcat/cananga-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/YV/GLADMIN-23213/cananga-oil-125x125.jpg"
+      },
+      {
+        "name": "Rose Hydrosol",
+        "page": "https://dir.indiamart.com/impcat/rose-hydrosol.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/407137728/XC/HM/PJ/107065/rose-hydrosol-125x125.jpg"
+      },
+      {
+        "name": "Lavender Hydrosol",
+        "page": "https://dir.indiamart.com/impcat/lavender-hydrosol.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/407154450/CX/SK/CB/107065/lavender-hydrosol-125x125.jpg"
+      },
+      {
+        "name": "Vetiver Hydrosol",
+        "page": "https://dir.indiamart.com/impcat/vetiver-hydrosol.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/407212228/CA/KN/ML/107065/vetiver-hydrosol-125x125.jpg"
+      },
+      {
+        "name": "Hop Oil",
+        "page": "https://dir.indiamart.com/impcat/hop-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/QG/AB/GLADMIN-29483/hop-oil-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Wood Oils",
+    "category_thumbnail": "http://3.imimg.com/data3/PN/TX/GLADMIN-41446/wood-oils-125x125.jpg",
+    "items": [
+      {
+        "name": "Pine Oil",
+        "page": "https://dir.indiamart.com/impcat/pine-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SG/VL/HO/93066/pine-oil-125x125.jpg"
+      },
+      {
+        "name": "Sandalwood Oil",
+        "page": "https://dir.indiamart.com/impcat/sandalwood-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/UC/PA/YF/86649/sandalwood-oil-125x125.jpg"
+      },
+      {
+        "name": "Agarwood Oil",
+        "page": "https://dir.indiamart.com/impcat/agarwood-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/PH/YG/GLADMIN-136667/agarwood-oil-125x125.jpg"
+      },
+      {
+        "name": "Camphor Oil",
+        "page": "https://dir.indiamart.com/impcat/camphor-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/HP/GLADMIN-23185/camphor-oil-125x125.jpg"
+      },
+      {
+        "name": "Rosewood Oil",
+        "page": "https://dir.indiamart.com/impcat/rosewood-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/EH/GLADMIN-36868/rosewood-oil-125x125.jpg"
+      },
+      {
+        "name": "Cedarwood Oil",
+        "page": "https://dir.indiamart.com/impcat/cedarwood-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/DD/GLADMIN-24720/cedarwood-oil-125x125.jpg"
+      },
+      {
+        "name": "Spikenard Oil",
+        "page": "https://dir.indiamart.com/impcat/spikenard-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/AS/RJ/GLADMIN-177316/spikenard-oil-125x125.jpg"
+      },
+      {
+        "name": "Balsam Oil",
+        "page": "https://dir.indiamart.com/impcat/balsam-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/NM/GLADMIN-21840/balsam-oil-125x125.jpg"
+      },
+      {
+        "name": "Cassia Oil",
+        "page": "https://dir.indiamart.com/impcat/cassia-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/QD/GLADMIN-24498/cassia-oil-125x125.jpg"
+      },
+      {
+        "name": "Guaiac Wood Oil",
+        "page": "https://dir.indiamart.com/impcat/guaiac-wood-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/OE/GLADMIN-29897/guaiac-wood-oil-125x125.jpg"
+      },
+      {
+        "name": "Thuja Wood Oil",
+        "page": "https://dir.indiamart.com/impcat/thuja-wood-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/QP/TW/GA/85062/thuja-wood-oil-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Castor Oil",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TX/XC/TT/93066/castor-oil-125x125.jpg",
+    "items": [
+      {
+        "name": "Hydrogenated Castor Oil",
+        "page": "https://dir.indiamart.com/impcat/hydrogenated-castor-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/UX/PI/GLADMIN-2/hydrogenated-castor-oil-125x125.jpg"
+      },
+      {
+        "name": "Turkey Red Oil",
+        "page": "https://dir.indiamart.com/impcat/turkey-red-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/YQ/GLADMIN-139132/turkey-red-oil-125x125.jpg"
+      },
+      {
+        "name": "BSS Grade Castor Oil",
+        "page": "https://dir.indiamart.com/impcat/bss-grade-castor-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MF/IB/NY/86649/bss-grade-castor-oil-125x125.jpg"
+      },
+      {
+        "name": "Pale Pressed Castor Oil",
+        "page": "https://dir.indiamart.com/impcat/pale-pressed-castor-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320580721/XK/CB/NA/71486/pale-pressed-castor-oil-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Menthol",
+    "category_thumbnail": "http://3.imimg.com/data3/AA/LF/GLADMIN-297/menthol-125x125.jpg",
+    "items": [
+      {
+        "name": "Menthol Crystal",
+        "page": "https://dir.indiamart.com/impcat/menthol-crystal.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/OX/GLADMIN-10027/menthol-crystal-125x125.jpg"
+      },
+      {
+        "name": "Mentha Oil",
+        "page": "https://dir.indiamart.com/impcat/mentha-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NB/OT/RL/93066/mentha-oil-125x125.jpg"
+      },
+      {
+        "name": "Peppermint Oil",
+        "page": "https://dir.indiamart.com/impcat/peppermint-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GW/VS/OB/93066/peppermint-oil-125x125.jpg"
+      },
+      {
+        "name": "Menthol Oil",
+        "page": "https://dir.indiamart.com/impcat/menthol-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/IS/GLADMIN-10029/menthol-oil-125x125.jpg"
+      },
+      {
+        "name": "Menthol Flakes",
+        "page": "https://dir.indiamart.com/impcat/menthol-flakes.html",
+        "thumbnail": "http://3.imimg.com/data3/ES/KJ/GLADMIN-10028/menthol-flakes-125x125.jpg"
+      },
+      {
+        "name": "Menthyl Lactate",
+        "page": "https://dir.indiamart.com/impcat/menthyl-lactate.html",
+        "thumbnail": "http://5.imimg.com/data5/YC/LH/QU/GLADMIN-68155/menthyl-lactate-125x125.jpg"
+      },
+      {
+        "name": "Spearmint Oil",
+        "page": "https://dir.indiamart.com/impcat/spearmint-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/WD/FW/GLADMIN-7677/spearmint-oil-125x125.jpg"
+      },
+      {
+        "name": "Menthol Crystal Powder",
+        "page": "https://dir.indiamart.com/impcat/menthol-crystal-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/EM/PL/RB/85062/menthol-crystal-powder-125x125.png"
+      },
+      {
+        "name": "Liquid Menthol",
+        "page": "https://dir.indiamart.com/impcat/liquid-menthol.html",
+        "thumbnail": "http://3.imimg.com/data3/GF/CG/MY-2/liquid-menthol-125x125.jpg"
+      },
+      {
+        "name": "Mint Terpene",
+        "page": "https://dir.indiamart.com/impcat/mint-terpene.html",
+        "thumbnail": "http://5.imimg.com/data5/HY/YS/GLADMIN-2/mint-terpenes-125x125.jpg"
+      },
+      {
+        "name": "Menthyl Acetate",
+        "page": "https://dir.indiamart.com/impcat/menthyl-acetate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/BK/WM/YP/86649/menthyl-acetate-125x125.jpg"
+      },
+      {
+        "name": "Dementholised Peppermint Oil",
+        "page": "https://dir.indiamart.com/impcat/dementholised-peppermint-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/NW/XJ/GLADMIN-12742/dementholised-peppermint-oil-125x125.jpg"
+      },
+      {
+        "name": "Corn Mint Oil",
+        "page": "https://dir.indiamart.com/impcat/corn-mint-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/SL/MG/GLADMIN-25932/corn-mint-oil-125x125.jpg"
+      },
+      {
+        "name": "Mentha Citrata Oil",
+        "page": "https://dir.indiamart.com/impcat/mentha-citrata-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/AZ/RZ/GU/86649/mentha-citrata-oil-125x125.jpg"
+      },
+      {
+        "name": "Graded Menthone",
+        "page": "https://dir.indiamart.com/impcat/graded-menthone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/LX/OB/DY/86649/graded-menthone-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Spice Oil",
+    "category_thumbnail": "http://3.imimg.com/data3/LR/LQ/GLADMIN-7707/spice-oil-125x125.jpg",
+    "items": [
+      {
+        "name": "Clove Oil",
+        "page": "https://dir.indiamart.com/impcat/clove-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/RA/YS/GLADMIN-2/clove-125x125.jpg"
+      },
+      {
+        "name": "Croton Oil",
+        "page": "https://dir.indiamart.com/impcat/croton-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/TA/GLADMIN-26120/croton-oil-125x125.jpg"
+      },
+      {
+        "name": "Ginger Oil",
+        "page": "https://dir.indiamart.com/impcat/ginger-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/FW/BI/GLADMIN-12036/ginger-oil-125x125.jpg"
+      },
+      {
+        "name": "Turmeric Oil",
+        "page": "https://dir.indiamart.com/impcat/turmeric-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/GW/GLADMIN-/itemimages-productimage1-turmeric-oil-125x125.jpg"
+      },
+      {
+        "name": "Cinnamon Oils",
+        "page": "https://dir.indiamart.com/impcat/cinnamon-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/VJ/IG/GLADMIN-2/cin-125x125.jpg"
+      },
+      {
+        "name": "Cardamom Oil",
+        "page": "https://dir.indiamart.com/impcat/cardamom-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/TA/GLADMIN-5558/cardamom-oil-125x125.jpg"
+      },
+      {
+        "name": "Black Pepper Oil",
+        "page": "https://dir.indiamart.com/impcat/black-pepper-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/UX/JU/GLADMIN-42513/black-pepper-oil-125x125.jpg"
+      },
+      {
+        "name": "Chaulmoogra Oil",
+        "page": "https://dir.indiamart.com/impcat/chaulmoogra-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/IA/FN/GLADMIN-183633/chaulmoogra-oil-125x125.jpg"
+      },
+      {
+        "name": "Chilli Oil",
+        "page": "https://dir.indiamart.com/impcat/chilli-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/333501357/BI/EM/VT/64193/chilli-oil-125x125.png"
+      },
+      {
+        "name": "Ajowan Oil",
+        "page": "https://dir.indiamart.com/impcat/ajowan-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/SM/GLADMIN-3222/ajowan-oil-125x125.jpg"
+      },
+      {
+        "name": "Cumin Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/cumin-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/SW/FN/GLADMIN-1261/cumin-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Origanum Oil",
+        "page": "https://dir.indiamart.com/impcat/origanum-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/NK/GLADMIN-34075/origanum-oil-125x125.jpg"
+      },
+      {
+        "name": "Mustard Essential Oil",
+        "page": "https://dir.indiamart.com/impcat/mustard-essential-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/VF/EY/GLADMIN-2/mustard-essential-oil-125x125.jpg"
+      },
+      {
+        "name": "Clove Bud Oil",
+        "page": "https://dir.indiamart.com/impcat/clove-bud-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/321910149/OI/LZ/QH/71486/clove-bud-oil-125x125.png"
+      },
+      {
+        "name": "Clove Leaf Oil",
+        "page": "https://dir.indiamart.com/impcat/clove-leaf-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GS/QC/FJ/GLADMIN-65832/clove-leaf-oil-125x125.jpg"
+      },
+      {
+        "name": "Galangal Oil",
+        "page": "https://dir.indiamart.com/impcat/galangal-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/FE/GLADMIN-167391/galangal-oil-125x125.jpg"
+      },
+      {
+        "name": "Ambrette Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/ambrette-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/MS/FA/GLADMIN-177091/ambrette-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Hing Oil",
+        "page": "https://dir.indiamart.com/impcat/hing-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/RK/PA/LB/GLADMIN-68155/hing-oil-125x125.jpg"
+      },
+      {
+        "name": "Coriander Oil",
+        "page": "https://dir.indiamart.com/impcat/coriander-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/WK/QP/GLADMIN-4068/coriander-oils-125x125.jpg"
+      },
+      {
+        "name": "Caraway Oil",
+        "page": "https://dir.indiamart.com/impcat/caraway-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/WC/XM/GLADMIN-24283/caraway-oil-125x125.jpg"
+      },
+      {
+        "name": "Cumin Oil",
+        "page": "https://dir.indiamart.com/impcat/cumin-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/AY/GLADMIN-11268/cumin-oil-125x125.jpg"
+      },
+      {
+        "name": "Pepper Oil",
+        "page": "https://dir.indiamart.com/impcat/pepper-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/WX/GLADMIN-33903/pepper-oil-125x125.jpg"
+      },
+      {
+        "name": "Crude Clove Leaf Oil",
+        "page": "https://dir.indiamart.com/impcat/crude-clove-leaf-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/JB/FM/GLADMIN-68709/crude-clove-leaf-oil-125x125.jpg"
+      },
+      {
+        "name": "Cubeb Oil",
+        "page": "https://dir.indiamart.com/impcat/cubeb-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/BF/MR/GLADMIN-25171/cubeb-oil-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Seeds Oil and Fruit Oils",
+    "category_thumbnail": "http://3.imimg.com/data3/KE/HJ/GLADMIN-6622/fruit-oils-125x125.jpg",
+    "items": [
+      {
+        "name": "Madhuca longifolia Oil",
+        "page": "https://dir.indiamart.com/impcat/madhuca-longifolia-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/UJ/GLADMIN-162950/madhuca-longifolia-oil-125x125.jpg"
+      },
+      {
+        "name": "Amla Oil",
+        "page": "https://dir.indiamart.com/impcat/amla-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/OK/VK/EQ/93066/amla-oil-125x125.jpg"
+      },
+      {
+        "name": "Lemon Oil",
+        "page": "https://dir.indiamart.com/impcat/lemon-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/TB/GLADMIN-11540/lemon-oil-125x125.jpg"
+      },
+      {
+        "name": "Orange Oil",
+        "page": "https://dir.indiamart.com/impcat/orange-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/BU/MX/GLADMIN-33784/orange-oil-125x125.jpg"
+      },
+      {
+        "name": "Fennel Oil",
+        "page": "https://dir.indiamart.com/impcat/fennel-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/XQ/LU/GLADMIN-6279/fennel-oil-125x125.jpg"
+      },
+      {
+        "name": "Nutmeg Oil",
+        "page": "https://dir.indiamart.com/impcat/nutmeg-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/IV/GLADMIN-7423/nutmeg-oil-125x125.jpg"
+      },
+      {
+        "name": "Rosehip Oil",
+        "page": "https://dir.indiamart.com/impcat/rosehip-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/BX/HM/CH/GLADMIN-68087/rosehip-oil-125x125.jpg"
+      },
+      {
+        "name": "Bergamot Oil",
+        "page": "https://dir.indiamart.com/impcat/bergamot-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/KP/GLADMIN-22626/bergamot-oil-125x125.jpg"
+      },
+      {
+        "name": "Carrot Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/carrot-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/MO/CR/GLADMIN-24455/carrot-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Niger Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/niger-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/UA/GLADMIN-32717/niger-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Coffee Oil",
+        "page": "https://dir.indiamart.com/impcat/coffee-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/FX/GLADMIN-152153/coffee-oil-125x125.jpg"
+      },
+      {
+        "name": "Aniseed Oil",
+        "page": "https://dir.indiamart.com/impcat/aniseed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/HQ/AS/GLADMIN-4795/aniseed-oil-125x125.jpg"
+      },
+      {
+        "name": "Saw Palmetto Oil",
+        "page": "https://dir.indiamart.com/impcat/saw-palmetto-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/ON/DR/GLADMIN-179693/saw-palmetto-oil-125x125.jpg"
+      },
+      {
+        "name": "Grapefruit Oil",
+        "page": "https://dir.indiamart.com/impcat/grapefruit-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/GO/GLADMIN-29763/grapefruit-oil-125x125.jpg"
+      },
+      {
+        "name": "Mandarin Oil",
+        "page": "https://dir.indiamart.com/impcat/mandarin-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/JT/GLADMIN-44108/mandarin-oil-125x125.jpg"
+      },
+      {
+        "name": "Citrus Fruit Oils",
+        "page": "https://dir.indiamart.com/impcat/citrus-fruit-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/313754702/SE/TP/LP/93066/citrus-fruit-oils-125x125.jpg"
+      },
+      {
+        "name": "Celery Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/celery-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/SX/GLADMIN-24735/celery-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Mace Oil",
+        "page": "https://dir.indiamart.com/impcat/mace-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/UK/GLADMIN-9731/mace-oil-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Oil",
+        "page": "https://dir.indiamart.com/impcat/chocolate-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/IJ/II/BE/GLADMIN-73467/chocolate-oil-125x125.jpg"
+      },
+      {
+        "name": "Dill Seed Oil",
+        "page": "https://dir.indiamart.com/impcat/dill-seed-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/MF/GLADMIN-26420/dill-seed-oil-125x125.jpg"
+      },
+      {
+        "name": "Tangerine Oil",
+        "page": "https://dir.indiamart.com/impcat/tangerine-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/XL/GLADMIN-39631/tangerine-oil-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Floral Waters",
+    "category_thumbnail": "http://3.imimg.com/data3/KK/CA/GLADMIN-28605/floral-waters-125x125.png",
+    "items": [
+      {
+        "name": "Jasmine Hydrosol",
+        "page": "https://dir.indiamart.com/impcat/jasmine-hydrosol.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/407207091/MS/WX/YM/107065/jasmine-hydrosol-125x125.jpg"
+      },
+      {
+        "name": "Rose Hydrosol",
+        "page": "https://dir.indiamart.com/impcat/rose-hydrosol.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/407137728/XC/HM/PJ/107065/rose-hydrosol-125x125.jpg"
+      },
+      {
+        "name": "Lavender Hydrosol",
+        "page": "https://dir.indiamart.com/impcat/lavender-hydrosol.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/407154450/CX/SK/CB/107065/lavender-hydrosol-125x125.jpg"
+      },
+      {
+        "name": "Vetiver Hydrosol",
+        "page": "https://dir.indiamart.com/impcat/vetiver-hydrosol.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/407212228/CA/KN/ML/107065/vetiver-hydrosol-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Oleoresin",
+    "category_thumbnail": "http://5.imimg.com/data5/MB/FH/GLADMIN-2/oleoresin-125x125.png",
+    "items": [
+      {
+        "name": "Paprika Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/paprika-oleoresin.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/JR/GLADMIN-34534/paprika-oleoresin-125x125.jpg"
+      },
+      {
+        "name": "Oleoresin Capsicum",
+        "page": "https://dir.indiamart.com/impcat/oleoresin-capsicum.html",
+        "thumbnail": "http://3.imimg.com/data3/UR/EG/GLADMIN-33045/oleoresin-capsicum-125x125.jpg"
+      },
+      {
+        "name": "Black Pepper Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/black-pepper-oleoresin.html",
+        "thumbnail": "http://4.imimg.com/data4/SM/LS/GLADMIN-2/black-pepper-oleoresin-125x125.jpg"
+      },
+      {
+        "name": "Ginger Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/ginger-oleoresin.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/CI/GLADMIN-29420/ginger-oleoresin-125x125.jpg"
+      },
+      {
+        "name": "Cardamom Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/cardamom-oleoresin.html",
+        "thumbnail": "http://4.imimg.com/data4/OR/CP/GLADMIN-182510/cardamom-oleoresin-125x125.jpg"
+      },
+      {
+        "name": "Onion Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/onion-oleoresin.html",
+        "thumbnail": "http://4.imimg.com/data4/JD/IN/GLADMIN-182509/onion-oleoresin-125x125.jpg"
+      },
+      {
+        "name": "Marigold Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/marigold-oleoresin.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/RO/GLADMIN-146857/marigold-oleoresin-125x125.jpg"
+      },
+      {
+        "name": "Pepper Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/pepper-oleoresin.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/WO/GLADMIN-33904/pepper-oleoresin-125x125.jpg"
+      },
+      {
+        "name": "Nutmeg Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/nutmeg-oleoresin.html",
+        "thumbnail": "http://4.imimg.com/data4/DS/GV/GLADMIN-182513/nutmeg-oleoresin-125x125.jpg"
+      },
+      {
+        "name": "Cumin Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/cumin-oleoresin.html",
+        "thumbnail": "http://3.imimg.com/data3/EP/IW/GLADMIN-166295/cumin-oleoresin-125x125.jpg"
+      },
+      {
+        "name": "Garlic Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/garlic-oleoresin.html",
+        "thumbnail": "http://4.imimg.com/data4/MX/HS/GLADMIN-183962/garlic-oleoresin-125x125.jpg"
+      },
+      {
+        "name": "Asafoetida Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/asafoetida-oleoresin.html",
+        "thumbnail": "http://5.imimg.com/data5/IW/WI/GLADMIN-2/asafoetida-125x125.jpg"
+      },
+      {
+        "name": "Rosemary Oleoresin",
+        "page": "https://dir.indiamart.com/impcat/rosemary-oleoresin.html",
+        "thumbnail": "http://4.imimg.com/data4/OS/DV/GLADMIN-179644/rosemary-oleoresin-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Resin Oil",
+    "category_thumbnail": "http://5.imimg.com/data5/QP/UG/GLADMIN-2/image_20170830_110324-125x125.jpg",
+    "items": [
+      {
+        "name": "Frankincense Oil",
+        "page": "https://dir.indiamart.com/impcat/frankincense-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/IA/GLADMIN-28946/frankincense-oil-125x125.jpg"
+      },
+      {
+        "name": "Pine Tar Oil",
+        "page": "https://dir.indiamart.com/impcat/pine-tar-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/ES/OO/GLADMIN-34054/pine-tar-oil-125x125.jpg"
+      },
+      {
+        "name": "Amber Oil",
+        "page": "https://dir.indiamart.com/impcat/amber-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/YY/YY/GLADMIN-/amber-oil-125x125.jpg"
+      },
+      {
+        "name": "Birch Tar Oil",
+        "page": "https://dir.indiamart.com/impcat/birch-tar-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/UN/GLADMIN-23239/birch-tar-oil-125x125.jpg"
+      },
+      {
+        "name": "Benzoin Essential Oil",
+        "page": "https://dir.indiamart.com/impcat/benzoin-essential-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/11/464474412/AC/ET/DS/49262/benzoin-essential-oil-500x500-125x125.jpg"
+      },
+      {
+        "name": "Myrrh Oil",
+        "page": "https://dir.indiamart.com/impcat/myrrh-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/LR/GLADMIN-33725/myrrh-oil-125x125.jpg"
+      },
+      {
+        "name": "Elemi Oil",
+        "page": "https://dir.indiamart.com/impcat/elemi-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/KO/GLADMIN-27687/elemi-oil-125x125.jpg"
+      },
+      {
+        "name": "Styrax Oil",
+        "page": "https://dir.indiamart.com/impcat/styrax-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/TP/XK/GLADMIN-39083/styrax-oil-125x125.jpg"
+      },
+      {
+        "name": "Tolu Balsam Oil",
+        "page": "https://dir.indiamart.com/impcat/tolu-balsam-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/OS/LJ/GLADMIN-38977/tolu-balsam-oil-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Absolute Oil",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/378659135/VZ/PO/WM/107065/absolute-oil-125x125.jpg",
+    "items": [
+      {
+        "name": "Tuberose Absolute",
+        "page": "https://dir.indiamart.com/impcat/tuberose-absolute.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/408222530/SN/SJ/RO/49262/tuberose-absolute-125x125.jpg"
+      },
+      {
+        "name": "Jasmine Absolute",
+        "page": "https://dir.indiamart.com/impcat/jasmine-absolute.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/408191588/CX/FN/QS/49262/jasmine-absolute-125x125.jpg"
+      },
+      {
+        "name": "Champaca Absolute",
+        "page": "https://dir.indiamart.com/impcat/champaca-absolute.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/408277606/UI/PE/PV/49262/champaca-absolute-125x125.jpg"
+      },
+      {
+        "name": "Rose Absolute",
+        "page": "https://dir.indiamart.com/impcat/rose-absolute.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/408201673/FF/VU/FI/49262/rose-absolute-125x125.jpg"
+      }
+    ]
+  }
+]

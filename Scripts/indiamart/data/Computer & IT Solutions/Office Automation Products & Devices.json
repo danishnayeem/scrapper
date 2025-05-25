@@ -1,0 +1,893 @@
+[
+  {
+    "category_name": "Printer Parts",
+    "category_thumbnail": "http://3.imimg.com/data3/HA/SV/GLADMIN-80930/printer-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Copier Spare Parts",
+        "page": "https://dir.indiamart.com/impcat/copier-spare-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/LP/EN/GLADMIN-80171/copier-spare-parts-125x125.jpg"
+      },
+      {
+        "name": "Drum Unit",
+        "page": "https://dir.indiamart.com/impcat/drum-unit.html",
+        "thumbnail": "http://5.imimg.com/data5/AP/UH/ZI/GLADMIN-76037/drum-unit-125x125.png"
+      },
+      {
+        "name": "Printer Board",
+        "page": "https://dir.indiamart.com/impcat/printer-board.html",
+        "thumbnail": "http://4.imimg.com/data4/KA/OB/GLADMIN-183745/printer-board-125x125.jpg"
+      },
+      {
+        "name": "Printer Ribbons",
+        "page": "https://dir.indiamart.com/impcat/printer-ribbons.html",
+        "thumbnail": "http://3.imimg.com/data3/LL/BW/GLADMIN-144/printer-ribbons-125x125.jpg"
+      },
+      {
+        "name": "Printer Pickup rollers",
+        "page": "https://dir.indiamart.com/impcat/printer-pickup-rollers.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/WY/FM/ZC/49660/printer-pickup-rollers-125x125.jpg"
+      },
+      {
+        "name": "Plotter Parts",
+        "page": "https://dir.indiamart.com/impcat/plotter-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/RT/GLADMIN-96523/plotter-parts-125x125.jpg"
+      },
+      {
+        "name": "Toner Chip",
+        "page": "https://dir.indiamart.com/impcat/toner-chip.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/DN/GLADMIN-53280/toner-chip-125x125.jpg"
+      },
+      {
+        "name": "Printer Cover",
+        "page": "https://dir.indiamart.com/impcat/printer-cover.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/AR/DS/RZ/49660/printer-cover-125x125.jpg"
+      },
+      {
+        "name": "Barcode Printer Head",
+        "page": "https://dir.indiamart.com/impcat/barcode-printer-head.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/PP/GLADMIN-/barcode-printer-head-125x125.jpg"
+      },
+      {
+        "name": "Copier Drum Cleaning Blade",
+        "page": "https://dir.indiamart.com/impcat/copier-drum-cleaning-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/NY/GLADMIN-150394/copier-drum-cleaning-blade-125x125.jpg"
+      },
+      {
+        "name": "3D Printer Parts",
+        "page": "https://dir.indiamart.com/impcat/3d-printer-parts.html",
+        "thumbnail": "http://5.imimg.com/data5/OF/KO/FD/GLADMIN-73467/3d-printer-parts-125x125.jpg"
+      },
+      {
+        "name": "Printer Head Cable",
+        "page": "https://dir.indiamart.com/impcat/printer-head-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/KZ/FX/OH/49660/printer-head-cable-125x125.jpg"
+      },
+      {
+        "name": "Fuser Roller",
+        "page": "https://dir.indiamart.com/impcat/fuser-roller.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/PJ/GLADMIN-107523/fuser-roller-125x125.jpg"
+      },
+      {
+        "name": "Dot Matrix Printer Parts",
+        "page": "https://dir.indiamart.com/impcat/dot-matrix-printer-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/HO/GLADMIN-80264/dot-matrix-printer-parts-125x125.jpg"
+      },
+      {
+        "name": "Printer Chip",
+        "page": "https://dir.indiamart.com/impcat/printer-chip.html",
+        "thumbnail": "http://4.imimg.com/data4/NV/SC/GLADMIN-184795/printer-chip-125x125.jpg"
+      },
+      {
+        "name": "USB Printer Cable",
+        "page": "https://dir.indiamart.com/impcat/usb-printer-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/QH/CO/GLADMIN-19846/usb-printer-cable-125x125.jpg"
+      },
+      {
+        "name": "Dot-Matrix Printer Ribbons",
+        "page": "https://dir.indiamart.com/impcat/dot-matrix-printer-ribbons.html",
+        "thumbnail": "http://3.imimg.com/data3/VG/KM/GLADMIN-11693/dot-matrix-printer-ribbons-125x125.jpg"
+      },
+      {
+        "name": "Laser Toner Cartridge Chip",
+        "page": "https://dir.indiamart.com/impcat/laser-toner-cartridge-chip.html",
+        "thumbnail": "http://3.imimg.com/data3/HE/DJ/GLADMIN-110357/laser-toner-cartridge-chip-125x125.jpg"
+      },
+      {
+        "name": "Barcode Scanner USB Cable",
+        "page": "https://dir.indiamart.com/impcat/barcode-scanner-usb-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/XX/GLADMIN-/barcode-scanner-usb-cable-125x125.jpg"
+      },
+      {
+        "name": "Printer Teflon",
+        "page": "https://dir.indiamart.com/impcat/printer-teflon.html",
+        "thumbnail": "http://4.imimg.com/data4/FB/PQ/GLADMIN-183743/printer-teflon-125x125.jpg"
+      },
+      {
+        "name": "Plotter Carriage Belt",
+        "page": "https://dir.indiamart.com/impcat/plotter-carriage-belt.html",
+        "thumbnail": "http://5.imimg.com/data5/UI/NN/NY/GLADMIN-76037/plotter-carriage-belt-125x125.jpg"
+      },
+      {
+        "name": "Zebra Printer Ribbons",
+        "page": "https://dir.indiamart.com/impcat/zebra-printer-ribbons.html",
+        "thumbnail": "http://5.imimg.com/data5/JS/EO/GLADMIN-2/image_20170706_120310_9077-125x125.jpg"
+      },
+      {
+        "name": "Barcode Scanner Stand",
+        "page": "https://dir.indiamart.com/impcat/barcode-scanner-stand.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/OU/GLADMIN-177978/barcode-scanner-stand-125x125.jpg"
+      },
+      {
+        "name": "3D Printer Control Board",
+        "page": "https://dir.indiamart.com/impcat/3d-printer-control-board.html",
+        "thumbnail": "http://5.imimg.com/data5/TD/QV/CA/GLADMIN-68155/3d-printer-control-board-125x125.jpg"
+      },
+      {
+        "name": "Printer Solvent",
+        "page": "https://dir.indiamart.com/impcat/printer-solvent.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/printer-solvent-125x125.jpg"
+      },
+      {
+        "name": "Separation Pad",
+        "page": "https://dir.indiamart.com/impcat/separation-pad.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/PK/KT/CS/49660/separation-pad-125x125.jpg"
+      },
+      {
+        "name": "Computer Ribbons",
+        "page": "https://dir.indiamart.com/impcat/computer-ribbons.html",
+        "thumbnail": "http://3.imimg.com/data3/BY/XB/GLADMIN-25649/computer-ribbons-125x125.jpg"
+      },
+      {
+        "name": "Printer Sharing Device",
+        "page": "https://dir.indiamart.com/impcat/printer-sharing-device.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/VJ/GLADMIN-35743/printer-sharing-device-125x125.jpg"
+      },
+      {
+        "name": "Magnet Bush",
+        "page": "https://dir.indiamart.com/impcat/magnet-bush.html",
+        "thumbnail": "http://3.imimg.com/data3/NI/GB/GLADMIN-141906/magnet-bush-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Projector",
+    "category_thumbnail": "http://3.imimg.com/data3/QJ/PG/GLADMIN-55186/projector-125x125.jpg",
+    "items": [
+      {
+        "name": "Mini Projector",
+        "page": "https://dir.indiamart.com/impcat/mini-projector.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/XX/IX/XT/49660/mini-projector-125x125.jpg"
+      },
+      {
+        "name": "LED Projector",
+        "page": "https://dir.indiamart.com/impcat/led-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/QG/KY/GLADMIN-140948/led-projector-125x125.jpg"
+      },
+      {
+        "name": "Logo Projector",
+        "page": "https://dir.indiamart.com/impcat/logo-projector.html",
+        "thumbnail": "http://5.imimg.com/data5/FT/NO/QM/GLADMIN-73467/logo-projector-125x125.jpg"
+      },
+      {
+        "name": "Portable Projector",
+        "page": "https://dir.indiamart.com/impcat/portable-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/UH/GLADMIN-55182/portable-projector-125x125.jpg"
+      },
+      {
+        "name": "Projectors Rental",
+        "page": "https://dir.indiamart.com/impcat/projectors-rental.html",
+        "thumbnail": "http://3.imimg.com/data3/FC/DD/GLADMIN-42474/projectors-rental-125x125.jpg"
+      },
+      {
+        "name": "LCD Projector",
+        "page": "https://dir.indiamart.com/impcat/lcd-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/TJ/UJ/GLADMIN-11379/lcd-projector-125x125.jpg"
+      },
+      {
+        "name": "Home Theater Projector",
+        "page": "https://dir.indiamart.com/impcat/home-theater-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/OC/GLADMIN-16286/home-theater-projector-125x125.jpg"
+      },
+      {
+        "name": "Second Hand and Used Projector",
+        "page": "https://dir.indiamart.com/impcat/second-hand-and-used-projector.html",
+        "thumbnail": "http://5.imimg.com/data5/DE/QE/YH/GLADMIN-68155/second-hand-and-used-projector-125x125.png"
+      },
+      {
+        "name": "3D Projector",
+        "page": "https://dir.indiamart.com/impcat/3d-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/LU/TR/GLADMIN-177340/3d-projector-125x125.jpg"
+      },
+      {
+        "name": "DLP Projector",
+        "page": "https://dir.indiamart.com/impcat/dlp-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/PG/GLADMIN-15497/dlp-projector-125x125.jpg"
+      },
+      {
+        "name": "Film Projector",
+        "page": "https://dir.indiamart.com/impcat/film-projector.html",
+        "thumbnail": "http://5.imimg.com/data5/TS/SJ/GLADMIN-2/film-projector-125x125.jpg"
+      },
+      {
+        "name": "Video Projector",
+        "page": "https://dir.indiamart.com/impcat/video-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/MQ/MR/GLADMIN-40722/video-projector-125x125.jpg"
+      },
+      {
+        "name": "Classroom Projector",
+        "page": "https://dir.indiamart.com/impcat/classroom-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/XM/GLADMIN-55152/classroom-projector-125x125.jpg"
+      },
+      {
+        "name": "Digital Projectors",
+        "page": "https://dir.indiamart.com/impcat/digital-projectors.html",
+        "thumbnail": "http://3.imimg.com/data3/QO/NM/GLADMIN-26654/digital-projectors-125x125.jpg"
+      },
+      {
+        "name": "Wireless Projector",
+        "page": "https://dir.indiamart.com/impcat/wireless-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/PT/AI/GLADMIN-20199/wireless-projector-125x125.jpg"
+      },
+      {
+        "name": "Slide Projectors",
+        "page": "https://dir.indiamart.com/impcat/slide-projectors.html",
+        "thumbnail": "http://5.imimg.com/data5/UM/TT/GLADMIN-2/slide-projectors-125x125.jpg"
+      },
+      {
+        "name": "HDTV Projector",
+        "page": "https://dir.indiamart.com/impcat/hdtv-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/FX/GLADMIN-16074/hdtv-projector-125x125.jpg"
+      },
+      {
+        "name": "Multimedia LCD Projectors",
+        "page": "https://dir.indiamart.com/impcat/multimedia-lcd-projectors.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/HB/GLADMIN-5299/multimedia-lcd-projectors-125x125.jpg"
+      },
+      {
+        "name": "Overhead Projectors",
+        "page": "https://dir.indiamart.com/impcat/overhead-projectors.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/ON/GLADMIN-5645/overhead-projectors-125x125.jpg"
+      },
+      {
+        "name": "Business Projector",
+        "page": "https://dir.indiamart.com/impcat/business-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/NV/GLADMIN-23932/business-projector-125x125.jpg"
+      },
+      {
+        "name": "Laser Projector",
+        "page": "https://dir.indiamart.com/impcat/laser-projector.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/445775505/UF/FL/GX/93696/laserprojector-125x125.png"
+      },
+      {
+        "name": "Opaque Projector",
+        "page": "https://dir.indiamart.com/impcat/opaque-projector.html",
+        "thumbnail": "http://3.imimg.com/data3/XV/GS/GLADMIN-17866/opaque-projector-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Xerox Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/YW/FI/GLADMIN-41536/xerox-machines-125x125.jpg",
+    "items": [
+      {
+        "name": "Canon Digital Photocopier Machine",
+        "page": "https://dir.indiamart.com/impcat/canon-digital-photocopier-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/SM/PG/JQ/73289/canon-digital-photocopier-machine-125x125.jpg"
+      },
+      {
+        "name": "Digital Duplicator",
+        "page": "https://dir.indiamart.com/impcat/digital-duplicator.html",
+        "thumbnail": "http://3.imimg.com/data3/EG/CV/GLADMIN-96517/digital-duplicator-125x125.jpg"
+      },
+      {
+        "name": "Second Hand Xerox Machines",
+        "page": "https://dir.indiamart.com/impcat/second-hand-xerox-machines.html",
+        "thumbnail": "http://5.imimg.com/data5/JM/CG/HY/GLADMIN-56986/second-hand-xerox-machines-125x125.jpg"
+      },
+      {
+        "name": "Digital Photocopier Machine",
+        "page": "https://dir.indiamart.com/impcat/digital-photocopier-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/CG/GLADMIN-157070/digital-photocopier-machine-125x125.jpg"
+      },
+      {
+        "name": "Xerox Machine Rental Services",
+        "page": "https://dir.indiamart.com/impcat/xerox-machine-rental-services.html",
+        "thumbnail": "http://4.imimg.com/data4/RH/EX/GLADMIN-178637/xerox-machine-rental-services-125x125.jpg"
+      },
+      {
+        "name": "Color Photocopy Machine",
+        "page": "https://dir.indiamart.com/impcat/color-photocopy-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/SW/GLADMIN-142595/color-photocopy-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Barcode Printers",
+    "category_thumbnail": "http://3.imimg.com/data3/HP/FI/GLADMIN-1542/barcode-printers-125x125.jpg",
+    "items": [
+      {
+        "name": "Portable Mini Printer",
+        "page": "https://dir.indiamart.com/impcat/portable-mini-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/NI/RC/GLADMIN-136740/portable-mini-printer-125x125.jpg"
+      },
+      {
+        "name": "Label Printer",
+        "page": "https://dir.indiamart.com/impcat/label-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/QW/GLADMIN-15413/label-printer-125x125.jpg"
+      },
+      {
+        "name": "Barcode Label Printer",
+        "page": "https://dir.indiamart.com/impcat/barcode-label-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/AX/IC/GLADMIN-14500/barcode-label-printer-125x125.jpg"
+      },
+      {
+        "name": "Thermal Label Printer",
+        "page": "https://dir.indiamart.com/impcat/thermal-label-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/KA/GLADMIN-19684/thermal-label-printer-125x125.jpg"
+      },
+      {
+        "name": "Mobile Label Printer",
+        "page": "https://dir.indiamart.com/impcat/mobile-printer.html",
+        "thumbnail": "http://5.imimg.com/data5/SR/TW/BA/GLADMIN-73289/mobile-label-printer-125x125.jpg"
+      },
+      {
+        "name": "Desktop Barcode & Label Printer",
+        "page": "https://dir.indiamart.com/impcat/desktop-label-printer.html",
+        "thumbnail": "http://5.imimg.com/data5/JK/LQ/WT/GLADMIN-73289/desktop-barcode-label-printer-125x125.jpg"
+      },
+      {
+        "name": "Portable Label Printer",
+        "page": "https://dir.indiamart.com/impcat/portable-label-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/XU/GLADMIN-18257/portable-label-printer-125x125.jpg"
+      },
+      {
+        "name": "Portable Barcode Printer",
+        "page": "https://dir.indiamart.com/impcat/portable-barcode-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/QY/CN/GLADMIN-146489/portable-barcode-printer-125x125.jpg"
+      },
+      {
+        "name": "Thermal Barcode Printing Machine",
+        "page": "https://dir.indiamart.com/impcat/thermal-barcode-printing-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/OE/IK/KF/GLADMIN-73289/thermal-barcode-printing-machine-125x125.jpg"
+      },
+      {
+        "name": "Used Label Printer",
+        "page": "https://dir.indiamart.com/impcat/used-label-printer.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/used-label-printer-125x125.jpg"
+      },
+      {
+        "name": "RFID Printer",
+        "page": "https://dir.indiamart.com/impcat/rfid-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/RY/GLADMIN-81022/rfid-printer-125x125.jpg"
+      },
+      {
+        "name": "Used Barcode Printers",
+        "page": "https://dir.indiamart.com/impcat/used-barcode-printers.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/used-barcode-printers-125x125.jpg"
+      },
+      {
+        "name": "Industrial Barcode Printer",
+        "page": "https://dir.indiamart.com/impcat/industrial-barcode-printer.html",
+        "thumbnail": "http://5.imimg.com/data5/DM/UX/GLADMIN-2/industrial-barcode-printer-125x125.jpg"
+      },
+      {
+        "name": "Desktop Printer",
+        "page": "https://dir.indiamart.com/impcat/desktop-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/WA/OD/GLADMIN-159684/desktop-printer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Inkjet Printer",
+    "category_thumbnail": "http://3.imimg.com/data3/GB/XA/GLADMIN-15712/inkjet-printer-125x125.jpg",
+    "items": [
+      {
+        "name": "Handheld Inkjet Printer",
+        "page": "https://dir.indiamart.com/impcat/handheld-inkjet-printer.html",
+        "thumbnail": "http://5.imimg.com/data5/WK/OR/AH/GLADMIN-68087/handheld-inkjet-printer-125x125.jpg"
+      },
+      {
+        "name": "Refurbished Printers",
+        "page": "https://dir.indiamart.com/impcat/refurbished-printers.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369237057/NG/AH/KE/96012/refurbished-printers-125x125.jpg"
+      },
+      {
+        "name": "Used Printer",
+        "page": "https://dir.indiamart.com/impcat/used-printer.html",
+        "thumbnail": "http://4.imimg.com/data4/QV/FM/GLADMIN-183673/used-printer-125x125.jpg"
+      },
+      {
+        "name": "Ink Tank Printers",
+        "page": "https://dir.indiamart.com/impcat/ink-tank-printers.html",
+        "thumbnail": "http://5.imimg.com/data5/CU/SW/JF/GLADMIN-68155/ink-tank-printers-125x125.jpg"
+      },
+      {
+        "name": "Color Inkjet Printer",
+        "page": "https://dir.indiamart.com/impcat/color-inkjet-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/JN/HN/GLADMIN-24385/color-inkjet-printer-125x125.jpg"
+      },
+      {
+        "name": "Wireless Printer",
+        "page": "https://dir.indiamart.com/impcat/wireless-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/VF/XG/GLADMIN-20198/wireless-printer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Projector Parts & Peripherals",
+    "category_thumbnail": "http://3.imimg.com/data3/QT/OD/GLADMIN-141969/projector-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Projector Lamp",
+        "page": "https://dir.indiamart.com/impcat/projector-lamp.html",
+        "thumbnail": "http://3.imimg.com/data3/YU/MP/GLADMIN-55188/projector-lamp-125x125.jpg"
+      },
+      {
+        "name": "Projector Remote Control",
+        "page": "https://dir.indiamart.com/impcat/projector-remote-control.html",
+        "thumbnail": "http://3.imimg.com/data3/BQ/OX/GLADMIN-149947/projector-remote-control-125x125.jpg"
+      },
+      {
+        "name": "Projector LCD Panel",
+        "page": "https://dir.indiamart.com/impcat/projector-lcd-panel.html",
+        "thumbnail": "http://5.imimg.com/data5/GF/BR/AY/GLADMIN-68087/projector-lcd-panel-125x125.jpg"
+      },
+      {
+        "name": "Projector Lenses",
+        "page": "https://dir.indiamart.com/impcat/projector-lenses.html",
+        "thumbnail": "http://3.imimg.com/data3/US/GL/GLADMIN-35838/projector-lenses-125x125.jpg"
+      },
+      {
+        "name": "Wireless Presenter",
+        "page": "https://dir.indiamart.com/impcat/wireless-presenter.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/IX/GLADMIN-177277/wireless-presenter-125x125.jpg"
+      },
+      {
+        "name": "Cinema Screen Frame",
+        "page": "https://dir.indiamart.com/impcat/cinema-screen-frame.html",
+        "thumbnail": "http://3.imimg.com/data3/QL/MF/GLADMIN-94665/cinema-screen-frame-125x125.jpg"
+      },
+      {
+        "name": "Projector Ceiling Mount Kit",
+        "page": "https://dir.indiamart.com/impcat/projector-ceiling-mount-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/BH/TY/GLADMIN-166940/projector-ceiling-mount-kit-125x125.jpg"
+      },
+      {
+        "name": "Projector Stand",
+        "page": "https://dir.indiamart.com/impcat/projector-stand.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/XW/GLADMIN-41641/projector-stand-125x125.jpg"
+      },
+      {
+        "name": "Projector Mounts",
+        "page": "https://dir.indiamart.com/impcat/projector-mounts.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/VC/GLADMIN-55951/projector-mounts-125x125.jpg"
+      },
+      {
+        "name": "Projection Film",
+        "page": "https://dir.indiamart.com/impcat/projection-film.html",
+        "thumbnail": "http://3.imimg.com/data3/CB/DY/GLADMIN-150478/projection-film-125x125.jpg"
+      },
+      {
+        "name": "Motorized Projector Lift",
+        "page": "https://dir.indiamart.com/impcat/motorized-projector-lift.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/DN/GLADMIN-/products-images-da-lift-10-125x125.jpg"
+      },
+      {
+        "name": "Presentation Equipment",
+        "page": "https://dir.indiamart.com/impcat/presentation-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/PS/GLADMIN-35611/presentation-equipment-125x125.jpg"
+      },
+      {
+        "name": "Replacement Projector Lamp",
+        "page": "https://dir.indiamart.com/impcat/replacement-projector-lamp.html",
+        "thumbnail": "http://3.imimg.com/data3/OD/MO/GLADMIN-94669/replacement-projector-lamp-125x125.jpg"
+      },
+      {
+        "name": "Projection Speaker",
+        "page": "https://dir.indiamart.com/impcat/projection-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/WO/GLADMIN-55185/projection-speaker-125x125.jpg"
+      },
+      {
+        "name": "LCD Projector Lamp",
+        "page": "https://dir.indiamart.com/impcat/lcd-projector-lamp.html",
+        "thumbnail": "http://3.imimg.com/data3/HE/WT/GLADMIN-55170/lcd-projector-lamp-125x125.jpg"
+      },
+      {
+        "name": "Presentation Aids",
+        "page": "https://dir.indiamart.com/impcat/presentation-aids.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/TC/GLADMIN-106879/presentation-aids-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Scanner",
+    "category_thumbnail": "http://3.imimg.com/data3/QO/YQ/GLADMIN-96518/digital-scanner-125x125.jpg",
+    "items": [
+      {
+        "name": "Mobile Scanners",
+        "page": "https://dir.indiamart.com/impcat/mobile-scanners.html",
+        "thumbnail": "http://3.imimg.com/data3/BJ/FT/GLADMIN-33170/mobile-scanners-125x125.jpg"
+      },
+      {
+        "name": "Document Scanners",
+        "page": "https://dir.indiamart.com/impcat/document-scanners.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/TN/GLADMIN-26241/document-scanners-125x125.jpg"
+      },
+      {
+        "name": "Scanner Parts",
+        "page": "https://dir.indiamart.com/impcat/scanner-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/YW/GLADMIN-81105/scanner-parts-125x125.jpg"
+      },
+      {
+        "name": "Book Scanners",
+        "page": "https://dir.indiamart.com/impcat/book-scanners.html",
+        "thumbnail": "http://3.imimg.com/data3/BI/XX/GLADMIN-20807/book-scanners-125x125.jpg"
+      },
+      {
+        "name": "OMR Scanner",
+        "page": "https://dir.indiamart.com/impcat/omr-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/UI/GLADMIN-86341/omr-scanner-125x125.jpg"
+      },
+      {
+        "name": "Cheque Scanners",
+        "page": "https://dir.indiamart.com/impcat/cheque-scanners.html",
+        "thumbnail": "http://4.imimg.com/data4/HL/VN/GLADMIN-179639/cheque-scanners-125x125.jpg"
+      },
+      {
+        "name": "Flatbed Scanner",
+        "page": "https://dir.indiamart.com/impcat/flatbed-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/RO/UV/QB/49660/flatbed-scanner-125x125.jpg"
+      },
+      {
+        "name": "Epson Document Scanner",
+        "page": "https://dir.indiamart.com/impcat/epson-document-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/JD/YI/RA/81953/epson-document-scanner-125x125"
+      },
+      {
+        "name": "Large Format Scanner",
+        "page": "https://dir.indiamart.com/impcat/large-format-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/AT/IV/GLADMIN-154933/large-format-scanner-125x125.jpg"
+      },
+      {
+        "name": "Image Scanner",
+        "page": "https://dir.indiamart.com/impcat/image-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/OB/QC/GLADMIN-30796/image-scanner-125x125.jpg"
+      },
+      {
+        "name": "Wall Scanner",
+        "page": "https://dir.indiamart.com/impcat/wall-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/FP/CH/GLADMIN-2/wall-scanner-125x125.jpg"
+      },
+      {
+        "name": "Passport Reader",
+        "page": "https://dir.indiamart.com/impcat/passport-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/LC/BO/GLADMIN-140400/passport-reader-125x125.jpg"
+      },
+      {
+        "name": "Portable Document Scanner",
+        "page": "https://dir.indiamart.com/impcat/portable-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/IE/KN/GLADMIN-35419/portable-scanner-125x125.jpg"
+      },
+      {
+        "name": "Electronic Scanners",
+        "page": "https://dir.indiamart.com/impcat/electronic-scanners.html",
+        "thumbnail": "http://3.imimg.com/data3/VM/SQ/GLADMIN-27654/electronic-scanners-125x125.jpg"
+      },
+      {
+        "name": "Film Scanner",
+        "page": "https://dir.indiamart.com/impcat/film-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/SX/GLADMIN-14118/film-scanner-125x125.jpg"
+      },
+      {
+        "name": "OCR Scanner",
+        "page": "https://dir.indiamart.com/impcat/ocr-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/DO/GLADMIN-17828/ocr-scanner-125x125.jpg"
+      },
+      {
+        "name": "Sheetfed Scanner",
+        "page": "https://dir.indiamart.com/impcat/sheetfed-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/KL/CF/GLADMIN-18071/sheetfed-scanner-125x125.jpg"
+      },
+      {
+        "name": "Microfilm Scanners",
+        "page": "https://dir.indiamart.com/impcat/microfilm-scanners.html",
+        "thumbnail": "http://3.imimg.com/data3/FW/EC/GLADMIN-33482/microfilm-scanners-125x125.jpg"
+      },
+      {
+        "name": "Scanning Roller",
+        "page": "https://dir.indiamart.com/impcat/scanning-roller.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/JN/GLADMIN-119255/scanning-roller-125x125.jpg"
+      },
+      {
+        "name": "UV Scanner",
+        "page": "https://dir.indiamart.com/impcat/uv-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/MK/BA/GLADMIN-40594/uv-scanner-125x125.jpg"
+      },
+      {
+        "name": "MICR Check Readers",
+        "page": "https://dir.indiamart.com/impcat/micr-check-readers.html",
+        "thumbnail": "http://3.imimg.com/data3/GO/DF/GLADMIN-33466/micr-check-readers-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Multifunction Printer",
+    "category_thumbnail": "http://5.imimg.com/data5/WM/DW/YP/GLADMIN-63828/multifunction-printer-125x125.jpg",
+    "items": [
+      {
+        "name": "Printers for Home",
+        "page": "https://dir.indiamart.com/impcat/computer-printers.html",
+        "thumbnail": "http://3.imimg.com/data3/XP/AH/GLADMIN-141/computer-printers-125x125.jpg"
+      },
+      {
+        "name": "Printer Rental Services",
+        "page": "https://dir.indiamart.com/impcat/printer-rental-services.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/PW/GLADMIN-141579/printer-rental-services-125x125.jpg"
+      },
+      {
+        "name": "Printers for Office",
+        "page": "https://dir.indiamart.com/impcat/office-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/IM/DQ/GLADMIN-80758/office-printer-125x125.jpg"
+      },
+      {
+        "name": "Laser Multifunction Printer",
+        "page": "https://dir.indiamart.com/impcat/laser-multifunction-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/BQ/GLADMIN-149692/laser-multifunction-printer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Laser Printer",
+    "category_thumbnail": "http://3.imimg.com/data3/SQ/TQ/GLADMIN-16975/laser-printer-125x125.jpg",
+    "items": [
+      {
+        "name": "Used Laser Printer",
+        "page": "https://dir.indiamart.com/impcat/used-laser-printer.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/PP/GLADMIN-/used-laser-printer-125x125.jpg"
+      },
+      {
+        "name": "Laserjet Printer",
+        "page": "https://dir.indiamart.com/impcat/laserjet-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/QN/BM/GLADMIN-80637/laserjet-printer-125x125.jpg"
+      },
+      {
+        "name": "Pantum Laser Printer",
+        "page": "https://dir.indiamart.com/impcat/pantum-laser-printer.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/337027367/QC/HN/PE/97949/pantum-laser-printer-125x125.png"
+      },
+      {
+        "name": "Monochrome Printer",
+        "page": "https://dir.indiamart.com/impcat/mono-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/IO/GLADMIN-16845/mono-printer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Barcode Scanners",
+    "category_thumbnail": "http://3.imimg.com/data3/CP/WU/GLADMIN-22856/barcode-scanners-125x125.jpg",
+    "items": [
+      {
+        "name": "Handheld Barcode Scanner",
+        "page": "https://dir.indiamart.com/impcat/handheld-barcode-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/handheld-barcode-scanner-125x125.jpg"
+      },
+      {
+        "name": "CCD Scanners",
+        "page": "https://dir.indiamart.com/impcat/ccd-scanners.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/LA/GLADMIN-24550/ccd-scanners-125x125.jpg"
+      },
+      {
+        "name": "Laser Scanner",
+        "page": "https://dir.indiamart.com/impcat/laser-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/RK/GLADMIN-16976/laser-scanner-125x125.jpg"
+      },
+      {
+        "name": "2D Barcode Reader",
+        "page": "https://dir.indiamart.com/impcat/2d-barcode-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/PA/GLADMIN-141727/2d-barcode-reader-125x125.jpg"
+      },
+      {
+        "name": "Barcode Verifiers",
+        "page": "https://dir.indiamart.com/impcat/barcode-verifiers.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/BS/GLADMIN-22857/barcode-verifiers-125x125.jpg"
+      },
+      {
+        "name": "Barcode Card Reader",
+        "page": "https://dir.indiamart.com/impcat/barcode-card-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/AB/UJ/GLADMIN-22853/barcode-card-reader-125x125.jpg"
+      },
+      {
+        "name": "Barcode Systems",
+        "page": "https://dir.indiamart.com/impcat/barcode-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/UO/GLADMIN-113726/barcode-systems-125x125.jpg"
+      },
+      {
+        "name": "Pen Scanner",
+        "page": "https://dir.indiamart.com/impcat/pen-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/GW/XM/GLADMIN-2/pen-scanner-125x125.jpg"
+      },
+      {
+        "name": "USB Barcode Scanner",
+        "page": "https://dir.indiamart.com/impcat/usb-barcode-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/GI/UI/FD/49660/usb-barcode-scanner-125x125.jpg"
+      },
+      {
+        "name": "Omni Directional Scanner",
+        "page": "https://dir.indiamart.com/impcat/omni-directional-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/NC/BL/UR/GLADMIN-68155/omni-directional-scanner-125x125.jpg"
+      },
+      {
+        "name": "Automotive Barcode Scanner",
+        "page": "https://dir.indiamart.com/impcat/automotive-barcode-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/LL/GLADMIN-151133/automotive-barcode-scanner-125x125.jpg"
+      },
+      {
+        "name": "Slot Scanner",
+        "page": "https://dir.indiamart.com/impcat/slot-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/YX/NY/GLADMIN-81173/slot-scanner-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Paper Shredding Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/SR/QQ/GLADMIN-34520/paper-shredding-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Heavy Duty Paper Shredder",
+        "page": "https://dir.indiamart.com/impcat/heavy-duty-paper-shredder.html",
+        "thumbnail": "http://4.imimg.com/data4/GS/AS/GLADMIN-178831/heavy-duty-paper-shredder-125x125.jpg"
+      },
+      {
+        "name": "Cardboard Shredders",
+        "page": "https://dir.indiamart.com/impcat/cardboard-shredders.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/CC/GLADMIN-24446/cardboard-shredders-125x125.jpg"
+      },
+      {
+        "name": "Industrial Paper Shredders",
+        "page": "https://dir.indiamart.com/impcat/industrial-paper-shredders.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/AB/GLADMIN-30700/industrial-paper-shredders-125x125.jpg"
+      },
+      {
+        "name": "Micro Cut Paper Shredder",
+        "page": "https://dir.indiamart.com/impcat/micro-cut-paper-shredder.html",
+        "thumbnail": "http://4.imimg.com/data4/AJ/UN/GLADMIN-179951/micro-cut-paper-shredder-125x125.jpg"
+      },
+      {
+        "name": "Strip Cut Shredder",
+        "page": "https://dir.indiamart.com/impcat/strip-cut-shredder.html",
+        "thumbnail": "http://4.imimg.com/data4/TK/TQ/GLADMIN-178829/strip-cut-shredder-125x125.jpg"
+      },
+      {
+        "name": "CD Shredder",
+        "page": "https://dir.indiamart.com/impcat/cd-shredder.html",
+        "thumbnail": "http://3.imimg.com/data3/SO/IQ/GLADMIN-24714/cd-shredder-125x125.jpg"
+      },
+      {
+        "name": "Desktop Shredder",
+        "page": "https://dir.indiamart.com/impcat/desktop-shredder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/XT/XI/PQ/49660/desktop-shredder-125x125.jpg"
+      },
+      {
+        "name": "Medium Duty Shredder",
+        "page": "https://dir.indiamart.com/impcat/medium-duty-shredder.html",
+        "thumbnail": "http://4.imimg.com/data4/KO/HE/GLADMIN-179952/medium-duty-shredder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ferrule Printing Machine",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/FW/CG/RI/73289/ferrule-printing-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Ferrule Printer Ribbons",
+        "page": "https://dir.indiamart.com/impcat/ferrule-machine-ink-ribbon.html",
+        "thumbnail": "http://5.imimg.com/data5/RH/XB/IP/GLADMIN-60238/ferrule-machine-ink-ribbon-125x125.jpg"
+      },
+      {
+        "name": "Cable ID Printer",
+        "page": "https://dir.indiamart.com/impcat/cable-id-printer.html",
+        "thumbnail": "http://5.imimg.com/data5/EB/JG/ID/GLADMIN-73289/cable-id-printer-125x125.png"
+      },
+      {
+        "name": "Lettering Machine",
+        "page": "https://dir.indiamart.com/impcat/lettering-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/TM/GLADMIN-123026/lettering-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Mobile Computer",
+    "category_thumbnail": "http://3.imimg.com/data3/IH/VK/GLADMIN-122433/mobile-computer-125x125.jpg",
+    "items": [
+      {
+        "name": "Handheld Terminal",
+        "page": "https://dir.indiamart.com/impcat/handheld-terminal.html",
+        "thumbnail": "http://3.imimg.com/data3/TY/OU/GLADMIN-30054/handheld-terminal-125x125.jpg"
+      },
+      {
+        "name": "Portable Data Terminal",
+        "page": "https://dir.indiamart.com/impcat/portable-data-terminal.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/WK/GLADMIN-35062/portable-data-terminal-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fax Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/VN/OL/GLADMIN-6268/fax-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Fax Cartridge",
+        "page": "https://dir.indiamart.com/impcat/fax-cartridge.html",
+        "thumbnail": "http://3.imimg.com/data3/JN/FG/GLADMIN-80317/fax-cartridge-125x125.jpg"
+      },
+      {
+        "name": "Laser Fax Machine",
+        "page": "https://dir.indiamart.com/impcat/laser-fax-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/9/448362529/XZ/TP/YS/93696/laserfaxmachine-125x125.png"
+      },
+      {
+        "name": "Fax Server",
+        "page": "https://dir.indiamart.com/impcat/fax-server.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/NY/GLADMIN-28276/fax-server-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Barcode",
+    "category_thumbnail": "http://3.imimg.com/data3/AG/CD/GLADMIN-22852/barcode-125x125.jpg",
+    "items": [
+      {
+        "name": "Barcode Label",
+        "page": "https://dir.indiamart.com/impcat/barcode-labels.html",
+        "thumbnail": "http://3.imimg.com/data3/YV/EM/GLADMIN-4236/barcode-labels-125x125.jpg"
+      },
+      {
+        "name": "Barcode Stickers",
+        "page": "https://dir.indiamart.com/impcat/barcode-stickers.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/XY/GLADMIN-4237/barcode-stickers-125x125.jpg"
+      },
+      {
+        "name": "QR Code Sticker",
+        "page": "https://dir.indiamart.com/impcat/qr-code-sticker.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/4/298025462/OK/PZ/LF/99893/qr-code-sticker-125x125.webp"
+      },
+      {
+        "name": "Thermal Transfer Ribbons",
+        "page": "https://dir.indiamart.com/impcat/thermal-transfer-ribbons.html",
+        "thumbnail": "http://3.imimg.com/data3/VB/PA/MY-2/thermal-transfer-ribbons-125x125.jpg"
+      },
+      {
+        "name": "Barcode Ribbons",
+        "page": "https://dir.indiamart.com/impcat/barcode-ribbons.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/YG/GLADMIN-22855/barcode-ribbons-125x125.jpg"
+      },
+      {
+        "name": "Wax Ribbon",
+        "page": "https://dir.indiamart.com/impcat/wax-ribbon.html",
+        "thumbnail": "http://3.imimg.com/data3/YL/AW/GLADMIN-72754/wax-ribbon-125x125.jpg"
+      },
+      {
+        "name": "Wax Resin Ribbon",
+        "page": "https://dir.indiamart.com/impcat/wax-resin-ribbon.html",
+        "thumbnail": "http://5.imimg.com/data5/LU/JX/DB/GLADMIN-81953/wax-resin-ribbon-125x125.jpg"
+      },
+      {
+        "name": "Barcode Tags",
+        "page": "https://dir.indiamart.com/impcat/barcode-tags.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/QK/GLADMIN-20634/barcode-tags-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Color Printers",
+        "page": "https://dir.indiamart.com/impcat/color-printers.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/QM/GLADMIN-20808/color-printers-125x125.jpg"
+      }
+    ]
+  }
+]

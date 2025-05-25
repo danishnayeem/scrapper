@@ -1,0 +1,701 @@
+[
+  {
+    "category_name": "Office Chairs",
+    "category_thumbnail": "http://3.imimg.com/data3/GK/RT/MY-2/office-chairs-125x125.jpg",
+    "items": [
+      {
+        "name": "Visitor Chair",
+        "page": "https://dir.indiamart.com/impcat/visitor-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/RT/GLADMIN-39384/visitor-chair-125x125.jpg"
+      },
+      {
+        "name": "Revolving Chair",
+        "page": "https://dir.indiamart.com/impcat/revolving-chairs.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/OV/SO/LF/91307/revolving-chair-125x125.jpeg"
+      },
+      {
+        "name": "High Back Office Chair",
+        "page": "https://dir.indiamart.com/impcat/high-back-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/QV/YB/GLADMIN-2/high-back-chair-125x125.jpg"
+      },
+      {
+        "name": "Leather Office Chair",
+        "page": "https://dir.indiamart.com/impcat/leather-office-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/ER/FV/GLADMIN-87971/leather-office-chair-125x125.jpg"
+      },
+      {
+        "name": "Executive Chairs",
+        "page": "https://dir.indiamart.com/impcat/executive-chairs.html",
+        "thumbnail": "http://3.imimg.com/data3/TW/BQ/GLADMIN-28065/executive-chairs-125x125.jpg"
+      },
+      {
+        "name": "Mesh Executive Chair",
+        "page": "https://dir.indiamart.com/impcat/mesh-executive-chair.html",
+        "thumbnail": "http://4.imimg.com/data4/EL/JC/GLADMIN-2/mesh-executive-chair-125x125.jpg"
+      },
+      {
+        "name": "S Type Chairs",
+        "page": "https://dir.indiamart.com/impcat/s-type-chairs.html",
+        "thumbnail": "http://5.imimg.com/data5/KE/YC/GLADMIN-2/s-type-chairs-125x125.jpg"
+      },
+      {
+        "name": "Medium Back Office Chair",
+        "page": "https://dir.indiamart.com/impcat/medium-back-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/chair-wp-content-uploads-2016-08-gleam-low-back-chair-125x125.jpg"
+      },
+      {
+        "name": "Ergonomic Chairs",
+        "page": "https://dir.indiamart.com/impcat/ergonomic-chairs.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/CL/GLADMIN-27963/ergonomic-chairs-125x125.jpg"
+      },
+      {
+        "name": "Computer Chair",
+        "page": "https://dir.indiamart.com/impcat/computer-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/JI/GLADMIN-25743/computer-chair-125x125.jpg"
+      },
+      {
+        "name": "Low Back Office Chair",
+        "page": "https://dir.indiamart.com/impcat/low-back-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/ZK/SG/YZ/GLADMIN-52102/low-back-chair-125x125.jpg"
+      },
+      {
+        "name": "Used Office Chairs",
+        "page": "https://dir.indiamart.com/impcat/used-office-chairs.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/AA/GLADMIN-/used-office-chairs-125x125.jpg"
+      },
+      {
+        "name": "Wooden Office Chair",
+        "page": "https://dir.indiamart.com/impcat/wooden-office-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/QR/CP/GLADMIN-2/wooden-office-chair-125x125.jpg"
+      },
+      {
+        "name": "Director & Chairman Chair",
+        "page": "https://dir.indiamart.com/impcat/director-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/VV/VV/GLADMIN-/director-chair-125x125.jpg"
+      },
+      {
+        "name": "Staff Chair",
+        "page": "https://dir.indiamart.com/impcat/staff-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/UR/ET/GLADMIN-145350/staff-chair-125x125.jpg"
+      },
+      {
+        "name": "Fabric Office Chair",
+        "page": "https://dir.indiamart.com/impcat/fabric-office-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/AB/GLADMIN-87962/fabric-office-chair-125x125.jpg"
+      },
+      {
+        "name": "Workstation Chair",
+        "page": "https://dir.indiamart.com/impcat/workstation-chair.html",
+        "thumbnail": "http://4.imimg.com/data4/VA/AK/GLADMIN-181509/workstation-chair-125x125.jpg"
+      },
+      {
+        "name": "Conference Chair",
+        "page": "https://dir.indiamart.com/impcat/conference-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/WW/GLADMIN-/conference-chair-125x125.jpg"
+      },
+      {
+        "name": "Back Support Chair",
+        "page": "https://dir.indiamart.com/impcat/back-support-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/PT/GLADMIN-50086/back-support-chair-125x125.jpg"
+      },
+      {
+        "name": "Sleek Chair",
+        "page": "https://dir.indiamart.com/impcat/sleek-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/ED/SH/DJ/GLADMIN-52102/sleek-chair-125x125.jpg"
+      },
+      {
+        "name": "PU Chair",
+        "page": "https://dir.indiamart.com/impcat/pu-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/SE/GLADMIN-88065/pu-chair-125x125.jpg"
+      },
+      {
+        "name": "Perforated Chair",
+        "page": "https://dir.indiamart.com/impcat/perforated-chair.html",
+        "thumbnail": "http://4.imimg.com/data4/GL/HF/GLADMIN-2/perforated-chair-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Study Table",
+    "category_thumbnail": "http://3.imimg.com/data3/MC/SP/GLADMIN-39080/study-table-125x125.jpg",
+    "items": [
+      {
+        "name": "Computer Table",
+        "page": "https://dir.indiamart.com/impcat/computer-table.html",
+        "thumbnail": "http://3.imimg.com/data3/EV/OG/GLADMIN-12543/computer-tables-125x125.jpg"
+      },
+      {
+        "name": "Folding Study Table",
+        "page": "https://dir.indiamart.com/impcat/folding-tables.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/HS/XS/AB/86068/folding-tables-125x125.jpeg"
+      },
+      {
+        "name": "Wooden Study Table",
+        "page": "https://dir.indiamart.com/impcat/wooden-study-table.html",
+        "thumbnail": "http://4.imimg.com/data4/JW/YU/GLADMIN-180662/wooden-study-table-125x125.jpg"
+      },
+      {
+        "name": "Laptop Table",
+        "page": "https://dir.indiamart.com/impcat/laptop-table.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/ML/GLADMIN-145580/laptop-table-125x125.jpg"
+      },
+      {
+        "name": "Kids Study Table",
+        "page": "https://dir.indiamart.com/impcat/kids-study-table.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/436069146/TS/JI/UN/93696/kids-study-table-125x125.png"
+      },
+      {
+        "name": "Wooden Laptop Table",
+        "page": "https://dir.indiamart.com/impcat/wooden-laptop-table.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/wooden-laptop-table-125x125.jpg"
+      },
+      {
+        "name": "Wall Mounting Table",
+        "page": "https://dir.indiamart.com/impcat/wall-mounting-table.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/HM/GLADMIN-159116/wall-mounting-table-125x125.jpg"
+      },
+      {
+        "name": "Table Mate",
+        "page": "https://dir.indiamart.com/impcat/table-mate.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/MR/GLADMIN-177991/table-mate-125x125.jpg"
+      },
+      {
+        "name": "Whiteboard Table",
+        "page": "https://dir.indiamart.com/impcat/whiteboard-table.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/10/OC/VV/RR/81953/whiteboard-table-125x125.jpg"
+      },
+      {
+        "name": "Multi Purpose Table",
+        "page": "https://dir.indiamart.com/impcat/multi-purpose-table.html",
+        "thumbnail": "http://5.imimg.com/data5/WS/XW/GLADMIN-2/dtergt-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Office Furniture",
+    "category_thumbnail": "http://3.imimg.com/data3/PX/QT/GLADMIN-1823/office-furniture-125x125.jpg",
+    "items": [
+      {
+        "name": "Office Chairs",
+        "page": "https://dir.indiamart.com/impcat/office-chairs.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/RT/MY-2/office-chairs-125x125.jpg"
+      },
+      {
+        "name": "Office Tables",
+        "page": "https://dir.indiamart.com/impcat/office-tables.html",
+        "thumbnail": "http://3.imimg.com/data3/RB/HL/GLADMIN-7932/office-tables-125x125.jpg"
+      },
+      {
+        "name": "Modular Office Workstation",
+        "page": "https://dir.indiamart.com/impcat/modular-office-workstation.html",
+        "thumbnail": "http://4.imimg.com/data4/HH/OB/GLADMIN-179257/modular-office-workstation-125x125.jpg"
+      },
+      {
+        "name": "Modular Office Furniture",
+        "page": "https://dir.indiamart.com/impcat/modular-office-furniture.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/BC/GLADMIN-32829/modular-office-furniture-125x125.jpg"
+      },
+      {
+        "name": "Office Sofa",
+        "page": "https://dir.indiamart.com/impcat/office-sofa.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/YK/GLADMIN-165055/office-sofa-125x125.jpg"
+      },
+      {
+        "name": "Wooden Office Furniture",
+        "page": "https://dir.indiamart.com/impcat/wooden-office-furniture.html",
+        "thumbnail": "http://3.imimg.com/data3/WG/GX/GLADMIN-845/wooden-office-furniture-125x125.jpg"
+      },
+      {
+        "name": "Used Office Furniture",
+        "page": "https://dir.indiamart.com/impcat/used-computer-furniture.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/UU/GLADMIN-/used-computer-furniture-125x125.jpg"
+      },
+      {
+        "name": "Newspaper Racks",
+        "page": "https://dir.indiamart.com/impcat/newspaper-racks.html",
+        "thumbnail": "http://3.imimg.com/data3/PQ/IT/GLADMIN-32673/newspaper-racks-125x125.jpg"
+      },
+      {
+        "name": "Office Cabinets",
+        "page": "https://dir.indiamart.com/impcat/office-cabinets.html",
+        "thumbnail": "http://5.imimg.com/data5/TB/MR/GLADMIN-2/laminate-office-cabinetry-125x125.jpg"
+      },
+      {
+        "name": "Antique Office Furniture",
+        "page": "https://dir.indiamart.com/impcat/antique-office-furniture.html",
+        "thumbnail": "http://5.imimg.com/data5/GJ/LW/GLADMIN-2/antique-office-furniture-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Office Tables",
+    "category_thumbnail": "http://3.imimg.com/data3/RB/HL/GLADMIN-7932/office-tables-125x125.jpg",
+    "items": [
+      {
+        "name": "Wooden Office Tables",
+        "page": "https://dir.indiamart.com/impcat/wooden-office-tables.html",
+        "thumbnail": "http://5.imimg.com/data5/CQ/UJ/GLADMIN-2/wooden-office-tables-125x125.jpg"
+      },
+      {
+        "name": "Executive Table",
+        "page": "https://dir.indiamart.com/impcat/executive-table.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/GP/GLADMIN-28070/executive-table-125x125.jpg"
+      },
+      {
+        "name": "Reception Table",
+        "page": "https://dir.indiamart.com/impcat/reception-table.html",
+        "thumbnail": "http://4.imimg.com/data4/RH/GP/GLADMIN-181565/reception-table-125x125.jpg"
+      },
+      {
+        "name": "Conference Tables",
+        "page": "https://dir.indiamart.com/impcat/conference-tables.html",
+        "thumbnail": "http://3.imimg.com/data3/CQ/GL/GLADMIN-3983/conference-tables-125x125.jpg"
+      },
+      {
+        "name": "Steel Office Table",
+        "page": "https://dir.indiamart.com/impcat/steel-office-table.html",
+        "thumbnail": "http://4.imimg.com/data4/MN/BK/GLADMIN-181519/steel-office-table-125x125.jpg"
+      },
+      {
+        "name": "Used Office Tables",
+        "page": "https://dir.indiamart.com/impcat/used-office-tables.html",
+        "thumbnail": "http://5.imimg.com/data5/GC/ML/GLADMIN-2/second-hand-office-tables-125x125.png"
+      },
+      {
+        "name": "L Shaped Desk",
+        "page": "https://dir.indiamart.com/impcat/l-shaped-desk.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/322114302/BW/QC/DZ/64193/l-shaped-desk-125x125.png"
+      },
+      {
+        "name": "Wooden Desk",
+        "page": "https://dir.indiamart.com/impcat/wooden-desk.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/FB/GLADMIN-19415/wooden-desk-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "School Furniture",
+    "category_thumbnail": "http://3.imimg.com/data3/HO/WD/GLADMIN-1822/school-furniture-125x125.jpg",
+    "items": [
+      {
+        "name": "Library Furniture",
+        "page": "https://dir.indiamart.com/impcat/library-furniture.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RZ/TJ/TK/91307/library-furniture-125x125.jpg"
+      },
+      {
+        "name": "School Benches And Desks",
+        "page": "https://dir.indiamart.com/impcat/school-benches.html",
+        "thumbnail": "http://5.imimg.com/data5/AY/OW/GLADMIN-2/school-benches-and-desks-125x125.jpg"
+      },
+      {
+        "name": "Hostel & Dormitory Bed",
+        "page": "https://dir.indiamart.com/impcat/hostel-bed.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/XR/GLADMIN-147582/hostel-bed-125x125.jpg"
+      },
+      {
+        "name": "School Tables",
+        "page": "https://dir.indiamart.com/impcat/school-tables.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/SI/GLADMIN-37140/school-tables-125x125.jpg"
+      },
+      {
+        "name": "Library Rack",
+        "page": "https://dir.indiamart.com/impcat/library-rack.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/JB/GLADMIN-87972/library-rack-125x125.jpg"
+      },
+      {
+        "name": "School and College Furniture",
+        "page": "https://dir.indiamart.com/impcat/college-furniture.html",
+        "thumbnail": "http://3.imimg.com/data3/WF/QG/GLADMIN-139936/college-furniture-125x125.jpg"
+      },
+      {
+        "name": "Institutional Furniture",
+        "page": "https://dir.indiamart.com/impcat/institutional-furniture.html",
+        "thumbnail": "http://5.imimg.com/data5/OR/UE/GLADMIN-2/14-125x125.jpg"
+      },
+      {
+        "name": "Hostel Furniture",
+        "page": "https://dir.indiamart.com/impcat/hostel-furniture.html",
+        "thumbnail": "http://5.imimg.com/data5/DG/UT/GLADMIN-2/hostel-furniture-2-125x125.jpg"
+      },
+      {
+        "name": "School & College Chair",
+        "page": "https://dir.indiamart.com/impcat/institutional-chair.html",
+        "thumbnail": "http://4.imimg.com/data4/DU/SG/GLADMIN-182833/institutional-chair-125x125.jpg"
+      },
+      {
+        "name": "Hostel Wardrobe",
+        "page": "https://dir.indiamart.com/impcat/hostel-wardrobe.html",
+        "thumbnail": "http://4.imimg.com/data4/LB/RY/GLADMIN-185347/hostel-wardrobe-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "School Benches And Desks",
+    "category_thumbnail": "http://5.imimg.com/data5/AY/OW/GLADMIN-2/school-benches-and-desks-125x125.jpg",
+    "items": [
+      {
+        "name": "School Desk",
+        "page": "https://dir.indiamart.com/impcat/school-desk.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/QV/GLADMIN-37137/school-desk-125x125.jpg"
+      },
+      {
+        "name": "Dual Desk Bench",
+        "page": "https://dir.indiamart.com/impcat/dual-desk-bench.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/MS/GLADMIN-/1-322283-full-images-dual-bench-1084676-125x125.jpg"
+      },
+      {
+        "name": "Wooden School Benches",
+        "page": "https://dir.indiamart.com/impcat/wooden-school-benches.html",
+        "thumbnail": "http://4.imimg.com/data4/DH/TS/GLADMIN-167787/wooden-school-benches-125x125.jpg"
+      },
+      {
+        "name": "Kids School Table and Chair Set",
+        "page": "https://dir.indiamart.com/impcat/kids-furniture.html",
+        "thumbnail": "http://5.imimg.com/data5/FD/SB/GLADMIN-2/image_20170711_153418_119-125x125.jpg"
+      },
+      {
+        "name": "Steel School Bench",
+        "page": "https://dir.indiamart.com/impcat/steel-school-bench.html",
+        "thumbnail": "http://4.imimg.com/data4/LO/IH/GLADMIN-2/steel-school-bench-125x125.jpg"
+      },
+      {
+        "name": "Teacher Desk",
+        "page": "https://dir.indiamart.com/impcat/teacher-desk.html",
+        "thumbnail": "http://5.imimg.com/data5/NN/NN/GLADMIN-/teacher-desk-125x125.jpg"
+      },
+      {
+        "name": "Single Student Desk",
+        "page": "https://dir.indiamart.com/impcat/single-student-desk.html",
+        "thumbnail": "http://4.imimg.com/data4/EO/VX/GLADMIN-183077/single-student-desk-125x125.jpg"
+      },
+      {
+        "name": "Writing Desk",
+        "page": "https://dir.indiamart.com/impcat/writing-desk.html",
+        "thumbnail": "http://3.imimg.com/data3/ER/HO/GLADMIN-12578/writing-desk-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel School Desk",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-school-desk.html",
+        "thumbnail": "http://5.imimg.com/data5/AX/AT/BT/GLADMIN-68087/stainless-steel-school-desk-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "School & College Chair",
+    "category_thumbnail": "http://4.imimg.com/data4/DU/SG/GLADMIN-182833/institutional-chair-125x125.jpg",
+    "items": [
+      {
+        "name": "Writing Pad Chairs",
+        "page": "https://dir.indiamart.com/impcat/writing-pad-chairs.html",
+        "thumbnail": "http://3.imimg.com/data3/ER/PJ/GLADMIN-155350/writing-pad-chairs-125x125.jpg"
+      },
+      {
+        "name": "Student Chair",
+        "page": "https://dir.indiamart.com/impcat/student-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/HU/GLADMIN-42526/student-chair-125x125.jpg"
+      },
+      {
+        "name": "Wooden School Chair",
+        "page": "https://dir.indiamart.com/impcat/wooden-school-chair.html",
+        "thumbnail": "http://4.imimg.com/data4/CG/QQ/GLADMIN-2/wooden-school-chair-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Modular Office Workstation",
+    "category_thumbnail": "http://4.imimg.com/data4/HH/OB/GLADMIN-179257/modular-office-workstation-125x125.jpg",
+    "items": [
+      {
+        "name": "Office Workstation Furniture",
+        "page": "https://dir.indiamart.com/impcat/office-workstation.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379674359/HT/DK/RO/89350/office-workstation-furniture-125x125.jpg"
+      },
+      {
+        "name": "Adjustable Height Tables",
+        "page": "https://dir.indiamart.com/impcat/adjustable-height-tables.html",
+        "thumbnail": "http://3.imimg.com/data3/ET/JP/GLADMIN-21590/adjustable-height-tables-125x125.jpg"
+      },
+      {
+        "name": "Office Cubicle",
+        "page": "https://dir.indiamart.com/impcat/office-cubicle.html",
+        "thumbnail": "http://4.imimg.com/data4/EJ/ST/GLADMIN-178241/office-cubicle-125x125.jpg"
+      },
+      {
+        "name": "Used Office Workstation",
+        "page": "https://dir.indiamart.com/impcat/used-office-workstation.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/9/447879085/BQ/CT/CK/93066/usedworkstation-125x125.jpg"
+      },
+      {
+        "name": "Adjustable Workstations",
+        "page": "https://dir.indiamart.com/impcat/adjustable-workstations.html",
+        "thumbnail": "http://5.imimg.com/data5/ZS/CQ/DK/GLADMIN-52102/adjustable-workstations-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Play School Furniture",
+    "category_thumbnail": "http://4.imimg.com/data4/OC/YG/GLADMIN-181800/play-school-furniture-125x125.jpg",
+    "items": [
+      {
+        "name": "Kids Table",
+        "page": "https://dir.indiamart.com/impcat/kids-table.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/ID/MY-2/kids-table-125x125.jpg"
+      },
+      {
+        "name": "Nursery School Furniture",
+        "page": "https://dir.indiamart.com/impcat/nursery-furniture.html",
+        "thumbnail": "http://5.imimg.com/data5/HB/ZH/FO/GLADMIN-52102/nursery-furniture-125x125.jpg"
+      },
+      {
+        "name": "Kids School Chair",
+        "page": "https://dir.indiamart.com/impcat/kids-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/KR/MS/SE/GLADMIN-52102/kids-chair-125x125.jpg"
+      },
+      {
+        "name": "Kids School Table and Chair Set",
+        "page": "https://dir.indiamart.com/impcat/kids-furniture.html",
+        "thumbnail": "http://5.imimg.com/data5/FD/SB/GLADMIN-2/image_20170711_153418_119-125x125.jpg"
+      },
+      {
+        "name": "Kids Plastic Table",
+        "page": "https://dir.indiamart.com/impcat/folding-baby-table.html",
+        "thumbnail": "http://3.imimg.com/data3/GT/DI/GLADMIN-163305/folding-baby-table-125x125.jpg"
+      },
+      {
+        "name": "Kids Wooden Table",
+        "page": "https://dir.indiamart.com/impcat/kids-wooden-table.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/361327336/LJ/OI/YA/90545/kids-wooden-table-125x125.jpg"
+      },
+      {
+        "name": "Kids Wooden Chairs",
+        "page": "https://dir.indiamart.com/impcat/kids-wooden-chairs.html",
+        "thumbnail": "http://4.imimg.com/data4/JO/OM/GLADMIN-184011/kids-wooden-chairs-125x125.jpg"
+      },
+      {
+        "name": "Baby Storage Racks",
+        "page": "https://dir.indiamart.com/impcat/baby-storage-racks.html",
+        "thumbnail": "http://3.imimg.com/data3/PB/VF/GLADMIN-145557/baby-storage-racks-125x125.jpg"
+      },
+      {
+        "name": "Plastic Benches",
+        "page": "https://dir.indiamart.com/impcat/plastic-benches.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/XN/GLADMIN-116128/plastic-benches-125x125.jpg"
+      },
+      {
+        "name": "Baby Folding Chair",
+        "page": "https://dir.indiamart.com/impcat/baby-folding-chair.html",
+        "thumbnail": "http://4.imimg.com/data4/GV/NR/GLADMIN-163298/baby-folding-chair-125x125.jpg"
+      },
+      {
+        "name": "Montessori Furniture",
+        "page": "https://dir.indiamart.com/impcat/montessori-furniture.html",
+        "thumbnail": "http://3.imimg.com/data3/BT/NG/GLADMIN-141919/montessori-furniture-125x125.jpg"
+      },
+      {
+        "name": "Kids Bookcase",
+        "page": "https://dir.indiamart.com/impcat/kids-bookcase.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/PL/MY-2/kids-bookcase-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Office Cabinets",
+    "category_thumbnail": "http://5.imimg.com/data5/TB/MR/GLADMIN-2/laminate-office-cabinetry-125x125.jpg",
+    "items": [
+      {
+        "name": "Office Almirah",
+        "page": "https://dir.indiamart.com/impcat/office-almirah.html",
+        "thumbnail": "http://4.imimg.com/data4/HJ/GL/GLADMIN-181488/office-almirah-125x125.png"
+      },
+      {
+        "name": "File Cabinets",
+        "page": "https://dir.indiamart.com/impcat/file-cabinets.html",
+        "thumbnail": "http://3.imimg.com/data3/PR/UC/GLADMIN-12546/file-cabinets-125x125.jpg"
+      },
+      {
+        "name": "Key Cabinets",
+        "page": "https://dir.indiamart.com/impcat/key-cabinets.html",
+        "thumbnail": "http://3.imimg.com/data3/TF/RO/GLADMIN-31264/key-cabinets-125x125.jpg"
+      },
+      {
+        "name": "Fire Resistant File Cabinet",
+        "page": "https://dir.indiamart.com/impcat/fire-resistant-file-cabinet.html",
+        "thumbnail": "http://3.imimg.com/data3/SV/RQ/GLADMIN-87963/fire-resistant-file-cabinet-125x125.jpg"
+      },
+      {
+        "name": "Pedestal Drawer",
+        "page": "https://dir.indiamart.com/impcat/pedestal-drawer.html",
+        "thumbnail": "http://4.imimg.com/data4/QQ/YO/GLADMIN-2/pedestal-drawer-125x125.jpg"
+      },
+      {
+        "name": "Office Glass Door Almirah",
+        "page": "https://dir.indiamart.com/impcat/glass-door-almirah.html",
+        "thumbnail": "http://4.imimg.com/data4/MR/NL/GLADMIN-181001/glass-door-almirah-125x125.jpg"
+      },
+      {
+        "name": "Metal File Cabinet",
+        "page": "https://dir.indiamart.com/impcat/metal-file-cabinet.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/UT/GLADMIN-87798/metal-file-cabinet-125x125.jpg"
+      },
+      {
+        "name": "Office Rack",
+        "page": "https://dir.indiamart.com/impcat/office-rack.html",
+        "thumbnail": "http://4.imimg.com/data4/BN/OS/GLADMIN-180785/office-rack-125x125.jpg"
+      },
+      {
+        "name": "Wooden Office Cabinet",
+        "page": "https://dir.indiamart.com/impcat/wooden-office-cabinet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/NQ/EH/MN/4974/wooden-office-cabinet-125x125.png"
+      },
+      {
+        "name": "Metal Pedestal Drawer",
+        "page": "https://dir.indiamart.com/impcat/metal-pedestal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/HS/WP/CZ/86068/metal-pedestal-125x125.jpg"
+      },
+      {
+        "name": "Office Bookcase",
+        "page": "https://dir.indiamart.com/impcat/office-bookcase.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/WA/GLADMIN-163987/office-bookcase-125x125.jpg"
+      },
+      {
+        "name": "Wooden Filing Cabinet",
+        "page": "https://dir.indiamart.com/impcat/wooden-filing-cabinet.html",
+        "thumbnail": "http://3.imimg.com/data3/EE/UG/GLADMIN-/wp-content-uploads-2011-11-huntington-oxford-solid-wood-filing-cabinet-2-drawer-125x125.jpg"
+      },
+      {
+        "name": "Mobile Storage Cabinet",
+        "page": "https://dir.indiamart.com/impcat/mobile-storage-cabinet.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/ID/GLADMIN-87976/mobile-storage-cabinet-125x125.jpg"
+      },
+      {
+        "name": "Index Card Cabinets",
+        "page": "https://dir.indiamart.com/impcat/index-card-cabinets.html",
+        "thumbnail": "http://3.imimg.com/data3/HP/SN/GLADMIN-30636/index-card-cabinets-125x125.jpg"
+      },
+      {
+        "name": "File Cupboard",
+        "page": "https://dir.indiamart.com/impcat/file-cupboard.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/BF/GLADMIN-159431/file-cupboard-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Waiting Chairs",
+    "category_thumbnail": "http://3.imimg.com/data3/ND/MS/GLADMIN-41856/waiting-chairs-125x125.jpg",
+    "items": [
+      {
+        "name": "Three Seater Waiting Chair",
+        "page": "https://dir.indiamart.com/impcat/three-seater-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/SJ/DK/GLADMIN-2/sss-125x125.jpg"
+      },
+      {
+        "name": "Airport Waiting Chair",
+        "page": "https://dir.indiamart.com/impcat/airport-waiting-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/DM/GLADMIN-123824/airport-waiting-chair-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Waiting Chair",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-waiting-chair.html",
+        "thumbnail": "http://4.imimg.com/data4/GV/AM/GLADMIN-182031/stainless-steel-waiting-chair-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Podium",
+    "category_thumbnail": "http://3.imimg.com/data3/NJ/LO/GLADMIN-88449/podium-125x125.jpg",
+    "items": [
+      {
+        "name": "Wood Podium",
+        "page": "https://dir.indiamart.com/impcat/wood-podium.html",
+        "thumbnail": "http://3.imimg.com/data3/GR/HE/GLADMIN-88492/wood-podium-125x125.jpg"
+      },
+      {
+        "name": "Digital Podium",
+        "page": "https://dir.indiamart.com/impcat/digital-podium.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/OB/GLADMIN-152170/digital-podium-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Podium",
+        "page": "https://dir.indiamart.com/impcat/acrylic-podium.html",
+        "thumbnail": "http://3.imimg.com/data3/KB/NA/GLADMIN-50138/acrylic-podium-125x125.jpg"
+      },
+      {
+        "name": "Metal Podium",
+        "page": "https://dir.indiamart.com/impcat/metal-podium.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/a-img924-3789-yfmes2-125x125.jpg"
+      },
+      {
+        "name": "Lecture Stand",
+        "page": "https://dir.indiamart.com/impcat/lecture-stand.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/IM/GLADMIN-126817/lecture-stand-125x125.jpg"
+      },
+      {
+        "name": "Lectern Podium",
+        "page": "https://dir.indiamart.com/impcat/lectern-podium.html",
+        "thumbnail": "http://4.imimg.com/data4/SJ/AH/GLADMIN-184548/lectern-podium-125x125.jpg"
+      },
+      {
+        "name": "Brass Podium",
+        "page": "https://dir.indiamart.com/impcat/brass-podium.html",
+        "thumbnail": "http://4.imimg.com/data4/RH/FL/GLADMIN-180739/brass-podium-125x125.jpg"
+      },
+      {
+        "name": "Display Podium",
+        "page": "https://dir.indiamart.com/impcat/display-podium.html",
+        "thumbnail": "http://3.imimg.com/data3/QO/HX/GLADMIN-88398/display-podium-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Auditorium Chair",
+    "category_thumbnail": "http://3.imimg.com/data3/LB/YH/GLADMIN-148163/auditorium-chair-125x125.jpg",
+    "items": [
+      {
+        "name": "Theater Chair",
+        "page": "https://dir.indiamart.com/impcat/theater-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/DO/LU/GLADMIN-88081/theater-chair-125x125.jpg"
+      },
+      {
+        "name": "Stadium Chair",
+        "page": "https://dir.indiamart.com/impcat/stadium-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/PQ/KG/GLADMIN-95934/stadium-chair-125x125.jpg"
+      },
+      {
+        "name": "Push Back Chair",
+        "page": "https://dir.indiamart.com/impcat/push-back-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/HG/AV/GLADMIN-2/push-back-chair1-125x125.jpg"
+      },
+      {
+        "name": "Retractable Seating System",
+        "page": "https://dir.indiamart.com/impcat/seating-system.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/KL/NK/UK/86068/seating-system-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Used Office Furniture",
+    "category_thumbnail": "http://5.imimg.com/data5/UU/UU/GLADMIN-/used-computer-furniture-125x125.jpg",
+    "items": [
+      {
+        "name": "Used Office Chairs",
+        "page": "https://dir.indiamart.com/impcat/used-office-chairs.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/AA/GLADMIN-/used-office-chairs-125x125.jpg"
+      },
+      {
+        "name": "Used Office Tables",
+        "page": "https://dir.indiamart.com/impcat/used-office-tables.html",
+        "thumbnail": "http://5.imimg.com/data5/GC/ML/GLADMIN-2/second-hand-office-tables-125x125.png"
+      },
+      {
+        "name": "Used Office Workstation",
+        "page": "https://dir.indiamart.com/impcat/used-office-workstation.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/9/447879085/BQ/CT/CK/93066/usedworkstation-125x125.jpg"
+      },
+      {
+        "name": "Used Library Furniture",
+        "page": "https://dir.indiamart.com/impcat/used-library-furniture.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/MM/GLADMIN-/used-library-furniture-125x125.jpg"
+      }
+    ]
+  }
+]

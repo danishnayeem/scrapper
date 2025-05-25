@@ -1,0 +1,1042 @@
+[
+  {
+    "category_name": "Herbs,Sticks and Roots",
+    "category_thumbnail": "http://3.imimg.com/data3/RR/MW/GLADMIN-9949/medicinal-herbs-125x125.jpg",
+    "items": [
+      {
+        "name": "Ayurvedic Indian Herbs",
+        "page": "https://dir.indiamart.com/impcat/ayurvedic-herbs.html",
+        "thumbnail": "http://3.imimg.com/data3/IX/BJ/GLADMIN-4150/ayurvedic-herbs-125x125.jpg"
+      },
+      {
+        "name": "Psyllium Husk",
+        "page": "https://dir.indiamart.com/impcat/psyllium-husk.html",
+        "thumbnail": "http://3.imimg.com/data3/UR/IT/GLADMIN-8749/psyllium-husk-125x125.jpg"
+      },
+      {
+        "name": "Cordyceps Militaris",
+        "page": "https://dir.indiamart.com/impcat/cordycep-militaris.html",
+        "thumbnail": "http://5.imimg.com/data5/WU/CX/YZ/GLADMIN-68155/cordycep-militaris-125x125.jpg"
+      },
+      {
+        "name": "Safed Musli",
+        "page": "https://dir.indiamart.com/impcat/safed-musli.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DO/XC/WA/43668/safed-musli-125x125.jpg"
+      },
+      {
+        "name": "Dried Herbs",
+        "page": "https://dir.indiamart.com/impcat/dried-herbs.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/OD/GLADMIN-8758/dried-herbs-125x125.jpg"
+      },
+      {
+        "name": "Banslochan",
+        "page": "https://dir.indiamart.com/impcat/banslochan.html",
+        "thumbnail": "http://4.imimg.com/data4/JI/BJ/GLADMIN-182849/banslochan-125x125.jpg"
+      },
+      {
+        "name": "Soap Nut",
+        "page": "https://dir.indiamart.com/impcat/soap-nut.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/QS/GLADMIN-74586/soap-nut-125x125.jpg"
+      },
+      {
+        "name": "Raw Medicinal Herbs",
+        "page": "https://dir.indiamart.com/impcat/raw-medicinal-herbs.html",
+        "thumbnail": "http://3.imimg.com/data3/TT/JM/GLADMIN-8976/raw-medicinal-herbs-125x125.jpg"
+      },
+      {
+        "name": "Miswak Stick",
+        "page": "https://dir.indiamart.com/impcat/miswak-stick.html",
+        "thumbnail": "http://3.imimg.com/data3/FB/UF/GLADMIN-177715/miswak-stick-125x125.jpg"
+      },
+      {
+        "name": "Terminalia Chebula",
+        "page": "https://dir.indiamart.com/impcat/terminalia-chebula.html",
+        "thumbnail": "http://3.imimg.com/data3/LN/JR/GLADMIN-159851/terminalia-chebula-125x125.jpg"
+      },
+      {
+        "name": "Raw Herbs",
+        "page": "https://dir.indiamart.com/impcat/raw-herbs.html",
+        "thumbnail": "http://3.imimg.com/data3/XR/DL/GLADMIN-8973/raw-herbs-125x125.jpg"
+      },
+      {
+        "name": "Shikakai",
+        "page": "https://dir.indiamart.com/impcat/shikakai.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/LD/GLADMIN-88465/shikakai-125x125.jpg"
+      },
+      {
+        "name": "Herbal Raw Material",
+        "page": "https://dir.indiamart.com/impcat/herbal-raw-material.html",
+        "thumbnail": "http://3.imimg.com/data3/JR/UW/GLADMIN-107693/herbal-raw-material-125x125.jpg"
+      },
+      {
+        "name": "Berberis Aristata",
+        "page": "https://dir.indiamart.com/impcat/berberis-aristata.html",
+        "thumbnail": "http://3.imimg.com/data3/SX/OJ/GLADMIN-44814/berberis-aristata-125x125.jpg"
+      },
+      {
+        "name": "Nagarmotha",
+        "page": "https://dir.indiamart.com/impcat/nagarmotha.html",
+        "thumbnail": "http://4.imimg.com/data4/VA/UM/GLADMIN-180387/nagarmotha-125x125.jpg"
+      },
+      {
+        "name": "Cissus Quadrangularis",
+        "page": "https://dir.indiamart.com/impcat/cissus-quadrangularis.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/WE/BK/DO/28031/cissus-quadrangularis-125x125.jpg"
+      },
+      {
+        "name": "Wheatgrass",
+        "page": "https://dir.indiamart.com/impcat/wheatgrass.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/IS/GLADMIN-55255/wheatgrass-125x125.jpg"
+      },
+      {
+        "name": "Butea Monosperma",
+        "page": "https://dir.indiamart.com/impcat/butea-monosperma.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/XH/GLADMIN-44615/butea-monosperma-125x125.jpg"
+      },
+      {
+        "name": "Arjuna Bark",
+        "page": "https://dir.indiamart.com/impcat/arjuna-bark.html",
+        "thumbnail": "http://3.imimg.com/data3/GT/TK/GLADMIN-177559/arjuna-bark-125x125.jpg"
+      },
+      {
+        "name": "Garcinia Cambogia Herb",
+        "page": "https://dir.indiamart.com/impcat/garcinia-cambogia.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/12/471009166/CZ/WV/QP/113581/herb-125x125.png"
+      },
+      {
+        "name": "Paneer Doda",
+        "page": "https://dir.indiamart.com/impcat/paneer-doda.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/PN/YD/HJ/28031/paneer-doda-125x125.jpg"
+      },
+      {
+        "name": "Moringa",
+        "page": "https://dir.indiamart.com/impcat/moringa.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/412855995/SO/AN/TM/92376/moringa-125x125.jpg"
+      },
+      {
+        "name": "Boswellia Serrata",
+        "page": "https://dir.indiamart.com/impcat/boswellia-serrata.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/TJ/GLADMIN-44617/boswellia-serrata-125x125.jpg"
+      },
+      {
+        "name": "Bhringraj Herb",
+        "page": "https://dir.indiamart.com/impcat/bhringraj-herb.html",
+        "thumbnail": "http://4.imimg.com/data4/DS/HG/GLADMIN-184242/bhringraj-herb-125x125.jpg"
+      },
+      {
+        "name": "Brahmi",
+        "page": "https://dir.indiamart.com/impcat/brahmi.html",
+        "thumbnail": "http://3.imimg.com/data3/XG/WO/GLADMIN-44817/brahmi-125x125.jpg"
+      },
+      {
+        "name": "Morinda Citrifolia",
+        "page": "https://dir.indiamart.com/impcat/morinda-citrifolia.html",
+        "thumbnail": "http://3.imimg.com/data3/AL/JJ/GLADMIN-166527/morinda-citrifolia-125x125.jpg"
+      },
+      {
+        "name": "Niranjan Phal",
+        "page": "https://dir.indiamart.com/impcat/niranjan-phal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/399212466/TU/SU/RU/92376/niranjan-phal-125x125.png"
+      },
+      {
+        "name": "Akarkara",
+        "page": "https://dir.indiamart.com/impcat/akarkara.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/HD/GLADMIN-141246/akarkara-125x125.jpg"
+      },
+      {
+        "name": "Liquorice",
+        "page": "https://dir.indiamart.com/impcat/glycyrrhiza-glabra.html",
+        "thumbnail": "http://3.imimg.com/data3/LK/OQ/MY-2/glycyrrhiza-glabra-125x125.jpg"
+      },
+      {
+        "name": "Acacia Arabica",
+        "page": "https://dir.indiamart.com/impcat/acacia-arabica.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/acacia-arabica-125x125.jpg"
+      },
+      {
+        "name": "Alkanet Root",
+        "page": "https://dir.indiamart.com/impcat/alkanet-root.html",
+        "thumbnail": "http://5.imimg.com/data5/CJ/QF/EY/GLADMIN-68087/alkanet-root-125x125"
+      },
+      {
+        "name": "Organic Herbs",
+        "page": "https://dir.indiamart.com/impcat/organic-herbs.html",
+        "thumbnail": "http://3.imimg.com/data3/MO/IA/GLADMIN-42025/organic-herbs-125x125.jpg"
+      },
+      {
+        "name": "Jatropha Curcas",
+        "page": "https://dir.indiamart.com/impcat/jatropha-curcas.html",
+        "thumbnail": "http://3.imimg.com/data3/UK/GL/MY-2/jatropha-curcas-125x125.jpg"
+      },
+      {
+        "name": "Nardostachys Jatamansi",
+        "page": "https://dir.indiamart.com/impcat/nardostachys-jatamansi.html",
+        "thumbnail": "http://5.imimg.com/data5/CB/TN/GLADMIN-2/jatamasi-nardostachys-jatamansi-500x500-125x125.jpg"
+      },
+      {
+        "name": "Neem Stick",
+        "page": "https://dir.indiamart.com/impcat/neem-stick.html",
+        "thumbnail": "http://5.imimg.com/data5/IX/AS/LB/GLADMIN-81462/neem-stick-125x125.jpeg"
+      },
+      {
+        "name": "Solanum Xanthocarpum",
+        "page": "https://dir.indiamart.com/impcat/solanum-xanthocarpum.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/SL/GLADMIN-166534/solanum-xanthocarpum-125x125.jpg"
+      },
+      {
+        "name": "Cassia Fistula",
+        "page": "https://dir.indiamart.com/impcat/cassia-fistula.html",
+        "thumbnail": "http://3.imimg.com/data3/WJ/DH/GLADMIN-5605/cassia-fistula-125x125.jpg"
+      },
+      {
+        "name": "Phyllanthus Niruri",
+        "page": "https://dir.indiamart.com/impcat/phyllanthus-niruri.html",
+        "thumbnail": "http://4.imimg.com/data4/MM/MM/GLADMIN-/phyllanthus-niruri-125x125.jpg"
+      },
+      {
+        "name": "Jivanti Herb",
+        "page": "https://dir.indiamart.com/impcat/jivanti-herb.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/YT/GLADMIN-139403/jivanti-herb-125x125.jpg"
+      },
+      {
+        "name": "Acorus Calamus",
+        "page": "https://dir.indiamart.com/impcat/acorus-calamus.html",
+        "thumbnail": "http://4.imimg.com/data4/IV/IS/GLADMIN-183701/acorus-calamus-125x125.jpg"
+      },
+      {
+        "name": "Orchis Mascula",
+        "page": "https://dir.indiamart.com/impcat/orchis-mascula.html",
+        "thumbnail": "http://5.imimg.com/data5/IL/KZ/ZA/GLADMIN-76037/orchis-mascula-125x125.jpg"
+      },
+      {
+        "name": "Aconitum Heterophyllum",
+        "page": "https://dir.indiamart.com/impcat/aconitum-heterophyllum.html",
+        "thumbnail": "http://3.imimg.com/data3/GY/BP/GLADMIN-152652/aconitum-heterophyllum-125x125.jpg"
+      },
+      {
+        "name": "Rubia Cordifolia",
+        "page": "https://dir.indiamart.com/impcat/rubia-cordifolia.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/FB/GLADMIN-159215/rubia-cordifolia-125x125.jpg"
+      },
+      {
+        "name": "Sugandh Mantri",
+        "page": "https://dir.indiamart.com/impcat/sugandh-mantri.html",
+        "thumbnail": "http://5.imimg.com/data5/BL/KX/PN/GLADMIN-68087/sugandh-mantri-125x125.png"
+      },
+      {
+        "name": "Ocimum Basilicum",
+        "page": "https://dir.indiamart.com/impcat/ocimum-basilicum.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/11/GN/NE/FW/28031/ocimum-basilicum-125x125.jpg"
+      },
+      {
+        "name": "Celastrus Paniculatus",
+        "page": "https://dir.indiamart.com/impcat/celastrus-paniculatus.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/417049599/KV/UX/CK/92376/celastrus-paniculatus-125x125.jpg"
+      },
+      {
+        "name": "Gorakhmundi",
+        "page": "https://dir.indiamart.com/impcat/gorakhmundi.html",
+        "thumbnail": "http://4.imimg.com/data4/XU/JA/GLADMIN-183646/gorakhmundi-125x125.jpg"
+      },
+      {
+        "name": "Majuphal",
+        "page": "https://dir.indiamart.com/impcat/majuphal.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/MM/GLADMIN-/majuphal-125x125.jpg"
+      },
+      {
+        "name": "Cedrus Deodara",
+        "page": "https://dir.indiamart.com/impcat/cedrus-deodara.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/LE/GLADMIN-44822/cedrus-deodara-125x125.jpg"
+      },
+      {
+        "name": "Medicinal Mushroom",
+        "page": "https://dir.indiamart.com/impcat/medicinal-mushroom.html",
+        "thumbnail": "http://3.imimg.com/data3/PQ/WP/GLADMIN-84791/medicinal-mushroom-125x125.jpg"
+      },
+      {
+        "name": "Coleus Forskohlii",
+        "page": "https://dir.indiamart.com/impcat/coleus-forskohlii.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/417097094/TD/FM/QX/92376/coleus-forskohlii-125x125.jpg"
+      },
+      {
+        "name": "Lepidium Sativum",
+        "page": "https://dir.indiamart.com/impcat/lepidium-sativum.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/YU/GLADMIN-/576-thickbox-lepidium-sativum-garden-cress-125x125.jpg"
+      },
+      {
+        "name": "Curculigo Orchioides",
+        "page": "https://dir.indiamart.com/impcat/curculigo-orchioides.html",
+        "thumbnail": "http://3.imimg.com/data3/DI/FN/GLADMIN-165353/curculigo-orchioides-125x125.jpg"
+      },
+      {
+        "name": "Paris Polyphylla",
+        "page": "https://dir.indiamart.com/impcat/paris-polyphylla.html",
+        "thumbnail": "http://5.imimg.com/data5/CK/AL/PB/GLADMIN-68155/paris-polyphylla-125x125.jpg"
+      },
+      {
+        "name": "Kasni",
+        "page": "https://dir.indiamart.com/impcat/kasni.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/QR/GLADMIN-44823/kasni-125x125.jpg"
+      },
+      {
+        "name": "Panax Ginseng",
+        "page": "https://dir.indiamart.com/impcat/panax-ginseng.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/XV/WN/GY/28031/panax-ginseng-125x125.jpg"
+      },
+      {
+        "name": "Senna Pods",
+        "page": "https://dir.indiamart.com/impcat/senna-pods.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/IJ/GLADMIN-37601/senna-pods-125x125.jpg"
+      },
+      {
+        "name": "Holarrhena Antidysenterica",
+        "page": "https://dir.indiamart.com/impcat/holarrhena-antidysenterica.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/YB/GLADMIN-166523/holarrhena-antidysenterica-125x125.jpg"
+      },
+      {
+        "name": "Ashok Chhal",
+        "page": "https://dir.indiamart.com/impcat/ashok-chhal.html",
+        "thumbnail": "http://4.imimg.com/data4/SW/PY/GLADMIN-184560/ashok-chhal-125x125.jpg"
+      },
+      {
+        "name": "Plumbago Zeylanica",
+        "page": "https://dir.indiamart.com/impcat/plumbago-zeylanica.html",
+        "thumbnail": "http://4.imimg.com/data4/WW/DH/GLADMIN-183448/plumbago-zeylanica-125x125.jpg"
+      },
+      {
+        "name": "Inderjo Kadwa",
+        "page": "https://dir.indiamart.com/impcat/inderjo-kadwa.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/378140795/WC/EG/MQ/92376/inderjo-kadwa-125x125.jpg"
+      },
+      {
+        "name": "Kulanjan",
+        "page": "https://dir.indiamart.com/impcat/kulanjan.html",
+        "thumbnail": "http://5.imimg.com/data5/SY/BA/GLADMIN-2/kulanjan-125x125.jpg"
+      },
+      {
+        "name": "Wild Yam",
+        "page": "https://dir.indiamart.com/impcat/wild-yam.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/TG/GLADMIN-20157/wild-yam-125x125.jpg"
+      },
+      {
+        "name": "White Asparagus",
+        "page": "https://dir.indiamart.com/impcat/white-asparagus.html",
+        "thumbnail": "http://3.imimg.com/data3/XP/HM/GLADMIN-117464/white-asparagus-125x125.jpg"
+      },
+      {
+        "name": "Valerian",
+        "page": "https://dir.indiamart.com/impcat/valerian.html",
+        "thumbnail": "http://3.imimg.com/data3/OD/AV/GLADMIN-19886/valerian-125x125.jpg"
+      },
+      {
+        "name": "Black Cohosh",
+        "page": "https://dir.indiamart.com/impcat/black-cohosh.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/WL/UB/GW/28031/black-cohosh-125x125.jpg"
+      },
+      {
+        "name": "Siberian Ginseng",
+        "page": "https://dir.indiamart.com/impcat/siberian-ginseng.html",
+        "thumbnail": "http://3.imimg.com/data3/RF/WV/GLADMIN-19151/siberian-ginseng-125x125.jpg"
+      },
+      {
+        "name": "Nyctanthes Arbortristis",
+        "page": "https://dir.indiamart.com/impcat/nyctanthes-arbortristis.html",
+        "thumbnail": "http://3.imimg.com/data3/JF/EB/GLADMIN-166529/nyctanthes-arbortristis-125x125.jpg"
+      },
+      {
+        "name": "Senna Stems",
+        "page": "https://dir.indiamart.com/impcat/senna-stems.html",
+        "thumbnail": "http://5.imimg.com/data5/OS/TX/OA/GLADMIN-65832/senna-stems-125x125.png"
+      },
+      {
+        "name": "Cinchona Bark",
+        "page": "https://dir.indiamart.com/impcat/cinchona-bark.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/CG/GLADMIN-24914/cinchona-bark-125x125.jpg"
+      },
+      {
+        "name": "Valeriana Wallichii",
+        "page": "https://dir.indiamart.com/impcat/valeriana-wallichii.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/LO/YL/JH/28031/valeriana-wallichii-125x125.jpg"
+      },
+      {
+        "name": "Zedoary",
+        "page": "https://dir.indiamart.com/impcat/zedoary.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/BR/GLADMIN-20392/zedoary-125x125.jpg"
+      },
+      {
+        "name": "Yellow Dock",
+        "page": "https://dir.indiamart.com/impcat/yellow-dock.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/YY/WQ/NB/28031/yellow-dock-125x125.jpg"
+      },
+      {
+        "name": "Fagonia Cretica",
+        "page": "https://dir.indiamart.com/impcat/fagonia-cretica.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/a-img924-4094-ktjurt-125x125.jpg"
+      },
+      {
+        "name": "Thyme Herb",
+        "page": "https://dir.indiamart.com/impcat/thyme-herb.html",
+        "thumbnail": "http://4.imimg.com/data4/CU/YD/GLADMIN-179850/thyme-herb-125x125.jpg"
+      },
+      {
+        "name": "Picrorhiza Kurroa Root",
+        "page": "https://dir.indiamart.com/impcat/picrorhiza-kurroa-root.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/380452519/GO/FD/SD/92376/picrorhiza-kurroa-root-125x125.jpg"
+      },
+      {
+        "name": "Achillea Millefolium Extract",
+        "page": "https://dir.indiamart.com/impcat/achillea-millefolium.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/PN/GLADMIN-44813/achillea-millefolium-125x125.jpg"
+      },
+      {
+        "name": "Patchouli Herb",
+        "page": "https://dir.indiamart.com/impcat/patchouli-herb.html",
+        "thumbnail": "http://3.imimg.com/data3/US/XI/GLADMIN-114236/patchouli-herb-125x125.jpg"
+      },
+      {
+        "name": "Chinese Angelica",
+        "page": "https://dir.indiamart.com/impcat/chinese-angelica.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/UD/GLADMIN-13731/chinese-angelica-125x125.jpg"
+      },
+      {
+        "name": "Caralluma Fimbriata Plant",
+        "page": "https://dir.indiamart.com/impcat/caralluma-fimbriata-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/VV/VV/GLADMIN-/a-img923-7479-x6u58f-125x125.jpg"
+      },
+      {
+        "name": "Passiflora Incarnata",
+        "page": "https://dir.indiamart.com/impcat/passiflora-incarnata.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/HO/GLADMIN-5774/passiflora-incarnata-125x125.jpg"
+      },
+      {
+        "name": "Bauhinia Variegata",
+        "page": "https://dir.indiamart.com/impcat/bauhinia-variegata.html",
+        "thumbnail": "http://4.imimg.com/data4/NS/PH/GLADMIN-183231/bauhinia-variegata-125x125.jpg"
+      },
+      {
+        "name": "Salacia Oblonga",
+        "page": "https://dir.indiamart.com/impcat/salacia-oblonga.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/AQ/GLADMIN-166339/salacia-oblonga-125x125.jpg"
+      },
+      {
+        "name": "Semen Cassiae",
+        "page": "https://dir.indiamart.com/impcat/semen-cassiae.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/KQ/GLADMIN-18023/semen-cassiae-125x125.jpg"
+      },
+      {
+        "name": "Hangzhou Chrysanthemum",
+        "page": "https://dir.indiamart.com/impcat/hangzhou-chrysanthemum.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/NH/GLADMIN-16044/hangzhou-chrysanthemum-125x125.jpg"
+      },
+      {
+        "name": "Parmelia Perlata",
+        "page": "https://dir.indiamart.com/impcat/parmelia-perlata.html",
+        "thumbnail": "http://4.imimg.com/data4/BW/XF/GLADMIN-185067/parmelia-perlata-125x125.jpg"
+      },
+      {
+        "name": "Cooking Herbs",
+        "page": "https://dir.indiamart.com/impcat/cooking-herbs.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/QP/MY-2/cooking-herbs-125x125.jpg"
+      },
+      {
+        "name": "Chinese Herb",
+        "page": "https://dir.indiamart.com/impcat/chinese-herb.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/MS/GLADMIN-74578/chinese-herb-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Herb Leaves",
+    "category_thumbnail": "http://3.imimg.com/data3/UY/AL/GLADMIN-9150/herb-leaves-125x125.jpg",
+    "items": [
+      {
+        "name": "Betel Leaves",
+        "page": "https://dir.indiamart.com/impcat/betel-leaves.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DD/OU/TY/43668/betel-leaves-125x125.jpg"
+      },
+      {
+        "name": "Rosemary Leaf",
+        "page": "https://dir.indiamart.com/impcat/rosemary-leave.html",
+        "thumbnail": "http://3.imimg.com/data3/TL/QI/GLADMIN-74585/rosemary-leave-125x125.jpg"
+      },
+      {
+        "name": "Moringa Leaves",
+        "page": "https://dir.indiamart.com/impcat/moringa-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/AJ/GLADMIN-20463/moringa-leaves-125x125.jpg"
+      },
+      {
+        "name": "Aloe Vera Leaf",
+        "page": "https://dir.indiamart.com/impcat/aloe-vera-leaf.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RP/IB/WI/43668/aloe-vera-leaf-125x125.jpeg"
+      },
+      {
+        "name": "Neem Leaves",
+        "page": "https://dir.indiamart.com/impcat/neem-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/BH/GLADMIN-7330/neem-leaves-125x125.jpg"
+      },
+      {
+        "name": "Stevia Leaf",
+        "page": "https://dir.indiamart.com/impcat/stevia-leaf.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/NH/GLADMIN-18808/stevia-leaf-125x125.jpg"
+      },
+      {
+        "name": "Mint Leaf",
+        "page": "https://dir.indiamart.com/impcat/mint-leaf.html",
+        "thumbnail": "http://3.imimg.com/data3/BG/UM/GLADMIN-15327/mint-leaf-125x125.jpg"
+      },
+      {
+        "name": "Senna Leaves",
+        "page": "https://dir.indiamart.com/impcat/senna-leaves.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/SR/UW/SF/28031/senna-leaves-125x125.jpg"
+      },
+      {
+        "name": "Soursop Leaves",
+        "page": "https://dir.indiamart.com/impcat/soursop-leaves.html",
+        "thumbnail": "http://5.imimg.com/data5/YL/QL/IX/GLADMIN-56986/soursop-leaves-125x125.jpg"
+      },
+      {
+        "name": "Bhringraj Leaves",
+        "page": "https://dir.indiamart.com/impcat/bhringraj-leaves.html",
+        "thumbnail": "http://4.imimg.com/data4/WP/EE/GLADMIN-179695/bhringraj-leaves-125x125.jpg"
+      },
+      {
+        "name": "Oregano Leaves",
+        "page": "https://dir.indiamart.com/impcat/oregano-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/WC/GLADMIN-157821/oregano-leaves-125x125.jpg"
+      },
+      {
+        "name": "Bael Tree Leaves",
+        "page": "https://dir.indiamart.com/impcat/bael-tree-leaves.html",
+        "thumbnail": "http://4.imimg.com/data4/JP/YW/GLADMIN-4200/bael-tree-leaves-125x125.jpg"
+      },
+      {
+        "name": "Dry Salam Panja",
+        "page": "https://dir.indiamart.com/impcat/salam-panja-dactylorhiza-hatagirea.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/438016958/LF/XA/US/100839/salam-panja-dactylorhiza-hatagirea-125x125.jpg"
+      },
+      {
+        "name": "Indigo Leaves",
+        "page": "https://dir.indiamart.com/impcat/indigo-leaves.html",
+        "thumbnail": "http://4.imimg.com/data4/EK/AT/GLADMIN-179517/indigo-leaves-125x125.jpg"
+      },
+      {
+        "name": "Lotus Leaf",
+        "page": "https://dir.indiamart.com/impcat/lotus-leaf.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/IS/GLADMIN-17224/lotus-leaf-125x125.jpg"
+      },
+      {
+        "name": "Parsley Leaves",
+        "page": "https://dir.indiamart.com/impcat/parsley-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/VV/GLADMIN-95882/parsley-leaves-125x125.jpg"
+      },
+      {
+        "name": "Amaranth Leaves",
+        "page": "https://dir.indiamart.com/impcat/amaranth.html",
+        "thumbnail": "http://5.imimg.com/data5/LJ/CK/GLADMIN-2/amaranth-leaves-125x125.jpg"
+      },
+      {
+        "name": "Ashwagandha Leaves",
+        "page": "https://dir.indiamart.com/impcat/ashwagandha-leaves.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/11/TS/VW/CS/82392/ashwagandha-leaves-125x125.jpg"
+      },
+      {
+        "name": "Gymnema Sylvestre Leaves",
+        "page": "https://dir.indiamart.com/impcat/gymnema-sylvestre-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/WP/PR/GLADMIN-162707/gymnema-sylvestre-leaves-125x125.jpg"
+      },
+      {
+        "name": "Papaya Leaves",
+        "page": "https://dir.indiamart.com/impcat/papaya-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/OJ/GLADMIN-5705/papaya-leaves-125x125.jpg"
+      },
+      {
+        "name": "Eucalyptus Leaves",
+        "page": "https://dir.indiamart.com/impcat/eucalyptus-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/VO/GLADMIN-6158/eucalyptus-leaves-125x125.jpg"
+      },
+      {
+        "name": "Nettle Leaf",
+        "page": "https://dir.indiamart.com/impcat/nettle-leaf.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/VL/GLADMIN-/nature-basin-5petal-mint-agastache-urticifolia-urticifolia7b-125x125.jpg"
+      },
+      {
+        "name": "Holy Basil Leaves",
+        "page": "https://dir.indiamart.com/impcat/holy-basil-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/YM/CF/GLADMIN-157800/holy-basil-leaves-125x125.jpg"
+      },
+      {
+        "name": "Vinca Rosea Leaves",
+        "page": "https://dir.indiamart.com/impcat/vinca-rosea-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/RT/GLADMIN-166537/vinca-rosea-leaves-125x125.jpg"
+      },
+      {
+        "name": "Spearmint Leaf",
+        "page": "https://dir.indiamart.com/impcat/spearmint-leaf.html",
+        "thumbnail": "http://5.imimg.com/data5/GG/GG/GLADMIN-/a-img923-2834-utb7og-125x125.jpg"
+      },
+      {
+        "name": "Dry Lemongrass Leaves",
+        "page": "https://dir.indiamart.com/impcat/dry-lemongrass-leaves.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/435445514/GH/PP/YL/100839/dry-lemongrass-leaves-125x125.jpg"
+      },
+      {
+        "name": "Senna Leaves T Cut",
+        "page": "https://dir.indiamart.com/impcat/senna-leaves-t-cut.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/WG/GLADMIN-177087/senna-leaves-t-cut-125x125.jpg"
+      },
+      {
+        "name": "Carthamus Tinctorius",
+        "page": "https://dir.indiamart.com/impcat/carthamus-tinctorius.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/MF/GLADMIN-44826/carthamus-tinctorius-125x125.jpg"
+      },
+      {
+        "name": "Dill Leaves",
+        "page": "https://dir.indiamart.com/impcat/dill-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/TY/GLADMIN-162517/dill-leaves-125x125.jpg"
+      },
+      {
+        "name": "Guava Leaves",
+        "page": "https://dir.indiamart.com/impcat/guava-leaves.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/438033989/XR/EI/RI/100839/guava-leaves-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Herbal Seeds",
+    "category_thumbnail": "http://3.imimg.com/data3/EX/CT/GLADMIN-9210/herbal-seeds-125x125.jpg",
+    "items": [
+      {
+        "name": "Bhilawa Seeds",
+        "page": "https://dir.indiamart.com/impcat/bhilawa-seeds.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/AL/GLADMIN-177553/bhilawa-seeds-125x125.jpg"
+      },
+      {
+        "name": "Basil Seeds",
+        "page": "https://dir.indiamart.com/impcat/basil-seeds.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/GR/GLADMIN-4250/basil-seeds-125x125.jpg"
+      },
+      {
+        "name": "Medicinal Seeds",
+        "page": "https://dir.indiamart.com/impcat/medicinal-seeds.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/PV/GLADMIN-9952/medicinal-seeds-125x125.jpg"
+      },
+      {
+        "name": "Turmeric Seeds",
+        "page": "https://dir.indiamart.com/impcat/turmeric-seeds.html",
+        "thumbnail": "http://3.imimg.com/data3/SF/VQ/GLADMIN-122799/turmeric-seeds-125x125.jpg"
+      },
+      {
+        "name": "Mucuna Pruriens Seed",
+        "page": "https://dir.indiamart.com/impcat/mucuna-pruriens-seed.html",
+        "thumbnail": "http://3.imimg.com/data3/CV/PI/GLADMIN-166248/mucuna-pruriens-seed-125x125.jpg"
+      },
+      {
+        "name": "Psoralea Corylifolia Seeds",
+        "page": "https://dir.indiamart.com/impcat/psoralea-corylifolia-seeds.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/LY/GLADMIN-152653/psoralea-corylifolia-seeds-125x125.jpg"
+      },
+      {
+        "name": "Ashwagandha Seeds",
+        "page": "https://dir.indiamart.com/impcat/ashwagandha-seeds.html",
+        "thumbnail": "http://3.imimg.com/data3/BM/GV/GLADMIN-141666/ashwagandha-seeds-125x125.jpg"
+      },
+      {
+        "name": "Alfalfa Seeds",
+        "page": "https://dir.indiamart.com/impcat/alfalfa-seeds.html",
+        "thumbnail": "http://3.imimg.com/data3/EW/YR/GLADMIN-21134/alfalfa-seeds-125x125.jpg"
+      },
+      {
+        "name": "Bitter Kola",
+        "page": "https://dir.indiamart.com/impcat/bitter-kola.html",
+        "thumbnail": "http://4.imimg.com/data4/FF/FF/GLADMIN-/bitter-kola-125x125.png"
+      },
+      {
+        "name": "Nirmali Seed",
+        "page": "https://dir.indiamart.com/impcat/nirmali-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/362299346/CD/GU/IL/97574/nirmali-seed-125x125.jpg"
+      },
+      {
+        "name": "Asaliya Seeds",
+        "page": "https://dir.indiamart.com/impcat/asaliya-seeds.html",
+        "thumbnail": "http://5.imimg.com/data5/UH/WG/NS/GLADMIN-56986/asaliya-seeds-125x125.jpg"
+      },
+      {
+        "name": "Datura Seed",
+        "page": "https://dir.indiamart.com/impcat/datura-seed.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/PO/GLADMIN-13266/datura-seed-125x125.jpg"
+      },
+      {
+        "name": "Argyreia Nervosa Seeds",
+        "page": "https://dir.indiamart.com/impcat/argyreia-nervosa-seeds.html",
+        "thumbnail": "http://3.imimg.com/data3/DP/GS/GLADMIN-156062/argyreia-nervosa-seeds-125x125.jpg"
+      },
+      {
+        "name": "Caesalpinia Crista Seed",
+        "page": "https://dir.indiamart.com/impcat/caesalpinia-crista-seed.html",
+        "thumbnail": "http://3.imimg.com/data3/SL/HX/GLADMIN-154702/caesalpinia-crista-seed-125x125.jpg"
+      },
+      {
+        "name": "Anise Seed",
+        "page": "https://dir.indiamart.com/impcat/anise-seed.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/VB/GLADMIN-14738/anise-seed-125x125.jpg"
+      },
+      {
+        "name": "Rosemary Seeds",
+        "page": "https://dir.indiamart.com/impcat/rosemary-seeds.html",
+        "thumbnail": "http://5.imimg.com/data5/LR/HE/GLADMIN-2/rosemary-seeds-125x125.jpg"
+      },
+      {
+        "name": "Harmal Seed",
+        "page": "https://dir.indiamart.com/impcat/harmal-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/XS/VK/ZC/GLADMIN-68087/harmal-seed-125x125.jpg"
+      },
+      {
+        "name": "Amla Seeds",
+        "page": "https://dir.indiamart.com/impcat/seed-amla.html",
+        "thumbnail": "http://3.imimg.com/data3/BX/JP/GLADMIN-88463/seed-amla-125x125.jpg"
+      },
+      {
+        "name": "Shivlingi Seeds",
+        "page": "https://dir.indiamart.com/impcat/shivlingi-seeds.html",
+        "thumbnail": "http://5.imimg.com/data5/CE/YT/GLADMIN-2/05f61369__gii-017-125x125.jpg"
+      },
+      {
+        "name": "Horse Chestnut",
+        "page": "https://dir.indiamart.com/impcat/horse-chestnut.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/VV/HD/TQ/86674/horse-chestnut-125x125.jpg"
+      },
+      {
+        "name": "Cassia Absus",
+        "page": "https://dir.indiamart.com/impcat/cassia-absus.html",
+        "thumbnail": "http://3.imimg.com/data3/VU/CO/GLADMIN-44818/cassia-absus-125x125.jpg"
+      },
+      {
+        "name": "Akarkara Seeds",
+        "page": "https://dir.indiamart.com/impcat/akarkara-seeds.html",
+        "thumbnail": "http://5.imimg.com/data5/KP/GM/BE/GLADMIN-68087/akarkara-seeds-125x125.jpg"
+      },
+      {
+        "name": "Silybum Marianum Seed",
+        "page": "https://dir.indiamart.com/impcat/silybum-marianum-seed.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/DD/GLADMIN-122703/silybum-marianum-seed-125x125.jpg"
+      },
+      {
+        "name": "Sarpagandha Seeds",
+        "page": "https://dir.indiamart.com/impcat/sarpagandha-seeds.html",
+        "thumbnail": "http://5.imimg.com/data5/TI/XY/EA/GLADMIN-68087/sarpagandha-seeds-125x125.jpg"
+      },
+      {
+        "name": "Irvingia Gabonensis Seed",
+        "page": "https://dir.indiamart.com/impcat/irvingia-gabonensis-seeds.html",
+        "thumbnail": "http://4.imimg.com/data4/CK/YO/GLADMIN-182629/irvingia-gabonensis-seeds-125x125.jpg"
+      },
+      {
+        "name": "Angelica Seeds",
+        "page": "https://dir.indiamart.com/impcat/angelica-seeds.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/TI/GLADMIN-159444/angelica-seeds-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Medicinal Plant",
+    "category_thumbnail": "http://3.imimg.com/data3/UC/GX/GLADMIN-9950/medicinal-plant-125x125.jpg",
+    "items": [
+      {
+        "name": "Herb Plants",
+        "page": "https://dir.indiamart.com/impcat/herb-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/LM/HG/MY-2/herb-plants-125x125.jpg"
+      },
+      {
+        "name": "Aloe Vera",
+        "page": "https://dir.indiamart.com/impcat/aloe-vera.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/BQ/MY-2/aloe-vera-125x125.jpg"
+      },
+      {
+        "name": "Lemongrass Plant",
+        "page": "https://dir.indiamart.com/impcat/lemongrass.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/IA/GLADMIN-32022/lemongrass-125x125.jpg"
+      },
+      {
+        "name": "Sage Herb",
+        "page": "https://dir.indiamart.com/impcat/sage-herb.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/JR/HC/EP/28031/sage-herb-125x125.jpg"
+      },
+      {
+        "name": "Abrus Precatorius",
+        "page": "https://dir.indiamart.com/impcat/abrus-precatorius.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/NM/EQ/FI/28031/abrus-precatorius-125x125.jpg"
+      },
+      {
+        "name": "Giloy Plant",
+        "page": "https://dir.indiamart.com/impcat/tinospora-cordifolia.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/436667356/SL/TY/EV/100839/giloy-125x125.jpg"
+      },
+      {
+        "name": "Tulsi",
+        "page": "https://dir.indiamart.com/impcat/tulsi.html",
+        "thumbnail": "http://3.imimg.com/data3/KT/IR/MY-2/tulsi-125x125.jpg"
+      },
+      {
+        "name": "Insulin Plant",
+        "page": "https://dir.indiamart.com/impcat/insulin-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/KN/KJ/GLADMIN-2/insulin-plant-125x125.jpg"
+      },
+      {
+        "name": "Terminalia Bellirica",
+        "page": "https://dir.indiamart.com/impcat/terminalia-bellirica.html",
+        "thumbnail": "http://3.imimg.com/data3/KF/LF/GLADMIN-154422/terminalia-bellirica-125x125.jpg"
+      },
+      {
+        "name": "Shatavari Plant",
+        "page": "https://dir.indiamart.com/impcat/shatavari-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/RM/JO/GLADMIN-2/shatavari-plant-125x125.jpg"
+      },
+      {
+        "name": "Adhatoda Vasica",
+        "page": "https://dir.indiamart.com/impcat/adhatoda-vasica.html",
+        "thumbnail": "http://4.imimg.com/data4/YM/WH/GLADMIN-183232/adhatoda-vasica-125x125.jpg"
+      },
+      {
+        "name": "Datura Stramonium",
+        "page": "https://dir.indiamart.com/impcat/datura-stramonium.html",
+        "thumbnail": "http://3.imimg.com/data3/GE/QD/GLADMIN-166519/datura-stramonium-125x125.jpg"
+      },
+      {
+        "name": "Centella Asiatica",
+        "page": "https://dir.indiamart.com/impcat/centella-asiatica.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/DR/GLADMIN-166514/centella-asiatica-125x125.jpg"
+      },
+      {
+        "name": "Mucuna Pruriens",
+        "page": "https://dir.indiamart.com/impcat/mucuna-pruriens.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/PN/EF/EI/28031/mucuna-pruriens-125x125.jpg"
+      },
+      {
+        "name": "Gloriosa Superba",
+        "page": "https://dir.indiamart.com/impcat/gloriosa-superba.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/TL/MY-2/gloriosa-superba-125x125.jpg"
+      },
+      {
+        "name": "Alpinia Galangal",
+        "page": "https://dir.indiamart.com/impcat/alpinia-galangal.html",
+        "thumbnail": "http://3.imimg.com/data3/JE/FT/GLADMIN-21742/alpinia-galangal-125x125.jpg"
+      },
+      {
+        "name": "Kalmegh Plant",
+        "page": "https://dir.indiamart.com/impcat/andrographis-paniculata.html",
+        "thumbnail": "http://3.imimg.com/data3/FW/KA/GLADMIN-4784/andrographis-paniculata-125x125.jpg"
+      },
+      {
+        "name": "Boerhaavia Diffusa",
+        "page": "https://dir.indiamart.com/impcat/boerhaavia-diffusa.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/UT/GLADMIN-4506/boerhaavia-diffusa-125x125.jpg"
+      },
+      {
+        "name": "Woodfordia Fruticosa",
+        "page": "https://dir.indiamart.com/impcat/woodfordia-fruticosa.html",
+        "thumbnail": "http://4.imimg.com/data4/ON/DJ/GLADMIN-184513/woodfordia-fruticosa-125x125.jpg"
+      },
+      {
+        "name": "Bacopa Monnieri",
+        "page": "https://dir.indiamart.com/impcat/bacopa-moniera.html",
+        "thumbnail": "http://3.imimg.com/data3/AB/VC/GLADMIN-4195/bacopa-moniera-125x125.jpg"
+      },
+      {
+        "name": "Aromatic Plants",
+        "page": "https://dir.indiamart.com/impcat/aromatic-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/JN/IB/GLADMIN-22112/aromatic-plants-125x125.jpg"
+      },
+      {
+        "name": "Ocimum Sanctum",
+        "page": "https://dir.indiamart.com/impcat/ocimum-sanctum.html",
+        "thumbnail": "http://4.imimg.com/data4/DP/TR/GLADMIN-2/ocimum-sanctum-125x125.jpg"
+      },
+      {
+        "name": "Ashwagandha Plant",
+        "page": "https://dir.indiamart.com/impcat/ashwagandha-medicinal-herb.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437667982/ZY/KJ/OS/89939/ashwagandha-medicinal-herb-125x125.jpg"
+      },
+      {
+        "name": "Albizia Lebbeck Extract",
+        "page": "https://dir.indiamart.com/impcat/albizia-lebbeck.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437977525/HY/LK/QC/100839/albizia-lebbeck-125x125.jpg"
+      },
+      {
+        "name": "Pterocarpus Marsupium",
+        "page": "https://dir.indiamart.com/impcat/pterocarpus-marsupium.html",
+        "thumbnail": "http://3.imimg.com/data3/SC/AC/GLADMIN-8754/pterocarpus-marsupium-125x125.jpg"
+      },
+      {
+        "name": "Senna Plant",
+        "page": "https://dir.indiamart.com/impcat/cassia-angustifolia.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/RR/KO/VV/28031/cassia-angustifolia-125x125.jpg"
+      },
+      {
+        "name": "Kali Tulsi",
+        "page": "https://dir.indiamart.com/impcat/kali-tulsi.html",
+        "thumbnail": "http://5.imimg.com/data5/YP/VZ/OU/GLADMIN-16223/kali-tulsi-125x125.png"
+      },
+      {
+        "name": "Touch Me Not Plant",
+        "page": "https://dir.indiamart.com/impcat/touch-me-not-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437961000/GI/SZ/MG/89939/touch-me-not-plant-125x125.png"
+      },
+      {
+        "name": "Marjoram Herb",
+        "page": "https://dir.indiamart.com/impcat/marjoram-herb.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/GF/MY/WC/28031/marjoram-herb-125x125.jpg"
+      },
+      {
+        "name": "Sarpagandha Plant",
+        "page": "https://dir.indiamart.com/impcat/sarpagandha-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/GX/ZQ/YI/85062/sarpagandha-plant-125x125.jpeg"
+      },
+      {
+        "name": "Phyllanthus Amarus",
+        "page": "https://dir.indiamart.com/impcat/phyllanthus-amarus.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/NK/GLADMIN-5915/phyllanthus-amarus-125x125.jpg"
+      },
+      {
+        "name": "Nerium Indicum",
+        "page": "https://dir.indiamart.com/impcat/nerium-indicum.html",
+        "thumbnail": "http://4.imimg.com/data4/EU/QR/GLADMIN-184510/nerium-indicum-125x125.jpg"
+      },
+      {
+        "name": "Wild Indigo",
+        "page": "https://dir.indiamart.com/impcat/wild-indigo.html",
+        "thumbnail": "http://3.imimg.com/data3/HT/CR/GLADMIN-20156/wild-indigo-125x125.jpg"
+      },
+      {
+        "name": "Bixa Orellana",
+        "page": "https://dir.indiamart.com/impcat/bixa-orellana.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/OM/GLADMIN-44828/bixa-orellana-125x125.jpg"
+      },
+      {
+        "name": "Wormwood",
+        "page": "https://dir.indiamart.com/impcat/wormwood.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/OR/VD/TV/28031/wormwood-125x125.jpg"
+      },
+      {
+        "name": "Cissampelos Pareira",
+        "page": "https://dir.indiamart.com/impcat/cissampelos-pareira.html",
+        "thumbnail": "http://3.imimg.com/data3/NE/BX/GLADMIN-44820/cissampelos-pareira-125x125.jpg"
+      },
+      {
+        "name": "Pistacia Integerrima",
+        "page": "https://dir.indiamart.com/impcat/pistacia-integerrima.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/DB/GLADMIN-177602/pistacia-integerrima-125x125.jpg"
+      },
+      {
+        "name": "Fennel Herb",
+        "page": "https://dir.indiamart.com/impcat/fennel-herb.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/FD/BL/RH/28031/fennel-herb-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Medicinal Roots",
+    "category_thumbnail": "http://3.imimg.com/data3/IJ/KU/GLADMIN-9951/medicinal-roots-125x125.jpg",
+    "items": [
+      {
+        "name": "Ashwagandha Roots",
+        "page": "https://dir.indiamart.com/impcat/ashwagandha-roots.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/YT/MY-2/ashwagandha-roots-125x125.jpg"
+      },
+      {
+        "name": "Shatavari Root",
+        "page": "https://dir.indiamart.com/impcat/shatavari-root.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DR/KP/LX/43668/shatavari-root-125x125.jpg"
+      },
+      {
+        "name": "Sarsaparilla Roots",
+        "page": "https://dir.indiamart.com/impcat/sarsaparilla-roots.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/11/EO/EO/AC/28031/sarsaparilla-roots-125x125.jpg"
+      },
+      {
+        "name": "Vetiver Root",
+        "page": "https://dir.indiamart.com/impcat/vetiver-root.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/441201310/TS/NL/CC/92376/vetiver-root-125x125.jpg"
+      },
+      {
+        "name": "Licorice Roots",
+        "page": "https://dir.indiamart.com/impcat/licorice-roots.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/TG/GLADMIN-32046/licorice-roots-125x125.jpg"
+      },
+      {
+        "name": "Zedoary Root",
+        "page": "https://dir.indiamart.com/impcat/zedoary-root.html",
+        "thumbnail": "http://4.imimg.com/data4/BB/UN/GLADMIN-182912/zedoary-root-125x125.jpg"
+      },
+      {
+        "name": "Costus Root",
+        "page": "https://dir.indiamart.com/impcat/costus-root.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/RP/GLADMIN-83936/costus-root-125x125.jpg"
+      },
+      {
+        "name": "Chicory Root",
+        "page": "https://dir.indiamart.com/impcat/chicory-roots.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/AG/GLADMIN-24047/chicory-roots-125x125.jpg"
+      },
+      {
+        "name": "Dandelion Root",
+        "page": "https://dir.indiamart.com/impcat/dandelion-root.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/MY/GLADMIN-13257/dandelion-root-125x125.jpg"
+      },
+      {
+        "name": "Ginger Root",
+        "page": "https://dir.indiamart.com/impcat/ginger-root.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/444108519/NZ/MK/JI/92376/screensh-125x125.png"
+      },
+      {
+        "name": "Galangal Root",
+        "page": "https://dir.indiamart.com/impcat/galangal-root.html",
+        "thumbnail": "http://4.imimg.com/data4/RL/TW/GLADMIN-2/galangal-root-125x125.jpg"
+      },
+      {
+        "name": "Calamus Roots",
+        "page": "https://dir.indiamart.com/impcat/calamus-roots.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/441783945/XC/JY/JA/92376/vekhand-125x125.jpg"
+      },
+      {
+        "name": "Ginseng Roots",
+        "page": "https://dir.indiamart.com/impcat/ginseng-roots.html",
+        "thumbnail": "http://3.imimg.com/data3/XY/PB/GLADMIN-29423/ginseng-roots-125x125.jpg"
+      },
+      {
+        "name": "Coleus Dry Roots",
+        "page": "https://dir.indiamart.com/impcat/coleus-dry-roots.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/WW/GLADMIN-142096/coleus-dry-roots-125x125.jpg"
+      },
+      {
+        "name": "Sarpagandha Root",
+        "page": "https://dir.indiamart.com/impcat/sarpagandha-root.html",
+        "thumbnail": "http://3.imimg.com/data3/MY/FA/GLADMIN-147155/sarpagandha-root-125x125.jpg"
+      },
+      {
+        "name": "Barberry Root",
+        "page": "https://dir.indiamart.com/impcat/barberry-root.html",
+        "thumbnail": "http://5.imimg.com/data5/PY/LT/GLADMIN-2/barberry-root-125x125.jpg"
+      },
+      {
+        "name": "Rhubarb Root",
+        "page": "https://dir.indiamart.com/impcat/rhubarb-root.html",
+        "thumbnail": "http://3.imimg.com/data3/MB/EV/GLADMIN-18615/rhubarb-root-125x125.jpg"
+      },
+      {
+        "name": "Taggri Root",
+        "page": "https://dir.indiamart.com/impcat/taggri-root.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/FN/GLADMIN-138712/taggri-root-125x125.jpg"
+      },
+      {
+        "name": "Vinca Rosea Roots",
+        "page": "https://dir.indiamart.com/impcat/vinca-rosea-roots.html",
+        "thumbnail": "http://3.imimg.com/data3/DF/VN/GLADMIN-165245/vinca-rosea-roots-125x125.jpg"
+      },
+      {
+        "name": "Ipecac Roots",
+        "page": "https://dir.indiamart.com/impcat/ipecac-roots.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/OL/MY-2/ipecac-roots-125x125.jpg"
+      }
+    ]
+  }
+]

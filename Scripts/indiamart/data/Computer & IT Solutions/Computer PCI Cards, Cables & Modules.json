@@ -1,0 +1,513 @@
+[
+  {
+    "category_name": "Computer Cables",
+    "category_thumbnail": "http://3.imimg.com/data3/DN/XC/GLADMIN-3964/computer-cables-125x125.jpg",
+    "items": [
+      {
+        "name": "HDMI Cable",
+        "page": "https://dir.indiamart.com/impcat/hdmi-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/UT/LL/ZF/87089/hdmi-cable-125x125.jpeg"
+      },
+      {
+        "name": "Programming Cable",
+        "page": "https://dir.indiamart.com/impcat/programming-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/YV/GLADMIN-132936/programming-cable-125x125.jpg"
+      },
+      {
+        "name": "Computer Power Cable",
+        "page": "https://dir.indiamart.com/impcat/computer-power-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/RF/GLADMIN-53111/computer-power-cable-125x125.jpg"
+      },
+      {
+        "name": "Laptop Display Cable",
+        "page": "https://dir.indiamart.com/impcat/laptop-display-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/PM/UU/GLADMIN-2/laptop-display-cable-125x125.jpg"
+      },
+      {
+        "name": "SATA Cable",
+        "page": "https://dir.indiamart.com/impcat/sata-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/IG/GLADMIN-36777/sata-cable-125x125.jpg"
+      },
+      {
+        "name": "Flat Ribbon Cable",
+        "page": "https://dir.indiamart.com/impcat/flat-ribbon-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/QP/GLADMIN-28535/flat-ribbon-cable-125x125.jpg"
+      },
+      {
+        "name": "VGA Cables",
+        "page": "https://dir.indiamart.com/impcat/vga-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/RK/XS/GLADMIN-39047/vga-cables-125x125.jpg"
+      },
+      {
+        "name": "Ribbon Cable",
+        "page": "https://dir.indiamart.com/impcat/ribbon-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/CG/OL/GLADMIN-36423/ribbon-cable-125x125.jpg"
+      },
+      {
+        "name": "Uninyvin Cable",
+        "page": "https://dir.indiamart.com/impcat/uninyvin-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/GR/JI/GLADMIN-41639/uninyvin-cables-125x125.jpg"
+      },
+      {
+        "name": "Connector Cable",
+        "page": "https://dir.indiamart.com/impcat/connector-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/a-img922-3742-gvegzn-125x125.jpg"
+      },
+      {
+        "name": "Power Splitters",
+        "page": "https://dir.indiamart.com/impcat/power-splitters.html",
+        "thumbnail": "http://3.imimg.com/data3/FB/SE/GLADMIN-35528/power-splitters-125x125.jpg"
+      },
+      {
+        "name": "Display Cable",
+        "page": "https://dir.indiamart.com/impcat/lcd-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/QQ/KT/AG/87924/display-cable-125x125.jpg"
+      },
+      {
+        "name": "USB Extension Cable",
+        "page": "https://dir.indiamart.com/impcat/usb-extension-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/GO/GLADMIN-40547/usb-extension-cable-125x125.jpg"
+      },
+      {
+        "name": "Splitter Cable",
+        "page": "https://dir.indiamart.com/impcat/splitter-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/DL/GLADMIN-53165/splitter-cable-125x125.jpg"
+      },
+      {
+        "name": "Modem Cable",
+        "page": "https://dir.indiamart.com/impcat/modem-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/MY/MY-2/modem-cable-125x125.jpg"
+      },
+      {
+        "name": "RS232 Cable",
+        "page": "https://dir.indiamart.com/impcat/rs232-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/SC/DV/GLADMIN-36921/rs232-cable-125x125.jpg"
+      },
+      {
+        "name": "Cable Converter",
+        "page": "https://dir.indiamart.com/impcat/cable-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/CV/FX/GLADMIN-23980/cable-converter-125x125.jpg"
+      },
+      {
+        "name": "Y Cable",
+        "page": "https://dir.indiamart.com/impcat/y-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/QA/EF/GLADMIN-53172/y-cable-125x125.jpg"
+      },
+      {
+        "name": "Molded Cables",
+        "page": "https://dir.indiamart.com/impcat/molded-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/MG/CR/GLADMIN-33245/molded-cables-125x125.jpg"
+      },
+      {
+        "name": "Computer Connector",
+        "page": "https://dir.indiamart.com/impcat/computer-connector.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/HU/IY/PM/87924/computer-connector-125x125.jpg"
+      },
+      {
+        "name": "SCSI Connectors",
+        "page": "https://dir.indiamart.com/impcat/scsi-connectors.html",
+        "thumbnail": "http://3.imimg.com/data3/WD/WK/GLADMIN-37655/scsi-connectors-125x125.jpg"
+      },
+      {
+        "name": "USB Camera Cable",
+        "page": "https://dir.indiamart.com/impcat/usb-camera-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/MJ/GLADMIN-65042/usb-camera-cable-125x125.jpg"
+      },
+      {
+        "name": "USB Mouse Cable",
+        "page": "https://dir.indiamart.com/impcat/usb-mouse-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/QS/NQ/GLADMIN-19845/usb-mouse-cable-125x125.jpg"
+      },
+      {
+        "name": "Lead Cable",
+        "page": "https://dir.indiamart.com/impcat/lead-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/FN/GLADMIN-11382/lead-cables-125x125.jpg"
+      },
+      {
+        "name": "IPOD Cable",
+        "page": "https://dir.indiamart.com/impcat/ipod-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/GB/GLADMIN-65039/ipod-cable-125x125.jpg"
+      },
+      {
+        "name": "Data Instrumentation Cables",
+        "page": "https://dir.indiamart.com/impcat/data-instrumentation-cables.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DL/QV/BR/87924/data-instrumentation-cables-125x125.jpeg"
+      },
+      {
+        "name": "Retractable Cable",
+        "page": "https://dir.indiamart.com/impcat/retractable-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/HP/QR/GLADMIN-36378/retractable-cable-125x125.jpg"
+      },
+      {
+        "name": "USB Type A Cable",
+        "page": "https://dir.indiamart.com/impcat/usb-type-a-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/KR/GLADMIN-19850/usb-type-a-cable-125x125.jpg"
+      },
+      {
+        "name": "Nano Wire",
+        "page": "https://dir.indiamart.com/impcat/nano-wire.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/DF/GLADMIN-2/nano-wire-125x125.jpg"
+      },
+      {
+        "name": "Computer Peripheral Cable",
+        "page": "https://dir.indiamart.com/impcat/computer-peripheral-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/CN/GLADMIN-65161/computer-peripheral-cable-125x125.jpg"
+      },
+      {
+        "name": "Scart Cable",
+        "page": "https://dir.indiamart.com/impcat/scart-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/OI/GLADMIN-37517/scart-cable-125x125.jpg"
+      },
+      {
+        "name": "Molded Cable Assemblies",
+        "page": "https://dir.indiamart.com/impcat/molded-cable-assemblies.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/DO/GLADMIN-33244/molded-cable-assemblies-125x125.jpg"
+      },
+      {
+        "name": "Computer Plug",
+        "page": "https://dir.indiamart.com/impcat/computer-plug.html",
+        "thumbnail": "http://3.imimg.com/data3/LL/DI/GLADMIN-25645/computer-plug-125x125.jpg"
+      },
+      {
+        "name": "HDMI Cable Assemblies",
+        "page": "https://dir.indiamart.com/impcat/hdmi-cable-assemblies.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/OP/GLADMIN-105394/hdmi-cable-assemblies-125x125.jpg"
+      },
+      {
+        "name": "FDD Cable",
+        "page": "https://dir.indiamart.com/impcat/fdd-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/YU/GLADMIN-27317/fdd-cables-125x125.jpg"
+      },
+      {
+        "name": "Lead Assembly",
+        "page": "https://dir.indiamart.com/impcat/lead-assemblies.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/AO/GLADMIN-55633/lead-assemblies-125x125.jpg"
+      },
+      {
+        "name": "RGBHV Cable",
+        "page": "https://dir.indiamart.com/impcat/rgbhv-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/NT/GLADMIN-42038/rgbhv-cable-125x125.jpg"
+      },
+      {
+        "name": "Modem Cord",
+        "page": "https://dir.indiamart.com/impcat/modem-cord.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/VO/GLADMIN-33185/modem-cord-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Power Cords",
+    "category_thumbnail": "http://3.imimg.com/data3/SM/OM/GLADMIN-35682/power-cords-125x125.jpg",
+    "items": [
+      {
+        "name": "Power Supply Cords",
+        "page": "https://dir.indiamart.com/impcat/power-supply-cords.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/QV/GLADMIN-35536/power-supply-cords-125x125.jpg"
+      },
+      {
+        "name": "Extension Cords",
+        "page": "https://dir.indiamart.com/impcat/extension-cords.html",
+        "thumbnail": "http://3.imimg.com/data3/KI/AQ/GLADMIN-28129/extension-cords-125x125.jpg"
+      },
+      {
+        "name": "AC Power Cord",
+        "page": "https://dir.indiamart.com/impcat/ac-power-cord.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/IH/GLADMIN-45454/ac-power-cord-125x125.jpg"
+      },
+      {
+        "name": "Power Extension Cord",
+        "page": "https://dir.indiamart.com/impcat/power-extension-cord.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/EV/GLADMIN-35688/power-extension-cord-125x125.jpg"
+      },
+      {
+        "name": "DC Power Cord",
+        "page": "https://dir.indiamart.com/impcat/dc-power-cord.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/MH/GLADMIN-105268/dc-power-cord-125x125.jpg"
+      },
+      {
+        "name": "Harness Cord",
+        "page": "https://dir.indiamart.com/impcat/harness-cord.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/QP/GLADMIN-159200/harness-cord-125x125.jpg"
+      },
+      {
+        "name": "Mining Detonator Cord",
+        "page": "https://dir.indiamart.com/impcat/detonating-cord.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/HP/GLADMIN-155300/detonating-cord-125x125.jpg"
+      },
+      {
+        "name": "ESD Grounding Cords",
+        "page": "https://dir.indiamart.com/impcat/esd-grounding-cord.html",
+        "thumbnail": "http://4.imimg.com/data4/MU/SW/GLADMIN-185451/esd-grounding-cord-125x125.jpg"
+      },
+      {
+        "name": "Flexible Cord",
+        "page": "https://dir.indiamart.com/impcat/flexible-cord.html",
+        "thumbnail": "http://3.imimg.com/data3/RP/PK/GLADMIN-150338/flexible-cord-125x125.jpg"
+      },
+      {
+        "name": "Ground Cord",
+        "page": "https://dir.indiamart.com/impcat/ground-cord.html",
+        "thumbnail": "http://3.imimg.com/data3/WJ/LA/GLADMIN-134081/ground-cord-125x125.jpg"
+      },
+      {
+        "name": "Simplex Cable",
+        "page": "https://dir.indiamart.com/impcat/simplex-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/YS/GLADMIN-53163/simplex-cable-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Motherboard",
+    "category_thumbnail": "http://3.imimg.com/data3/PK/WS/GLADMIN-5254/motherboards-125x125.jpg",
+    "items": [
+      {
+        "name": "LED TV Motherboard",
+        "page": "https://dir.indiamart.com/impcat/led-tv-motherboard.html",
+        "thumbnail": "http://5.imimg.com/data5/DV/CK/MQ/GLADMIN-76037/led-tv-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Laptop Motherboard",
+        "page": "https://dir.indiamart.com/impcat/laptop-motherboard.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/VD/GLADMIN-20945/laptop-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Computer Motherboard",
+        "page": "https://dir.indiamart.com/impcat/computer-motherboard.html",
+        "thumbnail": "http://4.imimg.com/data4/KJ/JC/GLADMIN-2/computer-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Motherboard Scrap",
+        "page": "https://dir.indiamart.com/impcat/motherboard-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/GJ/NQ/GLADMIN-158654/motherboard-scrap-125x125.jpg"
+      },
+      {
+        "name": "Television Motherboard",
+        "page": "https://dir.indiamart.com/impcat/television-motherboard.html",
+        "thumbnail": "http://5.imimg.com/data5/XY/DX/SO/GLADMIN-68155/television-motherboard-125x125.JPG"
+      },
+      {
+        "name": "Gaming Motherboard",
+        "page": "https://dir.indiamart.com/impcat/gaming-motherboard.html",
+        "thumbnail": "http://5.imimg.com/data5/BB/BB/GLADMIN-/gaming-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Single Board Computers",
+        "page": "https://dir.indiamart.com/impcat/single-board-computers.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/WN/GLADMIN-37899/single-board-computers-125x125.jpg"
+      },
+      {
+        "name": "Industrial Motherboard",
+        "page": "https://dir.indiamart.com/impcat/industrial-motherboard.html",
+        "thumbnail": "http://5.imimg.com/data5/MR/EB/RH/GLADMIN-72666/industrial-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Server Motherboards",
+        "page": "https://dir.indiamart.com/impcat/server-motherboards.html",
+        "thumbnail": "http://4.imimg.com/data4/EA/BE/GLADMIN-2/server-motherboards-125x125.jpg"
+      },
+      {
+        "name": "Used Motherboard",
+        "page": "https://dir.indiamart.com/impcat/used-motherboard.html",
+        "thumbnail": "http://4.imimg.com/data4/QY/TI/GLADMIN-2/used-motherboard-125x125.jpg"
+      },
+      {
+        "name": "ATX Motherboard",
+        "page": "https://dir.indiamart.com/impcat/atx-motherboard.html",
+        "thumbnail": "http://5.imimg.com/data5/RH/UE/GLADMIN-2/ii-generation-atx-motherboard-500x500-125x125.jpg"
+      },
+      {
+        "name": "Mini ITX Motherboards",
+        "page": "https://dir.indiamart.com/impcat/mini-itx-motherboards.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/TW/GLADMIN-178039/mini-itx-motherboards-125x125.jpg"
+      },
+      {
+        "name": "Riser Card",
+        "page": "https://dir.indiamart.com/impcat/riser-card.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/CS/JK/DS/81953/riser-card-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "USB Gadgets",
+    "category_thumbnail": "http://3.imimg.com/data3/OL/HA/GLADMIN-129899/usb-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "USB Hub",
+        "page": "https://dir.indiamart.com/impcat/usb-hub.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/CV/GLADMIN-40617/usb-hub-125x125.jpg"
+      },
+      {
+        "name": "Sim Card Dongle",
+        "page": "https://dir.indiamart.com/impcat/sim-card-dongle.html",
+        "thumbnail": "http://3.imimg.com/data3/CV/OD/GLADMIN-136966/sim-card-dongle-125x125.jpg"
+      },
+      {
+        "name": "USB LED Light",
+        "page": "https://dir.indiamart.com/impcat/usb-led-light.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/WE/GLADMIN-40557/usb-led-light-125x125.jpg"
+      },
+      {
+        "name": "Wireless USB Adapter",
+        "page": "https://dir.indiamart.com/impcat/wireless-usb-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/QG/GLADMIN-41334/wireless-usb-adapter-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Dongle",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-dongle.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/RL/GLADMIN-98696/bluetooth-dongle-125x125.jpg"
+      },
+      {
+        "name": "USB Bluetooth Adapter",
+        "page": "https://dir.indiamart.com/impcat/usb-bluetooth-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/FO/GLADMIN-40536/usb-bluetooth-adapter-125x125.jpg"
+      },
+      {
+        "name": "USB Port",
+        "page": "https://dir.indiamart.com/impcat/usb-port.html",
+        "thumbnail": "http://3.imimg.com/data3/SO/PT/GLADMIN-40568/usb-port-125x125.jpg"
+      },
+      {
+        "name": "HDD Enclosure",
+        "page": "https://dir.indiamart.com/impcat/hdd-enclosure.html",
+        "thumbnail": "http://3.imimg.com/data3/WA/ET/GLADMIN-30136/hdd-enclosure-125x125.jpg"
+      },
+      {
+        "name": "Software Protection Dongle",
+        "page": "https://dir.indiamart.com/impcat/software-protection-dongle.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/RI/GLADMIN-153381/software-protection-dongle-125x125.jpg"
+      },
+      {
+        "name": "External DVD Drive",
+        "page": "https://dir.indiamart.com/impcat/external-dvd-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/EC/GLADMIN-65167/external-dvd-drive-125x125.jpg"
+      },
+      {
+        "name": "USB Controller",
+        "page": "https://dir.indiamart.com/impcat/usb-controller.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/CU/GLADMIN-40542/usb-controller-125x125.jpg"
+      },
+      {
+        "name": "USB Plasma Ball",
+        "page": "https://dir.indiamart.com/impcat/usb-plasma-ball.html",
+        "thumbnail": "http://4.imimg.com/data4/GG/GG/GLADMIN-/usb-plasma-ball-125x125.jpg"
+      },
+      {
+        "name": "Wireless Adapter",
+        "page": "https://dir.indiamart.com/impcat/wireless-adapter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411778554/QQ/ZS/UC/91810/wireless-adapter-125x125.jpg"
+      },
+      {
+        "name": "Display Adapter",
+        "page": "https://dir.indiamart.com/impcat/display-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/VM/GLADMIN-45931/display-adapter-125x125.jpg"
+      },
+      {
+        "name": "USB Serial Adapter",
+        "page": "https://dir.indiamart.com/impcat/usb-serial-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/QY/NN/GLADMIN-40572/usb-serial-adapter-125x125.jpg"
+      },
+      {
+        "name": "USB PCI Card",
+        "page": "https://dir.indiamart.com/impcat/usb-pci-card.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/TC/GLADMIN-65232/usb-pci-card-125x125.jpg"
+      },
+      {
+        "name": "USB Interface Converter",
+        "page": "https://dir.indiamart.com/impcat/usb-interface-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/SC/GLADMIN-165503/usb-interface-converter-125x125.jpg"
+      },
+      {
+        "name": "3G Dongles",
+        "page": "https://dir.indiamart.com/impcat/3g-dongles.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/YB/GLADMIN-156175/3g-dongles-125x125.jpg"
+      },
+      {
+        "name": "USB Reader",
+        "page": "https://dir.indiamart.com/impcat/usb-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/DH/GLADMIN-40571/usb-reader-125x125.jpg"
+      },
+      {
+        "name": "USB Cable Adapter",
+        "page": "https://dir.indiamart.com/impcat/usb-cable-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/YS/HS/GLADMIN-84517/usb-cable-adapter-125x125.jpg"
+      },
+      {
+        "name": "Audio USB",
+        "page": "https://dir.indiamart.com/impcat/audio-usb.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/WH/GLADMIN-114255/audio-usb-125x125.jpg"
+      },
+      {
+        "name": "Portable USB Kit",
+        "page": "https://dir.indiamart.com/impcat/portable-usb-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/SS/GLADMIN-111793/portable-usb-kit-125x125.jpg"
+      },
+      {
+        "name": "Computer Bluetooth Device",
+        "page": "https://dir.indiamart.com/impcat/computer-bluetooth-device.html",
+        "thumbnail": "http://3.imimg.com/data3/AT/PK/GLADMIN-134093/computer-bluetooth-device-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "LAN Cable",
+    "category_thumbnail": "http://3.imimg.com/data3/VP/SA/GLADMIN-31505/lan-cable-125x125.jpg",
+    "items": [
+      {
+        "name": "Cat 6 Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-6-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/YK/GLADMIN-14433/cat-6-cable-125x125.jpg"
+      },
+      {
+        "name": "Cat 5e Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-5e-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/IR/MY-2/cat-5e-cable-125x125.jpg"
+      },
+      {
+        "name": "Patch Cords",
+        "page": "https://dir.indiamart.com/impcat/patch-cords.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/NJ/GLADMIN-34580/patch-cords-125x125.jpg"
+      },
+      {
+        "name": "Cat 7 Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-7-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/FR/MY-2/cat-7-cable-125x125.jpg"
+      },
+      {
+        "name": "Twisted Pair Cables",
+        "page": "https://dir.indiamart.com/impcat/twisted-pair-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/KL/GLADMIN-1064/twisted-pair-cables-125x125.jpg"
+      },
+      {
+        "name": "Networking Cable",
+        "page": "https://dir.indiamart.com/impcat/networking-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/HH/GLADMIN-17655/networking-cable-125x125.jpg"
+      },
+      {
+        "name": "Cat 5 Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-5-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/BI/OX/GLADMIN-14431/cat-5-cable-125x125.jpg"
+      },
+      {
+        "name": "Cat 6e Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-6e-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/SY/GLADMIN-14434/cat-6e-cable-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "SCSI Connectors",
+        "page": "https://dir.indiamart.com/impcat/scsi-connectors.html",
+        "thumbnail": "http://3.imimg.com/data3/WD/WK/GLADMIN-37655/scsi-connectors-125x125.jpg"
+      },
+      {
+        "name": "Server Processor",
+        "page": "https://dir.indiamart.com/impcat/server-processor.html",
+        "thumbnail": "http://3.imimg.com/data3/YC/JG/GLADMIN-/400wm-400-400-alehdats-alehdats1205-alehdats120500014-13638053-close-u-125x125.jpg"
+      }
+    ]
+  }
+]

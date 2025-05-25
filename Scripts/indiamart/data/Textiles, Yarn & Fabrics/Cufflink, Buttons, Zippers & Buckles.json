@@ -1,0 +1,998 @@
+[
+  {
+    "category_name": "Zippers",
+    "category_thumbnail": "http://3.imimg.com/data3/TX/PY/MY-2/zippers-125x125.jpg",
+    "items": [
+      {
+        "name": "CFC Zipper",
+        "page": "https://dir.indiamart.com/impcat/cfc-zipper.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/WT/GLADMIN-137788/cfc-zipper-125x125.jpg"
+      },
+      {
+        "name": "Metal Zippers",
+        "page": "https://dir.indiamart.com/impcat/metal-zippers.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/KU/GLADMIN-10074/metal-zippers-125x125.jpg"
+      },
+      {
+        "name": "Jacket zipper",
+        "page": "https://dir.indiamart.com/impcat/jacket-zipper.html",
+        "thumbnail": "http://5.imimg.com/data5/RP/WV/GLADMIN-2/jacket-zipper-125x125.jpg"
+      },
+      {
+        "name": "Colored Zippers",
+        "page": "https://dir.indiamart.com/impcat/colored-zippers.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/YW/GLADMIN-176794/colored-zippers-125x125.jpg"
+      },
+      {
+        "name": "Plastic Zippers",
+        "page": "https://dir.indiamart.com/impcat/plastic-zippers.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/VO/MY-2/plastic-zippers-125x125.jpg"
+      },
+      {
+        "name": "Luggage Zipper",
+        "page": "https://dir.indiamart.com/impcat/luggage-zipper.html",
+        "thumbnail": "http://5.imimg.com/data5/RY/NN/GLADMIN-2/luggage-zipper-125x125.jpg"
+      },
+      {
+        "name": "Brass Zippers",
+        "page": "https://dir.indiamart.com/impcat/brass-zippers.html",
+        "thumbnail": "http://3.imimg.com/data3/QS/UU/MY-2/brass-zippers-125x125.jpg"
+      },
+      {
+        "name": "Coil Zipper",
+        "page": "https://dir.indiamart.com/impcat/coil-zipper.html",
+        "thumbnail": "http://3.imimg.com/data3/JF/HC/GLADMIN-165926/coil-zipper-125x125.jpg"
+      },
+      {
+        "name": "Two Way Zipper",
+        "page": "https://dir.indiamart.com/impcat/two-way-zipper.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/ET/GLADMIN-50653/two-way-zipper-125x125.jpg"
+      },
+      {
+        "name": "Jeans Zipper",
+        "page": "https://dir.indiamart.com/impcat/jeans-zipper.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/428275701/VX/VG/LE/97929/jeans-zipper-125x125.png"
+      },
+      {
+        "name": "Aluminum Zipper",
+        "page": "https://dir.indiamart.com/impcat/aluminum-zipper.html",
+        "thumbnail": "http://3.imimg.com/data3/ME/KS/GLADMIN-50585/aluminum-zipper-125x125.jpg"
+      },
+      {
+        "name": "Leather Zipper",
+        "page": "https://dir.indiamart.com/impcat/leather-zipper.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/UC/MY-2/leather-zipper-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garment Buttons",
+    "category_thumbnail": "http://3.imimg.com/data3/JC/BT/GLADMIN-43558/garment-buttons-125x125.jpg",
+    "items": [
+      {
+        "name": "Jeans Buttons",
+        "page": "https://dir.indiamart.com/impcat/jean-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/FB/KU/GLADMIN-10350/jean-buttons-125x125.jpg"
+      },
+      {
+        "name": "Shirt Button",
+        "page": "https://dir.indiamart.com/impcat/shirt-button.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/NP/GLADMIN-8590/shirt-button-125x125.jpg"
+      },
+      {
+        "name": "Coat Button",
+        "page": "https://dir.indiamart.com/impcat/coat-button.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/OS/GLADMIN-161599/coat-button-125x125.jpg"
+      },
+      {
+        "name": "Rivet Buttons",
+        "page": "https://dir.indiamart.com/impcat/rivet-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/HX/MY-2/rivet-buttons-125x125.jpg"
+      },
+      {
+        "name": "Sherwani Buttons",
+        "page": "https://dir.indiamart.com/impcat/sherwani-buttons.html",
+        "thumbnail": "http://5.imimg.com/data5/GR/FJ/GLADMIN-2/sherwani-buttons-125x125.jpg"
+      },
+      {
+        "name": "Kurta Buttons",
+        "page": "https://dir.indiamart.com/impcat/kurta-buttons.html",
+        "thumbnail": "http://4.imimg.com/data4/JE/HW/GLADMIN-2/kurta-buttons-125x125.jpg"
+      },
+      {
+        "name": "Jeans Button Rivets",
+        "page": "https://dir.indiamart.com/impcat/jeans-button-rivets.html",
+        "thumbnail": "http://3.imimg.com/data3/PS/QN/GLADMIN-165855/jeans-button-rivets-125x125.jpg"
+      },
+      {
+        "name": "Designer Button",
+        "page": "https://dir.indiamart.com/impcat/designer-button.html",
+        "thumbnail": "http://4.imimg.com/data4/AB/HF/GLADMIN-184400/designer-button-125x125.jpg"
+      },
+      {
+        "name": "Down Hole Button",
+        "page": "https://dir.indiamart.com/impcat/down-hole-button.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/MN/RC/FK/91307/down-hole-button-125x125.jpg"
+      },
+      {
+        "name": "Suit Button",
+        "page": "https://dir.indiamart.com/impcat/suit-button.html",
+        "thumbnail": "http://3.imimg.com/data3/AL/FE/GLADMIN-50651/suit-button-125x125.jpg"
+      },
+      {
+        "name": "Shoe Button",
+        "page": "https://dir.indiamart.com/impcat/shoe-button.html",
+        "thumbnail": "http://3.imimg.com/data3/OJ/XR/GLADMIN-50648/shoe-button-125x125.jpg"
+      },
+      {
+        "name": "Garment Toggle Button",
+        "page": "https://dir.indiamart.com/impcat/toggle-button.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/RQ/GLADMIN-50652/toggle-button-125x125.jpg"
+      },
+      {
+        "name": "Eyelet Button",
+        "page": "https://dir.indiamart.com/impcat/eyelet-button.html",
+        "thumbnail": "http://5.imimg.com/data5/VL/SI/GLADMIN-2/eyelet-button-125x125.jpg"
+      },
+      {
+        "name": "Alloy Jeans Button",
+        "page": "https://dir.indiamart.com/impcat/alloy-jean-button.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/DS/GLADMIN-45680/alloy-jean-button-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Plastic Zippers",
+    "category_thumbnail": "http://3.imimg.com/data3/YT/VO/MY-2/plastic-zippers-125x125.jpg",
+    "items": [
+      {
+        "name": "CFC Zipper",
+        "page": "https://dir.indiamart.com/impcat/cfc-zipper.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/WT/GLADMIN-137788/cfc-zipper-125x125.jpg"
+      },
+      {
+        "name": "Invisible Zipper",
+        "page": "https://dir.indiamart.com/impcat/invisible-zipper.html",
+        "thumbnail": "http://3.imimg.com/data3/QD/FD/GLADMIN-50612/invisible-zipper-125x125.jpg"
+      },
+      {
+        "name": "Polyester Zippers",
+        "page": "https://dir.indiamart.com/impcat/polyester-zippers.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/YA/MY-2/polyester-zippers-125x125.jpg"
+      },
+      {
+        "name": "Nylon Zippers",
+        "page": "https://dir.indiamart.com/impcat/nylon-zippers.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/WE/MY-2/nylon-zippers-125x125.jpg"
+      },
+      {
+        "name": "Plastic Molded Zippers",
+        "page": "https://dir.indiamart.com/impcat/plastic-molded-zippers.html",
+        "thumbnail": "http://5.imimg.com/data5/DF/PR/GLADMIN-2/plastic-molded-zippers-125x125.jpg"
+      },
+      {
+        "name": "Coil Zipper",
+        "page": "https://dir.indiamart.com/impcat/coil-zipper.html",
+        "thumbnail": "http://3.imimg.com/data3/JF/HC/GLADMIN-165926/coil-zipper-125x125.jpg"
+      },
+      {
+        "name": "PVC Zipper",
+        "page": "https://dir.indiamart.com/impcat/pvc-zipper.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/a-img922-953-xkyqgu-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garment Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/JD/UQ/GLADMIN-43881/garment-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Pom Pom Toy",
+        "page": "https://dir.indiamart.com/impcat/pom-pom-toy.html",
+        "thumbnail": "http://3.imimg.com/data3/AO/HN/GLADMIN-112828/pom-pom-toy-125x125.jpg"
+      },
+      {
+        "name": "Hook Eye Tape",
+        "page": "https://dir.indiamart.com/impcat/hook-eye-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/HF/GLADMIN-78438/hook-eye-tape-125x125.jpg"
+      },
+      {
+        "name": "Fur Pom Pom",
+        "page": "https://dir.indiamart.com/impcat/fur-pom-pom.html",
+        "thumbnail": "http://5.imimg.com/data5/YR/ON/XW/GLADMIN-68155/fur-pom-pom-125x125.jpg%3Fv%3D1539817311"
+      },
+      {
+        "name": "Clothes Folder",
+        "page": "https://dir.indiamart.com/impcat/clothes-folder.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/GI/GLADMIN-164409/clothes-folder-125x125.jpg"
+      },
+      {
+        "name": "Garment Ring Adjuster",
+        "page": "https://dir.indiamart.com/impcat/ring-adjuster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/BJ/HS/IH/86068/garment-ring-adjuster-125x125.webp"
+      },
+      {
+        "name": "Garment Sizers",
+        "page": "https://dir.indiamart.com/impcat/garment-sizers.html",
+        "thumbnail": "http://3.imimg.com/data3/JV/IL/GLADMIN-20602/garment-sizers-125x125.jpg"
+      },
+      {
+        "name": "Bra Slider",
+        "page": "https://dir.indiamart.com/impcat/bra-slider.html",
+        "thumbnail": "http://3.imimg.com/data3/US/FS/GLADMIN-69599/bra-slider-125x125.jpg"
+      },
+      {
+        "name": "Metal Slider",
+        "page": "https://dir.indiamart.com/impcat/metal-slider.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/IW/GLADMIN-50622/metal-slider-125x125.jpg"
+      },
+      {
+        "name": "Pom Pom Balls",
+        "page": "https://dir.indiamart.com/impcat/pom-pom-balls.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/445890392/RP/XN/WA/96317/ppb-125x125.png"
+      },
+      {
+        "name": "Belt Adjuster",
+        "page": "https://dir.indiamart.com/impcat/belt-adjuster.html",
+        "thumbnail": "http://5.imimg.com/data5/AI/WL/GLADMIN-2/belt-adjuster-125x125.jpg"
+      },
+      {
+        "name": "Button Covers",
+        "page": "https://dir.indiamart.com/impcat/button-covers.html",
+        "thumbnail": "http://3.imimg.com/data3/KV/LS/GLADMIN-50593/button-covers-125x125.jpg"
+      },
+      {
+        "name": "Plastic Tips",
+        "page": "https://dir.indiamart.com/impcat/plastic-tips.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/GW/GLADMIN-35259/plastic-tips-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Buttons",
+    "category_thumbnail": "http://3.imimg.com/data3/RN/EK/MY-2/buttons-125x125.jpg",
+    "items": [
+      {
+        "name": "Snap Buttons",
+        "page": "https://dir.indiamart.com/impcat/snap-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/HN/JV/MY-2/snap-buttons-copy-125x125.jpg"
+      },
+      {
+        "name": "Garment Buttons",
+        "page": "https://dir.indiamart.com/impcat/garment-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/BT/GLADMIN-43558/garment-buttons-125x125.jpg"
+      },
+      {
+        "name": "Plastic Button",
+        "page": "https://dir.indiamart.com/impcat/plastic-button.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/JK/GLADMIN-16576/plastic-button-125x125.jpg"
+      },
+      {
+        "name": "Metal Buttons",
+        "page": "https://dir.indiamart.com/impcat/metal-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/LL/GI/GLADMIN-10043/metal-buttons-125x125.jpg"
+      },
+      {
+        "name": "Designer Button",
+        "page": "https://dir.indiamart.com/impcat/designer-button.html",
+        "thumbnail": "http://4.imimg.com/data4/AB/HF/GLADMIN-184400/designer-button-125x125.jpg"
+      },
+      {
+        "name": "Shank Button",
+        "page": "https://dir.indiamart.com/impcat/shank-button.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/TT/GLADMIN-50647/shank-button-125x125.jpg"
+      },
+      {
+        "name": "Brass Snaps",
+        "page": "https://dir.indiamart.com/impcat/brass-snaps.html",
+        "thumbnail": "http://3.imimg.com/data3/EG/NV/GLADMIN-165922/brass-snaps-125x125.jpg"
+      },
+      {
+        "name": "Natural Button",
+        "page": "https://dir.indiamart.com/impcat/natural-button.html",
+        "thumbnail": "http://3.imimg.com/data3/TY/PT/GLADMIN-50625/natural-button-125x125.jpg"
+      },
+      {
+        "name": "Button Blanks",
+        "page": "https://dir.indiamart.com/impcat/button-blanks.html",
+        "thumbnail": "http://3.imimg.com/data3/PW/XF/GLADMIN-23942/button-blanks-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Buckles",
+    "category_thumbnail": "http://3.imimg.com/data3/DV/VO/MY-2/buckles-125x125.jpg",
+    "items": [
+      {
+        "name": "Plastic Buckle",
+        "page": "https://dir.indiamart.com/impcat/plastic-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/OP/DW/MY-2/plastic-buckle-125x125.jpg"
+      },
+      {
+        "name": "Belt Buckles",
+        "page": "https://dir.indiamart.com/impcat/belts-buckles.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/YI/MY-2/belts-buckles-125x125.jpg"
+      },
+      {
+        "name": "Side Release Buckle",
+        "page": "https://dir.indiamart.com/impcat/side-release-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/XG/EB/GLADMIN-78444/side-release-buckle-125x125.jpg"
+      },
+      {
+        "name": "Bag Buckle",
+        "page": "https://dir.indiamart.com/impcat/bag-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/YY/GLADMIN-90505/bag-buckle-125x125.jpg"
+      },
+      {
+        "name": "Cord Strap Buckle",
+        "page": "https://dir.indiamart.com/impcat/cord-strap-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/SO/GO/GLADMIN-126287/cord-strap-buckle-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Buckle",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/EY/VS/GLADMIN-78445/stainless-steel-buckle-125x125.jpg"
+      },
+      {
+        "name": "Watch Buckle",
+        "page": "https://dir.indiamart.com/impcat/watch-buckle.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/GC/VC/RB/91307/watch-buckle-125x125.jpg"
+      },
+      {
+        "name": "Roller Buckle",
+        "page": "https://dir.indiamart.com/impcat/roller-buckle.html",
+        "thumbnail": "http://4.imimg.com/data4/KY/BN/GLADMIN-2/roller-buckle-125x125.jpg"
+      },
+      {
+        "name": "Metal Bag Buckle",
+        "page": "https://dir.indiamart.com/impcat/metal-bag-buckle.html",
+        "thumbnail": "http://5.imimg.com/data5/ZM/LQ/NZ/GLADMIN-68087/metal-bag-buckle-125x125.png"
+      },
+      {
+        "name": "Harness Buckles",
+        "page": "https://dir.indiamart.com/impcat/harness-buckles.html",
+        "thumbnail": "http://5.imimg.com/data5/OG/GR/GLADMIN-2/harness-buckles-125x125.png"
+      },
+      {
+        "name": "Slide Buckles",
+        "page": "https://dir.indiamart.com/impcat/slide-buckles.html",
+        "thumbnail": "http://3.imimg.com/data3/VW/CB/GLADMIN-38047/slide-buckles-125x125.jpg"
+      },
+      {
+        "name": "Pin Buckle",
+        "page": "https://dir.indiamart.com/impcat/pin-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/XY/QA/GLADMIN-34364/pin-buckle-125x125.jpg"
+      },
+      {
+        "name": "Luggage Buckle",
+        "page": "https://dir.indiamart.com/impcat/luggage-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/GW/GLADMIN-32118/luggage-buckle-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garment Pin",
+    "category_thumbnail": "http://3.imimg.com/data3/RC/UK/GLADMIN-104751/garment-pin-125x125.jpg",
+    "items": [
+      {
+        "name": "Safety Pin",
+        "page": "https://dir.indiamart.com/impcat/safety-pin.html",
+        "thumbnail": "http://3.imimg.com/data3/AL/GP/GLADMIN-8365/safety-pin-125x125.jpg"
+      },
+      {
+        "name": "Steel safety Pins",
+        "page": "https://dir.indiamart.com/impcat/steel-safety-pins.html",
+        "thumbnail": "http://4.imimg.com/data4/HM/AQ/GLADMIN-183269/steel-safety-pins-125x125.jpg"
+      },
+      {
+        "name": "Saree Pin",
+        "page": "https://dir.indiamart.com/impcat/saree-pin.html",
+        "thumbnail": "http://5.imimg.com/data5/UA/TT/YB/GLADMIN-68087/saree-pin-125x125.jpg"
+      },
+      {
+        "name": "Hijab Pins",
+        "page": "https://dir.indiamart.com/impcat/hijab-pins.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/441744877/JB/DH/FZ/96317/hpi-125x125.png"
+      },
+      {
+        "name": "Plastic Pin",
+        "page": "https://dir.indiamart.com/impcat/plastic-pin.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/PX/GLADMIN-50632/plastic-pin-125x125.jpg"
+      },
+      {
+        "name": "Brass Safety Pins",
+        "page": "https://dir.indiamart.com/impcat/brass-safety-pins.html",
+        "thumbnail": "http://3.imimg.com/data3/BG/OO/GLADMIN-/data-default-images-catalog-500-14110-125x125.jpg"
+      },
+      {
+        "name": "Shirt Pin",
+        "page": "https://dir.indiamart.com/impcat/shirt-pin.html",
+        "thumbnail": "http://3.imimg.com/data3/PC/LF/GLADMIN-88349/shirt-pin-125x125.jpg"
+      },
+      {
+        "name": "Dress Pin",
+        "page": "https://dir.indiamart.com/impcat/dress-pin.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/NY/GLADMIN-50604/dress-pin-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Snap Buttons",
+    "category_thumbnail": "http://3.imimg.com/data3/HN/JV/MY-2/snap-buttons-copy-125x125.jpg",
+    "items": [
+      {
+        "name": "Magnetic Buttons",
+        "page": "https://dir.indiamart.com/impcat/magnetic-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/AY/GLADMIN-9766/magnetic-buttons-125x125.jpg"
+      },
+      {
+        "name": "Metal Snap Button",
+        "page": "https://dir.indiamart.com/impcat/metal-snap-button.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/TH/GLADMIN-50623/metal-snap-button-125x125.jpg"
+      },
+      {
+        "name": "Press Buttons",
+        "page": "https://dir.indiamart.com/impcat/press-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/DO/NN/GLADMIN-149095/press-buttons-125x125.jpg"
+      },
+      {
+        "name": "Plastic Snap Button",
+        "page": "https://dir.indiamart.com/impcat/plastic-snap-button.html",
+        "thumbnail": "http://3.imimg.com/data3/BJ/TE/GLADMIN-50633/plastic-snap-button-125x125.jpg"
+      },
+      {
+        "name": "Ring Snap Button",
+        "page": "https://dir.indiamart.com/impcat/ring-snap-button.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/XJ/GLADMIN-50643/ring-snap-button-125x125.jpg"
+      },
+      {
+        "name": "Spring Snap Button",
+        "page": "https://dir.indiamart.com/impcat/spring-snap-button.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/NC/GLADMIN-50649/spring-snap-button-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Zipper Parts",
+    "category_thumbnail": "http://3.imimg.com/data3/GQ/LC/GLADMIN-50655/zipper-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Metal Zipper Slider",
+        "page": "https://dir.indiamart.com/impcat/metal-zipper-slider.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/VC/GLADMIN-50624/metal-zipper-slider-125x125.jpg"
+      },
+      {
+        "name": "Zip Puller",
+        "page": "https://dir.indiamart.com/impcat/zip-puller.html",
+        "thumbnail": "http://3.imimg.com/data3/RU/XN/GLADMIN-41600/zip-puller-125x125.jpg"
+      },
+      {
+        "name": "Plastic Zipper Slider",
+        "page": "https://dir.indiamart.com/impcat/plastic-zipper-slider.html",
+        "thumbnail": "http://3.imimg.com/data3/IY/KT/GLADMIN-50635/plastic-zipper-slider-125x125.jpg"
+      },
+      {
+        "name": "Keyhole Zipper Slider",
+        "page": "https://dir.indiamart.com/impcat/keyhole-zipper-slider.html",
+        "thumbnail": "http://3.imimg.com/data3/OD/WO/GLADMIN-108671/keyhole-zipper-slider-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Belt Buckles",
+    "category_thumbnail": "http://3.imimg.com/data3/LJ/YI/MY-2/belts-buckles-125x125.jpg",
+    "items": [
+      {
+        "name": "Metal Belt Buckles",
+        "page": "https://dir.indiamart.com/impcat/metal-buckles.html",
+        "thumbnail": "http://3.imimg.com/data3/HP/AO/GLADMIN-32164/metal-buckles-125x125.jpg"
+      },
+      {
+        "name": "Brass Belt Buckle",
+        "page": "https://dir.indiamart.com/impcat/brass-belt-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/SI/OE/GLADMIN-12917/brass-belt-buckle-125x125.jpg"
+      },
+      {
+        "name": "Men Belt Buckle",
+        "page": "https://dir.indiamart.com/impcat/mens-belt-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/HY/GLADMIN-31961/mens-belt-buckle-125x125.jpg"
+      },
+      {
+        "name": "Zinc Belt Buckle",
+        "page": "https://dir.indiamart.com/impcat/zinc-belt-buckle.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/6/KR/EZ/DS/81953/zinc-belt-buckle-125x125.jpg"
+      },
+      {
+        "name": "Iron Belt Buckle",
+        "page": "https://dir.indiamart.com/impcat/iron-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/EV/DN/GLADMIN-90506/iron-buckle-125x125.jpg"
+      },
+      {
+        "name": "School Belt Buckle",
+        "page": "https://dir.indiamart.com/impcat/school-belt-buckle.html",
+        "thumbnail": "http://5.imimg.com/data5/VT/VX/UC/GLADMIN-68087/school-belt-buckle-125x125.jpg"
+      },
+      {
+        "name": "Leather Belt Buckle",
+        "page": "https://dir.indiamart.com/impcat/leather-belt-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/MB/BF/GLADMIN-78440/leather-belt-buckle-125x125.jpg"
+      },
+      {
+        "name": "Silver Belt Buckle",
+        "page": "https://dir.indiamart.com/impcat/silver-belt-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/II/FY/MY-2/silver-belt-buckle-125x125.jpg"
+      },
+      {
+        "name": "Gold Buckle",
+        "page": "https://dir.indiamart.com/impcat/gold-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/JT/FN/MY-2/gold-buckle-125x125.jpg"
+      },
+      {
+        "name": "Alloy Belt Buckle",
+        "page": "https://dir.indiamart.com/impcat/alloy-belt-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/SF/GLADMIN-100111/alloy-belt-buckle-125x125.jpg"
+      },
+      {
+        "name": "Steel Buckles",
+        "page": "https://dir.indiamart.com/impcat/steel-buckles.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/374488410/LY/OY/GB/86676/steel-buckles-125x125.jpg"
+      },
+      {
+        "name": "Rhinestone Belt Buckle",
+        "page": "https://dir.indiamart.com/impcat/rhinestone-belt-buckle.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/EH/GLADMIN-36411/rhinestone-belt-buckle-125x125.jpg"
+      },
+      {
+        "name": "Diamond Belt Buckles",
+        "page": "https://dir.indiamart.com/impcat/diamond-belt-buckles.html",
+        "thumbnail": "http://3.imimg.com/data3/LV/LT/GLADMIN-145242/diamond-belt-buckles-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Natural Button",
+    "category_thumbnail": "http://3.imimg.com/data3/TY/PT/GLADMIN-50625/natural-button-125x125.jpg",
+    "items": [
+      {
+        "name": "Fabric Button",
+        "page": "https://dir.indiamart.com/impcat/fabric-button.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/IL/GLADMIN-78437/fabric-button-125x125.jpg"
+      },
+      {
+        "name": "Wooden Buttons",
+        "page": "https://dir.indiamart.com/impcat/wooden-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/BV/GLADMIN-41360/wooden-buttons-125x125.jpg"
+      },
+      {
+        "name": "Shell Button",
+        "page": "https://dir.indiamart.com/impcat/shell-button.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/HC/GLADMIN-37996/shell-button-125x125.jpg"
+      },
+      {
+        "name": "Coconut Button",
+        "page": "https://dir.indiamart.com/impcat/coconut-button.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/IY/GLADMIN-50599/coconut-button-125x125.jpg"
+      },
+      {
+        "name": "Horn Buttons",
+        "page": "https://dir.indiamart.com/impcat/horn-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/FT/GLADMIN-10721/horn-buttons-125x125.jpg"
+      },
+      {
+        "name": "Corozo Button",
+        "page": "https://dir.indiamart.com/impcat/corozo-button.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/DE/GLADMIN-50601/corozo-button-125x125.jpg"
+      },
+      {
+        "name": "Pearl Button",
+        "page": "https://dir.indiamart.com/impcat/pearl-button.html",
+        "thumbnail": "http://3.imimg.com/data3/OG/IY/GLADMIN-50630/pearl-button-125x125.jpg"
+      },
+      {
+        "name": "Glass Button",
+        "page": "https://dir.indiamart.com/impcat/glass-button.html",
+        "thumbnail": "http://3.imimg.com/data3/BF/PW/GLADMIN-50608/glass-button-125x125.jpg"
+      },
+      {
+        "name": "Horn Button Blank",
+        "page": "https://dir.indiamart.com/impcat/horn-button-blank.html",
+        "thumbnail": "http://3.imimg.com/data3/MJ/HX/GLADMIN-10720/horn-button-blank-125x125.jpg"
+      },
+      {
+        "name": "Garment Toggle Button",
+        "page": "https://dir.indiamart.com/impcat/toggle-button.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/RQ/GLADMIN-50652/toggle-button-125x125.jpg"
+      },
+      {
+        "name": "Leather Buttons",
+        "page": "https://dir.indiamart.com/impcat/leather-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/YB/MY-2/leather-buttons-125x125.jpg"
+      },
+      {
+        "name": "Handmade Button",
+        "page": "https://dir.indiamart.com/impcat/handmade-button.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/FC/GLADMIN-50609/handmade-button-125x125.jpg"
+      },
+      {
+        "name": "Imitation Horn Button",
+        "page": "https://dir.indiamart.com/impcat/imitation-horn-button.html",
+        "thumbnail": "http://3.imimg.com/data3/JM/VK/GLADMIN-50610/imitation-horn-button-125x125.jpg"
+      },
+      {
+        "name": "Bone Button",
+        "page": "https://dir.indiamart.com/impcat/bone-button.html",
+        "thumbnail": "http://3.imimg.com/data3/WD/NW/MY-2/bone-button-125x125.jpg"
+      },
+      {
+        "name": "Rubber Buttons",
+        "page": "https://dir.indiamart.com/impcat/rubber-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/WY/TB/GLADMIN-36038/rubber-buttons-125x125.jpg"
+      },
+      {
+        "name": "Horn Toggle Button",
+        "page": "https://dir.indiamart.com/impcat/horn-toggles.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/DJ/HM/BI/91307/horn-toggles-125x125.jpeg"
+      }
+    ]
+  },
+  {
+    "category_name": "Shirt Collar Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/ST/BQ/GLADMIN-105662/shirt-collar-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Collar Bands",
+        "page": "https://dir.indiamart.com/impcat/collar-bands.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/KA/GLADMIN-24361/collar-bands-125x125.jpg"
+      },
+      {
+        "name": "RIB Collar",
+        "page": "https://dir.indiamart.com/impcat/rib-collar.html",
+        "thumbnail": "http://4.imimg.com/data4/WS/IQ/GLADMIN-2/rib-collar-125x125.jpg"
+      },
+      {
+        "name": "Shirt Clip",
+        "page": "https://dir.indiamart.com/impcat/shirt-clip.html",
+        "thumbnail": "http://5.imimg.com/data5/EU/AG/AK/GLADMIN-56986/shirt-clip-125x125.jpg"
+      },
+      {
+        "name": "Collar Stays",
+        "page": "https://dir.indiamart.com/impcat/collar-stays.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/MF/MY-2/collar-stays-125x125.jpg"
+      },
+      {
+        "name": "Collar Butterfly",
+        "page": "https://dir.indiamart.com/impcat/collar-butterfly.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/XB/GLADMIN-2/collar-butterfly-125x125.jpg"
+      },
+      {
+        "name": "Collar Pins",
+        "page": "https://dir.indiamart.com/impcat/collar-pins.html",
+        "thumbnail": "http://3.imimg.com/data3/HA/FI/MY-2/collar-pin-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Hook Eye Fastener",
+    "category_thumbnail": "http://3.imimg.com/data3/DG/MQ/GLADMIN-69600/hook-eye-fastener-125x125.jpg",
+    "items": [
+      {
+        "name": "Dress Hook",
+        "page": "https://dir.indiamart.com/impcat/dress-hook.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/MJ/GLADMIN-27036/dress-hook-125x125.jpg"
+      },
+      {
+        "name": "Blouse Hooks",
+        "page": "https://dir.indiamart.com/impcat/blouse-hooks.html",
+        "thumbnail": "http://3.imimg.com/data3/FB/KF/GLADMIN-152064/blouse-hooks-125x125.jpg"
+      },
+      {
+        "name": "Trouser Hook",
+        "page": "https://dir.indiamart.com/impcat/trouser-hook.html",
+        "thumbnail": "http://3.imimg.com/data3/HL/YU/GLADMIN-78447/trouser-hook-125x125.jpg"
+      },
+      {
+        "name": "Bra Hook",
+        "page": "https://dir.indiamart.com/impcat/bra-hook.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/FE/GLADMIN-64855/bra-hook-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Plastic Button",
+    "category_thumbnail": "http://3.imimg.com/data3/CX/JK/GLADMIN-16576/plastic-button-125x125.jpg",
+    "items": [
+      {
+        "name": "Polyester Button",
+        "page": "https://dir.indiamart.com/impcat/polyester-button.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/TY/GLADMIN-35369/polyester-button-125x125.jpg"
+      },
+      {
+        "name": "Plastic Snap Button",
+        "page": "https://dir.indiamart.com/impcat/plastic-snap-button.html",
+        "thumbnail": "http://3.imimg.com/data3/BJ/TE/GLADMIN-50633/plastic-snap-button-125x125.jpg"
+      },
+      {
+        "name": "Fancy Plastic Button",
+        "page": "https://dir.indiamart.com/impcat/fancy-plastic-button.html",
+        "thumbnail": "http://5.imimg.com/data5/MT/YC/RX/GLADMIN-76037/fancy-plastic-button-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Stone Button",
+        "page": "https://dir.indiamart.com/impcat/acrylic-stone-button.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/NS/GLADMIN-101101/acrylic-stone-button-125x125.jpg"
+      },
+      {
+        "name": "ABS Button",
+        "page": "https://dir.indiamart.com/impcat/abs-button.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/FK/BX/ND/91307/abs-button-125x125.webp"
+      },
+      {
+        "name": "Chalk Button",
+        "page": "https://dir.indiamart.com/impcat/chalk-button.html",
+        "thumbnail": "http://3.imimg.com/data3/AE/OF/GLADMIN-50597/chalk-button-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Button",
+        "page": "https://dir.indiamart.com/impcat/acrylic-button.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/OJ/GLADMIN-21257/acrylic-button-125x125.jpg"
+      },
+      {
+        "name": "Nylon Button",
+        "page": "https://dir.indiamart.com/impcat/nylon-button.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/DY/GLADMIN-50627/nylon-button-125x125.jpg"
+      },
+      {
+        "name": "Resin Button",
+        "page": "https://dir.indiamart.com/impcat/resin-button.html",
+        "thumbnail": "http://3.imimg.com/data3/FA/FH/GLADMIN-50639/resin-button-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Designer Button",
+    "category_thumbnail": "http://4.imimg.com/data4/AB/HF/GLADMIN-184400/designer-button-125x125.jpg",
+    "items": [
+      {
+        "name": "Coat Button",
+        "page": "https://dir.indiamart.com/impcat/coat-button.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/OS/GLADMIN-161599/coat-button-125x125.jpg"
+      },
+      {
+        "name": "Diamond Buttons",
+        "page": "https://dir.indiamart.com/impcat/diamond-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/SF/GLADMIN-164072/diamond-buttons-125x125.jpg"
+      },
+      {
+        "name": "Sherwani Buttons",
+        "page": "https://dir.indiamart.com/impcat/sherwani-buttons.html",
+        "thumbnail": "http://5.imimg.com/data5/GR/FJ/GLADMIN-2/sherwani-buttons-125x125.jpg"
+      },
+      {
+        "name": "Kurta Buttons",
+        "page": "https://dir.indiamart.com/impcat/kurta-buttons.html",
+        "thumbnail": "http://4.imimg.com/data4/JE/HW/GLADMIN-2/kurta-buttons-125x125.jpg"
+      },
+      {
+        "name": "Custom Button",
+        "page": "https://dir.indiamart.com/impcat/custom-button.html",
+        "thumbnail": "http://3.imimg.com/data3/BH/LJ/GLADMIN-78122/custom-button-125x125.jpg"
+      },
+      {
+        "name": "Engraved Buttons",
+        "page": "https://dir.indiamart.com/impcat/engraved-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/XO/GLADMIN-161667/engraved-buttons-125x125.jpg"
+      },
+      {
+        "name": "Round Button",
+        "page": "https://dir.indiamart.com/impcat/round-button.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/XB/GLADMIN-50644/round-button-125x125.jpg"
+      },
+      {
+        "name": "Laser Button",
+        "page": "https://dir.indiamart.com/impcat/laser-button.html",
+        "thumbnail": "http://3.imimg.com/data3/RK/QG/GLADMIN-50615/laser-button-125x125.jpg"
+      },
+      {
+        "name": "Oval Button",
+        "page": "https://dir.indiamart.com/impcat/oval-button.html",
+        "thumbnail": "http://3.imimg.com/data3/SK/SI/GLADMIN-50629/oval-button-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Metal Buttons",
+    "category_thumbnail": "http://3.imimg.com/data3/LL/GI/GLADMIN-10043/metal-buttons-125x125.jpg",
+    "items": [
+      {
+        "name": "Metal Snap Button",
+        "page": "https://dir.indiamart.com/impcat/metal-snap-button.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/TH/GLADMIN-50623/metal-snap-button-125x125.jpg"
+      },
+      {
+        "name": "Fancy Metal Button",
+        "page": "https://dir.indiamart.com/impcat/fancy-metal-button.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/KT/GLADMIN-50606/fancy-metal-button-125x125.jpg"
+      },
+      {
+        "name": "Brass Buttons",
+        "page": "https://dir.indiamart.com/impcat/brass-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/HX/EE/MY-2/brass-buttons-125x125.jpg"
+      },
+      {
+        "name": "Round Metal Button",
+        "page": "https://dir.indiamart.com/impcat/round-metal-button.html",
+        "thumbnail": "http://3.imimg.com/data3/KT/HU/GLADMIN-100119/round-metal-button-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Buttons",
+        "page": "https://dir.indiamart.com/impcat/aluminium-buttons.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/BA/MY-2/aluminium-buttons-125x125.jpg"
+      },
+      {
+        "name": "Zinc Button",
+        "page": "https://dir.indiamart.com/impcat/zinc-button.html",
+        "thumbnail": "http://3.imimg.com/data3/WH/WE/GLADMIN-121267/zinc-button-125x125.jpg"
+      },
+      {
+        "name": "Metal Alloy Button",
+        "page": "https://dir.indiamart.com/impcat/metal-alloy-button.html",
+        "thumbnail": "http://3.imimg.com/data3/KH/PG/GLADMIN-50617/metal-alloy-button-125x125.jpg"
+      },
+      {
+        "name": "Copper Button",
+        "page": "https://dir.indiamart.com/impcat/copper-button.html",
+        "thumbnail": "http://3.imimg.com/data3/AL/IJ/GLADMIN-50600/copper-button-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Eyelets",
+    "category_thumbnail": "http://3.imimg.com/data3/OP/BQ/MY-2/eyelets-125x125.jpg",
+    "items": [
+      {
+        "name": "Ceramic Eyelet",
+        "page": "https://dir.indiamart.com/impcat/ceramic-eyelet.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/RY/GLADMIN-50596/ceramic-eyelet-125x125.jpg"
+      },
+      {
+        "name": "Plastic Eyelets",
+        "page": "https://dir.indiamart.com/impcat/plastic-eyelets.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/QD/MY-2/plastic-eyelets-125x125.jpg"
+      },
+      {
+        "name": "Metal Eyelet",
+        "page": "https://dir.indiamart.com/impcat/metal-eyelet.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/VK/GLADMIN-33487/metal-eyelet-125x125.jpg"
+      },
+      {
+        "name": "Round Eyelet",
+        "page": "https://dir.indiamart.com/impcat/round-eyelet.html",
+        "thumbnail": "http://3.imimg.com/data3/RP/MH/GLADMIN-50645/round-eyelet-125x125.jpg"
+      },
+      {
+        "name": "Shoe Eyelet",
+        "page": "https://dir.indiamart.com/impcat/shoe-eyelet.html",
+        "thumbnail": "http://4.imimg.com/data4/FR/CD/GLADMIN-185152/shoe-eyelet-125x125.jpg"
+      },
+      {
+        "name": "Tarpaulin Eyelets",
+        "page": "https://dir.indiamart.com/impcat/tarpaulin-eyelets.html",
+        "thumbnail": "http://4.imimg.com/data4/FD/HY/GLADMIN-2/tarpaulin-eyelets-125x125.jpg"
+      },
+      {
+        "name": "Garment Eyelet",
+        "page": "https://dir.indiamart.com/impcat/garment-eyelet.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/EU/GLADMIN-104747/garment-eyelet-125x125.jpg"
+      },
+      {
+        "name": "Eyelet Button",
+        "page": "https://dir.indiamart.com/impcat/eyelet-button.html",
+        "thumbnail": "http://5.imimg.com/data5/VL/SI/GLADMIN-2/eyelet-button-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Zip Puller",
+    "category_thumbnail": "http://3.imimg.com/data3/RU/XN/GLADMIN-41600/zip-puller-125x125.jpg",
+    "items": [
+      {
+        "name": "Alloy Zipper Puller",
+        "page": "https://dir.indiamart.com/impcat/alloy-zipper-puller.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/XX/GLADMIN-/alloy-zipper-puller-125x125.jpg"
+      },
+      {
+        "name": "Metal Puller",
+        "page": "https://dir.indiamart.com/impcat/metal-puller.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/FC/GLADMIN-50621/metal-puller-125x125.jpg"
+      },
+      {
+        "name": "Plastic Zipper Pulls",
+        "page": "https://dir.indiamart.com/impcat/plastic-zipper-pulls.html",
+        "thumbnail": "http://3.imimg.com/data3/GP/AG/GLADMIN-50634/plastic-zipper-pulls-125x125.jpg"
+      },
+      {
+        "name": "Customized Plastic Puller",
+        "page": "https://dir.indiamart.com/impcat/customized-plastic-puller.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/SY/GLADMIN-101114/customized-plastic-puller-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Metal Eyelet",
+    "category_thumbnail": "http://3.imimg.com/data3/CR/VK/GLADMIN-33487/metal-eyelet-125x125.jpg",
+    "items": [
+      {
+        "name": "Brass Eyelets",
+        "page": "https://dir.indiamart.com/impcat/brass-eyelets.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/BH/MY-2/brass-eyelets-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Eyelets",
+        "page": "https://dir.indiamart.com/impcat/aluminum-eyelets.html",
+        "thumbnail": "http://3.imimg.com/data3/VN/JB/GLADMIN-21176/aluminum-eyelets-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Eyelets",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-eyelets.html",
+        "thumbnail": "http://3.imimg.com/data3/FX/VL/GLADMIN-38290/stainless-steel-eyelets-125x125.jpg"
+      },
+      {
+        "name": "Iron Eyelet",
+        "page": "https://dir.indiamart.com/impcat/iron-eyelet.html",
+        "thumbnail": "http://3.imimg.com/data3/PY/YK/GLADMIN-50613/iron-eyelet-125x125.jpg"
+      },
+      {
+        "name": "Copper Eyelets",
+        "page": "https://dir.indiamart.com/impcat/copper-eyelets.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/OY/GLADMIN-25898/copper-eyelets-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cufflinks",
+    "category_thumbnail": "http://3.imimg.com/data3/TB/HK/MY-2/cufflinks-125x125.jpg",
+    "items": [
+      {
+        "name": "Designer Cufflink",
+        "page": "https://dir.indiamart.com/impcat/designer-cufflink.html",
+        "thumbnail": "http://4.imimg.com/data4/KN/RD/GLADMIN-183014/designer-cufflink-125x125.jpg"
+      },
+      {
+        "name": "Metal Cufflink",
+        "page": "https://dir.indiamart.com/impcat/metal-cufflink.html",
+        "thumbnail": "http://5.imimg.com/data5/FM/OX/GLADMIN-2/metal-cufflink-125x125.jpg"
+      },
+      {
+        "name": "Dress Studs",
+        "page": "https://dir.indiamart.com/impcat/dress-studs.html",
+        "thumbnail": "http://3.imimg.com/data3/SF/JG/GLADMIN-26874/dress-studs-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Metal Cufflink",
+    "category_thumbnail": "http://5.imimg.com/data5/FM/OX/GLADMIN-2/metal-cufflink-125x125.jpg",
+    "items": [
+      {
+        "name": "Brass Cufflink",
+        "page": "https://dir.indiamart.com/impcat/brass-cufflink.html",
+        "thumbnail": "http://3.imimg.com/data3/OK/UM/GLADMIN-50589/brass-cufflink-125x125.jpg"
+      },
+      {
+        "name": "Silver Cufflinks",
+        "page": "https://dir.indiamart.com/impcat/silver-cufflinks.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/YS/GLADMIN-9419/silver-cufflinks-125x125.jpg"
+      },
+      {
+        "name": "Gold Cufflink",
+        "page": "https://dir.indiamart.com/impcat/gold-cufflink.html",
+        "thumbnail": "http://3.imimg.com/data3/QX/DQ/GLADMIN-1010/gold-cufflink-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Cufflink",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-cufflink.html",
+        "thumbnail": "http://4.imimg.com/data4/JJ/JJ/GLADMIN-/stainless-steel-cufflink-125x125.jpg"
+      }
+    ]
+  }
+]

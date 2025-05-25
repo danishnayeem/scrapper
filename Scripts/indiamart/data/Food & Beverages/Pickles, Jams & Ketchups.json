@@ -1,0 +1,612 @@
+[
+  {
+    "category_name": "Sauces",
+    "category_thumbnail": "http://5.imimg.com/data5/KL/UN/GLADMIN-2/sauces-125x125.jpg",
+    "items": [
+      {
+        "name": "Mayonnaise",
+        "page": "https://dir.indiamart.com/impcat/mayonnaise.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/JM/RG/QX/91623/mayonnaise-125x125.jpg"
+      },
+      {
+        "name": "Tomato Sauce",
+        "page": "https://dir.indiamart.com/impcat/tomato-sauce.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TD/NR/TF/92368/tomato-sauce-125x125.jpg"
+      },
+      {
+        "name": "Tomato Ketchup",
+        "page": "https://dir.indiamart.com/impcat/tomato-ketchup.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/FV/GLADMIN-2491/tomato-ketchup-125x125.jpg"
+      },
+      {
+        "name": "Eggless Mayonnaise",
+        "page": "https://dir.indiamart.com/impcat/eggless-mayonnaise.html",
+        "thumbnail": "http://4.imimg.com/data4/IW/HW/GLADMIN-183418/eggless-mayonnaise-125x125.jpg"
+      },
+      {
+        "name": "Soya Sauce",
+        "page": "https://dir.indiamart.com/impcat/soy-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/RL/GLADMIN-37419/soy-sauce-125x125.jpg"
+      },
+      {
+        "name": "Tomato Ketchup Sachets",
+        "page": "https://dir.indiamart.com/impcat/tomato-ketchup-sachets.html",
+        "thumbnail": "http://3.imimg.com/data3/AC/TX/GLADMIN-156042/tomato-ketchup-sachets-125x125.jpg"
+      },
+      {
+        "name": "Cheese Sauce",
+        "page": "https://dir.indiamart.com/impcat/cheese-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/CA/FB/GLADMIN-24801/cheese-sauce-125x125.jpg"
+      },
+      {
+        "name": "Green Chilli Sauce",
+        "page": "https://dir.indiamart.com/impcat/green-chilli-sauce.html",
+        "thumbnail": "http://4.imimg.com/data4/BO/YM/GLADMIN-2/green-chilli-sauce-125x125.jpg"
+      },
+      {
+        "name": "Vegetable Sauce",
+        "page": "https://dir.indiamart.com/impcat/vegetable-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/DP/WI/GLADMIN-85262/vegetable-sauce-125x125.jpg"
+      },
+      {
+        "name": "Pizza Sauces",
+        "page": "https://dir.indiamart.com/impcat/pizza-sauces.html",
+        "thumbnail": "http://3.imimg.com/data3/KR/QP/GLADMIN-80805/pizza-sauces-125x125.jpg"
+      },
+      {
+        "name": "Veeba Mayonnaise",
+        "page": "https://dir.indiamart.com/impcat/veeba-mayonnaise.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319404073/ZI/UF/VR/64512/veeba-mayonnaise-125x125.png"
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "page": "https://dir.indiamart.com/impcat/red-chilli-sauce.html",
+        "thumbnail": "http://5.imimg.com/data5/AY/OV/HK/GLADMIN-68087/red-chilli-sauce-125x125.jpg"
+      },
+      {
+        "name": "Dipping Sauce",
+        "page": "https://dir.indiamart.com/impcat/dipping-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/MA/SR/GLADMIN-26528/dipping-sauce-125x125.jpg"
+      },
+      {
+        "name": "Chili Sauce",
+        "page": "https://dir.indiamart.com/impcat/chili-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/QG/GLADMIN-24077/chili-sauce-125x125.jpg"
+      },
+      {
+        "name": "Pizza Toppings",
+        "page": "https://dir.indiamart.com/impcat/pizza-toppings.html",
+        "thumbnail": "http://3.imimg.com/data3/QC/XQ/GLADMIN-106891/pizza-toppings-125x125.jpg"
+      },
+      {
+        "name": "Pasta Sauce",
+        "page": "https://dir.indiamart.com/impcat/pasta-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/CH/GLADMIN-85261/pasta-sauce-125x125.jpg"
+      },
+      {
+        "name": "Tandoori Mayonnaise",
+        "page": "https://dir.indiamart.com/impcat/tandoori-mayonnaise.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/421278582/KZ/MV/NX/96317/tandoori-mayonnaise-125x125.jpg"
+      },
+      {
+        "name": "Cooking Sauce",
+        "page": "https://dir.indiamart.com/impcat/cooking-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/XR/UO/GLADMIN-90242/cooking-sauce-125x125.jpg"
+      },
+      {
+        "name": "Mustard Sauce",
+        "page": "https://dir.indiamart.com/impcat/mustard-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/QC/GN/GLADMIN-33719/mustard-sauce-125x125.jpg"
+      },
+      {
+        "name": "Garlic Sauce",
+        "page": "https://dir.indiamart.com/impcat/garlic-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/XN/GLADMIN-29235/garlic-sauce-125x125.jpg"
+      },
+      {
+        "name": "Tamarind Sauce",
+        "page": "https://dir.indiamart.com/impcat/tamarind-sauce.html",
+        "thumbnail": "http://5.imimg.com/data5/BE/VW/FS/GLADMIN-73621/tamarind-sauce-125x125.png"
+      },
+      {
+        "name": "Barbeque Sauces",
+        "page": "https://dir.indiamart.com/impcat/barbeque-sauces.html",
+        "thumbnail": "http://3.imimg.com/data3/KB/EE/GLADMIN-22849/barbeque-sauces-125x125.jpg"
+      },
+      {
+        "name": "Tahini",
+        "page": "https://dir.indiamart.com/impcat/tahini.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/329149201/GE/MI/TS/82392/tahini-125x125.jpg"
+      },
+      {
+        "name": "Oyster Sauce",
+        "page": "https://dir.indiamart.com/impcat/oyster-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/YJ/GLADMIN-34152/oyster-sauce-125x125.jpg"
+      },
+      {
+        "name": "Pepper Sauce",
+        "page": "https://dir.indiamart.com/impcat/pepper-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/MO/JG/GLADMIN-33905/pepper-sauce-125x125.jpg"
+      },
+      {
+        "name": "Salsa Sauce",
+        "page": "https://dir.indiamart.com/impcat/salsa-sauce.html",
+        "thumbnail": "http://4.imimg.com/data4/XN/GS/GLADMIN-184384/salsa-sauce-125x125.jpg"
+      },
+      {
+        "name": "Chicken Sauce",
+        "page": "https://dir.indiamart.com/impcat/chicken-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/VY/MS/GLADMIN-69729/chicken-sauce-125x125.jpg"
+      },
+      {
+        "name": "Fruit Sauce",
+        "page": "https://dir.indiamart.com/impcat/fruit-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/SS/CU/GLADMIN-107785/fruit-sauce-125x125.jpg"
+      },
+      {
+        "name": "Sandwich Sauce",
+        "page": "https://dir.indiamart.com/impcat/sandwich-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/IL/GLADMIN-159821/sandwich-sauce-125x125.jpg"
+      },
+      {
+        "name": "Peri Peri Sauce",
+        "page": "https://dir.indiamart.com/impcat/peri-peri-sauce.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/QM/XX/PU/84846/peri-peri-sauce-125x125.jpg"
+      },
+      {
+        "name": "Hummus",
+        "page": "https://dir.indiamart.com/impcat/hummus.html",
+        "thumbnail": "http://5.imimg.com/data5/FS/VQ/GLADMIN-2/hummus-125x125.jpg"
+      },
+      {
+        "name": "Canned Tomato Sauce",
+        "page": "https://dir.indiamart.com/impcat/canned-tomato-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/XT/GLADMIN-80602/canned-tomato-sauce-125x125.jpg"
+      },
+      {
+        "name": "Condiment",
+        "page": "https://dir.indiamart.com/impcat/condiment.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/UM/GLADMIN-25746/condiment-125x125.jpg"
+      },
+      {
+        "name": "Chipotle Mayonnaise",
+        "page": "https://dir.indiamart.com/impcat/chipotle-mayonnaise.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/QQ/GLADMIN-/a-img923-9397-djirpu-125x125.jpg"
+      },
+      {
+        "name": "Worcester Sauce",
+        "page": "https://dir.indiamart.com/impcat/worcester-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/SK/GLADMIN-41389/worcester-sauce-125x125.jpg"
+      },
+      {
+        "name": "Salad Dressing",
+        "page": "https://dir.indiamart.com/impcat/salad-dressing.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319414192/EZ/ZO/GT/64512/salad-dressing-125x125.png"
+      },
+      {
+        "name": "Mint Sauce",
+        "page": "https://dir.indiamart.com/impcat/mint-sauce.html",
+        "thumbnail": "http://5.imimg.com/data5/YH/UJ/SL/GLADMIN-56986/mint-sauce-125x125.jpg"
+      },
+      {
+        "name": "Fish Sauce",
+        "page": "https://dir.indiamart.com/impcat/fish-sauce.html",
+        "thumbnail": "http://3.imimg.com/data3/TI/NG/GLADMIN-28428/fish-sauce-125x125.jpg"
+      },
+      {
+        "name": "Sweet Chillies",
+        "page": "https://dir.indiamart.com/impcat/sweet-chillies.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/GC/GLADMIN-81258/sweet-chillies-125x125.jpg"
+      },
+      {
+        "name": "Chicken Cocktail Sausages",
+        "page": "https://dir.indiamart.com/impcat/chicken-cocktail-sausages.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/WQ/GLADMIN-104394/chicken-cocktail-sausages-125x125.jpg"
+      },
+      {
+        "name": "Stir Fry Sauces",
+        "page": "https://dir.indiamart.com/impcat/stir-fry-sauces.html",
+        "thumbnail": "http://3.imimg.com/data3/GS/AT/GLADMIN-165603/stir-fry-sauces-125x125.jpg"
+      },
+      {
+        "name": "Manchurian Sauce",
+        "page": "https://dir.indiamart.com/impcat/manchurian-sauce.html",
+        "thumbnail": "http://5.imimg.com/data5/CK/QF/FD/GLADMIN-60238/manchurian-sauce-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Pickles",
+    "category_thumbnail": "http://4.imimg.com/data4/QQ/MK/GLADMIN-20899/pickles-125x125.jpg",
+    "items": [
+      {
+        "name": "Mango Pickle",
+        "page": "https://dir.indiamart.com/impcat/mango-pickle.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/LT/DE/XR/86648/mango-pickle-125x125.jpg"
+      },
+      {
+        "name": "Mixed Pickle",
+        "page": "https://dir.indiamart.com/impcat/mixed-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/HA/GLADMIN-43871/mixed-pickle-125x125.jpg"
+      },
+      {
+        "name": "Green Chilli Pickle",
+        "page": "https://dir.indiamart.com/impcat/green-chilli-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/XO/GLADMIN-11135/green-chilli-pickle-125x125.jpg"
+      },
+      {
+        "name": "Red Chilli Pickle",
+        "page": "https://dir.indiamart.com/impcat/red-chilli-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/RK/HS/GLADMIN-43873/red-chilli-pickle-125x125.jpg"
+      },
+      {
+        "name": "Lime Pickle",
+        "page": "https://dir.indiamart.com/impcat/lime-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/SS/TE/GLADMIN-11587/lime-pickle-125x125.jpg"
+      },
+      {
+        "name": "Chicken Pickle",
+        "page": "https://dir.indiamart.com/impcat/chicken-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/MC/GLADMIN-165561/chicken-pickle-125x125.jpg"
+      },
+      {
+        "name": "Garlic Pickle",
+        "page": "https://dir.indiamart.com/impcat/garlic-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/JM/QL/GLADMIN-11916/garlic-pickle-125x125.jpg"
+      },
+      {
+        "name": "Vegetable Pickle",
+        "page": "https://dir.indiamart.com/impcat/vegetable-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/HJ/GLADMIN-43872/vegetable-pickle-125x125.jpg"
+      },
+      {
+        "name": "Pickle Spices",
+        "page": "https://dir.indiamart.com/impcat/pickle-spices.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/HG/GLADMIN-163058/pickle-spices-125x125.jpg"
+      },
+      {
+        "name": "Sweet Lemon Pickle",
+        "page": "https://dir.indiamart.com/impcat/sweet-lemon-pickle.html",
+        "thumbnail": "http://4.imimg.com/data4/JU/QW/GLADMIN-184656/sweet-lemon-pickle-125x125.jpg"
+      },
+      {
+        "name": "Amla Pickle",
+        "page": "https://dir.indiamart.com/impcat/amla-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/HK/OA/GLADMIN-4750/amla-pickle-125x125.jpg"
+      },
+      {
+        "name": "Fish Pickle",
+        "page": "https://dir.indiamart.com/impcat/fish-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/WX/GLADMIN-156049/fish-pickle-125x125.jpg"
+      },
+      {
+        "name": "Kair Pickle",
+        "page": "https://dir.indiamart.com/impcat/kair-pickle.html",
+        "thumbnail": "http://5.imimg.com/data5/SL/WU/IH/GLADMIN-81955/kair-pickle-125x125.jpg"
+      },
+      {
+        "name": "Gherkin",
+        "page": "https://dir.indiamart.com/impcat/gherkin.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/DH/GLADMIN-80371/gherkin-125x125.jpg"
+      },
+      {
+        "name": "Prawn Pickle",
+        "page": "https://dir.indiamart.com/impcat/prawn-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/OK/GLADMIN-177561/prawn-pickle-125x125.jpg"
+      },
+      {
+        "name": "Tomato Pickle",
+        "page": "https://dir.indiamart.com/impcat/tomato-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/XA/GLADMIN-43874/tomato-pickle-125x125.jpg"
+      },
+      {
+        "name": "Ginger Pickles",
+        "page": "https://dir.indiamart.com/impcat/ginger-pickles.html",
+        "thumbnail": "http://5.imimg.com/data5/YV/EU/GLADMIN-2/ginger-pickles-125x125.jpg"
+      },
+      {
+        "name": "Pickled Cucumber",
+        "page": "https://dir.indiamart.com/impcat/pickled-cucumber.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/HC/GLADMIN-80796/pickled-cucumber-125x125.jpg"
+      },
+      {
+        "name": "Mushroom Pickle",
+        "page": "https://dir.indiamart.com/impcat/mushroom-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/LU/GLADMIN-5310/mushroom-pickle-125x125.jpg"
+      },
+      {
+        "name": "Gongura Pickle",
+        "page": "https://dir.indiamart.com/impcat/gongura-pickle.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/AA/GLADMIN-/gongura-pickle-125x125.jpg"
+      },
+      {
+        "name": "Pickled Gherkins",
+        "page": "https://dir.indiamart.com/impcat/pickled-gherkins.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/MJ/GLADMIN-42553/pickled-gherkins-125x125.jpg"
+      },
+      {
+        "name": "Jackfruit Pickle",
+        "page": "https://dir.indiamart.com/impcat/jackfruit-pickle.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/QQ/GLADMIN-/image-cache-data-meg-20jackfruit-jackfruit-pickle-1-800x800-125x125.jpg"
+      },
+      {
+        "name": "Carrot Pickle",
+        "page": "https://dir.indiamart.com/impcat/carrot-pickle.html",
+        "thumbnail": "http://4.imimg.com/data4/LK/MC/GLADMIN-180339/carrot-pickle-125x125.jpg"
+      },
+      {
+        "name": "Karonda Pickle",
+        "page": "https://dir.indiamart.com/impcat/karonda-pickle.html",
+        "thumbnail": "http://4.imimg.com/data4/TQ/EW/GLADMIN-185349/karonda-pickle-125x125.jpg"
+      },
+      {
+        "name": "Dry Fruit Pickle",
+        "page": "https://dir.indiamart.com/impcat/dry-fruit-pickle.html",
+        "thumbnail": "http://5.imimg.com/data5/DF/GD/CN/GLADMIN-68155/dry-fruit-pickle-125x125.jpg"
+      },
+      {
+        "name": "Mutton Pickle",
+        "page": "https://dir.indiamart.com/impcat/mutton-pickle.html",
+        "thumbnail": "http://5.imimg.com/data5/ML/JS/GLADMIN-2/mutton-pickle-jpg-125x125.jpeg"
+      },
+      {
+        "name": "Organic Pickle",
+        "page": "https://dir.indiamart.com/impcat/organic-pickle.html",
+        "thumbnail": "http://4.imimg.com/data4/CK/WL/GLADMIN-2/organic-pickle-125x125.jpg"
+      },
+      {
+        "name": "Bitter Gourd Pickle",
+        "page": "https://dir.indiamart.com/impcat/bitter-gourd-pickle.html",
+        "thumbnail": "http://4.imimg.com/data4/UN/WM/GLADMIN-180843/bitter-gourd-pickle-125x125.png"
+      },
+      {
+        "name": "Onion Pickle",
+        "page": "https://dir.indiamart.com/impcat/onion-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/JW/GLADMIN-150676/onion-pickle-125x125.jpg"
+      },
+      {
+        "name": "Lime Chilli Pickle",
+        "page": "https://dir.indiamart.com/impcat/lime-chilli-pickle.html",
+        "thumbnail": "http://4.imimg.com/data4/GT/YP/GLADMIN-185321/lime-chilli-pickle-125x125.png"
+      },
+      {
+        "name": "Dates Pickle",
+        "page": "https://dir.indiamart.com/impcat/dates-pickle.html",
+        "thumbnail": "http://4.imimg.com/data4/VV/VV/GLADMIN-/dates-pickle-125x125.jpg"
+      },
+      {
+        "name": "Coriander Pickle",
+        "page": "https://dir.indiamart.com/impcat/coriander-pickle.html",
+        "thumbnail": "http://5.imimg.com/data5/FX/GR/VK/GLADMIN-68155/coriander-pickle-125x125.jpg"
+      },
+      {
+        "name": "Aloe Vera Pickle",
+        "page": "https://dir.indiamart.com/impcat/aloe-vera-pickle.html",
+        "thumbnail": "http://3.imimg.com/data3/CG/DW/GLADMIN-166200/aloe-vera-pickle-125x125.jpg"
+      },
+      {
+        "name": "Pickled Mushroom",
+        "page": "https://dir.indiamart.com/impcat/pickled-mushroom.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/TM/GLADMIN-80798/pickled-mushroom-125x125.jpg"
+      },
+      {
+        "name": "Radish Pickle",
+        "page": "https://dir.indiamart.com/impcat/radish-pickle.html",
+        "thumbnail": "http://4.imimg.com/data4/PP/PP/GLADMIN-/radish-pickle-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Chutney",
+    "category_thumbnail": "http://5.imimg.com/data5/XX/XX/GLADMIN-/a-img923-5376-cnxuez-125x125.jpg",
+    "items": [
+      {
+        "name": "Pan Chutney",
+        "page": "https://dir.indiamart.com/impcat/pan-chutney.html",
+        "thumbnail": "http://5.imimg.com/data5/DC/KP/SV/GLADMIN-68087/pan-chutney-125x125.jpg"
+      },
+      {
+        "name": "Schezwan Chutney",
+        "page": "https://dir.indiamart.com/impcat/schezwan-chutney.html",
+        "thumbnail": "http://4.imimg.com/data4/EK/IP/GLADMIN-2/schezwan-chutney-125x125.jpg"
+      },
+      {
+        "name": "Garlic Chutney",
+        "page": "https://dir.indiamart.com/impcat/garlic-chutney.html",
+        "thumbnail": "http://4.imimg.com/data4/OO/YO/GLADMIN-178562/garlic-chutney-125x125.jpg"
+      },
+      {
+        "name": "Vegetable Chutney",
+        "page": "https://dir.indiamart.com/impcat/vegetable-chutney.html",
+        "thumbnail": "http://3.imimg.com/data3/WH/IP/GLADMIN-43794/vegetable-chutney-125x125.jpg"
+      },
+      {
+        "name": "Dry Chutney",
+        "page": "https://dir.indiamart.com/impcat/dry-chutney.html",
+        "thumbnail": "http://3.imimg.com/data3/SP/VY/GLADMIN-85260/dry-chutney-125x125.jpg"
+      },
+      {
+        "name": "Peanuts Chutney",
+        "page": "https://dir.indiamart.com/impcat/peanuts-chutney.html",
+        "thumbnail": "http://5.imimg.com/data5/RL/CQ/PJ/GLADMIN-56986/peanuts-chutney-125x125.jpg"
+      },
+      {
+        "name": "Tamarind Sauce",
+        "page": "https://dir.indiamart.com/impcat/tamarind-sauce.html",
+        "thumbnail": "http://5.imimg.com/data5/BE/VW/FS/GLADMIN-73621/tamarind-sauce-125x125.png"
+      },
+      {
+        "name": "Sweet Chutney",
+        "page": "https://dir.indiamart.com/impcat/sweet-chutney.html",
+        "thumbnail": "http://3.imimg.com/data3/OW/FJ/GLADMIN-81259/sweet-chutney-125x125.jpg"
+      },
+      {
+        "name": "Coconut Chutney",
+        "page": "https://dir.indiamart.com/impcat/coconut-chutney.html",
+        "thumbnail": "http://4.imimg.com/data4/CO/FS/GLADMIN-178563/coconut-chutney-125x125.jpg"
+      },
+      {
+        "name": "Sweet Mango Chutney",
+        "page": "https://dir.indiamart.com/impcat/sweet-mango-chutney.html",
+        "thumbnail": "http://4.imimg.com/data4/EK/RA/GLADMIN-180539/sweet-mango-chutney-125x125.jpg"
+      },
+      {
+        "name": "Mango Chutney",
+        "page": "https://dir.indiamart.com/impcat/mango-chutney.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/HU/GLADMIN-9820/mango-chutney-125x125.jpg"
+      },
+      {
+        "name": "Lemon Chutney",
+        "page": "https://dir.indiamart.com/impcat/lemon-chutney.html",
+        "thumbnail": "http://5.imimg.com/data5/VZ/YV/HQ/GLADMIN-68087/lemon-chutney-125x125.png"
+      },
+      {
+        "name": "Tomato Chutney",
+        "page": "https://dir.indiamart.com/impcat/tomato-chutney.html",
+        "thumbnail": "http://5.imimg.com/data5/RX/NZ/FX/GLADMIN-56986/tomato-chutney-125x125.jpg"
+      },
+      {
+        "name": "Amla Chutney",
+        "page": "https://dir.indiamart.com/impcat/amla-chutney.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/TT/GLADMIN-164095/amla-chutney-125x125.jpg"
+      },
+      {
+        "name": "Til Chutney",
+        "page": "https://dir.indiamart.com/impcat/til-chutney.html",
+        "thumbnail": "http://5.imimg.com/data5/ES/TL/GLADMIN-2/til-chutney-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Marmalades",
+    "category_thumbnail": "http://3.imimg.com/data3/DG/QM/GLADMIN-111374/marmalades-125x125.jpg",
+    "items": [
+      {
+        "name": "Gulkand",
+        "page": "https://dir.indiamart.com/impcat/gulkand.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/II/GLADMIN-44879/gulkand-125x125.jpg"
+      },
+      {
+        "name": "Amla Murabba",
+        "page": "https://dir.indiamart.com/impcat/amla-murabba.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/MR/GLADMIN-4748/amla-murabba-125x125.jpg"
+      },
+      {
+        "name": "Honey Amla",
+        "page": "https://dir.indiamart.com/impcat/amla-honey.html",
+        "thumbnail": "http://3.imimg.com/data3/PX/UL/GLADMIN-127382/amla-honey-125x125.jpg"
+      },
+      {
+        "name": "Apple Murabba",
+        "page": "https://dir.indiamart.com/impcat/apple-murabba.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/HE/GLADMIN-4883/apple-murabba-125x125.jpg"
+      },
+      {
+        "name": "Bel Murabba",
+        "page": "https://dir.indiamart.com/impcat/bel-murabba.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/LL/GLADMIN-139226/bel-murabba-125x125.jpg"
+      },
+      {
+        "name": "Carrot Murabba",
+        "page": "https://dir.indiamart.com/impcat/carrot-murabba.html",
+        "thumbnail": "http://5.imimg.com/data5/AS/JH/GLADMIN-2/57ac33ec10087img_8066-125x125.jpg"
+      },
+      {
+        "name": "Patanjali Amla Murabba",
+        "page": "https://dir.indiamart.com/impcat/patanjali-amla-murabba.html",
+        "thumbnail": "http://4.imimg.com/data4/GY/JB/GLADMIN-2/patanjali-amla-murabba-125x125.jpg"
+      },
+      {
+        "name": "Mango Murabba",
+        "page": "https://dir.indiamart.com/impcat/mango-murabba.html",
+        "thumbnail": "http://3.imimg.com/data3/YV/LY/GLADMIN-177838/mango-murabba-125x125.jpg"
+      },
+      {
+        "name": "Harar Murabba",
+        "page": "https://dir.indiamart.com/impcat/harar-murabba.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/WI/GLADMIN-166796/harar-murabba-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Jam",
+    "category_thumbnail": "http://5.imimg.com/data5/IH/AI/GLADMIN-2/jam-125x125.jpg",
+    "items": [
+      {
+        "name": "Mixed Fruit Jam",
+        "page": "https://dir.indiamart.com/impcat/mixed-fruit-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/KV/LM/GLADMIN-148106/mixed-fruit-jam-125x125.jpg"
+      },
+      {
+        "name": "Fruit Jam",
+        "page": "https://dir.indiamart.com/impcat/fruit-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/MQ/GW/GLADMIN-6618/fruit-jam-125x125.jpg"
+      },
+      {
+        "name": "Mango Jam",
+        "page": "https://dir.indiamart.com/impcat/mango-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/BM/GN/GLADMIN-148105/mango-jam-125x125.jpg"
+      },
+      {
+        "name": "Apple Jam",
+        "page": "https://dir.indiamart.com/impcat/apple-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/VB/GLADMIN-22804/apple-jam-125x125.jpg"
+      },
+      {
+        "name": "Fruit Pastes",
+        "page": "https://dir.indiamart.com/impcat/fruit-pastes.html",
+        "thumbnail": "http://3.imimg.com/data3/RF/VA/GLADMIN-29041/fruit-pastes-125x125.jpg"
+      },
+      {
+        "name": "Pineapple Jam",
+        "page": "https://dir.indiamart.com/impcat/pineapple-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/QP/WL/GLADMIN-148107/pineapple-jam-125x125.jpg"
+      },
+      {
+        "name": "Apricot Jam",
+        "page": "https://dir.indiamart.com/impcat/apricot-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/VP/TI/GLADMIN-22357/apricot-jam-125x125.jpg"
+      },
+      {
+        "name": "Strawberry Jam",
+        "page": "https://dir.indiamart.com/impcat/strawberry-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/AF/GLADMIN-38758/strawberry-jam-125x125.jpg"
+      },
+      {
+        "name": "Amla Jam",
+        "page": "https://dir.indiamart.com/impcat/amla-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/JQ/GLADMIN-70014/amla-jam-125x125.jpg"
+      },
+      {
+        "name": "Organic Jam",
+        "page": "https://dir.indiamart.com/impcat/organic-jam.html",
+        "thumbnail": "http://5.imimg.com/data5/YX/MS/MB/GLADMIN-65832/organic-jam-125x125.jpg"
+      },
+      {
+        "name": "Cherry Jam",
+        "page": "https://dir.indiamart.com/impcat/cherry-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/EP/GLADMIN-24022/cherry-jam-125x125.jpg"
+      },
+      {
+        "name": "Blackberry Jam",
+        "page": "https://dir.indiamart.com/impcat/blackberry-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/JX/GLADMIN-23445/blackberry-jam-125x125.jpg"
+      },
+      {
+        "name": "Raspberry Jam",
+        "page": "https://dir.indiamart.com/impcat/raspberry-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/PW/GLADMIN-36847/raspberry-jam-125x125.jpg"
+      },
+      {
+        "name": "Grape Jam",
+        "page": "https://dir.indiamart.com/impcat/grape-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/CV/QA/GLADMIN-29757/grape-jam-125x125.jpg"
+      },
+      {
+        "name": "Peach Jam",
+        "page": "https://dir.indiamart.com/impcat/peach-jam.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/IM/GLADMIN-34629/peach-jam-125x125.jpg"
+      }
+    ]
+  }
+]

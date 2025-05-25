@@ -1,0 +1,575 @@
+[
+  {
+    "category_name": "Metal Scrap",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SE/EA/AG/92368/metal-scrap-125x125.jpg",
+    "items": [
+      {
+        "name": "Aluminium Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminium-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MR/QY/LX/92368/aluminium-scrap-125x125.jpg"
+      },
+      {
+        "name": "Copper Scrap",
+        "page": "https://dir.indiamart.com/impcat/copper-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/QJ/KV/PK/92368/copper-scrap-125x125.jpg"
+      },
+      {
+        "name": "MS Scraps",
+        "page": "https://dir.indiamart.com/impcat/ms-scraps.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MV/VG/AP/92368/ms-scraps-125x125.jpg"
+      },
+      {
+        "name": "Electronic Scrap",
+        "page": "https://dir.indiamart.com/impcat/electronic-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/KR/PD/ER/92368/electronic-scrap-125x125.jpg"
+      },
+      {
+        "name": "Motor Scrap",
+        "page": "https://dir.indiamart.com/impcat/motor-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/XL/TT/NZ/92368/motor-scrap-125x125.jpg"
+      },
+      {
+        "name": "Electrical Scrap",
+        "page": "https://dir.indiamart.com/impcat/electrical-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/XL/LS/GLADMIN-107077/electrical-scrap-125x125.jpg"
+      },
+      {
+        "name": "Zinc Scrap",
+        "page": "https://dir.indiamart.com/impcat/zinc-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/OW/NB/GLADMIN-2797/zinc-scrap-125x125.jpg"
+      },
+      {
+        "name": "Steel Scrap",
+        "page": "https://dir.indiamart.com/impcat/steel-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/NE/AS/YP/86648/steel-scrap-125x125.jpg"
+      },
+      {
+        "name": "Boring Scrap",
+        "page": "https://dir.indiamart.com/impcat/boring-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/YC/VI/GLADMIN-167392/boring-scrap-125x125.jpg"
+      },
+      {
+        "name": "Compressor Scrap",
+        "page": "https://dir.indiamart.com/impcat/compressor-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/EO/GLADMIN-136520/compressor-scrap-125x125.jpg"
+      },
+      {
+        "name": "Fridge Compressor Scrap",
+        "page": "https://dir.indiamart.com/impcat/fridge-compressor-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/DY/GLADMIN-158334/fridge-compressor-scrap-125x125.jpg"
+      },
+      {
+        "name": "Ferrous Metal Scrap",
+        "page": "https://dir.indiamart.com/impcat/ferrous-metal-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/OS/GLADMIN-138775/ferrous-metal-scrap-125x125.jpg"
+      },
+      {
+        "name": "Transformer Scrap",
+        "page": "https://dir.indiamart.com/impcat/transformer-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/VP/GLADMIN-147311/transformer-scrap-125x125.jpg"
+      },
+      {
+        "name": "Bearing Scrap",
+        "page": "https://dir.indiamart.com/impcat/bearing-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/HR/GLADMIN-142098/bearing-scrap-125x125.jpg"
+      },
+      {
+        "name": "Non Ferrous Metal Scraps",
+        "page": "https://dir.indiamart.com/impcat/non-ferrous-metal-scraps.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/ED/GLADMIN-7395/non-ferrous-metal-scraps-125x125.jpg"
+      },
+      {
+        "name": "Metal Dross",
+        "page": "https://dir.indiamart.com/impcat/metal-dross.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/EI/GLADMIN-148316/metal-dross-125x125.jpg"
+      },
+      {
+        "name": "Busheling Scrap",
+        "page": "https://dir.indiamart.com/impcat/busheling-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/RM/GLADMIN-122651/busheling-scrap-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Aluminium Scrap",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MR/QY/LX/92368/aluminium-scrap-125x125.jpg",
+    "items": [
+      {
+        "name": "Aluminum UBC Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminum-ubc-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/YK/OL/JU/92368/aluminum-ubc-scrap-125x125.png"
+      },
+      {
+        "name": "Aluminum Wire Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminum-wire-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/WZ/VZ/UX/92368/aluminum-wire-scrap-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Dross",
+        "page": "https://dir.indiamart.com/impcat/aluminium-dross.html",
+        "thumbnail": "http://3.imimg.com/data3/ME/ID/GLADMIN-101944/aluminium-dross-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Extrusion Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminium-extrusion-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/IO/GLADMIN-132032/aluminium-extrusion-scrap-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Foil Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminium-foil-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/426513999/LO/DI/HA/103225/aluminium-foil-scrap-125x125.png"
+      },
+      {
+        "name": "Aluminium Wheel Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminium-wheel-scrap.html",
+        "thumbnail": "http://4.imimg.com/data4/YK/EB/GLADMIN-2/aluminium-wheel-scrap-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Boring Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminium-boring-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/HH/GLADMIN-154677/aluminium-boring-scrap-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Casting Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminum-casting-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/GI/GG/GLADMIN-154218/aluminum-casting-scrap-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Plates Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminum-plates-scrap.html",
+        "thumbnail": "http://4.imimg.com/data4/IX/SB/GLADMIN-178258/aluminum-plates-scrap-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Turnings",
+        "page": "https://dir.indiamart.com/impcat/aluminum-turnings.html",
+        "thumbnail": "http://3.imimg.com/data3/WI/PX/GLADMIN-137255/aluminum-turnings-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Tense Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminum-tense-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/UJ/GLADMIN-158199/aluminum-tense-scrap-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Ash",
+        "page": "https://dir.indiamart.com/impcat/aluminium-ash.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/JY/GLADMIN-137262/aluminium-ash-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Sheet Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminium-sheet-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/442988644/JP/RV/QX/36235/ass-125x125.jpg"
+      },
+      {
+        "name": "Acsr Conductor Scrap",
+        "page": "https://dir.indiamart.com/impcat/acsr-conductor-scrap.html",
+        "thumbnail": "http://4.imimg.com/data4/HA/VR/GLADMIN-178440/acsr-conductor-scrap-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Bronze Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminum-bronze-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/NR/DB/GLADMIN-138575/aluminum-bronze-scrap-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Coil Scrap",
+        "page": "https://dir.indiamart.com/impcat/aluminium-coil-scraps.html",
+        "thumbnail": "http://4.imimg.com/data4/DV/LG/GLADMIN-2/aluminium-coil-scraps-125x125.jpg"
+      },
+      {
+        "name": "Non Ferrous Aluminium Scrap",
+        "page": "https://dir.indiamart.com/impcat/non-ferrous-aluminium-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/AA/IU/GLADMIN-142084/non-ferrous-aluminium-scrap-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Scrap Taint Tabor",
+        "page": "https://dir.indiamart.com/impcat/aluminium-scrap-taint-tabor.html",
+        "thumbnail": "http://3.imimg.com/data3/BI/MB/GLADMIN-177093/aluminium-scrap-taint-tabor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Non Ferrous Metal Scraps",
+    "category_thumbnail": "http://3.imimg.com/data3/XK/ED/GLADMIN-7395/non-ferrous-metal-scraps-125x125.jpg",
+    "items": [
+      {
+        "name": "Brass Scrap",
+        "page": "https://dir.indiamart.com/impcat/brass-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TF/UP/WI/92368/brass-scrap-125x125.jpg"
+      },
+      {
+        "name": "Computer Scrap",
+        "page": "https://dir.indiamart.com/impcat/computer-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/UG/AY/GLADMIN-104958/computer-scrap-125x125.jpg"
+      },
+      {
+        "name": "Car Scrap",
+        "page": "https://dir.indiamart.com/impcat/car-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/II/XQ/IB/92368/car-scrap-125x125.jpg"
+      },
+      {
+        "name": "Carbide Scrap",
+        "page": "https://dir.indiamart.com/impcat/carbide-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/HD/GLADMIN-134140/carbide-scrap-125x125.jpg"
+      },
+      {
+        "name": "Automobile Scrap",
+        "page": "https://dir.indiamart.com/impcat/automobile-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/XN/XX/IW/92368/automobile-scrap-125x125.jpg"
+      },
+      {
+        "name": "CRC Metal Scrap",
+        "page": "https://dir.indiamart.com/impcat/crc-metal-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/KS/XK/GLADMIN-164969/crc-metal-scrap-125x125.jpg"
+      },
+      {
+        "name": "CRC Sheet Metal Scrap",
+        "page": "https://dir.indiamart.com/impcat/crc-sheet-metal-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/VW/RY/GLADMIN-157721/crc-sheet-metal-scrap-125x125.jpg"
+      },
+      {
+        "name": "AC Scrap",
+        "page": "https://dir.indiamart.com/impcat/ac-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/QA/SQ/XX/86648/ac-scrap-125x125.jpg"
+      },
+      {
+        "name": "Heavy Metal Scraps",
+        "page": "https://dir.indiamart.com/impcat/heavy-metal-scraps.html",
+        "thumbnail": "http://3.imimg.com/data3/VF/YO/GLADMIN-30250/heavy-metal-scraps-125x125.jpg"
+      },
+      {
+        "name": "PCB Scrap",
+        "page": "https://dir.indiamart.com/impcat/pcb-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/CL/KX/GLADMIN-159515/pcb-scrap-125x125.jpg"
+      },
+      {
+        "name": "Nickel Scrap",
+        "page": "https://dir.indiamart.com/impcat/nickel-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/XD/GLADMIN-21002/nickel-scrap-125x125.jpg"
+      },
+      {
+        "name": "Brass Honey Scraps",
+        "page": "https://dir.indiamart.com/impcat/brass-honey-scraps.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/CP/GLADMIN-139918/brass-honey-scraps-125x125.jpg"
+      },
+      {
+        "name": "Lead Scrap",
+        "page": "https://dir.indiamart.com/impcat/lead-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/DB/ML/GLADMIN-11386/lead-scrap-125x125.jpg"
+      },
+      {
+        "name": "Tin Scrap",
+        "page": "https://dir.indiamart.com/impcat/tin-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/HB/GLADMIN-2448/tin-scrap-125x125.jpg"
+      },
+      {
+        "name": "Gun Metal Scrap",
+        "page": "https://dir.indiamart.com/impcat/gun-metal-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/WK/GLADMIN-151106/gun-metal-scrap-125x125.jpg"
+      },
+      {
+        "name": "CRCA Scrap",
+        "page": "https://dir.indiamart.com/impcat/crca-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/LL/GLADMIN-126129/crca-scrap-125x125.jpg"
+      },
+      {
+        "name": "UBC Scrap",
+        "page": "https://dir.indiamart.com/impcat/ubc-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/EU/GE/GLADMIN-145675/ubc-scrap-125x125.jpg"
+      },
+      {
+        "name": "Silver Scrap",
+        "page": "https://dir.indiamart.com/impcat/silver-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/MW/DB/GLADMIN-141624/silver-scrap-125x125.jpg"
+      },
+      {
+        "name": "Fridge Scrap",
+        "page": "https://dir.indiamart.com/impcat/fridge-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/MY/GLADMIN-132884/fridge-scrap-125x125.jpg"
+      },
+      {
+        "name": "Bronze Scrap",
+        "page": "https://dir.indiamart.com/impcat/bronze-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/KC/GLADMIN-159071/bronze-scrap-125x125.jpg"
+      },
+      {
+        "name": "Tungsten Scrap",
+        "page": "https://dir.indiamart.com/impcat/tungsten-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/HR/UY/GLADMIN-21003/tungsten-scrap-125x125.jpg"
+      },
+      {
+        "name": "Titanium Scrap",
+        "page": "https://dir.indiamart.com/impcat/titanium-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/FK/GLADMIN-21004/titanium-scrap-125x125.jpg"
+      },
+      {
+        "name": "Inconel Scrap",
+        "page": "https://dir.indiamart.com/impcat/inconel-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/XR/GLADMIN-152234/inconel-scrap-125x125.jpg"
+      },
+      {
+        "name": "Gold Scrap",
+        "page": "https://dir.indiamart.com/impcat/gold-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/RI/HK/GLADMIN-28811/gold-scrap-125x125.jpg"
+      },
+      {
+        "name": "Magnesium Scrap",
+        "page": "https://dir.indiamart.com/impcat/magnesium-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/IT/XJ/GLADMIN-113791/magnesium-scrap-125x125.jpg"
+      },
+      {
+        "name": "Scrap Ships",
+        "page": "https://dir.indiamart.com/impcat/scrap-ships.html",
+        "thumbnail": "http://3.imimg.com/data3/PU/KY/GLADMIN-144927/scrap-ships-125x125.jpg"
+      },
+      {
+        "name": "Silicon Scrap",
+        "page": "https://dir.indiamart.com/impcat/silicon-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/CV/LE/GLADMIN-101945/silicon-scrap-125x125.jpg"
+      },
+      {
+        "name": "Manganese Scrap",
+        "page": "https://dir.indiamart.com/impcat/manganese-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/VC/PK/GLADMIN-138852/manganese-scrap-125x125.jpg"
+      },
+      {
+        "name": "Cobalt Scrap",
+        "page": "https://dir.indiamart.com/impcat/cobalt-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/LS/TC/GLADMIN-139666/cobalt-scrap-125x125.jpg"
+      },
+      {
+        "name": "Tin Metal Scrap",
+        "page": "https://dir.indiamart.com/impcat/tin-metal-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/OB/SC/GLADMIN-144450/tin-metal-scrap-125x125.jpg"
+      },
+      {
+        "name": "Manganese Metal Flakes",
+        "page": "https://dir.indiamart.com/impcat/manganese-metal-flakes.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/WM/GLADMIN-149980/manganese-metal-flakes-125x125.jpg"
+      },
+      {
+        "name": "Ship Breaking Metal Scrap",
+        "page": "https://dir.indiamart.com/impcat/ship-breaking-metal-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/HT/GLADMIN-158537/ship-breaking-metal-scrap-125x125.jpg"
+      },
+      {
+        "name": "Lead Ash",
+        "page": "https://dir.indiamart.com/impcat/lead-ash.html",
+        "thumbnail": "http://3.imimg.com/data3/KX/YQ/GLADMIN-30530/lead-ash-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ferrous Metal Scrap",
+    "category_thumbnail": "http://3.imimg.com/data3/LR/OS/GLADMIN-138775/ferrous-metal-scrap-125x125.jpg",
+    "items": [
+      {
+        "name": "Iron Scrap",
+        "page": "https://dir.indiamart.com/impcat/iron-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DS/LK/DB/92368/iron-scrap-125x125.jpg"
+      },
+      {
+        "name": "Cast Iron Scraps",
+        "page": "https://dir.indiamart.com/impcat/cast-iron-scraps.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/VR/SO/CK/92368/cast-iron-scraps-125x125.jpg"
+      },
+      {
+        "name": "Rail Scrap",
+        "page": "https://dir.indiamart.com/impcat/rail-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/RP/GLADMIN-136924/rail-scrap-125x125.jpg"
+      },
+      {
+        "name": "Radiator Scrap",
+        "page": "https://dir.indiamart.com/impcat/radiator-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/PS/GLADMIN-154483/radiator-scrap-125x125.jpg"
+      },
+      {
+        "name": "GI Scrap",
+        "page": "https://dir.indiamart.com/impcat/gi-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/312912635/QV/GP/AX/89350/gi-scrap-125x125.jpeg"
+      },
+      {
+        "name": "Ferrous Scrap",
+        "page": "https://dir.indiamart.com/impcat/ferrous-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/MR/FG/GLADMIN-6310/ferrous-scrap-125x125.jpg"
+      },
+      {
+        "name": "Foundry Scrap",
+        "page": "https://dir.indiamart.com/impcat/foundry-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/QG/GLADMIN-138776/foundry-scrap-125x125.jpg"
+      },
+      {
+        "name": "Cast Iron Borings",
+        "page": "https://dir.indiamart.com/impcat/cast-iron-borings.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/QV/GLADMIN-139246/cast-iron-borings-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Copper Scrap",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/QJ/KV/PK/92368/copper-scrap-125x125.jpg",
+    "items": [
+      {
+        "name": "Bare Copper Wire Scrap",
+        "page": "https://dir.indiamart.com/impcat/copper-wire-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/MZ/XO/US/92368/copper-wire-scrap-125x125.jpg"
+      },
+      {
+        "name": "Copper Cable Scrap",
+        "page": "https://dir.indiamart.com/impcat/copper-cable-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/DW/GLADMIN-132155/copper-cable-scrap-125x125.jpg"
+      },
+      {
+        "name": "Millberry Copper Scrap",
+        "page": "https://dir.indiamart.com/impcat/millberry-copper-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/XT/GLADMIN-156729/millberry-copper-scrap-125x125.jpg"
+      },
+      {
+        "name": "Copper Pipe Scrap",
+        "page": "https://dir.indiamart.com/impcat/copper-pipe-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/RP/GLADMIN-147189/copper-pipe-scrap-125x125.jpg"
+      },
+      {
+        "name": "Heavy Melting Copper Scrap",
+        "page": "https://dir.indiamart.com/impcat/heavy-melting-copper-scrap.html",
+        "thumbnail": "http://4.imimg.com/data4/UG/JI/GLADMIN-148821/heavy-melting-copper-scrap-125x125.jpg"
+      },
+      {
+        "name": "Copper Plate Scrap",
+        "page": "https://dir.indiamart.com/impcat/copper-plate-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/QR/GLADMIN-155476/copper-plate-scrap-125x125.jpg"
+      },
+      {
+        "name": "Copper Nickel Scrap",
+        "page": "https://dir.indiamart.com/impcat/copper-nickle-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/AU/GLADMIN-147188/copper-nickle-scrap-125x125.jpg"
+      },
+      {
+        "name": "Copper Sheet Scrap",
+        "page": "https://dir.indiamart.com/impcat/copper-sheet-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/YT/GLADMIN-165637/copper-sheet-scrap-125x125.jpg"
+      },
+      {
+        "name": "Copper Ash",
+        "page": "https://dir.indiamart.com/impcat/copper-ash.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/JQ/GLADMIN-26031/copper-ash-125x125.jpg"
+      },
+      {
+        "name": "Nickel Copper Alloy Scrap",
+        "page": "https://dir.indiamart.com/impcat/nickle-copper-alloy-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/FW/GLADMIN-167086/nickle-copper-alloy-scrap-125x125.jpg"
+      },
+      {
+        "name": "Copper Cathode Scrap",
+        "page": "https://dir.indiamart.com/impcat/copper-cathode-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/GI/XS/GLADMIN-160148/copper-cathode-scrap-125x125.jpg"
+      },
+      {
+        "name": "Copper Turnings",
+        "page": "https://dir.indiamart.com/impcat/copper-turnings.html",
+        "thumbnail": "http://3.imimg.com/data3/PW/QB/GLADMIN-25912/copper-turnings-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "MS Scraps",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MV/VG/AP/92368/ms-scraps-125x125.jpg",
+    "items": [
+      {
+        "name": "HMS Scrap",
+        "page": "https://dir.indiamart.com/impcat/hms-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/BY/GLADMIN-10653/hms-scrap-125x125.jpg"
+      },
+      {
+        "name": "MS Melting Scrap",
+        "page": "https://dir.indiamart.com/impcat/ms-melting-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/TG/OL/GLADMIN-150664/ms-melting-scrap-125x125.jpg"
+      },
+      {
+        "name": "MS Turning Scrap",
+        "page": "https://dir.indiamart.com/impcat/ms-turning-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/PN/GLADMIN-152880/ms-turning-scrap-125x125.jpg"
+      },
+      {
+        "name": "MS Pipe Scrap",
+        "page": "https://dir.indiamart.com/impcat/ms-pipe-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/CL/GLADMIN-160353/ms-pipe-scrap-125x125.jpg"
+      },
+      {
+        "name": "LMS Scrap",
+        "page": "https://dir.indiamart.com/impcat/lms-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/NA/GLADMIN-140359/lms-scrap-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Steel Scrap",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/NE/AS/YP/86648/steel-scrap-125x125.jpg",
+    "items": [
+      {
+        "name": "Stainless Steel Scrap",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TA/GM/CW/92368/stainless-steel-scrap-125x125.jpg"
+      },
+      {
+        "name": "Alloy Steel Scrap",
+        "page": "https://dir.indiamart.com/impcat/alloy-steel-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/AX/IV/GLADMIN-21431/alloy-steel-scrap-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Turning Scrap",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-turning-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/WE/AB/GLADMIN-157475/stainless-steel-turning-scrap-125x125.jpg"
+      },
+      {
+        "name": "Steel Tyre Wire Scrap",
+        "page": "https://dir.indiamart.com/impcat/steel-tire-wire-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/PC/OW/GLADMIN-161317/steel-tire-wire-scrap-125x125.jpg"
+      },
+      {
+        "name": "High Speed Steel Scraps",
+        "page": "https://dir.indiamart.com/impcat/high-speed-steel-scraps.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/EJ/GLADMIN-163976/high-speed-steel-scraps-125x125.jpg"
+      },
+      {
+        "name": "Carbon Steel Scrap",
+        "page": "https://dir.indiamart.com/impcat/carbon-steel-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/TV/GLADMIN-154903/carbon-steel-scrap-125x125.jpg"
+      },
+      {
+        "name": "Melting Steel Scrap",
+        "page": "https://dir.indiamart.com/impcat/melting-steel-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/RF/EU/GLADMIN-122418/melting-steel-scrap-125x125.jpg"
+      },
+      {
+        "name": "Super Duplex Steel Scrap",
+        "page": "https://dir.indiamart.com/impcat/super-duplex-steel-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/NW/GLADMIN-2/super-duplex-steel-scrap-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Zinc Scrap",
+    "category_thumbnail": "http://3.imimg.com/data3/OW/NB/GLADMIN-2797/zinc-scrap-125x125.jpg",
+    "items": [
+      {
+        "name": "Zinc Ash",
+        "page": "https://dir.indiamart.com/impcat/zinc-ash.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/IA/GLADMIN-41570/zinc-ash-125x125.jpg"
+      },
+      {
+        "name": "Zinc Dross",
+        "page": "https://dir.indiamart.com/impcat/zinc-dross.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/SX/GLADMIN-2790/zinc-dross-125x125.jpg"
+      },
+      {
+        "name": "Zinc Dust",
+        "page": "https://dir.indiamart.com/impcat/zinc-dust.html",
+        "thumbnail": "http://3.imimg.com/data3/WG/CV/GLADMIN-41579/zinc-dust-125x125.jpg"
+      },
+      {
+        "name": "Zinc Die Cast Scrap",
+        "page": "https://dir.indiamart.com/impcat/zinc-die-cast-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/XE/GLADMIN-157680/zinc-die-cast-scrap-125x125.jpg"
+      }
+    ]
+  }
+]

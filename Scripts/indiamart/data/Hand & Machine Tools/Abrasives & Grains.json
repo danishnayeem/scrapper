@@ -1,0 +1,964 @@
+[
+  {
+    "category_name": "Abrasive Discs",
+    "category_thumbnail": "http://3.imimg.com/data3/IQ/AS/GLADMIN-501/abrasive-discs-125x125.jpg",
+    "items": [
+      {
+        "name": "Flap Disc",
+        "page": "https://dir.indiamart.com/impcat/flap-disc.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/VE/GLADMIN-28487/flap-disc-125x125.jpg"
+      },
+      {
+        "name": "Sanding Discs",
+        "page": "https://dir.indiamart.com/impcat/sanding-discs.html",
+        "thumbnail": "http://3.imimg.com/data3/PH/AH/GLADMIN-36756/sanding-discs-125x125.jpg"
+      },
+      {
+        "name": "Fibre Disc",
+        "page": "https://dir.indiamart.com/impcat/fibre-discs.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/XJ/GLADMIN-27437/fibre-discs-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Paper Disc",
+        "page": "https://dir.indiamart.com/impcat/abrasive-paper-disc.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/TL/GLADMIN-50659/abrasive-paper-disc-125x125.jpg"
+      },
+      {
+        "name": "Grinding Discs",
+        "page": "https://dir.indiamart.com/impcat/grinding-discs.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/11/IH/DR/TW/80165/grinding-discs-125x125.jpg"
+      },
+      {
+        "name": "Velcro Disc",
+        "page": "https://dir.indiamart.com/impcat/velcro-disc.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/441589446/UR/EK/HW/103610/screenshot-1-125x125.png"
+      },
+      {
+        "name": "PSA Abrasive Disc",
+        "page": "https://dir.indiamart.com/impcat/psa-abrasive-disc.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/11/GK/ER/SG/80165/psa-abrasive-disc-125x125.jpg"
+      },
+      {
+        "name": "Surface Conditioning Discs",
+        "page": "https://dir.indiamart.com/impcat/surface-conditioning-discs.html",
+        "thumbnail": "http://3.imimg.com/data3/HH/LB/GLADMIN-39127/surface-conditioning-discs-125x125.jpg"
+      },
+      {
+        "name": "Cloth Disc",
+        "page": "https://dir.indiamart.com/impcat/cloth-disc.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/SS/GLADMIN-89525/cloth-disc-125x125.jpg"
+      },
+      {
+        "name": "PSA Paper Discs",
+        "page": "https://dir.indiamart.com/impcat/psa-paper-discs.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/CV/GLADMIN-144975/psa-paper-discs-125x125.jpg"
+      },
+      {
+        "name": "Film Disc",
+        "page": "https://dir.indiamart.com/impcat/film-backed-discs.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/LU/GLADMIN-138313/film-backed-discs-125x125.jpg"
+      },
+      {
+        "name": "Fiberglass Discs",
+        "page": "https://dir.indiamart.com/impcat/fiberglass-discs.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/VR/GLADMIN-42431/fiberglass-discs-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Abrasive Wheels",
+    "category_thumbnail": "http://3.imimg.com/data3/OY/KQ/GLADMIN-329/abrasive-wheels-125x125.jpg",
+    "items": [
+      {
+        "name": "Buffing Wheels",
+        "page": "https://dir.indiamart.com/impcat/buffing-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/HF/GLADMIN-23635/buffing-wheels-125x125.jpg"
+      },
+      {
+        "name": "Flap Wheels",
+        "page": "https://dir.indiamart.com/impcat/flap-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/LV/WV/GLADMIN-28489/flap-wheels-125x125.jpg"
+      },
+      {
+        "name": "Cotton Buffing Wheel",
+        "page": "https://dir.indiamart.com/impcat/cotton-buffing-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/SC/PR/GLADMIN-146151/cotton-buffing-wheel-125x125.jpg"
+      },
+      {
+        "name": "Non Woven Abrasives",
+        "page": "https://dir.indiamart.com/impcat/non-woven-abrasives.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/BF/GLADMIN-138315/non-woven-abrasives-125x125.jpg"
+      },
+      {
+        "name": "Coir Fibre Wheel",
+        "page": "https://dir.indiamart.com/impcat/coir-fibre-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/YA/VU/KL/GLADMIN-68087/coir-fibre-wheel-125x125.jpeg"
+      },
+      {
+        "name": "Finishing Wheels",
+        "page": "https://dir.indiamart.com/impcat/finishing-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/IE/GLADMIN-27538/finishing-wheels-125x125.jpg"
+      },
+      {
+        "name": "Grooving Wheel",
+        "page": "https://dir.indiamart.com/impcat/grooving-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/LL/GLADMIN-94638/grooving-wheel-125x125.jpg"
+      },
+      {
+        "name": "Bonded Wheels",
+        "page": "https://dir.indiamart.com/impcat/bonded-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/ML/GLADMIN-126290/bonded-wheels-125x125.jpg"
+      },
+      {
+        "name": "Sisal Buffing Wheels",
+        "page": "https://dir.indiamart.com/impcat/sisal-buffing-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/VG/EI/MY-2/sisal-buffing-wheels-125x125.jpg"
+      },
+      {
+        "name": "Convolute Wheel",
+        "page": "https://dir.indiamart.com/impcat/convolute-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/NC/GLADMIN-94635/convolute-wheel-125x125.jpg"
+      },
+      {
+        "name": "Chamfering Wheel",
+        "page": "https://dir.indiamart.com/impcat/chamfering-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/NQ/GLADMIN-/english-wp-content-uploads-shave10-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Abrasive Sheets",
+    "category_thumbnail": "http://3.imimg.com/data3/TV/SW/GLADMIN-328/abrasive-sheets-125x125.jpg",
+    "items": [
+      {
+        "name": "Sandpaper",
+        "page": "https://dir.indiamart.com/impcat/sandpaper.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/YS/GLADMIN-36760/sandpaper-125x125.jpg"
+      },
+      {
+        "name": "Waterproof Abrasive Paper",
+        "page": "https://dir.indiamart.com/impcat/water-proof-abrasive-paper.html",
+        "thumbnail": "http://4.imimg.com/data4/WM/GQ/GLADMIN-179075/water-proof-abrasive-paper-125x125.jpg"
+      },
+      {
+        "name": "Emery Paper",
+        "page": "https://dir.indiamart.com/impcat/emery-paper.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/PG/GLADMIN-20671/emery-paper-125x125.jpg"
+      },
+      {
+        "name": "Silicon Carbide Paper",
+        "page": "https://dir.indiamart.com/impcat/silicon-carbide-paper.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/GK/GLADMIN-37854/silicon-carbide-paper-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Paper",
+        "page": "https://dir.indiamart.com/impcat/abrasive-paper.html",
+        "thumbnail": "http://3.imimg.com/data3/OV/RB/GLADMIN-21524/abrasive-paper-125x125.jpg"
+      },
+      {
+        "name": "Polish Papers",
+        "page": "https://dir.indiamart.com/impcat/polish-papers.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/OL/GLADMIN-119031/polish-papers-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Sleeve",
+        "page": "https://dir.indiamart.com/impcat/abrasive-sleeve.html",
+        "thumbnail": "http://3.imimg.com/data3/KQ/CM/GLADMIN-89523/abrasive-sleeve-125x125.jpg"
+      },
+      {
+        "name": "Flint Paper",
+        "page": "https://dir.indiamart.com/impcat/flint-paper.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/RW/GLADMIN-138420/flint-paper-125x125.jpg"
+      },
+      {
+        "name": "Latex Paper",
+        "page": "https://dir.indiamart.com/impcat/latex-paper.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/KL/GLADMIN-30470/latex-paper-125x125.jpg"
+      },
+      {
+        "name": "Sanding Sleeves",
+        "page": "https://dir.indiamart.com/impcat/sanding-sleeves.html",
+        "thumbnail": "http://3.imimg.com/data3/TU/YG/GLADMIN-55046/sanding-sleeves-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Oxide Paper",
+        "page": "https://dir.indiamart.com/impcat/aluminium-oxide-paper.html",
+        "thumbnail": "http://3.imimg.com/data3/YX/NW/GLADMIN-138307/aluminium-oxide-paper-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Polishing Abrasives",
+    "category_thumbnail": "http://3.imimg.com/data3/PJ/IY/GLADMIN-7088/polishing-abrasives-125x125.jpg",
+    "items": [
+      {
+        "name": "Diamond Polishing Pad",
+        "page": "https://dir.indiamart.com/impcat/diamond-polishing-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/WR/GLADMIN-89531/diamond-polishing-pad-125x125.jpg"
+      },
+      {
+        "name": "Polishing Stones",
+        "page": "https://dir.indiamart.com/impcat/polishing-stones.html",
+        "thumbnail": "http://3.imimg.com/data3/IM/DP/GLADMIN-35346/polishing-stones-125x125.jpg"
+      },
+      {
+        "name": "Cloth Buff",
+        "page": "https://dir.indiamart.com/impcat/cloth-buff.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/JX/GLADMIN-138309/cloth-buff-125x125.jpg"
+      },
+      {
+        "name": "Polishing Cloths",
+        "page": "https://dir.indiamart.com/impcat/polishing-cloths.html",
+        "thumbnail": "http://3.imimg.com/data3/IH/UU/GLADMIN-35344/polishing-cloths-125x125.jpg"
+      },
+      {
+        "name": "Stone Polishing Pad",
+        "page": "https://dir.indiamart.com/impcat/stone-polishing-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/AX/GLADMIN-89551/stone-polishing-pad-125x125.jpg"
+      },
+      {
+        "name": "Felt Polishing Wheels",
+        "page": "https://dir.indiamart.com/impcat/felt-polishing-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/PJ/GLADMIN-166121/felt-polishing-wheels-125x125.jpg"
+      },
+      {
+        "name": "Marble Polishing Abrasive",
+        "page": "https://dir.indiamart.com/impcat/marble-polishing-abrasive.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/LY/GLADMIN-89539/marble-polishing-abrasive-125x125.jpg"
+      },
+      {
+        "name": "Glass Polishing Wheels",
+        "page": "https://dir.indiamart.com/impcat/glass-polishing-wheels.html",
+        "thumbnail": "http://4.imimg.com/data4/XB/WM/GLADMIN-180944/glass-polishing-wheels-125x125.jpg"
+      },
+      {
+        "name": "Lapping Plates",
+        "page": "https://dir.indiamart.com/impcat/lapping-plates.html",
+        "thumbnail": "http://3.imimg.com/data3/XL/WW/GLADMIN-43376/lapping-plates-125x125.jpg"
+      },
+      {
+        "name": "Diamond Polishing Brick",
+        "page": "https://dir.indiamart.com/impcat/diamond-polishing-brick.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/TV/WJ/BQ/82392/diamond-polishing-brick-125x125.jpg"
+      },
+      {
+        "name": "Marble Polishing Pad",
+        "page": "https://dir.indiamart.com/impcat/marble-polishing-pad.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/374125594/AY/BT/QD/89231/marble-polishing-pad-125x125.jpg"
+      },
+      {
+        "name": "Polishing Mop",
+        "page": "https://dir.indiamart.com/impcat/polishing-mop.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/11/VB/QB/ZD/80165/polishing-mop-125x125.jpg"
+      },
+      {
+        "name": "Conical Felt Bob",
+        "page": "https://dir.indiamart.com/impcat/conical-felt-bob.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/KD/MY-2/conical-felt-bob-125x125.jpg"
+      },
+      {
+        "name": "Diamond Slurries",
+        "page": "https://dir.indiamart.com/impcat/diamond-slurries.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/DE/GLADMIN-26374/diamond-slurries-125x125.jpg"
+      },
+      {
+        "name": "Polishing Consumables",
+        "page": "https://dir.indiamart.com/impcat/polishing-consumables.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/CH/GLADMIN-7089/polishing-consumables-125x125.jpg"
+      },
+      {
+        "name": "Finishing Abrasive Buff",
+        "page": "https://dir.indiamart.com/impcat/finishing-abrasive-buff.html",
+        "thumbnail": "http://3.imimg.com/data3/QL/SX/GLADMIN-89534/finishing-abrasive-buff-125x125.jpg"
+      },
+      {
+        "name": "Split Laps",
+        "page": "https://dir.indiamart.com/impcat/split-laps.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/IJ/GLADMIN-42107/split-laps-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Abrasive Belts",
+    "category_thumbnail": "http://3.imimg.com/data3/OD/NH/GLADMIN-498/abrasive-belts-125x125.jpg",
+    "items": [
+      {
+        "name": "Emery Belt",
+        "page": "https://dir.indiamart.com/impcat/emery-belt.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/AM/GLADMIN-158098/emery-belt-125x125.jpg"
+      },
+      {
+        "name": "Sanding Belts",
+        "page": "https://dir.indiamart.com/impcat/sanding-belts.html",
+        "thumbnail": "http://3.imimg.com/data3/UF/FD/GLADMIN-36754/sanding-belts-125x125.jpg"
+      },
+      {
+        "name": "Grinding Belts",
+        "page": "https://dir.indiamart.com/impcat/grinding-belts.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/images-oaupload-banggood-images-95-56-bce86a6b-fcc8-47d5-a2da-00516a43f0db-125x125.jpg"
+      },
+      {
+        "name": "Coated Abrasive Belts",
+        "page": "https://dir.indiamart.com/impcat/coated-abrasive-belts.html",
+        "thumbnail": "http://3.imimg.com/data3/MA/VQ/GLADMIN-25084/coated-abrasive-belts-125x125.jpg"
+      },
+      {
+        "name": "Polishing Belts",
+        "page": "https://dir.indiamart.com/impcat/polishing-belts.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/WI/GLADMIN-35342/polishing-belts-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Bands",
+        "page": "https://dir.indiamart.com/impcat/abrasive-bands.html",
+        "thumbnail": "http://3.imimg.com/data3/VB/TF/GLADMIN-21512/abrasive-bands-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Abrasive Pads",
+    "category_thumbnail": "http://3.imimg.com/data3/AT/WC/GLADMIN-669/abrasive-pads-125x125.jpg",
+    "items": [
+      {
+        "name": "Polishing Pads",
+        "page": "https://dir.indiamart.com/impcat/polishing-pads.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/PR/GLADMIN-35345/polishing-pads-125x125.jpg"
+      },
+      {
+        "name": "Sanding Pad",
+        "page": "https://dir.indiamart.com/impcat/sanding-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/OP/YA/GLADMIN-83826/sanding-pad-125x125.jpg"
+      },
+      {
+        "name": "Backing Pad",
+        "page": "https://dir.indiamart.com/impcat/back-pad.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/UL/QN/PJ/86068/back-pad-125x125.jpg"
+      },
+      {
+        "name": "Non Woven Pad",
+        "page": "https://dir.indiamart.com/impcat/non-woven-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/NM/GLADMIN-138316/non-woven-pad-125x125.jpg"
+      },
+      {
+        "name": "Velcro Pad",
+        "page": "https://dir.indiamart.com/impcat/velcro-pad.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/428910284/BT/XJ/GA/96317/velcro-pad-125x125.jpg"
+      },
+      {
+        "name": "Felt Pad",
+        "page": "https://dir.indiamart.com/impcat/felt-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/EU/PF/GLADMIN-94637/felt-pad-125x125.jpg"
+      },
+      {
+        "name": "Wet Polishing Pad",
+        "page": "https://dir.indiamart.com/impcat/wet-polishing-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/GS/IH/GLADMIN-89556/wet-polishing-pad-125x125.jpg"
+      },
+      {
+        "name": "Compounding Pad",
+        "page": "https://dir.indiamart.com/impcat/compounding-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/AO/IX/GLADMIN-138310/compounding-pad-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Blasting Grit",
+    "category_thumbnail": "http://3.imimg.com/data3/MP/MR/GLADMIN-23471/blasting-grit-125x125.jpg",
+    "items": [
+      {
+        "name": "Copper Slag",
+        "page": "https://dir.indiamart.com/impcat/copper-slag.html",
+        "thumbnail": "http://3.imimg.com/data3/YJ/JG/GLADMIN-122168/copper-slag-125x125.jpg"
+      },
+      {
+        "name": "Steel Grits",
+        "page": "https://dir.indiamart.com/impcat/steel-grits.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/BV/GLADMIN-20752/steel-grits-125x125.jpg"
+      },
+      {
+        "name": "Corn Cob Grits",
+        "page": "https://dir.indiamart.com/impcat/corn-cob-grits.html",
+        "thumbnail": "http://3.imimg.com/data3/YY/JL/GLADMIN-26061/corn-cob-grits-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Oxide Grit",
+        "page": "https://dir.indiamart.com/impcat/aluminum-oxide-grit.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/IE/JQ/VV/64929/aluminum-oxide-grit-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Grit",
+        "page": "https://dir.indiamart.com/impcat/abrasive-grit.html",
+        "thumbnail": "http://5.imimg.com/data5/ER/WP/GLADMIN-2/boron-carbide-abrasive-grades-60-and-120-125x125.jpg"
+      },
+      {
+        "name": "Chilled Iron Grit",
+        "page": "https://dir.indiamart.com/impcat/chilled-iron-grit.html",
+        "thumbnail": "http://3.imimg.com/data3/BR/UC/GLADMIN-138308/chilled-iron-grit-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Abrasive Media",
+    "category_thumbnail": "http://3.imimg.com/data3/BQ/AT/GLADMIN-21523/abrasive-media-125x125.jpg",
+    "items": [
+      {
+        "name": "Industrial Abrasives",
+        "page": "https://dir.indiamart.com/impcat/industrial-abrasives.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/XX/GLADMIN-10974/industrial-abrasives-125x125.jpg"
+      },
+      {
+        "name": "White Fused Alumina",
+        "page": "https://dir.indiamart.com/impcat/white-fused-alumina.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/LI/GLADMIN-39816/white-fused-alumina-125x125.jpg"
+      },
+      {
+        "name": "Garnet Abrasive",
+        "page": "https://dir.indiamart.com/impcat/garnet-abrasive.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/RG/GLADMIN-11925/garnet-abrasive-125x125.jpg"
+      },
+      {
+        "name": "White Aluminum Oxide",
+        "page": "https://dir.indiamart.com/impcat/white-aluminum-oxide.html",
+        "thumbnail": "http://3.imimg.com/data3/LC/FM/GLADMIN-39810/white-aluminum-oxide-125x125.jpg"
+      },
+      {
+        "name": "Coated Abrasives",
+        "page": "https://dir.indiamart.com/impcat/coated-abrasives.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/GY/GLADMIN-503/coated-abrasives-125x125.jpg"
+      },
+      {
+        "name": "Black Silicon Carbide",
+        "page": "https://dir.indiamart.com/impcat/black-silicon-carbide.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/OR/GLADMIN-23443/black-silicon-carbide-125x125.jpg"
+      },
+      {
+        "name": "Brown Aluminum Oxide",
+        "page": "https://dir.indiamart.com/impcat/brown-aluminum-oxide.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/NR/GLADMIN-23874/brown-aluminum-oxide-125x125.jpg"
+      },
+      {
+        "name": "Emery Grain",
+        "page": "https://dir.indiamart.com/impcat/emery-grain.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371733209/XV/ZC/JC/89231/emery-grain-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Sand",
+        "page": "https://dir.indiamart.com/impcat/abrasive-sand.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/XJ/GLADMIN-44882/abrasive-sand-125x125.jpg"
+      },
+      {
+        "name": "Alumina Ceramic Ball",
+        "page": "https://dir.indiamart.com/impcat/alumina-ceramic-ball.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/PS/GLADMIN-141741/alumina-ceramic-ball-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Grains",
+        "page": "https://dir.indiamart.com/impcat/abrasive-grains.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/OY/GLADMIN-12859/abrasive-grains-125x125.jpg"
+      },
+      {
+        "name": "Brown Fused Alumina",
+        "page": "https://dir.indiamart.com/impcat/brown-fused-alumina.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/HA/GLADMIN-23875/brown-fused-alumina-125x125.jpg"
+      },
+      {
+        "name": "Green Silicon Carbide",
+        "page": "https://dir.indiamart.com/impcat/green-silicon-carbide.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/11/WF/UU/KX/80165/green-silicon-carbide-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Glass Beads",
+        "page": "https://dir.indiamart.com/impcat/abrasive-glass-beads.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/IX/OB/XC/81953/abrasive-glass-beads-125x125.jpg"
+      },
+      {
+        "name": "Boron Carbide",
+        "page": "https://dir.indiamart.com/impcat/boron-carbide.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/IB/GLADMIN-23739/boron-carbide-125x125.jpg"
+      },
+      {
+        "name": "Zirconia Alumina",
+        "page": "https://dir.indiamart.com/impcat/zirconia-alumina.html",
+        "thumbnail": "http://3.imimg.com/data3/YS/JH/GLADMIN-139515/zirconia-alumina-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Oxide Abrasives",
+        "page": "https://dir.indiamart.com/impcat/aluminum-oxide-abrasives.html",
+        "thumbnail": "http://3.imimg.com/data3/FF/QL/GLADMIN-21216/aluminum-oxide-abrasives-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Compounds",
+        "page": "https://dir.indiamart.com/impcat/abrasive-compounds.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/PB/GLADMIN-21518/abrasive-compounds-125x125.jpg"
+      },
+      {
+        "name": "Fused Aluminum Oxide",
+        "page": "https://dir.indiamart.com/impcat/fused-aluminum-oxide.html",
+        "thumbnail": "http://3.imimg.com/data3/WK/EP/GLADMIN-29138/fused-aluminum-oxide-125x125.jpg"
+      },
+      {
+        "name": "Plastic Abrasives",
+        "page": "https://dir.indiamart.com/impcat/plastic-abrasives.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/FF/GLADMIN-34486/plastic-abrasives-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Abrasive Stones",
+    "category_thumbnail": "http://3.imimg.com/data3/GF/DP/GLADMIN-21528/abrasive-stones-125x125.jpg",
+    "items": [
+      {
+        "name": "Sharpening Stones",
+        "page": "https://dir.indiamart.com/impcat/sharpening-stones.html",
+        "thumbnail": "http://3.imimg.com/data3/OP/DR/GLADMIN-37810/sharpening-stones-125x125.jpg"
+      },
+      {
+        "name": "Pumice Stones",
+        "page": "https://dir.indiamart.com/impcat/pumice-stones.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/NI/GLADMIN-8830/pumice-stones-125x125.jpg"
+      },
+      {
+        "name": "Oil Stone",
+        "page": "https://dir.indiamart.com/impcat/oil-stone.html",
+        "thumbnail": "http://4.imimg.com/data4/AJ/WP/GLADMIN-183270/oil-stone-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Fiber Stones",
+        "page": "https://dir.indiamart.com/impcat/ceramic-fiber-stones.html",
+        "thumbnail": "http://4.imimg.com/data4/XI/XG/GLADMIN-184777/ceramic-fiber-stones-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Stone",
+        "page": "https://dir.indiamart.com/impcat/ceramic-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/LD/GLADMIN-159681/ceramic-stone-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Bricks",
+        "page": "https://dir.indiamart.com/impcat/abrasive-bricks.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/KI/GLADMIN-3105/abrasive-bricks-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Abrasive Rolls",
+    "category_thumbnail": "http://3.imimg.com/data3/YE/VT/GLADMIN-502/abrasive-rolls-125x125.jpg",
+    "items": [
+      {
+        "name": "Emery Roll",
+        "page": "https://dir.indiamart.com/impcat/emery-roll.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/BY/GLADMIN-161906/emery-roll-125x125.jpg"
+      },
+      {
+        "name": "Aloxide Cloth Roll",
+        "page": "https://dir.indiamart.com/impcat/aloxide-cloth-roll.html",
+        "thumbnail": "http://3.imimg.com/data3/DF/PG/GLADMIN-138028/aloxide-cloth-roll-125x125.jpg"
+      },
+      {
+        "name": "Emery Cloth",
+        "page": "https://dir.indiamart.com/impcat/emery-cloth.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/MU/GLADMIN-27782/emery-cloth-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Cloth Roll",
+        "page": "https://dir.indiamart.com/impcat/aluminium-cloth-roll.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/DV/GLADMIN-138029/aluminium-cloth-roll-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Abrasive Powder",
+    "category_thumbnail": "http://3.imimg.com/data3/TO/SD/GLADMIN-21526/abrasive-powder-125x125.jpg",
+    "items": [
+      {
+        "name": "Diamond Powder",
+        "page": "https://dir.indiamart.com/impcat/diamond-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/CX/GLADMIN-26484/diamond-powder-125x125.jpg"
+      },
+      {
+        "name": "Emery Powder",
+        "page": "https://dir.indiamart.com/impcat/emery-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/VX/SO/VV/GLADMIN-68087/emery-powder-125x125.jpg"
+      },
+      {
+        "name": "Synthetic Diamond Powder",
+        "page": "https://dir.indiamart.com/impcat/synthetic-diamond-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/OJ/GLADMIN-145528/synthetic-diamond-powder-125x125.jpg"
+      },
+      {
+        "name": "Boron Carbide Powder",
+        "page": "https://dir.indiamart.com/impcat/boron-carbide-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/EY/YE/GLADMIN-23740/boron-carbide-powder-125x125.jpg"
+      },
+      {
+        "name": "Carbide Powder",
+        "page": "https://dir.indiamart.com/impcat/carbide-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/YN/GLADMIN-24296/carbide-powder-125x125.jpg"
+      },
+      {
+        "name": "Natural Diamond Powder",
+        "page": "https://dir.indiamart.com/impcat/natural-diamond-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/TS/SG/GLADMIN-167608/natural-diamond-powder-125x125.jpg"
+      },
+      {
+        "name": "Pumice Stone Powder",
+        "page": "https://dir.indiamart.com/impcat/pumice-stone-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/FG/WY/GLADMIN-158366/pumice-stone-powder-125x125.jpg"
+      },
+      {
+        "name": "Diamond Micron Powder",
+        "page": "https://dir.indiamart.com/impcat/diamond-micron-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/YG/GLADMIN-166222/diamond-micron-powder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Abrasive Tool",
+    "category_thumbnail": "http://3.imimg.com/data3/NF/FP/GLADMIN-3108/abrasive-tool-125x125.jpg",
+    "items": [
+      {
+        "name": "Mounted Points",
+        "page": "https://dir.indiamart.com/impcat/mounted-points.html",
+        "thumbnail": "http://3.imimg.com/data3/PU/QG/GLADMIN-83823/mounted-points-125x125.jpg"
+      },
+      {
+        "name": "Sanding Blocks",
+        "page": "https://dir.indiamart.com/impcat/sanding-blocks.html",
+        "thumbnail": "http://3.imimg.com/data3/YR/NJ/GLADMIN-36755/sanding-blocks-125x125.jpg"
+      },
+      {
+        "name": "Spindle Mops",
+        "page": "https://dir.indiamart.com/impcat/spindle-mops.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/YN/GLADMIN-107945/spindle-mops-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Dressing Sticks",
+        "page": "https://dir.indiamart.com/impcat/dressing-sticks.html",
+        "thumbnail": "http://3.imimg.com/data3/JE/MT/GLADMIN-26875/abrasive-dressing-sticks-125x125.jpg"
+      },
+      {
+        "name": "Rotary Dresser",
+        "page": "https://dir.indiamart.com/impcat/rotary-dresser.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/SX/GLADMIN-83825/rotary-dresser-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Equipment",
+        "page": "https://dir.indiamart.com/impcat/abrasive-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/UK/NM/GLADMIN-45365/abrasive-equipment-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Blocks",
+        "page": "https://dir.indiamart.com/impcat/abrasive-blocks.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/DK/GLADMIN-21517/abrasive-blocks-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Shot Blasting Media",
+    "category_thumbnail": "http://3.imimg.com/data3/XX/KX/GLADMIN-137555/shot-blasting-media-125x125.jpg",
+    "items": [
+      {
+        "name": "Steel Shot",
+        "page": "https://dir.indiamart.com/impcat/steel-shot.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/ME/GLADMIN-20751/steel-shot-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Shot",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-shot.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/11/463152266/FC/UB/XD/113500/steel-shot-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Shot",
+        "page": "https://dir.indiamart.com/impcat/aluminum-shot.html",
+        "thumbnail": "http://5.imimg.com/data5/UK/HM/GLADMIN-2/aluminium-shots-125x125.jpg"
+      },
+      {
+        "name": "Metal Shot",
+        "page": "https://dir.indiamart.com/impcat/metal-shot.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/JE/GLADMIN-20749/metal-shot-125x125.png"
+      },
+      {
+        "name": "Cast Steel Shot",
+        "page": "https://dir.indiamart.com/impcat/cast-steel-shot.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/UE/GLADMIN-142212/cast-steel-shot-125x125.jpg"
+      },
+      {
+        "name": "Carbon Steel Shot",
+        "page": "https://dir.indiamart.com/impcat/carbon-steel-shot.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/WO/GLADMIN-90416/carbon-steel-shot-125x125.jpg"
+      },
+      {
+        "name": "Steel Shot Peening Media",
+        "page": "https://dir.indiamart.com/impcat/steel-shot-peening-media.html",
+        "thumbnail": "http://4.imimg.com/data4/HQ/FK/GLADMIN-180355/steel-shot-peening-media-125x125.jpg"
+      },
+      {
+        "name": "Zinc Shots",
+        "page": "https://dir.indiamart.com/impcat/zinc-shots.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/UU/GLADMIN-/zinc-shots-125x125.jpg"
+      },
+      {
+        "name": "Nickel Shot",
+        "page": "https://dir.indiamart.com/impcat/nickel-shot.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/XK/GLADMIN-32707/nickel-shot-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cutting Abrasives",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/NV/MF/DK/80165/cutting-abrasives-125x125.jpg",
+    "items": [
+      {
+        "name": "DC Wheel",
+        "page": "https://dir.indiamart.com/impcat/dc-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/VK/KT/VA/80165/dc-wheel-125x125.jpg"
+      },
+      {
+        "name": "Glass Cutting Wheels",
+        "page": "https://dir.indiamart.com/impcat/glass-cutting-wheels.html",
+        "thumbnail": "http://5.imimg.com/data5/LU/UM/GLADMIN-2/glass-cutting-wheel-125x125.jpg"
+      },
+      {
+        "name": "Diamond Squaring Wheel",
+        "page": "https://dir.indiamart.com/impcat/diamond-squaring-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/QW/HW/GLADMIN-83820/diamond-squaring-wheel-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cut Wire Shot",
+    "category_thumbnail": "http://5.imimg.com/data5/XC/PH/VI/GLADMIN-68155/cut-wire-shot-125x125.jpg",
+    "items": [
+      {
+        "name": "Steel Cut Wire Shot",
+        "page": "https://dir.indiamart.com/impcat/steel-cut-wire-shot.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/NA/GLADMIN-20750/steel-cut-wire-shot-125x125.jpg"
+      },
+      {
+        "name": "Copper Cut Wire Shot",
+        "page": "https://dir.indiamart.com/impcat/copper-cut-wire-shot.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/QG/GLADMIN-138311/copper-cut-wire-shot-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Cut Wire Shot",
+        "page": "https://dir.indiamart.com/impcat/aluminium-cut-wire-shot.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/WF/GLADMIN-145257/aluminium-cut-wire-shot-125x125.jpg"
+      },
+      {
+        "name": "Zinc Cut Wire Shot",
+        "page": "https://dir.indiamart.com/impcat/zinc-cut-wire-shot.html",
+        "thumbnail": "http://3.imimg.com/data3/KR/GY/GLADMIN-145258/zinc-cut-wire-shot-125x125.jpg"
+      },
+      {
+        "name": "Brass Cut Wire Shot",
+        "page": "https://dir.indiamart.com/impcat/brass-cut-wire-shot.html",
+        "thumbnail": "http://3.imimg.com/data3/MH/BT/GLADMIN-178040/brass-cut-wire-shot-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bonded Abrasives",
+    "category_thumbnail": "http://3.imimg.com/data3/LP/IW/GLADMIN-4511/bonded-abrasives-125x125.jpg",
+    "items": [
+      {
+        "name": "Resin Bond Abrasive",
+        "page": "https://dir.indiamart.com/impcat/resin-bond-abrasive.html",
+        "thumbnail": "http://3.imimg.com/data3/CO/RT/GLADMIN-89547/resin-bond-abrasive-125x125.jpg"
+      },
+      {
+        "name": "Resin Fickerts",
+        "page": "https://dir.indiamart.com/impcat/resin-fickerts.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/AU/GLADMIN-162574/resin-fickerts-125x125.jpg"
+      },
+      {
+        "name": "Metal Bond Segments",
+        "page": "https://dir.indiamart.com/impcat/metal-bond-segments.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/LH/GLADMIN-162569/metal-bond-segments-125x125.jpg"
+      },
+      {
+        "name": "Rubberized Abrasives",
+        "page": "https://dir.indiamart.com/impcat/rubberized-abrasives.html",
+        "thumbnail": "http://3.imimg.com/data3/QC/HA/GLADMIN-36061/rubberized-abrasives-125x125.jpg"
+      },
+      {
+        "name": "Metal Fickerts",
+        "page": "https://dir.indiamart.com/impcat/metal-fickerts.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/TC/GLADMIN-162570/metal-fickerts-125x125.jpg"
+      },
+      {
+        "name": "Metal Bond Abrasive",
+        "page": "https://dir.indiamart.com/impcat/metal-bond-abrasive.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/XO/GLADMIN-89542/metal-bond-abrasive-125x125.jpg"
+      },
+      {
+        "name": "Resin Bond Segments",
+        "page": "https://dir.indiamart.com/impcat/resin-bond-segments.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/AD/GLADMIN-162573/resin-bond-segments-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Grinding Wheels",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RK/LD/SN/4974/grinding-wheels-125x125.png",
+    "items": [
+      {
+        "name": "Emery Stone",
+        "page": "https://dir.indiamart.com/impcat/emery-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/SF/PH/NE/86025/emery-stone-125x125.jpg"
+      },
+      {
+        "name": "Grinding Stone",
+        "page": "https://dir.indiamart.com/impcat/grinding-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/WQ/MY-2/grinding-stone-125x125.jpg"
+      },
+      {
+        "name": "Diamond Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/diamond-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/VC/GLADMIN-26482/diamond-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Metal Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/metal-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/JO/XY/GLADMIN-95751/metal-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Diamond Cup Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/diamond-cup-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/BX/GLADMIN-95738/diamond-cup-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Grinding Cup Wheel",
+        "page": "https://dir.indiamart.com/impcat/grinding-cup-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/UN/ZA/UM/85914/grinding-cup-wheel-125x125.webp"
+      },
+      {
+        "name": "CBN Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/cbn-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/YQ/GLADMIN-24590/cbn-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Surface Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/surface-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/KK/GM/GLADMIN-39130/surface-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Resin Bonded Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/resin-bonded-grinding-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/LF/ZA/NZ/85914/resin-bonded-grinding-wheel-125x125.webp"
+      },
+      {
+        "name": "Glass Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/glass-grinding-wheel.html",
+        "thumbnail": "http://4.imimg.com/data4/TD/WX/GLADMIN-180566/glass-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Carbide Grinding Wheels",
+        "page": "https://dir.indiamart.com/impcat/carbide-grinding-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/BX/GLADMIN-5535/carbide-grinding-wheels-125x125.jpg"
+      },
+      {
+        "name": "Internal Grinding wheels",
+        "page": "https://dir.indiamart.com/impcat/internal-grinding-wheels.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/QK/SZ/MV/85914/internal-grinding-wheels-125x125.webp"
+      },
+      {
+        "name": "Rubber Bonded Grinding Wheels",
+        "page": "https://dir.indiamart.com/impcat/rubber-bonded-grinding-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/VC/GLADMIN-8281/rubber-bonded-grinding-wheels-125x125.jpg"
+      },
+      {
+        "name": "Saw Gumming Wheel",
+        "page": "https://dir.indiamart.com/impcat/saw-gumming-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/MK/GLADMIN-95764/saw-gumming-wheel-125x125.jpg"
+      },
+      {
+        "name": "Toolroom Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/toolroom-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/JI/GLADMIN-90161/toolroom-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Silicon Carbide Wheel",
+        "page": "https://dir.indiamart.com/impcat/silicon-carbide-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/KV/GLADMIN-138317/silicon-carbide-wheel-125x125.jpg"
+      },
+      {
+        "name": "Profile Wheel",
+        "page": "https://dir.indiamart.com/impcat/profile-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/OX/GLADMIN-85491/profile-wheel-125x125.jpg"
+      },
+      {
+        "name": "Disc Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/disc-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/YN/GLADMIN-95741/disc-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Centerless Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/centerless-grinding-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/PU/MF/US/85914/centerless-grinding-wheel-125x125.webp"
+      },
+      {
+        "name": "Cylindrical Wheel",
+        "page": "https://dir.indiamart.com/impcat/cylindrical-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/PM/DM/XX/85914/cylindrical-wheel-125x125.webp"
+      },
+      {
+        "name": "Electroplated Diamond Wheels",
+        "page": "https://dir.indiamart.com/impcat/electroplated-diamond-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/CQ/PF/GLADMIN-163193/electroplated-diamond-wheels-125x125.jpg"
+      },
+      {
+        "name": "Mounted Wheels",
+        "page": "https://dir.indiamart.com/impcat/mounted-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/DN/GLADMIN-142333/mounted-wheels-125x125.jpg"
+      },
+      {
+        "name": "Grinding Wheel Dressers",
+        "page": "https://dir.indiamart.com/impcat/grinding-wheel-dressers.html",
+        "thumbnail": "http://3.imimg.com/data3/EB/VH/GLADMIN-29829/grinding-wheel-dressers-125x125.jpg"
+      },
+      {
+        "name": "Electroplated Diamond Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/electroplated-diamond-grinding-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/RR/RR/GLADMIN-/electroplated-diamond-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Metal Bond Wheel",
+        "page": "https://dir.indiamart.com/impcat/metal-bond-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/QR/GLADMIN-85489/metal-bond-wheel-125x125.jpg"
+      },
+      {
+        "name": "Regulating Wheel",
+        "page": "https://dir.indiamart.com/impcat/regulating-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/YS/DM/GLADMIN-36315/regulating-wheel-125x125.jpg"
+      },
+      {
+        "name": "Pedestal Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/pedestal-grinding-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/BE/YV/GLADMIN-2/pedestal-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Grinding Wheel Flange",
+        "page": "https://dir.indiamart.com/impcat/grinding-wheel-flange.html",
+        "thumbnail": "http://3.imimg.com/data3/EG/LA/GLADMIN-165473/grinding-wheel-flange-125x125.jpg"
+      },
+      {
+        "name": "Snagging Wheels",
+        "page": "https://dir.indiamart.com/impcat/snagging-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/VH/TF/GLADMIN-36942/snagging-wheels-125x125.jpg"
+      },
+      {
+        "name": "Wheel Carborundum",
+        "page": "https://dir.indiamart.com/impcat/wheel-carborundum.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/LQ/GLADMIN-126133/wheel-carborundum-125x125.jpg"
+      },
+      {
+        "name": "Electroplated Wheel",
+        "page": "https://dir.indiamart.com/impcat/electroplated-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/RX/GLADMIN-89532/electroplated-wheel-125x125.jpg"
+      },
+      {
+        "name": "Resin Cup Wheel",
+        "page": "https://dir.indiamart.com/impcat/resin-cup-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/MN/MY-2/resin-cup-wheel-125x125.jpg"
+      }
+    ]
+  }
+]

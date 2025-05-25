@@ -1,0 +1,741 @@
+[
+  {
+    "category_name": "Soap Making Machinery",
+    "category_thumbnail": "http://3.imimg.com/data3/QT/OA/MY-2/zxm-07050-125x125.jpg",
+    "items": [
+      {
+        "name": "Detergent Making Machines",
+        "page": "https://dir.indiamart.com/impcat/detergent-making-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/HM/MY-2/detergent-making-machines-125x125.jpg"
+      },
+      {
+        "name": "Soap Machine",
+        "page": "https://dir.indiamart.com/impcat/soap-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/OU/NH/MY-2/zeepapparatuur-125x125.jpg"
+      },
+      {
+        "name": "Detergent Cake Making Machines",
+        "page": "https://dir.indiamart.com/impcat/detergent-cake-making-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/TT/NG/GLADMIN-152618/detergent-cake-making-machines-125x125.jpg"
+      },
+      {
+        "name": "Detergent Powder Plant",
+        "page": "https://dir.indiamart.com/impcat/detergent-powder-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/MY/HU/GLADMIN-12768/detergent-powder-plant-125x125.jpg"
+      },
+      {
+        "name": "Soap Making Plants",
+        "page": "https://dir.indiamart.com/impcat/soap-making-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/OJ/GLADMIN-152167/soap-making-plants-125x125.jpg"
+      },
+      {
+        "name": "Toilet Soap Making Machine",
+        "page": "https://dir.indiamart.com/impcat/toilet-soap-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/SV/MY-2/003_small_toilet_soap_making_machine_0086-125x125.jpg"
+      },
+      {
+        "name": "Plodding Machine",
+        "page": "https://dir.indiamart.com/impcat/plodding-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/FP/RU/GLADMIN-133897/plodding-machine-125x125.jpg"
+      },
+      {
+        "name": "Toilet Soap Plant",
+        "page": "https://dir.indiamart.com/impcat/toilet-soap-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/EG/GLADMIN-122782/toilet-soap-plant-125x125.jpg"
+      },
+      {
+        "name": "Soap Noodles Plant",
+        "page": "https://dir.indiamart.com/impcat/soap-noodles-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/TR/GLADMIN-113956/soap-noodles-plant-125x125.jpg"
+      },
+      {
+        "name": "Duplex Vacuum Plodders",
+        "page": "https://dir.indiamart.com/impcat/duplex-vacuum-plodders.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/RR/MY-2/duplex-twin-worm-vaccume-type-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Petrochemical Refineries",
+    "category_thumbnail": "http://3.imimg.com/data3/UV/ET/MY-2/6497888ed4c511e2b3a822000ae90304_7-125x125.jpg",
+    "items": [
+      {
+        "name": "Fuel Ethanol Plant",
+        "page": "https://dir.indiamart.com/impcat/fuel-ethanol-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/IQ/GLADMIN-41678/fuel-ethanol-plant-125x125.jpg"
+      },
+      {
+        "name": "Biodiesel Plant",
+        "page": "https://dir.indiamart.com/impcat/biodiesel-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/AB/GLADMIN-50061/biodiesel-plant-125x125.jpg"
+      },
+      {
+        "name": "Oil Refinery Plant",
+        "page": "https://dir.indiamart.com/impcat/oil-refinery-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/NI/GLADMIN-7492/oil-refinery-plant-125x125.jpg"
+      },
+      {
+        "name": "Biofuel Plant",
+        "page": "https://dir.indiamart.com/impcat/biofuel-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/CJ/GLADMIN-41677/biofuel-plant-125x125.jpg"
+      },
+      {
+        "name": "Refinery Plant",
+        "page": "https://dir.indiamart.com/impcat/refinery-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/DA/GLADMIN-87997/refinery-plant-125x125.jpg"
+      },
+      {
+        "name": "Lubricant Blending Plant",
+        "page": "https://dir.indiamart.com/impcat/lubricant-blending-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/AN/TT/GLADMIN-117861/lubricant-blending-plant-125x125.jpg"
+      },
+      {
+        "name": "Crude Oil Refinery Plant",
+        "page": "https://dir.indiamart.com/impcat/crude-oil-refinery-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/DF/GLADMIN-159470/crude-oil-refinery-plant-125x125.jpg"
+      },
+      {
+        "name": "Petrochemical Plants",
+        "page": "https://dir.indiamart.com/impcat/petrochemical-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/MJ/GLADMIN-34197/petrochemical-plants-125x125.jpg"
+      },
+      {
+        "name": "Refuse Derived Fuel Plant",
+        "page": "https://dir.indiamart.com/impcat/refuse-derived-fuel-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/DP/RA/GLADMIN-126597/refuse-derived-fuel-plant-125x125.jpg"
+      },
+      {
+        "name": "Waste Oil Refining Equipment",
+        "page": "https://dir.indiamart.com/impcat/waste-oil-refining-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/VS/GLADMIN-136989/waste-oil-refining-equipment-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Chemical Plant",
+    "category_thumbnail": "http://3.imimg.com/data3/FQ/BE/GLADMIN-3737/chemical-plant-125x125.jpg",
+    "items": [
+      {
+        "name": "DEF Making Machine",
+        "page": "https://dir.indiamart.com/impcat/def-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/373634287/VL/GZ/OS/105338/def-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Activated Carbon Making Plant",
+        "page": "https://dir.indiamart.com/impcat/activated-carbon-making-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/IE/EO/MY-2/activated-carbon-filters-125x125.jpg"
+      },
+      {
+        "name": "Zinc Sulphate Plant",
+        "page": "https://dir.indiamart.com/impcat/zinc-sulphate-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/XD/GLADMIN-86337/zinc-sulphate-plant-125x125.jpg"
+      },
+      {
+        "name": "Caustic Soda Manufacturing Plant",
+        "page": "https://dir.indiamart.com/impcat/caustic-soda-manufacturing-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/UK/AN/GLADMIN-139247/caustic-soda-manufacturing-plant-125x125.jpg"
+      },
+      {
+        "name": "Carbon Dioxide Plants",
+        "page": "https://dir.indiamart.com/impcat/carbon-dioxide-plants.html",
+        "thumbnail": "http://5.imimg.com/data5/TI/UJ/GLADMIN-2/carbon-dioxide-gas-generation-plant-125x125.jpg"
+      },
+      {
+        "name": "Sulphuric Acid Plant",
+        "page": "https://dir.indiamart.com/impcat/sulphuric-acid-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/HV/MY-2/16sulphuric-acid-plant-500x500-125x125.jpg"
+      },
+      {
+        "name": "Sodium Silicate Plant",
+        "page": "https://dir.indiamart.com/impcat/sodium-silicate-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/FJ/NX/GLADMIN-158021/sodium-silicate-plant-125x125.jpg"
+      },
+      {
+        "name": "Chemical Machine",
+        "page": "https://dir.indiamart.com/impcat/chemical-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/XP/GLADMIN-89651/chemical-machine-125x125.jpg"
+      },
+      {
+        "name": "Bitumen Emulsion Plant",
+        "page": "https://dir.indiamart.com/impcat/bitumen-emulsion-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/BI/GLADMIN-165795/bitumen-emulsion-plant-125x125.jpg"
+      },
+      {
+        "name": "Single Super Phosphate Plants",
+        "page": "https://dir.indiamart.com/impcat/single-super-phosphate-plants.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/GC/LQ/LL/88504/single-super-phosphate-plants-125x125.jpg"
+      },
+      {
+        "name": "Chemical Process Equipment",
+        "page": "https://dir.indiamart.com/impcat/chemical-process-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/LV/MY-2/chemical-process-equipment-titanium-reactor-tank-te-015--125x125.jpg"
+      },
+      {
+        "name": "Guar Gum Plant",
+        "page": "https://dir.indiamart.com/impcat/guar-gum-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/OG/MY-2/guar-gum-plant-125x125.jpg"
+      },
+      {
+        "name": "Bleaching Plant",
+        "page": "https://dir.indiamart.com/impcat/bleaching-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/AP/PE/GLADMIN-2/bleaching-plant-125x125.jpg"
+      },
+      {
+        "name": "Zinc Oxide Plant",
+        "page": "https://dir.indiamart.com/impcat/zinc-oxide-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/BR/JI/GLADMIN-177775/zinc-oxide-plant-125x125.jpg"
+      },
+      {
+        "name": "Emulsion Plants",
+        "page": "https://dir.indiamart.com/impcat/emulsion-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/RI/GLADMIN-27800/emulsion-plants-125x125.jpg"
+      },
+      {
+        "name": "Zinc Plant",
+        "page": "https://dir.indiamart.com/impcat/zinc-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/PD/TY/GLADMIN-122845/zinc-plant-125x125.jpg"
+      },
+      {
+        "name": "Bromine Recovery Plant",
+        "page": "https://dir.indiamart.com/impcat/bromine-recovery-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/EW/XQ/GLADMIN-177769/bromine-recovery-plant-125x125.jpg"
+      },
+      {
+        "name": "Stripper Column",
+        "page": "https://dir.indiamart.com/impcat/stripper-column.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/ST/GLADMIN-165496/stripper-column-125x125.jpg"
+      },
+      {
+        "name": "Emulsion Manufacturing Machinery",
+        "page": "https://dir.indiamart.com/impcat/emulsion-manufacturing-machinery.html",
+        "thumbnail": "http://3.imimg.com/data3/BG/DD/MY-2/small-type-vacuum-homogenizer-emulsifier-machine-125x125.jpg"
+      },
+      {
+        "name": "Sulfuric Acid Dilution System",
+        "page": "https://dir.indiamart.com/impcat/sulfuric-acid-dilution-system.html",
+        "thumbnail": "http://4.imimg.com/data4/GF/BM/GLADMIN-182862/sulfuric-acid-dilution-system-125x125.jpg"
+      },
+      {
+        "name": "Hydrated Lime Plant",
+        "page": "https://dir.indiamart.com/impcat/hydrated-lime-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/LL/MY-2/hydrated-lime-plants-500x500-125x125.jpg"
+      },
+      {
+        "name": "Lime Plants",
+        "page": "https://dir.indiamart.com/impcat/lime-plants.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/BB/HF/SI/88504/lime-plants-125x125.jpg"
+      },
+      {
+        "name": "Coke Process Plant",
+        "page": "https://dir.indiamart.com/impcat/coke-process-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/YX/GLADMIN-157716/coke-process-plant-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Chemical Pumps",
+    "category_thumbnail": "http://3.imimg.com/data3/UP/KP/GLADMIN-2080/chemical-pumps-125x125.jpg",
+    "items": [
+      {
+        "name": "Chemical Dosing Pumps",
+        "page": "https://dir.indiamart.com/impcat/chemical-dosing-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/FT/PJ/GLADMIN-154238/chemical-dosing-pumps-125x125.jpg"
+      },
+      {
+        "name": "Magnetic Drive Pumps",
+        "page": "https://dir.indiamart.com/impcat/magnetic-drive-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/BT/TU/GLADMIN-31670/magnetic-drive-pumps-125x125.jpg"
+      },
+      {
+        "name": "Diaphragm Pumps",
+        "page": "https://dir.indiamart.com/impcat/diaphragm-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/FG/IV/MY-2/diaphragm-pumps-125x125.jpg"
+      },
+      {
+        "name": "Chemical Process Pumps",
+        "page": "https://dir.indiamart.com/impcat/chemical-process-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/DB/AH/MY-2/isochem_series_gmc2-brand-125x125.jpg"
+      },
+      {
+        "name": "Chemical Transfer Pumps",
+        "page": "https://dir.indiamart.com/impcat/chemical-transfer-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/OY/MY-2/0000560nitron80k45-125x125.jpg"
+      },
+      {
+        "name": "Acid Pumps",
+        "page": "https://dir.indiamart.com/impcat/acid-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/OV/GLADMIN-21235/acid-pumps-125x125.jpg"
+      },
+      {
+        "name": "Centrifugal Chemical Pump",
+        "page": "https://dir.indiamart.com/impcat/centrifugal-chemical-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/IE/GLADMIN-85390/centrifugal-chemical-pump-125x125.jpg"
+      },
+      {
+        "name": "Chemical Injection Pumps",
+        "page": "https://dir.indiamart.com/impcat/chemical-injection-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/HF/GLADMIN-24000/chemical-injection-pumps-125x125.jpg"
+      },
+      {
+        "name": "Chemical Pump Parts",
+        "page": "https://dir.indiamart.com/impcat/chemical-pump-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/NU/SA/GLADMIN-85394/chemical-pump-parts-125x125.jpg"
+      },
+      {
+        "name": "Horizontal Plastic Chemical Pumps",
+        "page": "https://dir.indiamart.com/impcat/horizontal-plastic-chemical-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/LN/GLADMIN-142814/horizontal-plastic-chemical-pumps-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diaphragm Pumps",
+    "category_thumbnail": "http://3.imimg.com/data3/FG/IV/MY-2/diaphragm-pumps-125x125.jpg",
+    "items": [
+      {
+        "name": "Air Operated Diaphragm Pump",
+        "page": "https://dir.indiamart.com/impcat/air-operated-diaphragm-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/GB/MY-2/air-operated-diaphragm-pump-125x125.jpg"
+      },
+      {
+        "name": "Diaphragm Vacuum Pump",
+        "page": "https://dir.indiamart.com/impcat/diaphragm-vacuum-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/JJ/GLADMIN-13462/diaphragm-vacuum-pump-125x125.jpg"
+      },
+      {
+        "name": "Double Diaphragm Pump",
+        "page": "https://dir.indiamart.com/impcat/double-diaphragm-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/VU/CA/MY-2/double-diaphragm-pump-125x125.jpg"
+      },
+      {
+        "name": "Pneumatic Diaphragm Pump",
+        "page": "https://dir.indiamart.com/impcat/pneumatic-diaphragm-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/CP/AB/GLADMIN-18085/pneumatic-diaphragm-pump-125x125.jpg"
+      },
+      {
+        "name": "Air Operated Pump",
+        "page": "https://dir.indiamart.com/impcat/air-operated-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/DD/GLADMIN-85383/air-operated-pump-125x125.jpg"
+      },
+      {
+        "name": "Hydraulic Diaphragm Pump",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-diaphragm-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/ID/GLADMIN-15604/hydraulic-diaphragm-pump-125x125.jpg"
+      },
+      {
+        "name": "Diaphragm Dosing Pump",
+        "page": "https://dir.indiamart.com/impcat/diaphragm-dosing-pump.html",
+        "thumbnail": "http://4.imimg.com/data4/DH/JY/GLADMIN-2/diaphragm-dosing-pump-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Diaphragm Pump",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-diaphragm-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/SK/GLADMIN-18664/stainless-steel-diaphragm-pump-125x125.jpg"
+      },
+      {
+        "name": "Sampling Pump",
+        "page": "https://dir.indiamart.com/impcat/sampling-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/IX/KK/GLADMIN-17897/sampling-pump-125x125.jpg"
+      },
+      {
+        "name": "PTFE Pumps",
+        "page": "https://dir.indiamart.com/impcat/ptfe-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/TA/GLADMIN-167386/ptfe-pumps-125x125.jpg"
+      },
+      {
+        "name": "Membrane Pump",
+        "page": "https://dir.indiamart.com/impcat/membrane-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/ML/HP/GLADMIN-69838/membrane-pump-125x125.jpg"
+      },
+      {
+        "name": "Mechanical Pump",
+        "page": "https://dir.indiamart.com/impcat/mechanical-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/BY/GLADMIN-85418/mechanical-pump-125x125.jpg"
+      },
+      {
+        "name": "Miniature Pumps",
+        "page": "https://dir.indiamart.com/impcat/miniature-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/QN/GLADMIN-33118/miniature-pumps-125x125.jpg"
+      },
+      {
+        "name": "Combination Pump",
+        "page": "https://dir.indiamart.com/impcat/combination-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/FP/GLADMIN-85397/combination-pump-125x125.jpg"
+      },
+      {
+        "name": "Manual Diaphragm Pump",
+        "page": "https://dir.indiamart.com/impcat/manual-diaphragm-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/HP/GLADMIN-17347/manual-diaphragm-pump-125x125.jpg"
+      },
+      {
+        "name": "Used Diaphragm Pumps",
+        "page": "https://dir.indiamart.com/impcat/used-diaphragm-pumps.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/PP/GLADMIN-/used-diaphragm-pumps-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Distillation Units",
+    "category_thumbnail": "http://3.imimg.com/data3/HC/BP/MY-2/2-500x500-125x125.jpg",
+    "items": [
+      {
+        "name": "Steam Distillation Unit",
+        "page": "https://dir.indiamart.com/impcat/steam-distillation-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/YP/GLADMIN-161688/steam-distillation-unit-125x125.jpg"
+      },
+      {
+        "name": "Alcohol Distillation Plant",
+        "page": "https://dir.indiamart.com/impcat/alcohol-distillation-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/YH/GLADMIN-148483/alcohol-distillation-plant-125x125.jpg"
+      },
+      {
+        "name": "Industrial Distillation Plant",
+        "page": "https://dir.indiamart.com/impcat/industrial-distillation-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/GC/FR/MY-2/industrial-distillation-plant-125x125.jpg"
+      },
+      {
+        "name": "Distillation Equipment",
+        "page": "https://dir.indiamart.com/impcat/distillation-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/NM/MY-2/water-distillation-assembly-500x500-125x125.jpg"
+      },
+      {
+        "name": "Multi Column Distillation Plant",
+        "page": "https://dir.indiamart.com/impcat/multi-column-distillation-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/XH/GLADMIN-177079/multi-column-distillation-plant-125x125.jpg"
+      },
+      {
+        "name": "Distillation Columns",
+        "page": "https://dir.indiamart.com/impcat/distillation-columns.html",
+        "thumbnail": "http://3.imimg.com/data3/YA/TX/MY-2/distillation-columns-500x500-125x125.jpg"
+      },
+      {
+        "name": "Solvent Recovery Plant",
+        "page": "https://dir.indiamart.com/impcat/solvent-recovery-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/IG/GLADMIN-84101/solvent-recovery-plant-125x125.jpg"
+      },
+      {
+        "name": "Solvent Distillation",
+        "page": "https://dir.indiamart.com/impcat/solvent-distillation.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/FK/GLADMIN-37382/solvent-distillation-125x125.jpg"
+      },
+      {
+        "name": "Molecular Distillation Unit",
+        "page": "https://dir.indiamart.com/impcat/molecular-distillation-unit.html",
+        "thumbnail": "http://5.imimg.com/data5/WB/FA/KB/GLADMIN-68087/molecular-distillation-unit-125x125.jpg"
+      },
+      {
+        "name": "Fatty Acid Distillation Plants",
+        "page": "https://dir.indiamart.com/impcat/fatty-acid-distillation-plants.html",
+        "thumbnail": "http://5.imimg.com/data5/EH/PL/GLADMIN-2/fatty-acid-distillation-plants-125x125.jpg"
+      },
+      {
+        "name": "Industrial Distillation Column",
+        "page": "https://dir.indiamart.com/impcat/industrial-distillation-column.html",
+        "thumbnail": "http://3.imimg.com/data3/PR/GM/MY-2/still-adjustable-reflux-still-54mm-with-primary-column-125x125.jpg"
+      },
+      {
+        "name": "Solvent Recovery Systems",
+        "page": "https://dir.indiamart.com/impcat/solvent-recovery-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/WS/GLADMIN-37388/solvent-recovery-systems-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Column",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-column.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/US/GLADMIN-88274/stainless-steel-column-125x125.jpg"
+      },
+      {
+        "name": "Solvent Distillation Equipment",
+        "page": "https://dir.indiamart.com/impcat/solvent-distillation-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/LC/IN/GLADMIN-17564/solvent-distillation-equipment-125x125.png"
+      },
+      {
+        "name": "Solvent Recovery Equipment",
+        "page": "https://dir.indiamart.com/impcat/solvent-recovery-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/GA/AV/MY-2/k60_700-125x125.jpg"
+      },
+      {
+        "name": "Sieve Tray Distillation Column",
+        "page": "https://dir.indiamart.com/impcat/sieve-tray-distillation-column.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/GZ/BY/PB/88504/sieve-tray-distillation-column-125x125.jpg"
+      },
+      {
+        "name": "Solvent Recycler",
+        "page": "https://dir.indiamart.com/impcat/solvent-recycler.html",
+        "thumbnail": "http://3.imimg.com/data3/TY/TW/MY-2/solvent-recycler-with-led-indicators-500x500-125x125.jpg"
+      },
+      {
+        "name": "Sieve Tray",
+        "page": "https://dir.indiamart.com/impcat/sieve-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/WH/RG/GLADMIN-154410/sieve-tray-125x125.jpg"
+      },
+      {
+        "name": "Distillation Condensers",
+        "page": "https://dir.indiamart.com/impcat/distillation-condensers.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/KL/MY-2/condenser-500x500-125x125.jpg"
+      },
+      {
+        "name": "Distillation Column Tray",
+        "page": "https://dir.indiamart.com/impcat/distillation-column-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/JT/OK/MY-2/fixed-valve-trays-500x500-125x125.jpg"
+      },
+      {
+        "name": "Distillation Towers",
+        "page": "https://dir.indiamart.com/impcat/distillation-towers.html",
+        "thumbnail": "http://3.imimg.com/data3/HV/QM/MY-2/distillation-column-500x500-125x125.jpg"
+      },
+      {
+        "name": "Azeotropic Distillation Unit",
+        "page": "https://dir.indiamart.com/impcat/azeotropic-distillation-unit.html",
+        "thumbnail": "http://5.imimg.com/data5/IT/WP/RR/GLADMIN-68087/azeotropic-distillation-unit-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Resin Manufacturing Plant",
+    "category_thumbnail": "http://3.imimg.com/data3/KP/YJ/GLADMIN-8129/resin-manufacturing-plant-125x125.jpg",
+    "items": [
+      {
+        "name": "Paint Manufacturing Machines",
+        "page": "https://dir.indiamart.com/impcat/paint-manufacturing-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/FX/UR/GLADMIN-5685/paint-manufacturing-machines-125x125.jpg"
+      },
+      {
+        "name": "Phenyl Manufacturing Plant",
+        "page": "https://dir.indiamart.com/impcat/phenyl-manufacturing-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/LT/GLADMIN-166027/phenyl-manufacturing-plant-125x125.jpg"
+      },
+      {
+        "name": "Grease Plant",
+        "page": "https://dir.indiamart.com/impcat/grease-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/XL/GLADMIN-41679/grease-plant-125x125.jpg"
+      },
+      {
+        "name": "Polyester Resin Plant",
+        "page": "https://dir.indiamart.com/impcat/polyester-resin-plant.html",
+        "thumbnail": "http://4.imimg.com/data4/MY/LD/GLADMIN-185130/polyester-resin-plant-125x125.jpg"
+      },
+      {
+        "name": "Drum Flaker",
+        "page": "https://dir.indiamart.com/impcat/drum-flaker.html",
+        "thumbnail": "http://3.imimg.com/data3/JT/RG/GLADMIN-89863/drum-flaker-125x125.jpg"
+      },
+      {
+        "name": "Formaldehyde Plant",
+        "page": "https://dir.indiamart.com/impcat/formaldehyde-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/YC/GLADMIN-177060/formaldehyde-plant-125x125.jpg"
+      },
+      {
+        "name": "Alkyd Resin Plant",
+        "page": "https://dir.indiamart.com/impcat/alkyd-resin-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/SB/GLADMIN-137559/alkyd-resin-plant-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Mineral Processing Plants",
+    "category_thumbnail": "http://3.imimg.com/data3/XM/SD/MY-2/1277882870332_hz-fileserver1_4309891-125x125.jpg",
+    "items": [
+      {
+        "name": "Mineral Beneficiation Plants",
+        "page": "https://dir.indiamart.com/impcat/mineral-beneficiation-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/FH/EU/GLADMIN-70059/mineral-beneficiation-plants-125x125.jpg"
+      },
+      {
+        "name": "Iron Ore Beneficiation Plant",
+        "page": "https://dir.indiamart.com/impcat/iron-ore-beneficiation-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/JW/CK/GLADMIN-137753/iron-ore-beneficiation-plant-125x125.jpg"
+      },
+      {
+        "name": "Floatation Cell",
+        "page": "https://dir.indiamart.com/impcat/floatation-cell.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/JO/GLADMIN-/wikipedia-commons-d-d0-flotation_cell-125x125.jpg"
+      },
+      {
+        "name": "Bauxite Processing Plant",
+        "page": "https://dir.indiamart.com/impcat/bauxite-processing-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/IV/GLADMIN-164301/bauxite-processing-plant-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Chemical Handling Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/XU/CD/GLADMIN-13702/chemical-handling-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Foam Generator",
+        "page": "https://dir.indiamart.com/impcat/foam-generator.html",
+        "thumbnail": "http://3.imimg.com/data3/YI/CW/GLADMIN-107097/foam-generator-125x125.jpg"
+      },
+      {
+        "name": "Process Plant Equipment",
+        "page": "https://dir.indiamart.com/impcat/process-plant-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/HN/VB/MY-2/power-plant-equipment-500x500-125x125.jpg"
+      },
+      {
+        "name": "Chemical Dispensers",
+        "page": "https://dir.indiamart.com/impcat/chemical-dispensers.html",
+        "thumbnail": "http://3.imimg.com/data3/QG/OR/MY-2/chemical-dispenser-125x125.jpg"
+      },
+      {
+        "name": "Chemical Equipment",
+        "page": "https://dir.indiamart.com/impcat/chemical-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/TP/YQ/GLADMIN-24811/chemical-equipment-125x125.jpg"
+      },
+      {
+        "name": "Lime Slacker",
+        "page": "https://dir.indiamart.com/impcat/lime-slacker.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/HS/GLADMIN-152546/lime-slacker-125x125.jpg"
+      },
+      {
+        "name": "Chemical Injection Skid",
+        "page": "https://dir.indiamart.com/impcat/chemical-injection-skid.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/II/MY-2/chemical_injection_7-125x125.jpg"
+      },
+      {
+        "name": "Chemical Pipelines",
+        "page": "https://dir.indiamart.com/impcat/chemical-pipelines.html",
+        "thumbnail": "http://3.imimg.com/data3/MI/KQ/MY-2/845286-125x125.jpg"
+      },
+      {
+        "name": "FRP Chemical Process Equipment",
+        "page": "https://dir.indiamart.com/impcat/frp-chemical-process-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/XF/MY-2/heat-exchanger-graphite-mersen-125x125.jpg"
+      },
+      {
+        "name": "Chemical Feeders",
+        "page": "https://dir.indiamart.com/impcat/chemical-feeders.html",
+        "thumbnail": "http://3.imimg.com/data3/PN/YO/MY-2/astral-chloor-doseerder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ointment Manufacturing Plant",
+    "category_thumbnail": "http://3.imimg.com/data3/RQ/DW/MY-2/ointment-manufacturing-plan-500x500-500x500-125x125.jpg",
+    "items": [
+      {
+        "name": "Cosmetic Manufacturing Plant",
+        "page": "https://dir.indiamart.com/impcat/cosmetic-manufacturing-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/CP/TN/MY-2/_abb_p7_3-1_srt-125x125.jpg"
+      },
+      {
+        "name": "Ointment Plant",
+        "page": "https://dir.indiamart.com/impcat/ointment-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/OY/QE/GLADMIN-96112/ointment-plant-125x125.jpg"
+      },
+      {
+        "name": "Ointment Manufacturing Vessel",
+        "page": "https://dir.indiamart.com/impcat/ointment-manufacturing-vessel.html",
+        "thumbnail": "http://3.imimg.com/data3/IY/UC/GLADMIN-158660/ointment-manufacturing-vessel-125x125.jpg"
+      },
+      {
+        "name": "Ointment Mixer",
+        "page": "https://dir.indiamart.com/impcat/ointment-mixer.html",
+        "thumbnail": "http://3.imimg.com/data3/IV/DM/GLADMIN-17855/ointment-mixer-125x125.jpg"
+      },
+      {
+        "name": "Toothpaste Plant",
+        "page": "https://dir.indiamart.com/impcat/toothpaste-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/XO/MY-2/toothpaste-plant-125x125.jpg"
+      },
+      {
+        "name": "Lotion Manufacturing Plant",
+        "page": "https://dir.indiamart.com/impcat/lotion-manufacturing-plant.html",
+        "thumbnail": "http://4.imimg.com/data4/KF/OJ/GLADMIN-179742/lotion-manufacturing-plant-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Skids",
+    "category_thumbnail": "http://4.imimg.com/data4/DM/WP/GLADMIN-180133/industrial-skids-125x125.jpg",
+    "items": [
+      {
+        "name": "Skid Mounted Plant",
+        "page": "https://dir.indiamart.com/impcat/skid-mounted-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/CV/GLADMIN-127410/skid-mounted-plant-125x125.jpg"
+      },
+      {
+        "name": "Water Filtration Skids",
+        "page": "https://dir.indiamart.com/impcat/water-filtration-skids.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/KG/GLADMIN-140058/water-filtration-skids-125x125.jpg"
+      },
+      {
+        "name": "Metering Skid",
+        "page": "https://dir.indiamart.com/impcat/metering-skid.html",
+        "thumbnail": "http://3.imimg.com/data3/NI/RD/GLADMIN-107254/metering-skid-125x125.jpg"
+      },
+      {
+        "name": "Chemical Dosing Skid",
+        "page": "https://dir.indiamart.com/impcat/chemical-dosing-skid.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/BL/MY-2/287-125x125.jpg"
+      },
+      {
+        "name": "Distribution Skid",
+        "page": "https://dir.indiamart.com/impcat/distribution-skid.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/XM/GLADMIN-108647/distribution-skid-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Oilfield Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/FW/NV/GLADMIN-33038/oilfield-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Industrial Skids",
+        "page": "https://dir.indiamart.com/impcat/industrial-skids.html",
+        "thumbnail": "http://4.imimg.com/data4/DM/WP/GLADMIN-180133/industrial-skids-125x125.jpg"
+      },
+      {
+        "name": "Oil Field Components",
+        "page": "https://dir.indiamart.com/impcat/oil-field-components.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/GG/GLADMIN-80762/oil-field-components-125x125.jpg"
+      },
+      {
+        "name": "Oil Field Equipment Spare",
+        "page": "https://dir.indiamart.com/impcat/oil-field-equipment-spare.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/TI/GLADMIN-126165/oil-field-equipment-spare-125x125.jpg"
+      },
+      {
+        "name": "Gas Conditioning System",
+        "page": "https://dir.indiamart.com/impcat/gas-conditioning-system.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/TA/GLADMIN-/assets-images-fgcs1_lg-125x125.png"
+      },
+      {
+        "name": "Desolventizer Toaster",
+        "page": "https://dir.indiamart.com/impcat/desolventizer-toaster.html",
+        "thumbnail": "http://3.imimg.com/data3/ET/BS/GLADMIN-136528/desolventizer-toaster-125x125.jpg"
+      },
+      {
+        "name": "Oil Conditioning Plant",
+        "page": "https://dir.indiamart.com/impcat/oil-conditioning-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/NT/GLADMIN-149141/oil-conditioning-plant-125x125.jpg"
+      },
+      {
+        "name": "Hot Oil System",
+        "page": "https://dir.indiamart.com/impcat/hot-oil-system.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/KE/GLADMIN-143760/hot-oil-system-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Chemical Machinery Parts",
+    "category_thumbnail": "http://3.imimg.com/data3/UV/TS/MY-2/image_11262-125x125.jpg",
+    "items": [
+      {
+        "name": "Column Internals",
+        "page": "https://dir.indiamart.com/impcat/column-internals.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/AN/MY-2/conditioning-silo-internals1-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Soap Machine",
+        "page": "https://dir.indiamart.com/impcat/soap-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/OU/NH/MY-2/zeepapparatuur-125x125.jpg"
+      }
+    ]
+  }
+]

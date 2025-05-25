@@ -1,0 +1,444 @@
+[
+  {
+    "category_name": "Beauty Services",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GV/OS/ED/85062/beauty-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Beautician Course",
+        "page": "https://dir.indiamart.com/impcat/beautician-training-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/SV/GLADMIN-173135/beautician-training-services-125x125.jpg"
+      },
+      {
+        "name": "Beauty Parlours",
+        "page": "https://dir.indiamart.com/impcat/beauty-salons.html",
+        "thumbnail": "http://5.imimg.com/data5/SW/GE/GLADMIN-2/beauty-salons-125x125.jpg"
+      },
+      {
+        "name": "Mehndi Designer",
+        "page": "https://dir.indiamart.com/impcat/mehndi-designer.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/HR/FH/HY/85062/mehndi-designer-125x125.jpg"
+      },
+      {
+        "name": "Full Body Waxing Services",
+        "page": "https://dir.indiamart.com/impcat/full-body-waxing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/KL/ET/GLADMIN-171790/full-body-waxing-services-125x125.jpg"
+      },
+      {
+        "name": "Bridal Make Up Services",
+        "page": "https://dir.indiamart.com/impcat/bridal-make-up-services.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/LE/GLADMIN-174256/bridal-make-up-services-125x125.jpg"
+      },
+      {
+        "name": "Facial Skin Care",
+        "page": "https://dir.indiamart.com/impcat/facial-skin-care.html",
+        "thumbnail": "http://3.imimg.com/data3/HT/HL/GLADMIN-170465/facial-skin-care-125x125.jpg"
+      },
+      {
+        "name": "Tattoo Service",
+        "page": "https://dir.indiamart.com/impcat/tattoo-service.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/YI/GLADMIN-42840/tattoo-service-125x125.jpg"
+      },
+      {
+        "name": "Cosmetic Surgery Services",
+        "page": "https://dir.indiamart.com/impcat/cosmetic-surgery-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VJ/LW/GLADMIN-20581/cosmetic-surgery-services-125x125.jpg"
+      },
+      {
+        "name": "Saree Draping",
+        "page": "https://dir.indiamart.com/impcat/saree-draping.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379389582/WS/GQ/EH/49262/saree-draping-125x125.jpg"
+      },
+      {
+        "name": "Pedicure Services",
+        "page": "https://dir.indiamart.com/impcat/pedicure-services.html",
+        "thumbnail": "http://4.imimg.com/data4/TJ/RN/GLADMIN-182713/pedicure-services-125x125.jpg"
+      },
+      {
+        "name": "Facial Service",
+        "page": "https://dir.indiamart.com/impcat/facial-service.html",
+        "thumbnail": "http://4.imimg.com/data4/BX/TP/GLADMIN-182714/facial-service-125x125.jpg"
+      },
+      {
+        "name": "Nail Extension Services",
+        "page": "https://dir.indiamart.com/impcat/nail-extension-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/CK/JA/SA/85062/nail-extension-services-125x125.jpg"
+      },
+      {
+        "name": "Nail Art Services",
+        "page": "https://dir.indiamart.com/impcat/nail-art-services.html",
+        "thumbnail": "http://3.imimg.com/data3/ME/AO/GLADMIN-174759/nail-art-services-125x125.jpg"
+      },
+      {
+        "name": "Grooms Make Up Service",
+        "page": "https://dir.indiamart.com/impcat/grooms-make-up-service.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/FU/GLADMIN-175293/grooms-make-up-service-125x125.jpg"
+      },
+      {
+        "name": "Body Piercing Services",
+        "page": "https://dir.indiamart.com/impcat/body-piercing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/RU/GLADMIN-176568/body-piercing-services-125x125.jpg"
+      },
+      {
+        "name": "Beauty Salon Consultancy",
+        "page": "https://dir.indiamart.com/impcat/beauty-salon-consultancy.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/LN/GLADMIN-146404/beauty-salon-consultancy-125x125.jpg"
+      },
+      {
+        "name": "Face Painting Services",
+        "page": "https://dir.indiamart.com/impcat/face-painting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/AX/VI/GLADMIN-174500/face-painting-services-125x125.jpg"
+      },
+      {
+        "name": "Gold Facial",
+        "page": "https://dir.indiamart.com/impcat/gold-facial.html",
+        "thumbnail": "http://3.imimg.com/data3/BT/EA/GLADMIN-28804/gold-facial-125x125.jpg"
+      },
+      {
+        "name": "Party Makeup Services",
+        "page": "https://dir.indiamart.com/impcat/party-make-up-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381911414/MS/OK/XM/49262/party-make-up-service-125x125.jpg"
+      },
+      {
+        "name": "Mehndi Classes",
+        "page": "https://dir.indiamart.com/impcat/mehendi-classes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437411877/NR/UX/WZ/96317/mehendi-classes-125x125.jpg"
+      },
+      {
+        "name": "Cosmetological Services",
+        "page": "https://dir.indiamart.com/impcat/cosmetological-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/WH/GLADMIN-176693/cosmetological-services-125x125.jpg"
+      },
+      {
+        "name": "Body Polishing Service",
+        "page": "https://dir.indiamart.com/impcat/body-polishing.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379440148/JN/VF/YF/49262/body-polishing-125x125.jpg"
+      },
+      {
+        "name": "Face Threading",
+        "page": "https://dir.indiamart.com/impcat/face-threading.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/OQ/GLADMIN-176348/face-threading-125x125.jpg"
+      },
+      {
+        "name": "Manicure Salons",
+        "page": "https://dir.indiamart.com/impcat/manicure-salons.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/GM/GLADMIN-31713/manicure-salons-125x125.jpg"
+      },
+      {
+        "name": "Personal Grooming Course",
+        "page": "https://dir.indiamart.com/impcat/personal-grooming-course.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379488962/WC/EU/TZ/49262/personal-grooming-course-125x125.jpg"
+      },
+      {
+        "name": "Face Bleach Service",
+        "page": "https://dir.indiamart.com/impcat/face-bleach-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379443763/OK/VD/JP/49262/face-bleach-service-125x125.jpg"
+      },
+      {
+        "name": "Diamond Facial Service",
+        "page": "https://dir.indiamart.com/impcat/diamond-facial-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379495119/ZL/GN/HZ/49262/diamond-facial-service-125x125.jpg"
+      },
+      {
+        "name": "Body Bleach Service",
+        "page": "https://dir.indiamart.com/impcat/body-bleach-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379462056/OQ/JY/DZ/49262/body-bleach-service-125x125.jpg"
+      },
+      {
+        "name": "Pearl Facial Service",
+        "page": "https://dir.indiamart.com/impcat/pearl-facial-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379498564/XP/DK/HY/49262/pearl-facial-service-125x125.jpg"
+      },
+      {
+        "name": "Eye Make Up Service",
+        "page": "https://dir.indiamart.com/impcat/eye-make-up-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379387156/AD/EM/AI/49262/eye-make-up-service-125x125.jpg"
+      },
+      {
+        "name": "Anklets Tattoos",
+        "page": "https://dir.indiamart.com/impcat/anklets-tattoos.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/YS/GLADMIN-122589/anklets-tattoos-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Hair Styling Salon Services",
+    "category_thumbnail": "http://3.imimg.com/data3/DU/DO/GLADMIN-29955/hair-treatments-125x125.jpg",
+    "items": [
+      {
+        "name": "Hair Cutting",
+        "page": "https://dir.indiamart.com/impcat/hair-cutting.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/TN/GLADMIN-29952/hair-cutting-125x125.jpg"
+      },
+      {
+        "name": "Keratin Treatment",
+        "page": "https://dir.indiamart.com/impcat/keratin-treatment.html",
+        "thumbnail": "http://5.imimg.com/data5/NH/NM/GLADMIN-2/keratin-treatment-125x125.jpg"
+      },
+      {
+        "name": "Hair Rebonding",
+        "page": "https://dir.indiamart.com/impcat/hair-rebonding.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/WI/NT/QV/85062/hair-rebonding-125x125.png"
+      },
+      {
+        "name": "Women Hair Cut Services",
+        "page": "https://dir.indiamart.com/impcat/women-hair-cut-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SD/BO/IV/85062/women-hair-cut-services-125x125.jpg"
+      },
+      {
+        "name": "Hair Smoothening",
+        "page": "https://dir.indiamart.com/impcat/hair-smoothening.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/380322517/BI/UZ/YR/49262/hair-smoothening-125x125.jpg"
+      },
+      {
+        "name": "Hair Coloring Service",
+        "page": "https://dir.indiamart.com/impcat/hair-coloring-service.html",
+        "thumbnail": "http://3.imimg.com/data3/DI/AO/GLADMIN-171814/hair-coloring-service-125x125.jpg"
+      },
+      {
+        "name": "Blow Dry",
+        "page": "https://dir.indiamart.com/impcat/blow-dry.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379349963/SL/VX/XR/49262/blow-dry-125x125.jpg"
+      },
+      {
+        "name": "Hair Wash Service",
+        "page": "https://dir.indiamart.com/impcat/hair-wash-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379481996/QG/XK/KB/49262/hair-wash-service-125x125.jpg"
+      },
+      {
+        "name": "Hair Perming",
+        "page": "https://dir.indiamart.com/impcat/hair-perming.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379339409/XP/LC/CE/49262/hair-perming-125x125.jpg"
+      },
+      {
+        "name": "Hair Conditioning",
+        "page": "https://dir.indiamart.com/impcat/hair-conditioning.html",
+        "thumbnail": "http://3.imimg.com/data3/TP/DQ/GLADMIN-176378/hair-conditioning-125x125.jpg"
+      },
+      {
+        "name": "Men Hair Styling",
+        "page": "https://dir.indiamart.com/impcat/men-hair-styling.html",
+        "thumbnail": "http://4.imimg.com/data4/YF/LV/GLADMIN-2/men-hair-styling-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Beautician Course",
+    "category_thumbnail": "http://3.imimg.com/data3/UL/SV/GLADMIN-173135/beautician-training-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Nail Art and Extension Course",
+        "page": "https://dir.indiamart.com/impcat/nail-art-and-extension-course.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/382086176/ER/IK/CD/49262/nail-art-and-extension-course-125x125.jpg"
+      },
+      {
+        "name": "Hair Styling Course",
+        "page": "https://dir.indiamart.com/impcat/hair-styling-course.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/382106585/KJ/PK/GZ/49262/hair-styling-course-125x125.jpg"
+      },
+      {
+        "name": "Bridal Makeup Course",
+        "page": "https://dir.indiamart.com/impcat/bridal-makeup-course.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/382272269/WH/GD/IK/49262/bridal-makeup-course-125x125.jpg"
+      },
+      {
+        "name": "Tattoo Training Services",
+        "page": "https://dir.indiamart.com/impcat/tattoo-training-services.html",
+        "thumbnail": "http://3.imimg.com/data3/WJ/LS/GLADMIN-172763/tattoo-training-services-125x125.jpg"
+      },
+      {
+        "name": "Skin Care Course",
+        "page": "https://dir.indiamart.com/impcat/skin-care-course.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/382095095/OY/NI/HI/49262/skin-care-course-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Health Club Services",
+    "category_thumbnail": "http://3.imimg.com/data3/SB/OQ/GLADMIN-170565/health-club-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Yoga Classes",
+        "page": "https://dir.indiamart.com/impcat/yoga-classes.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/CL/GLADMIN-133948/yoga-classes-125x125.jpg"
+      },
+      {
+        "name": "Fitness Club",
+        "page": "https://dir.indiamart.com/impcat/fitness-club.html",
+        "thumbnail": "http://3.imimg.com/data3/WU/DB/GLADMIN-28446/fitness-club-125x125.jpg"
+      },
+      {
+        "name": "Meditation Center",
+        "page": "https://dir.indiamart.com/impcat/meditation-center.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/KS/GLADMIN-41626/meditation-center-125x125.jpg"
+      },
+      {
+        "name": "Ladies Gym Services",
+        "page": "https://dir.indiamart.com/impcat/ladies-gym-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GO/RT/GLADMIN-168594/ladies-gym-services-125x125.jpg"
+      },
+      {
+        "name": "Yoga Teacher Training Services",
+        "page": "https://dir.indiamart.com/impcat/yoga-teacher-training-services.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/FT/GLADMIN-169799/yoga-teacher-training-services-125x125.jpg"
+      },
+      {
+        "name": "Physical Training Services",
+        "page": "https://dir.indiamart.com/impcat/physical-training-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LS/DX/GLADMIN-170631/physical-training-services-125x125.jpg"
+      },
+      {
+        "name": "Diet Programs",
+        "page": "https://dir.indiamart.com/impcat/diet-programs.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/CE/GLADMIN-26188/diet-programs-125x125.jpg"
+      },
+      {
+        "name": "Reiki Training Services",
+        "page": "https://dir.indiamart.com/impcat/reiki-training-services.html",
+        "thumbnail": "http://3.imimg.com/data3/OJ/OL/GLADMIN-173171/reiki-training-services-125x125.jpg"
+      },
+      {
+        "name": "Zumba Classes",
+        "page": "https://dir.indiamart.com/impcat/zumba.html",
+        "thumbnail": "http://5.imimg.com/data5/PQ/JI/GLADMIN-2/zumba-125x125.jpg"
+      },
+      {
+        "name": "Aerobics Service",
+        "page": "https://dir.indiamart.com/impcat/aerobics-service.html",
+        "thumbnail": "http://5.imimg.com/data5/TY/HY/GLADMIN-2/aerobics-125x125.jpg"
+      },
+      {
+        "name": "Weight Loss Programs",
+        "page": "https://dir.indiamart.com/impcat/weight-loss-programs.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/BW/GLADMIN-39779/weight-loss-programs-125x125.jpg"
+      },
+      {
+        "name": "Chakra Meditation",
+        "page": "https://dir.indiamart.com/impcat/chakra-meditation.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/WR/GLADMIN-176663/chakra-meditation-125x125.jpg"
+      },
+      {
+        "name": "Weight Gain Program",
+        "page": "https://dir.indiamart.com/impcat/weight-gain-program.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/WC/GLADMIN-169784/weight-gain-program-125x125.jpg"
+      },
+      {
+        "name": "Wellness Program Services",
+        "page": "https://dir.indiamart.com/impcat/wellness-program-services.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/VG/GLADMIN-171191/wellness-program-services-125x125.png"
+      },
+      {
+        "name": "Gymnastics Clubs",
+        "page": "https://dir.indiamart.com/impcat/gymnastics-clubs.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/KE/GLADMIN-29935/gymnastics-clubs-125x125.jpg"
+      },
+      {
+        "name": "Pilates Classes",
+        "page": "https://dir.indiamart.com/impcat/pilates-classes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381423881/CF/KG/PZ/49262/pilates-classes-125x125.jpg"
+      },
+      {
+        "name": "Kundalini Yoga",
+        "page": "https://dir.indiamart.com/impcat/kundalini-yoga-classes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/434252885/LS/PI/KV/93202/kundalini-yoga-classes-125x125.jpeg"
+      },
+      {
+        "name": "Weight Training Service",
+        "page": "https://dir.indiamart.com/impcat/weight-training-service.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/WN/GLADMIN-171189/weight-training-service-125x125.jpg"
+      },
+      {
+        "name": "Cardio Fitness Club Service",
+        "page": "https://dir.indiamart.com/impcat/cardio-fitness-club-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381417562/VE/IQ/RF/49262/cardio-fitness-club-service-125x125.jpg"
+      },
+      {
+        "name": "Antenatal Classes",
+        "page": "https://dir.indiamart.com/impcat/antenatal-classes.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/LV/GLADMIN-176241/antenatal-classes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Spa & Massage Service",
+    "category_thumbnail": "http://5.imimg.com/data5/NN/NN/GLADMIN-/spa-125x125.jpg",
+    "items": [
+      {
+        "name": "Head Massage",
+        "page": "https://dir.indiamart.com/impcat/head-massage.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/BO/GLADMIN-30143/head-massage-125x125.jpg"
+      },
+      {
+        "name": "Foot Massage",
+        "page": "https://dir.indiamart.com/impcat/foot-massage.html",
+        "thumbnail": "http://3.imimg.com/data3/PQ/IU/GLADMIN-28870/foot-massage-125x125.jpg"
+      },
+      {
+        "name": "Face Massage",
+        "page": "https://dir.indiamart.com/impcat/face-massage.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/KA/GLADMIN-28195/face-massage-125x125.jpg"
+      },
+      {
+        "name": "Man Massage",
+        "page": "https://dir.indiamart.com/impcat/man-massage.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/QG/GLADMIN-31690/man-massage-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tattoo Service",
+    "category_thumbnail": "http://3.imimg.com/data3/QJ/YI/GLADMIN-42840/tattoo-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Permanent Tattoo Services",
+        "page": "https://dir.indiamart.com/impcat/permanent-tattoo-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/HY/KB/UR/85062/permanent-tattoo-services-125x125.jpg"
+      },
+      {
+        "name": "Designer Tattoo",
+        "page": "https://dir.indiamart.com/impcat/designer-tattoo.html",
+        "thumbnail": "http://4.imimg.com/data4/FF/UX/GLADMIN-182999/designer-tattoo-125x125.jpg"
+      },
+      {
+        "name": "Anklets Tattoos",
+        "page": "https://dir.indiamart.com/impcat/anklets-tattoos.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/YS/GLADMIN-122589/anklets-tattoos-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Body Piercing Services",
+    "category_thumbnail": "http://3.imimg.com/data3/CU/RU/GLADMIN-176568/body-piercing-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Nose Piercing",
+        "page": "https://dir.indiamart.com/impcat/nose-piercing.html",
+        "thumbnail": "http://5.imimg.com/data5/OS/WS/SU/GLADMIN-56986/nose-piercing-125x125.jpg"
+      },
+      {
+        "name": "Ear Piercing",
+        "page": "https://dir.indiamart.com/impcat/ear-piercing.html",
+        "thumbnail": "http://5.imimg.com/data5/BJ/WE/GLADMIN-2/ear-piercing-125x125.jpg"
+      },
+      {
+        "name": "Navel Piercing",
+        "page": "https://dir.indiamart.com/impcat/navel-piercing.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/TN/DU/GLADMIN-56986/navel-piercing-125x125.jpg"
+      },
+      {
+        "name": "Tongue Piercing",
+        "page": "https://dir.indiamart.com/impcat/tongue-piercing.html",
+        "thumbnail": "http://5.imimg.com/data5/DP/WV/UH/GLADMIN-56986/tongue-piercing-125x125.jpg"
+      },
+      {
+        "name": "Lip Piercing",
+        "page": "https://dir.indiamart.com/impcat/lip-piercing.html",
+        "thumbnail": "http://5.imimg.com/data5/SP/FF/HI/GLADMIN-56986/lip-piercing-125x125.jpg"
+      },
+      {
+        "name": "Eyebrow Piercing",
+        "page": "https://dir.indiamart.com/impcat/eyebrow-piercing.html",
+        "thumbnail": "http://5.imimg.com/data5/DE/WG/CK/GLADMIN-56986/eyebrow-piercing-125x125.jpg"
+      }
+    ]
+  }
+]

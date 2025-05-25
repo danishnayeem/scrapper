@@ -1,0 +1,604 @@
+[
+  {
+    "category_name": "Cutting & Saw Blades",
+    "category_thumbnail": "http://3.imimg.com/data3/RG/PX/GLADMIN-8413/saw-blades-125x125.jpg",
+    "items": [
+      {
+        "name": "Marble Cutting Blade",
+        "page": "https://dir.indiamart.com/impcat/marble-cutting-blade.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RN/SF/OJ/4974/marble-cutting-blade-125x125.png"
+      },
+      {
+        "name": "Diamond Saw Blades",
+        "page": "https://dir.indiamart.com/impcat/diamond-saw-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/OG/GLADMIN-12787/diamond-saw-blades-125x125.jpg"
+      },
+      {
+        "name": "Wood Cutting Blade",
+        "page": "https://dir.indiamart.com/impcat/wood-cutting-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/BW/GLADMIN-148982/wood-cutting-blade-125x125.jpg"
+      },
+      {
+        "name": "Circular Saw Blades",
+        "page": "https://dir.indiamart.com/impcat/circular-saw-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/KF/MP/GLADMIN-24922/circular-saw-blades-125x125.jpg"
+      },
+      {
+        "name": "TCT Saw Blade",
+        "page": "https://dir.indiamart.com/impcat/tct-saw-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/ME/GLADMIN-68518/tct-saw-blade-125x125.jpg"
+      },
+      {
+        "name": "Stone Granite Cutting Blade",
+        "page": "https://dir.indiamart.com/impcat/granite-cutting-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/AT/GLADMIN-104878/granite-cutting-blade-125x125.jpg"
+      },
+      {
+        "name": "Concrete Cutting Blade",
+        "page": "https://dir.indiamart.com/impcat/concrete-cutting-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/CI/GLADMIN-145637/concrete-cutting-blade-125x125.jpg"
+      },
+      {
+        "name": "Metal Cutting Blades",
+        "page": "https://dir.indiamart.com/impcat/metal-cutting-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/DI/GLADMIN-33204/metal-cutting-blades-125x125.jpg"
+      },
+      {
+        "name": "HSS Saw Blade",
+        "page": "https://dir.indiamart.com/impcat/hss-saw-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/LL/AO/GLADMIN-153966/hss-saw-blade-125x125.jpg"
+      },
+      {
+        "name": "Scoring Blades",
+        "page": "https://dir.indiamart.com/impcat/scoring-blades.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/BW/HV/DD/85914/scoring-blades-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Blades",
+    "category_thumbnail": "http://3.imimg.com/data3/WC/XA/GLADMIN-30674/industrial-blades-125x125.jpg",
+    "items": [
+      {
+        "name": "Knife Blades",
+        "page": "https://dir.indiamart.com/impcat/knife-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/SV/AY/GLADMIN-31348/knife-blades-125x125.jpg"
+      },
+      {
+        "name": "Band Saw Blades",
+        "page": "https://dir.indiamart.com/impcat/band-saw-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/IV/GLADMIN-20779/band-saw-blades-125x125.jpg"
+      },
+      {
+        "name": "Machine Blades",
+        "page": "https://dir.indiamart.com/impcat/machine-blades.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/QZ/JU/NQ/85914/machine-blades-125x125.jpg"
+      },
+      {
+        "name": "Bimetal Bandsaw Blade",
+        "page": "https://dir.indiamart.com/impcat/bimetal-bandsaw-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/SP/GLADMIN-142331/bimetal-bandsaw-blade-125x125.jpg"
+      },
+      {
+        "name": "Industrial Paper Cutting Blade",
+        "page": "https://dir.indiamart.com/impcat/paper-cutter-blade.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/HT/JZ/BV/4974/paper-cutter-blade-125x125.png"
+      },
+      {
+        "name": "Shear Blades",
+        "page": "https://dir.indiamart.com/impcat/shear-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/GI/GLADMIN-8560/shear-blades-125x125.jpg"
+      },
+      {
+        "name": "Slicing Blade",
+        "page": "https://dir.indiamart.com/impcat/slicing-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/PB/WM/GLADMIN-37216/slicing-blade-125x125.jpg"
+      },
+      {
+        "name": "Grinder Blades",
+        "page": "https://dir.indiamart.com/impcat/grinder-blades.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/8/UI/FY/VK/85914/grinder-blades-125x125.jpg"
+      },
+      {
+        "name": "Paper Cutting Knives",
+        "page": "https://dir.indiamart.com/impcat/paper-cutting-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/UX/GLADMIN-5718/paper-cutting-knives-125x125.jpg"
+      },
+      {
+        "name": "Textile Cutting Blade",
+        "page": "https://dir.indiamart.com/impcat/textile-cutting-blade.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/RE/WL/LL/4974/textile-cutting-blade-125x125.png"
+      },
+      {
+        "name": "Replacement Blade",
+        "page": "https://dir.indiamart.com/impcat/replacement-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/SP/XX/GLADMIN-69512/replacement-blade-125x125.jpg"
+      },
+      {
+        "name": "Food Cutter Blades",
+        "page": "https://dir.indiamart.com/impcat/food-cutter-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/AX/LS/GLADMIN-163710/food-cutter-blades-125x125.jpg"
+      },
+      {
+        "name": "Slitting Blades",
+        "page": "https://dir.indiamart.com/impcat/slitting-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/OU/TY/GLADMIN-37231/slitting-blades-125x125.jpg"
+      },
+      {
+        "name": "SS Blade",
+        "page": "https://dir.indiamart.com/impcat/ss-blade.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/RG/ZF/GV/85914/ss-blade-125x125.jpg"
+      },
+      {
+        "name": "Carbon Steel Blades",
+        "page": "https://dir.indiamart.com/impcat/carbon-steel-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/AY/DD/GLADMIN-163692/carbon-steel-blades-125x125.jpg"
+      },
+      {
+        "name": "Scraper Blades",
+        "page": "https://dir.indiamart.com/impcat/scraper-blades.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/8/LA/FF/PI/85914/scraper-blades-125x125.jpg"
+      },
+      {
+        "name": "Steel Blade",
+        "page": "https://dir.indiamart.com/impcat/steel-blade.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/BO/EK/FZ/85914/steel-blade-125x125.jpg"
+      },
+      {
+        "name": "Circular Knives",
+        "page": "https://dir.indiamart.com/impcat/circular-knives.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/PX/WX/VW/85914/circular-knives-125x125.webp"
+      },
+      {
+        "name": "Plastic Cutting Blades",
+        "page": "https://dir.indiamart.com/impcat/plastic-cutting-blades.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/ZG/HM/TZ/85914/plastic-cutting-blades-125x125.png"
+      },
+      {
+        "name": "Band Knives",
+        "page": "https://dir.indiamart.com/impcat/band-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/VY/OQ/GLADMIN-21861/band-knives-125x125.jpg"
+      },
+      {
+        "name": "Slitting Saw",
+        "page": "https://dir.indiamart.com/impcat/hss-slitting-saw.html",
+        "thumbnail": "http://4.imimg.com/data4/WJ/SH/GLADMIN-185202/hss-slitting-saw-125x125.jpg"
+      },
+      {
+        "name": "Perforation Blades",
+        "page": "https://dir.indiamart.com/impcat/perforation-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/WI/FB/GLADMIN-68482/perforation-blades-125x125.jpg"
+      },
+      {
+        "name": "Rotary Blades",
+        "page": "https://dir.indiamart.com/impcat/rotary-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/AS/GLADMIN-42179/rotary-blades-125x125.jpg"
+      },
+      {
+        "name": "Plastic Granulator Blades",
+        "page": "https://dir.indiamart.com/impcat/plastic-granulator-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/UN/GLADMIN-152810/plastic-granulator-blades-125x125.jpg"
+      },
+      {
+        "name": "Grader Blades",
+        "page": "https://dir.indiamart.com/impcat/grader-blades.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/HE/YU/ZB/4974/grader-blades-125x125.png"
+      },
+      {
+        "name": "Slotter Blade",
+        "page": "https://dir.indiamart.com/impcat/slotter-blade.html",
+        "thumbnail": "http://4.imimg.com/data4/QH/LS/GLADMIN-2/slotter-blade-125x125.jpg"
+      },
+      {
+        "name": "Industrial Knives",
+        "page": "https://dir.indiamart.com/impcat/industrial-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/RG/OE/GLADMIN-1816/industrial-knives-125x125.jpg"
+      },
+      {
+        "name": "Work Rest Blade",
+        "page": "https://dir.indiamart.com/impcat/work-rest-blade.html",
+        "thumbnail": "http://4.imimg.com/data4/TU/QW/GLADMIN-181901/work-rest-blade-125x125.jpg"
+      },
+      {
+        "name": "Guillotine Blades",
+        "page": "https://dir.indiamart.com/impcat/guillotine-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/QG/II/GLADMIN-166576/guillotine-blades-125x125.jpg"
+      },
+      {
+        "name": "Tungsten Carbide Knives",
+        "page": "https://dir.indiamart.com/impcat/tungsten-carbide-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/VX/GLADMIN-40279/tungsten-carbide-knives-125x125.jpg"
+      },
+      {
+        "name": "Leather Shaving Knife",
+        "page": "https://dir.indiamart.com/impcat/leather-knives.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SV/WE/UF/86068/leather-shaving-knife-125x125.jpg"
+      },
+      {
+        "name": "Chipper Knives",
+        "page": "https://dir.indiamart.com/impcat/chipper-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/LP/SE/GLADMIN-12526/chipper-knives-125x125.jpg"
+      },
+      {
+        "name": "Machine Knives",
+        "page": "https://dir.indiamart.com/impcat/machine-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/UR/XE/GLADMIN-31648/machine-knives-125x125.jpg"
+      },
+      {
+        "name": "Trimmer Knives",
+        "page": "https://dir.indiamart.com/impcat/trimmer-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/MB/XS/GLADMIN-68524/trimmer-knives-125x125.jpg"
+      },
+      {
+        "name": "Carbide Knives",
+        "page": "https://dir.indiamart.com/impcat/carbide-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/AM/GLADMIN-24293/carbide-knives-125x125.jpg"
+      },
+      {
+        "name": "Perforating Knife",
+        "page": "https://dir.indiamart.com/impcat/perforating-knife.html",
+        "thumbnail": "http://3.imimg.com/data3/AV/TV/GLADMIN-158894/perforating-knife-125x125.jpg"
+      },
+      {
+        "name": "Serrated Blade",
+        "page": "https://dir.indiamart.com/impcat/serrated-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/SC/GLADMIN-8528/serrated-blade-125x125.jpg"
+      },
+      {
+        "name": "Rewinder Top Knives",
+        "page": "https://dir.indiamart.com/impcat/rewinder-top-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/YB/BN/GLADMIN-/1-1818560-full-images-rewinder-knife-1049826-125x125.jpg"
+      },
+      {
+        "name": "Rotary Knives",
+        "page": "https://dir.indiamart.com/impcat/rotary-knives.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/a-img922-8669-d3u5qr-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Grinding Wheels",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RK/LD/SN/4974/grinding-wheels-125x125.png",
+    "items": [
+      {
+        "name": "Emery Stone",
+        "page": "https://dir.indiamart.com/impcat/emery-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/SF/PH/NE/86025/emery-stone-125x125.jpg"
+      },
+      {
+        "name": "Grinding Stone",
+        "page": "https://dir.indiamart.com/impcat/grinding-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/WQ/MY-2/grinding-stone-125x125.jpg"
+      },
+      {
+        "name": "Diamond Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/diamond-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/VC/GLADMIN-26482/diamond-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Metal Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/metal-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/JO/XY/GLADMIN-95751/metal-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Diamond Cup Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/diamond-cup-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/BX/GLADMIN-95738/diamond-cup-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Grinding Cup Wheel",
+        "page": "https://dir.indiamart.com/impcat/grinding-cup-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/UN/ZA/UM/85914/grinding-cup-wheel-125x125.webp"
+      },
+      {
+        "name": "CBN Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/cbn-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/YQ/GLADMIN-24590/cbn-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Surface Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/surface-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/KK/GM/GLADMIN-39130/surface-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Resin Bonded Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/resin-bonded-grinding-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/LF/ZA/NZ/85914/resin-bonded-grinding-wheel-125x125.webp"
+      },
+      {
+        "name": "Glass Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/glass-grinding-wheel.html",
+        "thumbnail": "http://4.imimg.com/data4/TD/WX/GLADMIN-180566/glass-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Carbide Grinding Wheels",
+        "page": "https://dir.indiamart.com/impcat/carbide-grinding-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/BX/GLADMIN-5535/carbide-grinding-wheels-125x125.jpg"
+      },
+      {
+        "name": "Internal Grinding wheels",
+        "page": "https://dir.indiamart.com/impcat/internal-grinding-wheels.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/QK/SZ/MV/85914/internal-grinding-wheels-125x125.webp"
+      },
+      {
+        "name": "Rubber Bonded Grinding Wheels",
+        "page": "https://dir.indiamart.com/impcat/rubber-bonded-grinding-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/VC/GLADMIN-8281/rubber-bonded-grinding-wheels-125x125.jpg"
+      },
+      {
+        "name": "Saw Gumming Wheel",
+        "page": "https://dir.indiamart.com/impcat/saw-gumming-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/MK/GLADMIN-95764/saw-gumming-wheel-125x125.jpg"
+      },
+      {
+        "name": "Toolroom Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/toolroom-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/JI/GLADMIN-90161/toolroom-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Silicon Carbide Wheel",
+        "page": "https://dir.indiamart.com/impcat/silicon-carbide-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/KV/GLADMIN-138317/silicon-carbide-wheel-125x125.jpg"
+      },
+      {
+        "name": "Profile Wheel",
+        "page": "https://dir.indiamart.com/impcat/profile-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/OX/GLADMIN-85491/profile-wheel-125x125.jpg"
+      },
+      {
+        "name": "Disc Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/disc-grinding-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/YN/GLADMIN-95741/disc-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Centerless Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/centerless-grinding-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/PU/MF/US/85914/centerless-grinding-wheel-125x125.webp"
+      },
+      {
+        "name": "Cylindrical Wheel",
+        "page": "https://dir.indiamart.com/impcat/cylindrical-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/PM/DM/XX/85914/cylindrical-wheel-125x125.webp"
+      },
+      {
+        "name": "Electroplated Diamond Wheels",
+        "page": "https://dir.indiamart.com/impcat/electroplated-diamond-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/CQ/PF/GLADMIN-163193/electroplated-diamond-wheels-125x125.jpg"
+      },
+      {
+        "name": "Mounted Wheels",
+        "page": "https://dir.indiamart.com/impcat/mounted-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/DN/GLADMIN-142333/mounted-wheels-125x125.jpg"
+      },
+      {
+        "name": "Grinding Wheel Dressers",
+        "page": "https://dir.indiamart.com/impcat/grinding-wheel-dressers.html",
+        "thumbnail": "http://3.imimg.com/data3/EB/VH/GLADMIN-29829/grinding-wheel-dressers-125x125.jpg"
+      },
+      {
+        "name": "Electroplated Diamond Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/electroplated-diamond-grinding-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/RR/RR/GLADMIN-/electroplated-diamond-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Metal Bond Wheel",
+        "page": "https://dir.indiamart.com/impcat/metal-bond-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/QR/GLADMIN-85489/metal-bond-wheel-125x125.jpg"
+      },
+      {
+        "name": "Regulating Wheel",
+        "page": "https://dir.indiamart.com/impcat/regulating-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/YS/DM/GLADMIN-36315/regulating-wheel-125x125.jpg"
+      },
+      {
+        "name": "Pedestal Grinding Wheel",
+        "page": "https://dir.indiamart.com/impcat/pedestal-grinding-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/BE/YV/GLADMIN-2/pedestal-grinding-wheel-125x125.jpg"
+      },
+      {
+        "name": "Grinding Wheel Flange",
+        "page": "https://dir.indiamart.com/impcat/grinding-wheel-flange.html",
+        "thumbnail": "http://3.imimg.com/data3/EG/LA/GLADMIN-165473/grinding-wheel-flange-125x125.jpg"
+      },
+      {
+        "name": "Snagging Wheels",
+        "page": "https://dir.indiamart.com/impcat/snagging-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/VH/TF/GLADMIN-36942/snagging-wheels-125x125.jpg"
+      },
+      {
+        "name": "Wheel Carborundum",
+        "page": "https://dir.indiamart.com/impcat/wheel-carborundum.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/LQ/GLADMIN-126133/wheel-carborundum-125x125.jpg"
+      },
+      {
+        "name": "Electroplated Wheel",
+        "page": "https://dir.indiamart.com/impcat/electroplated-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/RX/GLADMIN-89532/electroplated-wheel-125x125.jpg"
+      },
+      {
+        "name": "Resin Cup Wheel",
+        "page": "https://dir.indiamart.com/impcat/resin-cup-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/MN/MY-2/resin-cup-wheel-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cutting Wheels",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/KV/EU/LR/4974/cutting-wheels-125x125.png",
+    "items": [
+      {
+        "name": "Cut Off Wheel",
+        "page": "https://dir.indiamart.com/impcat/cut-off-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/XL/GLADMIN-68421/cut-off-wheel-125x125.jpg"
+      },
+      {
+        "name": "Diamond Cutting Wheels",
+        "page": "https://dir.indiamart.com/impcat/diamond-cutting-wheels.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/IJ/GLADMIN-12781/diamond-cutting-wheels-125x125.jpg"
+      },
+      {
+        "name": "Glass Cutting Wheels",
+        "page": "https://dir.indiamart.com/impcat/glass-cutting-wheels.html",
+        "thumbnail": "http://5.imimg.com/data5/LU/UM/GLADMIN-2/glass-cutting-wheel-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Hacksaw, Planer & Jigsaw Blades",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/ZI/JM/VV/85914/blades-125x125.jpg",
+    "items": [
+      {
+        "name": "Hacksaw Blade",
+        "page": "https://dir.indiamart.com/impcat/hacksaw-blade.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EP/QF/GE/4974/hacksaw-blade-125x125.png"
+      },
+      {
+        "name": "Planer Blades",
+        "page": "https://dir.indiamart.com/impcat/planer-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/OL/GLADMIN-68483/planer-blades-125x125.jpg"
+      },
+      {
+        "name": "Jigsaw Blades",
+        "page": "https://dir.indiamart.com/impcat/jigsaw-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/RK/WX/GLADMIN-31208/jigsaw-blades-125x125.jpg"
+      },
+      {
+        "name": "Hand Saw Blades",
+        "page": "https://dir.indiamart.com/impcat/hand-saw-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/MX/GLADMIN-68457/hand-saw-blades-125x125.jpg"
+      },
+      {
+        "name": "Reciprocating Saw Blade",
+        "page": "https://dir.indiamart.com/impcat/reciprocating-saw-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/ME/JF/GLADMIN-68493/reciprocating-saw-blade-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diamond Cutting Tools",
+    "category_thumbnail": "http://3.imimg.com/data3/GB/PE/GLADMIN-1930/diamond-cutting-tools-125x125.jpg",
+    "items": [
+      {
+        "name": "Diamond Core Drills",
+        "page": "https://dir.indiamart.com/impcat/diamond-core-drills.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/JT/GLADMIN-26165/diamond-core-drills-125x125.jpg"
+      },
+      {
+        "name": "Diamond Drill Bits",
+        "page": "https://dir.indiamart.com/impcat/diamond-drill-bits.html",
+        "thumbnail": "http://3.imimg.com/data3/TW/MW/GLADMIN-26370/diamond-drill-bits-125x125.jpg"
+      },
+      {
+        "name": "Diamond Dresser",
+        "page": "https://dir.indiamart.com/impcat/diamond-dresser.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/ET/GLADMIN-85144/diamond-dresser-125x125.jpg"
+      },
+      {
+        "name": "Diamond Files",
+        "page": "https://dir.indiamart.com/impcat/diamond-files.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/YY/GLADMIN-26481/diamond-files-125x125.jpg"
+      },
+      {
+        "name": "PCD Cutting Tools",
+        "page": "https://dir.indiamart.com/impcat/pcd-cutting-tools.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/VP/GLADMIN-154397/pcd-cutting-tools-125x125.jpg"
+      },
+      {
+        "name": "Diamond Wire",
+        "page": "https://dir.indiamart.com/impcat/diamond-wire.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/WB/GLADMIN-107035/diamond-wire-125x125.jpg"
+      },
+      {
+        "name": "Diamond Scaife",
+        "page": "https://dir.indiamart.com/impcat/diamond-scaife.html",
+        "thumbnail": "http://3.imimg.com/data3/BQ/JO/GLADMIN-/wp-content-uploads-2012-06-diamond-scaife-without-spindle-copy-1024x680-125x125.jpg"
+      },
+      {
+        "name": "Diamond Wire Saw Beads",
+        "page": "https://dir.indiamart.com/impcat/diamond-wire-saw-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/MV/YK/GLADMIN-84167/diamond-wire-saw-beads-125x125.jpg"
+      },
+      {
+        "name": "Posalux Diamond Tools",
+        "page": "https://dir.indiamart.com/impcat/posalux-diamond-tools.html",
+        "thumbnail": "http://5.imimg.com/data5/DM/LC/GLADMIN-2/posalux-diamond-tools-125x125.jpg"
+      },
+      {
+        "name": "Diamond Saws",
+        "page": "https://dir.indiamart.com/impcat/diamond-saws.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/11/YM/ML/NT/80165/diamond-saws-125x125.jpg"
+      },
+      {
+        "name": "Diamond Drills",
+        "page": "https://dir.indiamart.com/impcat/diamond-drills.html",
+        "thumbnail": "http://3.imimg.com/data3/EB/LF/GLADMIN-26371/diamond-drills-125x125.jpg"
+      },
+      {
+        "name": "Diamond Core Cutter",
+        "page": "https://dir.indiamart.com/impcat/diamond-core-cutter.html",
+        "thumbnail": "http://4.imimg.com/data4/GL/RD/GLADMIN-186090/diamond-core-cutter-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Diamond Wheel",
+        "page": "https://dir.indiamart.com/impcat/ceramic-diamond-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/JE/RS/GLADMIN-146033/ceramic-diamond-wheel-125x125.jpg"
+      },
+      {
+        "name": "PCD Reamer",
+        "page": "https://dir.indiamart.com/impcat/pcd-reamer.html",
+        "thumbnail": "http://3.imimg.com/data3/KX/RV/GLADMIN-154398/pcd-reamer-125x125.jpg"
+      },
+      {
+        "name": "Diamond Rolls",
+        "page": "https://dir.indiamart.com/impcat/diamond-rolls.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/PK/GLADMIN-142140/diamond-rolls-125x125.jpg"
+      },
+      {
+        "name": "Diamond Scriber",
+        "page": "https://dir.indiamart.com/impcat/diamond-scriber.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/DB/GLADMIN-26373/diamond-scriber-125x125.jpg"
+      },
+      {
+        "name": "Diamond Abrasives",
+        "page": "https://dir.indiamart.com/impcat/diamond-abrasives.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/LY/GLADMIN-26162/diamond-abrasives-125x125.png"
+      },
+      {
+        "name": "Diamond Laser Parts",
+        "page": "https://dir.indiamart.com/impcat/diamond-laser-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/MH/YK/GLADMIN-127477/diamond-laser-parts-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diamond Dresser",
+    "category_thumbnail": "http://3.imimg.com/data3/LE/ET/GLADMIN-85144/diamond-dresser-125x125.jpg",
+    "items": [
+      {
+        "name": "Single Point Diamond Dresser",
+        "page": "https://dir.indiamart.com/impcat/single-point-diamond-dresser.html",
+        "thumbnail": "http://3.imimg.com/data3/VU/FQ/GLADMIN-84170/single-point-diamond-dresser-125x125.jpg"
+      },
+      {
+        "name": "Multi Point Diamond Dresser",
+        "page": "https://dir.indiamart.com/impcat/multi-point-diamond-dresser.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/KR/GLADMIN-177281/multi-point-diamond-dresser-125x125.jpg"
+      },
+      {
+        "name": "Blade Type Diamond Dresser",
+        "page": "https://dir.indiamart.com/impcat/blade-type-diamond-dresser.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/PG/OX/QA/85914/blade-type-diamond-dresser-125x125.webp"
+      },
+      {
+        "name": "Cluster Type Diamond Dresser",
+        "page": "https://dir.indiamart.com/impcat/cluster-type-diamond-dresser.html",
+        "thumbnail": "http://3.imimg.com/data3/QN/IY/GLADMIN-177282/cluster-type-diamond-dresser-125x125.jpg"
+      },
+      {
+        "name": "Impregnated Diamond Dresser",
+        "page": "https://dir.indiamart.com/impcat/impregnated-diamond-dresser.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/GN/GLADMIN-85487/impregnated-diamond-dresser-125x125.jpg"
+      }
+    ]
+  }
+]

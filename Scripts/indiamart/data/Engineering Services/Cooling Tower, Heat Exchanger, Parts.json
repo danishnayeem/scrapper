@@ -1,0 +1,795 @@
+[
+  {
+    "category_name": "Heat Exchangers",
+    "category_thumbnail": "http://3.imimg.com/data3/GX/WN/GLADMIN-1082/heat-exchangers-125x125.jpg",
+    "items": [
+      {
+        "name": "Plate Heat Exchangers",
+        "page": "https://dir.indiamart.com/impcat/plate-heat-exchangers.html",
+        "thumbnail": "http://3.imimg.com/data3/JE/HG/GLADMIN-5062/plate-heat-exchangers-125x125.jpg"
+      },
+      {
+        "name": "Shell and Tube Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/tube-shell-heat-exchangers.html",
+        "thumbnail": "http://3.imimg.com/data3/SS/CC/GLADMIN-165/tube-125x125.jpg"
+      },
+      {
+        "name": "Brazed Plate Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/brazed-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/OH/GLADMIN-178012/brazed-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Intercoolers",
+        "page": "https://dir.indiamart.com/impcat/intercoolers.html",
+        "thumbnail": "http://3.imimg.com/data3/OV/II/GLADMIN-31017/intercoolers-125x125.jpg"
+      },
+      {
+        "name": "Tube Heat Exchangers",
+        "page": "https://dir.indiamart.com/impcat/tube-heat-exchangers.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/ND/GLADMIN-2586/tube-heat-exchangers-125x125.jpg"
+      },
+      {
+        "name": "Cabinet Coolers",
+        "page": "https://dir.indiamart.com/impcat/cabinet-coolers.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/GV/GLADMIN-/wp-content-uploads-exair-products-cabinetcoolers-etc_pr_275-125x125.jpg"
+      },
+      {
+        "name": "Finned Tube Heat Exchangers",
+        "page": "https://dir.indiamart.com/impcat/finned-tube-heat-exchangers.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/CN/GLADMIN-163/finned-tube-heat-exchangers-125x125.jpg"
+      },
+      {
+        "name": "Aftercoolers",
+        "page": "https://dir.indiamart.com/impcat/aftercoolers.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/WE/GLADMIN-21642/aftercoolers-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Heat Exchangers",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-heat-exchangers.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/NV/GLADMIN-7799/stainless-steel-heat-exchangers-125x125.jpg"
+      },
+      {
+        "name": "Panel Coolers",
+        "page": "https://dir.indiamart.com/impcat/panel-coolers.html",
+        "thumbnail": "http://3.imimg.com/data3/UG/YX/GLADMIN-5700/panel-coolers-125x125.jpg"
+      },
+      {
+        "name": "Inverter Heat Sink",
+        "page": "https://dir.indiamart.com/impcat/inverter-heat-sink.html",
+        "thumbnail": "http://5.imimg.com/data5/DP/XE/CV/GLADMIN-72666/inverter-heat-sink-125x125.jpg"
+      },
+      {
+        "name": "Energy Recovery Ventilator",
+        "page": "https://dir.indiamart.com/impcat/energy-recovery-ventilator.html",
+        "thumbnail": "http://5.imimg.com/data5/UB/CC/GLADMIN-2/energy-recovery-ventilator-125x125.jpg"
+      },
+      {
+        "name": "Industrial Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/industrial-heat-exchanger.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369801458/UA/KR/CR/96317/industrial-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Economizer",
+        "page": "https://dir.indiamart.com/impcat/economizer.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/VR/GLADMIN-55733/economizer-125x125.jpg"
+      },
+      {
+        "name": "Coil Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/coil-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/WG/GLADMIN-150065/coil-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Blanking Panels",
+        "page": "https://dir.indiamart.com/impcat/blanking-panels.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/HD/GLADMIN-/share-products05-vpod-vertical-blanking-panel-125x125.jpg"
+      },
+      {
+        "name": "Extrusion Heat Sinks",
+        "page": "https://dir.indiamart.com/impcat/extrusion-heat-sinks.html",
+        "thumbnail": "http://3.imimg.com/data3/OU/XB/GLADMIN-55118/extrusion-heat-sinks-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Plate Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-plate-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/UM/GLADMIN-143184/stainless-steel-plate-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Copper Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/copper-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/TF/GLADMIN-72963/copper-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Gasketed Plate Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/gasketed-plate-heat-exchanger.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/4/297733793/KE/YW/DI/96809/gasketed-plate-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Heat Recovery System",
+        "page": "https://dir.indiamart.com/impcat/heat-recovery-system.html",
+        "thumbnail": "http://3.imimg.com/data3/UR/ML/GLADMIN-42551/heat-recovery-system-125x125.jpg"
+      },
+      {
+        "name": "Graphite Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/graphite-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/CI/GLADMIN-160344/graphite-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Heat Transfer Equipment",
+        "page": "https://dir.indiamart.com/impcat/heat-transfer-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/AA/IU/GLADMIN-30206/heat-transfer-equipment-125x125.jpg"
+      },
+      {
+        "name": "Titanium Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/titanium-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/VJ/PH/GLADMIN-72970/titanium-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Air Preheaters",
+        "page": "https://dir.indiamart.com/impcat/air-preheaters.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/WF/GLADMIN-21688/air-preheaters-125x125.jpg"
+      },
+      {
+        "name": "Air Cooled Heat Exchangers",
+        "page": "https://dir.indiamart.com/impcat/air-cooled-heat-exchangers.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/DH/GLADMIN-1083/air-cooled-heat-exchangers-125x125.jpg"
+      },
+      {
+        "name": "Mild Steel Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/mild-steel-heat-exchanger.html",
+        "thumbnail": "http://4.imimg.com/data4/DT/ME/GLADMIN-186378/mild-steel-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Scraped Surface Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/scraped-surface-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/SF/GB/GLADMIN-167193/scraped-surface-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Water Cooled Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/water-cooled-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/GY/GLADMIN-167234/water-cooled-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Air Blast Cooler",
+        "page": "https://dir.indiamart.com/impcat/air-blast-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/PK/GLADMIN-148154/air-blast-cooler-125x125.jpg"
+      },
+      {
+        "name": "Anodizing Heatsink",
+        "page": "https://dir.indiamart.com/impcat/anodizing-heatsink.html",
+        "thumbnail": "http://3.imimg.com/data3/KD/RY/GLADMIN-95055/anodizing-heatsink-125x125.jpg"
+      },
+      {
+        "name": "Gas Coolers",
+        "page": "https://dir.indiamart.com/impcat/gas-coolers.html",
+        "thumbnail": "http://3.imimg.com/data3/OJ/OC/GLADMIN-29258/gas-coolers-125x125.jpg"
+      },
+      {
+        "name": "Heat Exchanger Designing Service",
+        "page": "https://dir.indiamart.com/impcat/heat-exchanger-designing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/WW/PI/GLADMIN-170568/heat-exchanger-designing-service-125x125.jpg"
+      },
+      {
+        "name": "Rice Mill Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/rice-mill-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/SJ/GLADMIN-106161/rice-mill-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Air Compressor Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/air-compressor-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/UF/GLADMIN-72956/air-compressor-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Heat Transfer Apparatus",
+        "page": "https://dir.indiamart.com/impcat/heat-transfer-apparatus.html",
+        "thumbnail": "http://3.imimg.com/data3/XV/KF/GLADMIN-106331/heat-transfer-apparatus-125x125.jpg"
+      },
+      {
+        "name": "Compressor Intercooler",
+        "page": "https://dir.indiamart.com/impcat/compressor-intercooler.html",
+        "thumbnail": "http://5.imimg.com/data5/QU/HB/DN/GLADMIN-73621/compressor-intercooler-125x125.jpg"
+      },
+      {
+        "name": "Glass Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/glass-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/WJ/UA/GLADMIN-145034/glass-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/aluminum-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/BO/PL/GLADMIN-72958/aluminum-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Industrial Intercooler",
+        "page": "https://dir.indiamart.com/impcat/industrial-intercooler.html",
+        "thumbnail": "http://5.imimg.com/data5/AH/CF/PD/GLADMIN-73621/industrial-intercooler-125x125.jpg"
+      },
+      {
+        "name": "Refrigeration Heat Exchangers",
+        "page": "https://dir.indiamart.com/impcat/refrigeration-heat-exchangers.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/PY/GLADMIN-36298/refrigeration-heat-exchangers-125x125.jpg"
+      },
+      {
+        "name": "Horizontal Accumulator",
+        "page": "https://dir.indiamart.com/impcat/horizontal-accumulator.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/IL/MY-2/yj3-5m-horizontal-strip-accumulator-yj-3-5-sa--125x125.jpg"
+      },
+      {
+        "name": "Bed Ash Cooler",
+        "page": "https://dir.indiamart.com/impcat/bed-ash-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/YH/GLADMIN-145341/bed-ash-cooler-125x125.jpg"
+      },
+      {
+        "name": "Counter Flow Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/counter-flow-heat-exchanger.html",
+        "thumbnail": "http://5.imimg.com/data5/WZ/TI/NX/GLADMIN-65832/counter-flow-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Reboiler Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/reboiler-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/KM/MA/GLADMIN-131708/reboiler-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Vapour Condenser",
+        "page": "https://dir.indiamart.com/impcat/vapour-condenser.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/XX/GLADMIN-133944/vapour-condenser-125x125.jpg"
+      },
+      {
+        "name": "Vertical After Cooler",
+        "page": "https://dir.indiamart.com/impcat/vertical-after-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/MH/GLADMIN-156335/vertical-after-cooler-125x125.jpg"
+      },
+      {
+        "name": "Tubesheet Exchanger",
+        "page": "https://dir.indiamart.com/impcat/tube-sheet-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/UV/GLADMIN-72971/tube-sheet-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Critical Heat Flux Apparatus",
+        "page": "https://dir.indiamart.com/impcat/critical-heat-flux-apparatus.html",
+        "thumbnail": "http://3.imimg.com/data3/JK/QX/GLADMIN-105102/critical-heat-flux-apparatus-125x125.jpg"
+      },
+      {
+        "name": "Horizontal Aftercooler",
+        "page": "https://dir.indiamart.com/impcat/horizontal-after-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/AB/FB/GLADMIN-156334/horizontal-after-cooler-125x125.jpg"
+      },
+      {
+        "name": "Carbon Steel Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/carbon-steel-heat-exchanger.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/a-img923-9608-z5iwzj-125x125.png"
+      },
+      {
+        "name": "Combination Cooler",
+        "page": "https://dir.indiamart.com/impcat/combination-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/KI/GLADMIN-160832/combination-cooler-125x125.jpg"
+      },
+      {
+        "name": "Tubular Recuperator",
+        "page": "https://dir.indiamart.com/impcat/tubular-recuperator.html",
+        "thumbnail": "http://3.imimg.com/data3/JI/WK/GLADMIN-155344/tubular-recuperator-125x125.jpg"
+      },
+      {
+        "name": "Automotive Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/automotive-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/BT/TU/GLADMIN-132062/automotive-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Jet Cooler",
+        "page": "https://dir.indiamart.com/impcat/jet-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/YJ/GLADMIN-156457/jet-cooler-125x125.jpg"
+      },
+      {
+        "name": "Heat Sink Assemblies",
+        "page": "https://dir.indiamart.com/impcat/heat-sink-assemblies.html",
+        "thumbnail": "http://3.imimg.com/data3/YR/AD/GLADMIN-129260/heat-sink-assemblies-125x125.jpg"
+      },
+      {
+        "name": "Cooling Package",
+        "page": "https://dir.indiamart.com/impcat/cooling-package.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/PW/GLADMIN-119142/cooling-package-125x125.jpg"
+      },
+      {
+        "name": "Fluid Bed Coolers",
+        "page": "https://dir.indiamart.com/impcat/fluid-bed-coolers.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/GM/GLADMIN-28332/fluid-bed-coolers-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cooling Towers",
+    "category_thumbnail": "http://3.imimg.com/data3/NQ/WW/GLADMIN-162/cooling-towers-125x125.jpg",
+    "items": [
+      {
+        "name": "FRP Cooling Towers",
+        "page": "https://dir.indiamart.com/impcat/frp-cooling-towers.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/KC/GLADMIN-164/frp-cooling-towers-125x125.jpg"
+      },
+      {
+        "name": "Water Cooling Towers",
+        "page": "https://dir.indiamart.com/impcat/water-cooling-towers.html",
+        "thumbnail": "http://5.imimg.com/data5/NM/EA/GLADMIN-2/refurb_cooling_tower854x640-125x125.jpg"
+      },
+      {
+        "name": "Square cooling tower",
+        "page": "https://dir.indiamart.com/impcat/square-cooling-tower.html",
+        "thumbnail": "http://4.imimg.com/data4/RU/UN/GLADMIN-185337/square-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "Bottle Shaped Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/bottle-shaped-cooling-tower.html",
+        "thumbnail": "http://4.imimg.com/data4/CC/AF/GLADMIN-180185/bottle-shaped-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "Cooling Tower Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/cooling-tower-repairing-services.html",
+        "thumbnail": "http://5.imimg.com/data5/OJ/BP/GLADMIN-2/cooling-tower-repairing-services-125x125.jpg"
+      },
+      {
+        "name": "Induced Draft Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/induced-draft-cooling-tower.html",
+        "thumbnail": "http://5.imimg.com/data5/LG/VS/GLADMIN-2/modular-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "Cross Flow Cooling Towers",
+        "page": "https://dir.indiamart.com/impcat/cross-flow-cooling-towers.html",
+        "thumbnail": "http://3.imimg.com/data3/BP/WE/GLADMIN-158799/cross-flow-cooling-towers-125x125.jpg"
+      },
+      {
+        "name": "Cooling Tower Maintenance Services",
+        "page": "https://dir.indiamart.com/impcat/cooling-tower-maintenance-services.html",
+        "thumbnail": "http://5.imimg.com/data5/EL/DP/GLADMIN-2/cooling-tower-cleaning-125x125.jpg"
+      },
+      {
+        "name": "Forced Draft Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/forced-draft-cooling-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/HF/GLADMIN-177700/forced-draft-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "Natural Draft Cooling Towers",
+        "page": "https://dir.indiamart.com/impcat/natural-draft-cooling-towers.html",
+        "thumbnail": "http://3.imimg.com/data3/NK/YG/GLADMIN-158798/natural-draft-cooling-towers-125x125.jpg"
+      },
+      {
+        "name": "Fiberglass Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/fiberglass-cooling-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/EH/GLADMIN-126788/fiberglass-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "Spray Cooler",
+        "page": "https://dir.indiamart.com/impcat/spray-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/MS/OL/GLADMIN-38669/spray-cooler-125x125.jpg"
+      },
+      {
+        "name": "Counterflow Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/counterflow-cooling-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/WR/GLADMIN-167455/counterflow-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "Dry Coolers",
+        "page": "https://dir.indiamart.com/impcat/dry-coolers.html",
+        "thumbnail": "http://3.imimg.com/data3/UQ/DJ/GLADMIN-165536/dry-coolers-125x125.jpg"
+      },
+      {
+        "name": "Wooden Cooling Towers",
+        "page": "https://dir.indiamart.com/impcat/wooden-cooling-towers.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369801873/ET/CM/RM/96317/wooden-cooling-towers-125x125.jpg"
+      },
+      {
+        "name": "Dry Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/dry-cooling-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/XY/GL/GLADMIN-119156/dry-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "Portable Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/portable-cooling-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/JJ/GLADMIN-119235/portable-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "Timber Cross Flow Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/timber-cross-flow-cooling-tower.html",
+        "thumbnail": "http://4.imimg.com/data4/TR/TH/GLADMIN-180186/timber-cross-flow-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "RCC Cooling Towers",
+        "page": "https://dir.indiamart.com/impcat/rcc-cooling-towers.html",
+        "thumbnail": "http://3.imimg.com/data3/FC/GW/GLADMIN-8988/rcc-cooling-towers-125x125.jpg"
+      },
+      {
+        "name": "Closed Circuit Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/closed-circuit-cooling-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/QX/GLADMIN-177555/closed-circuit-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "Timber Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/timber-cooling-tower.html",
+        "thumbnail": "http://4.imimg.com/data4/FF/LD/GLADMIN-181738/timber-cooling-tower-125x125.jpg"
+      },
+      {
+        "name": "Spray Cooling Tower",
+        "page": "https://dir.indiamart.com/impcat/spray-cooling-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/WQ/KX/GLADMIN-141383/spray-cooling-tower-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cooling Tower Parts",
+    "category_thumbnail": "http://3.imimg.com/data3/RJ/XN/GLADMIN-43890/cooling-tower-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Cooling Tower Nozzles",
+        "page": "https://dir.indiamart.com/impcat/cooling-tower-nozzles.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/FS/GLADMIN-167003/cooling-tower-nozzles-125x125.jpg"
+      },
+      {
+        "name": "Cooling Tower Motors",
+        "page": "https://dir.indiamart.com/impcat/cooling-tower-motors.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/QI/GLADMIN-131722/cooling-tower-motors-125x125.jpg"
+      },
+      {
+        "name": "PVC Cooling Tower Fills",
+        "page": "https://dir.indiamart.com/impcat/pvc-cooling-tower-fills.html",
+        "thumbnail": "http://3.imimg.com/data3/FD/KO/GLADMIN-72969/pvc-cooling-tower-fills-125x125.jpg"
+      },
+      {
+        "name": "Cooling Tower Fills",
+        "page": "https://dir.indiamart.com/impcat/cooling-tower-fills.html",
+        "thumbnail": "http://3.imimg.com/data3/YJ/BN/GLADMIN-156633/cooling-tower-fills-125x125.jpg"
+      },
+      {
+        "name": "Demister Pad",
+        "page": "https://dir.indiamart.com/impcat/demister-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/NP/GLADMIN-21007/demister-pad-125x125.jpg"
+      },
+      {
+        "name": "PVC Fills",
+        "page": "https://dir.indiamart.com/impcat/pvc-fills.html",
+        "thumbnail": "http://3.imimg.com/data3/QC/MX/GLADMIN-55984/pvc-fills-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Fin",
+        "page": "https://dir.indiamart.com/impcat/aluminum-fin.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/DX/GLADMIN-72957/aluminum-fin-125x125.jpg"
+      },
+      {
+        "name": "PVC Eliminators",
+        "page": "https://dir.indiamart.com/impcat/pvc-eliminators.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/QQ/GLADMIN-/data4-bm-pl-my-809705-pvc-mist-eliminators-500x500-125x125.jpg"
+      },
+      {
+        "name": "Cooling Nipples",
+        "page": "https://dir.indiamart.com/impcat/cooling-nipples.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/JG/GLADMIN-156456/cooling-nipples-125x125.jpg"
+      },
+      {
+        "name": "PP Filter Nozzle",
+        "page": "https://dir.indiamart.com/impcat/pp-filter-nozzle.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/LL/GLADMIN-160754/pp-filter-nozzle-125x125.jpg"
+      },
+      {
+        "name": "Drift Eliminator",
+        "page": "https://dir.indiamart.com/impcat/drift-eliminator.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/WM/GLADMIN-26882/drift-eliminator-125x125.jpg"
+      },
+      {
+        "name": "Cooling Tower Sprinkler",
+        "page": "https://dir.indiamart.com/impcat/cooling-tower-sprinkler.html",
+        "thumbnail": "http://5.imimg.com/data5/GF/DC/GLADMIN-2/cooling-tower-sprinkler-125x125.jpg"
+      },
+      {
+        "name": "Honeycomb PVC Fill",
+        "page": "https://dir.indiamart.com/impcat/honeycomb-pvc-fill.html",
+        "thumbnail": "http://4.imimg.com/data4/JD/RC/GLADMIN-180187/honeycomb-pvc-fill-125x125.jpg"
+      },
+      {
+        "name": "PVC Drift Eliminator",
+        "page": "https://dir.indiamart.com/impcat/pvc-drift-eliminator.html",
+        "thumbnail": "http://3.imimg.com/data3/XG/TX/GLADMIN-140201/pvc-drift-eliminator-125x125.jpg"
+      },
+      {
+        "name": "Water Cooling Jacket",
+        "page": "https://dir.indiamart.com/impcat/water-cooling-jacket.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/FN/GLADMIN-160829/water-cooling-jacket-125x125.jpg"
+      },
+      {
+        "name": "Cooling Tower Drive Shafts",
+        "page": "https://dir.indiamart.com/impcat/cooling-tower-drive-shafts.html",
+        "thumbnail": "http://3.imimg.com/data3/LN/GA/GLADMIN-140198/cooling-tower-drive-shafts-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Sprinkler",
+        "page": "https://dir.indiamart.com/impcat/aluminium-sprinkler.html",
+        "thumbnail": "http://4.imimg.com/data4/QY/SH/GLADMIN-180189/aluminium-sprinkler-125x125.jpg"
+      },
+      {
+        "name": "FRP Fan Stack",
+        "page": "https://dir.indiamart.com/impcat/frp-fan-stack.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/LP/GLADMIN-140200/frp-fan-stack-125x125.jpg"
+      },
+      {
+        "name": "Fan Cylinders",
+        "page": "https://dir.indiamart.com/impcat/fan-cylinders.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/OU/GLADMIN-55871/fan-cylinders-125x125.jpg"
+      },
+      {
+        "name": "Eliminator Fills",
+        "page": "https://dir.indiamart.com/impcat/eliminator-fills.html",
+        "thumbnail": "http://3.imimg.com/data3/AS/HN/GLADMIN-55886/eliminator-fills-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Oil Coolers",
+    "category_thumbnail": "http://3.imimg.com/data3/RC/WX/GLADMIN-7473/oil-coolers-125x125.jpg",
+    "items": [
+      {
+        "name": "Hydraulic Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-oil-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/CO/PU/GLADMIN-10836/hydraulic-oil-cooler-125x125.jpg"
+      },
+      {
+        "name": "Air Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/air-oil-cooler.html",
+        "thumbnail": "http://4.imimg.com/data4/OT/VP/GLADMIN-179533/air-oil-cooler-125x125.jpg"
+      },
+      {
+        "name": "Engine Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/engine-oil-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/IN/GLADMIN-14154/engine-oil-cooler-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/aluminum-oil-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/UF/GLADMIN-72959/aluminum-oil-cooler-125x125.jpg"
+      },
+      {
+        "name": "Tube Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/tube-oil-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/IQ/HG/GLADMIN-119303/tube-oil-cooler-125x125.jpg"
+      },
+      {
+        "name": "Transmission Oil Coolers",
+        "page": "https://dir.indiamart.com/impcat/transmission-oil-coolers.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/IU/GLADMIN-161643/transmission-oil-coolers-125x125.jpg"
+      },
+      {
+        "name": "Shell Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/shell-oil-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/FP/GLADMIN-157021/shell-oil-cooler-125x125.jpg"
+      },
+      {
+        "name": "Marine Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/marine-oil-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/VA/GLADMIN-148313/marine-oil-cooler-125x125.jpg"
+      },
+      {
+        "name": "Wire Wound Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/wire-wound-oil-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/RA/GLADMIN-157193/wire-wound-oil-cooler-125x125.jpg"
+      },
+      {
+        "name": "Fluid Coolers",
+        "page": "https://dir.indiamart.com/impcat/fluid-coolers.html",
+        "thumbnail": "http://3.imimg.com/data3/DN/GN/GLADMIN-28333/fluid-coolers-125x125.jpg"
+      },
+      {
+        "name": "Bearing Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/bearing-oil-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/TL/GLADMIN-148173/bearing-oil-cooler-125x125.jpg"
+      },
+      {
+        "name": "Transformer Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/transformer-oil-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/IC/WP/GLADMIN-151751/transformer-oil-cooler-125x125.jpg"
+      },
+      {
+        "name": "Fin Engine Oil Cooler",
+        "page": "https://dir.indiamart.com/impcat/fin-engine-oil-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/MJ/JA/GLADMIN-146213/fin-engine-oil-cooler-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Heat Exchanger Parts",
+    "category_thumbnail": "http://3.imimg.com/data3/JX/IG/GLADMIN-72965/heat-exchanger-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Thermal Pad",
+        "page": "https://dir.indiamart.com/impcat/thermal-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/RF/OT/GLADMIN-73199/thermal-pad-125x125.jpg"
+      },
+      {
+        "name": "Finned Tubes",
+        "page": "https://dir.indiamart.com/impcat/finned-tubes.html",
+        "thumbnail": "http://5.imimg.com/data5/JJ/LD/GLADMIN-2/high-frequency-welded-finned-tubes-125x125.jpg"
+      },
+      {
+        "name": "Heat Pipes",
+        "page": "https://dir.indiamart.com/impcat/heat-pipes.html",
+        "thumbnail": "http://3.imimg.com/data3/UY/FX/GLADMIN-30191/heat-pipes-125x125.jpg"
+      },
+      {
+        "name": "PHE Plate",
+        "page": "https://dir.indiamart.com/impcat/phe-plate.html",
+        "thumbnail": "http://3.imimg.com/data3/PC/BV/GLADMIN-42970/phe-plate-125x125.jpg"
+      },
+      {
+        "name": "Tube Sheet",
+        "page": "https://dir.indiamart.com/impcat/tube-sheet.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/BV/GLADMIN-149846/tube-sheet-125x125.jpg"
+      },
+      {
+        "name": "Heat Exchanger Suction Accumulator",
+        "page": "https://dir.indiamart.com/impcat/heat-exchanger-suction-accumulator.html",
+        "thumbnail": "http://3.imimg.com/data3/IW/UE/GLADMIN-106330/heat-exchanger-suction-accumulator-125x125.jpg"
+      },
+      {
+        "name": "Heat Exchanger Tube",
+        "page": "https://dir.indiamart.com/impcat/heat-exchanger-tube.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/XB/GLADMIN-72966/heat-exchanger-tube-125x125.jpg"
+      },
+      {
+        "name": "Tube Bundle",
+        "page": "https://dir.indiamart.com/impcat/tube-bundle.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/CY/GLADMIN-106162/tube-bundle-125x125.jpg"
+      },
+      {
+        "name": "MS Fin Tubes",
+        "page": "https://dir.indiamart.com/impcat/ms-fin-tubes.html",
+        "thumbnail": "http://4.imimg.com/data4/QQ/QQ/GLADMIN-/ms-fin-tubes-125x125.jpg"
+      },
+      {
+        "name": "Crimped Finned Tubes",
+        "page": "https://dir.indiamart.com/impcat/crimped-finned-tubes.html",
+        "thumbnail": "http://4.imimg.com/data4/EM/WI/GLADMIN-2/crimped-finned-tubes-125x125.jpg"
+      },
+      {
+        "name": "Condenser Tubes",
+        "page": "https://dir.indiamart.com/impcat/condenser-tubes.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/KG/GLADMIN-25745/condenser-tubes-125x125.jpg"
+      },
+      {
+        "name": "Vertical Accumulator",
+        "page": "https://dir.indiamart.com/impcat/vertical-accumulator.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/WJ/GLADMIN-151426/vertical-accumulator-125x125.jpg"
+      },
+      {
+        "name": "Heat Exchanger Fans",
+        "page": "https://dir.indiamart.com/impcat/heat-exchanger-fans.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/CU/GLADMIN-30180/heat-exchanger-fans-125x125.jpg"
+      },
+      {
+        "name": "U Tube Bundle",
+        "page": "https://dir.indiamart.com/impcat/u-tube-bundle.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/AC/GLADMIN-72972/u-tube-bundle-125x125.jpg"
+      },
+      {
+        "name": "Boiler Heat Exchanger Tube",
+        "page": "https://dir.indiamart.com/impcat/boiler-heat-exchanger-tube.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/JW/GLADMIN-72960/boiler-heat-exchanger-tube-125x125.jpg"
+      },
+      {
+        "name": "Carbon Steel Fin Tube",
+        "page": "https://dir.indiamart.com/impcat/carbon-steel-fin-tube.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/KM/GLADMIN-162836/carbon-steel-fin-tube-125x125.jpg"
+      },
+      {
+        "name": "Condenser Shell",
+        "page": "https://dir.indiamart.com/impcat/condenser-shell.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/FE/GLADMIN-149847/condenser-shell-125x125.jpg"
+      },
+      {
+        "name": "Condenser Shell Assembly",
+        "page": "https://dir.indiamart.com/impcat/condenser-shell-assembly.html",
+        "thumbnail": "http://3.imimg.com/data3/TP/IC/GLADMIN-/uploads-product_77454_500-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Heat Recovery System",
+    "category_thumbnail": "http://3.imimg.com/data3/UR/ML/GLADMIN-42551/heat-recovery-system-125x125.jpg",
+    "items": [
+      {
+        "name": "Condensate Recovery System",
+        "page": "https://dir.indiamart.com/impcat/condensate-recovery-system.html",
+        "thumbnail": "http://5.imimg.com/data5/WZ/DJ/HM/GLADMIN-65832/condensate-recovery-system-125x125.jpeg"
+      },
+      {
+        "name": "Waste Heat Recovery System",
+        "page": "https://dir.indiamart.com/impcat/waste-heat-recovery-system.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/AO/GLADMIN-55734/waste-heat-recovery-system-125x125.jpg"
+      },
+      {
+        "name": "Heat Recuperators",
+        "page": "https://dir.indiamart.com/impcat/heat-recuperators.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/DF/GLADMIN-167186/heat-recuperators-125x125.jpg"
+      },
+      {
+        "name": "Heat Recovery Wheel",
+        "page": "https://dir.indiamart.com/impcat/heat-recovery-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/RP/GLADMIN-45921/heat-recovery-wheel-125x125.jpg"
+      },
+      {
+        "name": "Vapor Recovery Systems",
+        "page": "https://dir.indiamart.com/impcat/vapor-recovery-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/AG/GLADMIN-40656/vapor-recovery-systems-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Air Preheaters",
+    "category_thumbnail": "http://3.imimg.com/data3/YH/WF/GLADMIN-21688/air-preheaters-125x125.jpg",
+    "items": [
+      {
+        "name": "CO2 Preheaters",
+        "page": "https://dir.indiamart.com/impcat/co2-preheaters.html",
+        "thumbnail": "http://3.imimg.com/data3/SC/KH/MY-2/co2-preheaters-125x125.jpg"
+      },
+      {
+        "name": "Industrial Preheater",
+        "page": "https://dir.indiamart.com/impcat/industrial-preheater.html",
+        "thumbnail": "http://3.imimg.com/data3/RF/PU/GLADMIN-143748/industrial-preheater-125x125.jpg"
+      },
+      {
+        "name": "Steam Coil Air Preheater",
+        "page": "https://dir.indiamart.com/impcat/steam-coil-air-preheater.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/EA/GLADMIN-177641/steam-coil-air-preheater-125x125.jpg"
+      },
+      {
+        "name": "Hot Air Preheater",
+        "page": "https://dir.indiamart.com/impcat/hot-air-preheater.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/UU/GLADMIN-154753/hot-air-preheater-125x125.jpg"
+      },
+      {
+        "name": "Air Preheaters Basket",
+        "page": "https://dir.indiamart.com/impcat/air-preheaters-basket.html",
+        "thumbnail": "http://4.imimg.com/data4/AX/TR/GLADMIN-178285/air-preheaters-basket-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Heat Exchanger",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369801458/UA/KR/CR/96317/industrial-heat-exchanger-125x125.jpg",
+    "items": [
+      {
+        "name": "Gas Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/gas-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/CF/WV/GLADMIN-11947/gas-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Marine Heat Exchangers",
+        "page": "https://dir.indiamart.com/impcat/marine-heat-exchangers.html",
+        "thumbnail": "http://3.imimg.com/data3/CQ/GE/GLADMIN-32538/marine-heat-exchangers-125x125.jpg"
+      },
+      {
+        "name": "Oil Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/oil-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/IM/RC/GLADMIN-152564/oil-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Steam Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/steam-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/OF/TD/GLADMIN-150112/steam-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Acid Coolers",
+        "page": "https://dir.indiamart.com/impcat/acid-coolers.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/UO/MY-2/acid-coolers-500x500-125x125.jpg"
+      },
+      {
+        "name": "High Pressure Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/high-pressure-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/QL/CK/GLADMIN-164665/high-pressure-heat-exchanger-125x125.jpg"
+      },
+      {
+        "name": "Electric Heat Exchangers",
+        "page": "https://dir.indiamart.com/impcat/electric-heat-exchangers.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/PO/GLADMIN-27263/electric-heat-exchangers-125x125.jpg"
+      },
+      {
+        "name": "High Temperature Heat Exchanger",
+        "page": "https://dir.indiamart.com/impcat/high-temperature-heat-exchanger.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/YJ/GLADMIN-132063/high-temperature-heat-exchanger-125x125.jpg"
+      }
+    ]
+  }
+]

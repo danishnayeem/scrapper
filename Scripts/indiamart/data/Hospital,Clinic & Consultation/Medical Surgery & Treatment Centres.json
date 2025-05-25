@@ -1,0 +1,33 @@
+[
+  {
+    "category_name": "Medical Facilities",
+    "category_thumbnail": "http://3.imimg.com/data3/PG/CB/GLADMIN-31873/medical-facilities-125x125.jpg",
+    "items": [
+      {
+        "name": "Sperm Banks",
+        "page": "https://dir.indiamart.com/impcat/sperm-banks.html",
+        "thumbnail": "http://3.imimg.com/data3/NO/RS/GLADMIN-37483/sperm-banks-125x125.jpg"
+      },
+      {
+        "name": "Medical Equipment Rental",
+        "page": "https://dir.indiamart.com/impcat/medical-equipment-rental.html",
+        "thumbnail": "http://3.imimg.com/data3/PC/GO/GLADMIN-42443/medical-equipment-rental-125x125.jpg"
+      },
+      {
+        "name": "Wheelchair Rental Service",
+        "page": "https://dir.indiamart.com/impcat/wheelchair-rental-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/321823577/KB/GI/FC/91527/wheelchair-rental-service-125x125.jpg"
+      },
+      {
+        "name": "Mobile Mortuary Services",
+        "page": "https://dir.indiamart.com/impcat/mobile-mortuary-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/WC/GLADMIN-44606/mobile-mortuary-services-125x125.jpg"
+      },
+      {
+        "name": "Disaster Recovery Planning",
+        "page": "https://dir.indiamart.com/impcat/disaster-recovery-planning.html",
+        "thumbnail": "http://3.imimg.com/data3/NN/RQ/GLADMIN-173940/disaster-recovery-planning-125x125.jpg"
+      }
+    ]
+  }
+]

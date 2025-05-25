@@ -1,0 +1,616 @@
+[
+  {
+    "category_name": "Mop",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/WG/ES/QG/92368/mop-125x125.png",
+    "items": [
+      {
+        "name": "Magic Mop",
+        "page": "https://dir.indiamart.com/impcat/magic-mop.html",
+        "thumbnail": "http://4.imimg.com/data4/AU/MI/GLADMIN-181007/magic-mop-125x125.jpg"
+      },
+      {
+        "name": "Cotton Mop",
+        "page": "https://dir.indiamart.com/impcat/cotton-mop.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/VA/XN/HU/92368/cotton-mop-125x125.jpg"
+      },
+      {
+        "name": "Microfiber Mop",
+        "page": "https://dir.indiamart.com/impcat/microfiber-mop.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/DN/LG/ON/83861/microfiber-mop-125x125.jpg"
+      },
+      {
+        "name": "Dry Mop",
+        "page": "https://dir.indiamart.com/impcat/acrylic-dry-mop.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/WI/VJ/TO/83861/dry-mop-125x125.jpg"
+      },
+      {
+        "name": "Twist Mop",
+        "page": "https://dir.indiamart.com/impcat/twist-mop.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/HB/BN/MY/83861/twist-mop-125x125.jpg"
+      },
+      {
+        "name": "Wet Mop",
+        "page": "https://dir.indiamart.com/impcat/wet-mop.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/BK/RR/IT/84524/wet-mop-125x125.png"
+      },
+      {
+        "name": "Sponge Mop",
+        "page": "https://dir.indiamart.com/impcat/sponge-mops.html",
+        "thumbnail": "http://3.imimg.com/data3/CP/DX/GLADMIN-7732/sponge-mops-125x125.jpg"
+      },
+      {
+        "name": "Floor Duster",
+        "page": "https://dir.indiamart.com/impcat/floor-duster.html",
+        "thumbnail": "http://4.imimg.com/data4/RI/WM/GLADMIN-183296/floor-duster-125x125.jpg"
+      },
+      {
+        "name": "Spray Mop",
+        "page": "https://dir.indiamart.com/impcat/spray-mop.html",
+        "thumbnail": "http://5.imimg.com/data5/CP/PJ/CB/GLADMIN-81462/spray-mop-125x125.jpg"
+      },
+      {
+        "name": "PVA Mop",
+        "page": "https://dir.indiamart.com/impcat/pva-mops.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/QX/AQ/QV/83861/pva-mops-125x125.jpg"
+      },
+      {
+        "name": "Mop Machine",
+        "page": "https://dir.indiamart.com/impcat/mop-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/WM/QR/BC/83861/mop-machine-125x125.jpg"
+      },
+      {
+        "name": "Kentucky Mop",
+        "page": "https://dir.indiamart.com/impcat/kentucky-mop.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/HE/GLADMIN-177465/kentucky-mop-125x125.jpg"
+      },
+      {
+        "name": "Steam Mop",
+        "page": "https://dir.indiamart.com/impcat/steam-mop.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/SD/GLADMIN-38346/steam-mop-125x125.jpg"
+      },
+      {
+        "name": "Scissor Mop",
+        "page": "https://dir.indiamart.com/impcat/scissor-mop.html",
+        "thumbnail": "http://4.imimg.com/data4/KI/PP/GLADMIN-2/scissor-mop-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Floor Broom",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NQ/HX/QV/92368/floor-broom-125x125.jpg",
+    "items": [
+      {
+        "name": "Phool Jhadu",
+        "page": "https://dir.indiamart.com/impcat/grass-broom.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/WI/ND/GF/92368/phool-jhadu-125x125.jpg"
+      },
+      {
+        "name": "Coconut Brooms",
+        "page": "https://dir.indiamart.com/impcat/coconut-brooms.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SI/EN/MZ/92368/coconut-brooms-125x125.jpg"
+      },
+      {
+        "name": "Plastic Broom",
+        "page": "https://dir.indiamart.com/impcat/plastic-brooms.html",
+        "thumbnail": "http://3.imimg.com/data3/SX/DT/GLADMIN-112058/plastic-brooms-125x125.jpg"
+      },
+      {
+        "name": "Broomsticks",
+        "page": "https://dir.indiamart.com/impcat/broomsticks.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/4/PJ/IU/IL/83861/broomsticks-125x125.jpg"
+      },
+      {
+        "name": "Bamboo Broom",
+        "page": "https://dir.indiamart.com/impcat/bamboo-broom.html",
+        "thumbnail": "http://4.imimg.com/data4/TW/XI/GLADMIN-157764/bamboo-broom-125x125.jpg"
+      },
+      {
+        "name": "Ceiling Broom",
+        "page": "https://dir.indiamart.com/impcat/ceiling-broom.html",
+        "thumbnail": "http://4.imimg.com/data4/NO/IH/GLADMIN-183598/ceiling-broom-125x125.jpg"
+      },
+      {
+        "name": "Khajur Jhadu",
+        "page": "https://dir.indiamart.com/impcat/khajur-jhadu.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/4/FJ/XB/YP/81953/khajur-jhadu-125x125.jpg"
+      },
+      {
+        "name": "Fiber Broom",
+        "page": "https://dir.indiamart.com/impcat/fiber-brooms.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/4/ER/AM/YN/83861/hand-brooms-125x125.jpg"
+      },
+      {
+        "name": "Push Broom",
+        "page": "https://dir.indiamart.com/impcat/push-broom.html",
+        "thumbnail": "http://3.imimg.com/data3/XX/UL/GLADMIN-34863/push-broom-125x125.jpg"
+      },
+      {
+        "name": "Spin Broom",
+        "page": "https://dir.indiamart.com/impcat/spin-broom.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/OL/SZ/FR/81953/spin-broom-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cleaning Dusters",
+    "category_thumbnail": "http://3.imimg.com/data3/UR/BE/GLADMIN-25003/cleaning-dusters-125x125.jpg",
+    "items": [
+      {
+        "name": "Microfiber Cloths",
+        "page": "https://dir.indiamart.com/impcat/microfiber-cloths.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/TG/EL/OR/92368/microfiber-cloths-125x125.jpg"
+      },
+      {
+        "name": "Car Duster",
+        "page": "https://dir.indiamart.com/impcat/car-duster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/JC/ZF/PQ/84695/car-duster-125x125.jpg"
+      },
+      {
+        "name": "Microfiber Duster",
+        "page": "https://dir.indiamart.com/impcat/mini-duster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319689261/YH/TW/HL/96165/microfiber-duster-125x125.png"
+      },
+      {
+        "name": "Cleaning Cloth",
+        "page": "https://dir.indiamart.com/impcat/cleaning-cloth.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318536175/BG/TT/GE/96165/cleaning-cloth-125x125.png"
+      },
+      {
+        "name": "Lint Free Cloth",
+        "page": "https://dir.indiamart.com/impcat/lint-free-cloth.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/EA/GLADMIN-158046/lint-free-cloth-125x125.jpg"
+      },
+      {
+        "name": "Floor Duster",
+        "page": "https://dir.indiamart.com/impcat/floor-duster.html",
+        "thumbnail": "http://4.imimg.com/data4/RI/WM/GLADMIN-183296/floor-duster-125x125.jpg"
+      },
+      {
+        "name": "Cloth Duster",
+        "page": "https://dir.indiamart.com/impcat/duster-cloth.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/VA/GLADMIN-6752/duster-cloth-125x125.jpg"
+      },
+      {
+        "name": "Feather Dusters",
+        "page": "https://dir.indiamart.com/impcat/feather-dusters.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/TO/GLADMIN-27320/feather-dusters-125x125.jpg"
+      },
+      {
+        "name": "Cotton Duster",
+        "page": "https://dir.indiamart.com/impcat/cotton-duster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/LB/ES/IN/84695/cotton-duster-125x125.jpg"
+      },
+      {
+        "name": "Duster",
+        "page": "https://dir.indiamart.com/impcat/duster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/QL/VV/PU/84695/duster-125x125.jpg"
+      },
+      {
+        "name": "Kitchen Cleaning Cloth",
+        "page": "https://dir.indiamart.com/impcat/cotton-cleaning-cloth.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/CH/QU/YY/83861/cotton-cleaning-cloth-125x125.jpg"
+      },
+      {
+        "name": "Dust Remover",
+        "page": "https://dir.indiamart.com/impcat/dust-remover.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/LW/GLADMIN-27018/dust-remover-125x125.jpg"
+      },
+      {
+        "name": "Wiping Cloth",
+        "page": "https://dir.indiamart.com/impcat/wiping-cloth.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/LC/GLADMIN-41115/wiping-cloth-125x125.jpg"
+      },
+      {
+        "name": "Flannel Duster",
+        "page": "https://dir.indiamart.com/impcat/flannel-duster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/JO/KR/PD/83861/flannel-duster-125x125.jpg"
+      },
+      {
+        "name": "Cotton Wipe",
+        "page": "https://dir.indiamart.com/impcat/cotton-wipe.html",
+        "thumbnail": "http://3.imimg.com/data3/JT/RF/GLADMIN-65106/cotton-wipe-125x125.jpg"
+      },
+      {
+        "name": "Bar Mops",
+        "page": "https://dir.indiamart.com/impcat/bar-mops.html",
+        "thumbnail": "http://3.imimg.com/data3/LC/MJ/GLADMIN-22839/bar-mops-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Mop Accessories",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/MW/WU/XX/92368/mop-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Mop Buckets",
+        "page": "https://dir.indiamart.com/impcat/mop-buckets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/GI/MK/OF/83861/mop-buckets-125x125.jpg"
+      },
+      {
+        "name": "Mop Stick",
+        "page": "https://dir.indiamart.com/impcat/mop-stick.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/TI/RO/WW/92368/mop-stick-125x125.jpg"
+      },
+      {
+        "name": "Cleaning Mop Refill",
+        "page": "https://dir.indiamart.com/impcat/cotton-mop-refill.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/CQ/GLADMIN-147504/cotton-mop-refill-125x125.jpg"
+      },
+      {
+        "name": "Mop Clips",
+        "page": "https://dir.indiamart.com/impcat/clip-mop.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/IR/UZ/KU/84524/mop-clips-125x125.png"
+      },
+      {
+        "name": "Wooden Mop Stick",
+        "page": "https://dir.indiamart.com/impcat/wooden-mop-stick.html",
+        "thumbnail": "http://5.imimg.com/data5/VG/FY/QR/GLADMIN-72666/wooden-mop-stick-125x125.png"
+      },
+      {
+        "name": "Mop Yarn",
+        "page": "https://dir.indiamart.com/impcat/mop-yarn.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/RK/HL/AK/85357/mop-yarn-125x125.PNG"
+      },
+      {
+        "name": "Mop and Broom Holder",
+        "page": "https://dir.indiamart.com/impcat/mop-holder.html",
+        "thumbnail": "http://5.imimg.com/data5/WE/PM/GLADMIN-2/6dc95fac23613fe1336c53d13b7e2938-125x125.jpg"
+      },
+      {
+        "name": "Mop Cups",
+        "page": "https://dir.indiamart.com/impcat/cup-mop.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/OV/ET/DJ/83861/mop-cups-125x125.jpg"
+      },
+      {
+        "name": "Window Squeegees",
+        "page": "https://dir.indiamart.com/impcat/window-squeegees.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/OJ/GLADMIN-41248/window-squeegees-125x125.jpg"
+      },
+      {
+        "name": "Kentucky Mop Clip",
+        "page": "https://dir.indiamart.com/impcat/kentucky-mop-clip.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/CY/GLADMIN-108218/kentucky-mop-clip-125x125.jpg"
+      },
+      {
+        "name": "Mop Pad",
+        "page": "https://dir.indiamart.com/impcat/mop-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/EY/CW/GLADMIN-100810/mop-pad-125x125.jpg"
+      },
+      {
+        "name": "Squeegee Blade",
+        "page": "https://dir.indiamart.com/impcat/squeegee-blade.html",
+        "thumbnail": "http://5.imimg.com/data5/FU/OD/HH/GLADMIN-56986/squeegee-blade-125x125.jpg"
+      },
+      {
+        "name": "Polyurethane Squeegee",
+        "page": "https://dir.indiamart.com/impcat/polyurethane-squeegee.html",
+        "thumbnail": "http://3.imimg.com/data3/SB/SR/GLADMIN-107173/polyurethane-squeegee-125x125.jpg"
+      },
+      {
+        "name": "Dry Mop Frame",
+        "page": "https://dir.indiamart.com/impcat/dry-mop-frame.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/QV/NL/VG/84524/dry-mop-frame-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Cleaning Brushes",
+    "category_thumbnail": "http://3.imimg.com/data3/QU/VV/MY-2/cleaning-brushes-125x125.jpg",
+    "items": [
+      {
+        "name": "Solar Panel Cleaning Brush",
+        "page": "https://dir.indiamart.com/impcat/solar-panel-cleaning-brush.html",
+        "thumbnail": "http://5.imimg.com/data5/FA/UU/AQ/GLADMIN-68087/solar-panel-cleaning-brush-125x125.jpg"
+      },
+      {
+        "name": "Toilet Brushes",
+        "page": "https://dir.indiamart.com/impcat/toilet-brushes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/JS/YQ/FB/84524/toilet-brushes-125x125.png"
+      },
+      {
+        "name": "Clothes Brushes",
+        "page": "https://dir.indiamart.com/impcat/clothes-brushes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/UG/IF/RC/84524/clothes-brushes-125x125.png"
+      },
+      {
+        "name": "Plastic Cleaning Brushes",
+        "page": "https://dir.indiamart.com/impcat/plastic-cleaning-brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/OV/GLADMIN-112059/plastic-cleaning-brushes-125x125.jpg"
+      },
+      {
+        "name": "Floor Cleaning Brush",
+        "page": "https://dir.indiamart.com/impcat/floor-cleaning-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/LB/OW/GLADMIN-6455/floor-cleaning-brush-125x125.jpg"
+      },
+      {
+        "name": "Road Cleaning Brush",
+        "page": "https://dir.indiamart.com/impcat/road-cleaning-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/XV/FV/GLADMIN-162443/road-cleaning-brush-125x125.jpg"
+      },
+      {
+        "name": "Wooden Brush",
+        "page": "https://dir.indiamart.com/impcat/wooden-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/OR/GLADMIN-41477/wooden-brush-125x125.jpg"
+      },
+      {
+        "name": "Brushes",
+        "page": "https://dir.indiamart.com/impcat/brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/FT/GLADMIN-5411/brushes-125x125.jpg"
+      },
+      {
+        "name": "Pipe Cleaning Brushes",
+        "page": "https://dir.indiamart.com/impcat/pipe-cleaners.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/MS/GLADMIN-34381/pipe-cleaners-125x125.jpg"
+      },
+      {
+        "name": "Tile Brush",
+        "page": "https://dir.indiamart.com/impcat/tile-brush.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/tile-brush-125x125.jpg"
+      },
+      {
+        "name": "Carpet Cleaning Brushes",
+        "page": "https://dir.indiamart.com/impcat/carpet-cleaning-brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/UN/GLADMIN-5571/carpet-cleaning-brushes-125x125.jpg"
+      },
+      {
+        "name": "Jala Brush",
+        "page": "https://dir.indiamart.com/impcat/jala-brush.html",
+        "thumbnail": "http://5.imimg.com/data5/BJ/DW/FP/GLADMIN-68087/jala-brush-125x125.jpg"
+      },
+      {
+        "name": "Brush Cleaners",
+        "page": "https://dir.indiamart.com/impcat/brush-cleaners.html",
+        "thumbnail": "http://3.imimg.com/data3/CQ/SJ/GLADMIN-23878/brush-cleaners-125x125.jpg"
+      },
+      {
+        "name": "Cobweb Brush",
+        "page": "https://dir.indiamart.com/impcat/cob-web-brush.html",
+        "thumbnail": "http://5.imimg.com/data5/XS/FT/GLADMIN-2/cob-web-brush-125x125.jpg"
+      },
+      {
+        "name": "Kitchen Sink Brushes",
+        "page": "https://dir.indiamart.com/impcat/dish-washing-brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/ML/GLADMIN-108124/dish-washing-brushes-125x125.jpg"
+      },
+      {
+        "name": "Bristle Brushes",
+        "page": "https://dir.indiamart.com/impcat/bristle-brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/YY/GLADMIN-23608/bristle-brushes-125x125.jpg"
+      },
+      {
+        "name": "Dust Brush",
+        "page": "https://dir.indiamart.com/impcat/dust-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/LJ/GLADMIN-65178/dust-brush-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Cleaner Brushes",
+        "page": "https://dir.indiamart.com/impcat/vacuum-cleaner-brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/OC/GLADMIN-40746/vacuum-cleaner-brushes-125x125.jpg"
+      },
+      {
+        "name": "Plastic Brushes",
+        "page": "https://dir.indiamart.com/impcat/plastic-brushes.html",
+        "thumbnail": "http://5.imimg.com/data5/JU/WC/GLADMIN-2/315-dvivk9l-125x125.jpg"
+      },
+      {
+        "name": "Computer Brushes",
+        "page": "https://dir.indiamart.com/impcat/computer-brushes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/WG/OP/ZN/84524/computer-brushes-125x125.png"
+      },
+      {
+        "name": "Bee Brush",
+        "page": "https://dir.indiamart.com/impcat/bee-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/GV/MB/GLADMIN-111158/bee-brush-125x125.jpg"
+      },
+      {
+        "name": "Block Brushes",
+        "page": "https://dir.indiamart.com/impcat/block-brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/PQ/HU/GLADMIN-161154/block-brushes-125x125.jpg"
+      },
+      {
+        "name": "Bottle & Tube Cleaning Brushes",
+        "page": "https://dir.indiamart.com/impcat/tube-brushes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/367954245/WL/HZ/XY/97589/bottle-tube-cleaning-brushes-125x125.jpg"
+      },
+      {
+        "name": "Turk Head Brush",
+        "page": "https://dir.indiamart.com/impcat/turk-head-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/KJ/GLADMIN-136911/turk-head-brush-125x125.jpg"
+      },
+      {
+        "name": "Pipe Brushes",
+        "page": "https://dir.indiamart.com/impcat/pipe-brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/HR/GLADMIN-80802/pipe-brushes-125x125.jpg"
+      },
+      {
+        "name": "Door Sweep",
+        "page": "https://dir.indiamart.com/impcat/door-sweep.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/VK/UM/XA/84524/door-sweep-125x125.png"
+      },
+      {
+        "name": "Beaker Brushes",
+        "page": "https://dir.indiamart.com/impcat/beaker-brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/WC/FU/GLADMIN-136913/beaker-brushes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cleaning Wiper",
+    "category_thumbnail": "http://3.imimg.com/data3/IL/KB/GLADMIN-138107/rubber-squeegee-125x125.jpg",
+    "items": [
+      {
+        "name": "Floor Wiper",
+        "page": "https://dir.indiamart.com/impcat/floor-wiper.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/OD/CY/IE/92368/floor-wiper-125x125.png"
+      },
+      {
+        "name": "Plastic Floor Wiper",
+        "page": "https://dir.indiamart.com/impcat/plastic-floor-wiper.html",
+        "thumbnail": "http://5.imimg.com/data5/WB/HT/PP/GLADMIN-16223/plastic-floor-wiper-125x125.png"
+      },
+      {
+        "name": "Glass Wiper",
+        "page": "https://dir.indiamart.com/impcat/glass-wipe.html",
+        "thumbnail": "http://3.imimg.com/data3/HC/JI/GLADMIN-65184/glass-wipe-125x125.jpg"
+      },
+      {
+        "name": "Kitchen Wiper",
+        "page": "https://dir.indiamart.com/impcat/kitchen-wiper.html",
+        "thumbnail": "http://4.imimg.com/data4/AX/XD/GLADMIN-183057/kitchen-wiper-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Wiper",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-wiper.html",
+        "thumbnail": "http://5.imimg.com/data5/DZ/OB/CY/GLADMIN-68087/stainless-steel-wiper-125x125.jpg"
+      },
+      {
+        "name": "Wiper Stick",
+        "page": "https://dir.indiamart.com/impcat/wiper-stick.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/KB/KI/JX/81953/wiper-stick-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Broom Raw Material",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/HK/ER/TQ/92368/broom-raw-material-125x125.jpg",
+    "items": [
+      {
+        "name": "Broom Grass",
+        "page": "https://dir.indiamart.com/impcat/broom-grass.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318542688/GP/TI/AI/86648/broom-grass-125x125.jpeg"
+      },
+      {
+        "name": "Broom Handles",
+        "page": "https://dir.indiamart.com/impcat/broom-handles.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/TE/GLADMIN-23873/broom-handles-125x125.jpg"
+      },
+      {
+        "name": "Grass Broom Material",
+        "page": "https://dir.indiamart.com/impcat/grass-broom-material.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319872093/DC/ZN/QF/86648/grass-broom-material-125x125.jpg"
+      },
+      {
+        "name": "Broom Packaging Pouch",
+        "page": "https://dir.indiamart.com/impcat/broom-packaging-pouch.html",
+        "thumbnail": "http://5.imimg.com/data5/FS/UM/ED/GLADMIN-68155/broom-packaging-pouch-125x125.png"
+      },
+      {
+        "name": "Palmyra Stalk",
+        "page": "https://dir.indiamart.com/impcat/palmyra-stalk.html",
+        "thumbnail": "http://5.imimg.com/data5/VF/SR/GLADMIN-2/palmyra-fibre-palmyra-stalks-250x250-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bottle & Tube Cleaning Brushes",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/367954245/WL/HZ/XY/97589/bottle-tube-cleaning-brushes-125x125.jpg",
+    "items": [
+      {
+        "name": "Bottle Cleaning Brushes",
+        "page": "https://dir.indiamart.com/impcat/bottle-cleaning-brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/WX/GLADMIN-23752/bottle-cleaning-brushes-125x125.jpg"
+      },
+      {
+        "name": "Tube Cleaning Brush",
+        "page": "https://dir.indiamart.com/impcat/tube-cleaning-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/YY/GLADMIN-132537/tube-cleaning-brush-125x125.jpg"
+      },
+      {
+        "name": "Glass Cleaning Brushes",
+        "page": "https://dir.indiamart.com/impcat/glass-cleaning-brushes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319866450/UU/NV/RO/86648/glass-cleaning-brushes-125x125.webp"
+      },
+      {
+        "name": "Milk Can Scrubbing Brush",
+        "page": "https://dir.indiamart.com/impcat/milk-can-scrubbing-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/TF/GLADMIN-177500/milk-can-scrubbing-brush-125x125.jpg"
+      },
+      {
+        "name": "Baby Bottle Brush",
+        "page": "https://dir.indiamart.com/impcat/baby-bottle-brush.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318518282/TG/SD/RA/86648/baby-bottle-brush-125x125.jpg"
+      },
+      {
+        "name": "Feeder Brushes",
+        "page": "https://dir.indiamart.com/impcat/feeder-brushes.html",
+        "thumbnail": "http://5.imimg.com/data5/SA/IJ/GLADMIN-2/61plxjfqywl-_sx425_-125x125.jpg"
+      },
+      {
+        "name": "Turk Head Brush",
+        "page": "https://dir.indiamart.com/impcat/turk-head-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/KJ/GLADMIN-136911/turk-head-brush-125x125.jpg"
+      },
+      {
+        "name": "Beaker Brushes",
+        "page": "https://dir.indiamart.com/impcat/beaker-brushes.html",
+        "thumbnail": "http://3.imimg.com/data3/WC/FU/GLADMIN-136913/beaker-brushes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Vacuum Cleaner",
+    "category_thumbnail": "http://3.imimg.com/data3/AM/RC/GLADMIN-2681/vacuum-cleaning-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Car Vacuum Cleaner",
+        "page": "https://dir.indiamart.com/impcat/car-vacuum-cleaner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/TO/GR/KN/87930/car-vacuum-cleaner-125x125.jpg"
+      },
+      {
+        "name": "Robot Vacuum Cleaner",
+        "page": "https://dir.indiamart.com/impcat/robotic-vacuum-cleaner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/PH/OB/FP/84520/robot-vacuum-cleaner-125x125.png"
+      },
+      {
+        "name": "Wet-Dry Vacuum Cleaner",
+        "page": "https://dir.indiamart.com/impcat/wet-and-dry-vacuum-cleaner.html",
+        "thumbnail": "http://5.imimg.com/data5/PU/TQ/UW/GLADMIN-68087/wet-and-dry-vacuum-cleaner-125x125.png"
+      },
+      {
+        "name": "Industrial Vacuum Cleaner",
+        "page": "https://dir.indiamart.com/impcat/industrial-vacuum-cleaners.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/WT/RC/MR/87930/industrial-vacuum-cleaner-125x125.jpeg"
+      },
+      {
+        "name": "Mini Vacuum Cleaners",
+        "page": "https://dir.indiamart.com/impcat/mini-vacuum-cleaner.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/FU/GLADMIN-33099/mini-vacuum-cleaner-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Cleaner Motors",
+        "page": "https://dir.indiamart.com/impcat/vacuum-cleaner-motors.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/OX/GLADMIN-40749/vacuum-cleaner-motors-125x125.jpg"
+      },
+      {
+        "name": "Dry Vacuum Cleaner",
+        "page": "https://dir.indiamart.com/impcat/dry-vacuum-cleaner.html",
+        "thumbnail": "http://3.imimg.com/data3/WY/BR/GLADMIN-12020/dry-vacuum-cleaner-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Cleaner Parts",
+        "page": "https://dir.indiamart.com/impcat/vacuum-cleaner-parts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/JU/LR/VL/84523/vacuum-cleaner-parts-125x125.jpg"
+      },
+      {
+        "name": "Home Vacuum Cleaner",
+        "page": "https://dir.indiamart.com/impcat/vacuum-cleaners.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/XF/GLADMIN-40750/vacuum-cleaners-125x125.jpg"
+      },
+      {
+        "name": "Cordless Vacuum Cleaner",
+        "page": "https://dir.indiamart.com/impcat/cordless-vacuum-cleaner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/HL/HT/OL/87930/cordless-vacuum-cleaners-125x125.png"
+      },
+      {
+        "name": "Vacuum Cleaner Filters",
+        "page": "https://dir.indiamart.com/impcat/vacuum-cleaner-filters.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/JC/GLADMIN-40747/vacuum-cleaner-filters-125x125.jpg"
+      },
+      {
+        "name": "Central Vacuum Cleaner",
+        "page": "https://dir.indiamart.com/impcat/central-vacuum-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/TF/GLADMIN-24652/central-vacuum-systems-125x125.jpg"
+      }
+    ]
+  }
+]

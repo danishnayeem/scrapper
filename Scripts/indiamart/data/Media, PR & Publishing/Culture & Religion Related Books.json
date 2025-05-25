@@ -1,0 +1,63 @@
+[
+  {
+    "category_name": "Religious Books",
+    "category_thumbnail": "http://3.imimg.com/data3/LQ/IA/GLADMIN-36185/religious-books-125x125.jpg",
+    "items": [
+      {
+        "name": "Bhagavad Gita Book",
+        "page": "https://dir.indiamart.com/impcat/bhagavad-gita-book.html",
+        "thumbnail": "http://5.imimg.com/data5/OG/GB/TB/GLADMIN-73467/bhagavad-gita-book-125x125.jpg"
+      },
+      {
+        "name": "Islamic Books",
+        "page": "https://dir.indiamart.com/impcat/islamic-books.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/DS/GLADMIN-10311/islamic-books-125x125.jpg"
+      },
+      {
+        "name": "Devotional Books",
+        "page": "https://dir.indiamart.com/impcat/devotional-books.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/JD/GLADMIN-26360/devotional-books-125x125.jpg"
+      },
+      {
+        "name": "Hanuman Chalisa",
+        "page": "https://dir.indiamart.com/impcat/hanuman-chalisa.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/TM/GLADMIN-177460/hanuman-chalisa-125x125.jpg"
+      },
+      {
+        "name": "Astrology Books",
+        "page": "https://dir.indiamart.com/impcat/astrology-books.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/JF/GLADMIN-139220/astrology-books-125x125.jpg"
+      },
+      {
+        "name": "Quran Books",
+        "page": "https://dir.indiamart.com/impcat/quran-books.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/NB/JK/XW/86648/quran-books-125x125.png"
+      },
+      {
+        "name": "Holy Bible",
+        "page": "https://dir.indiamart.com/impcat/holy-bible.html",
+        "thumbnail": "http://4.imimg.com/data4/OV/TE/GLADMIN-185940/holy-bible-125x125.png"
+      },
+      {
+        "name": "Spiritual Books",
+        "page": "https://dir.indiamart.com/impcat/spiritual-books.html",
+        "thumbnail": "http://4.imimg.com/data4/EB/MH/GLADMIN-2/spiritual-books-125x125.png"
+      },
+      {
+        "name": "Ramayana Book",
+        "page": "https://dir.indiamart.com/impcat/ramayana.html",
+        "thumbnail": "http://5.imimg.com/data5/QU/UL/LQ/GLADMIN-73467/ramayana-book-125x125.jpg"
+      },
+      {
+        "name": "Gold Plated Hanuman Chalisa",
+        "page": "https://dir.indiamart.com/impcat/gold-plated-hanuman-chalisa.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/gold-plated-hanuman-chalisa-125x125.jpg"
+      },
+      {
+        "name": "Mahabharata Book",
+        "page": "https://dir.indiamart.com/impcat/mahabharata.html",
+        "thumbnail": "http://5.imimg.com/data5/QJ/QE/DZ/GLADMIN-73467/mahabharata-125x125.jpg"
+      }
+    ]
+  }
+]

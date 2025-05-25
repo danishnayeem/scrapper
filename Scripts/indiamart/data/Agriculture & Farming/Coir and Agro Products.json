@@ -1,0 +1,418 @@
+[
+  {
+    "category_name": "Agro Waste",
+    "category_thumbnail": "http://3.imimg.com/data3/LR/FY/GLADMIN-118274/agro-waste-125x125.jpg",
+    "items": [
+      {
+        "name": "Wheat Straw",
+        "page": "https://dir.indiamart.com/impcat/wheat-straw.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/LW/GLADMIN-137657/wheat-straw-125x125.jpg"
+      },
+      {
+        "name": "Rice Husk",
+        "page": "https://dir.indiamart.com/impcat/rice-husk.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/LV/SU/NE/86648/rice-husk-125x125.jpg"
+      },
+      {
+        "name": "Coconut Shell",
+        "page": "https://dir.indiamart.com/impcat/coconut-shell.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EL/OJ/EP/92368/coconut-shell-125x125.jpg"
+      },
+      {
+        "name": "Sugarcane Bagasse",
+        "page": "https://dir.indiamart.com/impcat/sugarcane-bagasse.html",
+        "thumbnail": "http://3.imimg.com/data3/FY/HG/GLADMIN-101986/sugarcane-bagasse-125x125.jpg"
+      },
+      {
+        "name": "Rice Husk Powder",
+        "page": "https://dir.indiamart.com/impcat/rice-husk-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/OV/GLADMIN-149001/rice-husk-powder-125x125.jpg"
+      },
+      {
+        "name": "Groundnut Shells",
+        "page": "https://dir.indiamart.com/impcat/groundnut-shells.html",
+        "thumbnail": "http://3.imimg.com/data3/DP/PV/GLADMIN-142372/groundnut-shells-125x125.jpg"
+      },
+      {
+        "name": "Cashew Nut Shell",
+        "page": "https://dir.indiamart.com/impcat/cashew-nut-shell.html",
+        "thumbnail": "http://5.imimg.com/data5/QT/XK/GLADMIN-2/cashew-nut-shell-125x125.jpg"
+      },
+      {
+        "name": "Soya Husk",
+        "page": "https://dir.indiamart.com/impcat/soya-husk.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/UC/GLADMIN-127436/soya-husk-125x125.jpg"
+      },
+      {
+        "name": "Coconut Husk",
+        "page": "https://dir.indiamart.com/impcat/coconut-husk.html",
+        "thumbnail": "http://3.imimg.com/data3/PW/YB/GLADMIN-86313/coconut-husk-125x125.jpg"
+      },
+      {
+        "name": "Walnut Shell",
+        "page": "https://dir.indiamart.com/impcat/walnut-shell.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/JB/GLADMIN-114039/walnut-shell-125x125.jpg"
+      },
+      {
+        "name": "Coconut Husk Chips",
+        "page": "https://dir.indiamart.com/impcat/coconut-husk-chips.html",
+        "thumbnail": "http://3.imimg.com/data3/SY/NI/GLADMIN-85794/coconut-husk-chips-125x125.jpg"
+      },
+      {
+        "name": "Corn Cob Powder",
+        "page": "https://dir.indiamart.com/impcat/corn-cob-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/AG/GLADMIN-122169/corn-cob-powder-125x125.jpg"
+      },
+      {
+        "name": "Groundnut Husk",
+        "page": "https://dir.indiamart.com/impcat/groundnut-husk.html",
+        "thumbnail": "http://3.imimg.com/data3/TL/XB/GLADMIN-127434/groundnut-husk-125x125.jpg"
+      },
+      {
+        "name": "Coffee Husk",
+        "page": "https://dir.indiamart.com/impcat/coffee-husks.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/AF/GLADMIN-25140/coffee-husks-125x125.jpg"
+      },
+      {
+        "name": "Almond Shell",
+        "page": "https://dir.indiamart.com/impcat/almond-shell.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/DO/GLADMIN-164526/almond-shell-125x125.jpg"
+      },
+      {
+        "name": "Agro Waste Briquette",
+        "page": "https://dir.indiamart.com/impcat/agro-waste-briquette.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/AB/GLADMIN-154891/agro-waste-briquette-125x125.jpg"
+      },
+      {
+        "name": "Mustard Husk",
+        "page": "https://dir.indiamart.com/impcat/mustard-husk.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/NA/GLADMIN-151130/mustard-husk-125x125.jpg"
+      },
+      {
+        "name": "Rice Husk Briquettes",
+        "page": "https://dir.indiamart.com/impcat/rice-husk-briquettes.html",
+        "thumbnail": "http://3.imimg.com/data3/CA/SB/GLADMIN-/uploads-spaw2-images-rice-husk-05-125x125.jpg"
+      },
+      {
+        "name": "Cashew Husk",
+        "page": "https://dir.indiamart.com/impcat/cashew-husk.html",
+        "thumbnail": "http://3.imimg.com/data3/HV/LN/GLADMIN-113770/cashew-husk-125x125.jpg"
+      },
+      {
+        "name": "Groundnut Shell Powder",
+        "page": "https://dir.indiamart.com/impcat/groundnut-shell-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/WJ/CB/GLADMIN-185922/groundnut-shell-powder-125x125.jpg"
+      },
+      {
+        "name": "Rice Husk Pellet",
+        "page": "https://dir.indiamart.com/impcat/rice-husk-pellet.html",
+        "thumbnail": "http://3.imimg.com/data3/PU/SO/GLADMIN-138599/rice-husk-pellet-125x125.jpg"
+      },
+      {
+        "name": "Palm Kernel Shell",
+        "page": "https://dir.indiamart.com/impcat/palm-kernel-shell.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/KD/GLADMIN-150898/palm-kernel-shell-125x125.jpg"
+      },
+      {
+        "name": "Corn Germ",
+        "page": "https://dir.indiamart.com/impcat/corn-germ.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/JN/GLADMIN-153049/corn-germ-125x125.jpg"
+      },
+      {
+        "name": "Buckwheat Hull",
+        "page": "https://dir.indiamart.com/impcat/buckwheat-hull.html",
+        "thumbnail": "http://5.imimg.com/data5/BB/BB/GLADMIN-/buckwheat-hull-125x125.jpg"
+      },
+      {
+        "name": "Tamarind Husk",
+        "page": "https://dir.indiamart.com/impcat/tamarind-husk.html",
+        "thumbnail": "http://3.imimg.com/data3/FG/BL/GLADMIN-153721/tamarind-husk-125x125.jpg"
+      },
+      {
+        "name": "Groundnut Extraction",
+        "page": "https://dir.indiamart.com/impcat/groundnut-extraction.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/333611851/AS/IA/UF/97911/groundnut-extraction-125x125.png"
+      },
+      {
+        "name": "Guar Splits",
+        "page": "https://dir.indiamart.com/impcat/guar-splits.html",
+        "thumbnail": "http://3.imimg.com/data3/WO/CT/GLADMIN-11173/guar-splits-125x125.jpg"
+      },
+      {
+        "name": "Cut Fibre",
+        "page": "https://dir.indiamart.com/impcat/cut-fibre.html",
+        "thumbnail": "http://4.imimg.com/data4/MO/CW/GLADMIN-2/cut-fibre-125x125.jpg"
+      },
+      {
+        "name": "Pistachio Shells",
+        "page": "https://dir.indiamart.com/impcat/pistachio-shells.html",
+        "thumbnail": "http://5.imimg.com/data5/KK/KK/GLADMIN-/a-img922-6980-vbcqju-125x125.jpg"
+      },
+      {
+        "name": "Roasted Guar Korma",
+        "page": "https://dir.indiamart.com/impcat/roasted-guar-korma.html",
+        "thumbnail": "http://4.imimg.com/data4/CE/AD/GLADMIN-2/roasted-guar-korma-125x125.jpg"
+      },
+      {
+        "name": "Khakha Powder",
+        "page": "https://dir.indiamart.com/impcat/khakha-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/MG/GLADMIN-113754/khakha-powder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Coco Peat Products",
+    "category_thumbnail": "http://3.imimg.com/data3/NX/EE/GLADMIN-43768/coco-peat-products-125x125.jpg",
+    "items": [
+      {
+        "name": "Cocopeat Block",
+        "page": "https://dir.indiamart.com/impcat/cocopeat-block.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SY/DU/FX/92368/cocopeat-block-125x125.jpg"
+      },
+      {
+        "name": "Cocopeat Brick",
+        "page": "https://dir.indiamart.com/impcat/cocopeat-brick.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/RW/GLADMIN-88009/cocopeat-brick-125x125.jpg"
+      },
+      {
+        "name": "Coco Peat Disc",
+        "page": "https://dir.indiamart.com/impcat/coco-peat-disc.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/YY/GLADMIN-104010/coco-peat-disc-125x125.jpg"
+      },
+      {
+        "name": "Coco Peat Briquette",
+        "page": "https://dir.indiamart.com/impcat/coco-peat-briquette.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/SX/GLADMIN-88007/coco-peat-briquette-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Coir Products",
+    "category_thumbnail": "http://3.imimg.com/data3/NN/RA/GLADMIN-43764/coir-products-125x125.jpg",
+    "items": [
+      {
+        "name": "Coir Pith",
+        "page": "https://dir.indiamart.com/impcat/coir-pith.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/FS/UC/HK/86648/coir-pith-125x125.jpeg"
+      },
+      {
+        "name": "Coir Fibre",
+        "page": "https://dir.indiamart.com/impcat/coir-fibre.html",
+        "thumbnail": "http://3.imimg.com/data3/CY/LU/GLADMIN-13153/coir-fibre-125x125.jpg"
+      },
+      {
+        "name": "Coir Pith Block",
+        "page": "https://dir.indiamart.com/impcat/coir-pith-block.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/JI/GLADMIN-136925/coir-pith-block-125x125.jpg"
+      },
+      {
+        "name": "Coir Sheet",
+        "page": "https://dir.indiamart.com/impcat/coir-sheet.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/QJ/GLADMIN-78104/coir-sheet-125x125.jpg"
+      },
+      {
+        "name": "Rubberised Coir Sheet",
+        "page": "https://dir.indiamart.com/impcat/rubberised-coir-sheet.html",
+        "thumbnail": "http://3.imimg.com/data3/ET/PS/GLADMIN-78040/rubberised-coir-sheet-125x125.jpg"
+      },
+      {
+        "name": "Coir Rolls",
+        "page": "https://dir.indiamart.com/impcat/coir-rolls.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/FS/GLADMIN-146797/coir-rolls-125x125.jpg"
+      },
+      {
+        "name": "Coir Pellet",
+        "page": "https://dir.indiamart.com/impcat/coir-pellet.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/BE/GLADMIN-43767/coir-pellet-125x125.jpg"
+      },
+      {
+        "name": "Coir Log",
+        "page": "https://dir.indiamart.com/impcat/coir-log.html",
+        "thumbnail": "http://3.imimg.com/data3/LB/SA/GLADMIN-85795/coir-log-125x125.jpg"
+      },
+      {
+        "name": "Bristle Coir Fibre",
+        "page": "https://dir.indiamart.com/impcat/bristle-coir-fibre.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/KV/GLADMIN-111351/bristle-coir-fibre-125x125.jpg"
+      },
+      {
+        "name": "Coir Pole",
+        "page": "https://dir.indiamart.com/impcat/coir-pole.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/WX/GLADMIN-163963/coir-pole-125x125.jpg"
+      },
+      {
+        "name": "Coir Pith Briquette",
+        "page": "https://dir.indiamart.com/impcat/coir-pith-briquette.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/GK/GLADMIN-111275/coir-pith-briquette-125x125.jpg"
+      },
+      {
+        "name": "Coir Peat Bales",
+        "page": "https://dir.indiamart.com/impcat/coir-peat-bales.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/BO/GLADMIN-163940/coir-peat-bales-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Natural Gum",
+    "category_thumbnail": "http://3.imimg.com/data3/AH/MQ/GLADMIN-138764/natural-gum-125x125.jpg",
+    "items": [
+      {
+        "name": "Xanthan Gum",
+        "page": "https://dir.indiamart.com/impcat/xanthan-gum.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/JR/GLADMIN-134125/xanthan-gum-125x125.jpg"
+      },
+      {
+        "name": "Gum Arabic",
+        "page": "https://dir.indiamart.com/impcat/gum-arabic.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/HU/GLADMIN-29907/gum-arabic-125x125.jpg"
+      },
+      {
+        "name": "Indian Gum",
+        "page": "https://dir.indiamart.com/impcat/indian-gum.html",
+        "thumbnail": "http://3.imimg.com/data3/KB/KQ/GLADMIN-30643/indian-gum-125x125.png"
+      },
+      {
+        "name": "Gum Powder",
+        "page": "https://dir.indiamart.com/impcat/gum-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/AY/FJ/GLADMIN-21013/gum-powder-125x125.jpg"
+      },
+      {
+        "name": "Guar Gum Powder",
+        "page": "https://dir.indiamart.com/impcat/guaran-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/ME/GLADMIN-1024/guar-gum-powder-125x125.jpg"
+      },
+      {
+        "name": "Tragacanth Gum",
+        "page": "https://dir.indiamart.com/impcat/tragacanth-gum.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/PC/GLADMIN-40128/tragacanth-gum-125x125.jpg"
+      },
+      {
+        "name": "Agar Agar",
+        "page": "https://dir.indiamart.com/impcat/agar-agar.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/EI/GLADMIN-136674/agar-agar-125x125.jpg"
+      },
+      {
+        "name": "Corrugation Gum Powder",
+        "page": "https://dir.indiamart.com/impcat/corrugation-gum-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/QX/WV/GLADMIN-148557/corrugation-gum-powder-125x125.jpg"
+      },
+      {
+        "name": "Guar Gum",
+        "page": "https://dir.indiamart.com/impcat/guaran.html",
+        "thumbnail": "http://3.imimg.com/data3/PX/QL/MY-2/guar-gum-125x125.jpg"
+      },
+      {
+        "name": "Gum Karaya",
+        "page": "https://dir.indiamart.com/impcat/gum-karaya.html",
+        "thumbnail": "http://3.imimg.com/data3/VY/ND/GLADMIN-29909/gum-karaya-125x125.jpg"
+      },
+      {
+        "name": "Carrageenan",
+        "page": "https://dir.indiamart.com/impcat/carrageenan.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/PO/GLADMIN-24450/carrageenan-125x125.jpg"
+      },
+      {
+        "name": "Gellan Gum",
+        "page": "https://dir.indiamart.com/impcat/gellan-gum.html",
+        "thumbnail": "http://5.imimg.com/data5/SL/LH/GLADMIN-2/gellan-gum-125x125.jpg"
+      },
+      {
+        "name": "Gum Olibanum",
+        "page": "https://dir.indiamart.com/impcat/gum-olibanum.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/AM/GLADMIN-141309/gum-olibanum-125x125.jpg"
+      },
+      {
+        "name": "Gum Ester",
+        "page": "https://dir.indiamart.com/impcat/gum-ester.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/RF/GLADMIN-11175/gum-ester-125x125.jpg"
+      },
+      {
+        "name": "Moringa Gum",
+        "page": "https://dir.indiamart.com/impcat/moringa-gum.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/10/459170475/AJ/PF/CJ/113754/imagegum-125x125.jpg"
+      },
+      {
+        "name": "Locust Bean Gum",
+        "page": "https://dir.indiamart.com/impcat/locust-bean-gum.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/JR/GLADMIN-147718/locust-bean-gum-125x125.jpg"
+      },
+      {
+        "name": "Tamarind Gum Powder",
+        "page": "https://dir.indiamart.com/impcat/tamarind-gum-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/FU/GLADMIN-151547/tamarind-gum-powder-125x125.jpg"
+      },
+      {
+        "name": "Cassia Gum Powder",
+        "page": "https://dir.indiamart.com/impcat/cassia-gum-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/FO/GLADMIN-138195/cassia-gum-powder-125x125.jpg"
+      },
+      {
+        "name": "Sesbania Gum",
+        "page": "https://dir.indiamart.com/impcat/sesbania-gum.html",
+        "thumbnail": "http://3.imimg.com/data3/WH/SB/GLADMIN-/blog-wp-content-uploads-2013-07-sesbania-gum-sesbania-gum-powder-125x125.jpg"
+      },
+      {
+        "name": "Tamarind Gum",
+        "page": "https://dir.indiamart.com/impcat/tamarind-gum.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/AV/GLADMIN-142459/tamarind-gum-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Honey Bee Products",
+    "category_thumbnail": "http://3.imimg.com/data3/VG/GJ/GLADMIN-111354/honey-bee-products-125x125.jpg",
+    "items": [
+      {
+        "name": "Beeswax",
+        "page": "https://dir.indiamart.com/impcat/beeswax.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/SI/GLADMIN-22580/beeswax-125x125.jpg"
+      },
+      {
+        "name": "Honeycomb",
+        "page": "https://dir.indiamart.com/impcat/honeycomb.html",
+        "thumbnail": "http://3.imimg.com/data3/EP/HW/GLADMIN-21063/honeycomb-125x125.jpg"
+      },
+      {
+        "name": "Honeycomb Material",
+        "page": "https://dir.indiamart.com/impcat/honey-comb-material.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/EA/GLADMIN-121012/honey-comb-material-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Coconut Shell Products",
+    "category_thumbnail": "http://3.imimg.com/data3/LC/RL/GLADMIN-132805/coconut-shell-products-125x125.jpg",
+    "items": [
+      {
+        "name": "Coconut Shell Bowl",
+        "page": "https://dir.indiamart.com/impcat/coconut-shell-bowl.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/CS/GLADMIN-159350/coconut-shell-bowl-125x125.jpg"
+      },
+      {
+        "name": "Coconut Shell Powder",
+        "page": "https://dir.indiamart.com/impcat/coconut-shell-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/MM/GLADMIN-25131/coconut-shell-powder-125x125.jpg"
+      },
+      {
+        "name": "Coconut Shell Cup",
+        "page": "https://dir.indiamart.com/impcat/coconut-shell-cup.html",
+        "thumbnail": "http://3.imimg.com/data3/WK/CI/GLADMIN-163938/coconut-shell-cup-125x125.jpg"
+      },
+      {
+        "name": "Coconut Shell Chips",
+        "page": "https://dir.indiamart.com/impcat/coconut-shell-chips.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/JU/GLADMIN-135916/coconut-shell-chips-125x125.jpg"
+      },
+      {
+        "name": "Coco Chip",
+        "page": "https://dir.indiamart.com/impcat/coco-chip.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/LL/GLADMIN-85349/coco-chip-125x125.jpg"
+      },
+      {
+        "name": "Coconut Peelings",
+        "page": "https://dir.indiamart.com/impcat/coconut-peelings.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/KS/GLADMIN-162178/coconut-peelings-125x125.jpg"
+      }
+    ]
+  }
+]

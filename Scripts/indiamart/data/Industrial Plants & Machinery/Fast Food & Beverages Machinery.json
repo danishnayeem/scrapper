@@ -1,0 +1,793 @@
+[
+  {
+    "category_name": "Snack Machine",
+    "category_thumbnail": "http://5.imimg.com/data5/NG/VV/GLADMIN-2/nop300-125x125.png",
+    "items": [
+      {
+        "name": "Popcorn Machines",
+        "page": "https://dir.indiamart.com/impcat/popcorn-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/JS/MY-2/popcorn-125x125.jpg"
+      },
+      {
+        "name": "Pani Puri Making Machine",
+        "page": "https://dir.indiamart.com/impcat/pani-puri-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/XG/ER/MY-2/pani-puri-sitting-cutting-125x125.jpg"
+      },
+      {
+        "name": "Namkeen Making Machines",
+        "page": "https://dir.indiamart.com/impcat/namkeen-making-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/RU/CU/MY-2/continuous-fully-automated-namkeen-equipment-125x125.jpg"
+      },
+      {
+        "name": "Noodle Machine",
+        "page": "https://dir.indiamart.com/impcat/noodle-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/JE/CN/MY-2/post-569650-1342176194-125x125.jpg"
+      },
+      {
+        "name": "Samosa Making Machine",
+        "page": "https://dir.indiamart.com/impcat/samosa-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/JC/MY-2/samosa-making-machine1-125x125.jpg"
+      },
+      {
+        "name": "Murukku Making Machine",
+        "page": "https://dir.indiamart.com/impcat/murukku-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/NF/MY-2/61vnbaoaowl-_sl1500_-125x125.jpg"
+      },
+      {
+        "name": "Pasta Making Machine",
+        "page": "https://dir.indiamart.com/impcat/pasta-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/BG/LN/MY-2/814rgwsodbl-_aa1500___70084_zoom-125x125.jpg"
+      },
+      {
+        "name": "Puffed Rice Machinery",
+        "page": "https://dir.indiamart.com/impcat/puffed-rice-machinery.html",
+        "thumbnail": "http://3.imimg.com/data3/MV/WR/GLADMIN-122523/puffed-rice-machinery-125x125.jpg"
+      },
+      {
+        "name": "Electric Popcorn Maker",
+        "page": "https://dir.indiamart.com/impcat/electric-popcorn-maker.html",
+        "thumbnail": "http://5.imimg.com/data5/AR/YV/XY/GLADMIN-68087/electric-popcorn-maker-125x125.jpg"
+      },
+      {
+        "name": "Sweet Corn Machinery",
+        "page": "https://dir.indiamart.com/impcat/sweet-corn-machinery.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/GB/GLADMIN-133931/sweet-corn-machinery-125x125.jpg"
+      },
+      {
+        "name": "Soya Nugget Machine",
+        "page": "https://dir.indiamart.com/impcat/soya-nugget-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/SM/MY-2/soya-nugget-chunk-extruder-machine-125x125.jpg"
+      },
+      {
+        "name": "Mobile Popcorn Machine",
+        "page": "https://dir.indiamart.com/impcat/mobile-popcorn-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/CE/GLADMIN-178105/mobile-popcorn-machine-125x125.jpg"
+      },
+      {
+        "name": "Farsan Machine",
+        "page": "https://dir.indiamart.com/impcat/farsan-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/JM/NS/GLADMIN-2/farsan-machine-125x125.jpg"
+      },
+      {
+        "name": "Fully Automatic Namkeen Making Plant",
+        "page": "https://dir.indiamart.com/impcat/fully-automatic-namkeen-making-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/OV/BR/FR/GLADMIN-65832/fully-automatic-namkeen-making-plant-125x125.jpg"
+      },
+      {
+        "name": "Khakhra Making Machine",
+        "page": "https://dir.indiamart.com/impcat/khakhra-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/DC/MY-2/khakhra-making-machine1-125x125.jpg"
+      },
+      {
+        "name": "Rice Puffing Machine",
+        "page": "https://dir.indiamart.com/impcat/rice-puffing-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369802901/SX/YW/QO/96317/rice-puffing-machine-125x125.jpg"
+      },
+      {
+        "name": "Fryums Making Machine",
+        "page": "https://dir.indiamart.com/impcat/fryums-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/TL/AI/MY-2/fryums-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Chips Making Machine",
+        "page": "https://dir.indiamart.com/impcat/chips-making-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/TQ/LJ/GLADMIN-122134/chips-making-plant-125x125.jpg"
+      },
+      {
+        "name": "Snacks Making Line",
+        "page": "https://dir.indiamart.com/impcat/snacks-making-line.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/AU/GLADMIN-142282/snacks-making-line-125x125.jpg"
+      },
+      {
+        "name": "Fafda Making Machine",
+        "page": "https://dir.indiamart.com/impcat/fafda-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/IB/YI/JE/81953/fafda-making-machine-125x125.png"
+      },
+      {
+        "name": "Namak Para Making Machine",
+        "page": "https://dir.indiamart.com/impcat/namak-para-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/LR/YY/QU/GLADMIN-65832/namak-para-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Industrial Popcorn Machine",
+        "page": "https://dir.indiamart.com/impcat/industrial-popcorn-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/XQ/VX/CP/GLADMIN-68087/industrial-popcorn-machine-125x125.png"
+      },
+      {
+        "name": "Corn Snacks Machine",
+        "page": "https://dir.indiamart.com/impcat/corn-snacks-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/MQ/VS/MY-2/corn-snacks-machine-125x125.jpg"
+      },
+      {
+        "name": "Flavoring Drum",
+        "page": "https://dir.indiamart.com/impcat/flavoring-drum.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/AN/MY-2/flavoring-drum2-125x125.jpg"
+      },
+      {
+        "name": "Popcorn Popper",
+        "page": "https://dir.indiamart.com/impcat/popcorn-popper.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/XC/GLADMIN-18196/popcorn-popper-125x125.jpg"
+      },
+      {
+        "name": "Soya Nugget Plant",
+        "page": "https://dir.indiamart.com/impcat/soya-nugget-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/KG/GLADMIN-122722/soya-nugget-plant-125x125.jpg"
+      },
+      {
+        "name": "Namkeen Making Line",
+        "page": "https://dir.indiamart.com/impcat/namkeen-making-line.html",
+        "thumbnail": "http://3.imimg.com/data3/JG/GA/GLADMIN-142279/namkeen-making-line-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Vats",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-vats.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/PQ/GLADMIN-38165/stainless-steel-vats-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Noodle Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/JE/CN/MY-2/post-569650-1342176194-125x125.jpg",
+    "items": [
+      {
+        "name": "Noodle Extruder Machine",
+        "page": "https://dir.indiamart.com/impcat/noodle-extruder-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/TH/MY-2/noodle-extruder-machine-125x125.jpg"
+      },
+      {
+        "name": "Idiyappam Machine",
+        "page": "https://dir.indiamart.com/impcat/idiyappam-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/MV/WD/GLADMIN-179930/idiyappam-machine-125x125.jpg"
+      },
+      {
+        "name": "Shevaya Machine",
+        "page": "https://dir.indiamart.com/impcat/shevaya-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/MA/GLADMIN-84721/shevaya-machine-125x125.jpg"
+      },
+      {
+        "name": "Vermicelli Machine",
+        "page": "https://dir.indiamart.com/impcat/vermicelli-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/QJ/BS/HY/GLADMIN-60238/vermicelli-machine-125x125.jpg"
+      },
+      {
+        "name": "Noodle Cutting Machine",
+        "page": "https://dir.indiamart.com/impcat/noodle-cutting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/DY/MY-2/household-noodle-font--125x125.jpg"
+      },
+      {
+        "name": "Pasta Machine",
+        "page": "https://dir.indiamart.com/impcat/pasta-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/AI/MY-2/1-41658-italian-collection-pasta-machine-6735-zoom-125x125.jpg"
+      },
+      {
+        "name": "Noodle Steamer",
+        "page": "https://dir.indiamart.com/impcat/noodle-steamer.html",
+        "thumbnail": "http://5.imimg.com/data5/OK/PB/GLADMIN-2/noodle-steamer-125x125.png"
+      },
+      {
+        "name": "Pasta Extruder Machine",
+        "page": "https://dir.indiamart.com/impcat/pasta-extruder-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/QH/JT/MY-2/pasta-extruder-machine-125x125.jpg"
+      },
+      {
+        "name": "Vermicelli Extruder Machine",
+        "page": "https://dir.indiamart.com/impcat/vermicelli-extruder-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/EC/GLADMIN-140828/vermicelli-extruder-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Chips Making Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/TQ/LJ/GLADMIN-122134/chips-making-plant-125x125.jpg",
+    "items": [
+      {
+        "name": "Potato Chips Making Machine",
+        "page": "https://dir.indiamart.com/impcat/potato-chips-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/RB/WJ/GLADMIN-106959/potato-chips-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Banana Chips Making Machine",
+        "page": "https://dir.indiamart.com/impcat/banana-chips-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/MY/RF/MY-2/banana-chips-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Finger Chips Machine",
+        "page": "https://dir.indiamart.com/impcat/finger-chips-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/AA/NH/GLADMIN-2/finger-chips-machine-125x125.jpg"
+      },
+      {
+        "name": "Wafer Machine",
+        "page": "https://dir.indiamart.com/impcat/wafer-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/LP/SC/GLADMIN-2/wafer-125x125.jpg"
+      },
+      {
+        "name": "Fully Automatic Potato Chips Plant",
+        "page": "https://dir.indiamart.com/impcat/fully-automatic-potato-chips-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/NI/GN/QM/GLADMIN-65832/fully-automatic-potato-chips-plant-125x125.jpg"
+      },
+      {
+        "name": "French Fry Making Machine",
+        "page": "https://dir.indiamart.com/impcat/french-fry-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/BF/MY-2/t2q-125x125.jpg"
+      },
+      {
+        "name": "Potato Chips Cutting Machine",
+        "page": "https://dir.indiamart.com/impcat/potato-chips-cutting-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/KL/YC/GLADMIN-178262/potato-chips-cutting-machine-125x125.jpg"
+      },
+      {
+        "name": "Potato Chip Line",
+        "page": "https://dir.indiamart.com/impcat/potato-chip-line.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/SM/GLADMIN-111221/potato-chip-line-125x125.jpg"
+      },
+      {
+        "name": "French Fries Production Line",
+        "page": "https://dir.indiamart.com/impcat/french-fries-production-line.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/IR/MY-2/french-fries-production-line-125x125.jpg"
+      },
+      {
+        "name": "Continuous Potato Chips Fryer",
+        "page": "https://dir.indiamart.com/impcat/continuous-potato-chips-fryer.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/XO/GLADMIN-111216/continuous-potato-chips-fryer-125x125.jpg"
+      },
+      {
+        "name": "Dry Fruit Chips Machine",
+        "page": "https://dir.indiamart.com/impcat/dry-fruit-chips-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/SU/MY-2/dry-fruit-m-p-adj-slicer-125x125.jpg"
+      },
+      {
+        "name": "Semi Automatic Potato Chip Line",
+        "page": "https://dir.indiamart.com/impcat/semi-automatic-potato-chip-line.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/EM/GLADMIN-111223/semi-automatic-potato-chip-line-125x125.jpg"
+      },
+      {
+        "name": "Wafer Sheet Cooling Machine",
+        "page": "https://dir.indiamart.com/impcat/wafer-sheet-cooling-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/ON/MY-2/wafer-sheet-cooling-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Food Warmers",
+    "category_thumbnail": "http://3.imimg.com/data3/NH/HW/GLADMIN-28864/food-warmers-125x125.jpg",
+    "items": [
+      {
+        "name": "Electric Idli Steamer",
+        "page": "https://dir.indiamart.com/impcat/electric-idli-steamer.html",
+        "thumbnail": "http://3.imimg.com/data3/WQ/HJ/GLADMIN-151552/electric-idli-steamer-125x125.jpg"
+      },
+      {
+        "name": "Cup Warmer",
+        "page": "https://dir.indiamart.com/impcat/cup-warmer.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/YM/GLADMIN-99186/cup-warmer-125x125.jpg"
+      },
+      {
+        "name": "Food Warmer Display Cabinet",
+        "page": "https://dir.indiamart.com/impcat/food-warmer-display-cabinet.html",
+        "thumbnail": "http://3.imimg.com/data3/TM/XX/GLADMIN-152188/food-warmer-display-cabinet-125x125.jpg"
+      },
+      {
+        "name": "Electric Warmer",
+        "page": "https://dir.indiamart.com/impcat/electric-warmer.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/AG/GLADMIN-95311/electric-warmer-125x125.jpg"
+      },
+      {
+        "name": "Steel Food Warmer",
+        "page": "https://dir.indiamart.com/impcat/steel-food-warmer.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/YX/GLADMIN-119277/steel-food-warmer-125x125.jpg"
+      },
+      {
+        "name": "Electric Steamer",
+        "page": "https://dir.indiamart.com/impcat/electric-steamer.html",
+        "thumbnail": "http://3.imimg.com/data3/FS/JM/GLADMIN-27314/electric-steamer-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Warmer",
+        "page": "https://dir.indiamart.com/impcat/chocolate-warmer.html",
+        "thumbnail": "http://4.imimg.com/data4/FV/DE/GLADMIN-184627/chocolate-warmer-125x125.jpg"
+      },
+      {
+        "name": "Plate Warmer",
+        "page": "https://dir.indiamart.com/impcat/plate-warmer.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/FP/GLADMIN-138824/plate-warmer-125x125.jpg"
+      },
+      {
+        "name": "Vegetable Steamer",
+        "page": "https://dir.indiamart.com/impcat/vegetable-steamer.html",
+        "thumbnail": "http://3.imimg.com/data3/CF/VA/GLADMIN-106704/vegetable-steamer-125x125.jpg"
+      },
+      {
+        "name": "Milk Warmer",
+        "page": "https://dir.indiamart.com/impcat/milk-warmer.html",
+        "thumbnail": "http://3.imimg.com/data3/CO/RU/GLADMIN-95320/milk-warmer-125x125.jpg"
+      },
+      {
+        "name": "Induction Buffet Warmer",
+        "page": "https://dir.indiamart.com/impcat/induction-buffet-warmer.html",
+        "thumbnail": "http://5.imimg.com/data5/PR/TS/GN/GLADMIN-68155/induction-buffet-warmer-125x125.png"
+      },
+      {
+        "name": "Electric Pot",
+        "page": "https://dir.indiamart.com/impcat/electric-pot.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/MH/GLADMIN-27289/electric-pot-125x125.jpg"
+      },
+      {
+        "name": "Pressure Steamer",
+        "page": "https://dir.indiamart.com/impcat/pressure-steamer.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/LI/MY-2/pressure-steamer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Idli Maker",
+    "category_thumbnail": "http://3.imimg.com/data3/DF/UO/MY-2/steelcraft_sb_multi_utility_steamer_with_three_idli_plates-125x125.jpg",
+    "items": [
+      {
+        "name": "Aluminium Idli Maker",
+        "page": "https://dir.indiamart.com/impcat/aluminium-idli-maker.html",
+        "thumbnail": "http://5.imimg.com/data5/ZE/OC/IT/GLADMIN-68087/aluminium-idli-maker-125x125.jpg"
+      },
+      {
+        "name": "Idli Steamer",
+        "page": "https://dir.indiamart.com/impcat/idli-steamer.html",
+        "thumbnail": "http://5.imimg.com/data5/YG/IV/GLADMIN-2/idli-steamer-125x125.jpg"
+      },
+      {
+        "name": "Idli Cooker",
+        "page": "https://dir.indiamart.com/impcat/idli-cooker.html",
+        "thumbnail": "http://4.imimg.com/data4/FR/UV/GLADMIN-181381/idli-cooker-125x125.jpg"
+      },
+      {
+        "name": "Electric Idli Steamer",
+        "page": "https://dir.indiamart.com/impcat/electric-idli-steamer.html",
+        "thumbnail": "http://3.imimg.com/data3/WQ/HJ/GLADMIN-151552/electric-idli-steamer-125x125.jpg"
+      },
+      {
+        "name": "Automatic Idli Making Machine",
+        "page": "https://dir.indiamart.com/impcat/automatic-idli-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/UE/GLADMIN-154892/automatic-idli-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Idly Box",
+        "page": "https://dir.indiamart.com/impcat/idly-box.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/UC/GLADMIN-177068/idly-box-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Idli Maker",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-idli-maker.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/stainless-steel-idli-maker-125x125.jpg"
+      },
+      {
+        "name": "Microwave Idli Maker",
+        "page": "https://dir.indiamart.com/impcat/microwave-idli-maker.html",
+        "thumbnail": "http://5.imimg.com/data5/KJ/MS/GZ/GLADMIN-68155/microwave-idli-maker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Namkeen Making Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/RU/CU/MY-2/continuous-fully-automated-namkeen-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Fully Automatic Namkeen Making Plant",
+        "page": "https://dir.indiamart.com/impcat/fully-automatic-namkeen-making-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/OV/BR/FR/GLADMIN-65832/fully-automatic-namkeen-making-plant-125x125.jpg"
+      },
+      {
+        "name": "Namkeen Extruder Machine",
+        "page": "https://dir.indiamart.com/impcat/namkeen-extruder-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/EB/PW/GLADMIN-2/namkeen-extruder-machine-125x125.jpg"
+      },
+      {
+        "name": "Namkeen Making Line",
+        "page": "https://dir.indiamart.com/impcat/namkeen-making-line.html",
+        "thumbnail": "http://3.imimg.com/data3/JG/GA/GLADMIN-142279/namkeen-making-line-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Snack Food Extruder",
+    "category_thumbnail": "http://3.imimg.com/data3/YW/DC/MY-2/snack-food-extruder-125x125.jpg",
+    "items": [
+      {
+        "name": "Kurkure Extruder",
+        "page": "https://dir.indiamart.com/impcat/kurkure-extruder.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/VQ/GLADMIN-/1-1972863-full-images-kurkure-extruder-1088745-125x125.jpg"
+      },
+      {
+        "name": "Corn Puff Making Machine",
+        "page": "https://dir.indiamart.com/impcat/corn-puff-making-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/VV/VV/GLADMIN-/corn-puff-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Puff Extruder Machine",
+        "page": "https://dir.indiamart.com/impcat/puff-extruder-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IX/YO/GLADMIN-147446/puff-extruder-machine-125x125.jpg"
+      },
+      {
+        "name": "Namkeen Extruder Machine",
+        "page": "https://dir.indiamart.com/impcat/namkeen-extruder-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/EB/PW/GLADMIN-2/namkeen-extruder-machine-125x125.jpg"
+      },
+      {
+        "name": "Soya Nuggets Extruder",
+        "page": "https://dir.indiamart.com/impcat/soya-nuggets-extruder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369806721/OM/OP/DJ/96317/soya-nuggets-extruder-125x125.jpg"
+      },
+      {
+        "name": "Cheese Ball Extruder",
+        "page": "https://dir.indiamart.com/impcat/cheese-ball-extruder.html",
+        "thumbnail": "http://3.imimg.com/data3/HI/US/GLADMIN-111215/cheese-ball-extruder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Roasting Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/OH/CO/GLADMIN-122552/roasting-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Coffee Roasting Machine",
+        "page": "https://dir.indiamart.com/impcat/coffee-roasting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/AM/MO/MY-2/coffee-roasting-machine-125x125.jpg"
+      },
+      {
+        "name": "Industrial Roaster",
+        "page": "https://dir.indiamart.com/impcat/industrial-roaster.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/AI/MY-2/industrial-roaster2-125x125.jpg"
+      },
+      {
+        "name": "Grain Roasting Machine",
+        "page": "https://dir.indiamart.com/impcat/grain-roasting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/OS/QR/GLADMIN-/novaindustries-biz-design_theme-default-images-banner10-125x125.jpg"
+      },
+      {
+        "name": "Dried Fruit Roasting Machine",
+        "page": "https://dir.indiamart.com/impcat/dried-fruit-roasting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/OK/SB/MY-2/dried-fruit-roasting-machine-125x125.jpg"
+      },
+      {
+        "name": "Electric Drum Roaster",
+        "page": "https://dir.indiamart.com/impcat/electric-drum-roaster.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/UD/MY-2/ce-automatic-cocoa-beans-roaster-machine-125x125.jpg"
+      },
+      {
+        "name": "Rotary Roaster",
+        "page": "https://dir.indiamart.com/impcat/rotary-roaster.html",
+        "thumbnail": "http://4.imimg.com/data4/CA/NU/GLADMIN-183698/rotary-roaster-125x125.jpg"
+      },
+      {
+        "name": "Sesame Roaster Machine",
+        "page": "https://dir.indiamart.com/impcat/sesame-roaster-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/EG/MY-2/sesame-roaster-machine-125x125.jpg"
+      },
+      {
+        "name": "Uruli Roaster Machine",
+        "page": "https://dir.indiamart.com/impcat/uruli-roaster-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/11/463842039/DG/IJ/GX/113487/urm-125x125.png"
+      },
+      {
+        "name": "Khakhra Roasting Machine",
+        "page": "https://dir.indiamart.com/impcat/khakhra-roasting-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/UW/OQ/TP/GLADMIN-73467/khakhra-roasting-machine-125x125.jpg"
+      },
+      {
+        "name": "Pan Roaster",
+        "page": "https://dir.indiamart.com/impcat/pan-roaster.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/a-img923-6185-giupbc-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Coffee Processing Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/JW/IO/MY-2/coffee-processing-machine1-125x125.jpg",
+    "items": [
+      {
+        "name": "Electric Coffee Grinder",
+        "page": "https://dir.indiamart.com/impcat/electric-coffee-grinder.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/OR/MY-2/cbg_nuova_simonelli_grinta_grinder-125x125.jpg"
+      },
+      {
+        "name": "Coffee Warmer",
+        "page": "https://dir.indiamart.com/impcat/coffee-warmer.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/IG/MY-2/44200-125x125.jpg"
+      },
+      {
+        "name": "Hand Coffee Grinder",
+        "page": "https://dir.indiamart.com/impcat/coffee-grinder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/11/469088649/OY/JS/BK/33104/coffee-grinder-mannual-500x500-125x125.webp"
+      },
+      {
+        "name": "Coffee Pulping Machine",
+        "page": "https://dir.indiamart.com/impcat/coffee-pulping-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/QW/BV/GLADMIN-139874/coffee-pulping-machine-125x125.jpg"
+      },
+      {
+        "name": "Coffee Huller",
+        "page": "https://dir.indiamart.com/impcat/coffee-huller.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/GU/GLADMIN-77638/coffee-huller-125x125.jpg"
+      },
+      {
+        "name": "Coffee Processing Plant",
+        "page": "https://dir.indiamart.com/impcat/coffee-processing-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/ID/GLADMIN-77640/coffee-processing-plant-125x125.jpg"
+      },
+      {
+        "name": "Coffee Bean Sorting Machine",
+        "page": "https://dir.indiamart.com/impcat/coffee-bean-sorting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/WR/MY-2/sorting-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Beverage Making Plant",
+    "category_thumbnail": "http://3.imimg.com/data3/TQ/HG/MY-2/beverage-making-plant1-125x125.jpg",
+    "items": [
+      {
+        "name": "Carbonated Soft Drink Plant",
+        "page": "https://dir.indiamart.com/impcat/carbonated-soft-drink-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/BC/GLADMIN-122663/carbonated-soft-drink-plant-125x125.jpg"
+      },
+      {
+        "name": "Beer Manufacturing Plant",
+        "page": "https://dir.indiamart.com/impcat/beer-manufacturing-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/QS/WI/MY-2/beer-manufacturing-plant-125x125.jpg"
+      },
+      {
+        "name": "Soda Water Plant",
+        "page": "https://dir.indiamart.com/impcat/soda-water-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/QI/GLADMIN-107256/soda-water-plant-125x125.jpg"
+      },
+      {
+        "name": "Carbonator",
+        "page": "https://dir.indiamart.com/impcat/carbonator.html",
+        "thumbnail": "http://3.imimg.com/data3/BH/CI/GLADMIN-114249/carbonator-125x125.jpg"
+      },
+      {
+        "name": "Brewing Equipment",
+        "page": "https://dir.indiamart.com/impcat/brewing-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/CB/HA/GLADMIN-/upimages-7694300-125x125.jpg"
+      },
+      {
+        "name": "Brewery Machinery",
+        "page": "https://dir.indiamart.com/impcat/brewery-machinery.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/TQ/GLADMIN-23602/brewery-machinery-125x125.jpg"
+      },
+      {
+        "name": "Fermentation Equipment",
+        "page": "https://dir.indiamart.com/impcat/fermentation-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/LP/MY-2/fermentation-equipment-rbio-dg--125x125.jpg"
+      },
+      {
+        "name": "Microbrewery Equipment",
+        "page": "https://dir.indiamart.com/impcat/microbrewery-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/SO/MT/MY-2/microbrewery-equipment-125x125.jpg"
+      },
+      {
+        "name": "Juice Production Line",
+        "page": "https://dir.indiamart.com/impcat/juice-production-line.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/DJ/MY-2/juice-production-line-125x125.jpg"
+      },
+      {
+        "name": "Laboratory Fermenter",
+        "page": "https://dir.indiamart.com/impcat/laboratory-fermenter.html",
+        "thumbnail": "http://3.imimg.com/data3/VW/ID/GLADMIN-166626/laboratory-fermenter-125x125.jpg"
+      },
+      {
+        "name": "Winery Equipment",
+        "page": "https://dir.indiamart.com/impcat/winery-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/CQ/PK/GLADMIN-106017/winery-equipment-125x125.jpg"
+      },
+      {
+        "name": "Fermentation Tank",
+        "page": "https://dir.indiamart.com/impcat/fermentation-tank.html",
+        "thumbnail": "http://3.imimg.com/data3/RI/UI/MY-2/fermenter-125x125.jpg"
+      },
+      {
+        "name": "Fermenter Vessels",
+        "page": "https://dir.indiamart.com/impcat/fermenter-vessels.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/SJ/GLADMIN-6284/fermenter-vessels-125x125.jpg"
+      },
+      {
+        "name": "Brewery Tanks",
+        "page": "https://dir.indiamart.com/impcat/brewery-tanks.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/DX/GLADMIN-23603/brewery-tanks-125x125.jpg"
+      },
+      {
+        "name": "Beverage Processing Equipment",
+        "page": "https://dir.indiamart.com/impcat/beverage-processing-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/MG/MY-2/beverage-dispenser--125x125.jpg"
+      },
+      {
+        "name": "Wine Tanks",
+        "page": "https://dir.indiamart.com/impcat/wine-tanks.html",
+        "thumbnail": "http://3.imimg.com/data3/SG/PB/MY-2/tank-ct-sloped-new-cat-125x125.jpg"
+      },
+      {
+        "name": "Beverage Mixer",
+        "page": "https://dir.indiamart.com/impcat/beverage-mixer.html",
+        "thumbnail": "http://3.imimg.com/data3/GT/RQ/MY-2/wp-drk-mxr-pdm-125x125.jpg"
+      },
+      {
+        "name": "Beverage Equipment",
+        "page": "https://dir.indiamart.com/impcat/beverage-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/KY/GLADMIN-22318/beverage-equipment-125x125.jpg"
+      },
+      {
+        "name": "Yeast Tank",
+        "page": "https://dir.indiamart.com/impcat/yeast-tank.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/NX/MY-2/fermentation-125x125.jpg"
+      },
+      {
+        "name": "Beverage Tubing",
+        "page": "https://dir.indiamart.com/impcat/beverage-tubing.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/SA/GLADMIN-22323/beverage-tubing-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Flaking Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/XS/LX/MY-2/iceomatic_ef250a32s_02-125x125.jpg",
+    "items": [
+      {
+        "name": "Poha Making Machine",
+        "page": "https://dir.indiamart.com/impcat/poha-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/VT/MY-2/poha-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Corn Flakes Machinery",
+        "page": "https://dir.indiamart.com/impcat/corn-flakes-machinery.html",
+        "thumbnail": "http://3.imimg.com/data3/SS/KW/MY-2/corn-flakes-machinery1-125x125.jpg"
+      },
+      {
+        "name": "Rice Flake Machine",
+        "page": "https://dir.indiamart.com/impcat/rice-flake-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/GU/MY-2/rice-flake-machine-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Flaker",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-flaker.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/DF/MY-2/stainless-steel-flaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Soya Milk Extractor",
+    "category_thumbnail": "http://3.imimg.com/data3/DL/VP/MY-2/1305640008687-125x125.jpg",
+    "items": [
+      {
+        "name": "Soya Milk Making Machine",
+        "page": "https://dir.indiamart.com/impcat/soya-milk-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/WO/MY-2/soya-milk-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Soybean Milk Plant",
+        "page": "https://dir.indiamart.com/impcat/soybean-milk-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/EQ/MY-2/soybean-milk-plant-125x125.jpg"
+      },
+      {
+        "name": "Soy Milk Maker",
+        "page": "https://dir.indiamart.com/impcat/soy-milk-maker.html",
+        "thumbnail": "http://3.imimg.com/data3/CQ/TS/MY-2/original_m1-1000x10001384762809-125x125.jpg"
+      },
+      {
+        "name": "Soya Milk Powder Plant",
+        "page": "https://dir.indiamart.com/impcat/soya-milk-powder-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/VP/QV/GLADMIN-148378/soya-milk-powder-plant-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Frying Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/NJ/GU/MY-2/electric-deep-fryer-500x500-125x125.jpg",
+    "items": [
+      {
+        "name": "Snack Food Fryer",
+        "page": "https://dir.indiamart.com/impcat/snack-food-fryer.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/CR/MY-2/snack-food-fryer1-125x125.jpg"
+      },
+      {
+        "name": "Automatic Snacks Frying Machine",
+        "page": "https://dir.indiamart.com/impcat/automatic-snacks-frying-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/FA/VB/MY-2/automatic-snacks-frying-machine-125x125.jpg"
+      },
+      {
+        "name": "Batch Fryer",
+        "page": "https://dir.indiamart.com/impcat/batch-fryer.html",
+        "thumbnail": "http://3.imimg.com/data3/UF/FD/MY-2/fryer-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Frying Machine",
+        "page": "https://dir.indiamart.com/impcat/vacuum-frying-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/FJ/XI/GK/GLADMIN-68087/vacuum-frying-machine-125x125.png"
+      },
+      {
+        "name": "Snack Pellet Frying Line",
+        "page": "https://dir.indiamart.com/impcat/pellet-frying-line.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/TQ/GLADMIN-111220/snack-pellet-frying-line-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tea Processing Machinery",
+    "category_thumbnail": "http://3.imimg.com/data3/LN/BQ/MY-2/tea_js-10-20130522-125x125.jpg",
+    "items": [
+      {
+        "name": "Tea Blending Machine",
+        "page": "https://dir.indiamart.com/impcat/tea-blending-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/QD/VV/MY-2/rotatory-tea-mixing-machine-125x125.jpg"
+      },
+      {
+        "name": "Tea Sorter Machine",
+        "page": "https://dir.indiamart.com/impcat/tea-sorter-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/BP/XS/MY-2/2013_new_style_tea_color_sorter_machine_color_sorter-125x125.jpg"
+      },
+      {
+        "name": "Stalk Extractor",
+        "page": "https://dir.indiamart.com/impcat/stalk-extractor.html",
+        "thumbnail": "http://3.imimg.com/data3/ER/LI/GLADMIN-162868/stalk-extractor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tea Maker",
+    "category_thumbnail": "http://3.imimg.com/data3/PA/BP/MY-2/7636332_0_9999_lge_v1_m56577569830556324-125x125.jpg",
+    "items": [
+      {
+        "name": "Tea Brewer",
+        "page": "https://dir.indiamart.com/impcat/tea-brewer.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/CK/GLADMIN-78829/tea-brewer-125x125.jpg"
+      },
+      {
+        "name": "Instant Tea Plants",
+        "page": "https://dir.indiamart.com/impcat/instant-tea-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/QD/YD/GLADMIN-/gifs-h1-125x125.jpg"
+      },
+      {
+        "name": "Rotorvane Machine",
+        "page": "https://dir.indiamart.com/impcat/rotorvane-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/NT/GLADMIN-153817/rotorvane-machine-125x125.jpg"
+      },
+      {
+        "name": "Green Leaf Sifter",
+        "page": "https://dir.indiamart.com/impcat/green-leaf-sifter.html",
+        "thumbnail": "http://3.imimg.com/data3/UF/WH/MY-2/green-leaf-shifter-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Idli Steamer",
+        "page": "https://dir.indiamart.com/impcat/idli-steamer.html",
+        "thumbnail": "http://5.imimg.com/data5/YG/IV/GLADMIN-2/idli-steamer-125x125.jpg"
+      },
+      {
+        "name": "Snacks Making Line",
+        "page": "https://dir.indiamart.com/impcat/snacks-making-line.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/AU/GLADMIN-142282/snacks-making-line-125x125.jpg"
+      }
+    ]
+  }
+]

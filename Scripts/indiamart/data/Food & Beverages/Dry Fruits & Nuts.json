@@ -1,0 +1,754 @@
+[
+  {
+    "category_name": "Edible Nuts",
+    "category_thumbnail": "http://5.imimg.com/data5/PP/PP/GLADMIN-/edible-nuts-125x125.jpg",
+    "items": [
+      {
+        "name": "Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/cashew-nuts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ZK/HW/LG/92368/cashew-nuts-kaju--125x125.jpg"
+      },
+      {
+        "name": "Betel Nuts",
+        "page": "https://dir.indiamart.com/impcat/betel-nuts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/YR/ZE/PS/92368/betel-nuts-125x125.jpg"
+      },
+      {
+        "name": "Peanut",
+        "page": "https://dir.indiamart.com/impcat/peanut.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/PT/IH/CC/92368/peanut-125x125.jpg"
+      },
+      {
+        "name": "Areca Nut",
+        "page": "https://dir.indiamart.com/impcat/areca-nut.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/HK/YO/VQ/92368/areca-nut-125x125.jpg"
+      },
+      {
+        "name": "Walnut",
+        "page": "https://dir.indiamart.com/impcat/walnut.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EH/YL/OX/92368/walnut-125x125.jpg"
+      },
+      {
+        "name": "Dried Nuts",
+        "page": "https://dir.indiamart.com/impcat/dried-nuts.html",
+        "thumbnail": "http://5.imimg.com/data5/MO/PV/GLADMIN-2/dried-nuts-125x125.jpg"
+      },
+      {
+        "name": "Mixed Nuts",
+        "page": "https://dir.indiamart.com/impcat/mixed-nuts.html",
+        "thumbnail": "http://3.imimg.com/data3/SK/TP/GLADMIN-55756/mixed-nuts-125x125.jpg"
+      },
+      {
+        "name": "Pine Nuts",
+        "page": "https://dir.indiamart.com/impcat/pine-nuts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/PL/UT/EN/92368/pine-nuts-125x125.jpg"
+      },
+      {
+        "name": "Macadamia Nuts",
+        "page": "https://dir.indiamart.com/impcat/macadamia-nuts.html",
+        "thumbnail": "http://3.imimg.com/data3/YM/DF/GLADMIN-32410/macadamia-nuts-125x125.jpg"
+      },
+      {
+        "name": "Hazelnut",
+        "page": "https://dir.indiamart.com/impcat/hazelnut.html",
+        "thumbnail": "http://3.imimg.com/data3/GY/GG/GLADMIN-55755/hazelnut-125x125.jpg"
+      },
+      {
+        "name": "Water Chestnuts",
+        "page": "https://dir.indiamart.com/impcat/water-chestnuts.html",
+        "thumbnail": "http://3.imimg.com/data3/OB/HE/GLADMIN-40949/water-chestnuts-125x125.jpg"
+      },
+      {
+        "name": "Brazil Nuts",
+        "page": "https://dir.indiamart.com/impcat/brazil-nuts.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/HY/GLADMIN-23814/brazil-nuts-125x125.jpg"
+      },
+      {
+        "name": "Pecan Nuts",
+        "page": "https://dir.indiamart.com/impcat/pecan-nuts.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/LW/GLADMIN-83940/pecan-nuts-125x125.jpg"
+      },
+      {
+        "name": "Apricot Kernel",
+        "page": "https://dir.indiamart.com/impcat/apricot-kernel.html",
+        "thumbnail": "http://5.imimg.com/data5/XB/OR/GLADMIN-2/apricot-kernel-125x125.jpg"
+      },
+      {
+        "name": "Soya Nut",
+        "page": "https://dir.indiamart.com/impcat/soya-nut.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/AS/GLADMIN-100174/soya-nut-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Dry Fruits",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/JN/HC/OJ/92368/dry-fruits-and-nuts-125x125.jpg",
+    "items": [
+      {
+        "name": "Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/cashew-nuts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ZK/HW/LG/92368/cashew-nuts-kaju--125x125.jpg"
+      },
+      {
+        "name": "Almond",
+        "page": "https://dir.indiamart.com/impcat/almond.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NF/VV/ZR/92368/almond-125x125.jpg"
+      },
+      {
+        "name": "Coconut Copra",
+        "page": "https://dir.indiamart.com/impcat/coconut-copra.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/10/349581833/BT/ND/GH/82392/coconut-copra-125x125.jpg"
+      },
+      {
+        "name": "Dried Coconut",
+        "page": "https://dir.indiamart.com/impcat/dried-coconut.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZL/BH/BZ/91623/dried-coconut-125x125.jpg"
+      },
+      {
+        "name": "Dry Figs",
+        "page": "https://dir.indiamart.com/impcat/dry-figs.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/WL/IM/VK/92368/dry-figs-125x125.png"
+      },
+      {
+        "name": "Pistachio",
+        "page": "https://dir.indiamart.com/impcat/pistachio-nuts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/VN/KJ/BP/86585/pistachio-125x125.jpg"
+      },
+      {
+        "name": "Raisins",
+        "page": "https://dir.indiamart.com/impcat/raisins.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GL/XE/QG/92368/raisins-125x125.jpg"
+      },
+      {
+        "name": "Dehydrated Fruits",
+        "page": "https://dir.indiamart.com/impcat/dehydrated-fruits.html",
+        "thumbnail": "http://3.imimg.com/data3/KL/QQ/GLADMIN-12736/dehydrated-fruits-125x125.jpg"
+      },
+      {
+        "name": "Chironji",
+        "page": "https://dir.indiamart.com/impcat/chironji.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/CT/ON/TP/86648/chironji-125x125.jpg"
+      },
+      {
+        "name": "Organic Pista",
+        "page": "https://dir.indiamart.com/impcat/organic-pista.html",
+        "thumbnail": "http://5.imimg.com/data5/SV/VO/RW/GLADMIN-68087/organic-pista-125x125.jpg"
+      },
+      {
+        "name": "Dry Fruit Powder",
+        "page": "https://dir.indiamart.com/impcat/dry-fruit-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/PJ/HE/EJ/GLADMIN-81462/dry-fruit-powder-125x125.png"
+      },
+      {
+        "name": "Pista Slice",
+        "page": "https://dir.indiamart.com/impcat/pista-slice.html",
+        "thumbnail": "http://5.imimg.com/data5/QE/KD/EC/GLADMIN-72666/pista-slice-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cashew Nuts",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ZK/HW/LG/92368/cashew-nuts-kaju--125x125.jpg",
+    "items": [
+      {
+        "name": "W320 Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/cashew-nut-w320.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/BE/RX/HQ/86648/cashew-nut-w320-kaju--125x125.jpg"
+      },
+      {
+        "name": "Split Cashew Nut",
+        "page": "https://dir.indiamart.com/impcat/split-cashew-nut.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/NY/YF/UT/92375/split-cashew-nut-125x125.jpg"
+      },
+      {
+        "name": "Raw Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/raw-cashew-nuts.html",
+        "thumbnail": "http://3.imimg.com/data3/OD/OG/GLADMIN-36113/raw-cashew-nuts-125x125.jpg"
+      },
+      {
+        "name": "W240 Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/cashew-w240.html",
+        "thumbnail": "http://4.imimg.com/data4/NM/BL/GLADMIN-185998/cashew-w240-125x125.jpg"
+      },
+      {
+        "name": "Cashew Kernels",
+        "page": "https://dir.indiamart.com/impcat/cashew-kernels.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/AA/GLADMIN-/a-img922-4826-4bu7vq-125x125.jpg"
+      },
+      {
+        "name": "W180 Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/w180-cashew-nut.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/PP/GLADMIN-/a-img923-3646-kqfnyd-125x125.jpg"
+      },
+      {
+        "name": "Organic Cashew",
+        "page": "https://dir.indiamart.com/impcat/organic-cashew.html",
+        "thumbnail": "http://5.imimg.com/data5/KC/YA/GLADMIN-2/organic-cashew-nuts-125x125.jpg"
+      },
+      {
+        "name": "LWP Cashew Nut",
+        "page": "https://dir.indiamart.com/impcat/lwp-cashew-nut.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/10/349589779/AY/DU/MR/82392/lwp-cashew-nut-125x125.jpeg"
+      },
+      {
+        "name": "W400 Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/cashew-nuts-400.html",
+        "thumbnail": "http://4.imimg.com/data4/TL/KS/GLADMIN-186108/cashew-nuts-400-125x125.jpg"
+      },
+      {
+        "name": "W210 Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/w210-cashew-nut.html",
+        "thumbnail": "http://5.imimg.com/data5/VV/VV/GLADMIN-/wp-content-uploads-2015-02-w210111-125x125.jpg"
+      },
+      {
+        "name": "Flavored Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/flavored-cashew-nuts.html",
+        "thumbnail": "http://3.imimg.com/data3/GV/KY/GLADMIN-135992/flavored-cashew-nuts-125x125.jpg"
+      },
+      {
+        "name": "Kollam Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/kollam-cashew-nuts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/10/349591709/IB/CU/CH/82392/kollam-cashew-nuts-125x125.png"
+      },
+      {
+        "name": "Processed Cashew Nuts",
+        "page": "https://dir.indiamart.com/impcat/processed-cashew-nuts.html",
+        "thumbnail": "http://3.imimg.com/data3/FE/AE/GLADMIN-8706/processed-cashew-nuts-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Consumable Seeds",
+    "category_thumbnail": "http://5.imimg.com/data5/NJ/NK/GLADMIN-2/roasted-sesame-seed-125x125.png",
+    "items": [
+      {
+        "name": "Makhana",
+        "page": "https://dir.indiamart.com/impcat/fox-nut.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/HH/VE/KP/92375/makhana-125x125.jpg"
+      },
+      {
+        "name": "Groundnut Seeds",
+        "page": "https://dir.indiamart.com/impcat/groundnut-seeds.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/EW/YD/FM/86585/groundnut-seeds-125x125.jpg"
+      },
+      {
+        "name": "Makhana Flake",
+        "page": "https://dir.indiamart.com/impcat/makhana-flake.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/WY/GLADMIN-109986/makhana-flake-125x125.jpg"
+      },
+      {
+        "name": "Magajtari",
+        "page": "https://dir.indiamart.com/impcat/magajtari.html",
+        "thumbnail": "http://5.imimg.com/data5/LI/OJ/UF/GLADMIN-56986/magajtari-125x125.jpeg"
+      },
+      {
+        "name": "Chironji",
+        "page": "https://dir.indiamart.com/impcat/chironji.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/CT/ON/TP/86648/chironji-125x125.jpg"
+      },
+      {
+        "name": "Watermelon Kernel",
+        "page": "https://dir.indiamart.com/impcat/watermelon-kernel.html",
+        "thumbnail": "http://5.imimg.com/data5/UJ/XN/IF/GLADMIN-72666/watermelon-kernel-125x125.jpg"
+      },
+      {
+        "name": "Roasted Pumpkin Seed",
+        "page": "https://dir.indiamart.com/impcat/roasted-pumpkin-seed.html",
+        "thumbnail": "http://4.imimg.com/data4/JK/WJ/GLADMIN-96282/roasted-pumpkin-seed-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Almond",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NF/VV/ZR/92368/almond-125x125.jpg",
+    "items": [
+      {
+        "name": "Almond Nuts",
+        "page": "https://dir.indiamart.com/impcat/almond-nuts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/XT/CY/BX/92368/almond-nuts-125x125.png"
+      },
+      {
+        "name": "California Almond",
+        "page": "https://dir.indiamart.com/impcat/california-almond.html",
+        "thumbnail": "http://3.imimg.com/data3/HR/CW/GLADMIN-55749/california-almond-125x125.jpg"
+      },
+      {
+        "name": "Mamra Badam",
+        "page": "https://dir.indiamart.com/impcat/mamra-badam.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/PQ/MU/QD/92375/mamra-badam-125x125.jpg"
+      },
+      {
+        "name": "Almond Kernels",
+        "page": "https://dir.indiamart.com/impcat/almond-kernels.html",
+        "thumbnail": "http://3.imimg.com/data3/EG/UT/GLADMIN-3253/almond-kernels-125x125.jpg"
+      },
+      {
+        "name": "Organic Almond",
+        "page": "https://dir.indiamart.com/impcat/organic-almond.html",
+        "thumbnail": "http://3.imimg.com/data3/KR/XU/GLADMIN-68036/organic-almond-125x125.jpg"
+      },
+      {
+        "name": "Broken Almond",
+        "page": "https://dir.indiamart.com/impcat/broken-almond.html",
+        "thumbnail": "http://5.imimg.com/data5/SE/LW/UE/GLADMIN-68155/broken-almond-125x125.jpg"
+      },
+      {
+        "name": "Gurbandi Almond",
+        "page": "https://dir.indiamart.com/impcat/gurbandi-almond.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/322663871/YD/WV/RX/71486/gurbandi-almond-125x125.png"
+      },
+      {
+        "name": "Roasted Almonds",
+        "page": "https://dir.indiamart.com/impcat/roasted-almonds.html",
+        "thumbnail": "http://5.imimg.com/data5/JJ/JJ/GLADMIN-/roasted-almonds-125x125.jpg"
+      },
+      {
+        "name": "Almond Slice",
+        "page": "https://dir.indiamart.com/impcat/almond-slice.html",
+        "thumbnail": "http://5.imimg.com/data5/XW/WL/CU/GLADMIN-72666/almond-slice-125x125.jpg"
+      },
+      {
+        "name": "Almond Seed",
+        "page": "https://dir.indiamart.com/impcat/almond-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/QI/BM/ZV/86674/almond-seed-125x125.jpg"
+      },
+      {
+        "name": "Flavored Almond",
+        "page": "https://dir.indiamart.com/impcat/flavored-almond.html",
+        "thumbnail": "http://5.imimg.com/data5/CV/LQ/PB/GLADMIN-56986/flavored-almond-125x125.jpg"
+      },
+      {
+        "name": "Kagzi Almonds",
+        "page": "https://dir.indiamart.com/impcat/kagzi-almonds.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/322671842/LA/FY/PU/71486/kagzi-almonds-125x125.png"
+      },
+      {
+        "name": "Silver Coated Almond",
+        "page": "https://dir.indiamart.com/impcat/silver-coated-almond.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/LF/CW/WM/86674/silver-coated-almond-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Dates",
+    "category_thumbnail": "http://5.imimg.com/data5/LH/OU/GLADMIN-2/honey-date-125x125.jpg",
+    "items": [
+      {
+        "name": "Fresh Dates",
+        "page": "https://dir.indiamart.com/impcat/fresh-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/MR/JP/TE/92368/fresh-dates-125x125.jpg"
+      },
+      {
+        "name": "Kimia Dates",
+        "page": "https://dir.indiamart.com/impcat/kimia-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/XR/XZ/SG/86648/kimia-dates-125x125.jpg"
+      },
+      {
+        "name": "Dry Dates",
+        "page": "https://dir.indiamart.com/impcat/dry-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MZ/RA/DT/92368/dry-dates-125x125.jpg"
+      },
+      {
+        "name": "Packaged Dates",
+        "page": "https://dir.indiamart.com/impcat/packaged-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/JA/HG/QU/92368/packaged-dates-125x125.jpg"
+      },
+      {
+        "name": "Medjool Dates",
+        "page": "https://dir.indiamart.com/impcat/medjool-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/10/349979447/WS/OL/WM/97574/medjool-dates-125x125.jpg"
+      },
+      {
+        "name": "Ajwa Dates",
+        "page": "https://dir.indiamart.com/impcat/ajwa-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZZ/SG/TK/86648/ajwa-dates-125x125.jpg"
+      },
+      {
+        "name": "Safawi Dates",
+        "page": "https://dir.indiamart.com/impcat/safawi-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/JB/OH/GLADMIN-2/safawi-dates-125x125.jpg"
+      },
+      {
+        "name": "Seedless Dates",
+        "page": "https://dir.indiamart.com/impcat/seedless-dates.html",
+        "thumbnail": "http://3.imimg.com/data3/ML/DO/GLADMIN-118981/seedless-dates-125x125.jpg"
+      },
+      {
+        "name": "Zahidi Dates",
+        "page": "https://dir.indiamart.com/impcat/zahidi-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/397209829/RK/RE/UJ/90177/zahidi-dates-125x125.jpg"
+      },
+      {
+        "name": "Sukkari Dates",
+        "page": "https://dir.indiamart.com/impcat/sukkari-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/LS/AJ/GLADMIN-2/sukkari-dates-125x125.jpg"
+      },
+      {
+        "name": "Rabbi Dates",
+        "page": "https://dir.indiamart.com/impcat/rabbi-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/397196337/UA/BV/XY/90177/rabbi-dates-125x125.jpeg"
+      },
+      {
+        "name": "Oman Dates",
+        "page": "https://dir.indiamart.com/impcat/oman-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/CH/NR/GLADMIN-56986/oman-dates-125x125.jpg"
+      },
+      {
+        "name": "Anbara Dates",
+        "page": "https://dir.indiamart.com/impcat/anbara-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/PF/MM/GLADMIN-2/770651534_770651534734140-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Peanut",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/PT/IH/CC/92368/peanut-125x125.jpg",
+    "items": [
+      {
+        "name": "Groundnut Seeds",
+        "page": "https://dir.indiamart.com/impcat/groundnut-seeds.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/EW/YD/FM/86585/groundnut-seeds-125x125.jpg"
+      },
+      {
+        "name": "Raw Peanut",
+        "page": "https://dir.indiamart.com/impcat/raw-peanut.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EV/FP/RK/92368/raw-peanut-125x125.jpg"
+      },
+      {
+        "name": "Groundnut Kernels",
+        "page": "https://dir.indiamart.com/impcat/groundnut-kernels.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/AX/GLADMIN-11164/groundnut-kernels-125x125.jpg"
+      },
+      {
+        "name": "Peanut Kernel",
+        "page": "https://dir.indiamart.com/impcat/peanut-kernel.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/RT/GLADMIN-118178/peanut-kernel-125x125.jpg"
+      },
+      {
+        "name": "Blanched Peanut",
+        "page": "https://dir.indiamart.com/impcat/blanched-peanut.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/OB/GLADMIN-49796/blanched-peanut-125x125.jpg"
+      },
+      {
+        "name": "Split Peanuts",
+        "page": "https://dir.indiamart.com/impcat/split-peanuts.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/AV/GLADMIN-55768/split-peanuts-125x125.jpg"
+      },
+      {
+        "name": "Raw Peanut Kernel",
+        "page": "https://dir.indiamart.com/impcat/raw-peanut-kernel.html",
+        "thumbnail": "http://3.imimg.com/data3/SV/KB/GLADMIN-55760/raw-peanut-kernel-125x125.jpg"
+      },
+      {
+        "name": "Red Peanut",
+        "page": "https://dir.indiamart.com/impcat/red-peanut.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/XH/GLADMIN-55761/red-peanut-125x125.jpg"
+      },
+      {
+        "name": "Redskin Peanuts",
+        "page": "https://dir.indiamart.com/impcat/redskin-peanuts.html",
+        "thumbnail": "http://3.imimg.com/data3/QX/TE/GLADMIN-55764/redskin-peanuts-125x125.jpg"
+      },
+      {
+        "name": "Red Peanut Kernel",
+        "page": "https://dir.indiamart.com/impcat/red-peanut-kernel.html",
+        "thumbnail": "http://3.imimg.com/data3/MO/UE/GLADMIN-55762/red-peanut-kernel-125x125.jpg"
+      },
+      {
+        "name": "Blanched Groundnut Kernel",
+        "page": "https://dir.indiamart.com/impcat/blanched-groundnut-kernel.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/IV/GLADMIN-49795/blanched-groundnut-kernel-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Raisins",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GL/XE/QG/92368/raisins-125x125.jpg",
+    "items": [
+      {
+        "name": "Dried Raisin",
+        "page": "https://dir.indiamart.com/impcat/dried-raisin.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SI/EQ/TR/92368/dried-raisin-125x125.jpg"
+      },
+      {
+        "name": "Golden Raisin",
+        "page": "https://dir.indiamart.com/impcat/golden-raisin.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/JB/GLADMIN-55753/golden-raisin-125x125.jpg"
+      },
+      {
+        "name": "Black Raisins",
+        "page": "https://dir.indiamart.com/impcat/black-raisins.html",
+        "thumbnail": "http://3.imimg.com/data3/GN/TU/GLADMIN-23442/black-raisins-125x125.jpg"
+      },
+      {
+        "name": "Yellow Raisins",
+        "page": "https://dir.indiamart.com/impcat/yellow-raisins.html",
+        "thumbnail": "http://4.imimg.com/data4/EW/AI/GLADMIN-183454/yellow-raisins-125x125.jpg"
+      },
+      {
+        "name": "Green Raisin",
+        "page": "https://dir.indiamart.com/impcat/green-raisin.html",
+        "thumbnail": "http://5.imimg.com/data5/VV/VV/GLADMIN-/g-0-6-3-3-1-6-24063316_b-125x125.jpg"
+      },
+      {
+        "name": "Munakka",
+        "page": "https://dir.indiamart.com/impcat/munakka.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/8/VM/ZJ/PM/81953/munakka-125x125.jpg"
+      },
+      {
+        "name": "Seedless Raisins",
+        "page": "https://dir.indiamart.com/impcat/seedless-raisins.html",
+        "thumbnail": "http://5.imimg.com/data5/IM/ID/GLADMIN-2/seedless-raisins-125x125.jpg"
+      },
+      {
+        "name": "Brown Raisins",
+        "page": "https://dir.indiamart.com/impcat/brown-raisins.html",
+        "thumbnail": "http://4.imimg.com/data4/IH/NC/GLADMIN-183453/brown-raisins-125x125.jpg"
+      },
+      {
+        "name": "Red Raisin",
+        "page": "https://dir.indiamart.com/impcat/red-raisin.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/IR/GLADMIN-55763/red-raisin-125x125.jpg"
+      },
+      {
+        "name": "Malayar Raisins",
+        "page": "https://dir.indiamart.com/impcat/malayar-raisins.html",
+        "thumbnail": "http://5.imimg.com/data5/BG/HC/GLADMIN-2/malayar-raisins-125x125.jpg"
+      },
+      {
+        "name": "Indian Raisins",
+        "page": "https://dir.indiamart.com/impcat/indian-kismish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/10/355180002/RU/SG/JA/92383/indian-raisins-125x125.jpg"
+      },
+      {
+        "name": "Afghan Raisins",
+        "page": "https://dir.indiamart.com/impcat/afghan-raisins.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/9/348658286/AI/GJ/LS/92383/afghan-raisins-125x125.jpg"
+      },
+      {
+        "name": "Paan Raisins",
+        "page": "https://dir.indiamart.com/impcat/paan-raisin.html",
+        "thumbnail": "http://5.imimg.com/data5/EG/CF/OO/GLADMIN-76037/paan-raisins-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Dehydrated Fruits",
+    "category_thumbnail": "http://3.imimg.com/data3/KL/QQ/GLADMIN-12736/dehydrated-fruits-125x125.jpg",
+    "items": [
+      {
+        "name": "Dry Amla",
+        "page": "https://dir.indiamart.com/impcat/dry-amla.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/WC/GLADMIN-44880/dry-amla-125x125.jpg"
+      },
+      {
+        "name": "Frozen Dried Fruit",
+        "page": "https://dir.indiamart.com/impcat/frozen-dried-fruit.html",
+        "thumbnail": "http://5.imimg.com/data5/UE/HG/GLADMIN-2/frozen-dried-fruit-125x125.jpg"
+      },
+      {
+        "name": "Dry Apricots",
+        "page": "https://dir.indiamart.com/impcat/dry-apricots.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/JE/GLADMIN-26932/dry-apricots-125x125.jpg"
+      },
+      {
+        "name": "Dried Mango",
+        "page": "https://dir.indiamart.com/impcat/dried-mango.html",
+        "thumbnail": "http://3.imimg.com/data3/QP/HQ/GLADMIN-69242/dried-mango-125x125.jpg"
+      },
+      {
+        "name": "Dried Grapes",
+        "page": "https://dir.indiamart.com/impcat/dried-grapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SH/QM/PM/92368/dried-grapes-125x125.jpg"
+      },
+      {
+        "name": "Freeze Dried Fruits",
+        "page": "https://dir.indiamart.com/impcat/freeze-dried-fruits.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/IM/QM/KY/88287/freeze-dried-fruits-125x125.jpg"
+      },
+      {
+        "name": "Dehydrated Cranberries",
+        "page": "https://dir.indiamart.com/impcat/dehydrated-cranberries.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/SH/GLADMIN-118980/dehydrated-cranberries-125x125.jpg"
+      },
+      {
+        "name": "Dried Kiwi",
+        "page": "https://dir.indiamart.com/impcat/dried-kiwi.html",
+        "thumbnail": "http://3.imimg.com/data3/EY/PN/GLADMIN-108767/dried-kiwi-125x125.jpg"
+      },
+      {
+        "name": "Dried Strawberries",
+        "page": "https://dir.indiamart.com/impcat/dried-strawberries.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/BF/GLADMIN-108770/dried-strawberries-125x125.jpg"
+      },
+      {
+        "name": "Dried Plums",
+        "page": "https://dir.indiamart.com/impcat/dried-plums.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/DP/GLADMIN-26880/dried-plums-125x125.jpg"
+      },
+      {
+        "name": "Dried Pineapple",
+        "page": "https://dir.indiamart.com/impcat/dried-pineapple.html",
+        "thumbnail": "http://4.imimg.com/data4/DF/QJ/GLADMIN-178810/dried-pineapple-125x125.jpg"
+      },
+      {
+        "name": "Dried Blueberries",
+        "page": "https://dir.indiamart.com/impcat/dried-blueberries.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/UB/GLADMIN-157608/dried-blueberries-125x125.jpg"
+      },
+      {
+        "name": "Dehydrated Banana",
+        "page": "https://dir.indiamart.com/impcat/dehydrated-banana.html",
+        "thumbnail": "http://5.imimg.com/data5/XB/GZ/MO/GLADMIN-81955/dehydrated-banana-125x125.jpg"
+      },
+      {
+        "name": "Dried Cherries",
+        "page": "https://dir.indiamart.com/impcat/dried-cherries.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/QH/GLADMIN-108764/dried-cherries-125x125.jpg"
+      },
+      {
+        "name": "Freeze Dried Mango",
+        "page": "https://dir.indiamart.com/impcat/freeze-dried-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/CX/KW/XU/GLADMIN-68155/freeze-dried-mango-125x125.jpg"
+      },
+      {
+        "name": "Dried Orange",
+        "page": "https://dir.indiamart.com/impcat/dried-orange.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/CR/SR/WD/81953/dried-orange-125x125.jpg"
+      },
+      {
+        "name": "Dried Apple",
+        "page": "https://dir.indiamart.com/impcat/dried-apple.html",
+        "thumbnail": "http://3.imimg.com/data3/BP/RH/GLADMIN-84763/dried-apple-125x125.jpg"
+      },
+      {
+        "name": "Pitted Prunes",
+        "page": "https://dir.indiamart.com/impcat/pitted-prunes.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/PY/GLADMIN-55837/pitted-prunes-125x125.jpg"
+      },
+      {
+        "name": "Dehydrated Guava",
+        "page": "https://dir.indiamart.com/impcat/dehydrated-guava.html",
+        "thumbnail": "http://5.imimg.com/data5/SG/PH/PT/GLADMIN-81955/dehydrated-guava-125x125.jpg"
+      },
+      {
+        "name": "Freeze Dried Banana",
+        "page": "https://dir.indiamart.com/impcat/freeze-dried-banana.html",
+        "thumbnail": "http://4.imimg.com/data4/EM/TU/GLADMIN-185158/freeze-dried-banana-125x125.jpg"
+      },
+      {
+        "name": "Freeze Dried Apple",
+        "page": "https://dir.indiamart.com/impcat/freeze-dried-apple.html",
+        "thumbnail": "http://5.imimg.com/data5/AE/EB/KF/GLADMIN-68155/freeze-dried-apple-125x125.jpg"
+      },
+      {
+        "name": "Dried Papaya",
+        "page": "https://dir.indiamart.com/impcat/dried-papaya.html",
+        "thumbnail": "http://4.imimg.com/data4/DJ/QI/GLADMIN-178847/dried-papaya-125x125.jpg"
+      },
+      {
+        "name": "Dry Pomegranate",
+        "page": "https://dir.indiamart.com/impcat/dry-pomegranate.html",
+        "thumbnail": "http://3.imimg.com/data3/HI/MJ/GLADMIN-26946/dry-pomegranate-125x125.jpg"
+      },
+      {
+        "name": "Dried Peaches",
+        "page": "https://dir.indiamart.com/impcat/dried-peaches.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/VW/GLADMIN-100908/dried-peaches-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Walnut",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EH/YL/OX/92368/walnut-125x125.jpg",
+    "items": [
+      {
+        "name": "Walnut Kernels",
+        "page": "https://dir.indiamart.com/impcat/walnut-kernels.html",
+        "thumbnail": "http://3.imimg.com/data3/TN/AO/GLADMIN-40897/walnut-kernels-125x125.jpg"
+      },
+      {
+        "name": "Kashmiri Walnut Kernels",
+        "page": "https://dir.indiamart.com/impcat/kashmiri-walnut-kernels.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/323089378/US/RM/NZ/97574/kashmiri-walnut-kernels-125x125.webp"
+      },
+      {
+        "name": "Organic Walnuts",
+        "page": "https://dir.indiamart.com/impcat/organic-walnuts.html",
+        "thumbnail": "http://5.imimg.com/data5/WY/KA/MR/GLADMIN-68087/organic-walnuts-125x125.jpg"
+      },
+      {
+        "name": "Black Walnut",
+        "page": "https://dir.indiamart.com/impcat/black-walnut.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/EX/GLADMIN-14603/black-walnut-125x125.jpg"
+      },
+      {
+        "name": "California Walnut",
+        "page": "https://dir.indiamart.com/impcat/california-walnut.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/321288022/OG/GP/KV/71486/california-walnut-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Dry Fruit Powder",
+    "category_thumbnail": "http://5.imimg.com/data5/PJ/HE/EJ/GLADMIN-81462/dry-fruit-powder-125x125.png",
+    "items": [
+      {
+        "name": "Desiccated Coconut Powder",
+        "page": "https://dir.indiamart.com/impcat/desiccated-coconut-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/HQ/TN/GLADMIN-127377/desiccated-coconut-powder-125x125.jpg"
+      },
+      {
+        "name": "Coconut Powder",
+        "page": "https://dir.indiamart.com/impcat/coconut-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/SB/NK/GLADMIN-126167/coconut-powder-125x125.jpg"
+      },
+      {
+        "name": "Supari Powder",
+        "page": "https://dir.indiamart.com/impcat/betel-nut-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/KQ/CN/SI/GLADMIN-68087/betel-nut-powder-125x125.png"
+      },
+      {
+        "name": "Almond Powder",
+        "page": "https://dir.indiamart.com/impcat/almond-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/DJ/QV/XS/81953/almond-powder-125x125.jpg"
+      },
+      {
+        "name": "Cashew Powder",
+        "page": "https://dir.indiamart.com/impcat/cashew-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/AH/GLADMIN-114131/cashew-powder-125x125.jpg"
+      },
+      {
+        "name": "Low Fat Desiccated Coconut Powder",
+        "page": "https://dir.indiamart.com/impcat/low-fat-desiccated-coconut-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/430356033/SJ/IU/SG/96317/low-fat-desiccated-coconut-powder-125x125.jpg"
+      },
+      {
+        "name": "Spray Dried Coconut Powder",
+        "page": "https://dir.indiamart.com/impcat/spray-dried-coconut-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/SG/GLADMIN-142166/spray-dried-coconut-powder-125x125.jpg"
+      },
+      {
+        "name": "Walnut Powder",
+        "page": "https://dir.indiamart.com/impcat/walnut-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/UE/ZL/HX/GLADMIN-65832/walnut-powder-125x125.jpg"
+      },
+      {
+        "name": "Nut Meal",
+        "page": "https://dir.indiamart.com/impcat/nut-meal.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/VP/GLADMIN-32918/nut-meal-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Almond Nuts",
+        "page": "https://dir.indiamart.com/impcat/almond-nuts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/XT/CY/BX/92368/almond-nuts-125x125.png"
+      }
+    ]
+  }
+]

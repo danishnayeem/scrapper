@@ -1,0 +1,518 @@
+[
+  {
+    "category_name": "T Shirts",
+    "category_thumbnail": "http://3.imimg.com/data3/XQ/RQ/GLADMIN-2893/t-shirts-125x125.jpg",
+    "items": [
+      {
+        "name": "Plain T Shirt",
+        "page": "https://dir.indiamart.com/impcat/plain-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/TM/KU/GLADMIN-78256/plain-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Men T-Shirts",
+        "page": "https://dir.indiamart.com/impcat/mens-t-shirts.html",
+        "thumbnail": "http://3.imimg.com/data3/EK/BM/GLADMIN-2296/mens-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "Oversized T Shirt",
+        "page": "https://dir.indiamart.com/impcat/oversized-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/3/296827235/FA/KC/JL/96809/oversized-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Round Neck T Shirt",
+        "page": "https://dir.indiamart.com/impcat/round-neck-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/CT/GLADMIN-78263/round-neck-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Cotton T-shirts",
+        "page": "https://dir.indiamart.com/impcat/cotton-t-shirts.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/JP/GLADMIN-11198/cotton-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "Printed T Shirts",
+        "page": "https://dir.indiamart.com/impcat/printed-t-shirts.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/GT/GLADMIN-43171/printed-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "Half Sleeves T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/half-sleeves-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/MR/NK/GLADMIN-11759/half-sleeves-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Full Sleeve T Shirt",
+        "page": "https://dir.indiamart.com/impcat/full-sleeve-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/UX/BB/GLADMIN-88414/full-sleeve-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Polyester T Shirt",
+        "page": "https://dir.indiamart.com/impcat/polyester-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/WJ/GLADMIN-78259/polyester-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Collar T Shirt",
+        "page": "https://dir.indiamart.com/impcat/collar-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/PS/GLADMIN-78199/collar-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Blank T Shirt",
+        "page": "https://dir.indiamart.com/impcat/blank-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/QI/GLADMIN-49991/blank-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Gym T Shirt",
+        "page": "https://dir.indiamart.com/impcat/gym-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/KX/XY/RE/95112/gym-t-shirt-125x125.webp"
+      },
+      {
+        "name": "Lycra T Shirt",
+        "page": "https://dir.indiamart.com/impcat/lycra-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/XU/GLADMIN-77943/lycra-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "T- Shirt Stitching Service",
+        "page": "https://dir.indiamart.com/impcat/t-shirt-designing.html",
+        "thumbnail": "http://3.imimg.com/data3/NI/EA/GLADMIN-171053/t-shirt-designing-125x125.jpg"
+      },
+      {
+        "name": "Ladies T-Shirts",
+        "page": "https://dir.indiamart.com/impcat/ladies-t-shirts.html",
+        "thumbnail": "http://3.imimg.com/data3/TF/QG/GLADMIN-204/ladies-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "Graphic Printed T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/graphic-printed-t-shirt.html",
+        "thumbnail": "http://4.imimg.com/data4/FC/LI/GLADMIN-183811/graphic-printed-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Nylon T Shirt",
+        "page": "https://dir.indiamart.com/impcat/nylon-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/GA/QE/GLADMIN-78248/nylon-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "V Neck T Shirt",
+        "page": "https://dir.indiamart.com/impcat/v-neck-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/MC/GLADMIN-78269/v-neck-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Organic T Shirt",
+        "page": "https://dir.indiamart.com/impcat/organic-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/US/GLADMIN-78249/organic-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Tie Dye T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/tie-dye-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/1/BC/HS/LW/96809/tie-dye-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Raglan T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/raglan-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320753722/MC/UF/HF/64193/raglan-t-shirt-125x125.png"
+      },
+      {
+        "name": "Hand Painted T Shirts",
+        "page": "https://dir.indiamart.com/impcat/hand-painted-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/JO/XV/TX/87494/hand-painted-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "Henley T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/henley-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320754249/UJ/FM/XF/64193/henley-t-shirt-125x125.png"
+      },
+      {
+        "name": "Crewneck T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/crewneck-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320752559/QB/BX/PD/64193/crewneck-t-shirt-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Readymade Garments",
+    "category_thumbnail": "http://3.imimg.com/data3/QC/QI/GLADMIN-8995/readymade-garments-125x125.jpg",
+    "items": [
+      {
+        "name": "Shirt",
+        "page": "https://dir.indiamart.com/impcat/shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/YL/GLADMIN-105908/shirt-125x125.jpg"
+      },
+      {
+        "name": "Trouser",
+        "page": "https://dir.indiamart.com/impcat/trouser.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/IB/GLADMIN-2576/trouser-125x125.jpg"
+      },
+      {
+        "name": "Vest",
+        "page": "https://dir.indiamart.com/impcat/vest.html",
+        "thumbnail": "http://3.imimg.com/data3/MO/EV/MY-2/vest-125x125.jpg"
+      },
+      {
+        "name": "Linen Apparel",
+        "page": "https://dir.indiamart.com/impcat/linen-apparel.html",
+        "thumbnail": "http://3.imimg.com/data3/VJ/KW/GLADMIN-32191/linen-apparel-125x125.jpg"
+      },
+      {
+        "name": "Linen Suit",
+        "page": "https://dir.indiamart.com/impcat/linen-suit.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/CA/GLADMIN-78232/linen-suit-125x125.jpg"
+      },
+      {
+        "name": "Hosiery Shirts",
+        "page": "https://dir.indiamart.com/impcat/hosiery-shirts.html",
+        "thumbnail": "http://3.imimg.com/data3/FW/AI/GLADMIN-10752/hosiery-shirts-125x125.jpg"
+      },
+      {
+        "name": "Yarn Dyed Shirt",
+        "page": "https://dir.indiamart.com/impcat/yarn-dyed-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/434870976/LR/IW/IT/91527/yarn-dyed-shirt-125x125.jpg"
+      },
+      {
+        "name": "Mesh Shirt",
+        "page": "https://dir.indiamart.com/impcat/mesh-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/JE/GLADMIN-78246/mesh-shirt-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Surplus Garments",
+    "category_thumbnail": "http://3.imimg.com/data3/KB/XO/GLADMIN-142855/surplus-garments-125x125.jpg",
+    "items": [
+      {
+        "name": "Garment Stock Lot",
+        "page": "https://dir.indiamart.com/impcat/garment-stock-lot.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/YJ/GLADMIN-106815/garment-stock-lot-125x125.jpg"
+      },
+      {
+        "name": "Men Surplus Garment",
+        "page": "https://dir.indiamart.com/impcat/men-surplus-garment.html",
+        "thumbnail": "http://5.imimg.com/data5/HO/WT/MD/GLADMIN-68087/men-surplus-garment-125x125.jpg"
+      },
+      {
+        "name": "Women Surplus Garment",
+        "page": "https://dir.indiamart.com/impcat/women-surplus-garment.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/GV/RL/GLADMIN-68087/women-surplus-garment-125x125.jpg"
+      },
+      {
+        "name": "Stocklot Garments",
+        "page": "https://dir.indiamart.com/impcat/stockapparel.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/QJ/GLADMIN-7991/stocklot-garments-125x125.jpg"
+      },
+      {
+        "name": "Kids Surplus Garment",
+        "page": "https://dir.indiamart.com/impcat/kid-surplus-garment.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/DM/RA/AQ/81953/kid-surplus-garment-125x125.jpeg"
+      },
+      {
+        "name": "T Shirt Stock Lot",
+        "page": "https://dir.indiamart.com/impcat/t-shirt-stock-lot.html",
+        "thumbnail": "http://3.imimg.com/data3/IM/LW/GLADMIN-113911/t-shirt-stock-lot-125x125.jpg"
+      },
+      {
+        "name": "Surplus Readymade Garment",
+        "page": "https://dir.indiamart.com/impcat/surplus-readymade-garment.html",
+        "thumbnail": "http://3.imimg.com/data3/PU/EJ/GLADMIN-142856/surplus-readymade-garment-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Trouser",
+    "category_thumbnail": "http://3.imimg.com/data3/MM/IB/GLADMIN-2576/trouser-125x125.jpg",
+    "items": [
+      {
+        "name": "Jogger Pants",
+        "page": "https://dir.indiamart.com/impcat/jogger-pant.html",
+        "thumbnail": "http://4.imimg.com/data4/EK/OV/GLADMIN-184519/jogger-pant-125x125.jpg"
+      },
+      {
+        "name": "Cotton Trousers",
+        "page": "https://dir.indiamart.com/impcat/cotton-trousers.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/EF/GLADMIN-293/cotton-trousers-125x125.jpg"
+      },
+      {
+        "name": "Chino Trousers",
+        "page": "https://dir.indiamart.com/impcat/chino-trousers.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/ER/LM/MG/87494/chino-trousers-125x125.jpg"
+      },
+      {
+        "name": "Corduroy Trouser",
+        "page": "https://dir.indiamart.com/impcat/corduroy-trouser.html",
+        "thumbnail": "http://3.imimg.com/data3/WF/NU/GLADMIN-78201/corduroy-trouser-125x125.jpg"
+      },
+      {
+        "name": "Polyester Trouser",
+        "page": "https://dir.indiamart.com/impcat/polyester-trouser.html",
+        "thumbnail": "http://3.imimg.com/data3/QO/LJ/GLADMIN-68707/polyester-trouser-125x125.jpg"
+      },
+      {
+        "name": "Patchwork Trouser",
+        "page": "https://dir.indiamart.com/impcat/patchwork-trouser.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/DN/GLADMIN-42633/patchwork-trouser-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Men T-Shirts",
+    "category_thumbnail": "http://3.imimg.com/data3/EK/BM/GLADMIN-2296/mens-t-shirts-125x125.jpg",
+    "items": [
+      {
+        "name": "Round Neck Men T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-round-neck-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/UF/CI/AA/87494/men-round-neck-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Men Plain T Shirt",
+        "page": "https://dir.indiamart.com/impcat/plain-men-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/ES/AQ/JY/87494/men-plain-t-shirt-125x125.jpeg"
+      },
+      {
+        "name": "Cotton Men T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-cotton-tshirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/VU/JI/TI/87494/men-cotton-t-shirt-125x125.jpeg"
+      },
+      {
+        "name": "Promotional T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/promotional-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/PY/WD/DS/87494/promotional-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "Polo Men T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-polo-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/VJ/SK/YH/87494/men-polo-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Men Sublimation T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/sublimation-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/LF/ZS/AD/87494/men-sublimation-t-shirts-125x125.jpeg"
+      },
+      {
+        "name": "Men Printed T Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-printed-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/IO/SM/CT/87494/men-printed-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Men Collar T -Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-collar-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/VM/ZS/LR/87494/men-collar-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Polo T Shirt",
+        "page": "https://dir.indiamart.com/impcat/polo-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/EC/GLADMIN-78540/polo-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Men Sports T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-sports-t-shirt.html",
+        "thumbnail": "http://4.imimg.com/data4/DQ/IA/GLADMIN-183897/mens-sports-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Men Custom T -Shirt",
+        "page": "https://dir.indiamart.com/impcat/custom-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/AY/LY/EB/87494/men-custom-t-shirt-125x125.jpeg"
+      },
+      {
+        "name": "Men Full Sleeves T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-full-sleeves-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/IY/BT/BH/87494/mens-full-sleeves-t-shirt-125x125.jpeg"
+      },
+      {
+        "name": "Men Polyester T Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-polyester-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/UD/ZB/LC/87494/men-polyester-t-shirt-125x125.jpeg"
+      },
+      {
+        "name": "Half sleeves Men T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-half-sleeve-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/OW/XM/CX/87494/men-half-sleeve-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Cotton Polo T Shirt",
+        "page": "https://dir.indiamart.com/impcat/cotton-polo-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/KB/XX/ET/87494/cotton-polo-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Logo T Shirt",
+        "page": "https://dir.indiamart.com/impcat/logo-t-shirt.html",
+        "thumbnail": "http://4.imimg.com/data4/PP/UK/GLADMIN-181481/logo-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Men Casual T Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-casual-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/NE/RC/XH/87494/men-casual-t-shirt-125x125.jpeg"
+      },
+      {
+        "name": "Men Hooded T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-hooded-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/AG/PX/GT/87494/men-hooded-t-shirt-125x125.jpeg"
+      },
+      {
+        "name": "Knitted Men T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-knitted-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/RG/GN/IN/87494/men-knitted-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Men Lycra T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-lycra-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/BM/BS/MC/87494/men-lycra-t-shirt-125x125.jpeg"
+      },
+      {
+        "name": "Men Poly Cotton T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/poly-cotton-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/RD/NG/QY/87494/poly-cotton-t-shirts-125x125.jpeg"
+      },
+      {
+        "name": "Men Designer T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/designer-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/PT/AB/DO/87494/men-designer-t-shirt-125x125.jpeg"
+      },
+      {
+        "name": "Men Corporate T Shirt",
+        "page": "https://dir.indiamart.com/impcat/men-corporate-t-shirt.html",
+        "thumbnail": "http://4.imimg.com/data4/OX/JB/GLADMIN-185627/men-corporate-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Men Hosiery T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/hosiery-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/NW/XE/WI/87494/hosiery-t-shirts-125x125.jpeg"
+      },
+      {
+        "name": "Striped Men T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/men-striped-t-shirts.html",
+        "thumbnail": "http://3.imimg.com/data3/LV/XB/GLADMIN-167105/men-striped-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "V-neck Men T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-v-neck-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/KH/KN/PO/87494/men-v-neck-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "Men Tank Top",
+        "page": "https://dir.indiamart.com/impcat/mens-tank-top.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/CU/TW/DN/87494/men-tank-top-125x125.jpeg"
+      },
+      {
+        "name": "Polo Shirts",
+        "page": "https://dir.indiamart.com/impcat/polo-shirts.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/OB/GLADMIN-7099/polo-shirts-125x125.jpg"
+      },
+      {
+        "name": "Men Sleeveless T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-sleeveless-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/AG/HY/DI/87494/men-sleeveless-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Graphic Men T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/mens-graphic-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/TY/JA/NG/87494/men-graphic-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "Camouflage T Shirt",
+        "page": "https://dir.indiamart.com/impcat/camouflage-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/PU/AA/GLADMIN-78193/camouflage-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Digital Printed T Shirts",
+        "page": "https://dir.indiamart.com/impcat/digital-printed-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GG/GG/GLADMIN-/digital-printed-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "3D T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/3d-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/UF/EY/NK/87494/3d-t-shirts-125x125.jpeg"
+      },
+      {
+        "name": "Men Pocket T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/men-pocket-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/OZ/LZ/FN/87494/men-pocket-t-shirts-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Ladies T-Shirts",
+    "category_thumbnail": "http://3.imimg.com/data3/TF/QG/GLADMIN-204/ladies-t-shirts-125x125.jpg",
+    "items": [
+      {
+        "name": "Ladies Printed T Shirt",
+        "page": "https://dir.indiamart.com/impcat/ladies-printed-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/UP/GLADMIN-136148/ladies-printed-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Ladies Cotton T Shirt",
+        "page": "https://dir.indiamart.com/impcat/ladies-cotton-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/AB/GLADMIN-137971/ladies-cotton-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Girls T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/girls-t-shirt.html",
+        "thumbnail": "http://4.imimg.com/data4/XY/IC/GLADMIN-181428/girls-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Plain Ladies T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/plain-ladies-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/AF/SN/GLADMIN-158307/plain-ladies-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Ladies Round Neck T Shirt",
+        "page": "https://dir.indiamart.com/impcat/ladies-round-neck-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/CY/PI/GLADMIN-136149/ladies-round-neck-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Ladies Polo Neck T Shirt",
+        "page": "https://dir.indiamart.com/impcat/ladies-collar-polo-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/EM/GLADMIN-136146/ladies-collar-polo-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Couple T Shirts",
+        "page": "https://dir.indiamart.com/impcat/couple-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/KF/MJ/WW/GLADMIN-68087/couple-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "Long T Shirt",
+        "page": "https://dir.indiamart.com/impcat/long-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/WC/QP/GLADMIN-78238/long-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Ladies Full Sleeve T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/ladies-full-sleeve-t-shirt.html",
+        "thumbnail": "http://4.imimg.com/data4/PI/QT/GLADMIN-181429/ladies-full-sleeve-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Short T Shirt",
+        "page": "https://dir.indiamart.com/impcat/short-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/UA/GLADMIN-78267/short-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Ladies V Neck T Shirt",
+        "page": "https://dir.indiamart.com/impcat/ladies-v-neck-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/KX/QH/GLADMIN-136150/ladies-v-neck-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Ladies Knitted T-Shirts",
+        "page": "https://dir.indiamart.com/impcat/ladies-knitted-t-shirts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/FY/SE/MC/85366/ladies-knitted-t-shirts-125x125.png"
+      },
+      {
+        "name": "Ladies Sports T Shirt",
+        "page": "https://dir.indiamart.com/impcat/ladies-sports-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/PP/GLADMIN-/a-img924-4796-2hk5oh-125x125.jpg"
+      },
+      {
+        "name": "Ladies Corporate T Shirt",
+        "page": "https://dir.indiamart.com/impcat/ladies-corporate-t-shirt.html",
+        "thumbnail": "http://4.imimg.com/data4/RK/KP/GLADMIN-185625/ladies-corporate-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Ladies Hooded T Shirt",
+        "page": "https://dir.indiamart.com/impcat/ladies-hooded-tshirt.html",
+        "thumbnail": "http://4.imimg.com/data4/RR/WF/GLADMIN-185499/ladies-hooded-tshirt-125x125.jpg"
+      },
+      {
+        "name": "Maternity T Shirt",
+        "page": "https://dir.indiamart.com/impcat/maternity-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/FA/GLADMIN-68591/maternity-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Ladies Striped T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/ladies-striped-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/CU/GLADMIN-160446/ladies-striped-t-shirt-125x125.jpg"
+      }
+    ]
+  }
+]

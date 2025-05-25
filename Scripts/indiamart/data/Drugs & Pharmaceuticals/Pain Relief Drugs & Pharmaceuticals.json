@@ -1,0 +1,1081 @@
+[
+  {
+    "category_name": "Pain Killers",
+    "category_thumbnail": "http://3.imimg.com/data3/VP/HQ/GLADMIN-5680/pain-killers-125x125.jpg",
+    "items": [
+      {
+        "name": "Tapentadol Tablets",
+        "page": "https://dir.indiamart.com/impcat/tapentadol-tablets.html",
+        "thumbnail": "http://4.imimg.com/data4/TJ/NS/GLADMIN-179643/tapentadol-tablets-125x125.jpg"
+      },
+      {
+        "name": "Forte Tablets",
+        "page": "https://dir.indiamart.com/impcat/forte-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/LD/UL/RR/43668/forte-tablets-125x125.jpg"
+      },
+      {
+        "name": "Pain Relief Patch",
+        "page": "https://dir.indiamart.com/impcat/pain-relief-patch-drug.html",
+        "thumbnail": "http://5.imimg.com/data5/FN/HX/LR/GLADMIN-76037/pain-relief-patch-125x125.jpg"
+      },
+      {
+        "name": "Pentazocine Injections",
+        "page": "https://dir.indiamart.com/impcat/inj-pentazocine.html",
+        "thumbnail": "http://5.imimg.com/data5/ZZ/BQ/HE/GLADMIN-76410/pentazocine-injections-125x125.jpg"
+      },
+      {
+        "name": "Pain Reliever Gel",
+        "page": "https://dir.indiamart.com/impcat/pain-reliever-gel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/HD/DE/LS/92376/pain-reliever-gel-125x125.png"
+      },
+      {
+        "name": "Pain Relief Cream",
+        "page": "https://dir.indiamart.com/impcat/pain-relief-cream.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/LU/CB/XL/92376/pain-relief-cream-125x125.jpg"
+      },
+      {
+        "name": "Pain Relief Spray",
+        "page": "https://dir.indiamart.com/impcat/pain-relief-spray.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/YX/JH/BP/86577/pain-relief-spray-125x125.jpg"
+      },
+      {
+        "name": "Pain Relief Tablet",
+        "page": "https://dir.indiamart.com/impcat/pain-relief-drug.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MM/XJ/TD/92376/pain-relief-drug-125x125.jpg"
+      },
+      {
+        "name": "Analgin Tablet",
+        "page": "https://dir.indiamart.com/impcat/analgin-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/QI/WB/DM/GLADMIN-68087/analgin-tablet-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Arthritic Drugs",
+    "category_thumbnail": "http://3.imimg.com/data3/JW/GQ/GLADMIN-4922/arthritic-drugs-125x125.jpg",
+    "items": [
+      {
+        "name": "Rheumatoid Arthritis Drugs",
+        "page": "https://dir.indiamart.com/impcat/rheumatoid-arthritis.html",
+        "thumbnail": "http://3.imimg.com/data3/NI/VH/GLADMIN-166170/rheumatoid-arthritis-125x125.jpg"
+      },
+      {
+        "name": "Tofacitinib Tablets",
+        "page": "https://dir.indiamart.com/impcat/tofacitinib-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/WR/VK/IQ/85365/tofacitinib-tablets-125x125.jpg"
+      },
+      {
+        "name": "Hyaluronic Acid Injection",
+        "page": "https://dir.indiamart.com/impcat/hyaluronic-acid-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/MU/WA/WW/85365/hyaluronic-acid-injection-125x125.png"
+      },
+      {
+        "name": "Dexamethasone Tablets",
+        "page": "https://dir.indiamart.com/impcat/dexamethasone-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NO/DD/IC/92376/dexamethasone-tablets-125x125.jpg"
+      },
+      {
+        "name": "Adalimumab Injections",
+        "page": "https://dir.indiamart.com/impcat/adalimumab.html",
+        "thumbnail": "http://4.imimg.com/data4/ID/FO/GLADMIN-180226/adalimumab-125x125.jpg"
+      },
+      {
+        "name": "Prednisolone Tablet",
+        "page": "https://dir.indiamart.com/impcat/prednisolone-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/EO/GO/VO/87070/prednisolone-tablet-125x125.jpg"
+      },
+      {
+        "name": "Etoricoxib Tablet",
+        "page": "https://dir.indiamart.com/impcat/etoricoxib-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EU/VA/NI/92376/etoricoxib-tablet-125x125.jpeg"
+      },
+      {
+        "name": "Baricitinib Tablets",
+        "page": "https://dir.indiamart.com/impcat/baricitinib-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/4/UH/PZ/HX/82392/baricitinib-tablets-125x125.jpg"
+      },
+      {
+        "name": "Methylprednisolone Tablet",
+        "page": "https://dir.indiamart.com/impcat/methylprednisolone-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/YI/FB/LO/85925/methylprednisolone-tablet-125x125.jpeg"
+      },
+      {
+        "name": "Febuxostat Tablets",
+        "page": "https://dir.indiamart.com/impcat/febuxostat-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/SI/IM/XF/56704/febuxostat-tablets-125x125.jpg"
+      },
+      {
+        "name": "Etanercept Injections",
+        "page": "https://dir.indiamart.com/impcat/etanercept.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437668316/TK/JZ/IH/103671/etanercept-125x125.webp"
+      },
+      {
+        "name": "Dexamethasone Injection",
+        "page": "https://dir.indiamart.com/impcat/dexamethasone-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MV/YX/PG/92376/dexamethasone-injection-125x125.jpg"
+      },
+      {
+        "name": "Osteoarthritis Medicine",
+        "page": "https://dir.indiamart.com/impcat/osteoarthritis.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/GL/GLADMIN-166169/osteoarthritis-medicine-125x125.jpg"
+      },
+      {
+        "name": "Diacerein Glucosamine Sulphate MSM Tablet",
+        "page": "https://dir.indiamart.com/impcat/diacerein-glucosamine-sulphate.html",
+        "thumbnail": "http://5.imimg.com/data5/QK/GW/WC/GLADMIN-76441/diacerein-glucosamine-sulphate-msm-tablet-125x125.jpg"
+      },
+      {
+        "name": "Tofacitinib Ointment",
+        "page": "https://dir.indiamart.com/impcat/tofacitinib-ointment.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/402504159/EB/IN/RH/103671/tofacitinib-ointment-125x125.webp"
+      },
+      {
+        "name": "Etoricoxib Thiocolchicoside Tablet",
+        "page": "https://dir.indiamart.com/impcat/etoricoxib-thiocolchicoside-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/CH/ZO/UZ/86577/etoricoxib-thiocolchicoside-tablet-125x125.jpg"
+      },
+      {
+        "name": "Apremilast Tablets",
+        "page": "https://dir.indiamart.com/impcat/apremilast.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/10/HX/YQ/VQ/81953/apremilast-125x125.jpg"
+      },
+      {
+        "name": "Infliximab Injection",
+        "page": "https://dir.indiamart.com/impcat/infliximab-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/WL/QD/OG/85365/infliximab-injection-125x125.jpg"
+      },
+      {
+        "name": "Sulfasalazine Tablets",
+        "page": "https://dir.indiamart.com/impcat/sulfasalazine.html",
+        "thumbnail": "http://5.imimg.com/data5/FC/ND/LE/GLADMIN-81462/sulfasalazine-125x125.png"
+      },
+      {
+        "name": "Penicillamine Capsule",
+        "page": "https://dir.indiamart.com/impcat/penicillamine-capsule.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/HZ/TF/EA/43668/penicillamine-capsule-125x125.png"
+      },
+      {
+        "name": "Aceclofenac Tablet",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/WE/TY/SF/92376/aceclofenac-125x125.jpg"
+      },
+      {
+        "name": "Tocilizumab Injection",
+        "page": "https://dir.indiamart.com/impcat/tocilizumab.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/FB/ND/VX/85917/tocilizumab-itolizumab-sarilumab-125x125.png"
+      },
+      {
+        "name": "Allopurinol Tablet",
+        "page": "https://dir.indiamart.com/impcat/allopurinol.html",
+        "thumbnail": "http://5.imimg.com/data5/AG/TM/AE/GLADMIN-68155/allopurinol-125x125.png"
+      },
+      {
+        "name": "Colchicine Tablet",
+        "page": "https://dir.indiamart.com/impcat/colchicine-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/NL/UZ/QZ/GLADMIN-73621/colchicine-tablet-125x125.jpg"
+      },
+      {
+        "name": "Etodolac Tablet",
+        "page": "https://dir.indiamart.com/impcat/etodolac-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/KX/VI/QV/GLADMIN-76410/etodolac-tablet-125x125.jpg"
+      },
+      {
+        "name": "Meloxicam Tablet",
+        "page": "https://dir.indiamart.com/impcat/meloxicam.html",
+        "thumbnail": "http://4.imimg.com/data4/SV/OO/GLADMIN-2/meloxicam-125x125.jpg"
+      },
+      {
+        "name": "Piroxicam Tablet",
+        "page": "https://dir.indiamart.com/impcat/piroxicam-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/PV/EF/VO/GLADMIN-73467/piroxicam-tablet-125x125.jpg"
+      },
+      {
+        "name": "Indometacin Capsules",
+        "page": "https://dir.indiamart.com/impcat/indometacin-capsules.html",
+        "thumbnail": "http://5.imimg.com/data5/BU/LD/QZ/GLADMIN-76441/indometacin-capsules-125x125.jpg"
+      },
+      {
+        "name": "Johnson Simponi Golimumab Injection",
+        "page": "https://dir.indiamart.com/impcat/johnson-simponi-golimumab-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/UY/XJ/GA/85379/johnson-simponi-golimumab-injection-125x125.jpg"
+      },
+      {
+        "name": "Serratiopeptidase Tablet",
+        "page": "https://dir.indiamart.com/impcat/serratiopeptidase.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GS/VK/RD/86577/serratiopeptidase-125x125.jpg"
+      },
+      {
+        "name": "Lornoxicam Tablets",
+        "page": "https://dir.indiamart.com/impcat/lornoxicam-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ZV/AB/LZ/86577/lornoxicam-tablets-125x125.jpg"
+      },
+      {
+        "name": "Diacerein",
+        "page": "https://dir.indiamart.com/impcat/diacerein.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/UJ/UE/DD/85365/diacerein-125x125.jpg"
+      },
+      {
+        "name": "Arthritis Pain Relief Cream",
+        "page": "https://dir.indiamart.com/impcat/arthritis-pain-relief-cream.html",
+        "thumbnail": "http://5.imimg.com/data5/YV/FO/GLADMIN-2/arthritis-pain-relief-cream-125x125.jpg"
+      },
+      {
+        "name": "Leflunomide Tablet",
+        "page": "https://dir.indiamart.com/impcat/leflunomide-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/SD/BI/BK/GLADMIN-73621/leflunomide-tablet-125x125.jpg"
+      },
+      {
+        "name": "Etoricoxib Paracetamol Tablet",
+        "page": "https://dir.indiamart.com/impcat/etoricoxib-paracetamol-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/WU/BT/HE/86577/etoricoxib-paracetamol-tablet-125x125.jpeg"
+      },
+      {
+        "name": "Piroxicam Injection",
+        "page": "https://dir.indiamart.com/impcat/piroxicam-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/NN/CJ/GLADMIN-2/piroxicam-injection-125x125.jpg"
+      },
+      {
+        "name": "Lornoxicam Paracetamol Tablet",
+        "page": "https://dir.indiamart.com/impcat/lornoxicam-paracetamol-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SO/WY/TG/86577/lornoxicam-paracetamol-tablet-125x125.jpg"
+      },
+      {
+        "name": "H.P. Acthar Gel Injection",
+        "page": "https://dir.indiamart.com/impcat/h-p-acthar-gel-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/RM/BX/CN/28031/h-p-acthar-gel-injection-125x125.jpg"
+      },
+      {
+        "name": "Nabumetone Tablets",
+        "page": "https://dir.indiamart.com/impcat/nabumetone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/TW/QU/AR/86577/nabumetone-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diclofenac",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/HN/GQ/RY/92376/diclofenac-125x125.jpg",
+    "items": [
+      {
+        "name": "Diclofenac Diethylamine Gel",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-diethylamine-gel.html",
+        "thumbnail": "http://5.imimg.com/data5/FJ/HW/GLADMIN-2/diclofenac-diethylamine-gel-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac Gel",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-gel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/LO/CX/HZ/92376/diclofenac-gel-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac Paracetamol Tablet",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-sodium-paracetamol-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/OP/ZQ/GD/86577/diclofenac-sodium-paracetamol-tablet-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac Sodium Injection",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-sodium-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/IF/BM/PB/92376/diclofenac-sodium-injection-125x125.png"
+      },
+      {
+        "name": "Diclofenac Sodium Tablet",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-sodium-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RZ/NM/TP/92376/diclofenac-sodium-tablet-125x125.webp"
+      },
+      {
+        "name": "Diclofenac Paracetamol and Chlorzoxazone Tablet",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-potassium-paracetamol-and-chlorzoxazone-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/YU/QB/IU/86577/diclofenac-potassium-paracetamol-and-chlorzoxazone-tablet-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac Potassium Tablets",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-potassium.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/XL/TG/DI/92376/diclofenac-potassium-125x125.jpg"
+      },
+      {
+        "name": "Trypsin Bromelain Rutoside And Diclofenac Tablets",
+        "page": "https://dir.indiamart.com/impcat/trypsin-bromelain-rutoside-diclofenac-allopathic-medicine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NJ/IG/MR/86577/trypsin-bromelain-rutoside-diclofenac-allopathic-medicine-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac Paracetamol and Serratiopeptidase Tablet",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-potassium-paracetamol-and-serratiopeptidase-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/NI/DM/HM/92376/diclofenac-paracetamol-and-serratiopeptidase-tablet-125x125.jpg"
+      },
+      {
+        "name": "Voveran",
+        "page": "https://dir.indiamart.com/impcat/voveran.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/YA/SZ/ET/92376/voveran-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac Potassium Serratiopeptidase Tablet",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-potassium-50-serratiopeptidase-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/HT/DI/IW/GLADMIN-76441/diclofenac-potassium-serratiopeptidase-tablet-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac and Metaxalone Tablet",
+        "page": "https://dir.indiamart.com/impcat/metaxalone-diclofenac-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZB/RB/SY/86577/metaxalone-diclofenac-tablet-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac Sodium Suppositories",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-sodium-suppositories.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/9/341113798/CS/SN/SC/96405/diclofenac-sodium-suppositories-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Osteoporosis Medications",
+    "category_thumbnail": "http://3.imimg.com/data3/CB/IA/GLADMIN-156346/osteoporosis-medications-125x125.jpg",
+    "items": [
+      {
+        "name": "Nandrolone Injection",
+        "page": "https://dir.indiamart.com/impcat/nandrolone-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/GN/UW/BY/81953/nandrolone-injection-125x125.jpg"
+      },
+      {
+        "name": "Denosumab Injection",
+        "page": "https://dir.indiamart.com/impcat/denosumab.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/UK/LF/HF/43668/denosumab-125x125.jpg"
+      },
+      {
+        "name": "Teriparatide Injection",
+        "page": "https://dir.indiamart.com/impcat/teriparatide-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/HC/RK/GQ/GLADMIN-68087/teriparatide-injection-125x125.png"
+      },
+      {
+        "name": "Terifrac Injection",
+        "page": "https://dir.indiamart.com/impcat/terifrac-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RG/CO/HI/92376/terifrac-injection-125x125.jpg"
+      },
+      {
+        "name": "Zoledronic Acid Injection",
+        "page": "https://dir.indiamart.com/impcat/zoledronic-acid-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/LI/YI/RA/43668/zoledronic-acid-injection-125x125.png"
+      },
+      {
+        "name": "Bonista Injection",
+        "page": "https://dir.indiamart.com/impcat/bonista-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/KN/CG/OR/85379/bonista-injection-125x125.jpg"
+      },
+      {
+        "name": "Bonmax Injection",
+        "page": "https://dir.indiamart.com/impcat/bonmax-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RR/WF/KG/92376/bonmax-injection-125x125.jpg"
+      },
+      {
+        "name": "Calcitonin Spray",
+        "page": "https://dir.indiamart.com/impcat/calcitonin-injection-usp.html",
+        "thumbnail": "http://5.imimg.com/data5/FJ/EQ/TE/GLADMIN-76441/calcitonin-spray-125x125.jpg"
+      },
+      {
+        "name": "Raloxifene Hydrochloride Tablet",
+        "page": "https://dir.indiamart.com/impcat/raloxifene-hydrochloride-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/QU/AG/HE/GLADMIN-76441/raloxifene-hydrochloride-tablet-125x125.jpg"
+      },
+      {
+        "name": "Alendronate Sodium Tablet",
+        "page": "https://dir.indiamart.com/impcat/alendronate-sodium-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/ON/MK/YE/GLADMIN-76441/alendronate-sodium-tablet-125x125.jpg"
+      },
+      {
+        "name": "Ibandronic Acid Tablets",
+        "page": "https://dir.indiamart.com/impcat/ibandronic-acid-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/OW/SO/XO/86577/ibandronic-acid-tablets-125x125.jpg"
+      },
+      {
+        "name": "Forteo Injections",
+        "page": "https://dir.indiamart.com/impcat/forteo-injections.html",
+        "thumbnail": "http://5.imimg.com/data5/IR/PB/GLADMIN-2/forteo-injections-125x125.jpg"
+      },
+      {
+        "name": "Risedronate Sodium Tablet",
+        "page": "https://dir.indiamart.com/impcat/risedronate-sodium-tablet.html",
+        "thumbnail": "http://4.imimg.com/data4/JK/NV/GLADMIN-179754/risedronate-sodium-tablet-125x125.jpg"
+      },
+      {
+        "name": "Pamidronate Disodium Injection",
+        "page": "https://dir.indiamart.com/impcat/pamidronate-disodium.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/PE/MQ/XY/85365/pamidronate-disodium-injection-125x125.jpg"
+      },
+      {
+        "name": "Actonel Tablets",
+        "page": "https://dir.indiamart.com/impcat/actonel-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/LH/SW/KE/92376/actonel-tablets-125x125.jpg"
+      },
+      {
+        "name": "Aflapin Capsule",
+        "page": "https://dir.indiamart.com/impcat/undenatured-collagen-ii-aflapin-capsule.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/WK/VJ/JT/43668/undenatured-collagen-ii-aflapin-capsule-125x125.webp"
+      },
+      {
+        "name": "Ibandronic Acid Injection",
+        "page": "https://dir.indiamart.com/impcat/ibandronic-acid.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/QG/BJ/IJ/86577/ibandronic-acid-injection-125x125.jpeg"
+      }
+    ]
+  },
+  {
+    "category_name": "Anti Inflammatory Drugs",
+    "category_thumbnail": "http://3.imimg.com/data3/NV/VY/GLADMIN-2027/anti-inflammatory-drugs-125x125.jpg",
+    "items": [
+      {
+        "name": "Dexamethasone Tablets",
+        "page": "https://dir.indiamart.com/impcat/dexamethasone-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NO/DD/IC/92376/dexamethasone-tablets-125x125.jpg"
+      },
+      {
+        "name": "Methylprednisolone Injection",
+        "page": "https://dir.indiamart.com/impcat/methylprednisolone-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/FQ/JI/XE/92376/methylprednisolone-injection-125x125.jpg"
+      },
+      {
+        "name": "Triamcinolone Acetonide Injections",
+        "page": "https://dir.indiamart.com/impcat/triamcinolone-acetonide.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/317151700/RW/SB/YB/95105/triamcinolone-acetonide-125x125.webp"
+      },
+      {
+        "name": "Prednisolone Tablet",
+        "page": "https://dir.indiamart.com/impcat/prednisolone-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/EO/GO/VO/87070/prednisolone-tablet-125x125.jpg"
+      },
+      {
+        "name": "Etoricoxib Tablet",
+        "page": "https://dir.indiamart.com/impcat/etoricoxib-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EU/VA/NI/92376/etoricoxib-tablet-125x125.jpeg"
+      },
+      {
+        "name": "Methylprednisolone Tablet",
+        "page": "https://dir.indiamart.com/impcat/methylprednisolone-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/YI/FB/LO/85925/methylprednisolone-tablet-125x125.jpeg"
+      },
+      {
+        "name": "Trypsin Chymotrypsin Tablet",
+        "page": "https://dir.indiamart.com/impcat/trypsin-chymotrypsin-tablet.html",
+        "thumbnail": "http://3.imimg.com/data3/PH/UL/GLADMIN-155570/trypsin-chymotrypsin-tablet-125x125.jpg"
+      },
+      {
+        "name": "Nimesulide Tablet",
+        "page": "https://dir.indiamart.com/impcat/nimesulide-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/FN/EY/GLADMIN-2/nimesulide-tablets-125x125.jpg"
+      },
+      {
+        "name": "Naproxen Tablets",
+        "page": "https://dir.indiamart.com/impcat/naproxen-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/PP/GLADMIN-/a-img923-7972-oxx9b5-125x125.jpg"
+      },
+      {
+        "name": "Fluticasone Ointment",
+        "page": "https://dir.indiamart.com/impcat/fluticasone-ointment.html",
+        "thumbnail": "http://5.imimg.com/data5/ZW/QZ/DZ/GLADMIN-76410/fluticasone-ointment-125x125.jpg"
+      },
+      {
+        "name": "Mefenamic Acid Tablets",
+        "page": "https://dir.indiamart.com/impcat/mefenamic-acid-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/TI/LI/GLADMIN-2/pain-relief-drug-125x125.jpg"
+      },
+      {
+        "name": "Ketorolac Tromethamine Tablet",
+        "page": "https://dir.indiamart.com/impcat/ketorolac-tromethamine-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/FA/SP/HJ/GLADMIN-73621/ketorolac-tromethamine-tablet-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/HN/GQ/RY/92376/diclofenac-125x125.jpg"
+      },
+      {
+        "name": "Etodolac Tablet",
+        "page": "https://dir.indiamart.com/impcat/etodolac-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/KX/VI/QV/GLADMIN-76410/etodolac-tablet-125x125.jpg"
+      },
+      {
+        "name": "Anti Inflammatory Cream",
+        "page": "https://dir.indiamart.com/impcat/anti-inflammatory-cream.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/AY/GLADMIN-137561/anti-inflammatory-cream-125x125.jpg"
+      },
+      {
+        "name": "Meloxicam Tablet",
+        "page": "https://dir.indiamart.com/impcat/meloxicam.html",
+        "thumbnail": "http://4.imimg.com/data4/SV/OO/GLADMIN-2/meloxicam-125x125.jpg"
+      },
+      {
+        "name": "Piroxicam Tablet",
+        "page": "https://dir.indiamart.com/impcat/piroxicam-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/PV/EF/VO/GLADMIN-73467/piroxicam-tablet-125x125.jpg"
+      },
+      {
+        "name": "Tranexamic Acid And Mefenamic Acid Tablet",
+        "page": "https://dir.indiamart.com/impcat/tranexamic-acid-and-mefenamic-acid-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/8/OS/OU/JD/81953/tranexamic-acid-and-mefenamic-acid-tablet-125x125.jpg"
+      },
+      {
+        "name": "Hydrocortisone Tablet",
+        "page": "https://dir.indiamart.com/impcat/hydrocortisone-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/WD/OH/RB/86577/hydrocortisone-tablet-125x125.jpg"
+      },
+      {
+        "name": "Hydrocortisone Sodium Succinate",
+        "page": "https://dir.indiamart.com/impcat/sodium-succinate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/11/MW/IE/CQ/86577/sodium-succinate-125x125.jpg"
+      },
+      {
+        "name": "Celecoxib Capsules",
+        "page": "https://dir.indiamart.com/impcat/celecoxib-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/PK/RM/XA/GLADMIN-73621/celecoxib-tablet-125x125.png"
+      },
+      {
+        "name": "Ketorolac Tromethamine Solution",
+        "page": "https://dir.indiamart.com/impcat/ketorolac-tromethamine-solution.html",
+        "thumbnail": "http://5.imimg.com/data5/LB/IH/LH/GLADMIN-73621/ketorolac-tromethamine-solution-125x125.jpg"
+      },
+      {
+        "name": "Ketorolac Tromethamine Injection",
+        "page": "https://dir.indiamart.com/impcat/ketorolac-tromethamine-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/NC/HU/XS/86577/ketorolac-tromethamine-injection-125x125.webp"
+      },
+      {
+        "name": "Naproxen Sodium Domperidone Tablet",
+        "page": "https://dir.indiamart.com/impcat/naproxen-sodium-domperidone-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/QR/VN/DV/92376/naproxen-sodium-domperidone-tablet-125x125.jpeg"
+      },
+      {
+        "name": "Saridon Tablet",
+        "page": "https://dir.indiamart.com/impcat/saridon-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/MY/LN/FJ/81953/saridon-tablet-125x125.jpg"
+      },
+      {
+        "name": "Flurbiprofen Solution",
+        "page": "https://dir.indiamart.com/impcat/flurbiprofen-solution.html",
+        "thumbnail": "http://5.imimg.com/data5/FK/BT/OR/GLADMIN-72666/flurbiprofen-solution-125x125.png"
+      },
+      {
+        "name": "Deflazacort Drug",
+        "page": "https://dir.indiamart.com/impcat/deflazacort.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/SR/GLADMIN-121367/deflazacort-125x125.jpg"
+      },
+      {
+        "name": "Ketoprofen Tablet",
+        "page": "https://dir.indiamart.com/impcat/ketoprofen-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/WI/OH/RT/86577/ketoprofen-tablet-125x125.jpg"
+      },
+      {
+        "name": "Nise Tablet",
+        "page": "https://dir.indiamart.com/impcat/nise-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GI/ZP/CY/86577/nise-tablet-125x125.jpeg"
+      },
+      {
+        "name": "Nabumetone Tablets",
+        "page": "https://dir.indiamart.com/impcat/nabumetone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/TW/QU/AR/86577/nabumetone-125x125.jpg"
+      },
+      {
+        "name": "Quercetin Capsule",
+        "page": "https://dir.indiamart.com/impcat/quercetin-capsule.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/TO/HP/PP/85379/quercetin-capsule-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Pain Reliever Gel",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/HD/DE/LS/92376/pain-reliever-gel-125x125.png",
+    "items": [
+      {
+        "name": "Diclofenac Diethylamine Gel",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-diethylamine-gel.html",
+        "thumbnail": "http://5.imimg.com/data5/FJ/HW/GLADMIN-2/diclofenac-diethylamine-gel-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac Gel",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-gel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/LO/CX/HZ/92376/diclofenac-gel-125x125.jpg"
+      },
+      {
+        "name": "Pain Relief Roll On",
+        "page": "https://dir.indiamart.com/impcat/pain-relief-roll-on.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/NN/KJ/KQ/86577/pain-relief-roll-on-125x125.jpg"
+      },
+      {
+        "name": "Aceclofenac Gel",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-gel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EG/JE/IT/92376/aceclofenac-gel-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Muscle Relaxant",
+    "category_thumbnail": "http://3.imimg.com/data3/KK/KV/GLADMIN-84503/muscle-relaxant-125x125.jpg",
+    "items": [
+      {
+        "name": "Carisoprodol Tablets",
+        "page": "https://dir.indiamart.com/impcat/carisoprodol-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/4/IL/QV/YX/81953/carisoprodol-tablets-125x125.jpg"
+      },
+      {
+        "name": "Baclofen Tablets",
+        "page": "https://dir.indiamart.com/impcat/baclofen-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/PA/GG/XI/GLADMIN-65832/baclofen-tablets-125x125.jpg"
+      },
+      {
+        "name": "Cyclobenzaprine Hydrochloride",
+        "page": "https://dir.indiamart.com/impcat/cyclobenzaprine-hcl.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/UK/VW/WQ/86577/cyclobenzaprine-hcl-125x125.jpg"
+      },
+      {
+        "name": "Mefenamic Acid Dicyclomine Hydrochloride Tablet",
+        "page": "https://dir.indiamart.com/impcat/mefena.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SD/VB/YL/92376/mefena-125x125.jpg"
+      },
+      {
+        "name": "Tolperisone HCL Tablet",
+        "page": "https://dir.indiamart.com/impcat/tolperisone-hcl-tablet.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/EC/GLADMIN-163174/tolperisone-hcl-tablet-125x125.jpg"
+      },
+      {
+        "name": "Solifenacin Succinate",
+        "page": "https://dir.indiamart.com/impcat/solifenacin-succinate.html",
+        "thumbnail": "http://3.imimg.com/data3/LN/BV/GLADMIN-148377/solifenacin-succinate-125x125.jpg"
+      },
+      {
+        "name": "Flupirtine Maleate Capsules",
+        "page": "https://dir.indiamart.com/impcat/flupirtine-maleate-capsules.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/MI/DL/YL/86577/flupirtine-maleate-capsules-125x125.jpg"
+      },
+      {
+        "name": "Drotaverine Hydrochloride Mefenamic Acid Tablet",
+        "page": "https://dir.indiamart.com/impcat/drotaverine-hydrochloride-mefenamic-acid-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/OF/GC/CO/GLADMIN-76441/drotaverine-hydrochloride-mefenamic-acid-tablet-125x125.jpg"
+      },
+      {
+        "name": "Methocarbamol Tablet",
+        "page": "https://dir.indiamart.com/impcat/methocarbamol-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/HZ/BF/PR/GLADMIN-73621/methocarbamol-tablet-125x125.png"
+      },
+      {
+        "name": "Oxybutynin Chloride Tablet",
+        "page": "https://dir.indiamart.com/impcat/oxybutynin-chloride-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/PY/QA/GJ/GLADMIN-73467/oxybutynin-chloride-tablet-125x125.jpg"
+      },
+      {
+        "name": "Dysport Injection",
+        "page": "https://dir.indiamart.com/impcat/dysport-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/OO/OO/GLADMIN-/a-img922-3871-a9yzte-125x125.jpg"
+      },
+      {
+        "name": "Drotaverine Tablets",
+        "page": "https://dir.indiamart.com/impcat/drotaverine-tablets.html",
+        "thumbnail": "http://4.imimg.com/data4/CO/LI/GLADMIN-179667/drotaverine-tablets-125x125.jpg"
+      },
+      {
+        "name": "Dantrolene Sodium Injection",
+        "page": "https://dir.indiamart.com/impcat/dantrolene-sodium-injection.html",
+        "thumbnail": "http://4.imimg.com/data4/YC/HR/GLADMIN-160094/dantrolene-sodium-injection-125x125.jpg"
+      },
+      {
+        "name": "Succinylcholine Chloride Injection",
+        "page": "https://dir.indiamart.com/impcat/succinylcholine-chloride.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/MC/GLADMIN-39245/succinylcholine-chloride-125x125.jpg"
+      },
+      {
+        "name": "Baclofen Injection",
+        "page": "https://dir.indiamart.com/impcat/baclofen-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/2/MN/VB/GO/93748/baclofen-injection-125x125.webp"
+      },
+      {
+        "name": "Thiocolchicoside Tablet",
+        "page": "https://dir.indiamart.com/impcat/thiocolchicoside-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/RD/HO/DC/GLADMIN-68087/thiocolchicoside-tablet-125x125.jpg"
+      },
+      {
+        "name": "Thiocolchicoside Injections",
+        "page": "https://dir.indiamart.com/impcat/thiocholchicoside.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/IU/ZK/SL/86577/thicolchicoside-injection-125x125.jpg"
+      },
+      {
+        "name": "Eperisone Hydrochloride Tablets",
+        "page": "https://dir.indiamart.com/impcat/eperisone-hydrochloride-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/BO/PD/GLADMIN-56986/eperisone-hydrochloride-tablets-125x125.jpg"
+      },
+      {
+        "name": "Nusinersen Injection",
+        "page": "https://dir.indiamart.com/impcat/nusinersen.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/RZ/HF/RQ/85365/nusinersen-125x125.jpg"
+      },
+      {
+        "name": "Valethamate Bromide Injection",
+        "page": "https://dir.indiamart.com/impcat/valethamate-bromide-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/ML/FX/GW/93748/valethamate-bromide-injection-125x125.jpg"
+      },
+      {
+        "name": "Sugammadex Injection",
+        "page": "https://dir.indiamart.com/impcat/sugammadex-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/312003292/GW/OC/DZ/96405/-sugammadex-injection-125x125.jpg"
+      },
+      {
+        "name": "Thiocolchicoside Capsule",
+        "page": "https://dir.indiamart.com/impcat/thiocolchicoside-8-capsule.html",
+        "thumbnail": "http://5.imimg.com/data5/YO/HD/XM/GLADMIN-68087/thiocolchicoside-capsule-125x125.jpg"
+      },
+      {
+        "name": "Chlorzoxazone Tablet",
+        "page": "https://dir.indiamart.com/impcat/chlorzoxazone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/12/473969505/RK/XA/XC/113452/chlorzoxazone-500mg-125x125.png"
+      },
+      {
+        "name": "Darifenacin Tablet",
+        "page": "https://dir.indiamart.com/impcat/darifenacin-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/VZ/NG/WM/GLADMIN-73621/darifenacin-tablet-125x125.png"
+      },
+      {
+        "name": "Cisatracurium Besylate Injection",
+        "page": "https://dir.indiamart.com/impcat/cisatracurium-besylate-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335102155/YI/LR/YA/103671/cisatracurium-besylate-injection-125x125.webp"
+      },
+      {
+        "name": "Flexeril Tablets",
+        "page": "https://dir.indiamart.com/impcat/flexeril-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/SS/SS/GLADMIN-/a-img922-5204-c22xkc-125x125.jpg"
+      },
+      {
+        "name": "Etodolac and Thiocolchicoside Tablet",
+        "page": "https://dir.indiamart.com/impcat/etodolac-and-thiocolchicoside-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/370127000/WC/OZ/KE/30311/etodolac-and-thiocolchicoside-tablet-125x125.jpg"
+      },
+      {
+        "name": "Metaxalone Tablet",
+        "page": "https://dir.indiamart.com/impcat/metaxalone-pain-killer-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/CG/ED/JA/GLADMIN-76441/metaxalone-tablet-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Anesthetic",
+    "category_thumbnail": "http://5.imimg.com/data5/PV/ND/GLADMIN-2/anesthetic-125x125.jpg",
+    "items": [
+      {
+        "name": "Lidocaine Aerosol Spray",
+        "page": "https://dir.indiamart.com/impcat/lidocaine-aerosol-spray.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/IR/IL/PK/95105/lidocaine-aerosol-spray-125x125.jpg"
+      },
+      {
+        "name": "Lignocaine Hydrochloride Gel",
+        "page": "https://dir.indiamart.com/impcat/lignocaine-hydrochloride-gel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/UO/DR/MU/92376/lignocaine-hydrochloride-gel-125x125.jpg"
+      },
+      {
+        "name": "Lignocaine Injection",
+        "page": "https://dir.indiamart.com/impcat/lignocaine-injection.html",
+        "thumbnail": "http://3.imimg.com/data3/GY/LP/GLADMIN-150422/lignocaine-injection-125x125.jpg"
+      },
+      {
+        "name": "Lidocaine Prilocaine Cream",
+        "page": "https://dir.indiamart.com/impcat/lidocaine-prilocaine-cream.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/LN/DE/WM/86577/lidocaine-prilocaine-cream-125x125.webp"
+      },
+      {
+        "name": "Bupivacaine Hydrochloride Injection",
+        "page": "https://dir.indiamart.com/impcat/bupivacaine-hydrochloride-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/IV/NK/ZS/95105/bupivacaine-hydrochloride-injection-125x125.jpg"
+      },
+      {
+        "name": "Propofol Injection",
+        "page": "https://dir.indiamart.com/impcat/propofol-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/DH/LT/IH/85379/propofol-injection-125x125.jpg"
+      },
+      {
+        "name": "Isoflurane",
+        "page": "https://dir.indiamart.com/impcat/isoflurane.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/GW/MS/UF/92376/isoflurane-125x125.jpg"
+      },
+      {
+        "name": "Etomidate Injection",
+        "page": "https://dir.indiamart.com/impcat/etomidate-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/QD/VA/RX/GLADMIN-73621/etomidate-injection-125x125.jpg"
+      },
+      {
+        "name": "Lignocaine Adrenaline Injection",
+        "page": "https://dir.indiamart.com/impcat/lignocaine-adrenaline-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/EB/VI/YV/86577/lignocaine-adrenaline-injection-125x125.webp"
+      },
+      {
+        "name": "Lidocaine Viscous",
+        "page": "https://dir.indiamart.com/impcat/lidocaine-viscous.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/TT/XT/YR/81953/lidocaine-viscous-125x125.jpg"
+      },
+      {
+        "name": "Sevoflurane",
+        "page": "https://dir.indiamart.com/impcat/sevoflurane.html",
+        "thumbnail": "http://3.imimg.com/data3/OG/CB/GLADMIN-167170/sevoflurane-125x125.jpg"
+      },
+      {
+        "name": "Prilox Cream",
+        "page": "https://dir.indiamart.com/impcat/prilox-cream.html",
+        "thumbnail": "http://5.imimg.com/data5/VV/VV/GLADMIN-/a-img924-9026-8lg3xa-125x125.jpg"
+      },
+      {
+        "name": "Halothane",
+        "page": "https://dir.indiamart.com/impcat/halothane.html",
+        "thumbnail": "http://4.imimg.com/data4/HH/SW/GLADMIN-163214/halothane-125x125.jpg"
+      },
+      {
+        "name": "Thiopental Sodium Injections",
+        "page": "https://dir.indiamart.com/impcat/thiopental-sodium.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/FS/WS/WO/95105/thiopental-sodium-125x125.webp"
+      },
+      {
+        "name": "Lidocaine Plaster",
+        "page": "https://dir.indiamart.com/impcat/lidocaine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/PP/QC/XI/86577/lidocaine-plaster-125x125.webp"
+      },
+      {
+        "name": "Proparacaine Hydrochloride",
+        "page": "https://dir.indiamart.com/impcat/proparacaine-hydrochloride.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/proparacaine-hydrochloride-125x125.jpg"
+      },
+      {
+        "name": "Generic Anesthetic",
+        "page": "https://dir.indiamart.com/impcat/generic-anesthetic.html",
+        "thumbnail": "http://5.imimg.com/data5/JV/DH/GLADMIN-2/syringe_needle_iv-640x5431-125x125.jpg"
+      },
+      {
+        "name": "Atracurium Besylate Injection",
+        "page": "https://dir.indiamart.com/impcat/atracurium-besylate-injection.html",
+        "thumbnail": "http://3.imimg.com/data3/FM/HC/GLADMIN-150421/atracurium-besylate-injection-125x125.jpg"
+      },
+      {
+        "name": "Rocuronium Bromide Injection",
+        "page": "https://dir.indiamart.com/impcat/rocuronium-bromide-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/CX/ON/WY/GLADMIN-76441/rocuronium-bromide-injection-125x125.jpg"
+      },
+      {
+        "name": "Tetracaine Hydrochloride",
+        "page": "https://dir.indiamart.com/impcat/tetracaine-hydrochloride.html",
+        "thumbnail": "http://3.imimg.com/data3/SK/RD/GLADMIN-39869/tetracaine-hydrochloride-125x125.jpg"
+      },
+      {
+        "name": "Ropivacaine Injection",
+        "page": "https://dir.indiamart.com/impcat/ropivacaine-solution-for-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334092340/NP/KG/EV/103671/ropivacaine-solution-for-injection-125x125.jpg"
+      },
+      {
+        "name": "Vecuronium Bromide Injection",
+        "page": "https://dir.indiamart.com/impcat/vecuronium-bromide-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/HH/UE/FA/86577/vecuronium-bromide-injection-125x125.jpg"
+      },
+      {
+        "name": "Glycopyrrolate Injection",
+        "page": "https://dir.indiamart.com/impcat/glycopyrrolate-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/XM/TX/JA/28031/glycopyrrolate-injection-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Antipyretic Medication",
+    "category_thumbnail": "http://3.imimg.com/data3/FA/PC/GLADMIN-118259/antipyretic-medication-125x125.jpg",
+    "items": [
+      {
+        "name": "Paracetamol Tablets",
+        "page": "https://dir.indiamart.com/impcat/paracetamol-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SG/SZ/HF/92376/paracetamol-tablets-125x125.jpg"
+      },
+      {
+        "name": "Paracetamol Infusion",
+        "page": "https://dir.indiamart.com/impcat/paracetamol-infusion.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/OG/WT/RM/43668/paracetamol-infusion-125x125.jpg"
+      },
+      {
+        "name": "Paracetamol Suspension",
+        "page": "https://dir.indiamart.com/impcat/paracetamol-suspension.html",
+        "thumbnail": "http://3.imimg.com/data3/FX/LL/GLADMIN-177817/paracetamol-suspension-125x125.jpg"
+      },
+      {
+        "name": "Aspirin Tablets",
+        "page": "https://dir.indiamart.com/impcat/aspirin-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/XP/YQ/UX/81953/aspirin-tablets-125x125.jpeg"
+      },
+      {
+        "name": "Paracetamol Syrup",
+        "page": "https://dir.indiamart.com/impcat/paracetamol-syrup.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RX/RC/VJ/92376/paracetamol-syrup-125x125.webp"
+      },
+      {
+        "name": "Paracetamol Injection",
+        "page": "https://dir.indiamart.com/impcat/paracetamol-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/420340898/EK/SH/KC/103671/paracetamol-injection-125x125.jpeg"
+      },
+      {
+        "name": "Ibuprofen Tablets",
+        "page": "https://dir.indiamart.com/impcat/ibuprofen.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/HX/OT/AS/92376/ibuprofen-125x125.jpg"
+      },
+      {
+        "name": "Dolo Tablets",
+        "page": "https://dir.indiamart.com/impcat/dolo-650.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/MS/DR/JX/86577/dolo-650-125x125.jpeg"
+      },
+      {
+        "name": "Ibuprofen Paracetamol Suspension",
+        "page": "https://dir.indiamart.com/impcat/ibuprofen-paracetamol-suspension.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/LY/PP/ZF/86577/ibuprofen-paracetamol-suspension-125x125.jpg"
+      },
+      {
+        "name": "Mefenamic Acid Paracetamol Tablet",
+        "page": "https://dir.indiamart.com/impcat/mefenamic-acid-paracetamol-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/CR/WS/PG/81955/mefenamic-acid-paracetamol-tablet-125x125.jpg"
+      },
+      {
+        "name": "Mefenamic Paracetamol Syrup",
+        "page": "https://dir.indiamart.com/impcat/mefenamic-paracetamol-syrup.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/4/GN/PV/ON/82392/mefenamic-paracetamol-syrup-125x125.jpg"
+      },
+      {
+        "name": "Ibuprofen & Paracetamol Tablets",
+        "page": "https://dir.indiamart.com/impcat/ibuprofen-paracetamol-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TS/ZH/YY/43668/ibuprofen-paracetamol-tablets-125x125.jpeg"
+      },
+      {
+        "name": "Saridon Tablet",
+        "page": "https://dir.indiamart.com/impcat/saridon-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/MY/LN/FJ/81953/saridon-tablet-125x125.jpg"
+      },
+      {
+        "name": "Nurofen Tablets",
+        "page": "https://dir.indiamart.com/impcat/nurofen-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/OW/KJ/WQ/86577/nurofen-tablets-125x125.jpg"
+      },
+      {
+        "name": "Advil Tablets",
+        "page": "https://dir.indiamart.com/impcat/advil-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/a-img924-4029-lzyys1-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Aceclofenac Tablet",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/WE/TY/SF/92376/aceclofenac-125x125.jpg",
+    "items": [
+      {
+        "name": "Aceclofenac Paracetamol Tablet",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-paracetamol-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/IO/XL/FE/GLADMIN-76037/aceclofenac-paracetamol-tablet-125x125.png"
+      },
+      {
+        "name": "Aceclofenac Paracetamol Serratiopeptidase Tablet",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-paracetamol-serratiopeptidase-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NJ/IL/NM/92376/aceclofenac-paracetamol-serratiopeptidase-tablet-125x125.png"
+      },
+      {
+        "name": "Aceclofenac Thiocolchicoside Tablets",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-thiocolchicoside-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/RR/RR/GLADMIN-/aceclofenac-thiocolchicoside-tablets-125x125.jpg"
+      },
+      {
+        "name": "Aceclofenac & Paracetamol Suspension",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-paracetamol-suspension.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/FF/NQ/AL/92376/aceclofenac-paracetamol-suspension-125x125.jpg"
+      },
+      {
+        "name": "Aceclofenac Paracetamol Chlorzoxazone Tablet",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-chlorzoxazone-paracetamol-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/XY/LH/ED/GLADMIN-76037/aceclofenac-chlorzoxazone-paracetamol-tablet-125x125.png"
+      },
+      {
+        "name": "Aceclofenac And Cyclobenzaprine Hydrochloride Tablets",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-and-cyclobenzaprine-hydrochloride-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/JF/KQ/CN/86577/aceclofenac-and-cyclobenzaprine-hydrochloride-tablets-125x125.jpg"
+      },
+      {
+        "name": "Aceclofenac Paracetamol Thiocolchicoside Tablet",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-paracetamol-thiocolchicoside-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/WE/NV/AK/86577/aceclofenac-paracetamol-thiocolchicoside-tablet-125x125.jpg"
+      },
+      {
+        "name": "Trypsin Chymotrypsin Aceclofenac Paracetamol Tablet",
+        "page": "https://dir.indiamart.com/impcat/trypsin-chymotrypsin-aceclofenac-paracetamol-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/CV/EK/AM/86577/trypsin-chymotrypsin-aceclofenac-paracetamol-tablet-125x125.jpeg"
+      },
+      {
+        "name": "Aceclofenac Gel",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-gel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EG/JE/IT/92376/aceclofenac-gel-125x125.jpg"
+      },
+      {
+        "name": "Aceclofenac & Rabeprazole Capsules",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-rabeprazole-capsules.html",
+        "thumbnail": "http://5.imimg.com/data5/GC/BA/FZ/GLADMIN-68087/aceclofenac-rabeprazole-capsules-125x125.png"
+      },
+      {
+        "name": "Drotaverine Hydrochloride & Aceclofenac Tablet",
+        "page": "https://dir.indiamart.com/impcat/drotaverine-hydrochloride-aceclofenac-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DO/WL/DI/86577/drotaverine-hydrochloride-aceclofenac-tablet-125x125.jpg"
+      },
+      {
+        "name": "Aceclofenac Tizanidine Tablets",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-tizanidine-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/AZ/FY/YO/86577/aceclofenac-tizanidine-tablets-125x125.jpg"
+      },
+      {
+        "name": "Aceclofenac Injection",
+        "page": "https://dir.indiamart.com/impcat/aceclofenac-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/JJ/DE/FF/GLADMIN-68087/aceclofenac-injection-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Pain Relief Cream",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/LU/CB/XL/92376/pain-relief-cream-125x125.jpg",
+    "items": [
+      {
+        "name": "Fluticasone Ointment",
+        "page": "https://dir.indiamart.com/impcat/fluticasone-ointment.html",
+        "thumbnail": "http://5.imimg.com/data5/ZW/QZ/DZ/GLADMIN-76410/fluticasone-ointment-125x125.jpg"
+      },
+      {
+        "name": "Anti Inflammatory Cream",
+        "page": "https://dir.indiamart.com/impcat/anti-inflammatory-cream.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/AY/GLADMIN-137561/anti-inflammatory-cream-125x125.jpg"
+      },
+      {
+        "name": "Back pain Cream",
+        "page": "https://dir.indiamart.com/impcat/back-pain-cream.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/OY/GLADMIN-4192/back-pain-cream-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Paracetamol Tablets",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SG/SZ/HF/92376/paracetamol-tablets-125x125.jpg",
+    "items": [
+      {
+        "name": "Flupirtine and Paracetamol Tablet",
+        "page": "https://dir.indiamart.com/impcat/flupirtine-maleate-paracetamol-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409565516/FS/PO/QN/43668/flupirtine-maleate-paracetamol-tablet-125x125.webp"
+      }
+    ]
+  },
+  {
+    "category_name": "Pain Relief Spray",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/YX/JH/BP/86577/pain-relief-spray-125x125.jpg",
+    "items": [
+      {
+        "name": "Detox Spray",
+        "page": "https://dir.indiamart.com/impcat/detox-spray.html",
+        "thumbnail": "http://5.imimg.com/data5/PW/SD/JR/GLADMIN-65832/detox-spray-125x125.jpg"
+      },
+      {
+        "name": "Burn Relief Spray",
+        "page": "https://dir.indiamart.com/impcat/burn-relief-spray.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/FO/GLADMIN-132087/burn-relief-spray-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Pain Relief Tablet",
+        "page": "https://dir.indiamart.com/impcat/pain-relief-drug.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MM/XJ/TD/92376/pain-relief-drug-125x125.jpg"
+      }
+    ]
+  }
+]

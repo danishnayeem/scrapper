@@ -1,0 +1,531 @@
+[
+  {
+    "category_name": "Tour Packages",
+    "category_thumbnail": "http://3.imimg.com/data3/PV/BO/GLADMIN-34156/package-tours-125x125.jpg",
+    "items": [
+      {
+        "name": "Domestic Tour",
+        "page": "https://dir.indiamart.com/impcat/domestic-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/IO/GLADMIN-87926/domestic-tour-125x125.jpg"
+      },
+      {
+        "name": "Pilgrim Tour Packages",
+        "page": "https://dir.indiamart.com/impcat/pilgrim-tour-packages.html",
+        "thumbnail": "http://3.imimg.com/data3/BM/PY/GLADMIN-34040/pilgrim-tour-packages-125x125.png"
+      },
+      {
+        "name": "International Tour Packages",
+        "page": "https://dir.indiamart.com/impcat/international-tour-packages.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/KL/GLADMIN-42835/international-tour-packages-125x125.jpg"
+      },
+      {
+        "name": "Holiday Packages",
+        "page": "https://dir.indiamart.com/impcat/holiday-packages.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/PA/GLADMIN-30445/holiday-packages-125x125.jpg"
+      },
+      {
+        "name": "Honeymoon Packages",
+        "page": "https://dir.indiamart.com/impcat/honeymoon-packages.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/RU/GLADMIN-29467/honeymoon-packages-125x125.jpg"
+      },
+      {
+        "name": "Temple Tours",
+        "page": "https://dir.indiamart.com/impcat/temple-tours.html",
+        "thumbnail": "http://3.imimg.com/data3/MY/RW/GLADMIN-43408/temple-tours-125x125.jpg"
+      },
+      {
+        "name": "Hill Station Packages",
+        "page": "https://dir.indiamart.com/impcat/hill-station-packages.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/CV/GLADMIN-170288/hill-station-packages-125x125.jpg"
+      },
+      {
+        "name": "House Boat Services",
+        "page": "https://dir.indiamart.com/impcat/house-boat-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/XU/GLADMIN-168912/house-boat-services-125x125.jpg"
+      },
+      {
+        "name": "Domestic Tour Operators",
+        "page": "https://dir.indiamart.com/impcat/domestic-tour-operators.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/MQ/GLADMIN-43205/domestic-tour-operators-125x125.jpg"
+      },
+      {
+        "name": "Cruise Booking Service",
+        "page": "https://dir.indiamart.com/impcat/cruise-booking-service.html",
+        "thumbnail": "http://3.imimg.com/data3/JQ/YS/GLADMIN-105121/cruise-booking-service-125x125.jpg"
+      },
+      {
+        "name": "Tourist Visas",
+        "page": "https://dir.indiamart.com/impcat/tourist-visas.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/LU/GLADMIN-38546/tourist-visas-125x125.jpg"
+      },
+      {
+        "name": "Helicopter Tour Services",
+        "page": "https://dir.indiamart.com/impcat/helicopter-tour-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/FM/GLADMIN-174775/helicopter-tour-services-125x125.jpg"
+      },
+      {
+        "name": "Group Tour Service",
+        "page": "https://dir.indiamart.com/impcat/group-tour-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HP/FM/GLADMIN-169379/group-tour-service-125x125.jpg"
+      },
+      {
+        "name": "Family Tour Services",
+        "page": "https://dir.indiamart.com/impcat/family-tour-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CP/WH/GLADMIN-168349/family-tour-services-125x125.jpg"
+      },
+      {
+        "name": "Ayurveda Health Tourism",
+        "page": "https://dir.indiamart.com/impcat/ayurveda-health-tourism.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/RA/GLADMIN-42346/ayurveda-health-tourism-125x125.jpg"
+      },
+      {
+        "name": "City Tours Services",
+        "page": "https://dir.indiamart.com/impcat/city-tours-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/VP/GLADMIN-173885/city-tours-services-125x125.jpg"
+      },
+      {
+        "name": "Tourist Guides",
+        "page": "https://dir.indiamart.com/impcat/tourist-guides.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/LI/GLADMIN-38544/tourist-guides-125x125.jpg"
+      },
+      {
+        "name": "Picnic Tour Services",
+        "page": "https://dir.indiamart.com/impcat/picnic-tour-services.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/AW/GLADMIN-174834/picnic-tour-services-125x125.jpg"
+      },
+      {
+        "name": "Beach Tourism",
+        "page": "https://dir.indiamart.com/impcat/beach-tourism.html",
+        "thumbnail": "http://3.imimg.com/data3/CL/IT/GLADMIN-176617/beach-tourism-125x125.jpg"
+      },
+      {
+        "name": "Corporate Tour Packages",
+        "page": "https://dir.indiamart.com/impcat/corporate-tour-packages.html",
+        "thumbnail": "http://3.imimg.com/data3/WK/MM/GLADMIN-141643/corporate-tour-packages-125x125.jpg"
+      },
+      {
+        "name": "Local Sightseeing Tours",
+        "page": "https://dir.indiamart.com/impcat/local-sightseeing-tours.html",
+        "thumbnail": "http://3.imimg.com/data3/UK/JJ/GLADMIN-172245/local-sightseeing-tours-125x125.jpg"
+      },
+      {
+        "name": "Education Tour",
+        "page": "https://dir.indiamart.com/impcat/education-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/LJ/GLADMIN-122227/education-tour-125x125.jpg"
+      },
+      {
+        "name": "Holiday Voucher",
+        "page": "https://dir.indiamart.com/impcat/holiday-voucher.html",
+        "thumbnail": "http://4.imimg.com/data4/HC/JU/GLADMIN-181895/holiday-voucher-125x125.jpg"
+      },
+      {
+        "name": "Tourism Information",
+        "page": "https://dir.indiamart.com/impcat/tourism-information.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/EY/GLADMIN-39962/tourism-information-125x125.jpg"
+      },
+      {
+        "name": "Village Tour Packages",
+        "page": "https://dir.indiamart.com/impcat/village-tour-packages.html",
+        "thumbnail": "http://3.imimg.com/data3/JW/MF/GLADMIN-168113/village-tour-packages-125x125.jpg"
+      },
+      {
+        "name": "Backwaters Tour Package",
+        "page": "https://dir.indiamart.com/impcat/backwaters-tour-package.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/DU/GLADMIN-171310/backwaters-tour-package-125x125.jpg"
+      },
+      {
+        "name": "Spiritual Tour Package",
+        "page": "https://dir.indiamart.com/impcat/spiritual-tour-package.html",
+        "thumbnail": "http://3.imimg.com/data3/GP/XR/GLADMIN-172706/spiritual-tour-package-125x125.jpg"
+      },
+      {
+        "name": "Cultural Tour",
+        "page": "https://dir.indiamart.com/impcat/cultural-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/VS/GLADMIN-87925/cultural-tour-125x125.jpg"
+      },
+      {
+        "name": "Heritage Tours Package",
+        "page": "https://dir.indiamart.com/impcat/heritage-tours-package.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/SF/GLADMIN-170573/heritage-tours-package-125x125.jpg"
+      },
+      {
+        "name": "Student Group Tour",
+        "page": "https://dir.indiamart.com/impcat/student-group-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/HU/GLADMIN-173311/student-group-tour-125x125.jpg"
+      },
+      {
+        "name": "Buddhist Pilgrimage Tours Package",
+        "page": "https://dir.indiamart.com/impcat/buddhist-pilgrimage-tours-package.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/CF/GLADMIN-175493/buddhist-pilgrimage-tours-package-125x125.jpg"
+      },
+      {
+        "name": "Luxury Train Tours",
+        "page": "https://dir.indiamart.com/impcat/luxury-train-tours.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/XX/GLADMIN-168424/luxury-train-tours-125x125.jpg"
+      },
+      {
+        "name": "Disneyland Tour Package",
+        "page": "https://dir.indiamart.com/impcat/disneyland-tour-package.html",
+        "thumbnail": "http://4.imimg.com/data4/SA/YQ/GLADMIN-2/disneyland-tour-package-125x125.jpg"
+      },
+      {
+        "name": "Biking Tour Service",
+        "page": "https://dir.indiamart.com/impcat/biking-tour-service.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/WV/GLADMIN-169958/biking-tour-service-125x125.jpg"
+      },
+      {
+        "name": "Train Tour Packages",
+        "page": "https://dir.indiamart.com/impcat/train-tour-packages.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/UP/GLADMIN-172805/train-tour-packages-125x125.jpg"
+      },
+      {
+        "name": "Medical Tourism",
+        "page": "https://dir.indiamart.com/impcat/medical-tourism.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/QB/GLADMIN-41798/medical-tourism-125x125.jpg"
+      },
+      {
+        "name": "Bird Watching Trips",
+        "page": "https://dir.indiamart.com/impcat/bird-watching-trips.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/RS/GLADMIN-171331/bird-watching-trips-125x125.jpg"
+      },
+      {
+        "name": "Bird Sanctuary Tour",
+        "page": "https://dir.indiamart.com/impcat/bird-sanctuary-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/FG/GLADMIN-174872/bird-sanctuary-tour-125x125.jpg"
+      },
+      {
+        "name": "Online Travel Agency",
+        "page": "https://dir.indiamart.com/impcat/online-travel-agency.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/XS/GLADMIN-173750/online-travel-agency-125x125.jpg"
+      },
+      {
+        "name": "Spiritual Retreats",
+        "page": "https://dir.indiamart.com/impcat/spiritual-retreats.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/GS/GLADMIN-44841/spiritual-retreats-125x125.jpg"
+      },
+      {
+        "name": "Educational Tour Operating Services",
+        "page": "https://dir.indiamart.com/impcat/educational-tour-operating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/SC/GLADMIN-175665/educational-tour-operating-services-125x125.jpg"
+      },
+      {
+        "name": "Buddhist Temples",
+        "page": "https://dir.indiamart.com/impcat/buddhist-temples.html",
+        "thumbnail": "http://3.imimg.com/data3/VO/EF/GLADMIN-23630/buddhist-temples-125x125.jpg"
+      },
+      {
+        "name": "Incentive Tour",
+        "page": "https://dir.indiamart.com/impcat/incentive-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/KA/GLADMIN-107930/incentive-tour-125x125.jpg"
+      },
+      {
+        "name": "Yoga Meditation Tour",
+        "page": "https://dir.indiamart.com/impcat/yoga-meditation-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/HN/AH/GLADMIN-169798/yoga-meditation-tour-125x125.jpg"
+      },
+      {
+        "name": "Outbound Tour",
+        "page": "https://dir.indiamart.com/impcat/outbound-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/QP/XN/GLADMIN-112856/outbound-tour-125x125.jpg"
+      },
+      {
+        "name": "Dental Tourism",
+        "page": "https://dir.indiamart.com/impcat/dental-tourism.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/KV/GLADMIN-42344/dental-tourism-125x125.jpg"
+      },
+      {
+        "name": "Spa Tour",
+        "page": "https://dir.indiamart.com/impcat/spa-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/VR/WE/GLADMIN-175530/spa-tour-125x125.jpg"
+      },
+      {
+        "name": "Health Tour",
+        "page": "https://dir.indiamart.com/impcat/health-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/HV/WG/GLADMIN-41799/health-tour-125x125.jpg"
+      },
+      {
+        "name": "Inbound Tour",
+        "page": "https://dir.indiamart.com/impcat/inbound-tour.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/MK/GLADMIN-87928/inbound-tour-125x125.jpg"
+      },
+      {
+        "name": "Business Trips",
+        "page": "https://dir.indiamart.com/impcat/business-trips.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/RN/GLADMIN-50109/business-trips-125x125.jpg"
+      },
+      {
+        "name": "Tribal Tour Packages",
+        "page": "https://dir.indiamart.com/impcat/tribal-tour-packages.html",
+        "thumbnail": "http://3.imimg.com/data3/DL/KN/GLADMIN-172812/tribal-tour-packages-125x125.jpg"
+      },
+      {
+        "name": "Tour Manager Service",
+        "page": "https://dir.indiamart.com/impcat/tour-manager-service.html",
+        "thumbnail": "http://3.imimg.com/data3/CP/FI/GLADMIN-168668/tour-manager-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Travel Service",
+    "category_thumbnail": "http://3.imimg.com/data3/UV/IF/GLADMIN-78484/travel-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Visa Consultant",
+        "page": "https://dir.indiamart.com/impcat/visa-consultant.html",
+        "thumbnail": "http://3.imimg.com/data3/RG/WN/GLADMIN-39376/visa-consultant-125x125.jpg"
+      },
+      {
+        "name": "Work Permit Service",
+        "page": "https://dir.indiamart.com/impcat/work-permit-service.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/YL/GLADMIN-171199/work-permit-service-125x125.jpg"
+      },
+      {
+        "name": "International Visa Service",
+        "page": "https://dir.indiamart.com/impcat/international-visa-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371845403/EV/AT/PZ/104148/international-visa-service-125x125.png"
+      },
+      {
+        "name": "Umrah Tour Package",
+        "page": "https://dir.indiamart.com/impcat/umrah-tour-package.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/326625658/FS/TG/VX/98340/umrah-tour-package-125x125.jpg"
+      },
+      {
+        "name": "Travel Agents",
+        "page": "https://dir.indiamart.com/impcat/travelagencies.html",
+        "thumbnail": "http://3.imimg.com/data3/MU/LP/GLADMIN-40208/travel-agents-125x125.jpg"
+      },
+      {
+        "name": "Tour Packages",
+        "page": "https://dir.indiamart.com/impcat/package-tours.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/BO/GLADMIN-34156/package-tours-125x125.jpg"
+      },
+      {
+        "name": "Visa Stamping Service",
+        "page": "https://dir.indiamart.com/impcat/visa-stamping-service.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/QF/GLADMIN-173315/visa-stamping-service-125x125.jpg"
+      },
+      {
+        "name": "Goa Tour",
+        "page": "https://dir.indiamart.com/impcat/goa-tour.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/3/GI/ZP/AR/98340/goa-tour-125x125.jpg"
+      },
+      {
+        "name": "Passport Service",
+        "page": "https://dir.indiamart.com/impcat/passport-service.html",
+        "thumbnail": "http://3.imimg.com/data3/SB/OG/GLADMIN-96013/passport-service-125x125.jpg"
+      },
+      {
+        "name": "Visa Processing Services",
+        "page": "https://dir.indiamart.com/impcat/visa-processing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FE/RL/GLADMIN-167995/visa-processing-services-125x125.jpg"
+      },
+      {
+        "name": "Domestic Travel Agency",
+        "page": "https://dir.indiamart.com/impcat/domestic-travel-agency.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/YD/GLADMIN-78483/domestic-travel-agency-125x125.jpg"
+      },
+      {
+        "name": "Visa Assistance Service",
+        "page": "https://dir.indiamart.com/impcat/visa-assistance-service.html",
+        "thumbnail": "http://3.imimg.com/data3/MY/RM/GLADMIN-168574/visa-assistance-service-125x125.jpg"
+      },
+      {
+        "name": "Immigration Service",
+        "page": "https://dir.indiamart.com/impcat/immigration-service.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/VO/GLADMIN-96011/immigration-service-125x125.jpg"
+      },
+      {
+        "name": "Ticket Booking Service",
+        "page": "https://dir.indiamart.com/impcat/ticket-booking-service.html",
+        "thumbnail": "http://5.imimg.com/data5/SS/SS/GLADMIN-/ticket-booking-service-125x125.jpg"
+      },
+      {
+        "name": "Tourist Visa Consultancy Services",
+        "page": "https://dir.indiamart.com/impcat/tourist-visa-consultancy-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/NB/GLADMIN-175879/tourist-visa-consultancy-services-125x125.jpg"
+      },
+      {
+        "name": "Travel Guide Service",
+        "page": "https://dir.indiamart.com/impcat/travel-guide-service.html",
+        "thumbnail": "http://3.imimg.com/data3/YC/BB/GLADMIN-171124/travel-guide-service-125x125.jpg"
+      },
+      {
+        "name": "Study Visa Consultancy Services",
+        "page": "https://dir.indiamart.com/impcat/study-visa-consultancy-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/JB/GLADMIN-175440/study-visa-consultancy-services-125x125.jpg"
+      },
+      {
+        "name": "IRCTC Agent Registration Service",
+        "page": "https://dir.indiamart.com/impcat/irctc-agent-registration-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/YB/CO/NI/81953/irctc-agent-registration-service-125x125.png"
+      },
+      {
+        "name": "Immigration Consultants",
+        "page": "https://dir.indiamart.com/impcat/immigration-consultancy.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/IQ/GLADMIN-41961/immigration-consultancy-125x125.jpg"
+      },
+      {
+        "name": "Passport Assistance Services",
+        "page": "https://dir.indiamart.com/impcat/passport-assistance-services.html",
+        "thumbnail": "http://3.imimg.com/data3/BU/CU/GLADMIN-170607/passport-assistance-services-125x125.jpg"
+      },
+      {
+        "name": "International Travel Services",
+        "page": "https://dir.indiamart.com/impcat/international-travel-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RG/NC/GLADMIN-174803/international-travel-services-125x125.jpg"
+      },
+      {
+        "name": "Business Travel Services",
+        "page": "https://dir.indiamart.com/impcat/business-travel-services.html",
+        "thumbnail": "http://3.imimg.com/data3/YA/RW/GLADMIN-168796/business-travel-services-125x125.jpg"
+      },
+      {
+        "name": "Andaman Tour Packages",
+        "page": "https://dir.indiamart.com/impcat/andaman-tour-packages.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/3/GK/UQ/IR/98340/andaman-tour-packages-125x125.jpg"
+      },
+      {
+        "name": "Immigration Clearance Services",
+        "page": "https://dir.indiamart.com/impcat/immigration-clearance-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/OO/GLADMIN-173465/immigration-clearance-services-125x125.jpg"
+      },
+      {
+        "name": "Business Visas",
+        "page": "https://dir.indiamart.com/impcat/business-visas.html",
+        "thumbnail": "http://3.imimg.com/data3/OA/QM/GLADMIN-23935/business-visas-125x125.jpg"
+      },
+      {
+        "name": "Passport Renewal Services",
+        "page": "https://dir.indiamart.com/impcat/passport-renewal-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/GI/GLADMIN-174820/passport-renewal-services-125x125.jpg"
+      },
+      {
+        "name": "Travel Desk Services",
+        "page": "https://dir.indiamart.com/impcat/travel-desk-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FD/KP/GLADMIN-168559/travel-desk-services-125x125.jpg"
+      },
+      {
+        "name": "Corporate Travel Management Service",
+        "page": "https://dir.indiamart.com/impcat/corporate-travel-management-service.html",
+        "thumbnail": "http://3.imimg.com/data3/NK/XS/GLADMIN-175439/corporate-travel-management-service-125x125.jpg"
+      },
+      {
+        "name": "Passport Documentation",
+        "page": "https://dir.indiamart.com/impcat/passport-documentation.html",
+        "thumbnail": "http://3.imimg.com/data3/QS/VV/GLADMIN-41962/passport-documentation-125x125.jpg"
+      },
+      {
+        "name": "Travel Assistance Services",
+        "page": "https://dir.indiamart.com/impcat/travel-assistance-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/IL/GLADMIN-169735/travel-assistance-services-125x125.jpg"
+      },
+      {
+        "name": "Passport Consultancy Services",
+        "page": "https://dir.indiamart.com/impcat/passport-consulting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/IQ/TR/GLADMIN-174819/passport-consulting-service-125x125.jpg"
+      },
+      {
+        "name": "Leisure Travel Services",
+        "page": "https://dir.indiamart.com/impcat/leisure-travel-services.html",
+        "thumbnail": "http://3.imimg.com/data3/ID/WJ/GLADMIN-174038/leisure-travel-services-125x125.jpg"
+      },
+      {
+        "name": "Pet Taxi Services",
+        "page": "https://dir.indiamart.com/impcat/pet-taxi-services.html",
+        "thumbnail": "http://5.imimg.com/data5/CK/ES/GLADMIN-2/pet-taxi-services-125x125.jpg"
+      },
+      {
+        "name": "Visa Counseling Services",
+        "page": "https://dir.indiamart.com/impcat/visa-counseling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/JL/GLADMIN-173314/visa-counseling-services-125x125.jpg"
+      },
+      {
+        "name": "Travel Consultancy Services",
+        "page": "https://dir.indiamart.com/impcat/travel-consultancy-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/LF/GLADMIN-168091/travel-consultancy-services-125x125.jpg"
+      },
+      {
+        "name": "Luxury Travels Service",
+        "page": "https://dir.indiamart.com/impcat/luxury-travels-service.html",
+        "thumbnail": "http://3.imimg.com/data3/EK/TY/GLADMIN-173648/luxury-travels-service-125x125.jpg"
+      },
+      {
+        "name": "Post Landing Services",
+        "page": "https://dir.indiamart.com/impcat/post-landing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/EK/GLADMIN-172429/post-landing-services-125x125.jpg"
+      },
+      {
+        "name": "Traveling Arrangement Services",
+        "page": "https://dir.indiamart.com/impcat/traveling-arrangement-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/WS/GLADMIN-171126/traveling-arrangement-services-125x125.jpg"
+      },
+      {
+        "name": "Airport Assistance Services",
+        "page": "https://dir.indiamart.com/impcat/airport-assistance-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/VC/GLADMIN-169113/airport-assistance-services-125x125.jpg"
+      },
+      {
+        "name": "Business Migration Services",
+        "page": "https://dir.indiamart.com/impcat/business-migration-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/LI/GLADMIN-169178/business-migration-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ticket Booking Service",
+    "category_thumbnail": "http://5.imimg.com/data5/SS/SS/GLADMIN-/ticket-booking-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Railway Ticketing",
+        "page": "https://dir.indiamart.com/impcat/railway-ticketing.html",
+        "thumbnail": "http://3.imimg.com/data3/VT/AS/GLADMIN-43235/railway-ticketing-125x125.jpg"
+      },
+      {
+        "name": "Railway Reservation Services",
+        "page": "https://dir.indiamart.com/impcat/railway-reservation-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/BV/GLADMIN-118506/railway-reservation-services-125x125.jpg"
+      },
+      {
+        "name": "Bus Ticketing",
+        "page": "https://dir.indiamart.com/impcat/bus-ticketing.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/FS/GLADMIN-43236/bus-ticketing-125x125.jpg"
+      },
+      {
+        "name": "Online Bus Tickets Booking",
+        "page": "https://dir.indiamart.com/impcat/online-bus-tickets-booking.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379695314/UN/IG/TE/89350/online-bus-tickets-booking-125x125.png"
+      },
+      {
+        "name": "International Air Ticketing Services",
+        "page": "https://dir.indiamart.com/impcat/international-air-ticketing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/RN/GLADMIN-168391/international-air-ticketing-services-125x125.jpg"
+      },
+      {
+        "name": "Student Visa Services",
+        "page": "https://dir.indiamart.com/impcat/student-visa-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XF/JM/GLADMIN-126736/student-visa-services-125x125.jpg"
+      },
+      {
+        "name": "Domestic Air Ticketing",
+        "page": "https://dir.indiamart.com/impcat/domestic-air-ticketing.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/RA/GLADMIN-151886/domestic-air-ticketing-125x125.jpg"
+      },
+      {
+        "name": "Movie Ticket Booking",
+        "page": "https://dir.indiamart.com/impcat/movie-ticket-booking.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/TL/GLADMIN-173706/movie-ticket-booking-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Holiday Packages",
+        "page": "https://dir.indiamart.com/impcat/holiday-packages.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/PA/GLADMIN-30445/holiday-packages-125x125.jpg"
+      }
+    ]
+  }
+]

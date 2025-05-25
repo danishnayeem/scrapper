@@ -1,0 +1,591 @@
+[
+  {
+    "category_name": "Relays",
+    "category_thumbnail": "http://3.imimg.com/data3/XS/FR/GLADMIN-8121/relays-125x125.jpg",
+    "items": [
+      {
+        "name": "Power Relays",
+        "page": "https://dir.indiamart.com/impcat/power-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/JA/GLADMIN-35708/power-relays-125x125.jpg"
+      },
+      {
+        "name": "Solid State Relay",
+        "page": "https://dir.indiamart.com/impcat/solid-state-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/RP/YY/GLADMIN-19316/solid-state-relay-125x125.jpg"
+      },
+      {
+        "name": "Protective Relays",
+        "page": "https://dir.indiamart.com/impcat/protective-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/BG/GLADMIN-35893/protective-relays-125x125.jpg"
+      },
+      {
+        "name": "Starter Relays",
+        "page": "https://dir.indiamart.com/impcat/starter-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/GT/GLADMIN-38315/starter-relays-125x125.jpg"
+      },
+      {
+        "name": "Safety Relays",
+        "page": "https://dir.indiamart.com/impcat/safety-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/TI/NB/GLADMIN-1686/safety-relays-125x125.jpg"
+      },
+      {
+        "name": "Refrigeration Relays",
+        "page": "https://dir.indiamart.com/impcat/refrigeration-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/RI/GLADMIN-8112/refrigeration-relays-125x125.jpg"
+      },
+      {
+        "name": "APFC Relays",
+        "page": "https://dir.indiamart.com/impcat/apfc-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/FM/GLADMIN-151484/apfc-relays-125x125.jpg"
+      },
+      {
+        "name": "Motor Protection Relays",
+        "page": "https://dir.indiamart.com/impcat/motor-protection-relays.html",
+        "thumbnail": "http://5.imimg.com/data5/XA/AO/WI/GLADMIN-16223/motor-protection-relays-125x125.jpg"
+      },
+      {
+        "name": "Electrical Relays",
+        "page": "https://dir.indiamart.com/impcat/electrical-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/PS/VD/GLADMIN-27614/electrical-relays-125x125.jpg"
+      },
+      {
+        "name": "Overload Relays",
+        "page": "https://dir.indiamart.com/impcat/overload-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/QP/GLADMIN-5646/overload-relays-125x125.jpg"
+      },
+      {
+        "name": "Voltage Monitor Relay",
+        "page": "https://dir.indiamart.com/impcat/voltage-monitor-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/HE/GLADMIN-155456/voltage-monitor-relay-125x125.jpg"
+      },
+      {
+        "name": "Thermal Overload Relays",
+        "page": "https://dir.indiamart.com/impcat/thermal-overload-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/BO/GLADMIN-2383/thermal-overload-relays-125x125.jpg"
+      },
+      {
+        "name": "Earth Fault Relay",
+        "page": "https://dir.indiamart.com/impcat/earth-fault-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/HQ/EU/GLADMIN-27185/earth-fault-relay-125x125.jpg"
+      },
+      {
+        "name": "General Purpose Relays",
+        "page": "https://dir.indiamart.com/impcat/general-purpose-relays.html",
+        "thumbnail": "http://5.imimg.com/data5/RO/KI/PX/GLADMIN-16223/general-purpose-relays-125x125.jpg"
+      },
+      {
+        "name": "Time Delay Relay",
+        "page": "https://dir.indiamart.com/impcat/time-delay-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/TT/BX/GLADMIN-19491/time-delay-relay-125x125.jpg"
+      },
+      {
+        "name": "Tripping Relay",
+        "page": "https://dir.indiamart.com/impcat/tripping-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/RB/GLADMIN-147473/tripping-relay-125x125.jpg"
+      },
+      {
+        "name": "Minilec Phase Failure Relay",
+        "page": "https://dir.indiamart.com/impcat/minilec-phase-failure-relay.html",
+        "thumbnail": "http://5.imimg.com/data5/LI/FT/GLADMIN-2/minilec-phase-failure-relay-125x125.jpg"
+      },
+      {
+        "name": "Earth Leakage Relay",
+        "page": "https://dir.indiamart.com/impcat/earth-leakage-relay.html",
+        "thumbnail": "http://5.imimg.com/data5/KE/WO/FK/GLADMIN-16223/earth-leakage-relay-125x125.jpg"
+      },
+      {
+        "name": "DC Relays",
+        "page": "https://dir.indiamart.com/impcat/dc-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/EL/GLADMIN-1674/dc-relays-125x125.jpg"
+      },
+      {
+        "name": "OEN Relay",
+        "page": "https://dir.indiamart.com/impcat/oen-relay.html",
+        "thumbnail": "http://4.imimg.com/data4/XM/ES/GLADMIN-2/oen-relay-125x125.jpg"
+      },
+      {
+        "name": "Micro Relay",
+        "page": "https://dir.indiamart.com/impcat/micro-relay.html",
+        "thumbnail": "http://5.imimg.com/data5/SA/GJ/OL/GLADMIN-68155/micro-relay-125x125.jpg"
+      },
+      {
+        "name": "Overcurrent Relay",
+        "page": "https://dir.indiamart.com/impcat/overcurrent-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/TQ/QL/MY-2/overcurrent-relay-125x125.jpg"
+      },
+      {
+        "name": "Car Horn Relay",
+        "page": "https://dir.indiamart.com/impcat/horn-relay.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/406675345/BQ/OV/SJ/103402/horn-relay-125x125.jpg"
+      },
+      {
+        "name": "Auxiliary Relays",
+        "page": "https://dir.indiamart.com/impcat/auxiliary-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/VO/GLADMIN-22267/auxiliary-relays-125x125.jpg"
+      },
+      {
+        "name": "Control Relays",
+        "page": "https://dir.indiamart.com/impcat/control-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/OS/TW/GLADMIN-26025/control-relays-125x125.jpg"
+      },
+      {
+        "name": "Numeric Relay",
+        "page": "https://dir.indiamart.com/impcat/numeric-relay.html",
+        "thumbnail": "http://5.imimg.com/data5/ZY/AS/YX/GLADMIN-65832/numeric-relay-125x125.jpg"
+      },
+      {
+        "name": "Headlamp Relay",
+        "page": "https://dir.indiamart.com/impcat/headlamp-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/CE/GLADMIN-164541/headlamp-relay-125x125.jpg"
+      },
+      {
+        "name": "Electromagnetic Relay",
+        "page": "https://dir.indiamart.com/impcat/electromagnetic-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/SH/GLADMIN-15554/electromagnetic-relay-125x125.jpg"
+      },
+      {
+        "name": "Starting Relay",
+        "page": "https://dir.indiamart.com/impcat/starting-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/OH/TG/GLADMIN-38317/starting-relay-125x125.jpg"
+      },
+      {
+        "name": "Timer Relays",
+        "page": "https://dir.indiamart.com/impcat/timer-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/AV/ET/GLADMIN-2442/timer-relays-125x125.jpg"
+      },
+      {
+        "name": "Over Voltage Relay",
+        "page": "https://dir.indiamart.com/impcat/over-voltage-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/RB/CH/GLADMIN-69449/over-voltage-relay-125x125.jpg"
+      },
+      {
+        "name": "Differential Protection Relay",
+        "page": "https://dir.indiamart.com/impcat/differential-protection-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/EK/HQ/GLADMIN-13482/differential-protection-relay-125x125.jpg"
+      },
+      {
+        "name": "Sugar Cube Relays",
+        "page": "https://dir.indiamart.com/impcat/sugar-cube-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/PN/GLADMIN-154738/sugar-cube-relays-125x125.jpg"
+      },
+      {
+        "name": "Undervoltage Relay",
+        "page": "https://dir.indiamart.com/impcat/undervoltage-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/GA/GLADMIN-19809/undervoltage-relay-125x125.jpg"
+      },
+      {
+        "name": "Pump Protection Relay",
+        "page": "https://dir.indiamart.com/impcat/pump-protection-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/BJ/GLADMIN-156662/pump-protection-relay-125x125.jpg"
+      },
+      {
+        "name": "PCB Power Relay",
+        "page": "https://dir.indiamart.com/impcat/pcb-power-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/PO/GLADMIN-34751/pcb-power-relay-125x125.jpg"
+      },
+      {
+        "name": "Phase Sequence Relay",
+        "page": "https://dir.indiamart.com/impcat/phase-sequence-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/DA/FG/GLADMIN-155453/phase-sequence-relay-125x125.jpg"
+      },
+      {
+        "name": "AC Relay",
+        "page": "https://dir.indiamart.com/impcat/ac-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/KS/GLADMIN-14953/ac-relay-125x125.jpg"
+      },
+      {
+        "name": "Buchholz Relay",
+        "page": "https://dir.indiamart.com/impcat/buchholz-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/AC/RB/GLADMIN-149930/buchholz-relay-125x125.jpg"
+      },
+      {
+        "name": "Current Monitoring Relay",
+        "page": "https://dir.indiamart.com/impcat/current-monitoring-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/IO/GLADMIN-156636/current-monitoring-relay-125x125.jpg"
+      },
+      {
+        "name": "High Beam Headlight Relay",
+        "page": "https://dir.indiamart.com/impcat/high-beam-headlight-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/GU/MY-2/high-beam-headlight-relay-125x125.jpg"
+      },
+      {
+        "name": "Short Circuit Protection Relay",
+        "page": "https://dir.indiamart.com/impcat/short-circuit-protection-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/CW/GLADMIN-156670/short-circuit-protection-relay-125x125.jpg"
+      },
+      {
+        "name": "Timing Relays",
+        "page": "https://dir.indiamart.com/impcat/timing-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/RS/GLADMIN-1688/timing-relays-125x125.jpg"
+      },
+      {
+        "name": "Volume Booster Relay",
+        "page": "https://dir.indiamart.com/impcat/volume-booster-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/UN/GLADMIN-144620/volume-booster-relay-125x125.jpg"
+      },
+      {
+        "name": "Synchronizing Relay",
+        "page": "https://dir.indiamart.com/impcat/synchronizing-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/EJ/GLADMIN-155455/synchronizing-relay-125x125.jpg"
+      },
+      {
+        "name": "Latching Relay",
+        "page": "https://dir.indiamart.com/impcat/latching-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/FA/YK/GLADMIN-30465/latching-relay-125x125.jpg"
+      },
+      {
+        "name": "Relay Timers",
+        "page": "https://dir.indiamart.com/impcat/relay-timers.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/PT/GLADMIN-36319/relay-timers-125x125.jpg"
+      },
+      {
+        "name": "Phase Failure Relay",
+        "page": "https://dir.indiamart.com/impcat/phase-failure-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/FX/TY/GLADMIN-154945/phase-failure-relay-125x125.jpg"
+      },
+      {
+        "name": "Signal Relay",
+        "page": "https://dir.indiamart.com/impcat/signal-relay.html",
+        "thumbnail": "http://5.imimg.com/data5/VG/DK/RO/GLADMIN-16223/signal-relay-125x125.jpg"
+      },
+      {
+        "name": "Flame Relay Switch",
+        "page": "https://dir.indiamart.com/impcat/flame-relay-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/GM/GLADMIN-151622/flame-relay-switch-125x125.jpg"
+      },
+      {
+        "name": "4 Pole Relay",
+        "page": "https://dir.indiamart.com/impcat/4-pole-relay.html",
+        "thumbnail": "http://5.imimg.com/data5/RJ/MV/RB/GLADMIN-68155/4-pole-relay-125x125.jpg"
+      },
+      {
+        "name": "Auto Mains Failure Relay",
+        "page": "https://dir.indiamart.com/impcat/auto-mains-failure-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/SG/EB/GLADMIN-155448/auto-mains-failure-relay-125x125.jpg"
+      },
+      {
+        "name": "2 Pole Relay",
+        "page": "https://dir.indiamart.com/impcat/2-pole-relay.html",
+        "thumbnail": "http://4.imimg.com/data4/QE/DS/GLADMIN-182489/2-pole-relay-125x125.jpg"
+      },
+      {
+        "name": "IDMT Relay",
+        "page": "https://dir.indiamart.com/impcat/idmt-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/FP/WC/GLADMIN-159006/idmt-relay-125x125.jpg"
+      },
+      {
+        "name": "Check Synchronising Relay",
+        "page": "https://dir.indiamart.com/impcat/check-synchronising-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/TN/GLADMIN-155450/check-synchronising-relay-125x125.jpg"
+      },
+      {
+        "name": "High Voltage Relay",
+        "page": "https://dir.indiamart.com/impcat/high-voltage-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/UA/GLADMIN-16267/high-voltage-relay-125x125.jpg"
+      },
+      {
+        "name": "Telecom Relay",
+        "page": "https://dir.indiamart.com/impcat/telecom-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/LA/GLADMIN-69484/telecom-relay-125x125.jpg"
+      },
+      {
+        "name": "Changeover Relay",
+        "page": "https://dir.indiamart.com/impcat/changeover-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/WD/GLADMIN-141681/changeover-relay-125x125.jpg"
+      },
+      {
+        "name": "SPDT Relay",
+        "page": "https://dir.indiamart.com/impcat/spdt-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/TP/QA/GLADMIN-160076/spdt-relay-125x125.jpg"
+      },
+      {
+        "name": "Speed Relay",
+        "page": "https://dir.indiamart.com/impcat/speed-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/TN/GLADMIN-37480/speed-relay-125x125.jpg"
+      },
+      {
+        "name": "Switching Relays",
+        "page": "https://dir.indiamart.com/impcat/switching-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/NX/DA/GLADMIN-39320/switching-relays-125x125.jpg"
+      },
+      {
+        "name": "Thermal Relays",
+        "page": "https://dir.indiamart.com/impcat/thermal-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/JO/WD/GLADMIN-39759/thermal-relays-125x125.jpg"
+      },
+      {
+        "name": "Digital Protection Relay",
+        "page": "https://dir.indiamart.com/impcat/digital-protection-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/BU/FJ/GLADMIN-166872/digital-protection-relay-125x125.jpg"
+      },
+      {
+        "name": "Reverse Power Relay",
+        "page": "https://dir.indiamart.com/impcat/reverse-power-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/AB/BE/GLADMIN-155454/reverse-power-relay-125x125.jpg"
+      },
+      {
+        "name": "Single Phase Relay",
+        "page": "https://dir.indiamart.com/impcat/single-phase-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/HV/GLADMIN-156674/single-phase-relay-125x125.jpg"
+      },
+      {
+        "name": "Miniature Power Relay",
+        "page": "https://dir.indiamart.com/impcat/miniature-power-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/GI/FX/GLADMIN-112653/miniature-power-relay-125x125.jpg"
+      },
+      {
+        "name": "Single Phase Protection Relay",
+        "page": "https://dir.indiamart.com/impcat/single-phase-protection-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/DJ/GLADMIN-156673/single-phase-protection-relay-125x125.jpg"
+      },
+      {
+        "name": "Panel Mount Relays",
+        "page": "https://dir.indiamart.com/impcat/panel-mount-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/EW/MI/GLADMIN-154589/panel-mount-relays-125x125.jpg"
+      },
+      {
+        "name": "Electrical Control Relay",
+        "page": "https://dir.indiamart.com/impcat/electrical-control-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/WJ/GLADMIN-27595/electrical-control-relay-125x125.jpg"
+      },
+      {
+        "name": "Temperature Relay",
+        "page": "https://dir.indiamart.com/impcat/temperature-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/YK/GLADMIN-122765/temperature-relay-125x125.jpg"
+      },
+      {
+        "name": "Magnetic Latching Relay",
+        "page": "https://dir.indiamart.com/impcat/magnetic-latching-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/LU/PQ/GLADMIN-31751/magnetic-latching-relay-125x125.jpg"
+      },
+      {
+        "name": "Air Conditioning Relay",
+        "page": "https://dir.indiamart.com/impcat/air-conditioning-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/TB/GLADMIN-/assets-ppm-images-size-265x265-sku-p54-168-125x125.jpg"
+      },
+      {
+        "name": "Alternating Relays",
+        "page": "https://dir.indiamart.com/impcat/alternating-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/TH/GLADMIN-21743/alternating-relays-125x125.jpg"
+      },
+      {
+        "name": "Inverter Relay",
+        "page": "https://dir.indiamart.com/impcat/inverter-relay.html",
+        "thumbnail": "http://5.imimg.com/data5/RF/IE/BK/GLADMIN-72666/inverter-relay-125x125.png"
+      },
+      {
+        "name": "Frequency Relays",
+        "page": "https://dir.indiamart.com/impcat/frequency-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/XM/GLADMIN-28975/frequency-relays-125x125.jpg"
+      },
+      {
+        "name": "High Frequency Relays",
+        "page": "https://dir.indiamart.com/impcat/high-frequency-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/NO/LV/GLADMIN-30305/high-frequency-relays-125x125.png"
+      },
+      {
+        "name": "Relay Boxes",
+        "page": "https://dir.indiamart.com/impcat/relay-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/VJ/GLADMIN-165540/relay-boxes-125x125.jpg"
+      },
+      {
+        "name": "Reed Relay",
+        "page": "https://dir.indiamart.com/impcat/reed-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/EU/GV/GLADMIN-18533/reed-relay-125x125.jpg"
+      },
+      {
+        "name": "Static Relay",
+        "page": "https://dir.indiamart.com/impcat/static-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/NX/JJ/GLADMIN-18697/static-relay-125x125.jpg"
+      },
+      {
+        "name": "Field Failure Relays",
+        "page": "https://dir.indiamart.com/impcat/field-failure-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/OW/BG/GLADMIN-167438/field-failure-relays-125x125.jpg"
+      },
+      {
+        "name": "Reverse Phase Protection Relay",
+        "page": "https://dir.indiamart.com/impcat/reverse-phase-protection-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/EQ/FN/GLADMIN-156666/reverse-phase-protection-relay-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Relays",
+        "page": "https://dir.indiamart.com/impcat/vacuum-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/UV/GLADMIN-40780/vacuum-relays-125x125.jpg"
+      },
+      {
+        "name": "Miniature Relays",
+        "page": "https://dir.indiamart.com/impcat/miniature-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/DN/EM/GLADMIN-33119/miniature-relays-125x125.jpg"
+      },
+      {
+        "name": "Alarm Relays",
+        "page": "https://dir.indiamart.com/impcat/alarm-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/LP/MM/GLADMIN-21124/alarm-relays-125x125.jpg"
+      },
+      {
+        "name": "Meter Relays",
+        "page": "https://dir.indiamart.com/impcat/meter-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/BP/QJ/GLADMIN-33445/meter-relays-125x125.jpg"
+      },
+      {
+        "name": "Hermetically Sealed Relays",
+        "page": "https://dir.indiamart.com/impcat/hermetically-sealed-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/TJ/GLADMIN-30284/hermetically-sealed-relays-125x125.jpg"
+      },
+      {
+        "name": "Solid State Switches",
+        "page": "https://dir.indiamart.com/impcat/solid-state-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/TI/GLADMIN-37374/solid-state-switches-125x125.jpg"
+      },
+      {
+        "name": "Magnetic Relays",
+        "page": "https://dir.indiamart.com/impcat/magnetic-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/PN/GLADMIN-32433/magnetic-relays-125x125.jpg"
+      },
+      {
+        "name": "Ground Fault Relays",
+        "page": "https://dir.indiamart.com/impcat/ground-fault-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/RB/GLADMIN-29844/ground-fault-relays-125x125.jpg"
+      },
+      {
+        "name": "Auto Synchronising Relay",
+        "page": "https://dir.indiamart.com/impcat/auto-synchronising-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/UY/UY/GLADMIN-155449/auto-synchronising-relay-125x125.jpg"
+      },
+      {
+        "name": "Current Transformer Relay",
+        "page": "https://dir.indiamart.com/impcat/current-transformer-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/UH/GLADMIN-69392/current-transformer-relay-125x125.jpg"
+      },
+      {
+        "name": "Pneumatic Relay",
+        "page": "https://dir.indiamart.com/impcat/pneumatic-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/CI/GLADMIN-18088/pneumatic-relay-125x125.jpg"
+      },
+      {
+        "name": "Voltage Unbalance Relay",
+        "page": "https://dir.indiamart.com/impcat/voltage-unbalance-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/QP/SP/GLADMIN-69492/voltage-unbalance-relay-125x125.jpg"
+      },
+      {
+        "name": "Directional Relay",
+        "page": "https://dir.indiamart.com/impcat/directional-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/VP/MJ/GLADMIN-13935/directional-relay-125x125.jpg"
+      },
+      {
+        "name": "Cradle Relay",
+        "page": "https://dir.indiamart.com/impcat/cradle-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/TY/GLADMIN-68062/cradle-relay-125x125.jpg"
+      },
+      {
+        "name": "Ac Immunised Relay",
+        "page": "https://dir.indiamart.com/impcat/ac-immunised-relay.html",
+        "thumbnail": "http://4.imimg.com/data4/OU/IX/GLADMIN-178288/ac-immunised-relay-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Power Contactors",
+    "category_thumbnail": "http://3.imimg.com/data3/GB/NW/GLADMIN-7253/power-contactors-125x125.jpg",
+    "items": [
+      {
+        "name": "AC Contactor",
+        "page": "https://dir.indiamart.com/impcat/ac-contactor.html",
+        "thumbnail": "http://3.imimg.com/data3/MG/IH/GLADMIN-21545/ac-contactor-125x125.jpg"
+      },
+      {
+        "name": "Pole Contactor",
+        "page": "https://dir.indiamart.com/impcat/pole-contactor.html",
+        "thumbnail": "http://5.imimg.com/data5/XT/UI/IM/GLADMIN-16223/pole-contactor-125x125.jpg"
+      },
+      {
+        "name": "DC Contactors",
+        "page": "https://dir.indiamart.com/impcat/dc-contactors.html",
+        "thumbnail": "http://3.imimg.com/data3/NR/AD/GLADMIN-25368/dc-contactors-125x125.jpg"
+      },
+      {
+        "name": "Magnetic Contactors",
+        "page": "https://dir.indiamart.com/impcat/magnetic-contactors.html",
+        "thumbnail": "http://3.imimg.com/data3/AO/UR/GLADMIN-164674/magnetic-contactors-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Contactors",
+        "page": "https://dir.indiamart.com/impcat/vacuum-contactors.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/HR/UJ/OE/49660/vacuum-contactors-125x125.jpg"
+      },
+      {
+        "name": "Capacitor Contactor",
+        "page": "https://dir.indiamart.com/impcat/capacitor-contactor.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/NV/GLADMIN-84537/capacitor-contactor-125x125.jpg"
+      },
+      {
+        "name": "Industrial AC Contactor",
+        "page": "https://dir.indiamart.com/impcat/industrial-ac-contactor.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/JJ/GLADMIN-69419/industrial-ac-contactor-125x125.jpg"
+      },
+      {
+        "name": "Auxiliary Contactor",
+        "page": "https://dir.indiamart.com/impcat/auxiliary-contactor.html",
+        "thumbnail": "http://3.imimg.com/data3/KL/SH/GLADMIN-122603/auxiliary-contactor-125x125.jpg"
+      },
+      {
+        "name": "Motor Contactors",
+        "page": "https://dir.indiamart.com/impcat/motor-contactors.html",
+        "thumbnail": "http://3.imimg.com/data3/TN/LI/GLADMIN-33325/motor-contactors-125x125.jpg"
+      },
+      {
+        "name": "Modular Contactor",
+        "page": "https://dir.indiamart.com/impcat/modular-contactor.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/PH/GLADMIN-112656/modular-contactor-125x125.jpg"
+      },
+      {
+        "name": "Solid State Contactor",
+        "page": "https://dir.indiamart.com/impcat/solid-state-contactor.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/XJ/GLADMIN-163776/solid-state-contactor-125x125.jpg"
+      },
+      {
+        "name": "Capacitor Switching Contactor",
+        "page": "https://dir.indiamart.com/impcat/capacitor-switching-contactor.html",
+        "thumbnail": "http://3.imimg.com/data3/KH/OX/GLADMIN-86234/capacitor-switching-contactor-125x125.jpg"
+      },
+      {
+        "name": "IEC Contactors",
+        "page": "https://dir.indiamart.com/impcat/iec-contactors.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/RD/GLADMIN-30629/iec-contactors-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "High Voltage Relay",
+    "category_thumbnail": "http://3.imimg.com/data3/XJ/UA/GLADMIN-16267/high-voltage-relay-125x125.jpg",
+    "items": [
+      {
+        "name": "2 Pole Relay",
+        "page": "https://dir.indiamart.com/impcat/2-pole-relay.html",
+        "thumbnail": "http://4.imimg.com/data4/QE/DS/GLADMIN-182489/2-pole-relay-125x125.jpg"
+      },
+      {
+        "name": "Changeover Relay",
+        "page": "https://dir.indiamart.com/impcat/changeover-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/WD/GLADMIN-141681/changeover-relay-125x125.jpg"
+      },
+      {
+        "name": "SPDT Relay",
+        "page": "https://dir.indiamart.com/impcat/spdt-relay.html",
+        "thumbnail": "http://3.imimg.com/data3/TP/QA/GLADMIN-160076/spdt-relay-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Electrical Relays",
+        "page": "https://dir.indiamart.com/impcat/electrical-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/PS/VD/GLADMIN-27614/electrical-relays-125x125.jpg"
+      }
+    ]
+  }
+]

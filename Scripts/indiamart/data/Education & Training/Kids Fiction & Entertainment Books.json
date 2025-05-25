@@ -1,0 +1,198 @@
+[
+  {
+    "category_name": "School Book",
+    "category_thumbnail": "http://3.imimg.com/data3/YT/GP/GLADMIN-72873/school-book-125x125.jpg",
+    "items": [
+      {
+        "name": "Children Books",
+        "page": "https://dir.indiamart.com/impcat/child-kid-books.html",
+        "thumbnail": "http://3.imimg.com/data3/UM/HD/GLADMIN-3791/children-books-125x125.jpg"
+      },
+      {
+        "name": "Mathematical Books",
+        "page": "https://dir.indiamart.com/impcat/mathematical-books.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/HE/AO/CE/86648/mathematical-books-125x125.jpg"
+      },
+      {
+        "name": "Story Book",
+        "page": "https://dir.indiamart.com/impcat/story-book.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/YI/GLADMIN-42569/story-book-125x125.jpg"
+      },
+      {
+        "name": "Coloring Book",
+        "page": "https://dir.indiamart.com/impcat/coloring-book.html",
+        "thumbnail": "http://3.imimg.com/data3/OF/VE/GLADMIN-3936/coloring-book-125x125.png"
+      },
+      {
+        "name": "English Books",
+        "page": "https://dir.indiamart.com/impcat/english-books.html",
+        "thumbnail": "http://3.imimg.com/data3/NR/UY/GLADMIN-68737/english-books-125x125.jpg"
+      },
+      {
+        "name": "NCERT Books",
+        "page": "https://dir.indiamart.com/impcat/ncert-books.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/VW/YE/VS/92368/ncert-books-125x125.jpg"
+      },
+      {
+        "name": "Children Educational Books",
+        "page": "https://dir.indiamart.com/impcat/childrens-educational-books.html",
+        "thumbnail": "http://3.imimg.com/data3/YM/VI/GLADMIN-24821/childrens-educational-books-125x125.jpg"
+      },
+      {
+        "name": "Political Science Books",
+        "page": "https://dir.indiamart.com/impcat/political-science-books.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/QK/GLADMIN-7093/political-science-books-125x125.jpg"
+      },
+      {
+        "name": "Preschool Books",
+        "page": "https://dir.indiamart.com/impcat/pre-school-books.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/GQ/GLADMIN-42572/pre-school-books-125x125.jpg"
+      },
+      {
+        "name": "Computer Books",
+        "page": "https://dir.indiamart.com/impcat/computer-books.html",
+        "thumbnail": "http://3.imimg.com/data3/NW/JW/GLADMIN-3963/computer-books-125x125.gif"
+      },
+      {
+        "name": "Abacus Book",
+        "page": "https://dir.indiamart.com/impcat/abacus-book.html",
+        "thumbnail": "http://3.imimg.com/data3/XR/PF/GLADMIN-137680/abacus-book-125x125.jpg"
+      },
+      {
+        "name": "Drawing Book",
+        "page": "https://dir.indiamart.com/impcat/drawing-book.html",
+        "thumbnail": "http://3.imimg.com/data3/SW/NW/GLADMIN-6701/drawing-book-125x125.jpg"
+      },
+      {
+        "name": "Kids Activity Book",
+        "page": "https://dir.indiamart.com/impcat/kids-activity-book.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/QG/GLADMIN-42570/kids-activity-book-125x125.jpg"
+      },
+      {
+        "name": "Economics Book",
+        "page": "https://dir.indiamart.com/impcat/economics-book.html",
+        "thumbnail": "http://3.imimg.com/data3/WO/JA/GLADMIN-6791/economics-book-125x125.jpg"
+      },
+      {
+        "name": "English Grammar Books",
+        "page": "https://dir.indiamart.com/impcat/english-grammar-books.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/JA/GLADMIN-167778/english-grammar-books-125x125.jpg"
+      },
+      {
+        "name": "Handwriting Books",
+        "page": "https://dir.indiamart.com/impcat/handwriting-books.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/LH/GLADMIN-/images-handwriting-handwriting-learning-page-3-125x125.jpg"
+      },
+      {
+        "name": "Art Books",
+        "page": "https://dir.indiamart.com/impcat/art-books.html",
+        "thumbnail": "http://3.imimg.com/data3/WP/QT/GLADMIN-4916/art-books-125x125.jpg"
+      },
+      {
+        "name": "Reading Book",
+        "page": "https://dir.indiamart.com/impcat/reading-book.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/YN/GLADMIN-72872/reading-book-125x125.jpg"
+      },
+      {
+        "name": "Children Board Book",
+        "page": "https://dir.indiamart.com/impcat/children-board-book.html",
+        "thumbnail": "http://3.imimg.com/data3/TU/XE/GLADMIN-72868/children-board-book-125x125.jpg"
+      },
+      {
+        "name": "Second Hand and Used School Book",
+        "page": "https://dir.indiamart.com/impcat/second-hand-and-used-school-book.html",
+        "thumbnail": "http://5.imimg.com/data5/AM/IS/DU/GLADMIN-68155/second-hand-and-used-school-book-125x125.png"
+      },
+      {
+        "name": "Textbook",
+        "page": "https://dir.indiamart.com/impcat/textbook.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/WC/GLADMIN-77608/textbook-125x125.jpg"
+      },
+      {
+        "name": "Literature Books",
+        "page": "https://dir.indiamart.com/impcat/literature-books.html",
+        "thumbnail": "http://3.imimg.com/data3/YB/CX/GLADMIN-9619/literature-books-125x125.png"
+      },
+      {
+        "name": "Kids Magic Book",
+        "page": "https://dir.indiamart.com/impcat/kids-magic-book.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/434226129/TP/ZR/RO/93696/kids-magic-book-125x125.png"
+      },
+      {
+        "name": "Physical Education Books",
+        "page": "https://dir.indiamart.com/impcat/physical-education-books.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/AG/GLADMIN-143777/physical-education-books-125x125.jpg"
+      },
+      {
+        "name": "Finance Books",
+        "page": "https://dir.indiamart.com/impcat/finance-books.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/JP/GLADMIN-6364/finance-books-125x125.jpg"
+      },
+      {
+        "name": "Grammar Books",
+        "page": "https://dir.indiamart.com/impcat/grammar-books.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/JQ/GLADMIN-68739/grammar-books-125x125.jpg"
+      },
+      {
+        "name": "Puzzle Book",
+        "page": "https://dir.indiamart.com/impcat/puzzle-book.html",
+        "thumbnail": "http://3.imimg.com/data3/WJ/MK/GLADMIN-42571/puzzle-book-125x125.jpg"
+      },
+      {
+        "name": "Hindi Poem Book",
+        "page": "https://dir.indiamart.com/impcat/hindi-poem-book.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/KP/GLADMIN-68740/hindi-poem-book-125x125.jpg"
+      },
+      {
+        "name": "English Vocabulary Exercises Books",
+        "page": "https://dir.indiamart.com/impcat/english-vocabulary-exercises-books.html",
+        "thumbnail": "http://3.imimg.com/data3/HC/UR/GLADMIN-177771/english-vocabulary-exercises-books-125x125.jpg"
+      },
+      {
+        "name": "Rhymes Book",
+        "page": "https://dir.indiamart.com/impcat/rhymes-book.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/CW/GLADMIN-68324/rhymes-book-125x125.jpg"
+      },
+      {
+        "name": "Student Book",
+        "page": "https://dir.indiamart.com/impcat/student-book.html",
+        "thumbnail": "http://3.imimg.com/data3/EK/UN/GLADMIN-77607/student-book-125x125.jpg"
+      },
+      {
+        "name": "Alphabet Picture Book",
+        "page": "https://dir.indiamart.com/impcat/alphabet-picture-book.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/CK/GLADMIN-68320/alphabet-picture-book-125x125.jpg"
+      },
+      {
+        "name": "Crafts Books",
+        "page": "https://dir.indiamart.com/impcat/crafts-books.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/KC/GLADMIN-68321/crafts-books-125x125.jpg"
+      },
+      {
+        "name": "Mythological Story Book",
+        "page": "https://dir.indiamart.com/impcat/mythological-story-book.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/XV/GLADMIN-5317/mythological-story-book-125x125.jpg"
+      },
+      {
+        "name": "Microbiology Book",
+        "page": "https://dir.indiamart.com/impcat/microbiology-book.html",
+        "thumbnail": "http://3.imimg.com/data3/WY/LR/GLADMIN-9022/microbiology-book-125x125.jpg"
+      },
+      {
+        "name": "Calligraphy Books",
+        "page": "https://dir.indiamart.com/impcat/calligraphy-books.html",
+        "thumbnail": "http://5.imimg.com/data5/ZC/VZ/BN/GLADMIN-68155/calligraphy-books-125x125.jpg"
+      },
+      {
+        "name": "Statistics Book",
+        "page": "https://dir.indiamart.com/impcat/statistics-book.html",
+        "thumbnail": "http://3.imimg.com/data3/CQ/WU/GLADMIN-163469/statistics-book-125x125.jpg"
+      },
+      {
+        "name": "Petty Cash Book",
+        "page": "https://dir.indiamart.com/impcat/petty-cash-book.html",
+        "thumbnail": "http://3.imimg.com/data3/WE/QO/GLADMIN-132739/petty-cash-book-125x125.jpg"
+      }
+    ]
+  }
+]

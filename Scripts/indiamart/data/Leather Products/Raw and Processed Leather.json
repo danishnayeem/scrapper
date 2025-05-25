@@ -1,0 +1,75 @@
+[
+  {
+    "category_name": "Leather Sheet",
+    "category_thumbnail": "http://3.imimg.com/data3/UG/IL/GLADMIN-90117/leather-sheet-125x125.jpg",
+    "items": [
+      {
+        "name": "Upholstery Leather",
+        "page": "https://dir.indiamart.com/impcat/upholstery-leather.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/TA/GLADMIN-2660/upholstery-leather-125x125.jpg"
+      },
+      {
+        "name": "Shoe Leather",
+        "page": "https://dir.indiamart.com/impcat/shoe-leather.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/WH/GLADMIN-9283/shoe-leather-125x125.jpg"
+      },
+      {
+        "name": "Upholstery Crust Leather",
+        "page": "https://dir.indiamart.com/impcat/upholstery-crust-leather.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/BE/GLADMIN-122808/upholstery-crust-leather-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Raw Leather",
+    "category_thumbnail": "http://5.imimg.com/data5/JR/EM/GLADMIN-2/raw-leather-125x125.jpg",
+    "items": [
+      {
+        "name": "Leather Raw Materials",
+        "page": "https://dir.indiamart.com/impcat/leather-raw-materials.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/FU/GLADMIN-146557/leather-raw-materials-125x125.jpg"
+      },
+      {
+        "name": "Buffalo Hides",
+        "page": "https://dir.indiamart.com/impcat/buffalo-hides.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/PJ/GLADMIN-23888/buffalo-hides-125x125.jpg"
+      },
+      {
+        "name": "Sheepskins",
+        "page": "https://dir.indiamart.com/impcat/sheepskins.html",
+        "thumbnail": "http://3.imimg.com/data3/MJ/WA/GLADMIN-37822/sheepskins-125x125.jpg"
+      },
+      {
+        "name": "Cattle Hides",
+        "page": "https://dir.indiamart.com/impcat/cattle-hides.html",
+        "thumbnail": "http://3.imimg.com/data3/MJ/EV/GLADMIN-24549/cattle-hides-125x125.jpg"
+      },
+      {
+        "name": "Pig Skins",
+        "page": "https://dir.indiamart.com/impcat/pig-skins.html",
+        "thumbnail": "http://5.imimg.com/data5/ER/FB/GLADMIN-2/3e9684fc11ba352947222eada75e75ec-cow-skin-wild-boar-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Semi Finished Leather",
+    "category_thumbnail": "http://3.imimg.com/data3/MF/BF/GLADMIN-8504/semi-finished-leather-125x125.jpg",
+    "items": [
+      {
+        "name": "Wet Blue Leather",
+        "page": "https://dir.indiamart.com/impcat/wet-blue-leather.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/AM/GLADMIN-41013/wet-blue-leather-125x125.jpg"
+      },
+      {
+        "name": "Vegetable Tanned Leather",
+        "page": "https://dir.indiamart.com/impcat/vegetable-tanned-leather.html",
+        "thumbnail": "http://3.imimg.com/data3/NE/NM/GLADMIN-2715/vegetable-tanned-leather-125x125.jpg"
+      },
+      {
+        "name": "Tanned Leather",
+        "page": "https://dir.indiamart.com/impcat/tanned-leather.html",
+        "thumbnail": "http://3.imimg.com/data3/XP/HT/GLADMIN-106951/tanned-leather-125x125.jpg"
+      }
+    ]
+  }
+]

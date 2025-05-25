@@ -1,0 +1,544 @@
+[
+  {
+    "category_name": "Machinery Repairs",
+    "category_thumbnail": "http://3.imimg.com/data3/VN/UM/GLADMIN-32266/machinery-repairs-125x125.jpg",
+    "items": [
+      {
+        "name": "Generator Repair Services",
+        "page": "https://dir.indiamart.com/impcat/generator-repair-services.html",
+        "thumbnail": "http://5.imimg.com/data5/DQ/LE/GLADMIN-2/original-125x125.png"
+      },
+      {
+        "name": "Welding Machine Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/welding-machine-repairing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/GP/QP/GLADMIN-172876/welding-machine-repairing-service-125x125.jpg"
+      },
+      {
+        "name": "Flour Mill Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/flour-mill-repairing-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GL/WT/RT/GLADMIN-73621/flour-mill-repairing-service-125x125.png"
+      },
+      {
+        "name": "Coffee Machine Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/coffee-machine-repairing-services.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/AA/GLADMIN-/coffee-machine-repairing-services-125x125.jpg"
+      },
+      {
+        "name": "Oxygen Cylinder Refilling Service",
+        "page": "https://dir.indiamart.com/impcat/oxygen-cylinder-refilling-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/YI/GI/XZ/84846/oxygen-cylinder-refilling-service-125x125.jpg"
+      },
+      {
+        "name": "Gearbox Repair",
+        "page": "https://dir.indiamart.com/impcat/gearbox-repair.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/WJ/GLADMIN-29372/gearbox-repair-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Pump Repair & Maintenance Service",
+    "category_thumbnail": "http://5.imimg.com/data5/IM/JP/GLADMIN-2/pump-repair-maintenance-service-125x125.png",
+    "items": [
+      {
+        "name": "Pump Repairing",
+        "page": "https://dir.indiamart.com/impcat/pump-repairing.html",
+        "thumbnail": "http://5.imimg.com/data5/SS/SS/GLADMIN-/data4-ig-ai-my-36214-industrial-mud-pumps-500x500-125x125.jpg"
+      },
+      {
+        "name": "Water Pump Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/water-pumps-repairing-services.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/UU/GLADMIN-/data4-gc-om-my-655428-electric-water-pump-500x500-125x125.jpg"
+      },
+      {
+        "name": "Submersible Pump Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/submersible-pump-repairing-service.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/data4-nf-mb-my-655428-stainless-steel-borehole-submersible-pump-500x500-125x125.jpg"
+      },
+      {
+        "name": "Petrol Pumps Services",
+        "page": "https://dir.indiamart.com/impcat/petrol-pumps-services.html",
+        "thumbnail": "http://3.imimg.com/data3/AV/RH/GLADMIN-172395/petrol-pumps-services-125x125.jpg"
+      },
+      {
+        "name": "Hydraulic Pump Repair",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-pump-repair.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/CC/GLADMIN-/proimages-sr-ep-76md-hydraulic-pump-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Pump Repair",
+        "page": "https://dir.indiamart.com/impcat/vacuum-pump-repair.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/WW/GLADMIN-/data4-wk-kv-my-404306-v-belt-driven-vacuum-pump-500x500-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Plant Maintenance Services",
+    "category_thumbnail": "http://5.imimg.com/data5/DJ/CT/GLADMIN-2/plant-maintenance-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Solar Panel Cleaning Services",
+        "page": "https://dir.indiamart.com/impcat/solar-panel-cleaning-services.html",
+        "thumbnail": "http://4.imimg.com/data4/CR/KE/GLADMIN-178139/solar-panel-cleaning-services-125x125.jpg"
+      },
+      {
+        "name": "Industrial Maintenance Service",
+        "page": "https://dir.indiamart.com/impcat/industrial-maintenance-service.html",
+        "thumbnail": "http://3.imimg.com/data3/FB/KL/GLADMIN-89962/industrial-maintenance-service-125x125.jpg"
+      },
+      {
+        "name": "STP Maintenance",
+        "page": "https://dir.indiamart.com/impcat/stp-maintenance.html",
+        "thumbnail": "http://3.imimg.com/data3/FD/RV/GLADMIN-176908/stp-maintenance-125x125.jpg"
+      },
+      {
+        "name": "ETP Plant Services",
+        "page": "https://dir.indiamart.com/impcat/etp-plant-services.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/AV/GLADMIN-169332/etp-plant-services-125x125.jpg"
+      },
+      {
+        "name": "ETP Operation Maintenance Services",
+        "page": "https://dir.indiamart.com/impcat/etp-operation-maintenance-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GI/JI/GLADMIN-2/etp-operation-maintenance-services-500x500-125x125.jpg"
+      },
+      {
+        "name": "Water Treatment Plant Maintenance Services",
+        "page": "https://dir.indiamart.com/impcat/water-treatment-plant-maintenance-services.html",
+        "thumbnail": "http://5.imimg.com/data5/JR/VK/GLADMIN-2/water-treatment-plant-maintenance-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Elevator Servicing",
+    "category_thumbnail": "http://3.imimg.com/data3/WT/MV/GLADMIN-69347/elevator-servicing-125x125.jpg",
+    "items": [
+      {
+        "name": "Elevator Maintenance Services",
+        "page": "https://dir.indiamart.com/impcat/elevator-maintenance-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GA/DM/GLADMIN-2/elevator-maintenance-services-125x125.jpg"
+      },
+      {
+        "name": "Elevator Installation Services",
+        "page": "https://dir.indiamart.com/impcat/elevator-installation-services.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/JW/GLADMIN-155001/elevator-installation-services-125x125.jpg"
+      },
+      {
+        "name": "Elevator AMC",
+        "page": "https://dir.indiamart.com/impcat/elevator-amc.html",
+        "thumbnail": "http://5.imimg.com/data5/CR/DR/RT/GLADMIN-68087/elevator-amc-125x125.jpg"
+      },
+      {
+        "name": "Elevator Modernization Service",
+        "page": "https://dir.indiamart.com/impcat/elevator-modernization-service.html",
+        "thumbnail": "http://3.imimg.com/data3/NM/IB/GLADMIN-170425/elevator-modernization-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Repairing Service",
+    "category_thumbnail": "http://5.imimg.com/data5/TE/LR/GLADMIN-2/industrial-repairing-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Hand Pallet Truck Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/hand-pallet-truck-repairing-service.html",
+        "thumbnail": "http://5.imimg.com/data5/NS/JK/VO/GLADMIN-16223/hand-pallet-truck-repairing-service-125x125.jpg"
+      },
+      {
+        "name": "Gym Equipment Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/gym-equipment-repairing-service.html",
+        "thumbnail": "http://5.imimg.com/data5/KQ/LY/GW/GLADMIN-68155/gym-equipment-repairing-service-125x125.jpg"
+      },
+      {
+        "name": "Sharpening Services",
+        "page": "https://dir.indiamart.com/impcat/sharpening-services.html",
+        "thumbnail": "http://3.imimg.com/data3/JI/HO/GLADMIN-43346/sharpening-services-125x125.jpg"
+      },
+      {
+        "name": "Retrofitting Service",
+        "page": "https://dir.indiamart.com/impcat/retrofitting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/YL/GLADMIN-85081/retrofitting-service-125x125.jpg"
+      },
+      {
+        "name": "Pneumatic Tools Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/pneumatic-tools-repairing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HA/HO/GLADMIN-174945/pneumatic-tools-repairing-services-125x125.jpg"
+      },
+      {
+        "name": "Ship Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/ship-repairing-services.html",
+        "thumbnail": "http://5.imimg.com/data5/OV/QK/GLADMIN-2/ship-repairing-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "CNC Machines Repair & Maintenance",
+    "category_thumbnail": "http://5.imimg.com/data5/FM/EB/GLADMIN-2/cnc-machines-repair-maintenance1-125x125.jpg",
+    "items": [
+      {
+        "name": "CNC Machine Repair",
+        "page": "https://dir.indiamart.com/impcat/cnc-machine-repair.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/PE/GLADMIN-136721/cnc-machine-repair-125x125.jpg"
+      },
+      {
+        "name": "CNC Job Work Service",
+        "page": "https://dir.indiamart.com/impcat/cnc-operator.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/309814370/PA/AO/IJ/90177/cnc-operator-125x125.png"
+      },
+      {
+        "name": "CNC Machine Retrofitting Service",
+        "page": "https://dir.indiamart.com/impcat/cnc-machine-retrofitting-service.html",
+        "thumbnail": "http://5.imimg.com/data5/JV/OU/GLADMIN-2/cnc-lathe-retrofit-125x125.jpg"
+      },
+      {
+        "name": "CNC Machine Control Cards Repair",
+        "page": "https://dir.indiamart.com/impcat/cnc-machine-control-cards-repair.html",
+        "thumbnail": "http://5.imimg.com/data5/BU/PA/GLADMIN-2/cnc-machine-control-cards-repair-125x125.jpg"
+      },
+      {
+        "name": "CNC Machine Reconditioning Service",
+        "page": "https://dir.indiamart.com/impcat/cnc-machine-reconditioning-service.html",
+        "thumbnail": "http://5.imimg.com/data5/VI/RM/GLADMIN-2/cnc-machine-reconditioning-service-125x125.jpg"
+      },
+      {
+        "name": "VMC Machine Maintenance Service",
+        "page": "https://dir.indiamart.com/impcat/vmc-machine-maintenance-service.html",
+        "thumbnail": "http://5.imimg.com/data5/SQ/WR/QY/GLADMIN-68087/vmc-machine-maintenance-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Insulation Services",
+    "category_thumbnail": "http://3.imimg.com/data3/HQ/NC/GLADMIN-41669/insulation-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Hot Insulation Services",
+        "page": "https://dir.indiamart.com/impcat/hot-insulation-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/TH/GLADMIN-132660/hot-insulation-services-125x125.jpg"
+      },
+      {
+        "name": "Cold Insulation Services",
+        "page": "https://dir.indiamart.com/impcat/cold-insulation-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/HY/GLADMIN-132603/cold-insulation-services-125x125.jpg"
+      },
+      {
+        "name": "Under Deck Insulation Service",
+        "page": "https://dir.indiamart.com/impcat/under-deck-insulation-service.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/AB/GLADMIN-172819/under-deck-insulation-service-125x125.jpg"
+      },
+      {
+        "name": "Roof Insulation Services",
+        "page": "https://dir.indiamart.com/impcat/roof-insulation-services.html",
+        "thumbnail": "http://4.imimg.com/data4/YO/PC/GLADMIN-2/roof-insulation-services-125x125.jpg"
+      },
+      {
+        "name": "Boiler Insulation Service",
+        "page": "https://dir.indiamart.com/impcat/boiler-insulation-service.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/QQ/GLADMIN-171333/boiler-insulation-service-125x125.jpg"
+      },
+      {
+        "name": "Tank Insulation Services",
+        "page": "https://dir.indiamart.com/impcat/tank-insulation-services.html",
+        "thumbnail": "http://5.imimg.com/data5/FL/VJ/GLADMIN-2/i29_1354720030-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Annual Maintenance Contract Services",
+    "category_thumbnail": "http://5.imimg.com/data5/LI/UD/GLADMIN-2/annual-maintenance-contract-services-125x125.jpg",
+    "items": [
+      {
+        "name": "AC AMC",
+        "page": "https://dir.indiamart.com/impcat/ac-amc.html",
+        "thumbnail": "http://5.imimg.com/data5/YS/AB/TX/GLADMIN-65832/ac-amc-125x125.jpg"
+      },
+      {
+        "name": "Maintenance Contractors",
+        "page": "https://dir.indiamart.com/impcat/maintenance-contractors.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/QK/GLADMIN-31678/maintenance-contractors-125x125.jpg"
+      },
+      {
+        "name": "Electrical AMC Services",
+        "page": "https://dir.indiamart.com/impcat/electrical-amc-services.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/BM/GLADMIN-168859/electrical-amc-services-125x125.jpg"
+      },
+      {
+        "name": "Cooling Tower Maintenance Services",
+        "page": "https://dir.indiamart.com/impcat/cooling-tower-maintenance-services.html",
+        "thumbnail": "http://5.imimg.com/data5/EL/DP/GLADMIN-2/cooling-tower-cleaning-125x125.jpg"
+      },
+      {
+        "name": "Fire Alarm Maintenance Service",
+        "page": "https://dir.indiamart.com/impcat/fire-alarm-maintenance-service.html",
+        "thumbnail": "http://3.imimg.com/data3/DB/AQ/GLADMIN-160367/fire-alarm-maintenance-service-125x125.jpg"
+      },
+      {
+        "name": "Forklift AMC Service",
+        "page": "https://dir.indiamart.com/impcat/forklift-amc-service.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/CI/GLADMIN-155398/forklift-amc-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Hydraulic Machines Repairing",
+    "category_thumbnail": "http://5.imimg.com/data5/CW/UH/GLADMIN-2/hydraulic-machines-repairing1-125x125.jpg",
+    "items": [
+      {
+        "name": "Hydraulic Equipment Repair Services",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-equipment-repair-services.html",
+        "thumbnail": "http://5.imimg.com/data5/SD/AB/GLADMIN-2/service-125x125.jpg"
+      },
+      {
+        "name": "Hydraulic Motor Repair Service",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-motor-repair-service.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/AU/GLADMIN-148009/hydraulic-motor-repair-service-125x125.jpg"
+      },
+      {
+        "name": "Hydraulic Machine Maintenance",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-machine-maintenance.html",
+        "thumbnail": "http://5.imimg.com/data5/XF/TP/GLADMIN-2/hydraulic-service-125x125.jpg"
+      },
+      {
+        "name": "Hydraulic Power Pack Repairing",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-power-pack-repairing.html",
+        "thumbnail": "http://5.imimg.com/data5/GQ/PK/GLADMIN-2/power-pack-125x125.jpg"
+      },
+      {
+        "name": "Hydraulic Valves Repair",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-valves-repair.html",
+        "thumbnail": "http://5.imimg.com/data5/UH/WL/GLADMIN-2/hydraulic-control-valve-repair-hrd2-125x125.jpg"
+      },
+      {
+        "name": "Hydraulic Power Pack Services",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-power-pack-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GY/XI/GLADMIN-174341/hydraulic-power-pack-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Crane Repair & Maintenance",
+    "category_thumbnail": "http://5.imimg.com/data5/DU/FC/GLADMIN-2/crane-repair_maintenance-125x125.png",
+    "items": [
+      {
+        "name": "Crane Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/crane-repairing-services.html",
+        "thumbnail": "http://5.imimg.com/data5/EY/WU/GLADMIN-2/default-125x125.png"
+      },
+      {
+        "name": "Forklift Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/forklift-repairing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HP/ND/GLADMIN-121148/forklift-repairing-service-125x125.jpg"
+      },
+      {
+        "name": "EOT Cranes Maintenance",
+        "page": "https://dir.indiamart.com/impcat/eot-cranes-maintenance.html",
+        "thumbnail": "http://3.imimg.com/data3/JR/JC/GLADMIN-174282/eot-cranes-maintenance-125x125.jpg"
+      },
+      {
+        "name": "Hoist Repair Services",
+        "page": "https://dir.indiamart.com/impcat/hoist-repair-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/KV/GLADMIN-168908/hoist-repair-services-125x125.jpg"
+      },
+      {
+        "name": "Cranes Erection Services",
+        "page": "https://dir.indiamart.com/impcat/cranes-erection-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/IQ/GLADMIN-173866/cranes-erection-services-125x125.jpg"
+      },
+      {
+        "name": "Crane AMC",
+        "page": "https://dir.indiamart.com/impcat/crane-amc.html",
+        "thumbnail": "http://5.imimg.com/data5/MF/SB/GL/GLADMIN-68087/crane-amc-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Compressor Repair and Maintenance",
+    "category_thumbnail": "http://5.imimg.com/data5/AQ/VY/GLADMIN-2/compressor-repair_maintainence-125x125.jpg",
+    "items": [
+      {
+        "name": "Air Compressor Maintenance service",
+        "page": "https://dir.indiamart.com/impcat/air-compressor-maintenance-service.html",
+        "thumbnail": "http://5.imimg.com/data5/MU/SL/GLADMIN-2/air-compressor-maintenance-service-125x125.png"
+      },
+      {
+        "name": "Spindle Repair Service",
+        "page": "https://dir.indiamart.com/impcat/spindle-repair-service.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/OB/GLADMIN-170869/spindle-repair-service-125x125.jpg"
+      },
+      {
+        "name": "Turbocharger Repair Services",
+        "page": "https://dir.indiamart.com/impcat/turbocharger-repair-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/GQ/GLADMIN-155179/turbocharger-repair-services-125x125.jpg"
+      },
+      {
+        "name": "Crankshaft Repairing",
+        "page": "https://dir.indiamart.com/impcat/crankshaft-repairing.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/XA/GLADMIN-176694/crankshaft-repairing-125x125.jpg"
+      },
+      {
+        "name": "Compressor Overhauling Service",
+        "page": "https://dir.indiamart.com/impcat/compressor-overhauling-service.html",
+        "thumbnail": "http://5.imimg.com/data5/ZB/RG/AX/GLADMIN-68155/compressor-overhauling-service-125x125.jpg"
+      },
+      {
+        "name": "Compressor Maintenance",
+        "page": "https://dir.indiamart.com/impcat/compressor-maintenance.html",
+        "thumbnail": "http://5.imimg.com/data5/FK/GA/GLADMIN-2/compressor-maintenance1-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tank Repairing & Maintenance",
+    "category_thumbnail": "http://5.imimg.com/data5/LW/IQ/GLADMIN-2/tank_maintenance-125x125.jpg",
+    "items": [
+      {
+        "name": "Water Tank Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/water-tank-repairing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HL/HO/GLADMIN-175342/water-tank-repairing-services-125x125.jpg"
+      },
+      {
+        "name": "Chemical & Oil Tank Cleaning Services",
+        "page": "https://dir.indiamart.com/impcat/chemical-tank-cleaning-services.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/DK/GLADMIN-2/chemical-tank-125x125.jpg"
+      },
+      {
+        "name": "Underground Water Tank Cleaning",
+        "page": "https://dir.indiamart.com/impcat/underground-water-tank-cleaning.html",
+        "thumbnail": "http://5.imimg.com/data5/PB/DA/GLADMIN-2/watertank-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Boiler Repairs & Maintenance",
+    "category_thumbnail": "http://3.imimg.com/data3/DM/RN/GLADMIN-23528/boiler-repairs-125x125.jpg",
+    "items": [
+      {
+        "name": "Steam Boilers Repair",
+        "page": "https://dir.indiamart.com/impcat/steam-boilers-repair.html",
+        "thumbnail": "http://5.imimg.com/data5/UF/FD/GLADMIN-2/steam-boilers-repair-125x125.jpg"
+      },
+      {
+        "name": "Boiler Maintenance",
+        "page": "https://dir.indiamart.com/impcat/boiler-maintenance.html",
+        "thumbnail": "http://3.imimg.com/data3/BU/TC/GLADMIN-23527/boiler-maintenance-125x125.jpg"
+      },
+      {
+        "name": "Boiler Insulation Service",
+        "page": "https://dir.indiamart.com/impcat/boiler-insulation-service.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/QQ/GLADMIN-171333/boiler-insulation-service-125x125.jpg"
+      },
+      {
+        "name": "Boiler Operating Services",
+        "page": "https://dir.indiamart.com/impcat/boiler-operating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/NC/GLADMIN-169968/boiler-operating-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Excavation & Construction Equipment Repair",
+    "category_thumbnail": "http://5.imimg.com/data5/PX/TA/GLADMIN-2/excavation-repair-maintenance-125x125.jpg",
+    "items": [
+      {
+        "name": "Earthmoving Equipment Repair",
+        "page": "https://dir.indiamart.com/impcat/earthmoving-equipment-repair.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/UA/GLADMIN-142082/earthmoving-equipment-repair-125x125.jpg"
+      },
+      {
+        "name": "Excavator Repair",
+        "page": "https://dir.indiamart.com/impcat/excavator-repair.html",
+        "thumbnail": "http://3.imimg.com/data3/QC/NC/GLADMIN-141828/excavator-repair-125x125.jpg"
+      },
+      {
+        "name": "Construction Equipment Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/construction-equipment-repairing-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371831511/WS/RE/PD/104148/construction-equipment-repairing-service-125x125.png"
+      },
+      {
+        "name": "Concrete Mixer Repair Service",
+        "page": "https://dir.indiamart.com/impcat/concrete-mixer-repair-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/9/450531773/LT/JI/SZ/93696/concretemixerrepair-125x125.png"
+      },
+      {
+        "name": "Motor Grader Repair & Maintenance",
+        "page": "https://dir.indiamart.com/impcat/motor-grader-repair-and-maintenence.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/a-img922-3806-j7ev0e-125x125.jpg"
+      },
+      {
+        "name": "Rig Repair",
+        "page": "https://dir.indiamart.com/impcat/rig-repair.html",
+        "thumbnail": "http://3.imimg.com/data3/DO/QJ/GLADMIN-176544/rig-repair-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Heat Exchangers Maintenance",
+    "category_thumbnail": "http://3.imimg.com/data3/UF/IO/GLADMIN-174767/heat-exchangers-maintenance-125x125.jpg",
+    "items": [
+      {
+        "name": "Heat Exchanger Cleaning Service",
+        "page": "https://dir.indiamart.com/impcat/heat-exchanger-cleaning-service.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/CR/GLADMIN-170567/heat-exchanger-cleaning-service-125x125.jpg"
+      },
+      {
+        "name": "Heat Exchanger Repairs",
+        "page": "https://dir.indiamart.com/impcat/heat-exchanger-repairs.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/XG/GLADMIN-30184/heat-exchanger-repairs-125x125.jpg"
+      },
+      {
+        "name": "Heat Exchanger Tube Cleaning",
+        "page": "https://dir.indiamart.com/impcat/heat-exchange-tube-cleaning.html",
+        "thumbnail": "http://3.imimg.com/data3/BI/PU/GLADMIN-174911/heat-exchange-tube-cleaning-125x125.jpg"
+      },
+      {
+        "name": "Plate Heat Exchanger Services",
+        "page": "https://dir.indiamart.com/impcat/plate-heat-exchanger-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/MY/GLADMIN-174692/plate-heat-exchanger-services-125x125.jpg"
+      },
+      {
+        "name": "Heat Exchanger Retubing Service",
+        "page": "https://dir.indiamart.com/impcat/heat-exchanger-retubing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/JI/KU/GLADMIN-170569/heat-exchanger-retubing-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Turbine Maintenance Service",
+    "category_thumbnail": "http://3.imimg.com/data3/CL/MX/GLADMIN-169741/turbine-maintenance-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Turbine Repair Service",
+        "page": "https://dir.indiamart.com/impcat/turbine-repair-service.html",
+        "thumbnail": "http://3.imimg.com/data3/QY/TP/GLADMIN-44248/turbine-repair-service-125x125.jpg"
+      },
+      {
+        "name": "Steam Turbine Maintenance Services",
+        "page": "https://dir.indiamart.com/impcat/steam-turbine-maintenance-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/NI/GLADMIN-156938/steam-turbine-maintenance-services-125x125.jpg"
+      },
+      {
+        "name": "Turbine Blade Inspection",
+        "page": "https://dir.indiamart.com/impcat/turbine-blade-inspection.html",
+        "thumbnail": "http://4.imimg.com/data4/SD/LY/GLADMIN-2/turbine-blade-inspection-125x125.jpg"
+      },
+      {
+        "name": "Turbine Inspection Services",
+        "page": "https://dir.indiamart.com/impcat/turbine-inspection-services.html",
+        "thumbnail": "http://5.imimg.com/data5/JY/DO/GLADMIN-2/inspection-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Machine Maintenance Services",
+        "page": "https://dir.indiamart.com/impcat/machine-maintenance-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/PU/GLADMIN-111447/machine-maintenance-services-125x125.jpg"
+      },
+      {
+        "name": "Compressor Maintenance",
+        "page": "https://dir.indiamart.com/impcat/compressor-maintenance.html",
+        "thumbnail": "http://5.imimg.com/data5/FK/GA/GLADMIN-2/compressor-maintenance1-125x125.jpg"
+      }
+    ]
+  }
+]

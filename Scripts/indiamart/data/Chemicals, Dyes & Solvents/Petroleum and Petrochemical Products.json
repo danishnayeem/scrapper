@@ -1,0 +1,436 @@
+[
+  {
+    "category_name": "Engine fuels",
+    "category_thumbnail": "http://3.imimg.com/data3/HD/JK/GLADMIN-22250/automotive-fuels-125x125.jpg",
+    "items": [
+      {
+        "name": "Diesel Exhaust Fluid",
+        "page": "https://dir.indiamart.com/impcat/diesel-exhaust-fluid.html",
+        "thumbnail": "http://5.imimg.com/data5/UO/KM/GLADMIN-2/diesel-exhaust-fluid-125x125.jpg"
+      },
+      {
+        "name": "Diesel",
+        "page": "https://dir.indiamart.com/impcat/diesel-fuels.html",
+        "thumbnail": "http://5.imimg.com/data5/VB/WH/GLADMIN-2/diesel-125x125.jpg"
+      },
+      {
+        "name": "Petrol",
+        "page": "https://dir.indiamart.com/impcat/gasoline.html",
+        "thumbnail": "http://5.imimg.com/data5/UD/HT/GLADMIN-2/petrol-125x125.jpg"
+      },
+      {
+        "name": "Jet Engine Fuel",
+        "page": "https://dir.indiamart.com/impcat/jet-engine-fuel.html",
+        "thumbnail": "http://5.imimg.com/data5/OY/OV/GLADMIN-2/jet-engine-fuel-125x125.jpg"
+      },
+      {
+        "name": "Aviation Fuels",
+        "page": "https://dir.indiamart.com/impcat/aviation-fuels.html",
+        "thumbnail": "http://4.imimg.com/data4/VP/FO/GLADMIN-2/aviation-fuels-125x125.jpg"
+      },
+      {
+        "name": "Petroleum Chemical",
+        "page": "https://dir.indiamart.com/impcat/petroleum-chemical.html",
+        "thumbnail": "http://3.imimg.com/data3/EP/FR/GLADMIN-16765/petroleum-chemical-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fuel Oils",
+    "category_thumbnail": "http://3.imimg.com/data3/NH/BG/GLADMIN-29063/fuel-oils-125x125.jpg",
+    "items": [
+      {
+        "name": "Kerosene Oil",
+        "page": "https://dir.indiamart.com/impcat/kerosene-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ZB/DB/LC/86676/kerosene-oil-125x125.jpg"
+      },
+      {
+        "name": "Light Diesel Oil",
+        "page": "https://dir.indiamart.com/impcat/light-diesel-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/OD/DJ/CK/86676/light-diesel-oil-125x125.jpg"
+      },
+      {
+        "name": "Naphtha",
+        "page": "https://dir.indiamart.com/impcat/solvent-naphtha.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/424959513/WD/YQ/JK/105656/naphtha-125x125.png"
+      },
+      {
+        "name": "Crude Oil",
+        "page": "https://dir.indiamart.com/impcat/crude-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/NV/IF/GLADMIN-2/crude-oil-125x125.jpg"
+      },
+      {
+        "name": "Light Fuel Oils",
+        "page": "https://dir.indiamart.com/impcat/light-fuel-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/EG/GLADMIN-32336/light-fuel-oils-125x125.jpg"
+      },
+      {
+        "name": "Deodorized Kerosene",
+        "page": "https://dir.indiamart.com/impcat/deodorized-kerosene.html",
+        "thumbnail": "http://3.imimg.com/data3/SY/QA/GLADMIN-26455/deodorized-kerosene-125x125.jpg"
+      },
+      {
+        "name": "Boiler Fuel Oil",
+        "page": "https://dir.indiamart.com/impcat/boiler-fuel-oil.html",
+        "thumbnail": "http://5.imimg.com/data5/UO/XD/GLADMIN-2/boiler-fuel-oil-125x125.jpg"
+      },
+      {
+        "name": "Heavy Fuel Oils",
+        "page": "https://dir.indiamart.com/impcat/heavy-fuel-oils.html",
+        "thumbnail": "http://3.imimg.com/data3/HR/MQ/GLADMIN-30248/heavy-fuel-oils-125x125.jpg"
+      },
+      {
+        "name": "Bunker Fuel Oil",
+        "page": "https://dir.indiamart.com/impcat/bunker-fuel-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/CG/YP/GLADMIN-23897/bunker-fuel-oil-125x125.jpg"
+      },
+      {
+        "name": "Mazut",
+        "page": "https://dir.indiamart.com/impcat/mazut.html",
+        "thumbnail": "http://3.imimg.com/data3/AT/RC/GLADMIN-144207/mazut-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Biofuel",
+    "category_thumbnail": "http://3.imimg.com/data3/QO/IC/GLADMIN-122622/biofuel-125x125.jpg",
+    "items": [
+      {
+        "name": "Used Cooking Oil",
+        "page": "https://dir.indiamart.com/impcat/used-cooking-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/VH/RY/GLADMIN-114292/used-cooking-oil-125x125.jpg"
+      },
+      {
+        "name": "Biodiesel",
+        "page": "https://dir.indiamart.com/impcat/biodiesel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ES/WH/IM/86676/biodiesel-125x125.jpg"
+      },
+      {
+        "name": "Diesel Additive",
+        "page": "https://dir.indiamart.com/impcat/diesel-additive.html",
+        "thumbnail": "http://3.imimg.com/data3/BO/KO/GLADMIN-117818/diesel-additive-125x125.jpg"
+      },
+      {
+        "name": "Groundnut Shell Briquette",
+        "page": "https://dir.indiamart.com/impcat/groundnut-shell-briquette.html",
+        "thumbnail": "http://3.imimg.com/data3/PC/LS/MY-2/groundnut-shell-briquette-125x125.jpg"
+      },
+      {
+        "name": "Cashew Nut Shell Cake",
+        "page": "https://dir.indiamart.com/impcat/cashew-nut-shell-cake.html",
+        "thumbnail": "http://5.imimg.com/data5/VS/OU/GLADMIN-2/cashew-nut-shell-cake-125x125.png"
+      },
+      {
+        "name": "Biofuel Briquettes",
+        "page": "https://dir.indiamart.com/impcat/biofuel-briquettes.html",
+        "thumbnail": "http://3.imimg.com/data3/BQ/GJ/GLADMIN-145441/biofuel-briquettes-125x125.jpg"
+      },
+      {
+        "name": "Jatropha Oil",
+        "page": "https://dir.indiamart.com/impcat/jatropha-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/NO/GLADMIN-122355/jatropha-oil-125x125.jpg"
+      },
+      {
+        "name": "Biofuel Pellet",
+        "page": "https://dir.indiamart.com/impcat/biofuel-pellet.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/LH/GLADMIN-114282/biofuel-pellet-125x125.jpg"
+      },
+      {
+        "name": "Refuse Derived Fuel",
+        "page": "https://dir.indiamart.com/impcat/refuse-derived-fuel.html",
+        "thumbnail": "http://5.imimg.com/data5/PQ/QI/GLADMIN-2/refuse-derived-fuel-125x125.jpg"
+      },
+      {
+        "name": "Biomass",
+        "page": "https://dir.indiamart.com/impcat/biomass.html",
+        "thumbnail": "http://5.imimg.com/data5/RK/QL/GLADMIN-2/biomass-125x125.jpg"
+      },
+      {
+        "name": "Fossil Fuels",
+        "page": "https://dir.indiamart.com/impcat/fossil-fuels.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/DG/GLADMIN-29004/fossil-fuels-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Paraffin Wax",
+    "category_thumbnail": "http://3.imimg.com/data3/WJ/BI/GLADMIN-2023/paraffin-wax-125x125.jpg",
+    "items": [
+      {
+        "name": "Fully Refined Paraffin Wax",
+        "page": "https://dir.indiamart.com/impcat/fully-refined-paraffin-wax.html",
+        "thumbnail": "http://5.imimg.com/data5/XJ/FR/GLADMIN-2/fully-refined-paraffin-wax-125x125.jpg"
+      },
+      {
+        "name": "Semi Refined Paraffin Wax",
+        "page": "https://dir.indiamart.com/impcat/semi-refined-paraffin-wax.html",
+        "thumbnail": "http://5.imimg.com/data5/UI/CH/GLADMIN-2/semi-refined-paraffin-wax-125x125.jpg"
+      },
+      {
+        "name": "Liquid Paraffin",
+        "page": "https://dir.indiamart.com/impcat/liquid-paraffin.html",
+        "thumbnail": "http://3.imimg.com/data3/XQ/MG/GLADMIN-9608/liquid-paraffin-125x125.jpg"
+      },
+      {
+        "name": "Solid Paraffin Wax",
+        "page": "https://dir.indiamart.com/impcat/petrochemical-wax.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/TR/GLADMIN-102026/petrochemical-wax-125x125.jpg"
+      },
+      {
+        "name": "Paraffin",
+        "page": "https://dir.indiamart.com/impcat/paraffin.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/MS/GLADMIN-109926/paraffin-125x125.jpg"
+      },
+      {
+        "name": "Lubricating Wax",
+        "page": "https://dir.indiamart.com/impcat/lubricating-wax.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/PF/GLADMIN-32113/lubricating-wax-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bitumen",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/RF/UO/NR/86676/bitumen-125x125.jpg",
+    "items": [
+      {
+        "name": "Bitumen Emulsion",
+        "page": "https://dir.indiamart.com/impcat/emulsified-bitumen.html",
+        "thumbnail": "http://5.imimg.com/data5/WN/QT/GLADMIN-2/bitumen-emulsion-125x125.jpg"
+      },
+      {
+        "name": "Viscosity Grade Bitumen",
+        "page": "https://dir.indiamart.com/impcat/bitumen-vg-30.html",
+        "thumbnail": "http://5.imimg.com/data5/HU/KG/GLADMIN-2/viscocity-grade-bitumen-125x125.jpg"
+      },
+      {
+        "name": "Bitumen Mastic",
+        "page": "https://dir.indiamart.com/impcat/bitumen-mastic.html",
+        "thumbnail": "http://5.imimg.com/data5/WY/AI/GLADMIN-2/bitumen-mastic-125x125.jpg"
+      },
+      {
+        "name": "Penetration Grade Bitumen",
+        "page": "https://dir.indiamart.com/impcat/bitumen-60-70.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/424749450/BC/KO/IZ/92336/penetration-grade-bitumen-125x125.jpg"
+      },
+      {
+        "name": "Bitumen Oil",
+        "page": "https://dir.indiamart.com/impcat/bitumen-oil.html",
+        "thumbnail": "http://4.imimg.com/data4/MO/PF/GLADMIN-2/bitumen-oil-125x125.jpg"
+      },
+      {
+        "name": "Polymer Modified Bitumen",
+        "page": "https://dir.indiamart.com/impcat/polymer-modified-bitumen.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/424825713/IW/IY/MR/105656/polymer-modified-bitumen-125x125.jpg"
+      },
+      {
+        "name": "Oxidized Bitumen",
+        "page": "https://dir.indiamart.com/impcat/industrial-bitumen.html",
+        "thumbnail": "http://4.imimg.com/data4/YY/SI/GLADMIN-184463/industrial-bitumen-125x125.jpg"
+      },
+      {
+        "name": "Solid Bitumen",
+        "page": "https://dir.indiamart.com/impcat/solid-bitumen.html",
+        "thumbnail": "http://5.imimg.com/data5/PK/DM/GLADMIN-2/solid-bitumen-125x125.jpg"
+      },
+      {
+        "name": "Cationic Bitumen Emulsion",
+        "page": "https://dir.indiamart.com/impcat/cationic-bitumen-emulsion.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/424880981/YH/QI/GE/92336/cationic-bitumen-emulsion-125x125.webp"
+      },
+      {
+        "name": "Paving Grade Bitumen",
+        "page": "https://dir.indiamart.com/impcat/paving-grade-bitumen.html",
+        "thumbnail": "http://4.imimg.com/data4/MF/GS/GLADMIN-184464/paving-grade-bitumen-125x125.jpg"
+      },
+      {
+        "name": "Gilsonite",
+        "page": "https://dir.indiamart.com/impcat/gilsonite.html",
+        "thumbnail": "http://4.imimg.com/data4/MB/EU/GLADMIN-184461/gilsonite-125x125.jpg"
+      },
+      {
+        "name": "Crumb Rubber Modified Bitumen",
+        "page": "https://dir.indiamart.com/impcat/crumb-rubber-modified-bitumen.html",
+        "thumbnail": "http://3.imimg.com/data3/GJ/NH/GLADMIN-/img-in-catalog-278006-125x125.jpeg"
+      },
+      {
+        "name": "Stone Matrix Asphalt",
+        "page": "https://dir.indiamart.com/impcat/stone-matrix-asphalt.html",
+        "thumbnail": "http://5.imimg.com/data5/QH/XZ/ZM/GLADMIN-68155/stone-matrix-asphalt-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Liquid Paraffin",
+    "category_thumbnail": "http://3.imimg.com/data3/XQ/MG/GLADMIN-9608/liquid-paraffin-125x125.jpg",
+    "items": [
+      {
+        "name": "Light Liquid Paraffin",
+        "page": "https://dir.indiamart.com/impcat/light-liquid-paraffin.html",
+        "thumbnail": "http://5.imimg.com/data5/QL/JQ/GLADMIN-2/light-liquid-paraffin-125x125.jpg"
+      },
+      {
+        "name": "White Oils",
+        "page": "https://dir.indiamart.com/impcat/white-oils.html",
+        "thumbnail": "http://5.imimg.com/data5/GN/NQ/GLADMIN-2/white-oils-125x125.png"
+      },
+      {
+        "name": "Paraffin Oil",
+        "page": "https://dir.indiamart.com/impcat/paraffin-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/WD/GLADMIN-34537/paraffin-oil-125x125.jpg"
+      },
+      {
+        "name": "Chlorinated Paraffin Wax",
+        "page": "https://dir.indiamart.com/impcat/chlorinated-paraffin-wax.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/YN/GLADMIN-141783/chlorinated-paraffin-wax-125x125.jpg"
+      },
+      {
+        "name": "Chlorinated Paraffin",
+        "page": "https://dir.indiamart.com/impcat/chlorinated-paraffin.html",
+        "thumbnail": "http://3.imimg.com/data3/NX/XL/GLADMIN-24101/chlorinated-paraffin-125x125.jpg"
+      },
+      {
+        "name": "Residue Wax",
+        "page": "https://dir.indiamart.com/impcat/residue-wax.html",
+        "thumbnail": "http://5.imimg.com/data5/MQ/VU/GLADMIN-2/residue-wax-125x125.jpg"
+      },
+      {
+        "name": "Chlorinated Paraffin Oil",
+        "page": "https://dir.indiamart.com/impcat/chlorinated-paraffin-oil.html",
+        "thumbnail": "http://3.imimg.com/data3/AB/BQ/GLADMIN-3797/chlorinated-paraffin-oil-125x125.jpg"
+      },
+      {
+        "name": "Sulpho Chlorinated Paraffin Wax",
+        "page": "https://dir.indiamart.com/impcat/sulpho-chlorinated-paraffin-wax.html",
+        "thumbnail": "http://5.imimg.com/data5/ES/SG/GLADMIN-2/sulpho-chlorinated-paraffin-wax-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Solid Paraffin Wax",
+    "category_thumbnail": "http://3.imimg.com/data3/YP/TR/GLADMIN-102026/petrochemical-wax-125x125.jpg",
+    "items": [
+      {
+        "name": "Polyethylene Wax",
+        "page": "https://dir.indiamart.com/impcat/polyethylene-wax.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/KE/GLADMIN-44791/polyethylene-wax-125x125.jpg"
+      },
+      {
+        "name": "Microcrystalline Wax",
+        "page": "https://dir.indiamart.com/impcat/microcrystalline-wax.html",
+        "thumbnail": "http://5.imimg.com/data5/GK/IT/GLADMIN-2/microcrystalline-wax-125x125.jpg"
+      },
+      {
+        "name": "Beeswax Sheets",
+        "page": "https://dir.indiamart.com/impcat/beeswax-sheets.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/CB/GLADMIN-49677/beeswax-sheets-125x125.jpg"
+      },
+      {
+        "name": "Slack Wax",
+        "page": "https://dir.indiamart.com/impcat/slack-wax.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/QS/GLADMIN-37208/slack-wax-125x125.jpg"
+      },
+      {
+        "name": "Montan Wax",
+        "page": "https://dir.indiamart.com/impcat/montan-wax.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/NJ/GLADMIN-33300/montan-wax-125x125.jpg"
+      },
+      {
+        "name": "Synthetic Wax",
+        "page": "https://dir.indiamart.com/impcat/synthetic-wax.html",
+        "thumbnail": "http://5.imimg.com/data5/SX/GR/GLADMIN-2/synthetic-wax-125x125.jpg"
+      },
+      {
+        "name": "Paraffin Block",
+        "page": "https://dir.indiamart.com/impcat/wax-bars.html",
+        "thumbnail": "http://4.imimg.com/data4/BH/NW/GLADMIN-181067/wax-bars-125x125.jpg"
+      },
+      {
+        "name": "Mineral Wax",
+        "page": "https://dir.indiamart.com/impcat/mineral-waxes.html",
+        "thumbnail": "http://3.imimg.com/data3/DP/MD/GLADMIN-33085/mineral-waxes-125x125.jpg"
+      },
+      {
+        "name": "Table Wax",
+        "page": "https://dir.indiamart.com/impcat/table-wax.html",
+        "thumbnail": "http://5.imimg.com/data5/RW/HC/GLADMIN-2/table-wax-125x125.jpg"
+      },
+      {
+        "name": "PVC Wax",
+        "page": "https://dir.indiamart.com/impcat/pvc-wax.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/WE/GLADMIN-155328/pvc-wax-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fuel Gas",
+    "category_thumbnail": "http://5.imimg.com/data5/JD/DS/GLADMIN-2/fuel-gas-125x125.jpg",
+    "items": [
+      {
+        "name": "Liquefied Petroleum Gas",
+        "page": "https://dir.indiamart.com/impcat/liquefied-petroleum-gas.html",
+        "thumbnail": "http://5.imimg.com/data5/MJ/XG/GLADMIN-2/liquefied-petroleum-gas-125x125.jpg"
+      },
+      {
+        "name": "Acetylene Gas",
+        "page": "https://dir.indiamart.com/impcat/acetylene-gas.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/LA/GLADMIN-12390/acetylene-gas-125x125.jpg"
+      },
+      {
+        "name": "Auto Gas",
+        "page": "https://dir.indiamart.com/impcat/auto-gas.html",
+        "thumbnail": "http://4.imimg.com/data4/EP/YH/GLADMIN-2/auto-gas-125x125.jpg"
+      },
+      {
+        "name": "Cooking Gas",
+        "page": "https://dir.indiamart.com/impcat/cooking-gas.html",
+        "thumbnail": "http://3.imimg.com/data3/KL/GK/GLADMIN-136521/cooking-gas-125x125.jpg"
+      },
+      {
+        "name": "Liquefied Natural Gas",
+        "page": "https://dir.indiamart.com/impcat/liquefied-natural-gas.html",
+        "thumbnail": "http://5.imimg.com/data5/LN/LN/GLADMIN-2/liquefied-natural-gas-125x125.jpg"
+      },
+      {
+        "name": "Automotive LPG",
+        "page": "https://dir.indiamart.com/impcat/automotive-lpg.html",
+        "thumbnail": "http://3.imimg.com/data3/PR/FS/GLADMIN-141255/automotive-lpg-125x125.jpg"
+      },
+      {
+        "name": "Coal Gas",
+        "page": "https://dir.indiamart.com/impcat/coal-gas.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/BJ/GLADMIN-25075/coal-gas-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Petroleum Coke",
+    "category_thumbnail": "http://3.imimg.com/data3/JS/DU/GLADMIN-34201/petroleum-coke-125x125.jpg",
+    "items": [
+      {
+        "name": "Calcined Petroleum Coke",
+        "page": "https://dir.indiamart.com/impcat/calcined-petroleum-coke.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/SX/GLADMIN-23071/calcined-petroleum-coke-125x125.jpg"
+      },
+      {
+        "name": "Petroleum Coke Powder",
+        "page": "https://dir.indiamart.com/impcat/petroleum-coke-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/RH/BY/GLADMIN-2/petroleum-coke-powder-125x125.jpg"
+      },
+      {
+        "name": "Graphite Petroleum Coke",
+        "page": "https://dir.indiamart.com/impcat/graphite-petroleum-coke.html",
+        "thumbnail": "http://4.imimg.com/data4/UC/OD/GLADMIN-184766/graphite-petroleum-coke-125x125.jpg"
+      },
+      {
+        "name": "Pet Coke Lump",
+        "page": "https://dir.indiamart.com/impcat/pet-coke-lump.html",
+        "thumbnail": "http://3.imimg.com/data3/PR/EB/GLADMIN-/uploadfiles-20081127162826855-125x125.jpg"
+      },
+      {
+        "name": "Non Calcined Petcoke",
+        "page": "https://dir.indiamart.com/impcat/non-calcined-petcoke.html",
+        "thumbnail": "http://5.imimg.com/data5/KK/KK/GLADMIN-/a-img924-305-lre3ta-125x125.jpg"
+      }
+    ]
+  }
+]

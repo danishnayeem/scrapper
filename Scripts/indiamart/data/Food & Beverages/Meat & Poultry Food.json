@@ -1,0 +1,435 @@
+[
+  {
+    "category_name": "Egg",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/AY/GC/OA/92368/egg-125x125.jpg",
+    "items": [
+      {
+        "name": "Poultry Eggs",
+        "page": "https://dir.indiamart.com/impcat/poultry-eggs.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MP/ZH/XH/92368/poultry-eggs-125x125.jpg"
+      },
+      {
+        "name": "White Eggs",
+        "page": "https://dir.indiamart.com/impcat/white-shelled-eggs.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/QM/PP/WE/92368/white-eggs-125x125.jpg"
+      },
+      {
+        "name": "Brown Eggs",
+        "page": "https://dir.indiamart.com/impcat/brown-eggs.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/DV/ZQ/CQ/92368/brown-eggs-125x125.jpg"
+      },
+      {
+        "name": "Hatching Eggs",
+        "page": "https://dir.indiamart.com/impcat/hatching-eggs.html",
+        "thumbnail": "http://3.imimg.com/data3/UY/EG/GLADMIN-149056/hatching-eggs-125x125.jpg"
+      },
+      {
+        "name": "Kadaknath Chicken Egg",
+        "page": "https://dir.indiamart.com/impcat/kadaknath-chicken-egg.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/PX/GP/GA/86648/kadaknath-chicken-egg-125x125.jpeg"
+      },
+      {
+        "name": "Ostrich Egg",
+        "page": "https://dir.indiamart.com/impcat/ostrich-egg.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/RB/CV/YC/86648/ostrich-egg-125x125.jpeg"
+      },
+      {
+        "name": "Duck Eggs",
+        "page": "https://dir.indiamart.com/impcat/duck-eggs.html",
+        "thumbnail": "http://5.imimg.com/data5/MO/ME/RG/GLADMIN-68155/duck-eggs-125x125.jpg"
+      },
+      {
+        "name": "Whole Egg Powder",
+        "page": "https://dir.indiamart.com/impcat/whole-egg-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/SG/GLADMIN-164816/whole-egg-powder-125x125.jpg"
+      },
+      {
+        "name": "Organic Egg",
+        "page": "https://dir.indiamart.com/impcat/organic-egg.html",
+        "thumbnail": "http://4.imimg.com/data4/TU/KQ/GLADMIN-2/organic-egg-125x125.jpg"
+      },
+      {
+        "name": "EMU Egg",
+        "page": "https://dir.indiamart.com/impcat/emu-egg.html",
+        "thumbnail": "http://3.imimg.com/data3/YX/KW/GLADMIN-126118/emu-egg-125x125.jpg"
+      },
+      {
+        "name": "Bird Eggs",
+        "page": "https://dir.indiamart.com/impcat/bird-eggs.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/IO/GLADMIN-23242/bird-eggs-125x125.jpg"
+      },
+      {
+        "name": "Egg Shell",
+        "page": "https://dir.indiamart.com/impcat/egg-shell.html",
+        "thumbnail": "http://3.imimg.com/data3/SK/KP/GLADMIN-78187/egg-shell-125x125.jpg"
+      },
+      {
+        "name": "Powdered Egg",
+        "page": "https://dir.indiamart.com/impcat/powdered-egg.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/IT/GLADMIN-113971/powdered-egg-125x125.jpg"
+      },
+      {
+        "name": "Liquid Egg",
+        "page": "https://dir.indiamart.com/impcat/liquid-egg.html",
+        "thumbnail": "http://3.imimg.com/data3/DI/KU/GLADMIN-149067/liquid-egg-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Poultry Meat",
+    "category_thumbnail": "http://3.imimg.com/data3/VO/IJ/GLADMIN-35646/poultry-meat-125x125.jpg",
+    "items": [
+      {
+        "name": "Boneless Chicken",
+        "page": "https://dir.indiamart.com/impcat/boneless-chicken.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/FY/CH/HM/92368/boneless-chicken-125x125.jpg"
+      },
+      {
+        "name": "Halal Frozen Whole Chicken",
+        "page": "https://dir.indiamart.com/impcat/halal-frozen-whole-chicken.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/TW/GLADMIN-157953/halal-frozen-whole-chicken-125x125.jpg"
+      },
+      {
+        "name": "Frozen Chicken",
+        "page": "https://dir.indiamart.com/impcat/frozen-chicken.html",
+        "thumbnail": "http://3.imimg.com/data3/XG/IO/GLADMIN-147394/frozen-chicken-125x125.jpg"
+      },
+      {
+        "name": "Turkey Meat",
+        "page": "https://dir.indiamart.com/impcat/turkey-meat.html",
+        "thumbnail": "http://4.imimg.com/data4/VT/DX/GLADMIN-186057/turkey-meat-125x125.jpg"
+      },
+      {
+        "name": "Fresh Chicken Leg",
+        "page": "https://dir.indiamart.com/impcat/fresh-chicken-leg.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/EV/GLADMIN-136001/fresh-chicken-leg-125x125.jpg"
+      },
+      {
+        "name": "Duck Meat",
+        "page": "https://dir.indiamart.com/impcat/duck-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/BR/KK/GLADMIN-157519/duck-meat-125x125.jpg"
+      },
+      {
+        "name": "Chicken Liver",
+        "page": "https://dir.indiamart.com/impcat/chicken-liver.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/QQ/GLADMIN-/chicken-liver-125x125.jpg"
+      },
+      {
+        "name": "Chicken Gizzards",
+        "page": "https://dir.indiamart.com/impcat/chicken-gizzards.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/NH/GLADMIN-135905/chicken-gizzards-125x125.jpg"
+      },
+      {
+        "name": "Chicken Drumstick",
+        "page": "https://dir.indiamart.com/impcat/chicken-drumstick.html",
+        "thumbnail": "http://3.imimg.com/data3/YX/YX/GLADMIN-78183/chicken-drumstick-125x125.jpg"
+      },
+      {
+        "name": "Frozen Chicken Wings",
+        "page": "https://dir.indiamart.com/impcat/frozen-chicken-wings.html",
+        "thumbnail": "http://5.imimg.com/data5/MT/AM/AC/GLADMIN-68087/frozen-chicken-wings-125x125.jpg"
+      },
+      {
+        "name": "Chicken Wings",
+        "page": "https://dir.indiamart.com/impcat/chicken-wings.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/XL/GLADMIN-24046/chicken-wings-125x125.jpg"
+      },
+      {
+        "name": "Chicken Lollipop",
+        "page": "https://dir.indiamart.com/impcat/chicken-lollipop.html",
+        "thumbnail": "http://4.imimg.com/data4/CO/XG/GLADMIN-182808/chicken-lollipop-125x125.jpg"
+      },
+      {
+        "name": "Stuffed Chicken Breast",
+        "page": "https://dir.indiamart.com/impcat/stuffed-chicken-breast.html",
+        "thumbnail": "http://3.imimg.com/data3/YA/MQ/GLADMIN-39081/stuffed-chicken-breast-125x125.jpg"
+      },
+      {
+        "name": "Emu Meat",
+        "page": "https://dir.indiamart.com/impcat/emu-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/GS/XJ/GLADMIN-27797/emu-meat-125x125.jpg"
+      },
+      {
+        "name": "Turkey Ham",
+        "page": "https://dir.indiamart.com/impcat/turkey-ham.html",
+        "thumbnail": "http://3.imimg.com/data3/OB/GW/GLADMIN-40402/turkey-ham-125x125.jpg"
+      },
+      {
+        "name": "Chicken Salami",
+        "page": "https://dir.indiamart.com/impcat/chicken-salami.html",
+        "thumbnail": "http://4.imimg.com/data4/DW/OY/GLADMIN-186402/chicken-salami-125x125.jpg"
+      },
+      {
+        "name": "Chicken Keema",
+        "page": "https://dir.indiamart.com/impcat/chicken-keema.html",
+        "thumbnail": "http://5.imimg.com/data5/FF/FF/GLADMIN-/chicken-keema-125x125.jpg"
+      },
+      {
+        "name": "Chicken Heart",
+        "page": "https://dir.indiamart.com/impcat/chicken-heart.html",
+        "thumbnail": "http://4.imimg.com/data4/IO/PF/GLADMIN-180818/chicken-heart-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Fresh Meat",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/UY/HE/LH/92368/fresh-meat-125x125.jpg",
+    "items": [
+      {
+        "name": "Goat Meat",
+        "page": "https://dir.indiamart.com/impcat/goat-meat.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DX/VE/PV/92368/goat-meat-125x125.png"
+      },
+      {
+        "name": "Sheep Meat",
+        "page": "https://dir.indiamart.com/impcat/sheep-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/GP/UK/GLADMIN-8566/sheep-meat-125x125.jpg"
+      },
+      {
+        "name": "Halal Meat",
+        "page": "https://dir.indiamart.com/impcat/halal-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/GN/GLADMIN-30041/halal-meat-125x125.jpg"
+      },
+      {
+        "name": "Ground Meat",
+        "page": "https://dir.indiamart.com/impcat/ground-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/KI/GLADMIN-29846/ground-meat-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Frozen Meat",
+    "category_thumbnail": "http://3.imimg.com/data3/JE/GX/GLADMIN-6606/frozen-meat-125x125.jpg",
+    "items": [
+      {
+        "name": "Frozen Buffalo Meat",
+        "page": "https://dir.indiamart.com/impcat/frozen-buffalo-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/FJ/UE/GLADMIN-6604/frozen-buffalo-meat-125x125.jpg"
+      },
+      {
+        "name": "Frozen Chicken",
+        "page": "https://dir.indiamart.com/impcat/frozen-chicken.html",
+        "thumbnail": "http://3.imimg.com/data3/XG/IO/GLADMIN-147394/frozen-chicken-125x125.jpg"
+      },
+      {
+        "name": "Frozen Mutton",
+        "page": "https://dir.indiamart.com/impcat/frozen-mutton.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/frozen-mutton-125x125.jpg"
+      },
+      {
+        "name": "Frozen Boneless Buffalo Meat",
+        "page": "https://dir.indiamart.com/impcat/frozen-boneless-buffalo-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/FV/GLADMIN-155487/frozen-boneless-buffalo-meat-125x125.jpg"
+      },
+      {
+        "name": "Lamb Cuts",
+        "page": "https://dir.indiamart.com/impcat/lamb-cuts.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/RN/GLADMIN-31471/lamb-cuts-125x125.jpg"
+      },
+      {
+        "name": "Processed Meats",
+        "page": "https://dir.indiamart.com/impcat/processed-meats.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/UE/GLADMIN-34795/processed-meats-125x125.jpg"
+      },
+      {
+        "name": "Salt Pork",
+        "page": "https://dir.indiamart.com/impcat/salt-pork.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/RG/GLADMIN-36732/salt-pork-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Frozen Chicken",
+    "category_thumbnail": "http://3.imimg.com/data3/XG/IO/GLADMIN-147394/frozen-chicken-125x125.jpg",
+    "items": [
+      {
+        "name": "Halal Frozen Whole Chicken",
+        "page": "https://dir.indiamart.com/impcat/halal-frozen-whole-chicken.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/TW/GLADMIN-157953/halal-frozen-whole-chicken-125x125.jpg"
+      },
+      {
+        "name": "Chicken Feet",
+        "page": "https://dir.indiamart.com/impcat/chicken-feet.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/LN/GLADMIN-105843/chicken-feet-125x125.jpg"
+      },
+      {
+        "name": "Frozen Chicken Wings",
+        "page": "https://dir.indiamart.com/impcat/frozen-chicken-wings.html",
+        "thumbnail": "http://5.imimg.com/data5/MT/AM/AC/GLADMIN-68087/frozen-chicken-wings-125x125.jpg"
+      },
+      {
+        "name": "Frozen Chicken Leg",
+        "page": "https://dir.indiamart.com/impcat/frozen-chicken-leg.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/359875963/HZ/DL/NT/33104/frozen-chicken-leg-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Buffalo Meat",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TV/HV/UT/92368/buffalo-meat-125x125.jpg",
+    "items": [
+      {
+        "name": "Frozen Buffalo Meat",
+        "page": "https://dir.indiamart.com/impcat/frozen-buffalo-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/FJ/UE/GLADMIN-6604/frozen-buffalo-meat-125x125.jpg"
+      },
+      {
+        "name": "Buffalo Omasum",
+        "page": "https://dir.indiamart.com/impcat/buffalo-omasum.html",
+        "thumbnail": "http://3.imimg.com/data3/WY/UJ/GLADMIN-177135/buffalo-omasum-125x125.jpg"
+      },
+      {
+        "name": "Frozen Boneless Buffalo Meat",
+        "page": "https://dir.indiamart.com/impcat/frozen-boneless-buffalo-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/FV/GLADMIN-155487/frozen-boneless-buffalo-meat-125x125.jpg"
+      },
+      {
+        "name": "Buffalo Offal",
+        "page": "https://dir.indiamart.com/impcat/buffalo-offal.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/buffalo-offal-125x125.jpg"
+      },
+      {
+        "name": "Buffalo Thick Flank Meat",
+        "page": "https://dir.indiamart.com/impcat/buffalo-thick-flank-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/AC/GLADMIN-148816/buffalo-thick-flank-meat-125x125.jpg"
+      },
+      {
+        "name": "Silverside Meat",
+        "page": "https://dir.indiamart.com/impcat/silverside-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/MS/IK/GLADMIN-142322/silverside-meat-125x125.jpg"
+      },
+      {
+        "name": "Chuck Tender",
+        "page": "https://dir.indiamart.com/impcat/chuck-tender.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/RB/GLADMIN-142305/chuck-tender-125x125.jpg"
+      },
+      {
+        "name": "Buffalo Tripe",
+        "page": "https://dir.indiamart.com/impcat/buffalo-tripe.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/XF/GLADMIN-177164/buffalo-tripe-125x125.jpg"
+      },
+      {
+        "name": "Strip Loin Meat",
+        "page": "https://dir.indiamart.com/impcat/strip-loin-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/SS/IN/GLADMIN-142323/strip-loin-meat-125x125.jpg"
+      },
+      {
+        "name": "Dried Buffalo Liver",
+        "page": "https://dir.indiamart.com/impcat/dried-buffalo-liver.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/PW/GLADMIN-156881/dried-buffalo-liver-125x125.jpg"
+      },
+      {
+        "name": "Rump Steak",
+        "page": "https://dir.indiamart.com/impcat/rump-steak.html",
+        "thumbnail": "http://3.imimg.com/data3/DO/EH/GLADMIN-142311/rump-steak-125x125.jpg"
+      },
+      {
+        "name": "Thick Flank",
+        "page": "https://dir.indiamart.com/impcat/thick-flank.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/HN/GLADMIN-142324/thick-flank-125x125.jpg"
+      },
+      {
+        "name": "Flank Meat",
+        "page": "https://dir.indiamart.com/impcat/flank-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/EL/GLADMIN-142307/flank-meat-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Meat Products",
+    "category_thumbnail": "http://3.imimg.com/data3/CJ/KH/GLADMIN-121047/meat-products-125x125.jpg",
+    "items": [
+      {
+        "name": "Sausage Casings",
+        "page": "https://dir.indiamart.com/impcat/sausage-casings.html",
+        "thumbnail": "http://3.imimg.com/data3/QY/NB/GLADMIN-37515/sausage-casings-125x125.jpg"
+      },
+      {
+        "name": "Sausage Meat",
+        "page": "https://dir.indiamart.com/impcat/sausage-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/OC/GLADMIN-143239/sausage-meat-125x125.jpg"
+      },
+      {
+        "name": "Processed Meat Products",
+        "page": "https://dir.indiamart.com/impcat/processed-meat-products.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/EP/GLADMIN-8708/processed-meat-products-125x125.jpg"
+      },
+      {
+        "name": "Variety Meat",
+        "page": "https://dir.indiamart.com/impcat/variety-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/BI/GLADMIN-40669/variety-meat-125x125.jpg"
+      },
+      {
+        "name": "Salted Sheep Casing",
+        "page": "https://dir.indiamart.com/impcat/salted-sheep-casing.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/HO/GLADMIN-84435/salted-sheep-casing-125x125.jpg"
+      },
+      {
+        "name": "Cured Meat",
+        "page": "https://dir.indiamart.com/impcat/cured-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/GN/FD/GLADMIN-78185/cured-meat-125x125.jpg"
+      },
+      {
+        "name": "Luncheon Meats",
+        "page": "https://dir.indiamart.com/impcat/luncheon-meats.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/KI/GLADMIN-32119/luncheon-meats-125x125.jpg"
+      },
+      {
+        "name": "Meat Extracts",
+        "page": "https://dir.indiamart.com/impcat/meat-extracts.html",
+        "thumbnail": "http://3.imimg.com/data3/MI/CE/GLADMIN-31811/meat-extracts-125x125.jpg"
+      },
+      {
+        "name": "Meat Pies",
+        "page": "https://dir.indiamart.com/impcat/meat-pies.html",
+        "thumbnail": "http://3.imimg.com/data3/PQ/CR/GLADMIN-31814/meat-pies-125x125.jpg"
+      },
+      {
+        "name": "Dried Cattle Casing",
+        "page": "https://dir.indiamart.com/impcat/dried-cattle-casing.html",
+        "thumbnail": "http://3.imimg.com/data3/YJ/UJ/GLADMIN-148234/dried-cattle-casing-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Chicken",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/11/MU/GX/ER/4974/chicken-125x125.jpg",
+    "items": [
+      {
+        "name": "Country Chicken",
+        "page": "https://dir.indiamart.com/impcat/country-chicken.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/RH/NK/JA/86648/country-chicken-125x125.jpg"
+      },
+      {
+        "name": "Hen",
+        "page": "https://dir.indiamart.com/impcat/hen.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/MB/WY/ZS/92368/hen-125x125.jpg"
+      },
+      {
+        "name": "Kadaknath Chicken",
+        "page": "https://dir.indiamart.com/impcat/kadaknath-chicken.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/YL/BR/RP/92368/kadaknath-chicken-125x125.jpg"
+      },
+      {
+        "name": "Broiler Chicken",
+        "page": "https://dir.indiamart.com/impcat/broiler-chicken.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ET/SA/CX/86648/broiler-chicken-125x125.jpeg"
+      },
+      {
+        "name": "Whole Fresh Chicken",
+        "page": "https://dir.indiamart.com/impcat/whole-fresh-chicken.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/330568516/SH/FZ/YA/64193/whole-fresh-chicken-125x125.png"
+      },
+      {
+        "name": "Cornish Hens",
+        "page": "https://dir.indiamart.com/impcat/cornish-hens.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/WQ/HU/QT/4974/cornish-hens-125x125.png"
+      },
+      {
+        "name": "Free Range Chicken",
+        "page": "https://dir.indiamart.com/impcat/free-range-chicken.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318073811/BW/BD/GA/96317/free-range-chicken-125x125.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,934 @@
+[
+  {
+    "category_name": "Integrated Circuits",
+    "category_thumbnail": "http://3.imimg.com/data3/WF/WU/GLADMIN-1301/integrated-circuits-125x125.jpg",
+    "items": [
+      {
+        "name": "IC Chip",
+        "page": "https://dir.indiamart.com/impcat/ic-chip.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/QR/GLADMIN-30758/ic-chip-125x125.jpg"
+      },
+      {
+        "name": "Power IC",
+        "page": "https://dir.indiamart.com/impcat/power-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/KV/GLADMIN-52947/power-ic-125x125.jpg"
+      },
+      {
+        "name": "Audio IC",
+        "page": "https://dir.indiamart.com/impcat/audio-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/MW/TH/GLADMIN-14381/audio-ic-125x125.jpg"
+      },
+      {
+        "name": "Voice IC",
+        "page": "https://dir.indiamart.com/impcat/voice-ic.html",
+        "thumbnail": "http://4.imimg.com/data4/KP/IT/GLADMIN-181189/voice-ic-125x125.jpg"
+      },
+      {
+        "name": "Voltage Regulators IC",
+        "page": "https://dir.indiamart.com/impcat/voltage-regulators.html",
+        "thumbnail": "http://3.imimg.com/data3/HR/IR/GLADMIN-1749/voltage-regulators-125x125.jpg"
+      },
+      {
+        "name": "LED Driver IC",
+        "page": "https://dir.indiamart.com/impcat/led-driver-ic.html",
+        "thumbnail": "http://4.imimg.com/data4/SM/DA/GLADMIN-184791/led-driver-ic-125x125.jpg"
+      },
+      {
+        "name": "Laptop IC",
+        "page": "https://dir.indiamart.com/impcat/laptop-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/KU/DA/GLADMIN-2/laptop-ic-125x125.jpg"
+      },
+      {
+        "name": "Power Amplifier ICs",
+        "page": "https://dir.indiamart.com/impcat/power-amplifier-ics.html",
+        "thumbnail": "http://3.imimg.com/data3/QY/FV/GLADMIN-35668/power-amplifier-ics-125x125.jpg"
+      },
+      {
+        "name": "USB Programmers",
+        "page": "https://dir.indiamart.com/impcat/usb-programmers.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/DY/GLADMIN-143444/usb-programmers-125x125.jpg"
+      },
+      {
+        "name": "IC Programmer",
+        "page": "https://dir.indiamart.com/impcat/ic-programmer.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/NM/GLADMIN-143392/ic-programmer-125x125.jpg"
+      },
+      {
+        "name": "Controller IC",
+        "page": "https://dir.indiamart.com/impcat/controller-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/JG/GLADMIN-26028/controller-ic-125x125.jpg"
+      },
+      {
+        "name": "Motor Driver IC",
+        "page": "https://dir.indiamart.com/impcat/motor-driver-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/YG/GLADMIN-17692/motor-driver-ic-125x125.jpg"
+      },
+      {
+        "name": "Timer IC",
+        "page": "https://dir.indiamart.com/impcat/timer-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/OJ/GLADMIN-19494/timer-ic-125x125.jpg"
+      },
+      {
+        "name": "NAND Flash IC",
+        "page": "https://dir.indiamart.com/impcat/nand-flash-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/BQ/LB/UX/GLADMIN-68155/nand-flash-ic-125x125.jpg"
+      },
+      {
+        "name": "Logic IC",
+        "page": "https://dir.indiamart.com/impcat/logic-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/JG/EB/GLADMIN-17212/logic-ic-125x125.jpg"
+      },
+      {
+        "name": "Regulator IC",
+        "page": "https://dir.indiamart.com/impcat/regulator-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/IU/GLADMIN-18542/regulator-ic-125x125.jpg"
+      },
+      {
+        "name": "Digital Integrated Circuits",
+        "page": "https://dir.indiamart.com/impcat/digital-integrated-circuits.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/KL/GLADMIN-52936/digital-integrated-circuits-125x125.jpg"
+      },
+      {
+        "name": "Switching Regulator",
+        "page": "https://dir.indiamart.com/impcat/switching-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/AR/GLADMIN-18911/switching-regulator-125x125.jpg"
+      },
+      {
+        "name": "IC Components",
+        "page": "https://dir.indiamart.com/impcat/ic-components.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/JR/GLADMIN-52942/ic-components-125x125.jpg"
+      },
+      {
+        "name": "IC Socket",
+        "page": "https://dir.indiamart.com/impcat/ic-socket.html",
+        "thumbnail": "http://3.imimg.com/data3/NI/VY/GLADMIN-30760/ic-socket-125x125.jpg"
+      },
+      {
+        "name": "Memory IC",
+        "page": "https://dir.indiamart.com/impcat/memory-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/UP/GLADMIN-52945/memory-ic-125x125.jpg"
+      },
+      {
+        "name": "EEPROM IC",
+        "page": "https://dir.indiamart.com/impcat/eeprom-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/ON/GZ/TG/GLADMIN-68155/eeprom-ic-125x125.jpg"
+      },
+      {
+        "name": "XBEE Modules",
+        "page": "https://dir.indiamart.com/impcat/xbee-modules.html",
+        "thumbnail": "http://5.imimg.com/data5/SE/NA/MF/GLADMIN-68155/xbee-modules-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Chip",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-chip.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/GM/GLADMIN-14631/bluetooth-chip-125x125.jpg"
+      },
+      {
+        "name": "Linear Voltage Regulator",
+        "page": "https://dir.indiamart.com/impcat/linear-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/SY/NI/GLADMIN-17166/linear-regulator-125x125.jpg"
+      },
+      {
+        "name": "Field Programmable Gate Array",
+        "page": "https://dir.indiamart.com/impcat/field-programmable-gate-array.html",
+        "thumbnail": "http://3.imimg.com/data3/JO/LP/GLADMIN-118720/field-programmable-gate-array-125x125.jpg"
+      },
+      {
+        "name": "Video IC",
+        "page": "https://dir.indiamart.com/impcat/video-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/LD/PX/GLADMIN-19978/video-ic-125x125.jpg"
+      },
+      {
+        "name": "Interface IC",
+        "page": "https://dir.indiamart.com/impcat/interface-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/OL/MY-2/interface-ic-125x125.jpg"
+      },
+      {
+        "name": "DC Motor Driver IC",
+        "page": "https://dir.indiamart.com/impcat/dc-motor-driver-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/IM/GLADMIN-13274/dc-motor-driver-ic-125x125.jpg"
+      },
+      {
+        "name": "ZigBee Chip",
+        "page": "https://dir.indiamart.com/impcat/zigbee-chip.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/HY/GLADMIN-20271/zigbee-chip-125x125.jpg"
+      },
+      {
+        "name": "DIP Sockets",
+        "page": "https://dir.indiamart.com/impcat/dip-sockets.html",
+        "thumbnail": "http://3.imimg.com/data3/HM/FR/GLADMIN-26521/dip-sockets-125x125.jpg"
+      },
+      {
+        "name": "QAM Modulator",
+        "page": "https://dir.indiamart.com/impcat/qam-modulator.html",
+        "thumbnail": "http://5.imimg.com/data5/IC/FD/DX/GLADMIN-76441/qam-modulator-125x125.jpg"
+      },
+      {
+        "name": "Communication IC",
+        "page": "https://dir.indiamart.com/impcat/communication-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/SU/GLADMIN-13195/communication-ic-125x125.jpg"
+      },
+      {
+        "name": "Stepper Motor Driver IC",
+        "page": "https://dir.indiamart.com/impcat/stepper-motor-driver-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/IP/GLADMIN-18795/stepper-motor-driver-ic-125x125.jpg"
+      },
+      {
+        "name": "Programmable IC",
+        "page": "https://dir.indiamart.com/impcat/programmable-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/DM/GLADMIN-35822/programmable-ic-125x125.jpg"
+      },
+      {
+        "name": "RS 485 interface IC",
+        "page": "https://dir.indiamart.com/impcat/rs-485-interface-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/PV/ZD/XX/GLADMIN-68155/rs-485-interface-ic-125x125.jpg"
+      },
+      {
+        "name": "Sensor IC",
+        "page": "https://dir.indiamart.com/impcat/sensor-ic.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/KB/GLADMIN-18036/sensor-ic-125x125.jpg"
+      },
+      {
+        "name": "LED Display Driver IC",
+        "page": "https://dir.indiamart.com/impcat/led-display-driver-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411808768/OE/WQ/WR/91810/led-display-driver-ic-125x125.jpg"
+      },
+      {
+        "name": "SRAM IC",
+        "page": "https://dir.indiamart.com/impcat/sram-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/OA/RO/CK/GLADMIN-68155/sram-ic-125x125.png"
+      },
+      {
+        "name": "Counter IC",
+        "page": "https://dir.indiamart.com/impcat/counter-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/WF/GQ/OD/GLADMIN-68155/counter-ic-125x125.jpg"
+      },
+      {
+        "name": "Energy Metering IC",
+        "page": "https://dir.indiamart.com/impcat/energy-metering-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/TW/CH/TD/GLADMIN-68155/energy-metering-ic-125x125.jpg"
+      },
+      {
+        "name": "Active Components",
+        "page": "https://dir.indiamart.com/impcat/active-components.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/BP/GLADMIN-52934/active-components-125x125.jpg"
+      },
+      {
+        "name": "Low Dropout Regulator",
+        "page": "https://dir.indiamart.com/impcat/low-drop-out-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/NB/GLADMIN-17228/low-drop-out-regulator-125x125.jpg"
+      },
+      {
+        "name": "Digital Isolators",
+        "page": "https://dir.indiamart.com/impcat/digital-isolators.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411803094/IY/XL/SA/91810/digital-isolators-125x125.png"
+      },
+      {
+        "name": "RF Switch IC",
+        "page": "https://dir.indiamart.com/impcat/rf-switch-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/RY/LW/LV/GLADMIN-68155/rf-switch-ic-125x125.jpg"
+      },
+      {
+        "name": "Digital Potentiometer IC",
+        "page": "https://dir.indiamart.com/impcat/digital-potentiometer-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/HW/QY/IH/GLADMIN-68155/digital-potentiometer-ic-125x125.jpg"
+      },
+      {
+        "name": "Wireless Charging IC",
+        "page": "https://dir.indiamart.com/impcat/wireless-charging-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/XH/HL/QY/GLADMIN-68155/wireless-charging-ic-125x125.png"
+      },
+      {
+        "name": "Linear Integrated Circuit",
+        "page": "https://dir.indiamart.com/impcat/linear-integrated-circuit.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/BS/GLADMIN-121187/linear-integrated-circuit-125x125.jpg"
+      },
+      {
+        "name": "Discrete Semiconductor",
+        "page": "https://dir.indiamart.com/impcat/discrete-semiconductor.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/UA/MY-2/discrete-semiconductor-125x125.jpg"
+      },
+      {
+        "name": "Encoder IC",
+        "page": "https://dir.indiamart.com/impcat/encoder-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/QU/ST/GU/GLADMIN-68155/encoder-ic-125x125.jpg"
+      },
+      {
+        "name": "Flip Flop IC",
+        "page": "https://dir.indiamart.com/impcat/flip-flop-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/VC/PS/FM/GLADMIN-68155/flip-flop-ic-125x125.jpg"
+      },
+      {
+        "name": "LCD Driver IC",
+        "page": "https://dir.indiamart.com/impcat/lcd-driver-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/KJ/XT/LV/GLADMIN-68155/lcd-driver-ic-125x125.png"
+      },
+      {
+        "name": "Multiplexer IC",
+        "page": "https://dir.indiamart.com/impcat/multiplexer-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/ZK/VV/SJ/GLADMIN-68155/multiplexer-ic-125x125.jpg"
+      },
+      {
+        "name": "Sensor interface IC",
+        "page": "https://dir.indiamart.com/impcat/sensor-interface-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/YZ/MM/FS/GLADMIN-68155/sensor-interface-ic-125x125.jpg"
+      },
+      {
+        "name": "IC Lead Straightener",
+        "page": "https://dir.indiamart.com/impcat/ic-lead-straightener.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/JU/GLADMIN-123901/ic-lead-straightener-125x125.jpg"
+      },
+      {
+        "name": "CAN Interface IC",
+        "page": "https://dir.indiamart.com/impcat/can-interface-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/QZ/WC/ZB/GLADMIN-68155/can-interface-ic-125x125.png"
+      },
+      {
+        "name": "Demultiplexer IC",
+        "page": "https://dir.indiamart.com/impcat/demultiplexer-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/DQ/IG/DG/GLADMIN-68155/demultiplexer-ic-125x125.jpg"
+      },
+      {
+        "name": "Multichannel DAC",
+        "page": "https://dir.indiamart.com/impcat/multichannel-dac.html",
+        "thumbnail": "http://5.imimg.com/data5/PG/AL/XY/GLADMIN-68155/multichannel-dac-125x125.jpg"
+      },
+      {
+        "name": "Motor Controller IC",
+        "page": "https://dir.indiamart.com/impcat/motor-controller-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/BL/HR/GLADMIN-68155/motor-controller-ic-125x125.jpg"
+      },
+      {
+        "name": "NOR Flash IC",
+        "page": "https://dir.indiamart.com/impcat/nor-flash-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411806099/LV/EF/MW/91810/nor-flash-ic-125x125.jpg"
+      },
+      {
+        "name": "DRAM IC",
+        "page": "https://dir.indiamart.com/impcat/dram-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/HU/PR/NU/GLADMIN-68155/dram-ic-125x125.jpg"
+      },
+      {
+        "name": "PLCC Socket",
+        "page": "https://dir.indiamart.com/impcat/plcc-socket.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/OR/GLADMIN-53355/plcc-socket-125x125.jpg"
+      },
+      {
+        "name": "Microwave Integrated Circuits",
+        "page": "https://dir.indiamart.com/impcat/microwave-integrated-circuits.html",
+        "thumbnail": "http://3.imimg.com/data3/KX/TL/GLADMIN-33545/microwave-integrated-circuits-125x125.jpg"
+      },
+      {
+        "name": "Decoder IC",
+        "page": "https://dir.indiamart.com/impcat/decoder-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/TX/OF/UO/GLADMIN-68155/decoder-ic-125x125.jpg"
+      },
+      {
+        "name": "I/O Controller Interface IC",
+        "page": "https://dir.indiamart.com/impcat/i-o-controller-interface-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/KV/VI/UI/GLADMIN-68155/i-o-controller-interface-ic-125x125.jpg"
+      },
+      {
+        "name": "Programmable Logic Device",
+        "page": "https://dir.indiamart.com/impcat/programmable-logic-device.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/PO/GLADMIN-18348/programmable-logic-device-125x125.jpg"
+      },
+      {
+        "name": "Positive Voltage Regulator",
+        "page": "https://dir.indiamart.com/impcat/positive-voltage-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/UG/LB/GLADMIN-18272/positive-voltage-regulator-125x125.jpg"
+      },
+      {
+        "name": "USB Interface IC",
+        "page": "https://dir.indiamart.com/impcat/usb-interface-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/SY/OL/IG/GLADMIN-68155/usb-interface-ic-125x125.jpg"
+      },
+      {
+        "name": "Voltage Detector IC",
+        "page": "https://dir.indiamart.com/impcat/voltage-detector-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/HB/EZ/CI/GLADMIN-68155/voltage-detector-ic-125x125.jpg"
+      },
+      {
+        "name": "Current Regulator IC",
+        "page": "https://dir.indiamart.com/impcat/current-regulator-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/KU/PZ/SR/GLADMIN-68155/current-regulator-ic-125x125.jpg"
+      },
+      {
+        "name": "UART interface IC",
+        "page": "https://dir.indiamart.com/impcat/uart-interface-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/WX/AC/IE/GLADMIN-68155/uart-interface-ic-125x125.jpg"
+      },
+      {
+        "name": "Copier Chip",
+        "page": "https://dir.indiamart.com/impcat/copier-chip.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/SE/GLADMIN-52935/copier-chip-125x125.jpg"
+      },
+      {
+        "name": "Touchscreen Controller IC",
+        "page": "https://dir.indiamart.com/impcat/touchscreen-controller-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/QH/YA/HG/GLADMIN-68155/touchscreen-controller-ic-125x125.jpg"
+      },
+      {
+        "name": "Power Monitor IC",
+        "page": "https://dir.indiamart.com/impcat/power-monitor-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/DQ/ZN/SD/GLADMIN-68155/power-monitor-ic-125x125.jpg"
+      },
+      {
+        "name": "RF Microcontrollers",
+        "page": "https://dir.indiamart.com/impcat/rf-microcontrollers.html",
+        "thumbnail": "http://5.imimg.com/data5/CH/UR/VU/GLADMIN-68155/rf-microcontrollers-125x125.jpg"
+      },
+      {
+        "name": "Microphone preamplifier IC",
+        "page": "https://dir.indiamart.com/impcat/microphone-preamplifier-ic.html",
+        "thumbnail": "http://5.imimg.com/data5/SY/UZ/XZ/GLADMIN-68155/microphone-preamplifier-ic-125x125.jpg"
+      },
+      {
+        "name": "Complex Programmable Logic Device",
+        "page": "https://dir.indiamart.com/impcat/complex-programmable-logic-device.html",
+        "thumbnail": "http://5.imimg.com/data5/GR/NH/QS/GLADMIN-68155/complex-programmable-logic-device-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Transistors",
+    "category_thumbnail": "http://3.imimg.com/data3/EY/TK/GLADMIN-480/transistors-125x125.png",
+    "items": [
+      {
+        "name": "Power MOSFET Module",
+        "page": "https://dir.indiamart.com/impcat/power-mosfets.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/OG/GLADMIN-35702/power-mosfets-125x125.jpg"
+      },
+      {
+        "name": "MOSFET Transistor",
+        "page": "https://dir.indiamart.com/impcat/mosfet-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/GL/GLADMIN-33309/mosfet-transistor-125x125.jpg"
+      },
+      {
+        "name": "Power Transistor",
+        "page": "https://dir.indiamart.com/impcat/power-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/BF/EJ/GLADMIN-18310/power-transistor-125x125.jpg"
+      },
+      {
+        "name": "IGBT Transistors",
+        "page": "https://dir.indiamart.com/impcat/igbt-transistors.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/KG/GLADMIN-30632/igbt-transistors-125x125.jpg"
+      },
+      {
+        "name": "SMD Transistor",
+        "page": "https://dir.indiamart.com/impcat/smd-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/XL/HU/GLADMIN-37272/smd-transistor-125x125.jpg"
+      },
+      {
+        "name": "NPN Transistor",
+        "page": "https://dir.indiamart.com/impcat/npn-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/GN/GG/GLADMIN-52946/npn-transistor-125x125.jpg"
+      },
+      {
+        "name": "TRIAC",
+        "page": "https://dir.indiamart.com/impcat/triac.html",
+        "thumbnail": "http://4.imimg.com/data4/QQ/OW/GLADMIN-179588/triac-125x125.jpg"
+      },
+      {
+        "name": "Bipolar Transistors",
+        "page": "https://dir.indiamart.com/impcat/bipolar-transistors.html",
+        "thumbnail": "http://3.imimg.com/data3/CY/QM/GLADMIN-49821/bipolar-transistors-125x125.jpg"
+      },
+      {
+        "name": "Transistor Parts",
+        "page": "https://dir.indiamart.com/impcat/transistor-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/AS/GLADMIN-117968/transistor-parts-125x125.jpg"
+      },
+      {
+        "name": "PNP Transistor",
+        "page": "https://dir.indiamart.com/impcat/pnp-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/WU/UF/GLADMIN-84539/pnp-transistor-125x125.jpg"
+      },
+      {
+        "name": "RF Transistors",
+        "page": "https://dir.indiamart.com/impcat/rf-transistors.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/AB/GLADMIN-36398/rf-transistors-125x125.jpg"
+      },
+      {
+        "name": "Silicon Transistors",
+        "page": "https://dir.indiamart.com/impcat/silicon-transistors.html",
+        "thumbnail": "http://4.imimg.com/data4/EE/EE/GLADMIN-/silicon-transistors-125x125.jpg"
+      },
+      {
+        "name": "Darlington Transistor",
+        "page": "https://dir.indiamart.com/impcat/darlington-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/GR/QY/GLADMIN-13260/darlington-transistor-125x125.jpg"
+      },
+      {
+        "name": "Phototransistor",
+        "page": "https://dir.indiamart.com/impcat/phototransistor.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/RQ/GLADMIN-149796/phototransistor-125x125.jpg"
+      },
+      {
+        "name": "BJT Transistors",
+        "page": "https://dir.indiamart.com/impcat/bjt-transistors.html",
+        "thumbnail": "http://5.imimg.com/data5/BG/DJ/IS/GLADMIN-68155/bjt-transistors-125x125.jpg"
+      },
+      {
+        "name": "High Voltage Transistor",
+        "page": "https://dir.indiamart.com/impcat/high-voltage-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/XO/GLADMIN-52941/high-voltage-transistor-125x125.jpg"
+      },
+      {
+        "name": "RF MOSFETs",
+        "page": "https://dir.indiamart.com/impcat/rf-mosfets.html",
+        "thumbnail": "http://3.imimg.com/data3/BU/WS/GLADMIN-36389/rf-mosfets-125x125.jpg"
+      },
+      {
+        "name": "JFET Transistor",
+        "page": "https://dir.indiamart.com/impcat/jfet-transistor.html",
+        "thumbnail": "http://5.imimg.com/data5/UP/OJ/QT/GLADMIN-68155/jfet-transistor-125x125.jpg"
+      },
+      {
+        "name": "Voltage Transistor",
+        "page": "https://dir.indiamart.com/impcat/voltage-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/TF/FM/GLADMIN-40850/voltage-transistor-125x125.jpg"
+      },
+      {
+        "name": "Switching Transistor",
+        "page": "https://dir.indiamart.com/impcat/switching-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/HX/GLADMIN-39322/switching-transistor-125x125.jpg"
+      },
+      {
+        "name": "Small Signal Transistors",
+        "page": "https://dir.indiamart.com/impcat/small-signal-transistors.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/KD/GLADMIN-37260/small-signal-transistors-125x125.jpg"
+      },
+      {
+        "name": "Transistor Modules",
+        "page": "https://dir.indiamart.com/impcat/transistor-modules.html",
+        "thumbnail": "http://5.imimg.com/data5/NR/OS/DV/GLADMIN-65832/transistor-modules-125x125.jpg"
+      },
+      {
+        "name": "Field Effect Transistors",
+        "page": "https://dir.indiamart.com/impcat/field-effect-transistors.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/XN/GLADMIN-27444/field-effect-transistors-125x125.jpg"
+      },
+      {
+        "name": "Integrated Bipolar Transistor",
+        "page": "https://dir.indiamart.com/impcat/integrated-bipolar-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/VD/GLADMIN-126351/integrated-bipolar-transistor-125x125.jpg"
+      },
+      {
+        "name": "Dual Transistor",
+        "page": "https://dir.indiamart.com/impcat/dual-transistor.html",
+        "thumbnail": "http://3.imimg.com/data3/LK/NE/GLADMIN-26970/dual-transistor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Light Emitting Diode",
+    "category_thumbnail": "http://3.imimg.com/data3/XB/KH/GLADMIN-105874/light-emitting-diode-125x125.jpg",
+    "items": [
+      {
+        "name": "LED Module",
+        "page": "https://dir.indiamart.com/impcat/led-module.html",
+        "thumbnail": "http://3.imimg.com/data3/HK/JU/GLADMIN-99748/led-module-125x125.jpg"
+      },
+      {
+        "name": "SMD LED",
+        "page": "https://dir.indiamart.com/impcat/smd-led.html",
+        "thumbnail": "http://3.imimg.com/data3/OY/BL/GLADMIN-37265/smd-led-125x125.jpg"
+      },
+      {
+        "name": "RGB LED",
+        "page": "https://dir.indiamart.com/impcat/rgb-led.html",
+        "thumbnail": "http://3.imimg.com/data3/OP/DE/GLADMIN-18611/rgb-led-125x125.jpg"
+      },
+      {
+        "name": "LED Chip",
+        "page": "https://dir.indiamart.com/impcat/led-chip.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/HR/GLADMIN-30614/led-chip-125x125.jpg"
+      },
+      {
+        "name": "High Power LED",
+        "page": "https://dir.indiamart.com/impcat/power-led.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/EE/GLADMIN-35696/power-led-125x125.jpg"
+      },
+      {
+        "name": "IPM Modules",
+        "page": "https://dir.indiamart.com/impcat/ipm-modules.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/412316981/LN/AQ/JI/91810/ipm-modules-125x125.jpg"
+      },
+      {
+        "name": "White LED",
+        "page": "https://dir.indiamart.com/impcat/white-led.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/MH/GLADMIN-20138/white-led-125x125.jpg"
+      },
+      {
+        "name": "Red LED",
+        "page": "https://dir.indiamart.com/impcat/red-led.html",
+        "thumbnail": "http://3.imimg.com/data3/SB/VK/GLADMIN-18528/red-led-125x125.jpg"
+      },
+      {
+        "name": "Ultraviolet LED",
+        "page": "https://dir.indiamart.com/impcat/ultraviolet-led.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/GP/GLADMIN-20102/ultraviolet-led-125x125.jpg"
+      },
+      {
+        "name": "Bi-color LED",
+        "page": "https://dir.indiamart.com/impcat/bi-color-led.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/NG/GLADMIN-14573/bi-color-led-125x125.jpg"
+      },
+      {
+        "name": "DIP LED",
+        "page": "https://dir.indiamart.com/impcat/dip-led.html",
+        "thumbnail": "http://3.imimg.com/data3/WE/JY/GLADMIN-77971/dip-led-125x125.jpg"
+      },
+      {
+        "name": "Green LED",
+        "page": "https://dir.indiamart.com/impcat/green-led.html",
+        "thumbnail": "http://3.imimg.com/data3/UQ/XH/GLADMIN-15940/green-led-125x125.jpg"
+      },
+      {
+        "name": "Infrared LED",
+        "page": "https://dir.indiamart.com/impcat/infrared-led.html",
+        "thumbnail": "http://3.imimg.com/data3/GI/PI/GLADMIN-15700/infrared-led-125x125.jpg"
+      },
+      {
+        "name": "Yellow LED",
+        "page": "https://dir.indiamart.com/impcat/yellow-led.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/MU/GLADMIN-20388/yellow-led-125x125.jpg"
+      },
+      {
+        "name": "Surface Mount LED",
+        "page": "https://dir.indiamart.com/impcat/surface-mount-led.html",
+        "thumbnail": "http://3.imimg.com/data3/GC/SS/GLADMIN-18877/surface-mount-led-125x125.jpg"
+      },
+      {
+        "name": "Blue LED",
+        "page": "https://dir.indiamart.com/impcat/blue-led.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/CS/GLADMIN-14628/blue-led-125x125.jpg"
+      },
+      {
+        "name": "Integrated Protection Module",
+        "page": "https://dir.indiamart.com/impcat/integrated-protection-module.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/HD/GLADMIN-173421/integrated-protection-module-125x125.jpg"
+      },
+      {
+        "name": "IR Emitter",
+        "page": "https://dir.indiamart.com/impcat/ir-emitter.html",
+        "thumbnail": "http://3.imimg.com/data3/AS/BT/GLADMIN-/s-accessor-8015589r-ir-dongle-125x125.jpg"
+      },
+      {
+        "name": "LED Array",
+        "page": "https://dir.indiamart.com/impcat/led-array.html",
+        "thumbnail": "http://3.imimg.com/data3/SF/XK/GLADMIN-17090/led-array-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Thyristors",
+    "category_thumbnail": "http://3.imimg.com/data3/AE/RG/GLADMIN-479/thyristors-125x125.jpg",
+    "items": [
+      {
+        "name": "IGBT Modules",
+        "page": "https://dir.indiamart.com/impcat/igbt-modules.html",
+        "thumbnail": "http://3.imimg.com/data3/QN/AA/GLADMIN-30631/igbt-modules-125x125.jpg"
+      },
+      {
+        "name": "Power Modules",
+        "page": "https://dir.indiamart.com/impcat/power-modules.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/EH/GLADMIN-7260/power-modules-125x125.jpg"
+      },
+      {
+        "name": "Thyristor Module",
+        "page": "https://dir.indiamart.com/impcat/thyristor-module.html",
+        "thumbnail": "http://3.imimg.com/data3/QN/UR/GLADMIN-160182/thyristor-module-125x125.jpg"
+      },
+      {
+        "name": "Power Regulator",
+        "page": "https://dir.indiamart.com/impcat/power-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/GJ/CJ/GLADMIN-35707/power-regulator-125x125.jpg"
+      },
+      {
+        "name": "Thyristor Power Regulator",
+        "page": "https://dir.indiamart.com/impcat/thyristor-power-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/UL/GLADMIN-142042/thyristor-power-regulator-125x125.jpg"
+      },
+      {
+        "name": "Capsule Thyristor",
+        "page": "https://dir.indiamart.com/impcat/capsule-thyristor.html",
+        "thumbnail": "http://4.imimg.com/data4/LE/LU/GLADMIN-2/capsule-thyristor-125x125.jpg"
+      },
+      {
+        "name": "Thyristor Switch",
+        "page": "https://dir.indiamart.com/impcat/thyristor-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/JI/GLADMIN-154322/thyristor-switch-125x125.jpg"
+      },
+      {
+        "name": "Phase Control Thyristor",
+        "page": "https://dir.indiamart.com/impcat/phase-control-thyristor.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/QW/GLADMIN-16538/phase-control-thyristor-125x125.jpg"
+      },
+      {
+        "name": "GTO Thyristor",
+        "page": "https://dir.indiamart.com/impcat/gto-thyristor.html",
+        "thumbnail": "http://3.imimg.com/data3/NX/HM/GLADMIN-15959/gto-thyristor-125x125.jpg"
+      },
+      {
+        "name": "High Power Thyristors",
+        "page": "https://dir.indiamart.com/impcat/high-power-thyristors.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/DF/GLADMIN-30317/high-power-thyristors-125x125.jpg"
+      },
+      {
+        "name": "Stud Thyristor",
+        "page": "https://dir.indiamart.com/impcat/stud-thyristor.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/ES/GLADMIN-52949/stud-thyristor-125x125.jpg"
+      },
+      {
+        "name": "Thyristor Firing Device",
+        "page": "https://dir.indiamart.com/impcat/thyristor-device.html",
+        "thumbnail": "http://5.imimg.com/data5/NK/CV/GE/GLADMIN-53207/thyristor-firing-device-125x125.jpg"
+      },
+      {
+        "name": "DIAC Thyristor",
+        "page": "https://dir.indiamart.com/impcat/diac-thyristor.html",
+        "thumbnail": "http://5.imimg.com/data5/UX/RU/AF/GLADMIN-68155/diac-thyristor-125x125.jpg"
+      },
+      {
+        "name": "Inverter Thyristor",
+        "page": "https://dir.indiamart.com/impcat/inverter-thyristor.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/OE/GLADMIN-31067/inverter-thyristor-125x125.jpg"
+      },
+      {
+        "name": "Fast Switching Thyristor",
+        "page": "https://dir.indiamart.com/impcat/fast-switching-thyristor.html",
+        "thumbnail": "http://3.imimg.com/data3/AN/PR/GLADMIN-12243/fast-switching-thyristor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diodes",
+    "category_thumbnail": "http://3.imimg.com/data3/AF/LB/GLADMIN-473/diodes-125x125.jpg",
+    "items": [
+      {
+        "name": "Rectifier Diodes",
+        "page": "https://dir.indiamart.com/impcat/rectifier-diodes.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/JQ/GLADMIN-8059/rectifier-diodes-125x125.jpg"
+      },
+      {
+        "name": "Laser Diode",
+        "page": "https://dir.indiamart.com/impcat/laser-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/NA/MY-2/laser-diode-125x125.jpg"
+      },
+      {
+        "name": "Power Diode",
+        "page": "https://dir.indiamart.com/impcat/power-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/KV/PQ/GLADMIN-18293/power-diode-125x125.jpg"
+      },
+      {
+        "name": "Schottky Diode",
+        "page": "https://dir.indiamart.com/impcat/schottky-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/EG/PP/GLADMIN-17954/schottky-diode-125x125.jpg"
+      },
+      {
+        "name": "Diode Module",
+        "page": "https://dir.indiamart.com/impcat/diode-module.html",
+        "thumbnail": "http://5.imimg.com/data5/HE/VD/OA/GLADMIN-53207/diode-module-125x125.jpg"
+      },
+      {
+        "name": "SMD Diode",
+        "page": "https://dir.indiamart.com/impcat/smd-diode.html",
+        "thumbnail": "http://5.imimg.com/data5/MB/US/XC/GLADMIN-68087/smd-diode-125x125.jpg"
+      },
+      {
+        "name": "Zener Diode",
+        "page": "https://dir.indiamart.com/impcat/zener-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/LL/RM/GLADMIN-20393/zener-diode-125x125.jpg"
+      },
+      {
+        "name": "Laser Diode Module",
+        "page": "https://dir.indiamart.com/impcat/laser-diode-module.html",
+        "thumbnail": "http://3.imimg.com/data3/NW/SW/GLADMIN-31554/laser-diode-module-125x125.jpg"
+      },
+      {
+        "name": "Fast Recovery Diode",
+        "page": "https://dir.indiamart.com/impcat/fast-recovery-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/EY/GLADMIN-12388/fast-recovery-diode-125x125.jpg"
+      },
+      {
+        "name": "TVS Diodes",
+        "page": "https://dir.indiamart.com/impcat/tvs-diodes.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/GK/GLADMIN-40300/tvs-diodes-125x125.jpg"
+      },
+      {
+        "name": "Photodiode",
+        "page": "https://dir.indiamart.com/impcat/photodiode.html",
+        "thumbnail": "http://3.imimg.com/data3/KQ/BT/GLADMIN-34282/photodiode-125x125.jpg"
+      },
+      {
+        "name": "Capsule Diode",
+        "page": "https://dir.indiamart.com/impcat/capsule-diode.html",
+        "thumbnail": "http://4.imimg.com/data4/BL/IY/GLADMIN-179659/capsule-diode-125x125.jpg"
+      },
+      {
+        "name": "Stud Diode",
+        "page": "https://dir.indiamart.com/impcat/stud-diode.html",
+        "thumbnail": "http://4.imimg.com/data4/XF/XH/GLADMIN-179798/stud-diode-125x125.jpg"
+      },
+      {
+        "name": "High Voltage Diode",
+        "page": "https://dir.indiamart.com/impcat/high-voltage-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/YR/GLADMIN-99734/high-voltage-diode-125x125.jpg"
+      },
+      {
+        "name": "Silicon Diode",
+        "page": "https://dir.indiamart.com/impcat/silicon-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/LW/GLADMIN-43008/silicon-diode-125x125.jpg"
+      },
+      {
+        "name": "High Power Diodes",
+        "page": "https://dir.indiamart.com/impcat/high-power-diodes.html",
+        "thumbnail": "http://3.imimg.com/data3/VH/DG/GLADMIN-30315/high-power-diodes-125x125.jpg"
+      },
+      {
+        "name": "PIN Diodes",
+        "page": "https://dir.indiamart.com/impcat/pin-diodes.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/DF/GLADMIN-34368/pin-diodes-125x125.jpg"
+      },
+      {
+        "name": "Switching Diode",
+        "page": "https://dir.indiamart.com/impcat/switching-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/SA/GLADMIN-39317/switching-diode-125x125.jpg"
+      },
+      {
+        "name": "Varactor Diodes",
+        "page": "https://dir.indiamart.com/impcat/varactor-diodes.html",
+        "thumbnail": "http://3.imimg.com/data3/NN/HA/GLADMIN-40659/varactor-diodes-125x125.jpg"
+      },
+      {
+        "name": "Standard Recovery Diodes",
+        "page": "https://dir.indiamart.com/impcat/standard-diodes.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/TF/GLADMIN-52948/standard-diodes-125x125.jpg"
+      },
+      {
+        "name": "High Power Laser Diodes",
+        "page": "https://dir.indiamart.com/impcat/high-power-laser-diodes.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/NA/GLADMIN-30316/high-power-laser-diodes-125x125.jpg"
+      },
+      {
+        "name": "Gunn Diode",
+        "page": "https://dir.indiamart.com/impcat/gunn-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/FE/GLADMIN-15971/gunn-diode-125x125.jpg"
+      },
+      {
+        "name": "Tunnel Diode",
+        "page": "https://dir.indiamart.com/impcat/tunnel-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/ET/HA/GLADMIN-19532/tunnel-diode-125x125.jpg"
+      },
+      {
+        "name": "DIP Diode",
+        "page": "https://dir.indiamart.com/impcat/dip-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/AM/SB/GLADMIN-52939/dip-diode-125x125.jpg"
+      },
+      {
+        "name": "Microwave Diodes",
+        "page": "https://dir.indiamart.com/impcat/microwave-diodes.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/IJ/GLADMIN-33061/microwave-diodes-125x125.jpg"
+      },
+      {
+        "name": "Small Signal Diode",
+        "page": "https://dir.indiamart.com/impcat/small-signal-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/QS/GLADMIN-37259/small-signal-diode-125x125.jpg"
+      },
+      {
+        "name": "Diode Plates",
+        "page": "https://dir.indiamart.com/impcat/diode-plates.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/DF/GLADMIN-11629/diode-plates-125x125.jpg"
+      },
+      {
+        "name": "Current Regulator Diodes",
+        "page": "https://dir.indiamart.com/impcat/current-regulator-diodes.html",
+        "thumbnail": "http://5.imimg.com/data5/NC/HB/CY/GLADMIN-68155/current-regulator-diodes-125x125.jpg"
+      },
+      {
+        "name": "Laser Diode Driver",
+        "page": "https://dir.indiamart.com/impcat/laser-diode-driver.html",
+        "thumbnail": "http://3.imimg.com/data3/HM/GU/GLADMIN-166066/laser-diode-driver-125x125.jpg"
+      },
+      {
+        "name": "Barrier Rectifier Diode",
+        "page": "https://dir.indiamart.com/impcat/barrier-rectifier-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/AE/GLADMIN-99731/barrier-rectifier-diode-125x125.jpg"
+      },
+      {
+        "name": "Axial Diode",
+        "page": "https://dir.indiamart.com/impcat/axial-diode.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/WC/GLADMIN-49816/axial-diode-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Microcontroller",
+    "category_thumbnail": "http://3.imimg.com/data3/VG/WS/GLADMIN-9023/microcontroller-125x125.jpg",
+    "items": [
+      {
+        "name": "Microchips",
+        "page": "https://dir.indiamart.com/impcat/microchips.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/KR/GLADMIN-113774/microchips-125x125.jpg"
+      },
+      {
+        "name": "Microcontroller Programmer",
+        "page": "https://dir.indiamart.com/impcat/microcontroller-programmer.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/EI/GLADMIN-166861/microcontroller-programmer-125x125.jpg"
+      },
+      {
+        "name": "Programmable Microcontroller",
+        "page": "https://dir.indiamart.com/impcat/programmable-microcontroller.html",
+        "thumbnail": "http://3.imimg.com/data3/CD/WE/GLADMIN-18349/programmable-microcontroller-125x125.jpg"
+      },
+      {
+        "name": "Flash Microcontroller",
+        "page": "https://dir.indiamart.com/impcat/flash-microcontroller.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/CF/GLADMIN-12377/flash-microcontroller-125x125.jpg"
+      },
+      {
+        "name": "RISC Microcontroller",
+        "page": "https://dir.indiamart.com/impcat/risc-microcontroller.html",
+        "thumbnail": "http://3.imimg.com/data3/TY/PQ/GLADMIN-17482/risc-microcontroller-125x125.jpg"
+      },
+      {
+        "name": "RF Microcontrollers",
+        "page": "https://dir.indiamart.com/impcat/rf-microcontrollers.html",
+        "thumbnail": "http://5.imimg.com/data5/CH/UR/VU/GLADMIN-68155/rf-microcontrollers-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Optocoupler",
+    "category_thumbnail": "http://3.imimg.com/data3/TK/UO/GLADMIN-17471/optocoupler-125x125.jpg",
+    "items": [
+      {
+        "name": "Semiconductors",
+        "page": "https://dir.indiamart.com/impcat/semiconductors.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/EO/GLADMIN-478/semiconductors-125x125.jpg"
+      },
+      {
+        "name": "Transistor output optocoupler",
+        "page": "https://dir.indiamart.com/impcat/transistor-output-optocoupler.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/TV/PM/GLADMIN-68155/transistor-output-optocoupler-125x125.jpg"
+      },
+      {
+        "name": "Triac Output optocoupler",
+        "page": "https://dir.indiamart.com/impcat/triac-output-optocoupler.html",
+        "thumbnail": "http://5.imimg.com/data5/JH/FT/JT/GLADMIN-68155/triac-output-optocoupler-125x125.jpg"
+      },
+      {
+        "name": "High speed optocoupler",
+        "page": "https://dir.indiamart.com/impcat/high-speed-optocoupler.html",
+        "thumbnail": "http://5.imimg.com/data5/XJ/VB/VG/GLADMIN-68155/high-speed-optocoupler-125x125.jpg"
+      },
+      {
+        "name": "Logic output optocoupler",
+        "page": "https://dir.indiamart.com/impcat/logic-output-optocoupler.html",
+        "thumbnail": "http://5.imimg.com/data5/RH/RC/YB/GLADMIN-68155/logic-output-optocoupler-125x125.png"
+      }
+    ]
+  }
+]

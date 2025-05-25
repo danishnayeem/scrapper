@@ -1,0 +1,59 @@
+[
+  {
+    "category_name": "Law Consultancy Service",
+    "category_thumbnail": "http://3.imimg.com/data3/KE/YX/GLADMIN-172491/law-consultancy-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Labour Law Registrations",
+        "page": "https://dir.indiamart.com/impcat/labour-law-registrations.html",
+        "thumbnail": "http://3.imimg.com/data3/EB/QY/GLADMIN-174027/labour-law-registrations-125x125.jpg"
+      },
+      {
+        "name": "Labour Law Services",
+        "page": "https://dir.indiamart.com/impcat/labour-law-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/AX/GLADMIN-43037/labour-law-services-125x125.jpg"
+      },
+      {
+        "name": "Labour Laws Consultant",
+        "page": "https://dir.indiamart.com/impcat/labour-laws-consultant.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/WP/GLADMIN-169426/labour-laws-consultant-125x125.jpg"
+      },
+      {
+        "name": "Corporate Law Services",
+        "page": "https://dir.indiamart.com/impcat/corporate-law-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LV/PS/GLADMIN-43039/corporate-law-services-125x125.jpg"
+      },
+      {
+        "name": "Company Law",
+        "page": "https://dir.indiamart.com/impcat/company-law.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/UL/GLADMIN-25460/company-law-125x125.jpg"
+      },
+      {
+        "name": "Company Law Consultant",
+        "page": "https://dir.indiamart.com/impcat/company-law-consultant.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/OU/GLADMIN-148211/company-law-consultant-125x125.jpg"
+      },
+      {
+        "name": "Employment Law Services",
+        "page": "https://dir.indiamart.com/impcat/employment-law-services.html",
+        "thumbnail": "http://3.imimg.com/data3/QS/JL/GLADMIN-171714/employment-law-services-125x125.jpg"
+      },
+      {
+        "name": "Contract Labour Regulation Service",
+        "page": "https://dir.indiamart.com/impcat/contract-labour-regulation-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/MS/GLADMIN-174626/contract-labour-regulation-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Compliance Service",
+        "page": "https://dir.indiamart.com/impcat/compliance-service.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/ML/GLADMIN-89662/compliance-service-125x125.jpg"
+      }
+    ]
+  }
+]

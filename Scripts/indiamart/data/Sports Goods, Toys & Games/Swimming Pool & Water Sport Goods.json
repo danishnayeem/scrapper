@@ -1,0 +1,861 @@
+[
+  {
+    "category_name": "Swimming Pool Chemicals",
+    "category_thumbnail": "http://3.imimg.com/data3/XH/EJ/GLADMIN-39171/swimming-pool-chemicals-125x125.jpg",
+    "items": [
+      {
+        "name": "Sodium Bicarbonate",
+        "page": "https://dir.indiamart.com/impcat/sodium-bicarbonate.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/NS/GLADMIN-36998/sodium-bicarbonate-125x125.jpg"
+      },
+      {
+        "name": "Bleaching Powder",
+        "page": "https://dir.indiamart.com/impcat/bleaching-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/FL/GLADMIN-4462/bleaching-powder-125x125.jpg"
+      },
+      {
+        "name": "Calcium Chloride",
+        "page": "https://dir.indiamart.com/impcat/calcium-chloride.html",
+        "thumbnail": "http://3.imimg.com/data3/UM/DB/GLADMIN-5466/calcium-chloride-125x125.jpg"
+      },
+      {
+        "name": "Trichloroisocyanuric Acid Tablet",
+        "page": "https://dir.indiamart.com/impcat/trichloroisocyanuric-acid.html",
+        "thumbnail": "http://4.imimg.com/data4/MN/LB/GLADMIN-19766/trichloroisocyanuric-acid-powder-125x125.jpg"
+      },
+      {
+        "name": "Sodium Bromide NaBr",
+        "page": "https://dir.indiamart.com/impcat/sodium-bromide.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/PW/GLADMIN-9589/sodium-bromide-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Chlorine",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-chlorine-powder-tcca-90.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/CR/FF/IE/86550/swimming-pool-chlorine-powder-tcca-90-125x125.jpg"
+      },
+      {
+        "name": "Muriatic Acid",
+        "page": "https://dir.indiamart.com/impcat/muriatic-acid.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/TN/GLADMIN-33687/muriatic-acid-125x125.jpg"
+      },
+      {
+        "name": "Algaecides Chemicals",
+        "page": "https://dir.indiamart.com/impcat/algaecides-chemicals.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/BX/GLADMIN-121374/algaecides-chemicals-125x125.jpg"
+      },
+      {
+        "name": "Sodium Bisulfate",
+        "page": "https://dir.indiamart.com/impcat/sodium-bisulfate.html",
+        "thumbnail": "http://3.imimg.com/data3/SS/CJ/GLADMIN-37282/sodium-bisulfate-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Algaecide",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-algaecide.html",
+        "thumbnail": "http://3.imimg.com/data3/YV/LD/GLADMIN-115726/swimming-pool-algaecide-125x125.jpg"
+      },
+      {
+        "name": "Sodium Dichloroisocyanurate",
+        "page": "https://dir.indiamart.com/impcat/sodium-dichloroisocyanurate.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/WI/GLADMIN-152886/sodium-dichloroisocyanurate-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Pool Accessories",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/443469526/HP/CN/RO/86550/swimmingpoolaccessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Telescopic Pole",
+        "page": "https://dir.indiamart.com/impcat/telescopic-pole.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/WG/GLADMIN-117168/telescopic-pole-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Lights",
+        "page": "https://dir.indiamart.com/impcat/pool-light.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/VA/GLADMIN-95634/pool-light-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Gratings",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-gratings.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/OK/GLADMIN-123997/swimming-pool-gratings-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Cover",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-cover.html",
+        "thumbnail": "http://5.imimg.com/data5/TL/XW/GLADMIN-2/swimming-pool-cover-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Slides",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-slides.html",
+        "thumbnail": "http://3.imimg.com/data3/WH/MR/GLADMIN-39181/swimming-pool-slides-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Ladders",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-ladders.html",
+        "thumbnail": "http://3.imimg.com/data3/UM/JO/GLADMIN-39177/swimming-pool-ladders-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Liners",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-liners.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/LJ/GLADMIN-39178/swimming-pool-liners-125x125.jpg"
+      },
+      {
+        "name": "LED Pool Light",
+        "page": "https://dir.indiamart.com/impcat/led-pool-light.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/WA/GLADMIN-95578/led-pool-light-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Fountain",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-fountain.html",
+        "thumbnail": "http://3.imimg.com/data3/IM/MB/GLADMIN-94711/swimming-pool-fountain-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Mats",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-mats.html",
+        "thumbnail": "http://3.imimg.com/data3/KK/QG/GLADMIN-53746/swimming-pool-mats-125x125.jpg"
+      },
+      {
+        "name": "Pontoon",
+        "page": "https://dir.indiamart.com/impcat/pontoon.html",
+        "thumbnail": "http://5.imimg.com/data5/FK/DC/GLADMIN-2/pontoon-125x125.gif"
+      },
+      {
+        "name": "Swimming Pool Vinyl Liners",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-vinyl-liners.html",
+        "thumbnail": "http://3.imimg.com/data3/AA/CX/GLADMIN-81319/swimming-pool-vinyl-liners-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Furniture",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-furniture.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/VQ/GLADMIN-81320/swimming-pool-furniture-125x125.jpg"
+      },
+      {
+        "name": "Pool Lane Divider",
+        "page": "https://dir.indiamart.com/impcat/pool-lane-divider.html",
+        "thumbnail": "http://4.imimg.com/data4/RE/KP/GLADMIN-2/pool-lane-divider-125x125.jpg"
+      },
+      {
+        "name": "Pool Umbrella",
+        "page": "https://dir.indiamart.com/impcat/pool-umbrella.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/XG/GLADMIN-137568/pool-umbrella-125x125.jpg"
+      },
+      {
+        "name": "Pool Accessory",
+        "page": "https://dir.indiamart.com/impcat/pool-accessory.html",
+        "thumbnail": "http://3.imimg.com/data3/OJ/RF/GLADMIN-35510/pool-accessory-125x125.jpg"
+      },
+      {
+        "name": "Pool Podium",
+        "page": "https://dir.indiamart.com/impcat/pool-podium.html",
+        "thumbnail": "http://4.imimg.com/data4/EK/UQ/GLADMIN-2/pool-podium-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Toys",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-toys.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/BQ/GLADMIN-50462/swimming-pool-toys-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Steps",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-steps.html",
+        "thumbnail": "http://3.imimg.com/data3/FX/SW/GLADMIN-81314/swimming-pool-steps-125x125.jpg"
+      },
+      {
+        "name": "Jacuzzi Jet System",
+        "page": "https://dir.indiamart.com/impcat/jacuzzi-jet-system.html",
+        "thumbnail": "http://3.imimg.com/data3/FM/FB/GLADMIN-122353/jacuzzi-jet-system-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Grab Rails",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-grab-rails.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/IV/GLADMIN-151142/swimming-pool-grab-rails-125x125.jpg"
+      },
+      {
+        "name": "Racing Lane",
+        "page": "https://dir.indiamart.com/impcat/racing-lane.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/VU/GLADMIN-162995/racing-lane-125x125.jpg"
+      },
+      {
+        "name": "Steel Swimming Pool Handrail",
+        "page": "https://dir.indiamart.com/impcat/steel-swimming-pool-handrail.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/AI/GLADMIN-148129/steel-swimming-pool-handrail-125x125.jpg"
+      },
+      {
+        "name": "Water Polo Goal Post",
+        "page": "https://dir.indiamart.com/impcat/water-polo-goal-post.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/JY/GLADMIN-164621/water-polo-goal-post-125x125.jpg"
+      },
+      {
+        "name": "Polypropylene Grating",
+        "page": "https://dir.indiamart.com/impcat/polypropylene-grating.html",
+        "thumbnail": "http://3.imimg.com/data3/RP/GI/GLADMIN-177619/polypropylene-grating-125x125.jpg"
+      },
+      {
+        "name": "Water Sports Accessories",
+        "page": "https://dir.indiamart.com/impcat/water-sports-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/EK/EU/GLADMIN-117439/water-sports-accessories-125x125.jpg"
+      },
+      {
+        "name": "Pool Lighting Fixture",
+        "page": "https://dir.indiamart.com/impcat/pool-lighting-fixture.html",
+        "thumbnail": "http://3.imimg.com/data3/BQ/KM/GLADMIN-18193/pool-lighting-fixture-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Thermometer",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-thermometer.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/RV/GLADMIN-162872/swimming-pool-thermometer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Pools",
+    "category_thumbnail": "http://3.imimg.com/data3/KE/XX/GLADMIN-39182/swimming-pools-125x125.jpg",
+    "items": [
+      {
+        "name": "FRP Swimming Pools",
+        "page": "https://dir.indiamart.com/impcat/frp-swimming-pools.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/SG/GLADMIN-150881/frp-swimming-pools-125x125.jpg"
+      },
+      {
+        "name": "Readymade Swimming Pools",
+        "page": "https://dir.indiamart.com/impcat/readymade-swimming-pools.html",
+        "thumbnail": "http://3.imimg.com/data3/UK/IT/GLADMIN-88527/readymade-swimming-pools-125x125.jpg"
+      },
+      {
+        "name": "Portable Swimming Pools",
+        "page": "https://dir.indiamart.com/impcat/portable-swimming-pools.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/ON/GLADMIN-81308/portable-swimming-pools-125x125.jpg"
+      },
+      {
+        "name": "Inflatable Swimming Pool",
+        "page": "https://dir.indiamart.com/impcat/inflatable-swimming-pool.html",
+        "thumbnail": "http://3.imimg.com/data3/RP/FR/GLADMIN-30860/inflatable-swimming-pool-125x125.jpg"
+      },
+      {
+        "name": "Fiberglass Pools",
+        "page": "https://dir.indiamart.com/impcat/fiberglass-pools.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/VD/MY-2/fiberglass-pools-125x125.jpg"
+      },
+      {
+        "name": "Prefab Swimming Pool",
+        "page": "https://dir.indiamart.com/impcat/prefab-swimming-pool.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/HJ/GLADMIN-88528/prefab-swimming-pool-125x125.jpg"
+      },
+      {
+        "name": "Kids Swimming Pool",
+        "page": "https://dir.indiamart.com/impcat/kids-swimming-pool.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/TV/GLADMIN-166040/kids-swimming-pool-125x125.jpg"
+      },
+      {
+        "name": "Spa Pools",
+        "page": "https://dir.indiamart.com/impcat/spa-pools.html",
+        "thumbnail": "http://3.imimg.com/data3/IH/BC/GLADMIN-81315/spa-pools-125x125.jpg"
+      },
+      {
+        "name": "Wave Pool",
+        "page": "https://dir.indiamart.com/impcat/wave-pool.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/wave-pool-125x125.jpg"
+      },
+      {
+        "name": "Jacuzzi Pool",
+        "page": "https://dir.indiamart.com/impcat/jacuzzi-pool.html",
+        "thumbnail": "http://3.imimg.com/data3/BU/QJ/GLADMIN-166525/jacuzzi-pool-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Designing Services",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-designing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/CT/GLADMIN-175035/swimming-pool-designing-services-125x125.jpg"
+      },
+      {
+        "name": "Round Swimming Pools",
+        "page": "https://dir.indiamart.com/impcat/round-swimming-pools.html",
+        "thumbnail": "http://3.imimg.com/data3/GW/XY/GLADMIN-81312/round-swimming-pools-125x125.jpg"
+      },
+      {
+        "name": "Endless Pool",
+        "page": "https://dir.indiamart.com/impcat/endless-pool.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/DR/GLADMIN-81310/endless-pool-125x125.jpg"
+      },
+      {
+        "name": "Oval Shaped Swimming Pools",
+        "page": "https://dir.indiamart.com/impcat/oval-shaped-swimming-pools.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/BA/GLADMIN-81306/oval-shaped-swimming-pools-125x125.jpg"
+      },
+      {
+        "name": "Concrete Pool",
+        "page": "https://dir.indiamart.com/impcat/concrete-pool.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/321402089/IR/OP/PV/64193/concrete-pool-125x125.png"
+      },
+      {
+        "name": "Shaped Swimming Pools",
+        "page": "https://dir.indiamart.com/impcat/shaped-swimming-pools.html",
+        "thumbnail": "http://3.imimg.com/data3/XG/EV/GLADMIN-81305/shaped-swimming-pools-125x125.jpg"
+      },
+      {
+        "name": "Steel Pools",
+        "page": "https://dir.indiamart.com/impcat/steel-pools.html",
+        "thumbnail": "http://3.imimg.com/data3/NW/IK/GLADMIN-81311/steel-pools-125x125.jpg"
+      },
+      {
+        "name": "Metal Pool",
+        "page": "https://dir.indiamart.com/impcat/metal-pool.html",
+        "thumbnail": "http://5.imimg.com/data5/WK/US/GLADMIN-2/metal-pool-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Pool Filters",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/CG/ER/HV/89237/swimming-pool-filters-125x125.jpg",
+    "items": [
+      {
+        "name": "Swimming Pool Sand Filter",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-sand-filter.html",
+        "thumbnail": "http://3.imimg.com/data3/AM/DV/GLADMIN-69150/swimming-pool-sand-filter-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Pipeless Filter",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-pipeless-filter.html",
+        "thumbnail": "http://3.imimg.com/data3/NE/CB/GLADMIN-166375/swimming-pool-pipeless-filter-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Filtration Systems",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-filtration-systems.html",
+        "thumbnail": "http://4.imimg.com/data4/SM/OO/GLADMIN-2/swimming-pool-filtration-systems-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Filtration Plant",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-filtration-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/swimming-pool-filtration-plant-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Cartridge Filter",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-cartridge-filter.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/WG/GLADMIN-166374/swimming-pool-cartridge-filter-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Pool Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/WM/HN/GLADMIN-39175/swimming-pool-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Swimming Pool Pumps",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/YB/GLADMIN-39180/swimming-pool-pumps-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Filters",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-filters.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/CG/ER/HV/89237/swimming-pool-filters-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Nozzle",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-nozzle.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/SR/GLADMIN-166382/swimming-pool-nozzle-125x125.jpg"
+      },
+      {
+        "name": "Water Sports Equipment",
+        "page": "https://dir.indiamart.com/impcat/water-sports-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/XY/CE/GLADMIN-39448/water-sports-equipment-125x125.jpg"
+      },
+      {
+        "name": "Aeration Tube",
+        "page": "https://dir.indiamart.com/impcat/aeration-tube.html",
+        "thumbnail": "http://3.imimg.com/data3/MA/HV/GLADMIN-162748/aeration-tube-125x125.jpg"
+      },
+      {
+        "name": "Pool Hose",
+        "page": "https://dir.indiamart.com/impcat/pool-hose.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/DT/GLADMIN-77884/pool-hose-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Cleaners",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-cleaners.html",
+        "thumbnail": "http://3.imimg.com/data3/VY/HN/GLADMIN-39172/swimming-pool-cleaners-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Floor Inlet",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-floor-inlet.html",
+        "thumbnail": "http://3.imimg.com/data3/RC/SF/GLADMIN-155973/swimming-pool-floor-inlet-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Valve",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-valve.html",
+        "thumbnail": "http://3.imimg.com/data3/GV/TG/GLADMIN-78790/swimming-pool-valve-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Generator",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-generator.html",
+        "thumbnail": "http://3.imimg.com/data3/GE/MD/GLADMIN-150915/swimming-pool-generator-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Drain",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-drain.html",
+        "thumbnail": "http://5.imimg.com/data5/WV/XG/CE/GLADMIN-76441/swimming-pool-drain-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Chlorinator",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-chlorinator.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/UJ/GLADMIN-2/swimming-pool-chlorinator-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Wall Return",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-wall-return.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/LH/GLADMIN-165497/swimming-pool-wall-return-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Ozonator",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-ozonator.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/SK/GLADMIN-156240/swimming-pool-ozonator-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Pool Pumps",
+    "category_thumbnail": "http://3.imimg.com/data3/SH/YB/GLADMIN-39180/swimming-pool-pumps-125x125.jpg",
+    "items": [
+      {
+        "name": "Pool Pump",
+        "page": "https://dir.indiamart.com/impcat/pool-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/XA/GLADMIN-35511/pool-pump-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Heat Pump",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-heat-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/WO/GLADMIN-73096/swimming-pool-heat-pump-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Heaters",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-heaters.html",
+        "thumbnail": "http://3.imimg.com/data3/VO/RT/GLADMIN-39176/swimming-pool-heaters-125x125.jpg"
+      },
+      {
+        "name": "Pool Heating System",
+        "page": "https://dir.indiamart.com/impcat/pool-heating-system.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/MX/GLADMIN-20512/pool-heating-system-125x125.jpg"
+      },
+      {
+        "name": "Counter Current System",
+        "page": "https://dir.indiamart.com/impcat/counter-current-system.html",
+        "thumbnail": "http://5.imimg.com/data5/XS/AF/GLADMIN-2/counter-current-system-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Pool Toys",
+    "category_thumbnail": "http://3.imimg.com/data3/YP/BQ/GLADMIN-50462/swimming-pool-toys-125x125.jpg",
+    "items": [
+      {
+        "name": "Water Ball",
+        "page": "https://dir.indiamart.com/impcat/water-ball.html",
+        "thumbnail": "http://3.imimg.com/data3/SG/DE/GLADMIN-40944/water-ball-125x125.jpg"
+      },
+      {
+        "name": "Swim Tubes",
+        "page": "https://dir.indiamart.com/impcat/swim-tubes.html",
+        "thumbnail": "http://3.imimg.com/data3/SM/JF/GLADMIN-53745/swim-tubes-125x125.jpg"
+      },
+      {
+        "name": "Water Tubes",
+        "page": "https://dir.indiamart.com/impcat/water-tubes.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/NI/GLADMIN-39459/water-tubes-125x125.jpg"
+      },
+      {
+        "name": "Inflatable Pool Float",
+        "page": "https://dir.indiamart.com/impcat/inflatable-pool-float.html",
+        "thumbnail": "http://3.imimg.com/data3/CO/MG/GLADMIN-30854/inflatable-pool-float-125x125.jpg"
+      },
+      {
+        "name": "Water Floater",
+        "page": "https://dir.indiamart.com/impcat/water-floater.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/XY/GLADMIN-69997/water-floater-125x125.jpg"
+      },
+      {
+        "name": "Water Floating Bed",
+        "page": "https://dir.indiamart.com/impcat/water-floating-bed.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/AR/GLADMIN-122829/water-floating-bed-125x125.jpg"
+      },
+      {
+        "name": "Inflatable Pool Toy",
+        "page": "https://dir.indiamart.com/impcat/inflatable-pool-toy.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/HS/GLADMIN-50355/inflatable-pool-toy-125x125.jpg"
+      },
+      {
+        "name": "Floating Chair",
+        "page": "https://dir.indiamart.com/impcat/floating-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/JW/BG/GLADMIN-122270/floating-chair-125x125.jpg"
+      },
+      {
+        "name": "Pool Filter Valve",
+        "page": "https://dir.indiamart.com/impcat/pool-filter-valve.html",
+        "thumbnail": "http://3.imimg.com/data3/XF/NY/GLADMIN-53819/pool-filter-valve-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diving Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/LP/HK/GLADMIN-109041/diving-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Scuba Cylinders",
+        "page": "https://dir.indiamart.com/impcat/scuba-cylinders.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/NP/GLADMIN-160658/scuba-cylinders-125x125.jpg"
+      },
+      {
+        "name": "Diving Helmets",
+        "page": "https://dir.indiamart.com/impcat/diving-helmets.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/YE/GLADMIN-26723/diving-helmets-125x125.jpg"
+      },
+      {
+        "name": "Diving Set",
+        "page": "https://dir.indiamart.com/impcat/diving-set.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/II/GLADMIN-69994/diving-set-125x125.jpg"
+      },
+      {
+        "name": "Diving Snorkel Mask",
+        "page": "https://dir.indiamart.com/impcat/diving-mask.html",
+        "thumbnail": "http://5.imimg.com/data5/SQ/KK/DR/GLADMIN-73289/diving-snorkel-mask-125x125.jpg"
+      },
+      {
+        "name": "Diving Knives",
+        "page": "https://dir.indiamart.com/impcat/diving-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/RF/CR/GLADMIN-26724/diving-knives-125x125.jpg"
+      },
+      {
+        "name": "Diving Boards",
+        "page": "https://dir.indiamart.com/impcat/diving-boards.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/UJ/GLADMIN-26719/diving-boards-125x125.jpg"
+      },
+      {
+        "name": "Diving Boots",
+        "page": "https://dir.indiamart.com/impcat/diving-boots.html",
+        "thumbnail": "http://3.imimg.com/data3/SM/PW/GLADMIN-26720/diving-boots-125x125.jpg"
+      },
+      {
+        "name": "Water Skis",
+        "page": "https://dir.indiamart.com/impcat/water-skis.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/XN/GLADMIN-39440/water-skis-125x125.jpg"
+      },
+      {
+        "name": "Surfing Accessories",
+        "page": "https://dir.indiamart.com/impcat/surfing-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/AD/GLADMIN-117673/surfing-accessories-125x125.jpg"
+      },
+      {
+        "name": "Diving Goggle",
+        "page": "https://dir.indiamart.com/impcat/diving-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/BN/AE/GLADMIN-96329/diving-goggle-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Pool Cleaners",
+    "category_thumbnail": "http://3.imimg.com/data3/VY/HN/GLADMIN-39172/swimming-pool-cleaners-125x125.jpg",
+    "items": [
+      {
+        "name": "Pool Cleaning Equipment",
+        "page": "https://dir.indiamart.com/impcat/pool-cleaning-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/GG/GLADMIN-20990/pool-cleaning-equipment-125x125.jpg"
+      },
+      {
+        "name": "Pool Testing Kits",
+        "page": "https://dir.indiamart.com/impcat/pool-testing-kits.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/NR/GLADMIN-74098/pool-testing-kits-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Skimmer",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-skimmer.html",
+        "thumbnail": "http://3.imimg.com/data3/GV/SI/MY-2/swimming-pool-skimmer1-125x125.jpg"
+      },
+      {
+        "name": "Robot Pool Cleaners",
+        "page": "https://dir.indiamart.com/impcat/robot-pool-cleaners.html",
+        "thumbnail": "http://5.imimg.com/data5/VQ/PD/GLADMIN-2/robot-pool-cleaners-125x125.jpg"
+      },
+      {
+        "name": "Pool Brush",
+        "page": "https://dir.indiamart.com/impcat/pool-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/PS/SL/GLADMIN-53091/pool-brush-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Cleaning Brush",
+        "page": "https://dir.indiamart.com/impcat/wall-brushes.html",
+        "thumbnail": "http://5.imimg.com/data5/OK/QI/GLADMIN-2/concrete-wall-brushes-250x250-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Telescopic Pole",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-telescopic-pole.html",
+        "thumbnail": "http://5.imimg.com/data5/WX/ST/MM/GLADMIN-76441/swimming-pool-telescopic-pole-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Suction Sweeper",
+        "page": "https://dir.indiamart.com/impcat/suction-sweeper.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/GA/PO/GY/84523/suction-sweeper-125x125.jpg"
+      },
+      {
+        "name": "Leaf Skimmer",
+        "page": "https://dir.indiamart.com/impcat/leaf-skimmer.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/IL/GLADMIN-68331/leaf-skimmer-125x125.jpg"
+      },
+      {
+        "name": "Pool Cleaning Tools",
+        "page": "https://dir.indiamart.com/impcat/pool-cleaning-tools.html",
+        "thumbnail": "http://3.imimg.com/data3/EE/LI/GLADMIN-68332/pool-cleaning-tools-125x125.jpg"
+      },
+      {
+        "name": "Pool Cleaners",
+        "page": "https://dir.indiamart.com/impcat/pool-cleaners.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/IF/GLADMIN-35214/pool-cleaners-125x125.jpg"
+      },
+      {
+        "name": "Automatic Pool Cleaners",
+        "page": "https://dir.indiamart.com/impcat/automatic-pool-cleaners.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/LV/GLADMIN-53179/automatic-pool-cleaners-125x125.jpg"
+      },
+      {
+        "name": "Wall Skimmer",
+        "page": "https://dir.indiamart.com/impcat/wall-skimmer.html",
+        "thumbnail": "http://3.imimg.com/data3/TM/NW/GLADMIN-78837/wall-skimmer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Pool Furniture",
+    "category_thumbnail": "http://3.imimg.com/data3/KO/VQ/GLADMIN-81320/swimming-pool-furniture-125x125.jpg",
+    "items": [
+      {
+        "name": "Poolside Lounger",
+        "page": "https://dir.indiamart.com/impcat/poolside-lounger.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/QS/GLADMIN-106966/poolside-lounger-125x125.jpg"
+      },
+      {
+        "name": "Pool Chair",
+        "page": "https://dir.indiamart.com/impcat/pool-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/HL/AX/GLADMIN-84841/pool-chair-125x125.jpg"
+      },
+      {
+        "name": "Poolside Furniture",
+        "page": "https://dir.indiamart.com/impcat/poolside-furniture.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/MB/GLADMIN-42252/poolside-furniture-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Table",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-table.html",
+        "thumbnail": "http://3.imimg.com/data3/IC/CJ/GLADMIN-160713/swimming-pool-table-125x125.jpg"
+      },
+      {
+        "name": "Deck Chair",
+        "page": "https://dir.indiamart.com/impcat/deck-chair.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/NC/CN/PA/86566/deck-chair-125x125.jpg"
+      },
+      {
+        "name": "Pool Lounge Chair",
+        "page": "https://dir.indiamart.com/impcat/pool-lounge-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/DQ/GLADMIN-87696/pool-lounge-chair-125x125.jpg"
+      },
+      {
+        "name": "Outdoor Pool Furniture",
+        "page": "https://dir.indiamart.com/impcat/outdoor-pool-furniture.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/CH/GLADMIN-42248/outdoor-pool-furniture-125x125.jpg"
+      },
+      {
+        "name": "Lifeguard Chair",
+        "page": "https://dir.indiamart.com/impcat/lifeguard-chair.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/AB/GLADMIN-137354/lifeguard-chair-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Accessories",
+    "category_thumbnail": "http://5.imimg.com/data5/EF/OO/GLADMIN-2/swimming-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Swimming Caps",
+        "page": "https://dir.indiamart.com/impcat/swimming-caps.html",
+        "thumbnail": "http://3.imimg.com/data3/TF/RX/GLADMIN-39168/swimming-caps-125x125.jpg"
+      },
+      {
+        "name": "Swimming Fin",
+        "page": "https://dir.indiamart.com/impcat/swimming-fin.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/FF/GLADMIN-78561/swimming-fin-125x125.jpg"
+      },
+      {
+        "name": "Silicone Swim Cap",
+        "page": "https://dir.indiamart.com/impcat/silicone-swim-cap.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/QW/GLADMIN-116724/silicone-swim-cap-125x125.jpg"
+      },
+      {
+        "name": "Swimming Goggles",
+        "page": "https://dir.indiamart.com/impcat/swim-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/MU/RT/GLADMIN-39165/swim-goggle-125x125.jpg"
+      },
+      {
+        "name": "Kickboard",
+        "page": "https://dir.indiamart.com/impcat/kickboard.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/PP/GLADMIN-/kickboard-125x125.jpg"
+      },
+      {
+        "name": "Swimming Earplugs",
+        "page": "https://dir.indiamart.com/impcat/swimming-earplugs.html",
+        "thumbnail": "http://3.imimg.com/data3/BI/PT/GLADMIN-117102/swimming-earplugs-125x125.jpg"
+      },
+      {
+        "name": "Swimming Snorkel",
+        "page": "https://dir.indiamart.com/impcat/swimming-snorkel.html",
+        "thumbnail": "http://3.imimg.com/data3/OB/YJ/GLADMIN-117109/swimming-snorkel-125x125.jpg"
+      },
+      {
+        "name": "Swimming Arm Band",
+        "page": "https://dir.indiamart.com/impcat/swimming-arm-band.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/KQ/GLADMIN-117099/swimming-arm-band-125x125.jpg"
+      },
+      {
+        "name": "Windsurfing Equipment",
+        "page": "https://dir.indiamart.com/impcat/windsurfing-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/PF/GLADMIN-20829/windsurfing-equipment-125x125.jpg"
+      },
+      {
+        "name": "Hand Paddle",
+        "page": "https://dir.indiamart.com/impcat/hand-paddle.html",
+        "thumbnail": "http://3.imimg.com/data3/DE/JP/GLADMIN-90421/hand-paddle-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Pool Cover",
+    "category_thumbnail": "http://5.imimg.com/data5/TL/XW/GLADMIN-2/swimming-pool-cover-125x125.jpg",
+    "items": [
+      {
+        "name": "Swimming Pool Enclosures",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-enclosures.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/NS/GLADMIN-39174/swimming-pool-enclosures-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Safety Net",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-safety-net.html",
+        "thumbnail": "http://4.imimg.com/data4/AO/IL/GLADMIN-185436/swimming-pool-safety-net-125x125.jpg"
+      },
+      {
+        "name": "Swimming Pool Shade Net",
+        "page": "https://dir.indiamart.com/impcat/swimming-pool-shade-net.html",
+        "thumbnail": "http://3.imimg.com/data3/CD/IA/GLADMIN-151634/swimming-pool-shade-net-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Swimming Goggles",
+    "category_thumbnail": "http://3.imimg.com/data3/MU/RT/GLADMIN-39165/swim-goggle-125x125.jpg",
+    "items": [
+      {
+        "name": "Swimming Glasses",
+        "page": "https://dir.indiamart.com/impcat/swimming-glasses.html",
+        "thumbnail": "http://3.imimg.com/data3/ER/QX/GLADMIN-117104/swimming-glasses-125x125.jpg"
+      },
+      {
+        "name": "Kids Swimming Goggle",
+        "page": "https://dir.indiamart.com/impcat/kids-swimming-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/HE/DH/GLADMIN-105637/kids-swimming-goggle-125x125.jpg"
+      },
+      {
+        "name": "Anti Fog Swimming Goggle",
+        "page": "https://dir.indiamart.com/impcat/anti-fog-swimming-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/CF/CB/GLADMIN-99762/anti-fog-swimming-goggle-125x125.jpg"
+      },
+      {
+        "name": "Silicone Swimming Glasses",
+        "page": "https://dir.indiamart.com/impcat/silicone-swimming-glasses.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/MO/GLADMIN-129108/silicone-swimming-glasses-125x125.jpg"
+      },
+      {
+        "name": "Mirror Swim Goggle",
+        "page": "https://dir.indiamart.com/impcat/mirror-swim-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/IC/DA/GLADMIN-111586/mirror-swim-goggle-125x125.jpg"
+      },
+      {
+        "name": "Fashion Swimming Goggle",
+        "page": "https://dir.indiamart.com/impcat/fashion-swimming-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/EP/QD/GLADMIN-107978/fashion-swimming-goggle-125x125.jpg"
+      },
+      {
+        "name": "Optical Swimming Goggle",
+        "page": "https://dir.indiamart.com/impcat/optical-swimming-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/VN/WG/GLADMIN-112642/optical-swimming-goggle-125x125.jpg"
+      },
+      {
+        "name": "Aquatic Sports Goggle",
+        "page": "https://dir.indiamart.com/impcat/aquatic-sports-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/GT/SP/GLADMIN-99763/aquatic-sports-goggle-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bleaching Powder",
+    "category_thumbnail": "http://3.imimg.com/data3/XT/FL/GLADMIN-4462/bleaching-powder-125x125.jpg",
+    "items": [
+      {
+        "name": "Sodium Hypochlorite",
+        "page": "https://dir.indiamart.com/impcat/sodium-hypochlorite.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/JP/PM/SQ/76098/sodium-hypochlorite-125x125.jpg"
+      },
+      {
+        "name": "Hydrogen Peroxide",
+        "page": "https://dir.indiamart.com/impcat/hydrogen-peroxide.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/XH/ZE/MZ/76098/hydrogen-peroxide-125x125.jpg"
+      },
+      {
+        "name": "Trichloroisocyanuric Acid Tablet",
+        "page": "https://dir.indiamart.com/impcat/trichloroisocyanuric-acid.html",
+        "thumbnail": "http://4.imimg.com/data4/MN/LB/GLADMIN-19766/trichloroisocyanuric-acid-powder-125x125.jpg"
+      },
+      {
+        "name": "Calcium Hypochlorite",
+        "page": "https://dir.indiamart.com/impcat/calcium-hypochlorite.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/JD/GLADMIN-5471/calcium-hypochlorite-125x125.jpg"
+      },
+      {
+        "name": "Liquid Bleach",
+        "page": "https://dir.indiamart.com/impcat/liquid-bleach.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/GU/GLADMIN-11609/liquid-bleach-125x125.jpg"
+      },
+      {
+        "name": "Sodium Percarbonate",
+        "page": "https://dir.indiamart.com/impcat/sodium-percarbonate.html",
+        "thumbnail": "http://3.imimg.com/data3/BY/CR/GLADMIN-37318/sodium-percarbonate-125x125.jpg"
+      },
+      {
+        "name": "Peracetic Acid PAA",
+        "page": "https://dir.indiamart.com/impcat/peracetic-acid.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/PC/OE/BK/76098/peracetic-acid-125x125.jpg"
+      },
+      {
+        "name": "Chlorine Granules",
+        "page": "https://dir.indiamart.com/impcat/chlorine-granules.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/WC/GLADMIN-165122/chlorine-granules-125x125.jpg"
+      },
+      {
+        "name": "Sodium Chlorite",
+        "page": "https://dir.indiamart.com/impcat/sodium-chlorite.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/YL/GLADMIN-140412/sodium-chlorite-125x125.jpg"
+      },
+      {
+        "name": "Sodium Stannate",
+        "page": "https://dir.indiamart.com/impcat/sodium-stannate.html",
+        "thumbnail": "http://3.imimg.com/data3/GC/TW/GLADMIN-7620/sodium-stannate-125x125.jpg"
+      },
+      {
+        "name": "Sodium Perborate",
+        "page": "https://dir.indiamart.com/impcat/sodium-perborate.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/AH/GLADMIN-37317/sodium-perborate-125x125.jpg"
+      },
+      {
+        "name": "Barium Peroxide",
+        "page": "https://dir.indiamart.com/impcat/barium-peroxide.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/TS/GLADMIN-22869/barium-peroxide-125x125.jpg"
+      },
+      {
+        "name": "Bleach Stabilizers",
+        "page": "https://dir.indiamart.com/impcat/bleach-stabilizers.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/LK/GLADMIN-160068/bleach-stabilizers-125x125.jpg"
+      }
+    ]
+  }
+]

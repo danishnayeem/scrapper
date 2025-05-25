@@ -1,0 +1,627 @@
+[
+  {
+    "category_name": "Garden Decor",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319275861/BZ/RM/FN/86648/garden-decor-125x125.webp",
+    "items": [
+      {
+        "name": "Artificial Green Wall",
+        "page": "https://dir.indiamart.com/impcat/artificial-green-wall.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/WD/FT/XA/92368/artificial-green-wall-125x125.jpg"
+      },
+      {
+        "name": "Vertical Garden",
+        "page": "https://dir.indiamart.com/impcat/vertical-gardens.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320043691/KT/OP/XL/96165/vertical-garden-125x125.png"
+      },
+      {
+        "name": "Garden Fountains",
+        "page": "https://dir.indiamart.com/impcat/garden-fountains.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319279304/OE/SZ/FY/86648/garden-fountains-125x125.jpg"
+      },
+      {
+        "name": "Garden Trellis",
+        "page": "https://dir.indiamart.com/impcat/garden-trellis.html",
+        "thumbnail": "http://5.imimg.com/data5/WG/AJ/GLADMIN-2/trellis-125x125.jpg"
+      },
+      {
+        "name": "Bird Feeder",
+        "page": "https://dir.indiamart.com/impcat/bird-feeder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318524909/QR/NQ/BJ/86648/bird-feeder-125x125.webp"
+      },
+      {
+        "name": "Vertical Garden Panels",
+        "page": "https://dir.indiamart.com/impcat/vertical-garden-panels.html",
+        "thumbnail": "http://5.imimg.com/data5/IZ/DG/ON/GLADMIN-56986/vertical-garden-panels-125x125.jpg"
+      },
+      {
+        "name": "Bird House",
+        "page": "https://dir.indiamart.com/impcat/bird-houses.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/GG/GLADMIN-23244/bird-houses-125x125.jpg"
+      },
+      {
+        "name": "Garden Pond",
+        "page": "https://dir.indiamart.com/impcat/garden-pond.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/VT/GLADMIN-29222/garden-pond-125x125.jpg"
+      },
+      {
+        "name": "Garden Stone",
+        "page": "https://dir.indiamart.com/impcat/garden-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319291255/DW/KR/CM/86648/garden-stone-125x125.webp"
+      },
+      {
+        "name": "Animal Topiary Frame",
+        "page": "https://dir.indiamart.com/impcat/animal-topiary-frame.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318510930/GV/YN/UP/86648/animal-topiary-frame-125x125.jpeg"
+      },
+      {
+        "name": "RCC Tree Guards",
+        "page": "https://dir.indiamart.com/impcat/rcc-tree-guards.html",
+        "thumbnail": "http://5.imimg.com/data5/CU/QX/LU/GLADMIN-68155/rcc-tree-guards-125x125.jpg"
+      },
+      {
+        "name": "Garden Stepping Stones",
+        "page": "https://dir.indiamart.com/impcat/garden-stepping-stones.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/YB/GLADMIN-42223/garden-stepping-stones-125x125.jpg"
+      },
+      {
+        "name": "Garden Accessories",
+        "page": "https://dir.indiamart.com/impcat/garden-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/DA/XQ/MY-2/garden-accessories-125x125.jpg"
+      },
+      {
+        "name": "Garden Lighting",
+        "page": "https://dir.indiamart.com/impcat/garden-lighting.html",
+        "thumbnail": "http://3.imimg.com/data3/YA/DY/MY-2/garden-lighting-125x125.jpg"
+      },
+      {
+        "name": "Garden Waterfall",
+        "page": "https://dir.indiamart.com/impcat/garden-waterfall.html",
+        "thumbnail": "http://5.imimg.com/data5/KX/WM/GLADMIN-2/waterfall-125x125.jpg"
+      },
+      {
+        "name": "Garden Stakes",
+        "page": "https://dir.indiamart.com/impcat/garden-stakes.html",
+        "thumbnail": "http://5.imimg.com/data5/QY/LW/GLADMIN-2/garden-stakes-125x125.jpg"
+      },
+      {
+        "name": "Garden Sculptures",
+        "page": "https://dir.indiamart.com/impcat/garden-sculptures.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319289597/TI/XZ/MF/86648/garden-sculptures-125x125.webp"
+      },
+      {
+        "name": "Miniature Garden",
+        "page": "https://dir.indiamart.com/impcat/miniature-garden.html",
+        "thumbnail": "http://5.imimg.com/data5/GC/XS/JJ/GLADMIN-76441/miniature-garden-125x125.jpg"
+      },
+      {
+        "name": "Garden Arches",
+        "page": "https://dir.indiamart.com/impcat/garden-arches.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/images-800-800-100226110218-productimages-bfd-garden-structures-arches-42240-125x125.jpg"
+      },
+      {
+        "name": "Tree Grates",
+        "page": "https://dir.indiamart.com/impcat/tree-grates.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/QD/GLADMIN-40225/tree-grates-125x125.jpg"
+      },
+      {
+        "name": "Sundial",
+        "page": "https://dir.indiamart.com/impcat/sundial.html",
+        "thumbnail": "http://3.imimg.com/data3/YA/FY/GLADMIN-2821/sundial-125x125.jpg"
+      },
+      {
+        "name": "Garden Torches",
+        "page": "https://dir.indiamart.com/impcat/garden-torches.html",
+        "thumbnail": "http://3.imimg.com/data3/FS/PR/GLADMIN-11908/garden-torches-125x125.jpg"
+      },
+      {
+        "name": "Garden Bridge",
+        "page": "https://dir.indiamart.com/impcat/garden-bridge.html",
+        "thumbnail": "http://5.imimg.com/data5/HT/JO/GLADMIN-2/bridge-125x125.jpg"
+      },
+      {
+        "name": "Garden Gongs",
+        "page": "https://dir.indiamart.com/impcat/garden-gongs.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/WY/MY-2/garden-gongs-125x125.jpg"
+      },
+      {
+        "name": "Armillary Spheres",
+        "page": "https://dir.indiamart.com/impcat/armillary-spheres.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/VX/GLADMIN-150051/armillary-spheres-125x125.jpg"
+      },
+      {
+        "name": "Iron Garden Stick",
+        "page": "https://dir.indiamart.com/impcat/iron-garden-stick.html",
+        "thumbnail": "http://3.imimg.com/data3/OP/DI/GLADMIN-73436/iron-garden-stick-125x125.jpg"
+      },
+      {
+        "name": "Gazing Ball",
+        "page": "https://dir.indiamart.com/impcat/gazing-balls.html",
+        "thumbnail": "http://5.imimg.com/data5/NH/QY/GLADMIN-2/gazing-ball-125x125.jpg"
+      },
+      {
+        "name": "Bird Baths",
+        "page": "https://dir.indiamart.com/impcat/bird-baths.html",
+        "thumbnail": "http://3.imimg.com/data3/XV/QO/MY-2/bird-baths-125x125.jpg"
+      },
+      {
+        "name": "Garden Stone Decoration",
+        "page": "https://dir.indiamart.com/impcat/garden-stone-decoration.html",
+        "thumbnail": "http://4.imimg.com/data4/OR/VM/GLADMIN-107358/garden-stone-decoration-125x125.jpg"
+      },
+      {
+        "name": "Garden Pavilions",
+        "page": "https://dir.indiamart.com/impcat/garden-pavilions.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/KN/MY-2/garden-pavilions-125x125.gif"
+      },
+      {
+        "name": "Garden Pillar",
+        "page": "https://dir.indiamart.com/impcat/garden-pillar.html",
+        "thumbnail": "http://5.imimg.com/data5/JJ/CW/GLADMIN-2/pillar-125x125.jpg"
+      },
+      {
+        "name": "Garden Mosaic",
+        "page": "https://dir.indiamart.com/impcat/garden-mosaic.html",
+        "thumbnail": "http://3.imimg.com/data3/TL/SI/GLADMIN-106569/garden-mosaic-125x125.jpg"
+      },
+      {
+        "name": "Garden Candle Holder",
+        "page": "https://dir.indiamart.com/impcat/garden-candle-holder.html",
+        "thumbnail": "http://3.imimg.com/data3/JQ/TI/GLADMIN-12334/garden-candle-holder-125x125.jpg"
+      },
+      {
+        "name": "Gardening Fittings",
+        "page": "https://dir.indiamart.com/impcat/gardening-fittings.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/DS/GLADMIN-106575/gardening-fittings-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garden Lighting",
+    "category_thumbnail": "http://3.imimg.com/data3/YA/DY/MY-2/garden-lighting-125x125.jpg",
+    "items": [
+      {
+        "name": "Solar LED Garden Light",
+        "page": "https://dir.indiamart.com/impcat/solar-led-garden-light.html",
+        "thumbnail": "http://4.imimg.com/data4/GL/KY/GLADMIN-185415/solar-led-garden-light-125x125.jpg"
+      },
+      {
+        "name": "Garden Pole Light",
+        "page": "https://dir.indiamart.com/impcat/garden-pole-light.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319288674/DX/FB/OP/86648/garden-pole-light-125x125.webp"
+      },
+      {
+        "name": "LED Garden Light",
+        "page": "https://dir.indiamart.com/impcat/led-garden-light.html",
+        "thumbnail": "http://3.imimg.com/data3/QC/JB/GLADMIN-74241/led-garden-light-125x125.jpg"
+      },
+      {
+        "name": "Bollard Lights",
+        "page": "https://dir.indiamart.com/impcat/garden-bollard.html",
+        "thumbnail": "http://3.imimg.com/data3/GS/SS/GLADMIN-12128/garden-bollard-125x125.jpg"
+      },
+      {
+        "name": "Garden Lamp",
+        "page": "https://dir.indiamart.com/impcat/garden-lamp.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/MM/GLADMIN-29217/garden-lamp-125x125.jpg"
+      },
+      {
+        "name": "Garden Decorative Light",
+        "page": "https://dir.indiamart.com/impcat/garden-decorative-light.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/AI/GLADMIN-107331/garden-decorative-light-125x125.jpg"
+      },
+      {
+        "name": "Plant Growing Light",
+        "page": "https://dir.indiamart.com/impcat/plant-growing-light.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/QS/GLADMIN-94559/plant-growing-light-125x125.jpg"
+      },
+      {
+        "name": "Landscape Lighting",
+        "page": "https://dir.indiamart.com/impcat/landscape-lighting.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/IQ/GLADMIN-31519/landscape-lighting-125x125.jpg"
+      },
+      {
+        "name": "Garden Lanterns",
+        "page": "https://dir.indiamart.com/impcat/garden-lanterns.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/ET/MY-2/garden-lanterns-125x125.jpg"
+      },
+      {
+        "name": "High Tech Bollard",
+        "page": "https://dir.indiamart.com/impcat/high-tech-bollard.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/IB/GLADMIN-106578/high-tech-bollard-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garden Fountains",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319279304/OE/SZ/FY/86648/garden-fountains-125x125.jpg",
+    "items": [
+      {
+        "name": "Decorative Fountain",
+        "page": "https://dir.indiamart.com/impcat/decorative-fountain.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DF/MU/GG/92368/decorative-fountain-125x125.jpg"
+      },
+      {
+        "name": "Marble Fountains",
+        "page": "https://dir.indiamart.com/impcat/marble-fountains.html",
+        "thumbnail": "http://3.imimg.com/data3/XR/FC/GLADMIN-9853/marble-fountains-125x125.jpg"
+      },
+      {
+        "name": "Stone Garden Fountains",
+        "page": "https://dir.indiamart.com/impcat/stone-garden-fountains.html",
+        "thumbnail": "http://3.imimg.com/data3/RF/RN/MY-2/stone-garden-fountains-125x125.jpg"
+      },
+      {
+        "name": "Fountain Statue Showpiece",
+        "page": "https://dir.indiamart.com/impcat/fountain-statue.html",
+        "thumbnail": "http://4.imimg.com/data4/GA/XJ/GLADMIN-185553/fountain-statue-125x125.jpg"
+      },
+      {
+        "name": "Fiberglass Garden Fountain",
+        "page": "https://dir.indiamart.com/impcat/fiberglass-garden-fountain.html",
+        "thumbnail": "http://5.imimg.com/data5/MB/PU/GLADMIN-2/marvelous-tiered-water-fountains-outdoor-3-tier-greener-1--125x125.jpg"
+      },
+      {
+        "name": "Garden Wall Fountain",
+        "page": "https://dir.indiamart.com/impcat/garden-wall-fountain.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/VY/GLADMIN-106240/garden-wall-fountain-125x125.jpg"
+      },
+      {
+        "name": "Marble Wall Fountain",
+        "page": "https://dir.indiamart.com/impcat/marble-wall-fountain.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/IK/GLADMIN-17398/marble-wall-fountain-125x125.jpg"
+      },
+      {
+        "name": "Resin Outdoor Water Fountain",
+        "page": "https://dir.indiamart.com/impcat/resin-outdoor-water-fountain.html",
+        "thumbnail": "http://5.imimg.com/data5/VE/DA/UO/GLADMIN-68087/resin-outdoor-water-fountain-125x125.jpg"
+      },
+      {
+        "name": "Fountain Basin",
+        "page": "https://dir.indiamart.com/impcat/fountain-basin.html",
+        "thumbnail": "http://3.imimg.com/data3/VJ/IF/GLADMIN-28926/fountain-basin-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bird House",
+    "category_thumbnail": "http://3.imimg.com/data3/KN/GG/GLADMIN-23244/bird-houses-125x125.jpg",
+    "items": [
+      {
+        "name": "Bird Nest",
+        "page": "https://dir.indiamart.com/impcat/bird-nest.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318526698/RM/BG/FT/86648/bird-nest-125x125.webp"
+      },
+      {
+        "name": "Nesting Boxes",
+        "page": "https://dir.indiamart.com/impcat/nesting-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/XB/GLADMIN-32638/nesting-boxes-125x125.jpg"
+      },
+      {
+        "name": "Wooden Bird House",
+        "page": "https://dir.indiamart.com/impcat/wooden-bird-house.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/DU/GLADMIN-41475/wooden-bird-house-125x125.jpg"
+      },
+      {
+        "name": "Decorative Bird House",
+        "page": "https://dir.indiamart.com/impcat/decorative-bird-house.html",
+        "thumbnail": "http://3.imimg.com/data3/EV/SI/GLADMIN-73432/decorative-bird-house-125x125.jpg"
+      },
+      {
+        "name": "Hanging Bird House",
+        "page": "https://dir.indiamart.com/impcat/hanging-bird-house.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/XH/GLADMIN-73434/hanging-bird-house-125x125.jpg"
+      },
+      {
+        "name": "Coconut Shell Bird House",
+        "page": "https://dir.indiamart.com/impcat/coconut-shell-bird-house.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/FL/GLADMIN-163962/coconut-shell-bird-house-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garden Trellis",
+    "category_thumbnail": "http://5.imimg.com/data5/WG/AJ/GLADMIN-2/trellis-125x125.jpg",
+    "items": [
+      {
+        "name": "Plastic Lattice",
+        "page": "https://dir.indiamart.com/impcat/plastic-lattice.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/plastic-lattice-125x125.jpg"
+      },
+      {
+        "name": "Wooden Lattice",
+        "page": "https://dir.indiamart.com/impcat/wooden-lattice.html",
+        "thumbnail": "http://3.imimg.com/data3/IW/QM/GLADMIN-19435/wooden-lattice-125x125.jpg"
+      },
+      {
+        "name": "Metal Trellis",
+        "page": "https://dir.indiamart.com/impcat/metal-trellis.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/JX/GLADMIN-112396/metal-trellis-125x125.jpg"
+      },
+      {
+        "name": "Wooden Trellis",
+        "page": "https://dir.indiamart.com/impcat/wooden-trellis.html",
+        "thumbnail": "http://5.imimg.com/data5/RM/US/MV/GLADMIN-56986/wooden-trellis-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bird Feeder",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318524909/QR/NQ/BJ/86648/bird-feeder-125x125.webp",
+    "items": [
+      {
+        "name": "Plastic Bird Feeder",
+        "page": "https://dir.indiamart.com/impcat/plastic-bird-feeder.html",
+        "thumbnail": "http://5.imimg.com/data5/PA/FL/YS/GLADMIN-68087/plastic-bird-feeder-125x125.png"
+      },
+      {
+        "name": "Tube Bird Feeder",
+        "page": "https://dir.indiamart.com/impcat/tube-bird-feeder.html",
+        "thumbnail": "http://3.imimg.com/data3/TI/AH/GLADMIN-19512/tube-bird-feeder-125x125.jpg"
+      },
+      {
+        "name": "Metal Bird Feeder",
+        "page": "https://dir.indiamart.com/impcat/metal-feeders.html",
+        "thumbnail": "http://3.imimg.com/data3/YL/PR/GLADMIN-33212/metal-bird-feeder-125x125.jpg"
+      },
+      {
+        "name": "Wooden Bird Feeder",
+        "page": "https://dir.indiamart.com/impcat/wood-bird-feeder.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/YJ/GLADMIN-73439/wood-bird-feeder-125x125.jpg"
+      },
+      {
+        "name": "Coconut Bird Feeder",
+        "page": "https://dir.indiamart.com/impcat/coconut-bird-feeder.html",
+        "thumbnail": "http://5.imimg.com/data5/BK/IA/GLADMIN-2/coconut-bird-feeder-heron-648-p-125x125.jpg"
+      },
+      {
+        "name": "Iron Bird Feeder",
+        "page": "https://dir.indiamart.com/impcat/iron-bird-feeder.html",
+        "thumbnail": "http://5.imimg.com/data5/KP/TE/GLADMIN-2/cast-iron-wall-mounted-clam-shell-2-bird-wild-bird-bath-garden-food-feeder-7400-p-1--125x125.jpg"
+      },
+      {
+        "name": "Suet Bird Feeder",
+        "page": "https://dir.indiamart.com/impcat/suet-bird-feeder.html",
+        "thumbnail": "http://3.imimg.com/data3/VW/PC/GLADMIN-18852/suet-bird-feeder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Letterbox",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320330742/ET/WD/WN/86648/letterbox-125x125.jpg",
+    "items": [
+      {
+        "name": "Apartment Letter Box",
+        "page": "https://dir.indiamart.com/impcat/apartment-letter-box.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318516498/VZ/YI/EL/86648/apartment-letter-box-125x125.png"
+      },
+      {
+        "name": "Post Box",
+        "page": "https://dir.indiamart.com/impcat/post-box.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/FT/GLADMIN-35445/post-box-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Letterbox",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-letterbox.html",
+        "thumbnail": "http://3.imimg.com/data3/WU/UD/GLADMIN-161347/stainless-steel-letterbox-125x125.jpg"
+      },
+      {
+        "name": "Metal Mailbox",
+        "page": "https://dir.indiamart.com/impcat/metal-mailbox.html",
+        "thumbnail": "http://3.imimg.com/data3/VJ/WO/GLADMIN-64960/metal-mailbox-125x125.jpg"
+      },
+      {
+        "name": "Plastic Mailboxes",
+        "page": "https://dir.indiamart.com/impcat/plastic-mailboxes.html",
+        "thumbnail": "http://4.imimg.com/data4/HH/OD/GLADMIN-116145/plastic-mailboxes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garden Sculptures",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319289597/TI/XZ/MF/86648/garden-sculptures-125x125.webp",
+    "items": [
+      {
+        "name": "Garden Statue",
+        "page": "https://dir.indiamart.com/impcat/garden-statue.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/FO/MY-2/garden-statue-125x125.jpg"
+      },
+      {
+        "name": "Garden Animals",
+        "page": "https://dir.indiamart.com/impcat/garden-animals.html",
+        "thumbnail": "http://5.imimg.com/data5/CF/VO/GLADMIN-2/garden-animal-125x125.jpg"
+      },
+      {
+        "name": "Metal Garden Sculpture",
+        "page": "https://dir.indiamart.com/impcat/metal-garden-sculpture.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/1/HU/RA/JO/76063/metal-garden-sculpture-125x125.jpg"
+      },
+      {
+        "name": "Marble Garden Statues",
+        "page": "https://dir.indiamart.com/impcat/marble-garden-statues.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/HS/GLADMIN-9855/marble-garden-statues-125x125.jpg"
+      },
+      {
+        "name": "Stone Garden Statues",
+        "page": "https://dir.indiamart.com/impcat/stone-garden-statues.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/NY/GLADMIN-43632/stone-garden-statues-125x125.jpg"
+      },
+      {
+        "name": "Water Sculpture",
+        "page": "https://dir.indiamart.com/impcat/water-sculpture.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/SS/GLADMIN-20086/water-sculpture-125x125.jpg"
+      },
+      {
+        "name": "Antique Garden Statue",
+        "page": "https://dir.indiamart.com/impcat/antique-garden-statue.html",
+        "thumbnail": "http://3.imimg.com/data3/TI/YD/GLADMIN-14852/antique-garden-statue-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Decorative Pot",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319255424/QA/LH/HO/86648/decorative-pot-125x125.webp",
+    "items": [
+      {
+        "name": "Fiberglass Planter",
+        "page": "https://dir.indiamart.com/impcat/fiberglass-planter.html",
+        "thumbnail": "http://5.imimg.com/data5/HA/AQ/GLADMIN-2/fibre-glass-125x125.jpg"
+      },
+      {
+        "name": "Decorative Flower Pot",
+        "page": "https://dir.indiamart.com/impcat/decorative-flower-pot.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318876620/ZG/XC/NQ/86648/decorative-flower-pot-125x125.webp"
+      },
+      {
+        "name": "Ceramic Planter",
+        "page": "https://dir.indiamart.com/impcat/ceramic-planter.html",
+        "thumbnail": "http://5.imimg.com/data5/VQ/SB/GLADMIN-2/ceramic-planter-125x125.jpg"
+      },
+      {
+        "name": "Decorative Planter",
+        "page": "https://dir.indiamart.com/impcat/decorative-planter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318877284/XM/RG/NE/86648/decorative-planter-125x125.webp"
+      },
+      {
+        "name": "Resin Flower Pot",
+        "page": "https://dir.indiamart.com/impcat/resin-flower-pot.html",
+        "thumbnail": "http://5.imimg.com/data5/TF/TB/IO/GLADMIN-76037/resin-flower-pot-125x125.jpg"
+      },
+      {
+        "name": "Indoor Planters",
+        "page": "https://dir.indiamart.com/impcat/indoor-planter.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/FB/GLADMIN-84860/indoor-planter-125x125.jpg"
+      },
+      {
+        "name": "Bamboo Planter",
+        "page": "https://dir.indiamart.com/impcat/bamboo-planter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318521900/OB/FC/VY/86648/bamboo-planter-125x125.jpg"
+      },
+      {
+        "name": "Designer Pot",
+        "page": "https://dir.indiamart.com/impcat/designer-pot.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/QC/GLADMIN-84853/designer-pot-125x125.jpg"
+      },
+      {
+        "name": "Hanging Planters",
+        "page": "https://dir.indiamart.com/impcat/hanging-planters.html",
+        "thumbnail": "http://3.imimg.com/data3/GT/QG/MY-2/hanging-planters-125x125.jpg"
+      },
+      {
+        "name": "LED Flower Pot",
+        "page": "https://dir.indiamart.com/impcat/led-flower-pot.html",
+        "thumbnail": "http://5.imimg.com/data5/BG/UC/GLADMIN-2/led-pot-125x125.jpg"
+      },
+      {
+        "name": "GRC Planter",
+        "page": "https://dir.indiamart.com/impcat/grc-planter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319425767/HP/DF/ZQ/96165/grc-planter-125x125.png"
+      },
+      {
+        "name": "Round Planter",
+        "page": "https://dir.indiamart.com/impcat/round-planter.html",
+        "thumbnail": "http://5.imimg.com/data5/PF/NC/GLADMIN-2/round-planter-125x125.jpg"
+      },
+      {
+        "name": "Bonsai Planter",
+        "page": "https://dir.indiamart.com/impcat/bonsai-pot.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/KX/GLADMIN-84848/bonsai-pot-125x125.jpg"
+      },
+      {
+        "name": "Railing Planter",
+        "page": "https://dir.indiamart.com/impcat/railing-planter.html",
+        "thumbnail": "http://5.imimg.com/data5/SZ/GE/ZW/GLADMIN-68087/railing-planter-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Bonsai Pot",
+        "page": "https://dir.indiamart.com/impcat/ceramic-bonsai-pot.html",
+        "thumbnail": "http://5.imimg.com/data5/IE/ZM/CQ/GLADMIN-68087/ceramic-bonsai-pot-125x125.jpg"
+      },
+      {
+        "name": "Antique Pot",
+        "page": "https://dir.indiamart.com/impcat/antique-pot.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/CN/GLADMIN-49897/antique-pot-125x125.jpg"
+      },
+      {
+        "name": "Coco Liner",
+        "page": "https://dir.indiamart.com/impcat/coco-liner.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/EC/GLADMIN-146790/coco-liner-125x125.jpg"
+      },
+      {
+        "name": "Poly Resin Flower Pot",
+        "page": "https://dir.indiamart.com/impcat/poly-resin-flower-pot.html",
+        "thumbnail": "http://5.imimg.com/data5/PH/NJ/VN/GLADMIN-60238/poly-resin-flower-pot-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Hanging Planter",
+        "page": "https://dir.indiamart.com/impcat/ceramic-hanging-planter.html",
+        "thumbnail": "http://5.imimg.com/data5/MF/QA/PL/GLADMIN-16223/ceramic-hanging-planter-125x125.png"
+      },
+      {
+        "name": "Wicker Planter",
+        "page": "https://dir.indiamart.com/impcat/wicker-planter.html",
+        "thumbnail": "http://5.imimg.com/data5/AZ/YY/NZ/GLADMIN-72666/wicker-planter-125x125.jpg"
+      },
+      {
+        "name": "Mosaic Pot",
+        "page": "https://dir.indiamart.com/impcat/mosaic-pot.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/MM/GLADMIN-/a-img923-8450-tytznj-125x125.jpg"
+      },
+      {
+        "name": "Basket Planter",
+        "page": "https://dir.indiamart.com/impcat/basket-planter.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/SK/GLADMIN-84846/basket-planter-125x125.jpg"
+      },
+      {
+        "name": "Pottery Pot",
+        "page": "https://dir.indiamart.com/impcat/garden-pottery-planter.html",
+        "thumbnail": "http://5.imimg.com/data5/MI/EQ/GLADMIN-2/pottery-planter-125x125.jpg"
+      },
+      {
+        "name": "Garden Urns",
+        "page": "https://dir.indiamart.com/impcat/garden-urns.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/LH/MY-2/garden-urns-125x125.jpg"
+      },
+      {
+        "name": "Glazed Pot",
+        "page": "https://dir.indiamart.com/impcat/glazed-pot.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/LP/GLADMIN-84856/glazed-pot-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bird Baths",
+    "category_thumbnail": "http://3.imimg.com/data3/XV/QO/MY-2/bird-baths-125x125.jpg",
+    "items": [
+      {
+        "name": "Sandstone Bird Bath",
+        "page": "https://dir.indiamart.com/impcat/sandstone-bird-bath.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/IR/GLADMIN-17906/sandstone-bird-bath-125x125.jpg"
+      },
+      {
+        "name": "Marble Bird Bath",
+        "page": "https://dir.indiamart.com/impcat/marble-bird-bath.html",
+        "thumbnail": "http://3.imimg.com/data3/BN/NU/GLADMIN-17365/marble-bird-bath-125x125.jpg"
+      },
+      {
+        "name": "Iron Bird Bath",
+        "page": "https://dir.indiamart.com/impcat/iron-bird-bath.html",
+        "thumbnail": "http://3.imimg.com/data3/EX/BS/MY-2/iron-bird-bath-125x125.jpg"
+      },
+      {
+        "name": "Pedestal Bird Bath",
+        "page": "https://dir.indiamart.com/impcat/pedestal-bird-bath.html",
+        "thumbnail": "http://3.imimg.com/data3/SD/NN/MY-2/pedestal-bird-bath-125x125.jpg"
+      },
+      {
+        "name": "Metal Bird Bath",
+        "page": "https://dir.indiamart.com/impcat/metal-bird-bath.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/QD/MY-2/metal-bird-bath-125x125.jpg"
+      },
+      {
+        "name": "Hanging Bird Bath",
+        "page": "https://dir.indiamart.com/impcat/hanging-bird-bath.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/IV/MY-2/hanging-bird-bath-125x125.jpg"
+      }
+    ]
+  }
+]

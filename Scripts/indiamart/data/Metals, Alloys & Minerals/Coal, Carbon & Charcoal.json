@@ -1,0 +1,511 @@
+[
+  {
+    "category_name": "Coal",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/HI/BU/BA/92368/coal-125x125.png",
+    "items": [
+      {
+        "name": "Steam Coal",
+        "page": "https://dir.indiamart.com/impcat/steam-coal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/UZ/EK/SZ/92368/steam-coal-125x125.jpg"
+      },
+      {
+        "name": "Wood Coal",
+        "page": "https://dir.indiamart.com/impcat/wood-coal.html",
+        "thumbnail": "http://4.imimg.com/data4/BD/EI/GLADMIN-2/wood-coal-125x125.jpg"
+      },
+      {
+        "name": "Charcoal",
+        "page": "https://dir.indiamart.com/impcat/charcoal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DQ/RT/XW/92368/charcoal-125x125.jpg"
+      },
+      {
+        "name": "Bio Coal",
+        "page": "https://dir.indiamart.com/impcat/bio-coal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/NA/LM/MF/92368/bio-coal-125x125.jpg"
+      },
+      {
+        "name": "Indonesian Coal",
+        "page": "https://dir.indiamart.com/impcat/indonesian-coal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/NN/VJ/PX/92368/indonesian-coal-125x125.jpg"
+      },
+      {
+        "name": "USA Coal",
+        "page": "https://dir.indiamart.com/impcat/usa-coal.html",
+        "thumbnail": "http://4.imimg.com/data4/VW/QC/GLADMIN-185342/usa-coal-125x125.jpg"
+      },
+      {
+        "name": "Coal Tar Pitch",
+        "page": "https://dir.indiamart.com/impcat/coal-tar-pitch.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/EF/GLADMIN-25079/coal-tar-pitch-125x125.jpg"
+      },
+      {
+        "name": "Indonesian Steam Coal",
+        "page": "https://dir.indiamart.com/impcat/indonesian-steam-coal.html",
+        "thumbnail": "http://4.imimg.com/data4/QJ/KI/GLADMIN-181137/indonesian-steam-coal-125x125.jpg"
+      },
+      {
+        "name": "Coal Tars",
+        "page": "https://dir.indiamart.com/impcat/coal-tars.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/UP/GLADMIN-25080/coal-tars-125x125.jpg"
+      },
+      {
+        "name": "ROM Coal",
+        "page": "https://dir.indiamart.com/impcat/rom-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/MK/FK/GLADMIN-113678/rom-coal-125x125.jpg"
+      },
+      {
+        "name": "Black Coal",
+        "page": "https://dir.indiamart.com/impcat/black-coal.html",
+        "thumbnail": "http://4.imimg.com/data4/JY/WO/GLADMIN-180300/black-coal-125x125.jpg"
+      },
+      {
+        "name": "Anthracite Coal",
+        "page": "https://dir.indiamart.com/impcat/anthracite-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/VF/GLADMIN-22786/anthracite-coal-125x125.jpg"
+      },
+      {
+        "name": "Bio Coal Briquettes",
+        "page": "https://dir.indiamart.com/impcat/biocoal-briquettes.html",
+        "thumbnail": "http://4.imimg.com/data4/IC/NK/GLADMIN-2/biocoal-briquettes-125x125.jpg"
+      },
+      {
+        "name": "Coal Dust",
+        "page": "https://dir.indiamart.com/impcat/coal-dust.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/OI/OF/QG/84846/coal-dust-125x125.webp"
+      },
+      {
+        "name": "South African Coal",
+        "page": "https://dir.indiamart.com/impcat/south-african-coal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369430619/OA/YQ/BQ/103225/south-african-coal-125x125.png"
+      },
+      {
+        "name": "Cooking Coal",
+        "page": "https://dir.indiamart.com/impcat/cooking-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/NB/GLADMIN-4016/cooking-coal-125x125.jpg"
+      },
+      {
+        "name": "White Coal Biomass Briquette",
+        "page": "https://dir.indiamart.com/impcat/white-coal-biomass-briquette.html",
+        "thumbnail": "http://4.imimg.com/data4/TV/SQ/GLADMIN-182266/white-coal-biomass-briquette-125x125.jpg"
+      },
+      {
+        "name": "Lignite",
+        "page": "https://dir.indiamart.com/impcat/lignite.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/BX/GLADMIN-122389/lignite-125x125.jpg"
+      },
+      {
+        "name": "White Coal",
+        "page": "https://dir.indiamart.com/impcat/white-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/JY/GLADMIN-120817/white-coal-125x125.jpg"
+      },
+      {
+        "name": "Coking Coal",
+        "page": "https://dir.indiamart.com/impcat/coking-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/HK/UY/GLADMIN-43846/coking-coal-125x125.jpg"
+      },
+      {
+        "name": "Assam Coal",
+        "page": "https://dir.indiamart.com/impcat/assam-coal.html",
+        "thumbnail": "http://5.imimg.com/data5/QL/XT/GLADMIN-2/coal-125x125.jpg"
+      },
+      {
+        "name": "Bituminous Coal",
+        "page": "https://dir.indiamart.com/impcat/bituminous-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/TD/GLADMIN-23270/bituminous-coal-125x125.jpg"
+      },
+      {
+        "name": "Coal Ashes",
+        "page": "https://dir.indiamart.com/impcat/coal-ashes.html",
+        "thumbnail": "http://5.imimg.com/data5/PX/NR/GLADMIN-2/coal-ashes-125x125.jpg"
+      },
+      {
+        "name": "Coal Briquettes",
+        "page": "https://dir.indiamart.com/impcat/coal-briquettes.html",
+        "thumbnail": "http://3.imimg.com/data3/WW/GP/GLADMIN-25071/coal-briquettes-125x125.jpg"
+      },
+      {
+        "name": "Thermal Coal",
+        "page": "https://dir.indiamart.com/impcat/thermal-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/IE/GLADMIN-2377/thermal-coal-125x125.jpg"
+      },
+      {
+        "name": "Dolochar",
+        "page": "https://dir.indiamart.com/impcat/dolochar.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/GB/GLADMIN-120902/dolochar-125x125.jpg"
+      },
+      {
+        "name": "Lignite Powder",
+        "page": "https://dir.indiamart.com/impcat/lignite-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/XL/GLADMIN-44710/lignite-powder-125x125.jpg"
+      },
+      {
+        "name": "Natural Graphite",
+        "page": "https://dir.indiamart.com/impcat/natural-graphite.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/KN/GLADMIN-122443/natural-graphite-125x125.jpg"
+      },
+      {
+        "name": "Calcined Anthracite coal",
+        "page": "https://dir.indiamart.com/impcat/calcined-anthracite-coal.html",
+        "thumbnail": "http://4.imimg.com/data4/YC/EQ/GLADMIN-2/calcined-anthracite-coal-125x125.jpg"
+      },
+      {
+        "name": "Raw Coal",
+        "page": "https://dir.indiamart.com/impcat/raw-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/KR/AT/GLADMIN-126330/raw-coal-125x125.jpg"
+      },
+      {
+        "name": "Slack Coal",
+        "page": "https://dir.indiamart.com/impcat/slack-coal.html",
+        "thumbnail": "http://4.imimg.com/data4/RI/DX/GLADMIN-184172/slack-coal-125x125.jpg"
+      },
+      {
+        "name": "Australian Coal",
+        "page": "https://dir.indiamart.com/impcat/australian-coal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/6/TV/TI/CP/81953/australian-coal-125x125.jpg"
+      },
+      {
+        "name": "Screened Coal",
+        "page": "https://dir.indiamart.com/impcat/screened-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/GV/WF/GLADMIN-167388/screened-coal-125x125.jpg"
+      },
+      {
+        "name": "High Grade Bio Coal",
+        "page": "https://dir.indiamart.com/impcat/high-grade-bio-coal.html",
+        "thumbnail": "http://4.imimg.com/data4/RB/NG/GLADMIN-182267/high-grade-bio-coal-125x125.jpg"
+      },
+      {
+        "name": "Dehydrated Coal Tar",
+        "page": "https://dir.indiamart.com/impcat/dehydrated-coal-tar.html",
+        "thumbnail": "http://3.imimg.com/data3/GS/TB/GLADMIN-152806/dehydrated-coal-tar-125x125.jpg"
+      },
+      {
+        "name": "Non Coking Coal",
+        "page": "https://dir.indiamart.com/impcat/non-coking-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/BU/GLADMIN-114120/non-coking-coal-125x125.jpg"
+      },
+      {
+        "name": "Non Coking Steam Coal",
+        "page": "https://dir.indiamart.com/impcat/non-coking-steam-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/TM/LA/GLADMIN-143450/non-coking-steam-coal-125x125.jpg"
+      },
+      {
+        "name": "Coal Fines",
+        "page": "https://dir.indiamart.com/impcat/coal-fines.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/QC/GLADMIN-156976/coal-fines-125x125.jpg"
+      },
+      {
+        "name": "Coal Pellet",
+        "page": "https://dir.indiamart.com/impcat/coal-pellet.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/WY/GLADMIN-161336/coal-pellet-125x125.jpg"
+      },
+      {
+        "name": "Washed Coal Lump",
+        "page": "https://dir.indiamart.com/impcat/washed-coal-lump.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/KL/GLADMIN-122823/washed-coal-lump-125x125.jpg"
+      },
+      {
+        "name": "Hardwood Coal",
+        "page": "https://dir.indiamart.com/impcat/hardwood-coal.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/AA/GLADMIN-/hardwood-coal-125x125.jpg"
+      },
+      {
+        "name": "Indigenous Coal",
+        "page": "https://dir.indiamart.com/impcat/indigenous-coal.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/BE/GLADMIN-118956/indigenous-coal-125x125.jpg"
+      },
+      {
+        "name": "Biomass Coal",
+        "page": "https://dir.indiamart.com/impcat/biomass-coal.html",
+        "thumbnail": "http://4.imimg.com/data4/CR/EU/GLADMIN-185369/biomass-coal-125x125.jpg"
+      },
+      {
+        "name": "Mineral Graphite",
+        "page": "https://dir.indiamart.com/impcat/mineral-graphite.html",
+        "thumbnail": "http://3.imimg.com/data3/XG/FW/GLADMIN-15312/mineral-graphite-125x125.jpg"
+      },
+      {
+        "name": "Chrome Lignite",
+        "page": "https://dir.indiamart.com/impcat/chrome-lignite.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/YJ/GLADMIN-3817/chrome-lignite-125x125.jpg"
+      },
+      {
+        "name": "Synthetic Graphite",
+        "page": "https://dir.indiamart.com/impcat/synthetic-graphite.html",
+        "thumbnail": "http://3.imimg.com/data3/DI/LG/GLADMIN-39342/synthetic-graphite-125x125.jpg"
+      },
+      {
+        "name": "Coal Additives",
+        "page": "https://dir.indiamart.com/impcat/coal-additives.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/LV/GLADMIN-157400/coal-additives-125x125.jpg"
+      },
+      {
+        "name": "Crystalline Graphite",
+        "page": "https://dir.indiamart.com/impcat/crystalline-graphite.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/IU/GLADMIN-25167/crystalline-graphite-125x125.jpg"
+      },
+      {
+        "name": "Peat Coal",
+        "page": "https://dir.indiamart.com/impcat/peat-coal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320468523/MP/TD/RI/96317/peat-coal-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Charcoal",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DQ/RT/XW/92368/charcoal-125x125.jpg",
+    "items": [
+      {
+        "name": "Wood Charcoal",
+        "page": "https://dir.indiamart.com/impcat/wood-charcoal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NX/KV/IN/92368/wood-charcoal-125x125.jpg"
+      },
+      {
+        "name": "Coconut Shell Charcoal",
+        "page": "https://dir.indiamart.com/impcat/coconut-shell-charcoal.html",
+        "thumbnail": "http://3.imimg.com/data3/AT/GK/GLADMIN-132780/coconut-shell-charcoal-125x125.jpg"
+      },
+      {
+        "name": "Charcoal Briquettes",
+        "page": "https://dir.indiamart.com/impcat/charcoal-briquettes.html",
+        "thumbnail": "http://3.imimg.com/data3/VW/FT/GLADMIN-24782/charcoal-briquettes-125x125.jpg"
+      },
+      {
+        "name": "Charcoal Sheet",
+        "page": "https://dir.indiamart.com/impcat/charcoal-sheet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SS/AS/CN/92368/charcoal-sheet-125x125.jpg"
+      },
+      {
+        "name": "Charcoal Powder",
+        "page": "https://dir.indiamart.com/impcat/charcoal-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/TW/HJ/GLADMIN-101734/charcoal-powder-125x125.jpg"
+      },
+      {
+        "name": "Coconut Shell Charcoal Briquettes",
+        "page": "https://dir.indiamart.com/impcat/coconut-shell-charcoal-briquettes.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/NT/GLADMIN-166561/coconut-shell-charcoal-briquettes-125x125.jpg"
+      },
+      {
+        "name": "Wood Charcoal Powder",
+        "page": "https://dir.indiamart.com/impcat/wood-charcoal-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/HX/DU/GLADMIN-148762/wood-charcoal-powder-125x125.jpg"
+      },
+      {
+        "name": "Bamboo Charcoal",
+        "page": "https://dir.indiamart.com/impcat/bamboo-charcoal.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/BC/GLADMIN-123935/bamboo-charcoal-125x125.jpg"
+      },
+      {
+        "name": "Coconut Shell Charcoal Powder",
+        "page": "https://dir.indiamart.com/impcat/coconut-shell-charcoal-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/KF/LV/GLADMIN-158081/coconut-shell-charcoal-powder-125x125.jpg"
+      },
+      {
+        "name": "Charcoal Stick",
+        "page": "https://dir.indiamart.com/impcat/charcoal-stick.html",
+        "thumbnail": "http://3.imimg.com/data3/YA/AO/GLADMIN-98665/charcoal-stick-125x125.jpg"
+      },
+      {
+        "name": "Burnt Charcoal",
+        "page": "https://dir.indiamart.com/impcat/burnt-charcoal.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/LC/GLADMIN-161543/burnt-charcoal-125x125.jpg"
+      },
+      {
+        "name": "Coconut Shell Charcoal Granules",
+        "page": "https://dir.indiamart.com/impcat/coconut-shell-charcoal-granules.html",
+        "thumbnail": "http://3.imimg.com/data3/SP/XU/GLADMIN-114198/coconut-shell-charcoal-granules-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Graphite Products",
+    "category_thumbnail": "http://3.imimg.com/data3/JO/AF/GLADMIN-43748/graphite-products-125x125.jpg",
+    "items": [
+      {
+        "name": "Graphite Powder",
+        "page": "https://dir.indiamart.com/impcat/graphite-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/TE/QI/GLADMIN-11125/graphite-powder-125x125.jpg"
+      },
+      {
+        "name": "Graphite Rods",
+        "page": "https://dir.indiamart.com/impcat/graphite-rods.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/LX/GLADMIN-29779/graphite-rods-125x125.jpg"
+      },
+      {
+        "name": "Graphite Sheet",
+        "page": "https://dir.indiamart.com/impcat/graphite-sheet.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/VU/GLADMIN-65137/graphite-sheet-125x125.jpg"
+      },
+      {
+        "name": "Graphite Blocks",
+        "page": "https://dir.indiamart.com/impcat/graphite-blocks.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/OA/GLADMIN-43749/graphite-blocks-125x125.jpg"
+      },
+      {
+        "name": "Graphite Coatings",
+        "page": "https://dir.indiamart.com/impcat/graphite-coatings.html",
+        "thumbnail": "http://3.imimg.com/data3/CW/VF/GLADMIN-29771/graphite-coatings-125x125.jpg"
+      },
+      {
+        "name": "Graphite Flake",
+        "page": "https://dir.indiamart.com/impcat/graphite-flake.html",
+        "thumbnail": "http://3.imimg.com/data3/XX/WK/GLADMIN-106289/graphite-flake-125x125.jpg"
+      },
+      {
+        "name": "Synthetic Graphite Powder",
+        "page": "https://dir.indiamart.com/impcat/synthetic-graphite-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/OQ/GLADMIN-148396/synthetic-graphite-powder-125x125.jpg"
+      },
+      {
+        "name": "Graphite Stopper Head",
+        "page": "https://dir.indiamart.com/impcat/graphite-stopper-head.html",
+        "thumbnail": "http://3.imimg.com/data3/DA/IX/GLADMIN-148269/graphite-stopper-head-125x125.jpg"
+      },
+      {
+        "name": "Graphite Plates",
+        "page": "https://dir.indiamart.com/impcat/graphite-plates.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/AW/GLADMIN-29778/graphite-plates-125x125.jpg"
+      },
+      {
+        "name": "Graphite Roll",
+        "page": "https://dir.indiamart.com/impcat/graphite-role.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/RF/GLADMIN-106156/graphite-role-125x125.jpg"
+      },
+      {
+        "name": "Graphite Lubricant",
+        "page": "https://dir.indiamart.com/impcat/graphite-lubricant.html",
+        "thumbnail": "http://3.imimg.com/data3/KS/GU/GLADMIN-15931/graphite-lubricant-125x125.jpg"
+      },
+      {
+        "name": "Carbon Graphite Blocks",
+        "page": "https://dir.indiamart.com/impcat/carbon-graphite-blocks.html",
+        "thumbnail": "http://4.imimg.com/data4/YH/SB/GLADMIN-185554/carbon-graphite-blocks-125x125.jpg"
+      },
+      {
+        "name": "Carbon Graphite",
+        "page": "https://dir.indiamart.com/impcat/carbon-graphite.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/OW/GLADMIN-137487/carbon-graphite-125x125.jpg"
+      },
+      {
+        "name": "Graphite Granules",
+        "page": "https://dir.indiamart.com/impcat/graphite-granules.html",
+        "thumbnail": "http://3.imimg.com/data3/PC/DL/GLADMIN-133855/graphite-granules-125x125.jpg"
+      },
+      {
+        "name": "Artificial Graphite",
+        "page": "https://dir.indiamart.com/impcat/artificial-graphite.html",
+        "thumbnail": "http://3.imimg.com/data3/MQ/IS/GLADMIN-22395/artificial-graphite-125x125.jpg"
+      },
+      {
+        "name": "Graphite Tube",
+        "page": "https://dir.indiamart.com/impcat/graphite-tube.html",
+        "thumbnail": "http://3.imimg.com/data3/QS/UN/GLADMIN-107281/graphite-tube-125x125.jpg"
+      },
+      {
+        "name": "Isostatic Graphite Block",
+        "page": "https://dir.indiamart.com/impcat/isostatic-graphite-block.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/SO/GLADMIN-106293/isostatic-graphite-block-125x125.jpg"
+      },
+      {
+        "name": "Graphite Pipe",
+        "page": "https://dir.indiamart.com/impcat/graphite-pipe.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/GR/GLADMIN-107280/graphite-pipe-125x125.jpg"
+      },
+      {
+        "name": "Graphite Foil",
+        "page": "https://dir.indiamart.com/impcat/graphite-foil.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/UJ/GLADMIN-29775/graphite-foil-125x125.jpg"
+      },
+      {
+        "name": "Graphite Tools",
+        "page": "https://dir.indiamart.com/impcat/graphite-tools.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/JN/GLADMIN-106291/graphite-tools-125x125.jpg"
+      },
+      {
+        "name": "Colloidal Graphite",
+        "page": "https://dir.indiamart.com/impcat/colloidal-graphite.html",
+        "thumbnail": "http://3.imimg.com/data3/KM/EY/GLADMIN-24374/colloidal-graphite-125x125.jpg"
+      },
+      {
+        "name": "Flexible Graphite",
+        "page": "https://dir.indiamart.com/impcat/flexible-graphite.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/QU/GLADMIN-3478/flexible-graphite-125x125.jpg"
+      },
+      {
+        "name": "High Power Graphite Electrode",
+        "page": "https://dir.indiamart.com/impcat/high-power-graphite-electrode.html",
+        "thumbnail": "http://3.imimg.com/data3/TL/KG/GLADMIN-106292/high-power-graphite-electrode-125x125.jpg"
+      },
+      {
+        "name": "Expanded Graphite",
+        "page": "https://dir.indiamart.com/impcat/expanded-graphite.html",
+        "thumbnail": "http://3.imimg.com/data3/YU/XB/GLADMIN-165850/expanded-graphite-125x125.jpg"
+      },
+      {
+        "name": "Graphite Sleeve",
+        "page": "https://dir.indiamart.com/impcat/graphite-sleeve.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/PC/GLADMIN-106290/graphite-sleeve-125x125.jpg"
+      },
+      {
+        "name": "Molded Graphite",
+        "page": "https://dir.indiamart.com/impcat/molded-graphite.html",
+        "thumbnail": "http://3.imimg.com/data3/CO/CR/GLADMIN-145488/molded-graphite-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Coke Lump",
+    "category_thumbnail": "http://4.imimg.com/data4/PN/GB/GLADMIN-178923/coke-lump-125x125.jpg",
+    "items": [
+      {
+        "name": "Hard Coke",
+        "page": "https://dir.indiamart.com/impcat/hard-coke.html",
+        "thumbnail": "http://3.imimg.com/data3/YV/QN/GLADMIN-30092/hard-coke-125x125.jpg"
+      },
+      {
+        "name": "Metallurgical Coke",
+        "page": "https://dir.indiamart.com/impcat/metallurgical-coke.html",
+        "thumbnail": "http://3.imimg.com/data3/KF/DL/GLADMIN-10096/metallurgical-coke-125x125.jpg"
+      },
+      {
+        "name": "Low Ash Metallurgical Coke",
+        "page": "https://dir.indiamart.com/impcat/low-ash-metallurgical-coke.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/DX/GLADMIN-138337/low-ash-metallurgical-coke-125x125.jpg"
+      },
+      {
+        "name": "Met Coke Fines",
+        "page": "https://dir.indiamart.com/impcat/met-coke-fines.html",
+        "thumbnail": "http://3.imimg.com/data3/CA/DI/GLADMIN-147659/met-coke-fines-125x125.jpg"
+      },
+      {
+        "name": "Nut Coke",
+        "page": "https://dir.indiamart.com/impcat/nut-coke.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/KO/GLADMIN-122455/nut-coke-125x125.jpg"
+      },
+      {
+        "name": "Pearl Coke",
+        "page": "https://dir.indiamart.com/impcat/pearl-coke.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/QI/GLADMIN-152807/pearl-coke-125x125.jpg"
+      },
+      {
+        "name": "Foundry Coke",
+        "page": "https://dir.indiamart.com/impcat/foundry-coke.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/NN/GLADMIN-28922/foundry-coke-125x125.jpg"
+      },
+      {
+        "name": "Carbon Coke",
+        "page": "https://dir.indiamart.com/impcat/carbon-coke.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/YS/GLADMIN-153878/carbon-coke-125x125.jpg"
+      },
+      {
+        "name": "Lam Coke",
+        "page": "https://dir.indiamart.com/impcat/lam-coke.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/LE/GLADMIN-126329/lam-coke-125x125.jpg"
+      },
+      {
+        "name": "Pitch Coke",
+        "page": "https://dir.indiamart.com/impcat/pitch-coke.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/YO/GLADMIN-34440/pitch-coke-125x125.jpg"
+      }
+    ]
+  }
+]

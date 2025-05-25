@@ -1,0 +1,49 @@
+[
+  {
+    "category_name": "Printed Garment",
+    "category_thumbnail": "http://3.imimg.com/data3/RW/JM/GLADMIN-35732/printed-garment-125x125.jpg",
+    "items": [
+      {
+        "name": "Printed T Shirts",
+        "page": "https://dir.indiamart.com/impcat/printed-t-shirts.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/GT/GLADMIN-43171/printed-t-shirts-125x125.jpg"
+      },
+      {
+        "name": "Printed Lungi",
+        "page": "https://dir.indiamart.com/impcat/printed-lungi.html",
+        "thumbnail": "http://3.imimg.com/data3/JN/XH/GLADMIN-85474/printed-lungi-125x125.jpg"
+      },
+      {
+        "name": "Floral Printed Dress",
+        "page": "https://dir.indiamart.com/impcat/floral-printed-dress.html",
+        "thumbnail": "http://3.imimg.com/data3/VM/RQ/GLADMIN-110152/floral-printed-dress-125x125.jpg"
+      },
+      {
+        "name": "Batik Dresses",
+        "page": "https://dir.indiamart.com/impcat/batik-dresses.html",
+        "thumbnail": "http://3.imimg.com/data3/ME/UH/GLADMIN-99231/batik-dresses-125x125.jpg"
+      },
+      {
+        "name": "Printed Silk Shirt",
+        "page": "https://dir.indiamart.com/impcat/printed-silk-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/JE/GLADMIN-8686/printed-silk-shirt-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Dyed Garments",
+    "category_thumbnail": "http://3.imimg.com/data3/TA/OT/GLADMIN-6758/dyed-garments-125x125.jpg",
+    "items": [
+      {
+        "name": "Women Tie Dye Dress",
+        "page": "https://dir.indiamart.com/impcat/women-tie-dye-dress.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/II/GLADMIN-165957/women-tie-dye-dress-125x125.jpg"
+      },
+      {
+        "name": "Tie Dye T-Shirt",
+        "page": "https://dir.indiamart.com/impcat/tie-dye-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/1/BC/HS/LW/96809/tie-dye-t-shirt-125x125.jpg"
+      }
+    ]
+  }
+]

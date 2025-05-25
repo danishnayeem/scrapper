@@ -1,0 +1,1405 @@
+[
+  {
+    "category_name": "LAN Cable",
+    "category_thumbnail": "http://3.imimg.com/data3/VP/SA/GLADMIN-31505/lan-cable-125x125.jpg",
+    "items": [
+      {
+        "name": "Cat 6 Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-6-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/YK/GLADMIN-14433/cat-6-cable-125x125.jpg"
+      },
+      {
+        "name": "Cat 5e Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-5e-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/IR/MY-2/cat-5e-cable-125x125.jpg"
+      },
+      {
+        "name": "Patch Cords",
+        "page": "https://dir.indiamart.com/impcat/patch-cords.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/NJ/GLADMIN-34580/patch-cords-125x125.jpg"
+      },
+      {
+        "name": "Cat 7 Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-7-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/FR/MY-2/cat-7-cable-125x125.jpg"
+      },
+      {
+        "name": "Twisted Pair Cables",
+        "page": "https://dir.indiamart.com/impcat/twisted-pair-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/KL/GLADMIN-1064/twisted-pair-cables-125x125.jpg"
+      },
+      {
+        "name": "Networking Cable",
+        "page": "https://dir.indiamart.com/impcat/networking-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/HH/GLADMIN-17655/networking-cable-125x125.jpg"
+      },
+      {
+        "name": "Cat 5 Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-5-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/BI/OX/GLADMIN-14431/cat-5-cable-125x125.jpg"
+      },
+      {
+        "name": "Cat 6e Cable",
+        "page": "https://dir.indiamart.com/impcat/cat-6e-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/SY/GLADMIN-14434/cat-6e-cable-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fiber Optic Cable",
+    "category_thumbnail": "http://3.imimg.com/data3/MB/SM/GLADMIN-14093/fiber-optic-cable-125x125.jpg",
+    "items": [
+      {
+        "name": "Armoured Fiber Optic Cable",
+        "page": "https://dir.indiamart.com/impcat/armored-fiber-optic-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/PW/EG/KB/87924/armoured-fiber-optic-cable-125x125.jpg"
+      },
+      {
+        "name": "Patch Cords",
+        "page": "https://dir.indiamart.com/impcat/patch-cords.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/NJ/GLADMIN-34580/patch-cords-125x125.jpg"
+      },
+      {
+        "name": "Loose Tube Fiber Optic Cable",
+        "page": "https://dir.indiamart.com/impcat/loose-tube-fiber-optic-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/VT/TS/GLADMIN-17221/loose-tube-fiber-optic-cable-125x125.jpg"
+      },
+      {
+        "name": "Single-Mode Fiber Optic Cable",
+        "page": "https://dir.indiamart.com/impcat/single-mode-fiber-optic-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318752466/WR/HO/ZT/96317/single-mode-fiber-optic-cable-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Pigtails",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-pigtails.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/AJ/GLADMIN-146824/fiber-optic-pigtails-125x125.jpg"
+      },
+      {
+        "name": "ADSS Optical Fiber",
+        "page": "https://dir.indiamart.com/impcat/self-supporting-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/YD/GLADMIN-53161/self-supporting-cable-125x125.jpg"
+      },
+      {
+        "name": "OPGW Cable",
+        "page": "https://dir.indiamart.com/impcat/opgw-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/SA/TH/ZM/GLADMIN-56986/opgw-cable-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Networking Services",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-networking-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VG/CX/GLADMIN-171759/fiber-optic-networking-services-125x125.jpg"
+      },
+      {
+        "name": "Submarine Cable",
+        "page": "https://dir.indiamart.com/impcat/submarine-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/GN/GLADMIN-39229/submarine-cable-125x125.jpg"
+      },
+      {
+        "name": "Duct Cables",
+        "page": "https://dir.indiamart.com/impcat/duct-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/YN/IA/GLADMIN-6736/duct-cables-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fiber Optic Splice",
+    "category_thumbnail": "http://3.imimg.com/data3/BG/VS/GLADMIN-52850/fiber-optic-splice-125x125.jpg",
+    "items": [
+      {
+        "name": "Fiber Optic Splicing Machine",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-splicer.html",
+        "thumbnail": "http://3.imimg.com/data3/FH/UR/GLADMIN-147510/fiber-optic-splicing-machine-125x125.jpg"
+      },
+      {
+        "name": "Fusion Splicer",
+        "page": "https://dir.indiamart.com/impcat/fusion-splicer.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/AW/GLADMIN-106296/fusion-splicer-125x125.jpg"
+      },
+      {
+        "name": "Optical Fiber Cleaver",
+        "page": "https://dir.indiamart.com/impcat/optical-fiber-cleaver.html",
+        "thumbnail": "http://3.imimg.com/data3/OY/NN/GLADMIN-152811/optical-fiber-cleaver-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Joint Enclosure",
+        "page": "https://dir.indiamart.com/impcat/fiber-optical-joint-enclosure.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/IR/GLADMIN-90247/fiber-optical-joint-enclosure-125x125.jpg"
+      },
+      {
+        "name": "Optical Fibre Cable Joint Closure",
+        "page": "https://dir.indiamart.com/impcat/optical-fibre-cable-joint-closure.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/CH/GLADMIN-121050/optical-fibre-cable-joint-closure-125x125.jpg"
+      },
+      {
+        "name": "Fiber Cleaver Blade",
+        "page": "https://dir.indiamart.com/impcat/fiber-cleaver-blade.html",
+        "thumbnail": "http://5.imimg.com/data5/SX/GX/GP/GLADMIN-68087/fiber-cleaver-blade-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Tester",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-tester.html",
+        "thumbnail": "http://3.imimg.com/data3/HQ/AW/GLADMIN-149192/fiber-optic-tester-125x125.jpg"
+      },
+      {
+        "name": "Optical Splice Closure",
+        "page": "https://dir.indiamart.com/impcat/optical-splice-closure.html",
+        "thumbnail": "http://3.imimg.com/data3/WW/RL/GLADMIN-53436/optical-splice-closure-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Automated Teller Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/FO/AU/GLADMIN-22449/automated-teller-machines-125x125.jpg",
+    "items": [
+      {
+        "name": "Mini ATM",
+        "page": "https://dir.indiamart.com/impcat/mini-atm.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/mini-atm-125x125.jpg"
+      },
+      {
+        "name": "Credit Card Machine Stands",
+        "page": "https://dir.indiamart.com/impcat/credit-card-machine-stands.html",
+        "thumbnail": "http://5.imimg.com/data5/BG/RI/SS/GLADMIN-56986/credit-card-machine-stands-125x125.jpg"
+      },
+      {
+        "name": "ATM Paper",
+        "page": "https://dir.indiamart.com/impcat/atm-paper.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/VW/GLADMIN-22155/atm-paper-125x125.png"
+      },
+      {
+        "name": "ATM Kiosk",
+        "page": "https://dir.indiamart.com/impcat/atm-kiosk.html",
+        "thumbnail": "http://4.imimg.com/data4/OI/VW/GLADMIN-180749/atm-kiosk-125x125.jpg"
+      },
+      {
+        "name": "ATM Keypad",
+        "page": "https://dir.indiamart.com/impcat/atm-keypad.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/OI/GLADMIN-178119/atm-keypad-125x125.jpg"
+      },
+      {
+        "name": "ATM Ribbons",
+        "page": "https://dir.indiamart.com/impcat/atm-ribbons.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/KG/GLADMIN-22156/atm-ribbons-125x125.jpg"
+      },
+      {
+        "name": "ATM Switches",
+        "page": "https://dir.indiamart.com/impcat/atm-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/KL/FL/GLADMIN-22157/atm-switches-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "IP Telephony System",
+    "category_thumbnail": "http://3.imimg.com/data3/OF/RM/GLADMIN-155632/ip-telephony-system-125x125.jpg",
+    "items": [
+      {
+        "name": "Video Conferencing System",
+        "page": "https://dir.indiamart.com/impcat/video-conferencing-system.html",
+        "thumbnail": "http://3.imimg.com/data3/HL/ER/GLADMIN-19985/video-conferencing-system-125x125.jpg"
+      },
+      {
+        "name": "Speaker Phone",
+        "page": "https://dir.indiamart.com/impcat/speaker-phone.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/IN/GLADMIN-17585/speaker-phone-125x125.jpg"
+      },
+      {
+        "name": "VoIP Gateway",
+        "page": "https://dir.indiamart.com/impcat/voip-gateway.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/MA/GLADMIN-40834/voip-gateway-125x125.jpg"
+      },
+      {
+        "name": "Audio-Conferencing System",
+        "page": "https://dir.indiamart.com/impcat/audio-conferencing-system.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/FW/GLADMIN-14482/audio-conferencing-system-125x125.jpg"
+      },
+      {
+        "name": "VoIP Phone",
+        "page": "https://dir.indiamart.com/impcat/voip-phone.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/KT/GLADMIN-40836/voip-phone-125x125.jpg"
+      },
+      {
+        "name": "VoIP Wireless Router",
+        "page": "https://dir.indiamart.com/impcat/voip-wireless-router.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/YH/GLADMIN-132543/voip-wireless-router-125x125.jpg"
+      },
+      {
+        "name": "VoIP PBX",
+        "page": "https://dir.indiamart.com/impcat/voip-pbx.html",
+        "thumbnail": "http://3.imimg.com/data3/GJ/OO/GLADMIN-40835/voip-pbx-125x125.jpg"
+      },
+      {
+        "name": "VoIP Adapter",
+        "page": "https://dir.indiamart.com/impcat/voip-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/TK/GLADMIN-40833/voip-adapter-125x125.jpg"
+      },
+      {
+        "name": "Teleconferencing Equipment",
+        "page": "https://dir.indiamart.com/impcat/teleconferencing-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/EW/HH/GLADMIN-39686/teleconferencing-equipment-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Communication Systems and Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/BW/WO/GLADMIN-25580/communication-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Crane Radio Frequency Remote Control",
+        "page": "https://dir.indiamart.com/impcat/crane-radio-frequency-remote-control.html",
+        "thumbnail": "http://5.imimg.com/data5/TX/HL/ZW/GLADMIN-73621/crane-radio-frequency-remote-control-125x125.jpg"
+      },
+      {
+        "name": "Hart Communicators",
+        "page": "https://dir.indiamart.com/impcat/hart-communicators.html",
+        "thumbnail": "http://4.imimg.com/data4/HR/BG/GLADMIN-182672/hart-communicators-125x125.jpg"
+      },
+      {
+        "name": "Talk Back Unit",
+        "page": "https://dir.indiamart.com/impcat/talk-back-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/HF/GLADMIN-164812/talk-back-unit-125x125.jpg"
+      },
+      {
+        "name": "Wireless Accessories",
+        "page": "https://dir.indiamart.com/impcat/wireless-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/NX/GLADMIN-129571/wireless-accessories-125x125.jpg"
+      },
+      {
+        "name": "Interactive Voice Response Systems",
+        "page": "https://dir.indiamart.com/impcat/interactive-voice-response-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/VE/GLADMIN-31014/interactive-voice-response-systems-125x125.jpg"
+      },
+      {
+        "name": "Key Telephone System",
+        "page": "https://dir.indiamart.com/impcat/key-telephone-system.html",
+        "thumbnail": "http://3.imimg.com/data3/BF/JA/GLADMIN-31274/key-telephone-system-125x125.jpg"
+      },
+      {
+        "name": "Paging Systems",
+        "page": "https://dir.indiamart.com/impcat/paging-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/UA/GLADMIN-1701/paging-systems-125x125.jpg"
+      },
+      {
+        "name": "Tesla Coil",
+        "page": "https://dir.indiamart.com/impcat/tesla-coil.html",
+        "thumbnail": "http://5.imimg.com/data5/CI/WV/GLADMIN-2/tesla-coil-125x125.jpg"
+      },
+      {
+        "name": "Counter Communications System",
+        "page": "https://dir.indiamart.com/impcat/counter-communications-system.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/DM/GLADMIN-147509/counter-communications-system-125x125.jpg"
+      },
+      {
+        "name": "Radio Frequency Systems",
+        "page": "https://dir.indiamart.com/impcat/radio-frequency-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/BO/TO/GLADMIN-8950/radio-frequency-systems-125x125.jpg"
+      },
+      {
+        "name": "Wireless Communication Systems",
+        "page": "https://dir.indiamart.com/impcat/wireless-communication-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/KG/GLADMIN-2177/wireless-communication-systems-125x125.jpg"
+      },
+      {
+        "name": "Radio Communication Equipment",
+        "page": "https://dir.indiamart.com/impcat/radio-communication-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/VB/GLADMIN-36805/radio-communication-equipment-125x125.jpg"
+      },
+      {
+        "name": "Audio Communication Systems",
+        "page": "https://dir.indiamart.com/impcat/audio-communication-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/DS/GLADMIN-2173/audio-communication-systems-125x125.jpg"
+      },
+      {
+        "name": "BTS Installation Accessories",
+        "page": "https://dir.indiamart.com/impcat/bts-installation-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/BF/GLADMIN-43479/bts-installation-accessories-125x125.jpg"
+      },
+      {
+        "name": "Pager System",
+        "page": "https://dir.indiamart.com/impcat/pager-system.html",
+        "thumbnail": "http://3.imimg.com/data3/MW/OV/GLADMIN-34361/pager-system-125x125.jpg"
+      },
+      {
+        "name": "Telemetry Equipment",
+        "page": "https://dir.indiamart.com/impcat/telemetry-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/KY/GLADMIN-39692/telemetry-equipment-125x125.jpg"
+      },
+      {
+        "name": "RF Communication Systems",
+        "page": "https://dir.indiamart.com/impcat/rf-communication-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/II/GLADMIN-1702/rf-communication-systems-125x125.jpg"
+      },
+      {
+        "name": "Bus Announcement System",
+        "page": "https://dir.indiamart.com/impcat/bus-announcement-system.html",
+        "thumbnail": "http://3.imimg.com/data3/DO/HL/GLADMIN-144525/bus-announcement-system-125x125.jpg"
+      },
+      {
+        "name": "Emergency Call Boxes",
+        "page": "https://dir.indiamart.com/impcat/emergency-call-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/JU/GLADMIN-108327/emergency-call-boxes-125x125.jpg"
+      },
+      {
+        "name": "Interpretation Equipment",
+        "page": "https://dir.indiamart.com/impcat/interpretation-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/CQ/KM/GLADMIN-31055/interpretation-equipment-125x125.jpg"
+      },
+      {
+        "name": "Data Communication Tester",
+        "page": "https://dir.indiamart.com/impcat/data-communication-tester.html",
+        "thumbnail": "http://3.imimg.com/data3/FC/BI/GLADMIN-72929/data-communication-tester-125x125.jpg"
+      },
+      {
+        "name": "Digital Communication Microwave Equipment",
+        "page": "https://dir.indiamart.com/impcat/microwave-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/CV/HH/GLADMIN-33543/microwave-equipment-125x125.jpg"
+      },
+      {
+        "name": "Microwave Communication Systems",
+        "page": "https://dir.indiamart.com/impcat/microwave-communication-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/CY/UH/GLADMIN-33542/microwave-communication-systems-125x125.jpg"
+      },
+      {
+        "name": "Transmission Equipment",
+        "page": "https://dir.indiamart.com/impcat/transmission-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/SX/GLADMIN-40191/transmission-equipment-125x125.jpg"
+      },
+      {
+        "name": "Digital Communication Systems",
+        "page": "https://dir.indiamart.com/impcat/digital-communication-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/NN/YP/GLADMIN-26599/digital-communication-systems-125x125.jpg"
+      },
+      {
+        "name": "Wireless Data Communication System",
+        "page": "https://dir.indiamart.com/impcat/wireless-data-communication-system.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/XA/GLADMIN-41149/wireless-data-communication-system-125x125.jpg"
+      },
+      {
+        "name": "Emergency Dialer",
+        "page": "https://dir.indiamart.com/impcat/emergency-dialer.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/BU/GLADMIN-27764/emergency-dialer-125x125.jpg"
+      },
+      {
+        "name": "FM Broadcasting System",
+        "page": "https://dir.indiamart.com/impcat/fm-broadcasting-system.html",
+        "thumbnail": "http://3.imimg.com/data3/EQ/XK/MY-2/fm-broadcasting-system-125x125.jpg"
+      },
+      {
+        "name": "Communications Controllers",
+        "page": "https://dir.indiamart.com/impcat/communications-controllers.html",
+        "thumbnail": "http://3.imimg.com/data3/SK/IY/GLADMIN-25448/communications-controllers-125x125.jpg"
+      },
+      {
+        "name": "Communication Adapters",
+        "page": "https://dir.indiamart.com/impcat/communication-adapters.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/EU/GLADMIN-25442/communication-adapters-125x125.jpg"
+      },
+      {
+        "name": "Data Transmission Systems",
+        "page": "https://dir.indiamart.com/impcat/data-transmission-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/RX/MY/GLADMIN-25355/data-transmission-systems-125x125.jpg"
+      },
+      {
+        "name": "Optical Talk Sets",
+        "page": "https://dir.indiamart.com/impcat/optical-talk-sets.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/BQ/GLADMIN-34700/optical-talk-sets-125x125.jpg"
+      },
+      {
+        "name": "Crane Communication System",
+        "page": "https://dir.indiamart.com/impcat/crane-communication-system.html",
+        "thumbnail": "http://3.imimg.com/data3/XR/AG/GLADMIN-144724/crane-communication-system-125x125.jpg"
+      },
+      {
+        "name": "Line Driver",
+        "page": "https://dir.indiamart.com/impcat/line-driver.html",
+        "thumbnail": "http://3.imimg.com/data3/YB/OJ/GLADMIN-/pics-ld100-125x125.jpg"
+      },
+      {
+        "name": "Communication Fitting",
+        "page": "https://dir.indiamart.com/impcat/communication-fitting.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/UY/GLADMIN-53199/communication-fitting-125x125.jpg"
+      },
+      {
+        "name": "Telephone Switching Equipment",
+        "page": "https://dir.indiamart.com/impcat/telephone-switching-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/QY/GLADMIN-39702/telephone-switching-equipment-125x125.jpg"
+      },
+      {
+        "name": "ADSL Accessories",
+        "page": "https://dir.indiamart.com/impcat/adsl-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/LS/EE/GLADMIN-98701/adsl-accessories-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Optical Receiver Module",
+    "category_thumbnail": "http://3.imimg.com/data3/QP/XK/GLADMIN-111726/optical-receiver-module-125x125.jpg",
+    "items": [
+      {
+        "name": "Optical Transmitter",
+        "page": "https://dir.indiamart.com/impcat/optical-transmitter.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/DT/GLADMIN-34704/optical-transmitter-125x125.jpg"
+      },
+      {
+        "name": "Optical Node",
+        "page": "https://dir.indiamart.com/impcat/optical-node.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/IW/GLADMIN-65143/optical-node-125x125.jpg"
+      },
+      {
+        "name": "PLC Splitter",
+        "page": "https://dir.indiamart.com/impcat/plc-splitter.html",
+        "thumbnail": "http://3.imimg.com/data3/CV/CF/GLADMIN-53144/plc-splitter-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Coupler",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-coupler.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/KU/GLADMIN-14094/fiber-optic-coupler-125x125.jpg"
+      },
+      {
+        "name": "CATV Optical Node",
+        "page": "https://dir.indiamart.com/impcat/catv-optical-node.html",
+        "thumbnail": "http://3.imimg.com/data3/AV/SN/GLADMIN-104235/catv-optical-node-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Receiver",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-receiver.html",
+        "thumbnail": "http://3.imimg.com/data3/FY/QN/GLADMIN-27408/fiber-optic-receiver-125x125.jpg"
+      },
+      {
+        "name": "Optical Splitter",
+        "page": "https://dir.indiamart.com/impcat/optical-splitter.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/GO/GLADMIN-118992/optical-splitter-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optical Device",
+        "page": "https://dir.indiamart.com/impcat/fiber-optical-device.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/EC/GLADMIN-87641/fiber-optical-device-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Intercom System",
+    "category_thumbnail": "http://3.imimg.com/data3/LJ/BW/GLADMIN-53226/intercom-system-125x125.jpg",
+    "items": [
+      {
+        "name": "Epabx Intercom System",
+        "page": "https://dir.indiamart.com/impcat/epabx-intercom-system.html",
+        "thumbnail": "http://4.imimg.com/data4/PG/UV/GLADMIN-181308/epabx-intercom-system-125x125.jpg"
+      },
+      {
+        "name": "Wireless Intercom System",
+        "page": "https://dir.indiamart.com/impcat/wireless-intercom-system.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/MO/GLADMIN-41303/wireless-intercom-system-125x125.jpg"
+      },
+      {
+        "name": "Wireless Tour Guide System",
+        "page": "https://dir.indiamart.com/impcat/wireless-tour-guide-system.html",
+        "thumbnail": "http://3.imimg.com/data3/SC/BW/GLADMIN-158940/wireless-tour-guide-system-125x125.jpg"
+      },
+      {
+        "name": "Telephone Intercom System",
+        "page": "https://dir.indiamart.com/impcat/telephone-intercom-system.html",
+        "thumbnail": "http://5.imimg.com/data5/ZZ/ZZ/GLADMIN-/telephone-intercom-system-125x125.jpg"
+      },
+      {
+        "name": "Analog EPABX System",
+        "page": "https://dir.indiamart.com/impcat/analog-epabx-system.html",
+        "thumbnail": "http://4.imimg.com/data4/KQ/UQ/GLADMIN-2/analog-epabx-system-125x125.jpg"
+      },
+      {
+        "name": "Video Intercom",
+        "page": "https://dir.indiamart.com/impcat/video-intercom.html",
+        "thumbnail": "http://3.imimg.com/data3/QW/OT/GLADMIN-40708/video-intercom-125x125.jpg"
+      },
+      {
+        "name": "Wireless Intercom",
+        "page": "https://dir.indiamart.com/impcat/wireless-intercom.html",
+        "thumbnail": "http://3.imimg.com/data3/KI/KM/GLADMIN-53269/wireless-intercom-125x125.jpg"
+      },
+      {
+        "name": "Apartment Intercom System",
+        "page": "https://dir.indiamart.com/impcat/apartment-intercom-system.html",
+        "thumbnail": "http://5.imimg.com/data5/AQ/DK/GLADMIN-2/apartment-intercom-system-125x125.jpg"
+      },
+      {
+        "name": "Audio Video Intercom System",
+        "page": "https://dir.indiamart.com/impcat/audio-video-intercom-system.html",
+        "thumbnail": "http://3.imimg.com/data3/MA/GR/GLADMIN-158735/audio-video-intercom-system-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Telecom Cable",
+    "category_thumbnail": "http://3.imimg.com/data3/RA/KI/GLADMIN-19661/telecommunication-cable-125x125.jpg",
+    "items": [
+      {
+        "name": "Telephone Cables",
+        "page": "https://dir.indiamart.com/impcat/telephone-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/OA/GLADMIN-3011/telephone-cables-125x125.jpg"
+      },
+      {
+        "name": "Spiral Cable",
+        "page": "https://dir.indiamart.com/impcat/spiral-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/AA/BX/GLADMIN-38640/spiral-cable-125x125.jpg"
+      },
+      {
+        "name": "Jelly Filled Telephone Cables",
+        "page": "https://dir.indiamart.com/impcat/jelly-filled-telephone-cables.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/DT/GLADMIN-10353/jelly-filled-telephone-cables-125x125.jpg"
+      },
+      {
+        "name": "Telephone Cords",
+        "page": "https://dir.indiamart.com/impcat/telephone-cords.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/AN/GLADMIN-38460/telephone-cords-125x125.jpg"
+      },
+      {
+        "name": "Drop Wire",
+        "page": "https://dir.indiamart.com/impcat/drop-wire.html",
+        "thumbnail": "http://3.imimg.com/data3/AO/TR/GLADMIN-6731/drop-wire-125x125.jpg"
+      },
+      {
+        "name": "Unshielded Telecommunication Cables",
+        "page": "https://dir.indiamart.com/impcat/unshielded-cables.html",
+        "thumbnail": "http://5.imimg.com/data5/IB/XO/GLADMIN-2/unshielded-cables-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Video Conferencing System",
+    "category_thumbnail": "http://3.imimg.com/data3/HL/ER/GLADMIN-19985/video-conferencing-system-125x125.jpg",
+    "items": [
+      {
+        "name": "Video Conferencing Services",
+        "page": "https://dir.indiamart.com/impcat/video-conferencing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/LQ/GLADMIN-43208/video-conferencing-services-125x125.jpg"
+      },
+      {
+        "name": "Cloud Based Video Conferencing System",
+        "page": "https://dir.indiamart.com/impcat/cloud-based-video-conferencing-system.html",
+        "thumbnail": "http://5.imimg.com/data5/GJ/EY/OL/GLADMIN-76037/cloud-based-video-conferencing-system-125x125.png"
+      },
+      {
+        "name": "Video Conferencing Room",
+        "page": "https://dir.indiamart.com/impcat/video-conferencing-room.html",
+        "thumbnail": "http://3.imimg.com/data3/BR/CN/GLADMIN-86379/video-conferencing-room-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Patch Cords",
+    "category_thumbnail": "http://3.imimg.com/data3/WX/NJ/GLADMIN-34580/patch-cords-125x125.jpg",
+    "items": [
+      {
+        "name": "Fiber Optic Patch Cord",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-patchcord.html",
+        "thumbnail": "http://3.imimg.com/data3/OP/HY/GLADMIN-53121/fiber-optic-patchcord-125x125.jpg"
+      },
+      {
+        "name": "CAT6 Patch Cable",
+        "page": "https://dir.indiamart.com/impcat/cat6-patch-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/NI/XE/GLADMIN-53107/cat6-patch-cable-125x125.jpg"
+      },
+      {
+        "name": "Duplex Fiber Optic Patch Cable",
+        "page": "https://dir.indiamart.com/impcat/duplex-fiber-optic-patch-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/SL/VC/GLADMIN-15535/duplex-fiber-optic-patch-cable-125x125.jpg"
+      },
+      {
+        "name": "CAT5E Patch Cable",
+        "page": "https://dir.indiamart.com/impcat/cat5e-patch-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/MI/EY/GLADMIN-53106/cat5e-patch-cable-125x125.jpg"
+      },
+      {
+        "name": "SFTP Patch Cord",
+        "page": "https://dir.indiamart.com/impcat/sftp-patch-cord.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/FS/GLADMIN-129035/sftp-patch-cord-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "PBX System",
+    "category_thumbnail": "http://3.imimg.com/data3/SX/IS/GLADMIN-16711/pbx-system-125x125.jpg",
+    "items": [
+      {
+        "name": "EPABX System",
+        "page": "https://dir.indiamart.com/impcat/epabx-system.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/YS/GLADMIN-41666/epabx-system-125x125.jpg"
+      },
+      {
+        "name": "IP PBX System",
+        "page": "https://dir.indiamart.com/impcat/ip-pbx-system.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/CK/GLADMIN-31086/ip-pbx-system-125x125.jpg"
+      },
+      {
+        "name": "PABX System",
+        "page": "https://dir.indiamart.com/impcat/pabx-system.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/GS/GLADMIN-53244/pabx-system-125x125.jpg"
+      },
+      {
+        "name": "VoIP PBX",
+        "page": "https://dir.indiamart.com/impcat/voip-pbx.html",
+        "thumbnail": "http://3.imimg.com/data3/GJ/OO/GLADMIN-40835/voip-pbx-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Public Address Systems",
+    "category_thumbnail": "http://3.imimg.com/data3/DD/SE/GLADMIN-2175/public-address-systems-pa-systems-125x125.jpg",
+    "items": [
+      {
+        "name": "Portable Public Address System",
+        "page": "https://dir.indiamart.com/impcat/portable-public-address-system.html",
+        "thumbnail": "http://3.imimg.com/data3/YF/YB/GLADMIN-35414/portable-public-address-system-125x125.jpg"
+      },
+      {
+        "name": "Wireless PA System",
+        "page": "https://dir.indiamart.com/impcat/wireless-pa-system.html",
+        "thumbnail": "http://3.imimg.com/data3/XQ/RC/GLADMIN-41171/wireless-pa-system-125x125.jpg"
+      },
+      {
+        "name": "Digital Announcers",
+        "page": "https://dir.indiamart.com/impcat/digital-announcers.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/UU/GLADMIN-26200/digital-announcers-125x125.jpg"
+      },
+      {
+        "name": "Audience Response System",
+        "page": "https://dir.indiamart.com/impcat/audience-response-system.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/BA/GLADMIN-22172/audience-response-system-125x125.jpg"
+      },
+      {
+        "name": "Voting Systems",
+        "page": "https://dir.indiamart.com/impcat/voting-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/TC/GLADMIN-40855/voting-systems-125x125.jpg"
+      },
+      {
+        "name": "Interconnect Systems",
+        "page": "https://dir.indiamart.com/impcat/interconnect-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/ET/UI/GLADMIN-113941/interconnect-systems-125x125.jpg"
+      },
+      {
+        "name": "Voting Pad",
+        "page": "https://dir.indiamart.com/impcat/voting-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/TH/GLADMIN-88489/voting-pad-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fieldbus Components",
+    "category_thumbnail": "http://3.imimg.com/data3/RN/LU/GLADMIN-27456/fieldbus-components-125x125.jpg",
+    "items": [
+      {
+        "name": "IO Modules",
+        "page": "https://dir.indiamart.com/impcat/io-modules.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/XH/GLADMIN-132673/io-modules-125x125.jpg"
+      },
+      {
+        "name": "Digital Input Modules",
+        "page": "https://dir.indiamart.com/impcat/digital-input-modules.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411650733/XP/EC/HY/90596/digital-input-modules-125x125.png"
+      },
+      {
+        "name": "Digital Output Module",
+        "page": "https://dir.indiamart.com/impcat/digital-output-module.html",
+        "thumbnail": "http://3.imimg.com/data3/JN/SY/GLADMIN-132871/digital-output-module-125x125.jpg"
+      },
+      {
+        "name": "Communication Module",
+        "page": "https://dir.indiamart.com/impcat/communication-module.html",
+        "thumbnail": "http://3.imimg.com/data3/OY/CU/GLADMIN-53201/communication-module-125x125.jpg"
+      },
+      {
+        "name": "Analog Output Module",
+        "page": "https://dir.indiamart.com/impcat/analog-output-module.html",
+        "thumbnail": "http://3.imimg.com/data3/QP/QU/GLADMIN-132564/analog-output-module-125x125.jpg"
+      },
+      {
+        "name": "PROFIBUS DP Interface Module",
+        "page": "https://dir.indiamart.com/impcat/profibus-dp-interface-module.html",
+        "thumbnail": "http://3.imimg.com/data3/WK/OT/GLADMIN-101952/profibus-dp-interface-module-125x125.jpg"
+      },
+      {
+        "name": "Bus Coupler",
+        "page": "https://dir.indiamart.com/impcat/bus-coupler.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/GI/GLADMIN-/uploadedimages-kollmorgen-com-products-machine_controls-i-o-kollmorgen-125x125.png"
+      },
+      {
+        "name": "Transceiver Interface Module",
+        "page": "https://dir.indiamart.com/impcat/transceiver-interface-module.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/QS/GLADMIN-65147/transceiver-interface-module-125x125.jpg"
+      },
+      {
+        "name": "Profibus Cable",
+        "page": "https://dir.indiamart.com/impcat/profibus-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/GO/SK/GLADMIN-68308/profibus-cable-125x125.jpg"
+      },
+      {
+        "name": "Analog IO Module",
+        "page": "https://dir.indiamart.com/impcat/analog-io-module.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/OT/GLADMIN-132563/analog-io-module-125x125.jpg"
+      },
+      {
+        "name": "Digital IO Modules",
+        "page": "https://dir.indiamart.com/impcat/digital-io-modules.html",
+        "thumbnail": "http://3.imimg.com/data3/MJ/BQ/GLADMIN-132619/digital-io-modules-125x125.jpg"
+      },
+      {
+        "name": "Input-Output Controllers",
+        "page": "https://dir.indiamart.com/impcat/input-output-controllers.html",
+        "thumbnail": "http://3.imimg.com/data3/VW/GC/GLADMIN-30941/input-output-controllers-125x125.jpg"
+      },
+      {
+        "name": "Bus Connectors",
+        "page": "https://dir.indiamart.com/impcat/bus-connectors.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/YS/GLADMIN-23910/bus-connectors-125x125.jpg"
+      },
+      {
+        "name": "Fieldbus Cable",
+        "page": "https://dir.indiamart.com/impcat/fieldbus-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/ML/GLADMIN-150952/fieldbus-cable-125x125.jpg"
+      },
+      {
+        "name": "Communication Controller Module",
+        "page": "https://dir.indiamart.com/impcat/communication-controller-module.html",
+        "thumbnail": "http://3.imimg.com/data3/IQ/HP/GLADMIN-132604/communication-controller-module-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Call Center System Components",
+    "category_thumbnail": "http://3.imimg.com/data3/FP/DF/GLADMIN-167111/automatic-call-distributor-125x125.jpg",
+    "items": [
+      {
+        "name": "VoIP Gateway",
+        "page": "https://dir.indiamart.com/impcat/voip-gateway.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/MA/GLADMIN-40834/voip-gateway-125x125.jpg"
+      },
+      {
+        "name": "Call Center Headsets",
+        "page": "https://dir.indiamart.com/impcat/call-center-headsets.html",
+        "thumbnail": "http://5.imimg.com/data5/QI/QC/GLADMIN-2/call-center-headsets-125x125.png"
+      },
+      {
+        "name": "Autodialer",
+        "page": "https://dir.indiamart.com/impcat/autodialer.html",
+        "thumbnail": "http://3.imimg.com/data3/EX/TH/GLADMIN-22444/autodialer-125x125.jpg"
+      },
+      {
+        "name": "Call Center Dialer",
+        "page": "https://dir.indiamart.com/impcat/call-center-dialer.html",
+        "thumbnail": "http://5.imimg.com/data5/VV/VV/GLADMIN-/call-center-dialer-125x125.jpg"
+      },
+      {
+        "name": "VoIP Phone",
+        "page": "https://dir.indiamart.com/impcat/voip-phone.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/KT/GLADMIN-40836/voip-phone-125x125.jpg"
+      },
+      {
+        "name": "Dial Pad",
+        "page": "https://dir.indiamart.com/impcat/dial-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/VL/GLADMIN-121129/dial-pad-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fibre Optic Components",
+    "category_thumbnail": "http://3.imimg.com/data3/YJ/UD/GLADMIN-6331/fibre-optic-components-125x125.jpg",
+    "items": [
+      {
+        "name": "Fiber Media Converter",
+        "page": "https://dir.indiamart.com/impcat/fiber-media-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/BN/GLADMIN-65239/fiber-media-converter-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Converter",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/WO/GLADMIN-27404/fiber-optic-converter-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Distribution Frame",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-distribution-frame.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/YQ/GLADMIN-53432/fiber-optic-distribution-frame-125x125.jpg"
+      },
+      {
+        "name": "Fiber Management Tray",
+        "page": "https://dir.indiamart.com/impcat/fiber-management-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/XU/GLADMIN-110681/fiber-management-tray-125x125.jpg"
+      },
+      {
+        "name": "Serial Port Converter",
+        "page": "https://dir.indiamart.com/impcat/serial-port-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/VM/EY/GLADMIN-134092/serial-port-converter-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Tool",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-tool.html",
+        "thumbnail": "http://3.imimg.com/data3/AA/DF/GLADMIN-69292/fiber-optic-tool-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Interconnect Unit",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-interconnect-unit.html",
+        "thumbnail": "http://5.imimg.com/data5/KK/KK/GLADMIN-/a-img924-3162-26ssll-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Modems",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-modems.html",
+        "thumbnail": "http://3.imimg.com/data3/CW/RS/GLADMIN-27406/fiber-optic-modems-125x125.jpg"
+      },
+      {
+        "name": "Splice Tray",
+        "page": "https://dir.indiamart.com/impcat/splice-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/OA/GLADMIN-/merchant2-graphics-00000001-what-is-a-fiber-optic-splice-tray-125x125.png"
+      },
+      {
+        "name": "Joint Connector",
+        "page": "https://dir.indiamart.com/impcat/joint-connector.html",
+        "thumbnail": "http://3.imimg.com/data3/WG/QL/GLADMIN-126387/joint-connector-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Cable Filling Compounds",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-cable-filling-compounds.html",
+        "thumbnail": "http://3.imimg.com/data3/TS/MP/GLADMIN-160852/fiber-optic-cable-filling-compounds-125x125.jpg"
+      },
+      {
+        "name": "Optical Passive Device",
+        "page": "https://dir.indiamart.com/impcat/optical-passive-device.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/KU/GLADMIN-53503/optical-passive-device-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Case",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-case.html",
+        "thumbnail": "http://3.imimg.com/data3/SW/CF/GLADMIN-108328/fiber-optic-case-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "EPABX System",
+    "category_thumbnail": "http://3.imimg.com/data3/RW/YS/GLADMIN-41666/epabx-system-125x125.jpg",
+    "items": [
+      {
+        "name": "EPABX Service",
+        "page": "https://dir.indiamart.com/impcat/epabx-service.html",
+        "thumbnail": "http://3.imimg.com/data3/KD/HQ/GLADMIN-173514/epabx-service-125x125.jpg"
+      },
+      {
+        "name": "Intercom Installation Service",
+        "page": "https://dir.indiamart.com/impcat/intercom-installation-service.html",
+        "thumbnail": "http://5.imimg.com/data5/LX/HG/GLADMIN-2/p7-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "VoIP Phone",
+    "category_thumbnail": "http://3.imimg.com/data3/LT/KT/GLADMIN-40836/voip-phone-125x125.jpg",
+    "items": [
+      {
+        "name": "IP Telephone",
+        "page": "https://dir.indiamart.com/impcat/ip-telephone.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/QK/GLADMIN-15762/ip-telephone-125x125.jpg"
+      },
+      {
+        "name": "IP Video Phone",
+        "page": "https://dir.indiamart.com/impcat/ip-video-phone.html",
+        "thumbnail": "http://3.imimg.com/data3/JQ/IK/GLADMIN-53227/ip-video-phone-125x125.jpg"
+      },
+      {
+        "name": "Wireless IP Phone",
+        "page": "https://dir.indiamart.com/impcat/wireless-ip-phone.html",
+        "thumbnail": "http://3.imimg.com/data3/LA/PY/GLADMIN-41305/wireless-ip-phone-125x125.jpg"
+      },
+      {
+        "name": "Session Initiation Protocol Phones",
+        "page": "https://dir.indiamart.com/impcat/session-initiation-protocol-phones.html",
+        "thumbnail": "http://3.imimg.com/data3/OK/MP/GLADMIN-155987/session-initiation-protocol-phones-125x125.jpg"
+      },
+      {
+        "name": "Wireless VoIP Phone",
+        "page": "https://dir.indiamart.com/impcat/wireless-voip-phone.html",
+        "thumbnail": "http://3.imimg.com/data3/HM/SH/GLADMIN-39834/wireless-voip-phone-125x125.jpg"
+      },
+      {
+        "name": "USB VoIP Phone",
+        "page": "https://dir.indiamart.com/impcat/usb-voip-phone.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/FT/GLADMIN-40576/usb-voip-phone-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Repeater",
+    "category_thumbnail": "http://3.imimg.com/data3/PF/CQ/GLADMIN-118463/rf-repeater-125x125.jpg",
+    "items": [
+      {
+        "name": "Dual Band Repeater",
+        "page": "https://dir.indiamart.com/impcat/dual-band-repeater.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/WX/GLADMIN-164261/dual-band-repeater-125x125.jpg"
+      },
+      {
+        "name": "DMX Splitter",
+        "page": "https://dir.indiamart.com/impcat/dmx-splitter.html",
+        "thumbnail": "http://5.imimg.com/data5/SY/KN/GLADMIN-2/dmx-splitter-125x125.jpg"
+      },
+      {
+        "name": "Wireless Repeater",
+        "page": "https://dir.indiamart.com/impcat/wireless-repeater.html",
+        "thumbnail": "http://3.imimg.com/data3/MJ/ON/GLADMIN-41321/wireless-repeater-125x125.jpg"
+      },
+      {
+        "name": "Signal Splitters",
+        "page": "https://dir.indiamart.com/impcat/signal-splitters.html",
+        "thumbnail": "http://3.imimg.com/data3/NW/WN/GLADMIN-52994/signal-splitters-125x125.jpg"
+      },
+      {
+        "name": "Radio Repeaters",
+        "page": "https://dir.indiamart.com/impcat/radio-repeaters.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/SB/GLADMIN-36820/radio-repeaters-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Radiation Shield",
+    "category_thumbnail": "http://3.imimg.com/data3/RL/BE/GLADMIN-21068/radiation-shield-125x125.jpg",
+    "items": [
+      {
+        "name": "Mobile Anti Radiation Chip",
+        "page": "https://dir.indiamart.com/impcat/mobile-anti-radiation-chip.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/KO/GLADMIN-137815/mobile-anti-radiation-chip-125x125.jpg"
+      },
+      {
+        "name": "Radiation Tester",
+        "page": "https://dir.indiamart.com/impcat/radiation-tester.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/MX/GLADMIN-138726/radiation-tester-125x125.jpg"
+      },
+      {
+        "name": "Anti Radiation Heart Guard",
+        "page": "https://dir.indiamart.com/impcat/anti-radiation-heart-guard.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/OI/GLADMIN-162737/anti-radiation-heart-guard-125x125.jpg"
+      },
+      {
+        "name": "Anti Radiation Sticker",
+        "page": "https://dir.indiamart.com/impcat/anti-radiation-sticker.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/GY/GLADMIN-163126/anti-radiation-sticker-125x125.jpg"
+      },
+      {
+        "name": "Anti Radiation Mobile Pouches",
+        "page": "https://dir.indiamart.com/impcat/anti-radiation-mobile-pouches.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/KL/GLADMIN-158452/anti-radiation-mobile-pouches-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Telecommunications Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/UT/VM/GLADMIN-1703/telecommunications-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Intercom System",
+        "page": "https://dir.indiamart.com/impcat/intercom-system.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/BW/GLADMIN-53226/intercom-system-125x125.jpg"
+      },
+      {
+        "name": "Telecom Systems",
+        "page": "https://dir.indiamart.com/impcat/telecom-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/EK/EF/GLADMIN-3006/telecom-systems-125x125.jpg"
+      },
+      {
+        "name": "Voice Processing Board",
+        "page": "https://dir.indiamart.com/impcat/voice-processing-board.html",
+        "thumbnail": "http://3.imimg.com/data3/OK/DD/GLADMIN-20022/voice-processing-board-125x125.jpg"
+      },
+      {
+        "name": "Telecom Products",
+        "page": "https://dir.indiamart.com/impcat/telecommunication-products.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/SH/GLADMIN-42814/telecom-products-125x125.jpg"
+      },
+      {
+        "name": "Switching System",
+        "page": "https://dir.indiamart.com/impcat/switching-system.html",
+        "thumbnail": "http://3.imimg.com/data3/NE/YL/GLADMIN-69483/switching-system-125x125.jpg"
+      },
+      {
+        "name": "Telephone Interface",
+        "page": "https://dir.indiamart.com/impcat/telephone-interface.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/TG/GLADMIN-39696/telephone-interface-125x125.jpg"
+      },
+      {
+        "name": "GSM Remote Control",
+        "page": "https://dir.indiamart.com/impcat/gsm-remote-control.html",
+        "thumbnail": "http://5.imimg.com/data5/SF/QN/GLADMIN-2/gsm-remote-125x125.jpg"
+      },
+      {
+        "name": "Telephone Tools",
+        "page": "https://dir.indiamart.com/impcat/telephone-tools.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/AG/GLADMIN-129532/telephone-tools-125x125.jpg"
+      },
+      {
+        "name": "Telecom Shelter Parts",
+        "page": "https://dir.indiamart.com/impcat/telecom-shelter-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/OC/GLADMIN-117154/telecom-shelter-parts-125x125.jpg"
+      },
+      {
+        "name": "Telecommunications Test Equipment",
+        "page": "https://dir.indiamart.com/impcat/telecommunications-test-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/WF/LW/GLADMIN-39685/telecommunications-test-equipment-125x125.jpg"
+      },
+      {
+        "name": "Telephone Switches",
+        "page": "https://dir.indiamart.com/impcat/telephone-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/KF/QQ/GLADMIN-39701/telephone-switches-125x125.jpg"
+      },
+      {
+        "name": "Local Call Meter",
+        "page": "https://dir.indiamart.com/impcat/local-call-meter.html",
+        "thumbnail": "http://3.imimg.com/data3/LM/WF/GLADMIN-9638/local-call-meter-125x125.jpg"
+      },
+      {
+        "name": "Diversity Receivers",
+        "page": "https://dir.indiamart.com/impcat/diversity-receivers.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/GF/GLADMIN-26714/diversity-receivers-125x125.jpg"
+      },
+      {
+        "name": "Digital Switching System",
+        "page": "https://dir.indiamart.com/impcat/digital-switching-system.html",
+        "thumbnail": "http://3.imimg.com/data3/RU/IV/GLADMIN-26219/digital-switching-system-125x125.jpg"
+      },
+      {
+        "name": "Telecom Board",
+        "page": "https://dir.indiamart.com/impcat/telecom-board.html",
+        "thumbnail": "http://3.imimg.com/data3/MR/GV/GLADMIN-19659/telecom-board-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Networking Cable",
+    "category_thumbnail": "http://3.imimg.com/data3/EL/HH/GLADMIN-17655/networking-cable-125x125.jpg",
+    "items": [
+      {
+        "name": "DB9 Serial Cable",
+        "page": "https://dir.indiamart.com/impcat/db9-serial-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/HR/GLADMIN-13269/db9-serial-cable-125x125.jpg"
+      },
+      {
+        "name": "Serial Cable",
+        "page": "https://dir.indiamart.com/impcat/serial-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/SD/GLADMIN-18041/serial-cable-125x125.jpg"
+      },
+      {
+        "name": "Cable Networks Service",
+        "page": "https://dir.indiamart.com/impcat/cable-networks-service.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/BN/GLADMIN-173536/cable-networks-service-125x125.jpg"
+      },
+      {
+        "name": "TRS Cable",
+        "page": "https://dir.indiamart.com/impcat/trs-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/TP/GLADMIN-156837/trs-cable-125x125.jpg"
+      },
+      {
+        "name": "Firewire Cable",
+        "page": "https://dir.indiamart.com/impcat/firewire-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/PC/GLADMIN-14136/firewire-cable-125x125.jpg"
+      },
+      {
+        "name": "Parallel Cable",
+        "page": "https://dir.indiamart.com/impcat/parallel-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/DE/MY-2/parallel-cable-125x125.jpg"
+      },
+      {
+        "name": "KVM Cable",
+        "page": "https://dir.indiamart.com/impcat/kvm-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/EJ/GLADMIN-31382/kvm-cable-125x125.jpg"
+      },
+      {
+        "name": "SAS Cable",
+        "page": "https://dir.indiamart.com/impcat/sas-cable.html",
+        "thumbnail": "http://4.imimg.com/data4/KK/KK/GLADMIN-/sas-cable-125x125.jpg"
+      },
+      {
+        "name": "HIFI Interconnect Cable",
+        "page": "https://dir.indiamart.com/impcat/hifi-interconnect-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/JO/GLADMIN-106313/hifi-interconnect-cable-125x125.jpg"
+      },
+      {
+        "name": "SCSI Cable",
+        "page": "https://dir.indiamart.com/impcat/scsi-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/AX/KX/GLADMIN-17983/scsi-cable-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Communication Radio",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/12/YI/NA/EA/23669/communication-radio-125x125.jpg",
+    "items": [
+      {
+        "name": "VHF Radio",
+        "page": "https://dir.indiamart.com/impcat/vhf-radio.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/JF/GLADMIN-39055/vhf-radio-125x125.jpg"
+      },
+      {
+        "name": "Wireless Microwave Radio",
+        "page": "https://dir.indiamart.com/impcat/wireless-microwave-radio.html",
+        "thumbnail": "http://3.imimg.com/data3/IX/DV/GLADMIN-111827/wireless-microwave-radio-125x125.jpg"
+      },
+      {
+        "name": "Marine Band Radios",
+        "page": "https://dir.indiamart.com/impcat/marine-band-radios.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/XX/GLADMIN-32527/marine-band-radios-125x125.jpg"
+      },
+      {
+        "name": "UHF Radio",
+        "page": "https://dir.indiamart.com/impcat/uhf-radio.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/PF/GLADMIN-40468/uhf-radio-125x125.jpg"
+      },
+      {
+        "name": "Portable VHF Radio",
+        "page": "https://dir.indiamart.com/impcat/portable-vhf-radio.html",
+        "thumbnail": "http://3.imimg.com/data3/LD/BR/GLADMIN-35426/portable-vhf-radio-125x125.jpg"
+      },
+      {
+        "name": "Trunked Radio System",
+        "page": "https://dir.indiamart.com/impcat/trunked-radio-system.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/JK/GLADMIN-40260/trunked-radio-system-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Audio-Conferencing System",
+    "category_thumbnail": "http://3.imimg.com/data3/BV/FW/GLADMIN-14482/audio-conferencing-system-125x125.jpg",
+    "items": [
+      {
+        "name": "Conference Phone",
+        "page": "https://dir.indiamart.com/impcat/conference-phone.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/AQ/GLADMIN-25771/conference-phone-125x125.jpg"
+      },
+      {
+        "name": "Echo Canceller",
+        "page": "https://dir.indiamart.com/impcat/echo-canceller.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/WW/GLADMIN-53216/echo-canceller-125x125.jpg"
+      },
+      {
+        "name": "Conference Machine",
+        "page": "https://dir.indiamart.com/impcat/conference-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/NV/GLADMIN-45487/conference-machine-125x125.jpg"
+      },
+      {
+        "name": "Wireless Discussion System",
+        "page": "https://dir.indiamart.com/impcat/wireless-discussion-system.html",
+        "thumbnail": "http://3.imimg.com/data3/FB/WG/GLADMIN-122842/wireless-discussion-system-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "CATV Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/OK/HF/GLADMIN-104234/catv-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Digital CATV Headend Equipment",
+        "page": "https://dir.indiamart.com/impcat/digital-catv-headend-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/BY/GLADMIN-155566/digital-catv-headend-equipment-125x125.jpg"
+      },
+      {
+        "name": "CATV Optical Node",
+        "page": "https://dir.indiamart.com/impcat/catv-optical-node.html",
+        "thumbnail": "http://3.imimg.com/data3/AV/SN/GLADMIN-104235/catv-optical-node-125x125.jpg"
+      },
+      {
+        "name": "CATV Amplifier",
+        "page": "https://dir.indiamart.com/impcat/catv-amplifier.html",
+        "thumbnail": "http://3.imimg.com/data3/UF/HA/GLADMIN-24573/catv-amplifier-125x125.jpg"
+      },
+      {
+        "name": "CATV Power Supply",
+        "page": "https://dir.indiamart.com/impcat/catv-power-supply.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/DL/GLADMIN-151006/catv-power-supply-125x125.jpg"
+      },
+      {
+        "name": "CATV Splitter",
+        "page": "https://dir.indiamart.com/impcat/catv-splitter.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/PT/GLADMIN-24575/catv-splitter-125x125.jpg"
+      },
+      {
+        "name": "CATV Modulator",
+        "page": "https://dir.indiamart.com/impcat/catv-modulator.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/LH/GLADMIN-65605/catv-modulator-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "GSM Audio Listening Device",
+    "category_thumbnail": "http://3.imimg.com/data3/GF/TJ/GLADMIN-161740/gsm-audio-listening-device-125x125.jpg",
+    "items": [
+      {
+        "name": "Spy Earpiece",
+        "page": "https://dir.indiamart.com/impcat/spy-earpiece.html",
+        "thumbnail": "http://3.imimg.com/data3/PB/XN/GLADMIN-166008/spy-earpiece-125x125.jpg"
+      },
+      {
+        "name": "Spy GSM Box Earpiece Set",
+        "page": "https://dir.indiamart.com/impcat/spy-gsm-box-earpiece-set.html",
+        "thumbnail": "http://3.imimg.com/data3/OH/AX/GLADMIN-160629/spy-gsm-box-earpiece-set-125x125.jpg"
+      },
+      {
+        "name": "Spy Bluetooth Earpiece",
+        "page": "https://dir.indiamart.com/impcat/spy-bluetooth-earpiece.html",
+        "thumbnail": "http://4.imimg.com/data4/EU/AQ/GLADMIN-185992/spy-bluetooth-earpiece-125x125.png"
+      },
+      {
+        "name": "Spy GSM Based Wireless Device",
+        "page": "https://dir.indiamart.com/impcat/spy-gsm-based-wireless-device.html",
+        "thumbnail": "http://3.imimg.com/data3/AT/EV/GLADMIN-/products-20images-spy-gsm-based-wireless-device-unlimited-range-code-0-125x125.jpg"
+      },
+      {
+        "name": "Recorder Pens",
+        "page": "https://dir.indiamart.com/impcat/recorder-pens.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/VG/GLADMIN-20653/recorder-pens-125x125.jpg"
+      },
+      {
+        "name": "Spy Ear Bug",
+        "page": "https://dir.indiamart.com/impcat/spy-ear-bug.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/LL/GLADMIN-167298/spy-ear-bug-125x125.jpg"
+      },
+      {
+        "name": "Electronic Listening Device",
+        "page": "https://dir.indiamart.com/impcat/electronic-listening-device.html",
+        "thumbnail": "http://3.imimg.com/data3/FY/MK/GLADMIN-27900/electronic-listening-device-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Telephone and Ethernet Connectors",
+    "category_thumbnail": "http://5.imimg.com/data5/VT/DG/HP/GLADMIN-68087/telephone-connectors-125x125.png",
+    "items": [
+      {
+        "name": "RJ45 Connector",
+        "page": "https://dir.indiamart.com/impcat/rj45-jack.html",
+        "thumbnail": "http://5.imimg.com/data5/OO/WV/NE/GLADMIN-68087/rj45-connector-125x125.jpg"
+      },
+      {
+        "name": "CAT6 Keystone Jack",
+        "page": "https://dir.indiamart.com/impcat/cat6-keystone-jack.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/YN/GLADMIN-65579/cat6-keystone-jack-125x125.jpg"
+      },
+      {
+        "name": "RJ45 Socket",
+        "page": "https://dir.indiamart.com/impcat/rj45-socket.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/NT/VO/EG/92511/rj45-socket-125x125.jpg"
+      },
+      {
+        "name": "RJ11 Jack",
+        "page": "https://dir.indiamart.com/impcat/rj11-jack.html",
+        "thumbnail": "http://3.imimg.com/data3/TW/HB/GLADMIN-52809/rj11-jack-125x125.jpg"
+      },
+      {
+        "name": "Cat 6 Jack",
+        "page": "https://dir.indiamart.com/impcat/cat-6-jack.html",
+        "thumbnail": "http://5.imimg.com/data5/CG/EK/MH/GLADMIN-68087/cat-6-jack-125x125.png"
+      },
+      {
+        "name": "Modular Jack",
+        "page": "https://dir.indiamart.com/impcat/modular-jack.html",
+        "thumbnail": "http://3.imimg.com/data3/YB/LH/GLADMIN-32827/modular-jack-125x125.jpg"
+      },
+      {
+        "name": "Wired Jack",
+        "page": "https://dir.indiamart.com/impcat/wired-jack.html",
+        "thumbnail": "http://3.imimg.com/data3/XF/XV/GLADMIN-118072/wired-jack-125x125.jpg"
+      },
+      {
+        "name": "Cat 5 Connectors",
+        "page": "https://dir.indiamart.com/impcat/cat-5-connectors.html",
+        "thumbnail": "http://5.imimg.com/data5/EH/YL/NN/GLADMIN-68087/cat-5-connectors-125x125.jpg"
+      },
+      {
+        "name": "RJ Coupler",
+        "page": "https://dir.indiamart.com/impcat/rj-coupler.html",
+        "thumbnail": "http://3.imimg.com/data3/FA/LH/GLADMIN-17484/rj-coupler-125x125.jpg"
+      },
+      {
+        "name": "Cat5E Keystone Jack",
+        "page": "https://dir.indiamart.com/impcat/cat5e-keystone-jack.html",
+        "thumbnail": "http://3.imimg.com/data3/FB/ME/GLADMIN-101737/cat5e-keystone-jack-125x125.jpg"
+      },
+      {
+        "name": "Electronics Jack",
+        "page": "https://dir.indiamart.com/impcat/electronics-jack.html",
+        "thumbnail": "http://3.imimg.com/data3/BH/RU/GLADMIN-53324/electronics-jack-125x125.jpg"
+      },
+      {
+        "name": "Telephone Plug",
+        "page": "https://dir.indiamart.com/impcat/telephone-plug.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/DA/GLADMIN-3016/telephone-plug-125x125.jpg"
+      },
+      {
+        "name": "ADSL Splitter",
+        "page": "https://dir.indiamart.com/impcat/adsl-splitter.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/AH/GLADMIN-21597/adsl-splitter-125x125.jpg"
+      },
+      {
+        "name": "Telephone Filter",
+        "page": "https://dir.indiamart.com/impcat/telephone-filter.html",
+        "thumbnail": "http://3.imimg.com/data3/WA/LP/GLADMIN-39694/telephone-filter-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Voice Recorder",
+    "category_thumbnail": "http://3.imimg.com/data3/RB/DW/GLADMIN-40830/voice-recorder-125x125.jpg",
+    "items": [
+      {
+        "name": "Cassette Recorder",
+        "page": "https://dir.indiamart.com/impcat/cassette-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/QW/DR/GLADMIN-5603/cassette-recorder-125x125.jpg"
+      },
+      {
+        "name": "Digital Voice Recorder",
+        "page": "https://dir.indiamart.com/impcat/digital-voice-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/BF/GLADMIN-13512/digital-voice-recorder-125x125.jpg"
+      },
+      {
+        "name": "Voice Recording Device",
+        "page": "https://dir.indiamart.com/impcat/voice-recording-device.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/WF/GLADMIN-40831/voice-recording-device-125x125.jpg"
+      },
+      {
+        "name": "Voice Logger",
+        "page": "https://dir.indiamart.com/impcat/voice-logger.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/SL/GLADMIN-44147/voice-logger-125x125.jpg"
+      },
+      {
+        "name": "Digital Recorders",
+        "page": "https://dir.indiamart.com/impcat/digital-recorders.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/GO/GLADMIN-26207/digital-recorders-125x125.jpg"
+      },
+      {
+        "name": "Audio Recorder",
+        "page": "https://dir.indiamart.com/impcat/audio-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/UU/LY/MY-2/audio-recorder-125x125.jpg"
+      },
+      {
+        "name": "Telephone Recorder",
+        "page": "https://dir.indiamart.com/impcat/telephone-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/BJ/GLADMIN-19445/telephone-recorder-125x125.jpg"
+      },
+      {
+        "name": "USB Audio Recorder",
+        "page": "https://dir.indiamart.com/impcat/usb-audio-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/OH/EX/GLADMIN-55206/usb-audio-recorder-125x125.jpg"
+      },
+      {
+        "name": "Phone Call Recorder",
+        "page": "https://dir.indiamart.com/impcat/phone-call-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/GP/GLADMIN-33997/phone-call-recorder-125x125.jpg"
+      },
+      {
+        "name": "Phone Recording Device",
+        "page": "https://dir.indiamart.com/impcat/phone-recording-device.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/RG/GLADMIN-34272/phone-recording-device-125x125.jpg"
+      },
+      {
+        "name": "MP3 Voice Recorder",
+        "page": "https://dir.indiamart.com/impcat/mp3-voice-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/UQ/GLADMIN-33634/mp3-voice-recorder-125x125.jpg"
+      },
+      {
+        "name": "Analog Recorders",
+        "page": "https://dir.indiamart.com/impcat/analog-recorders.html",
+        "thumbnail": "http://3.imimg.com/data3/XF/EC/GLADMIN-21997/analog-recorders-125x125.jpg"
+      }
+    ]
+  }
+]

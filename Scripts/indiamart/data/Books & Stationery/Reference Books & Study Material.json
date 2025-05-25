@@ -1,0 +1,728 @@
+[
+  {
+    "category_name": "Reference Books",
+    "category_thumbnail": "http://3.imimg.com/data3/GG/QX/GLADMIN-36265/reference-books-125x125.jpg",
+    "items": [
+      {
+        "name": "Competition Books",
+        "page": "https://dir.indiamart.com/impcat/competition-books.html",
+        "thumbnail": "http://3.imimg.com/data3/IQ/VG/GLADMIN-133056/competition-books-125x125.jpg"
+      },
+      {
+        "name": "Medical books",
+        "page": "https://dir.indiamart.com/impcat/medical-books.html",
+        "thumbnail": "http://3.imimg.com/data3/CA/SN/GLADMIN-9938/medical-books-125x125.jpg"
+      },
+      {
+        "name": "Engineering Book",
+        "page": "https://dir.indiamart.com/impcat/engineering-book.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/IQ/GLADMIN-69886/engineering-book-125x125.jpg"
+      },
+      {
+        "name": "Motivation Books",
+        "page": "https://dir.indiamart.com/impcat/motivation-books.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/QJ/GLADMIN-5256/motivation-books-125x125.jpg"
+      },
+      {
+        "name": "Practical Book",
+        "page": "https://dir.indiamart.com/impcat/practical-book.html",
+        "thumbnail": "http://3.imimg.com/data3/EP/MY/GLADMIN-68323/practical-book-125x125.jpg"
+      },
+      {
+        "name": "Science Books",
+        "page": "https://dir.indiamart.com/impcat/science-books.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/JT/GLADMIN-8425/science-books-125x125.jpg"
+      },
+      {
+        "name": "Business Books",
+        "page": "https://dir.indiamart.com/impcat/business-books.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/BT/GLADMIN-23918/business-books-125x125.jpg"
+      },
+      {
+        "name": "Agriculture Book",
+        "page": "https://dir.indiamart.com/impcat/agriculture-book.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/EX/GLADMIN-3182/agriculture-book-125x125.jpg"
+      },
+      {
+        "name": "Banking Books",
+        "page": "https://dir.indiamart.com/impcat/banking-books.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/GP/GLADMIN-/homeshop18-images-coinjoos-38-300x300_9789350750230-125x125.jpg"
+      },
+      {
+        "name": "Civil Engineering Book",
+        "page": "https://dir.indiamart.com/impcat/civil-engineering-book.html",
+        "thumbnail": "http://3.imimg.com/data3/CP/VP/GLADMIN-3838/civil-engineering-book-125x125.jpg"
+      },
+      {
+        "name": "General Knowledge Book",
+        "page": "https://dir.indiamart.com/impcat/general-knowledge-book.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/QA/GLADMIN-68738/general-knowledge-book-125x125.jpg"
+      },
+      {
+        "name": "Physics Books",
+        "page": "https://dir.indiamart.com/impcat/physics-books.html",
+        "thumbnail": "http://3.imimg.com/data3/MK/FY/GLADMIN-42141/physics-books-125x125.jpg"
+      },
+      {
+        "name": "Account Books",
+        "page": "https://dir.indiamart.com/impcat/account-books.html",
+        "thumbnail": "http://3.imimg.com/data3/SM/QK/GLADMIN-21571/account-books-125x125.jpg"
+      },
+      {
+        "name": "Urdu Books",
+        "page": "https://dir.indiamart.com/impcat/urdu-books.html",
+        "thumbnail": "http://3.imimg.com/data3/ID/BC/GLADMIN-88487/urdu-books-125x125.jpg"
+      },
+      {
+        "name": "Dictionaries Books",
+        "page": "https://dir.indiamart.com/impcat/dictionaries-books.html",
+        "thumbnail": "http://3.imimg.com/data3/MV/XK/GLADMIN-154017/dictionaries-books-125x125.jpg"
+      },
+      {
+        "name": "Chemistry Books",
+        "page": "https://dir.indiamart.com/impcat/chemistry-books.html",
+        "thumbnail": "http://3.imimg.com/data3/FE/JL/GLADMIN-42142/chemistry-books-125x125.jpg"
+      },
+      {
+        "name": "Autobiography Books",
+        "page": "https://dir.indiamart.com/impcat/autobiography-books.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/HR/GLADMIN-156348/autobiography-books-125x125.jpg"
+      },
+      {
+        "name": "Social Science Books",
+        "page": "https://dir.indiamart.com/impcat/social-science-books.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/WI/GLADMIN-9577/social-science-books-125x125.jpg"
+      },
+      {
+        "name": "Exercise Books",
+        "page": "https://dir.indiamart.com/impcat/exercise-books.html",
+        "thumbnail": "http://3.imimg.com/data3/LD/YA/GLADMIN-28073/exercise-books-125x125.jpg"
+      },
+      {
+        "name": "Technology Books",
+        "page": "https://dir.indiamart.com/impcat/technology-books.html",
+        "thumbnail": "http://3.imimg.com/data3/QC/KY/GLADMIN-42145/technology-books-125x125.jpg"
+      },
+      {
+        "name": "Management Book",
+        "page": "https://dir.indiamart.com/impcat/management-book.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/SD/GLADMIN-9811/management-book-125x125.jpg"
+      },
+      {
+        "name": "Homeopathy Books",
+        "page": "https://dir.indiamart.com/impcat/homeopathy-books.html",
+        "thumbnail": "http://3.imimg.com/data3/PF/CF/GLADMIN-29462/homeopathy-books-125x125.jpg"
+      },
+      {
+        "name": "Nursing Books",
+        "page": "https://dir.indiamart.com/impcat/nursing-books.html",
+        "thumbnail": "http://4.imimg.com/data4/JT/YS/GLADMIN-182193/nursing-books-125x125.jpg"
+      },
+      {
+        "name": "Mechanical Engineering Book",
+        "page": "https://dir.indiamart.com/impcat/mechanical-engineering-book.html",
+        "thumbnail": "http://3.imimg.com/data3/NM/AI/GLADMIN-9928/mechanical-engineering-book-125x125.jpg"
+      },
+      {
+        "name": "Business Directories",
+        "page": "https://dir.indiamart.com/impcat/business-directories.html",
+        "thumbnail": "http://3.imimg.com/data3/WY/CO/GLADMIN-23923/business-directories-125x125.jpg"
+      },
+      {
+        "name": "Indian Culture Book",
+        "page": "https://dir.indiamart.com/impcat/indian-culture.html",
+        "thumbnail": "http://3.imimg.com/data3/AB/QF/GLADMIN-10930/indian-culture-book-125x125.jpg"
+      },
+      {
+        "name": "Hindi Grammar Books",
+        "page": "https://dir.indiamart.com/impcat/hindi-grammar-books.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/CM/GLADMIN-167779/hindi-grammar-books-125x125.jpg"
+      },
+      {
+        "name": "Cookery Books",
+        "page": "https://dir.indiamart.com/impcat/cookery-books.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/WB/GLADMIN-41628/cookery-books-125x125.jpg"
+      },
+      {
+        "name": "Sanskrit Books",
+        "page": "https://dir.indiamart.com/impcat/sanskrit-books.html",
+        "thumbnail": "http://4.imimg.com/data4/AN/UM/GLADMIN-180083/sanskrit-books-125x125.jpg"
+      },
+      {
+        "name": "Encyclopedia Books",
+        "page": "https://dir.indiamart.com/impcat/encyclopaedia-books.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/YJ/GLADMIN-156350/encyclopaedia-books-125x125.jpg"
+      },
+      {
+        "name": "Atlas Workbook",
+        "page": "https://dir.indiamart.com/impcat/atlas-workbook.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/MA/GLADMIN-68736/atlas-workbook-125x125.jpg"
+      },
+      {
+        "name": "Information Technology Books",
+        "page": "https://dir.indiamart.com/impcat/information-technology-books.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/RR/GLADMIN-10144/information-technology-books-125x125.jpg"
+      },
+      {
+        "name": "Biotechnology Books",
+        "page": "https://dir.indiamart.com/impcat/biotechnology-books.html",
+        "thumbnail": "http://3.imimg.com/data3/RB/ME/GLADMIN-4422/biotechnology-books-125x125.jpg"
+      },
+      {
+        "name": "Industrial Directories",
+        "page": "https://dir.indiamart.com/impcat/industrial-directories.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/DD/GLADMIN-10991/industrial-directories-125x125.gif"
+      },
+      {
+        "name": "Electrical Engineering Handbook",
+        "page": "https://dir.indiamart.com/impcat/electrical-engineering-handbook.html",
+        "thumbnail": "http://5.imimg.com/data5/ZZ/ZZ/GLADMIN-/a-img922-9477-i8gvsp-125x125.jpg"
+      },
+      {
+        "name": "Student Handbook",
+        "page": "https://dir.indiamart.com/impcat/student-handbook.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/GN/GLADMIN-138782/student-handbook-125x125.jpg"
+      },
+      {
+        "name": "Humanities Books",
+        "page": "https://dir.indiamart.com/impcat/humanities-books.html",
+        "thumbnail": "http://3.imimg.com/data3/EQ/PQ/GLADMIN-42140/humanities-books-125x125.jpg"
+      },
+      {
+        "name": "Diet Nutrition Book",
+        "page": "https://dir.indiamart.com/impcat/diet-nutrition-book.html",
+        "thumbnail": "http://5.imimg.com/data5/MG/JR/AO/GLADMIN-65832/diet-nutrition-book-125x125.jpg"
+      },
+      {
+        "name": "Arabic Books",
+        "page": "https://dir.indiamart.com/impcat/arabic-books.html",
+        "thumbnail": "http://3.imimg.com/data3/JO/HI/GLADMIN-88368/arabic-books-125x125.jpg"
+      },
+      {
+        "name": "Philosophy Book",
+        "page": "https://dir.indiamart.com/impcat/philosophy-book.html",
+        "thumbnail": "http://4.imimg.com/data4/HO/RV/GLADMIN-185508/philosophy-book-125x125.jpg"
+      },
+      {
+        "name": "Administrative Services Books",
+        "page": "https://dir.indiamart.com/impcat/administrative-services-books.html",
+        "thumbnail": "http://5.imimg.com/data5/PX/VI/PG/GLADMIN-68087/administrative-services-books-125x125.png"
+      },
+      {
+        "name": "Audio Books",
+        "page": "https://dir.indiamart.com/impcat/audio-books.html",
+        "thumbnail": "http://3.imimg.com/data3/JV/BY/GLADMIN-22173/audio-books-125x125.jpg"
+      },
+      {
+        "name": "Photography Books",
+        "page": "https://dir.indiamart.com/impcat/photography-books.html",
+        "thumbnail": "http://3.imimg.com/data3/TQ/IN/GLADMIN-34295/photography-books-125x125.jpg"
+      },
+      {
+        "name": "Phone Book",
+        "page": "https://dir.indiamart.com/impcat/phone-book.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/SC/GLADMIN-33995/phone-book-125x125.jpg"
+      },
+      {
+        "name": "Orthopaedics Books",
+        "page": "https://dir.indiamart.com/impcat/orthopaedics-books.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/CA/GLADMIN-7586/orthopaedics-books-125x125.jpg"
+      },
+      {
+        "name": "Hotel Management Books",
+        "page": "https://dir.indiamart.com/impcat/hotel-management-books.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/CR/GLADMIN-10778/hotel-management-books-125x125.jpg"
+      },
+      {
+        "name": "Theological Books",
+        "page": "https://dir.indiamart.com/impcat/theological-books.html",
+        "thumbnail": "http://5.imimg.com/data5/PL/RV/GLADMIN-2/image_20170706_115627_6206-125x125.jpg"
+      },
+      {
+        "name": "Indological Books",
+        "page": "https://dir.indiamart.com/impcat/indological-books.html",
+        "thumbnail": "http://3.imimg.com/data3/IQ/MA/GLADMIN-10963/indological-books-125x125.jpg"
+      },
+      {
+        "name": "Autograph Book",
+        "page": "https://dir.indiamart.com/impcat/autograph-book.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/FP/GLADMIN-50027/autograph-book-125x125.jpg"
+      },
+      {
+        "name": "Genetic Engineering Books",
+        "page": "https://dir.indiamart.com/impcat/genetic-engineering-books.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/RB/GLADMIN-11995/genetic-engineering-books-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "General Books",
+    "category_thumbnail": "http://3.imimg.com/data3/AF/JT/GLADMIN-50028/general-books-125x125.jpg",
+    "items": [
+      {
+        "name": "Music Book",
+        "page": "https://dir.indiamart.com/impcat/music-book.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/SN/GLADMIN-78283/music-book-125x125.jpg"
+      },
+      {
+        "name": "Memo Book",
+        "page": "https://dir.indiamart.com/impcat/memo-book.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/AL/GLADMIN-95790/memo-book-125x125.jpg"
+      },
+      {
+        "name": "Scrapbook",
+        "page": "https://dir.indiamart.com/impcat/scrap-book.html",
+        "thumbnail": "http://4.imimg.com/data4/KR/HX/GLADMIN-183295/scrap-book-125x125.jpg"
+      },
+      {
+        "name": "Ayurved Book",
+        "page": "https://dir.indiamart.com/impcat/ayurved-book.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/375213444/MT/ME/FX/90525/ayurved-book-125x125.png"
+      },
+      {
+        "name": "Vedic Maths Books",
+        "page": "https://dir.indiamart.com/impcat/vedic-maths-books.html",
+        "thumbnail": "http://4.imimg.com/data4/VS/SU/GLADMIN-178338/vedic-maths-books-125x125.jpg"
+      },
+      {
+        "name": "Ishihara Book",
+        "page": "https://dir.indiamart.com/impcat/ishihara-book.html",
+        "thumbnail": "http://5.imimg.com/data5/JR/YS/GLADMIN-2/ishihara-book-125x125.jpg"
+      },
+      {
+        "name": "Jewellery Books",
+        "page": "https://dir.indiamart.com/impcat/jewellery-books.html",
+        "thumbnail": "http://3.imimg.com/data3/VN/OF/GLADMIN-144845/jewellery-books-125x125.jpg"
+      },
+      {
+        "name": "Scrapbook Kit",
+        "page": "https://dir.indiamart.com/impcat/scrapbook-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/OC/GLADMIN-116635/scrapbook-kit-125x125.jpg"
+      },
+      {
+        "name": "Hardcover Book",
+        "page": "https://dir.indiamart.com/impcat/hardcover-book.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/MA/GLADMIN-77606/hardcover-book-125x125.jpg"
+      },
+      {
+        "name": "Paperback Book",
+        "page": "https://dir.indiamart.com/impcat/paperback-book.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/BP/GLADMIN-78284/paperback-book-125x125.jpg"
+      },
+      {
+        "name": "Tourism Books",
+        "page": "https://dir.indiamart.com/impcat/tourism-books.html",
+        "thumbnail": "http://3.imimg.com/data3/XR/DK/GLADMIN-156326/tourism-books-125x125.jpg"
+      },
+      {
+        "name": "Holistic Health Books",
+        "page": "https://dir.indiamart.com/impcat/holistic-health-books.html",
+        "thumbnail": "http://3.imimg.com/data3/VB/TY/GLADMIN-30446/holistic-health-books-125x125.jpg"
+      },
+      {
+        "name": "Yoga Books",
+        "page": "https://dir.indiamart.com/impcat/yoga-books.html",
+        "thumbnail": "http://4.imimg.com/data4/YD/HG/GLADMIN-180084/yoga-books-125x125.jpg"
+      },
+      {
+        "name": "Hardbound Book",
+        "page": "https://dir.indiamart.com/impcat/hardbound-book.html",
+        "thumbnail": "http://3.imimg.com/data3/CB/VN/GLADMIN-94752/hardbound-book-125x125.jpg"
+      },
+      {
+        "name": "TV Repairing Book",
+        "page": "https://dir.indiamart.com/impcat/tv-repairing-book.html",
+        "thumbnail": "http://3.imimg.com/data3/QX/DX/GLADMIN-177783/tv-repairing-book-125x125.jpg"
+      },
+      {
+        "name": "Essay Books",
+        "page": "https://dir.indiamart.com/impcat/essay-books.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/a-img922-7828-qwkthe-125x125.jpg"
+      },
+      {
+        "name": "Digital Book",
+        "page": "https://dir.indiamart.com/impcat/digital-book.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/TD/GLADMIN-77605/digital-book-125x125.jpg"
+      },
+      {
+        "name": "Mehandi Book",
+        "page": "https://dir.indiamart.com/impcat/mehndi-book.html",
+        "thumbnail": "http://5.imimg.com/data5/BM/CW/GLADMIN-2/mehndi-book-125x125.jpg"
+      },
+      {
+        "name": "Instruction Book",
+        "page": "https://dir.indiamart.com/impcat/instruction-book.html",
+        "thumbnail": "http://3.imimg.com/data3/JT/NI/GLADMIN-78282/instruction-book-125x125.jpg"
+      },
+      {
+        "name": "Women Health Book",
+        "page": "https://dir.indiamart.com/impcat/womens-health-book.html",
+        "thumbnail": "http://4.imimg.com/data4/HB/WD/GLADMIN-182300/womens-health-book-125x125.jpg"
+      },
+      {
+        "name": "Herbal Remedies Book",
+        "page": "https://dir.indiamart.com/impcat/herbal-remedies-book.html",
+        "thumbnail": "http://4.imimg.com/data4/YO/LI/GLADMIN-182306/herbal-remedies-book-125x125.jpg"
+      },
+      {
+        "name": "Aromatherapy Books",
+        "page": "https://dir.indiamart.com/impcat/aromatherapy-books.html",
+        "thumbnail": "http://3.imimg.com/data3/HR/XT/GLADMIN-22381/aromatherapy-books-125x125.jpg"
+      },
+      {
+        "name": "Cricket Books",
+        "page": "https://dir.indiamart.com/impcat/cricket-books.html",
+        "thumbnail": "http://3.imimg.com/data3/OB/KK/GLADMIN-160847/cricket-books-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Handbook",
+        "page": "https://dir.indiamart.com/impcat/aquarium-handbook.html",
+        "thumbnail": "http://3.imimg.com/data3/JW/ME/GLADMIN-137179/aquarium-handbook-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Study Guides",
+    "category_thumbnail": "http://3.imimg.com/data3/LX/YW/GLADMIN-39221/study-guides-125x125.jpg",
+    "items": [
+      {
+        "name": "Model Question Papers",
+        "page": "https://dir.indiamart.com/impcat/model-question-papers.html",
+        "thumbnail": "http://3.imimg.com/data3/WY/FD/GLADMIN-167672/model-question-papers-125x125.jpg"
+      },
+      {
+        "name": "Political State Maps",
+        "page": "https://dir.indiamart.com/impcat/political-state-maps.html",
+        "thumbnail": "http://3.imimg.com/data3/SD/YA/GLADMIN-119329/political-state-maps-125x125.jpg"
+      },
+      {
+        "name": "World Map",
+        "page": "https://dir.indiamart.com/impcat/world-map.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ZZ/RR/DB/92368/world-map-125x125.jpg"
+      },
+      {
+        "name": "Ebooks",
+        "page": "https://dir.indiamart.com/impcat/ebooks.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/PL/GLADMIN-105856/ebooks-125x125.jpg"
+      },
+      {
+        "name": "Visual Aids",
+        "page": "https://dir.indiamart.com/impcat/visual-aids.html",
+        "thumbnail": "http://3.imimg.com/data3/DA/YV/GLADMIN-106880/visual-aids-125x125.jpg"
+      },
+      {
+        "name": "Montessori Puzzle Map",
+        "page": "https://dir.indiamart.com/impcat/montessori-puzzle-map.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/WC/GLADMIN-44719/montessori-puzzle-map-125x125.jpg"
+      },
+      {
+        "name": "RRB Competition Book",
+        "page": "https://dir.indiamart.com/impcat/rrb-competition-book.html",
+        "thumbnail": "http://3.imimg.com/data3/MV/LP/GLADMIN-178060/rrb-competition-book-125x125.jpeg"
+      },
+      {
+        "name": "Board Books",
+        "page": "https://dir.indiamart.com/impcat/board-books.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/HE/GLADMIN-49696/board-books-125x125.jpg"
+      },
+      {
+        "name": "Technical Books",
+        "page": "https://dir.indiamart.com/impcat/technical-books.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/RK/GLADMIN-39678/technical-books-125x125.jpg"
+      },
+      {
+        "name": "Physiology Books",
+        "page": "https://dir.indiamart.com/impcat/physiology-books.html",
+        "thumbnail": "http://3.imimg.com/data3/UR/GP/GLADMIN-42143/physiology-books-125x125.jpg"
+      },
+      {
+        "name": "IGNOU Books",
+        "page": "https://dir.indiamart.com/impcat/ignou-books.html",
+        "thumbnail": "http://3.imimg.com/data3/SV/YH/GLADMIN-145294/ignou-books-125x125.jpg"
+      },
+      {
+        "name": "Educational CDs",
+        "page": "https://dir.indiamart.com/impcat/educational-cds.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/VQ/GLADMIN-6798/educational-cds-125x125.jpg"
+      },
+      {
+        "name": "Road Atlases",
+        "page": "https://dir.indiamart.com/impcat/road-atlases.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/UU/GLADMIN-36479/road-atlases-125x125.jpg"
+      },
+      {
+        "name": "Anthropology Book",
+        "page": "https://dir.indiamart.com/impcat/anthropology-book.html",
+        "thumbnail": "http://3.imimg.com/data3/KI/RT/GLADMIN-143815/anthropology-book-125x125.jpg"
+      },
+      {
+        "name": "Kids Notebook",
+        "page": "https://dir.indiamart.com/impcat/kids-notebook.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/FN/GLADMIN-72870/kids-notebook-125x125.jpg"
+      },
+      {
+        "name": "Physical State Maps",
+        "page": "https://dir.indiamart.com/impcat/physical-state-maps.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/BI/GLADMIN-119330/physical-state-maps-125x125.jpg"
+      },
+      {
+        "name": "Educational DVD",
+        "page": "https://dir.indiamart.com/impcat/educational-dvd.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/FJ/GLADMIN-151602/educational-dvd-125x125.jpg"
+      },
+      {
+        "name": "Tax Books",
+        "page": "https://dir.indiamart.com/impcat/tax-books.html",
+        "thumbnail": "http://3.imimg.com/data3/PH/OG/GLADMIN-158863/tax-books-125x125.jpg"
+      },
+      {
+        "name": "Phonics Book",
+        "page": "https://dir.indiamart.com/impcat/phonics-book.html",
+        "thumbnail": "http://5.imimg.com/data5/NP/UX/VQ/GLADMIN-68087/phonics-book-125x125.png"
+      },
+      {
+        "name": "Auditing Books",
+        "page": "https://dir.indiamart.com/impcat/auditing-books.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/BQ/GLADMIN-4959/auditing-books-125x125.jpg"
+      },
+      {
+        "name": "Medical Dictionary",
+        "page": "https://dir.indiamart.com/impcat/medical-dictionary.html",
+        "thumbnail": "http://4.imimg.com/data4/GS/SM/GLADMIN-2/medical-dictionary-125x125.jpg"
+      },
+      {
+        "name": "Encyclopedia CDs",
+        "page": "https://dir.indiamart.com/impcat/encyclopedia-cds.html",
+        "thumbnail": "http://3.imimg.com/data3/OA/BT/GLADMIN-7018/encyclopedia-cds-125x125.jpg"
+      },
+      {
+        "name": "Map Board",
+        "page": "https://dir.indiamart.com/impcat/map-board.html",
+        "thumbnail": "http://3.imimg.com/data3/KI/GV/GLADMIN-100078/map-board-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Magazines",
+    "category_thumbnail": "http://3.imimg.com/data3/LB/VX/GLADMIN-43805/magazines-125x125.jpg",
+    "items": [
+      {
+        "name": "Novels",
+        "page": "https://dir.indiamart.com/impcat/novels.html",
+        "thumbnail": "http://3.imimg.com/data3/CG/VV/GLADMIN-133881/novels-125x125.jpg"
+      },
+      {
+        "name": "Business Magazines",
+        "page": "https://dir.indiamart.com/impcat/business-magazines.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/DG/GLADMIN-43627/business-magazines-125x125.jpg"
+      },
+      {
+        "name": "Fashion Magazine",
+        "page": "https://dir.indiamart.com/impcat/fashion-magazine.html",
+        "thumbnail": "http://3.imimg.com/data3/OP/TT/GLADMIN-20952/fashion-magazine-125x125.jpg"
+      },
+      {
+        "name": "Astrological Magazines",
+        "page": "https://dir.indiamart.com/impcat/astrological-magazines.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/NF/GLADMIN-4944/astrological-magazines-125x125.jpg"
+      },
+      {
+        "name": "Fashion Books",
+        "page": "https://dir.indiamart.com/impcat/fashion-books.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/XA/GLADMIN-133839/fashion-books-125x125.jpg"
+      },
+      {
+        "name": "Picture Book",
+        "page": "https://dir.indiamart.com/impcat/picture-book.html",
+        "thumbnail": "http://3.imimg.com/data3/NU/LU/GLADMIN-72871/picture-book-125x125.gif"
+      },
+      {
+        "name": "Interior Design Books",
+        "page": "https://dir.indiamart.com/impcat/interior-design-books.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/YO/GLADMIN-133862/interior-design-books-125x125.jpg"
+      },
+      {
+        "name": "Science Magazines",
+        "page": "https://dir.indiamart.com/impcat/science-magazines.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/GV/GLADMIN-43626/science-magazines-125x125.jpg"
+      },
+      {
+        "name": "Homes Magazine",
+        "page": "https://dir.indiamart.com/impcat/homes-magazine.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/homes-magazine-125x125.jpg"
+      },
+      {
+        "name": "Magazine Advertisement",
+        "page": "https://dir.indiamart.com/impcat/magazine-advertisement.html",
+        "thumbnail": "http://3.imimg.com/data3/VR/MC/GLADMIN-32270/magazine-advertisement-125x125.jpg"
+      },
+      {
+        "name": "Geographical Magazines",
+        "page": "https://dir.indiamart.com/impcat/geographical-magazines.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/EI/GLADMIN-43625/geographical-magazines-125x125.jpg"
+      },
+      {
+        "name": "Beauty Magazine",
+        "page": "https://dir.indiamart.com/impcat/beauty-magazine.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/UU/GLADMIN-/6034-6240824073_76947a73cd-125x125.jpg"
+      },
+      {
+        "name": "School Magazine",
+        "page": "https://dir.indiamart.com/impcat/school-magazine.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/a-img924-7094-oxlfnn-125x125.jpg"
+      },
+      {
+        "name": "Film Magazines",
+        "page": "https://dir.indiamart.com/impcat/film-magazines.html",
+        "thumbnail": "http://3.imimg.com/data3/MO/RC/GLADMIN-27487/film-magazines-125x125.jpg"
+      },
+      {
+        "name": "Sports Magazine",
+        "page": "https://dir.indiamart.com/impcat/sports-magazine.html",
+        "thumbnail": "http://4.imimg.com/data4/ZZ/ZZ/GLADMIN-/sports-magazine-125x125.jpg"
+      },
+      {
+        "name": "Photography Magazines",
+        "page": "https://dir.indiamart.com/impcat/photography-magazines.html",
+        "thumbnail": "http://5.imimg.com/data5/AX/VQ/GLADMIN-2/photography-magazines-125x125.jpg"
+      },
+      {
+        "name": "Engineering Magazine",
+        "page": "https://dir.indiamart.com/impcat/engineering-magazine.html",
+        "thumbnail": "http://3.imimg.com/data3/WE/XQ/GLADMIN-137227/engineering-magazine-125x125.jpg"
+      },
+      {
+        "name": "Financial Magazines",
+        "page": "https://dir.indiamart.com/impcat/financial-magazines.html",
+        "thumbnail": "http://3.imimg.com/data3/RC/UK/GLADMIN-43806/financial-magazines-125x125.jpg"
+      },
+      {
+        "name": "Health Magazines",
+        "page": "https://dir.indiamart.com/impcat/health-magazines.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/WW/GLADMIN-/health-magazines-125x125.jpg"
+      },
+      {
+        "name": "Architectural Magazines",
+        "page": "https://dir.indiamart.com/impcat/architectural-magazines.html",
+        "thumbnail": "http://5.imimg.com/data5/CL/AV/GLADMIN-2/architectural-magazines-125x125.jpg"
+      },
+      {
+        "name": "Jewelry Magazines",
+        "page": "https://dir.indiamart.com/impcat/jewelry-magazines.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/DS/GLADMIN-160635/jewelry-magazines-125x125.jpg"
+      },
+      {
+        "name": "Wedding Magazine",
+        "page": "https://dir.indiamart.com/impcat/wedding-magazine.html",
+        "thumbnail": "http://5.imimg.com/data5/IS/PI/GLADMIN-2/wedding-magazine-125x125.jpg"
+      },
+      {
+        "name": "Technical Magazine",
+        "page": "https://dir.indiamart.com/impcat/technical-magazine.html",
+        "thumbnail": "http://3.imimg.com/data3/NX/AV/GLADMIN-137228/technical-magazine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Teaching Charts",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SP/LA/IT/92368/teaching-charts-125x125.jpg",
+    "items": [
+      {
+        "name": "Teaching Aid",
+        "page": "https://dir.indiamart.com/impcat/teaching-aid.html",
+        "thumbnail": "http://4.imimg.com/data4/JG/AI/GLADMIN-2/teaching-aid-125x125.png"
+      },
+      {
+        "name": "Periodic Table",
+        "page": "https://dir.indiamart.com/impcat/periodic-table.html",
+        "thumbnail": "http://5.imimg.com/data5/FH/HN/SP/GLADMIN-68087/periodic-table-125x125.jpg"
+      },
+      {
+        "name": "Industrial Chart",
+        "page": "https://dir.indiamart.com/impcat/industrial-chart.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/EY/GLADMIN-101962/industrial-chart-125x125.jpg"
+      },
+      {
+        "name": "Circular Chart",
+        "page": "https://dir.indiamart.com/impcat/circular-chart.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/YY/GLADMIN-101961/circular-chart-125x125.jpg"
+      },
+      {
+        "name": "Recording Chart",
+        "page": "https://dir.indiamart.com/impcat/recording-chart.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/PF/GLADMIN-101963/recording-chart-125x125.jpg"
+      },
+      {
+        "name": "Yoga Chart",
+        "page": "https://dir.indiamart.com/impcat/yoga-chart.html",
+        "thumbnail": "http://3.imimg.com/data3/CD/GM/GLADMIN-177654/yoga-chart-125x125.jpg"
+      },
+      {
+        "name": "Meteorological Charts",
+        "page": "https://dir.indiamart.com/impcat/meteorological-charts.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/VH/GLADMIN-33442/meteorological-charts-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Science Charts",
+    "category_thumbnail": "http://4.imimg.com/data4/EC/QB/GLADMIN-181992/science-charts-125x125.jpg",
+    "items": [
+      {
+        "name": "Medical Chart",
+        "page": "https://dir.indiamart.com/impcat/medical-chart.html",
+        "thumbnail": "http://5.imimg.com/data5/RS/RY/GLADMIN-2/medical-chart-125x125.jpg"
+      },
+      {
+        "name": "Human Physiology Charts",
+        "page": "https://dir.indiamart.com/impcat/human-physiology-charts.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/YY/GLADMIN-142773/human-physiology-charts-125x125.jpg"
+      },
+      {
+        "name": "Human Anatomy Charts",
+        "page": "https://dir.indiamart.com/impcat/human-anatomy-charts.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/SF/GLADMIN-156374/human-anatomy-charts-125x125.jpg"
+      },
+      {
+        "name": "Material Safety Data Sheet",
+        "page": "https://dir.indiamart.com/impcat/material-safety-data-sheet.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/HR/GLADMIN-167134/material-safety-data-sheet-125x125.jpg"
+      },
+      {
+        "name": "Biological Charts",
+        "page": "https://dir.indiamart.com/impcat/biological-charts.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/QD/GLADMIN-49960/biological-charts-125x125.jpg"
+      },
+      {
+        "name": "Pregnancy Chart",
+        "page": "https://dir.indiamart.com/impcat/pregnancy-chart.html",
+        "thumbnail": "http://4.imimg.com/data4/II/II/GLADMIN-/pregnancy-chart-125x125.gif"
+      },
+      {
+        "name": "Height & Growth Chart",
+        "page": "https://dir.indiamart.com/impcat/height-and-growth-chart.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/TS/GLADMIN-162022/height-and-growth-chart-125x125.jpg"
+      },
+      {
+        "name": "Human Eye Chart",
+        "page": "https://dir.indiamart.com/impcat/human-eye-chart.html",
+        "thumbnail": "http://5.imimg.com/data5/RR/RR/GLADMIN-/human-eye-chart-125x125.jpg"
+      },
+      {
+        "name": "EVA Growing Chart",
+        "page": "https://dir.indiamart.com/impcat/eva-growing-chart.html",
+        "thumbnail": "http://3.imimg.com/data3/FX/MN/GLADMIN-108576/eva-growing-chart-125x125.jpg"
+      },
+      {
+        "name": "Heart Anatomy Chart",
+        "page": "https://dir.indiamart.com/impcat/heart-anatomy-chart.html",
+        "thumbnail": "http://4.imimg.com/data4/II/II/GLADMIN-/heart-anatomy-chart-125x125.jpg"
+      },
+      {
+        "name": "Endocrinology Chart",
+        "page": "https://dir.indiamart.com/impcat/endocrinology-chart.html",
+        "thumbnail": "http://5.imimg.com/data5/SF/PB/GLADMIN-2/endocrinology-chart-125x125.png"
+      }
+    ]
+  }
+]

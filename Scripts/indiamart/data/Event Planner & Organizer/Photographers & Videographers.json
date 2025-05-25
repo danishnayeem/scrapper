@@ -1,0 +1,339 @@
+[
+  {
+    "category_name": "Photography Services",
+    "category_thumbnail": "http://3.imimg.com/data3/WP/CP/GLADMIN-20989/photography-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Product Photography",
+        "page": "https://dir.indiamart.com/impcat/product-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/AJ/GLADMIN-35772/product-photography-125x125.jpg"
+      },
+      {
+        "name": "Wedding Photographers",
+        "page": "https://dir.indiamart.com/impcat/wedding-photographers.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/OJ/GLADMIN-40973/wedding-photographers-125x125.jpg"
+      },
+      {
+        "name": "Modeling Photo Shoot",
+        "page": "https://dir.indiamart.com/impcat/modeling-photo-shoot.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/LM/GLADMIN-171980/modeling-photo-shoot-125x125.jpg"
+      },
+      {
+        "name": "Photo Editing Services",
+        "page": "https://dir.indiamart.com/impcat/photo-editing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/WV/GLADMIN-168984/photo-editing-services-125x125.jpg"
+      },
+      {
+        "name": "Album Designing Services",
+        "page": "https://dir.indiamart.com/impcat/album-designing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/QM/GLADMIN-170232/album-designing-services-125x125.jpg"
+      },
+      {
+        "name": "Baby Photography Services",
+        "page": "https://dir.indiamart.com/impcat/baby-photography-services.html",
+        "thumbnail": "http://3.imimg.com/data3/QS/EI/GLADMIN-171309/baby-photography-services-125x125.jpg"
+      },
+      {
+        "name": "Model Portfolio Photography",
+        "page": "https://dir.indiamart.com/impcat/model-portfolio-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/WY/GLADMIN-171979/model-portfolio-photography-125x125.jpg"
+      },
+      {
+        "name": "Maternity Photography Service",
+        "page": "https://dir.indiamart.com/impcat/maternity-photography-service.html",
+        "thumbnail": "http://5.imimg.com/data5/OL/NC/KV/GLADMIN-68087/maternity-photography-service-125x125.png"
+      },
+      {
+        "name": "Fashion Photography",
+        "page": "https://dir.indiamart.com/impcat/fashion-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/KG/GLADMIN-28254/fashion-photography-125x125.jpg"
+      },
+      {
+        "name": "Studio Photography Service",
+        "page": "https://dir.indiamart.com/impcat/studio-photography-service.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/YB/GLADMIN-169682/studio-photography-service-125x125.jpg"
+      },
+      {
+        "name": "Event Photography",
+        "page": "https://dir.indiamart.com/impcat/event-photography.html",
+        "thumbnail": "http://4.imimg.com/data4/ON/IX/GLADMIN-181158/event-photography-125x125.jpg"
+      },
+      {
+        "name": "Birthday Photography",
+        "page": "https://dir.indiamart.com/impcat/birthday-photography.html",
+        "thumbnail": "http://5.imimg.com/data5/ON/TU/GLADMIN-2/birthday-party-photography-service-125x125.jpg"
+      },
+      {
+        "name": "Jewellery Photography",
+        "page": "https://dir.indiamart.com/impcat/jewellery-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/DQ/GLADMIN-148119/jewellery-photography-125x125.jpg"
+      },
+      {
+        "name": "Photographic Studios",
+        "page": "https://dir.indiamart.com/impcat/photographic-studios.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/KC/GLADMIN-34294/photographic-studios-125x125.jpg"
+      },
+      {
+        "name": "Passport Photo Service",
+        "page": "https://dir.indiamart.com/impcat/passport-photo-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HN/FU/GLADMIN-170608/passport-photo-service-125x125.jpg"
+      },
+      {
+        "name": "Photo Frames Service",
+        "page": "https://dir.indiamart.com/impcat/photo-frames-service.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/US/GLADMIN-172399/photo-frames-service-125x125.jpg"
+      },
+      {
+        "name": "Photo Restoration Service",
+        "page": "https://dir.indiamart.com/impcat/photo-restoration-service.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/HF/GLADMIN-168474/photo-restoration-service-125x125.jpg"
+      },
+      {
+        "name": "Virtual Tour Services",
+        "page": "https://dir.indiamart.com/impcat/virtual-tour-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/GU/GLADMIN-173370/virtual-tour-services-125x125.jpg"
+      },
+      {
+        "name": "Aerial Photography Service",
+        "page": "https://dir.indiamart.com/impcat/aerial-photography-service.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/QU/GLADMIN-160613/aerial-photography-service-125x125.jpg"
+      },
+      {
+        "name": "Digital Photography",
+        "page": "https://dir.indiamart.com/impcat/digital-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/PY/SO/GLADMIN-26642/digital-photography-125x125.jpg"
+      },
+      {
+        "name": "Industrial Photography",
+        "page": "https://dir.indiamart.com/impcat/industrial-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/HW/GLADMIN-30702/industrial-photography-125x125.jpg"
+      },
+      {
+        "name": "Food Photography",
+        "page": "https://dir.indiamart.com/impcat/food-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/KY/GLADMIN-148118/food-photography-125x125.jpg"
+      },
+      {
+        "name": "Corporate Events Photography",
+        "page": "https://dir.indiamart.com/impcat/corporate-events-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/SK/GU/GLADMIN-170145/corporate-events-photography-125x125.jpg"
+      },
+      {
+        "name": "Outdoor Photography",
+        "page": "https://dir.indiamart.com/impcat/outdoor-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/EV/FQ/GLADMIN-148120/outdoor-photography-125x125.jpg"
+      },
+      {
+        "name": "Commercial Photographer Services",
+        "page": "https://dir.indiamart.com/impcat/commercial-photographer-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MR/XV/GLADMIN-173579/commercial-photographer-services-125x125.jpg"
+      },
+      {
+        "name": "Image Background Removal Services",
+        "page": "https://dir.indiamart.com/impcat/image-background-removal-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/PU/GLADMIN-169938/image-background-removal-services-125x125.jpg"
+      },
+      {
+        "name": "Portraits Photography Services",
+        "page": "https://dir.indiamart.com/impcat/portraits-photography-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LB/UC/GLADMIN-169539/portraits-photography-services-125x125.jpg"
+      },
+      {
+        "name": "Wildlife Photography",
+        "page": "https://dir.indiamart.com/impcat/wildlife-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/VB/GV/GLADMIN-43113/wildlife-photography-125x125.jpg"
+      },
+      {
+        "name": "Interior Photography Services",
+        "page": "https://dir.indiamart.com/impcat/interior-photography-services.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/XS/GLADMIN-172104/interior-photography-services-125x125.jpg"
+      },
+      {
+        "name": "Architectural Photography Services",
+        "page": "https://dir.indiamart.com/impcat/architectural-photography-services.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/NE/GLADMIN-169909/architectural-photography-services-125x125.jpg"
+      },
+      {
+        "name": "Image Clipping Path Services",
+        "page": "https://dir.indiamart.com/impcat/image-clipping-path-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IE/DF/GLADMIN-174417/image-clipping-path-services-125x125.jpg"
+      },
+      {
+        "name": "360 Degree Panorama Service",
+        "page": "https://dir.indiamart.com/impcat/360-degree-panorama-service.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/PV/GLADMIN-169833/360-degree-panorama-service-125x125.jpg"
+      },
+      {
+        "name": "3D Photography Services",
+        "page": "https://dir.indiamart.com/impcat/3d-photography-services.html",
+        "thumbnail": "http://3.imimg.com/data3/JN/RE/GLADMIN-173890/3d-photography-services-125x125.jpg"
+      },
+      {
+        "name": "Rituals Photography Service",
+        "page": "https://dir.indiamart.com/impcat/rituals-photography-service.html",
+        "thumbnail": "http://3.imimg.com/data3/CB/KY/GLADMIN-169610/rituals-photography-service-125x125.jpg"
+      },
+      {
+        "name": "Advertising Photography Services",
+        "page": "https://dir.indiamart.com/impcat/advertising-photography-services.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/GK/GLADMIN-169869/advertising-photography-services-125x125.jpg"
+      },
+      {
+        "name": "Photo Enhancement Services",
+        "page": "https://dir.indiamart.com/impcat/photo-enhancement-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UY/HP/GLADMIN-168473/photo-enhancement-services-125x125.jpg"
+      },
+      {
+        "name": "360 Virtual Tour Photography",
+        "page": "https://dir.indiamart.com/impcat/360-virtual-tour-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/VC/GLADMIN-175551/360-virtual-tour-photography-125x125.jpg"
+      },
+      {
+        "name": "Digital Image Processing Services",
+        "page": "https://dir.indiamart.com/impcat/digital-image-processing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/AK/GLADMIN-170376/digital-image-processing-services-125x125.jpg"
+      },
+      {
+        "name": "Drum Scanning Services",
+        "page": "https://dir.indiamart.com/impcat/drum-scanning-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FM/QS/GLADMIN-169304/drum-scanning-services-125x125.jpg"
+      },
+      {
+        "name": "Nature Photography",
+        "page": "https://dir.indiamart.com/impcat/nature-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/IQ/GLADMIN-43112/nature-photography-125x125.jpg"
+      },
+      {
+        "name": "Art Portfolio",
+        "page": "https://dir.indiamart.com/impcat/art-portfolio.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/VP/GLADMIN-12505/art-portfolio-125x125.jpg"
+      },
+      {
+        "name": "Film Scanning Services",
+        "page": "https://dir.indiamart.com/impcat/film-scanning-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GY/HO/GLADMIN-170482/film-scanning-services-125x125.jpg"
+      },
+      {
+        "name": "Color Photography Services",
+        "page": "https://dir.indiamart.com/impcat/color-photography-services.html",
+        "thumbnail": "http://3.imimg.com/data3/YJ/EO/GLADMIN-170072/color-photography-services-125x125.jpg"
+      },
+      {
+        "name": "Landscape Photography",
+        "page": "https://dir.indiamart.com/impcat/landscape-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/KG/GLADMIN-43114/landscape-photography-125x125.jpg"
+      },
+      {
+        "name": "Clipping Path Services",
+        "page": "https://dir.indiamart.com/impcat/clipping-path-services.html",
+        "thumbnail": "http://3.imimg.com/data3/QO/RC/GLADMIN-170052/clipping-path-services-125x125.jpg"
+      },
+      {
+        "name": "Tabletop Photography",
+        "page": "https://dir.indiamart.com/impcat/table-top-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/NP/GLADMIN-169693/table-top-photography-125x125.jpg"
+      },
+      {
+        "name": "Digital Image Enhancement Services",
+        "page": "https://dir.indiamart.com/impcat/digital-image-enhancement-services.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/YA/GLADMIN-175476/digital-image-enhancement-services-125x125.jpg"
+      },
+      {
+        "name": "Still Photography",
+        "page": "https://dir.indiamart.com/impcat/still-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/RB/GLADMIN-38841/still-photography-125x125.jpg"
+      },
+      {
+        "name": "Film Photography Service",
+        "page": "https://dir.indiamart.com/impcat/film-photography-service.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/DU/GLADMIN-170481/film-photography-service-125x125.jpg"
+      },
+      {
+        "name": "Fine Art Photography",
+        "page": "https://dir.indiamart.com/impcat/fine-art-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/XN/GLADMIN-171770/fine-art-photography-125x125.jpg"
+      },
+      {
+        "name": "Underwater Photography Services",
+        "page": "https://dir.indiamart.com/impcat/underwater-photography-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/NE/GLADMIN-151292/underwater-photography-services-125x125.jpg"
+      },
+      {
+        "name": "Stock Photography",
+        "page": "https://dir.indiamart.com/impcat/stock-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/MP/GLADMIN-176491/stock-photography-125x125.jpg"
+      },
+      {
+        "name": "Photo Etching Services",
+        "page": "https://dir.indiamart.com/impcat/photo-etching-services.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/XW/GLADMIN-169527/photo-etching-services-125x125.jpg"
+      },
+      {
+        "name": "Large Format Photography",
+        "page": "https://dir.indiamart.com/impcat/large-format-photography.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/KW/GLADMIN-31541/large-format-photography-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Video Services",
+    "category_thumbnail": "http://3.imimg.com/data3/TE/QM/GLADMIN-122819/video-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Digital Video Editing Service",
+        "page": "https://dir.indiamart.com/impcat/digital-video-editing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/MF/GLADMIN-175478/digital-video-editing-service-125x125.jpg"
+      },
+      {
+        "name": "Video Editing",
+        "page": "https://dir.indiamart.com/impcat/video-editing.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371684857/EA/QY/ZQ/104148/video-editing-125x125.png"
+      },
+      {
+        "name": "Video Conversion Service",
+        "page": "https://dir.indiamart.com/impcat/video-conversion-service.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/QQ/GLADMIN-172048/video-conversion-service-125x125.jpg"
+      },
+      {
+        "name": "Videography Services",
+        "page": "https://dir.indiamart.com/impcat/videography-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GF/YG/GLADMIN-43115/videography-services-125x125.jpg"
+      },
+      {
+        "name": "Wedding Videography",
+        "page": "https://dir.indiamart.com/impcat/wedding-videography.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/TQ/GLADMIN-40977/wedding-videography-125x125.jpg"
+      },
+      {
+        "name": "Drone Videography Service",
+        "page": "https://dir.indiamart.com/impcat/drone-photography-videography-service.html",
+        "thumbnail": "http://5.imimg.com/data5/HR/EP/TP/GLADMIN-76037/drone-videography-service-125x125.jpg"
+      },
+      {
+        "name": "Explainer Videos",
+        "page": "https://dir.indiamart.com/impcat/explainer-videos.html",
+        "thumbnail": "http://4.imimg.com/data4/KC/RH/GLADMIN-185343/explainer-videos-125x125.jpg"
+      },
+      {
+        "name": "Audio-Video Editing Services",
+        "page": "https://dir.indiamart.com/impcat/audio-video-editing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/KL/GLADMIN-171296/audio-video-editing-services-125x125.jpg"
+      },
+      {
+        "name": "Event Videographers",
+        "page": "https://dir.indiamart.com/impcat/event-videographers.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/LV/GLADMIN-43116/event-videographers-125x125.jpg"
+      },
+      {
+        "name": "Photo Mixing Services",
+        "page": "https://dir.indiamart.com/impcat/photo-mixing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MH/BR/GLADMIN-174828/photo-mixing-services-125x125.jpg"
+      },
+      {
+        "name": "Video On Demand Service",
+        "page": "https://dir.indiamart.com/impcat/video-on-demand-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HK/VI/GLADMIN-175033/video-on-demand-service-125x125.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "category_name": "CAD Service",
+    "category_thumbnail": "http://3.imimg.com/data3/GU/XW/GLADMIN-88351/cad-service-125x125.jpg",
+    "items": [
+      {
+        "name": "3D Modeling Services",
+        "page": "https://dir.indiamart.com/impcat/3d-modeling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TJ/QT/GLADMIN-135841/3d-modeling-services-125x125.jpg"
+      },
+      {
+        "name": "Drawing Services",
+        "page": "https://dir.indiamart.com/impcat/drawing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/WW/BB/GLADMIN-43942/drawing-services-125x125.jpg"
+      },
+      {
+        "name": "CAD Training",
+        "page": "https://dir.indiamart.com/impcat/cad-training.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/KO/GLADMIN-137335/cad-training-125x125.jpg"
+      },
+      {
+        "name": "3D Modeling Design Services",
+        "page": "https://dir.indiamart.com/impcat/3d-modeling-design-services.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/YO/GLADMIN-174095/3d-modeling-design-services-125x125.jpg"
+      },
+      {
+        "name": "3D CAD Design Services",
+        "page": "https://dir.indiamart.com/impcat/3d-cad-design-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FY/YN/GLADMIN-175113/3d-cad-design-services-125x125.jpg"
+      },
+      {
+        "name": "CAD CAM Services",
+        "page": "https://dir.indiamart.com/impcat/cad-cam-services.html",
+        "thumbnail": "http://3.imimg.com/data3/QY/YA/GLADMIN-43009/cad-cam-services-125x125.jpg"
+      },
+      {
+        "name": "2D CAD Design Service",
+        "page": "https://dir.indiamart.com/impcat/2d-cad-design-service.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/LU/GLADMIN-158803/2d-cad-design-service-125x125.jpg"
+      },
+      {
+        "name": "Electrical Design Service",
+        "page": "https://dir.indiamart.com/impcat/electrical-design-service.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/XK/GLADMIN-169312/electrical-design-service-125x125.jpg"
+      },
+      {
+        "name": "CAD Drawing",
+        "page": "https://dir.indiamart.com/impcat/cad-drawing.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/BB/GLADMIN-133807/cad-drawing-125x125.jpg"
+      },
+      {
+        "name": "Sheet Metal Design",
+        "page": "https://dir.indiamart.com/impcat/sheet-metal-design.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/IN/QC/TT/81953/sheet-metal-design-125x125.jpg"
+      },
+      {
+        "name": "Layout Drawings Services",
+        "page": "https://dir.indiamart.com/impcat/layout-drawings-services.html",
+        "thumbnail": "http://3.imimg.com/data3/AT/AI/GLADMIN-174036/layout-drawings-services-125x125.jpg"
+      },
+      {
+        "name": "CAD Conversion Service",
+        "page": "https://dir.indiamart.com/impcat/cad-conversion.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/JR/GLADMIN-23044/cad-conversion-125x125.jpg"
+      },
+      {
+        "name": "Drafting Services",
+        "page": "https://dir.indiamart.com/impcat/drafting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/PA/GLADMIN-43465/drafting-services-125x125.jpg"
+      },
+      {
+        "name": "As-Built Drawings Service",
+        "page": "https://dir.indiamart.com/impcat/as-built-drawings-service.html",
+        "thumbnail": "http://3.imimg.com/data3/XV/TO/GLADMIN-169918/as-built-drawings-service-125x125.jpg"
+      },
+      {
+        "name": "3D CAD Modeling",
+        "page": "https://dir.indiamart.com/impcat/3d-industrial-modeling-service.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/VB/GLADMIN-169836/3d-industrial-modeling-service-125x125.jpg"
+      },
+      {
+        "name": "3D CAD Modelling Services",
+        "page": "https://dir.indiamart.com/impcat/3d-cad-modelling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/JJ/GLADMIN-175114/3d-cad-modelling-services-125x125.jpg"
+      },
+      {
+        "name": "Mechanical CAD Service",
+        "page": "https://dir.indiamart.com/impcat/mechanical-cad-service.html",
+        "thumbnail": "http://3.imimg.com/data3/PS/HM/GLADMIN-171943/mechanical-cad-service-125x125.jpg"
+      },
+      {
+        "name": "3D Mechanical CAD",
+        "page": "https://dir.indiamart.com/impcat/3d-mechanical-cad.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/TK/GLADMIN-169838/3d-mechanical-cad-125x125.jpg"
+      },
+      {
+        "name": "CAD Outsourcing Services",
+        "page": "https://dir.indiamart.com/impcat/cad-outsourcing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HN/RN/GLADMIN-169187/cad-outsourcing-services-125x125.jpg"
+      },
+      {
+        "name": "Solid Modeling Services",
+        "page": "https://dir.indiamart.com/impcat/solid-modeling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LK/FC/GLADMIN-169653/solid-modeling-services-125x125.jpg"
+      },
+      {
+        "name": "As Built 3D Modelling",
+        "page": "https://dir.indiamart.com/impcat/as-built-3d-modelling.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/PR/GLADMIN-174601/as-built-3d-modelling-125x125.jpg"
+      },
+      {
+        "name": "Solid Edge Training",
+        "page": "https://dir.indiamart.com/impcat/solid-edge-training.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/AG/GLADMIN-177725/solid-edge-training-125x125.jpg"
+      },
+      {
+        "name": "3D Modelling Training",
+        "page": "https://dir.indiamart.com/impcat/3d-modelling-training.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/items-3094-large_kettlebell_set_3d_model_f475e571-6f57-4003-9c90-3e434c029b18-125x125.jpg"
+      },
+      {
+        "name": "Technical Design Services",
+        "page": "https://dir.indiamart.com/impcat/technical-design-services.html",
+        "thumbnail": "http://3.imimg.com/data3/US/EW/GLADMIN-171067/technical-design-services-125x125.jpg"
+      },
+      {
+        "name": "Finite Element Modeling",
+        "page": "https://dir.indiamart.com/impcat/finite-element-modeling.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/HK/GLADMIN-170486/finite-element-modeling-125x125.jpg"
+      },
+      {
+        "name": "3D Mechanical Modelling Services",
+        "page": "https://dir.indiamart.com/impcat/3d-mechanical-modelling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/MH/GLADMIN-174591/3d-mechanical-modelling-services-125x125.jpg"
+      },
+      {
+        "name": "Modelling Services",
+        "page": "https://dir.indiamart.com/impcat/modelling-services.html",
+        "thumbnail": "http://5.imimg.com/data5/SS/SS/GLADMIN-/a-img924-7311-ickoz3-125x125.jpg"
+      },
+      {
+        "name": "Mechanical CAD Drafting",
+        "page": "https://dir.indiamart.com/impcat/mechanical-cad-drafting.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379689381/CR/ZX/SN/89350/mechanical-cad-drafting-125x125.jpg"
+      },
+      {
+        "name": "Surface Modeling Service",
+        "page": "https://dir.indiamart.com/impcat/surface-modeling-service.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/BL/GLADMIN-170935/surface-modeling-service-125x125.jpg"
+      },
+      {
+        "name": "Solid Work Training",
+        "page": "https://dir.indiamart.com/impcat/solid-work-training.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/FQ/GLADMIN-177815/solid-work-training-125x125.jpg"
+      },
+      {
+        "name": "MEP CAD Services",
+        "page": "https://dir.indiamart.com/impcat/mep-cad-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/UX/GLADMIN-170233/mep-cad-services-125x125.jpg"
+      },
+      {
+        "name": "Structural 2D Drafting Service",
+        "page": "https://dir.indiamart.com/impcat/structural-2d-drafting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/CI/GLADMIN-170911/structural-2d-drafting-service-125x125.jpg"
+      },
+      {
+        "name": "Part & Assembly Modelling",
+        "page": "https://dir.indiamart.com/impcat/part-and-assembly-modeling.html",
+        "thumbnail": "http://3.imimg.com/data3/ID/WY/GLADMIN-158805/part-and-assembly-modeling-125x125.jpg"
+      },
+      {
+        "name": "HVAC Drafting",
+        "page": "https://dir.indiamart.com/impcat/hvac-drafting.html",
+        "thumbnail": "http://3.imimg.com/data3/CL/FT/GLADMIN-176395/hvac-drafting-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "CAD CAM Services",
+    "category_thumbnail": "http://3.imimg.com/data3/QY/YA/GLADMIN-43009/cad-cam-services-125x125.jpg",
+    "items": [
+      {
+        "name": "AutoCAD Designing",
+        "page": "https://dir.indiamart.com/impcat/autocad-designing.html",
+        "thumbnail": "http://3.imimg.com/data3/EI/WV/GLADMIN-22442/autocad-designing-125x125.jpg"
+      },
+      {
+        "name": "Jewellery CAD CAM Services",
+        "page": "https://dir.indiamart.com/impcat/jewellery-cad-cam-services.html",
+        "thumbnail": "http://5.imimg.com/data5/MN/NH/MU/GLADMIN-76037/jewellery-cad-cam-services-125x125.jpg"
+      },
+      {
+        "name": "CAM Design Services",
+        "page": "https://dir.indiamart.com/impcat/cam-design-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/ID/GLADMIN-173501/cam-design-services-125x125.jpg"
+      },
+      {
+        "name": "Mechanical Design Service",
+        "page": "https://dir.indiamart.com/impcat/mechanical-design-service.html",
+        "thumbnail": "http://3.imimg.com/data3/FS/SR/GLADMIN-85380/mechanical-design-service-125x125.jpg"
+      },
+      {
+        "name": "CFD Analysis Services",
+        "page": "https://dir.indiamart.com/impcat/cfd-analysis-services.html",
+        "thumbnail": "http://3.imimg.com/data3/II/JC/GLADMIN-171373/cfd-analysis-services-125x125.jpg"
+      },
+      {
+        "name": "Architectural Drawing Services",
+        "page": "https://dir.indiamart.com/impcat/architectural-drawing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/TM/GLADMIN-169906/architectural-drawing-service-125x125.jpg"
+      },
+      {
+        "name": "CAD CAM Consultancy Services",
+        "page": "https://dir.indiamart.com/impcat/cad-cam-consultancy-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/QM/GLADMIN-175117/cad-cam-consultancy-services-125x125.jpg"
+      },
+      {
+        "name": "Architectural Modeling Services",
+        "page": "https://dir.indiamart.com/impcat/architectural-modeling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/HV/GLADMIN-169907/architectural-modeling-services-125x125.jpg"
+      },
+      {
+        "name": "Mathematical Modeling",
+        "page": "https://dir.indiamart.com/impcat/mathematical-modeling.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/JG/GLADMIN-176440/mathematical-modeling-125x125.jpg"
+      },
+      {
+        "name": "Detailed Drawing Services",
+        "page": "https://dir.indiamart.com/impcat/detailed-drawing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/UW/GLADMIN-173944/detailed-drawing-services-125x125.jpg"
+      },
+      {
+        "name": "Assembly Drawings Service",
+        "page": "https://dir.indiamart.com/impcat/assembly-drawings-service.html",
+        "thumbnail": "http://3.imimg.com/data3/FE/BS/GLADMIN-171292/assembly-drawings-service-125x125.jpg"
+      },
+      {
+        "name": "CAE Design Services",
+        "page": "https://dir.indiamart.com/impcat/cae-design-services.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/LK/GLADMIN-169190/cae-design-services-125x125.jpg"
+      },
+      {
+        "name": "Fused Deposition Modeling Service",
+        "page": "https://dir.indiamart.com/impcat/fused-deposition-modeling-service.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/BG/GLADMIN-170533/fused-deposition-modeling-service-125x125.jpg"
+      },
+      {
+        "name": "CAM System",
+        "page": "https://dir.indiamart.com/impcat/cam-system.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/GY/GLADMIN-23152/cam-system-125x125.jpg"
+      },
+      {
+        "name": "Plastic Flow Simulation",
+        "page": "https://dir.indiamart.com/impcat/plastic-flow-simulation.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/VJ/GLADMIN-173190/plastic-flow-simulation-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Drafting Services",
+    "category_thumbnail": "http://3.imimg.com/data3/SR/PA/GLADMIN-43465/drafting-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Mechanical Drafting Services",
+        "page": "https://dir.indiamart.com/impcat/mechanical-drafting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/JG/BY/GLADMIN-173680/mechanical-drafting-services-125x125.jpg"
+      },
+      {
+        "name": "2D Drafting Service",
+        "page": "https://dir.indiamart.com/impcat/2d-drafting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/SF/GLADMIN-172984/2d-drafting-service-125x125.jpg"
+      },
+      {
+        "name": "2D Mechanical Drafting Services",
+        "page": "https://dir.indiamart.com/impcat/2d-mechanical-drafting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VJ/BS/MY-2/2d-mechanical-drafting-services-125x125.jpg"
+      },
+      {
+        "name": "Architectural Drafting Services",
+        "page": "https://dir.indiamart.com/impcat/architectural-drafting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/AR/GLADMIN-169905/architectural-drafting-services-125x125.jpg"
+      },
+      {
+        "name": "Drafting Designing Services",
+        "page": "https://dir.indiamart.com/impcat/drafting-designing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/II/GLADMIN-170401/drafting-designing-services-125x125.jpg"
+      },
+      {
+        "name": "Electrical Drafting Service",
+        "page": "https://dir.indiamart.com/impcat/electrical-drafting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/JA/AF/GLADMIN-170209/electrical-drafting-service-125x125.jpg"
+      },
+      {
+        "name": "3D Drafting Service",
+        "page": "https://dir.indiamart.com/impcat/3d-drafting-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369984208/WW/VK/ZF/80176/3d-drafting-service-125x125.jpg"
+      },
+      {
+        "name": "Revit Structural Drafting Services",
+        "page": "https://dir.indiamart.com/impcat/revit-structural-drafting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/NO/OR/GLADMIN-175067/revit-structural-drafting-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "CAD Conversion Service",
+    "category_thumbnail": "http://3.imimg.com/data3/DQ/JR/GLADMIN-23044/cad-conversion-125x125.jpg",
+    "items": [
+      {
+        "name": "CAD Conversion Drafting Services",
+        "page": "https://dir.indiamart.com/impcat/cad-conversion-drafting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/NO/GLADMIN-175118/cad-conversion-drafting-services-125x125.jpg"
+      },
+      {
+        "name": "2D To 3D Conversion",
+        "page": "https://dir.indiamart.com/impcat/2d-to-3d-conversion.html",
+        "thumbnail": "http://3.imimg.com/data3/LN/DO/GLADMIN-174590/2d-to-3d-conversion-125x125.jpg"
+      },
+      {
+        "name": "Paper-CAD Conversion Services",
+        "page": "https://dir.indiamart.com/impcat/paper-cad-conversion-services.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/LT/GLADMIN-173189/paper-cad-conversion-services-125x125.jpg"
+      },
+      {
+        "name": "Mechanical Drawing Conversion",
+        "page": "https://dir.indiamart.com/impcat/mechanical-drawing-conversion.html",
+        "thumbnail": "http://3.imimg.com/data3/SD/LP/GLADMIN-170186/mechanical-drawing-conversion-125x125.jpg"
+      },
+      {
+        "name": "Drawing Conversion Services",
+        "page": "https://dir.indiamart.com/impcat/drawing-conversion-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/GF/GLADMIN-169301/drawing-conversion-services-125x125.jpg"
+      },
+      {
+        "name": "3D CAD Conversion",
+        "page": "https://dir.indiamart.com/impcat/3d-cad-conversion.html",
+        "thumbnail": "http://3.imimg.com/data3/TU/KM/GLADMIN-173818/3d-cad-conversion-125x125.jpg"
+      },
+      {
+        "name": "Legacy CAD Data Conversion",
+        "page": "https://dir.indiamart.com/impcat/legacy-cad-data-conversion.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/FW/GLADMIN-174096/legacy-cad-data-conversion-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "CNC Machining Services",
+    "category_thumbnail": "http://3.imimg.com/data3/SD/TX/GLADMIN-8350/cnc-machining-services-125x125.jpg",
+    "items": [
+      {
+        "name": "CNC Turning JobWork Services",
+        "page": "https://dir.indiamart.com/impcat/cnc-turning-job-works.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/ZF/MI/XB/64512/cnc-turning-job-works-125x125.JPG"
+      },
+      {
+        "name": "VMC Machining Services",
+        "page": "https://dir.indiamart.com/impcat/vmc-machine-job-work.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/BU/GLADMIN-146696/vmc-machine-job-work-125x125.jpg"
+      },
+      {
+        "name": "EDM Job Works",
+        "page": "https://dir.indiamart.com/impcat/edm-job-works.html",
+        "thumbnail": "http://4.imimg.com/data4/HH/HH/GLADMIN-/edm-job-works-125x125.jpg"
+      },
+      {
+        "name": "CNC Milling Job Works",
+        "page": "https://dir.indiamart.com/impcat/cnc-milling-jobworks.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/SQ/WB/ZL/64512/cnc-milling-job-works-125x125.jpg"
+      },
+      {
+        "name": "VMC Job Work",
+        "page": "https://dir.indiamart.com/impcat/vmc-operator.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/309917802/VO/FS/KF/90177/vmc-operator-125x125.jpg"
+      },
+      {
+        "name": "CNC Lathe Machining Services",
+        "page": "https://dir.indiamart.com/impcat/cnc-lathe-machine-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/WN/EX/EE/64512/cnc-lathe-machining-services-125x125.jpg"
+      },
+      {
+        "name": "CNC Precision Components Job Work",
+        "page": "https://dir.indiamart.com/impcat/cnc-precision-components-job-work.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/RO/BU/JM/86317/cnc-precision-components-job-work-125x125.jpg"
+      },
+      {
+        "name": "CNC Punching Service",
+        "page": "https://dir.indiamart.com/impcat/cnc-punching-service.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/OQ/GLADMIN-99289/cnc-punching-service-125x125.jpg"
+      },
+      {
+        "name": "CNC Metal Spinning Services",
+        "page": "https://dir.indiamart.com/impcat/metal-spinning-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/EX/MY-2/metal-spinning-services-125x125.jpg"
+      },
+      {
+        "name": "Precision Machining Services",
+        "page": "https://dir.indiamart.com/impcat/precision-machining-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/FE/JL/FR/64512/precision-machining-services-125x125.jpg"
+      },
+      {
+        "name": "CNC Engraving Services",
+        "page": "https://dir.indiamart.com/impcat/cnc-engraving-jobs.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/AB/SM/VL/64512/cnc-engraving-jobs-125x125.jpg"
+      },
+      {
+        "name": "HMC Job Work",
+        "page": "https://dir.indiamart.com/impcat/hmc-job-work.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/YO/GLADMIN-168376/hmc-job-work-125x125.jpg"
+      },
+      {
+        "name": "CNC Drilling Services",
+        "page": "https://dir.indiamart.com/impcat/cnc-drilling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/MC/GLADMIN-170245/cnc-drilling-services-125x125.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,688 @@
+[
+  {
+    "category_name": "Sun Glasses",
+    "category_thumbnail": "http://3.imimg.com/data3/NC/QL/MY-2/sun-glasses-125x125.jpg",
+    "items": [
+      {
+        "name": "Fashion Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/fashion-sunglasses.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/GD/GLADMIN-107977/fashion-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Men Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/men-sunglasses.html",
+        "thumbnail": "http://3.imimg.com/data3/AN/RE/GLADMIN-107989/men-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Designer Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/designer-sunglasses.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/YC/GLADMIN-94954/designer-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Wayfarer Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/wayfarer-sun-glasses.html",
+        "thumbnail": "http://5.imimg.com/data5/ZB/EW/SO/GLADMIN-65591/wayfarer-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Aviator Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/aviator-sunglasses.html",
+        "thumbnail": "http://4.imimg.com/data4/NN/NN/GLADMIN-/aviator-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Children Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/childrens-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/KI/ES/UX/GLADMIN-65591/childrens-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Polarized Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/polarized-sunglasses.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/VM/GLADMIN-94973/polarized-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Ladies Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/ladies-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/UH/FF/YU/GLADMIN-65591/ladies-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Sports Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/sports-sunglasses.html",
+        "thumbnail": "http://3.imimg.com/data3/XY/FB/GLADMIN-129232/sports-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Metal Aviator Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/metal-aviator-sunglasses.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/HH/GLADMIN-111493/metal-aviator-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "LED Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/led-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/PX/MI/GLADMIN-2/led-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "UV Glasses",
+        "page": "https://dir.indiamart.com/impcat/uv-glasses.html",
+        "thumbnail": "http://3.imimg.com/data3/KX/AC/GLADMIN-40590/uv-glasses-125x125.jpg"
+      },
+      {
+        "name": "Kids Plastic Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/plastic-kids-sunglasses.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/OY/GLADMIN-111873/plastic-kids-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Polycarbonate Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/polycarbonate-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/GJ/IZ/WA/GLADMIN-65591/polycarbonate-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Plastic Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/plastic-sunglasses.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/ST/GLADMIN-111887/plastic-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Round Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/round-sunglasses.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/IW/GLADMIN-128955/round-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Magnet Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/magnet-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/DF/JL/NR/GLADMIN-56986/magnet-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Driving Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/driving-sunglasses.html",
+        "thumbnail": "http://3.imimg.com/data3/HT/NH/GLADMIN-107955/driving-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Optical Goggle",
+        "page": "https://dir.indiamart.com/impcat/optical-goggle.html",
+        "thumbnail": "http://5.imimg.com/data5/DH/BK/LN/GLADMIN-65591/optical-goggle-125x125.jpg"
+      },
+      {
+        "name": "Mirror Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/mirror-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/AX/FU/PR/GLADMIN-56986/mirror-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Oval Sunglass",
+        "page": "https://dir.indiamart.com/impcat/oval-sunglass.html",
+        "thumbnail": "http://4.imimg.com/data4/UN/UL/GLADMIN-178142/oval-sunglass-125x125.jpg"
+      },
+      {
+        "name": "Hexagonal Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/hexagonal-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/JO/LK/NB/GLADMIN-68155/hexagonal-sunglasses-125x125.jpg%3Fv%3D1520631398"
+      },
+      {
+        "name": "Retro Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/retro-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/SW/GY/WJ/GLADMIN-68155/retro-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Cat Eye Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/cat-eye-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/KA/OZ/KV/GLADMIN-68155/cat-eye-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Brow Line Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/brow-line-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/HC/BD/WX/GLADMIN-56986/brow-line-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Vintage Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/vintage-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/DW/FB/AK/GLADMIN-56986/vintage-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Acetate Frame Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/acetate-frame-sunglass.html",
+        "thumbnail": "http://5.imimg.com/data5/VU/ML/SR/GLADMIN-65591/acetate-frame-sunglass-125x125.jpg"
+      },
+      {
+        "name": "Oversized Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/oversized-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/KL/LN/KL/GLADMIN-68155/oversized-sunglasses-125x125.jpg"
+      },
+      {
+        "name": "Bamboo Sunglasses",
+        "page": "https://dir.indiamart.com/impcat/bamboo-sunglasses.html",
+        "thumbnail": "http://5.imimg.com/data5/JG/GC/UD/GLADMIN-56986/bamboo-sunglasses-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Eyewear",
+    "category_thumbnail": "http://3.imimg.com/data3/FD/ES/GLADMIN-113775/eyewear-125x125.jpg",
+    "items": [
+      {
+        "name": "Sun Glasses",
+        "page": "https://dir.indiamart.com/impcat/sun-glasses.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/QL/MY-2/sun-glasses-125x125.jpg"
+      },
+      {
+        "name": "Spectacle Frames",
+        "page": "https://dir.indiamart.com/impcat/spectacle-frames.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/IP/MY-2/spectacle-frames-125x125.jpg"
+      },
+      {
+        "name": "Contact Lenses",
+        "page": "https://dir.indiamart.com/impcat/contact-lenses.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/KN/GLADMIN-148/contact-lenses-125x125.jpg"
+      },
+      {
+        "name": "Eyeglass",
+        "page": "https://dir.indiamart.com/impcat/eyeglass.html",
+        "thumbnail": "http://5.imimg.com/data5/RB/AL/WK/GLADMIN-65591/eyeglass-125x125.jpg"
+      },
+      {
+        "name": "Goggles",
+        "page": "https://dir.indiamart.com/impcat/goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/UV/CN/YI/GLADMIN-65591/goggles-125x125.jpg"
+      },
+      {
+        "name": "Eyeglass Lenses",
+        "page": "https://dir.indiamart.com/impcat/eyeglass-lenses.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/PU/GLADMIN-28172/eyeglass-lenses-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Spectacle Frames",
+    "category_thumbnail": "http://3.imimg.com/data3/DV/IP/MY-2/spectacle-frames-125x125.jpg",
+    "items": [
+      {
+        "name": "Fashion Optical Frame",
+        "page": "https://dir.indiamart.com/impcat/fashion-optical-frame.html",
+        "thumbnail": "http://5.imimg.com/data5/AS/WT/GLADMIN-2/fashion-optical-frame-125x125.jpg"
+      },
+      {
+        "name": "Metal Optical Frame",
+        "page": "https://dir.indiamart.com/impcat/metal-optical-frame.html",
+        "thumbnail": "http://5.imimg.com/data5/YH/PW/GLADMIN-2/metal-optical-frame-125x125.jpg"
+      },
+      {
+        "name": "Acetate Eyeglass Frame",
+        "page": "https://dir.indiamart.com/impcat/acetate-eyeglass-frame.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/QS/GLADMIN-45529/acetate-eyeglass-frame-125x125.jpg"
+      },
+      {
+        "name": "Plastic Spectacle Frames",
+        "page": "https://dir.indiamart.com/impcat/plastic-spectacle-frames.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/KU/GLADMIN-20638/plastic-spectacle-frames-125x125.jpg"
+      },
+      {
+        "name": "Rimless Frame",
+        "page": "https://dir.indiamart.com/impcat/rimless-frame.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/QB/GLADMIN-94979/rimless-frame-125x125.jpg"
+      },
+      {
+        "name": "Metal Spectacle Frames",
+        "page": "https://dir.indiamart.com/impcat/metal-spectacle-frames.html",
+        "thumbnail": "http://3.imimg.com/data3/DA/IG/GLADMIN-20637/metal-spectacle-frames-125x125.jpg"
+      },
+      {
+        "name": "Sunglass Frames",
+        "page": "https://dir.indiamart.com/impcat/sunglass-frames.html",
+        "thumbnail": "http://5.imimg.com/data5/FY/GW/GLADMIN-2/sunglass-frames-125x125.jpg"
+      },
+      {
+        "name": "Full Rim Frame",
+        "page": "https://dir.indiamart.com/impcat/full-rim-frame.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/IG/GLADMIN-106420/full-rim-frame-125x125.jpg"
+      },
+      {
+        "name": "Kids Optical Frame",
+        "page": "https://dir.indiamart.com/impcat/kids-optical-frame.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/SX/GLADMIN-107981/kids-optical-frame-125x125.jpg"
+      },
+      {
+        "name": "Titanium Optical Frame",
+        "page": "https://dir.indiamart.com/impcat/titanium-optical-frame.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/VD/GLADMIN-129738/titanium-optical-frame-125x125.jpg"
+      },
+      {
+        "name": "Half Rim Optical Frame",
+        "page": "https://dir.indiamart.com/impcat/half-rim-optical-frame.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/VQ/GLADMIN-106426/half-rim-optical-frame-125x125.jpg"
+      },
+      {
+        "name": "Plastic Optical Frame",
+        "page": "https://dir.indiamart.com/impcat/plastic-optical-frame.html",
+        "thumbnail": "http://5.imimg.com/data5/OE/AN/GLADMIN-2/plastic-optical-frame-125x125.jpg"
+      },
+      {
+        "name": "Goggle Frames",
+        "page": "https://dir.indiamart.com/impcat/goggle-frames.html",
+        "thumbnail": "http://3.imimg.com/data3/GY/DQ/MY-2/goggle-frames-125x125.jpg"
+      },
+      {
+        "name": "Cat Eye Frame",
+        "page": "https://dir.indiamart.com/impcat/cat-eye-frame.html",
+        "thumbnail": "http://4.imimg.com/data4/OP/NX/GLADMIN-2/cat-eye-frame-125x125.jpg"
+      },
+      {
+        "name": "Transparent Glasses Frames",
+        "page": "https://dir.indiamart.com/impcat/transparent-glasses-frames.html",
+        "thumbnail": "http://5.imimg.com/data5/BA/IX/KL/GLADMIN-56986/transparent-glasses-frames-125x125.jpg"
+      },
+      {
+        "name": "Oval Glass Frame",
+        "page": "https://dir.indiamart.com/impcat/oval-sunglass-frame.html",
+        "thumbnail": "http://5.imimg.com/data5/OQ/QW/HX/GLADMIN-65591/oval-glass-frame-125x125.jpeg"
+      },
+      {
+        "name": "Stainless Steel Optical Frame",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-optical-frame.html",
+        "thumbnail": "http://5.imimg.com/data5/CW/DE/UM/GLADMIN-65591/stainless-steel-optical-frame-125x125.jpg"
+      },
+      {
+        "name": "Clubmaster Glasses Frame",
+        "page": "https://dir.indiamart.com/impcat/clubmaster-glasses-frame.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/WY/VF/GLADMIN-68155/clubmaster-glasses-frame-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Eyeglass",
+    "category_thumbnail": "http://5.imimg.com/data5/RB/AL/WK/GLADMIN-65591/eyeglass-125x125.jpg",
+    "items": [
+      {
+        "name": "Reading Glasses",
+        "page": "https://dir.indiamart.com/impcat/reading-glasses.html",
+        "thumbnail": "http://3.imimg.com/data3/GP/SA/GLADMIN-53002/reading-glasses-125x125.jpg"
+      },
+      {
+        "name": "Unisex Glasses",
+        "page": "https://dir.indiamart.com/impcat/unisex-glasses.html",
+        "thumbnail": "http://5.imimg.com/data5/LC/XV/VB/GLADMIN-56986/unisex-glasses-125x125.jpg"
+      },
+      {
+        "name": "Anti Glare Glasses",
+        "page": "https://dir.indiamart.com/impcat/computer-glasses.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/SJ/GLADMIN-104955/computer-glasses-125x125.jpg"
+      },
+      {
+        "name": "Children Glasses",
+        "page": "https://dir.indiamart.com/impcat/children-glasses.html",
+        "thumbnail": "http://5.imimg.com/data5/HF/AG/BS/GLADMIN-65591/children-glasses-125x125.jpg"
+      },
+      {
+        "name": "Photochromic Glasses",
+        "page": "https://dir.indiamart.com/impcat/photochromic-glasses.html",
+        "thumbnail": "http://5.imimg.com/data5/EU/JB/EA/GLADMIN-65591/photochromic-glasses-125x125.jpg"
+      },
+      {
+        "name": "Folding Reading Glasses",
+        "page": "https://dir.indiamart.com/impcat/folding-reading-glasses.html",
+        "thumbnail": "http://5.imimg.com/data5/AU/RW/TD/GLADMIN-56986/folding-reading-glasses-125x125.jpg"
+      },
+      {
+        "name": "Nerd Glasses",
+        "page": "https://dir.indiamart.com/impcat/nerd-glasses.html",
+        "thumbnail": "http://5.imimg.com/data5/ET/OF/ZK/GLADMIN-56986/nerd-glasses-125x125.jpg"
+      },
+      {
+        "name": "Hipster Glasses",
+        "page": "https://dir.indiamart.com/impcat/hipster-glasses.html",
+        "thumbnail": "http://5.imimg.com/data5/UB/KP/ZS/GLADMIN-56986/hipster-glasses-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Spectacle Cases and Pouches",
+    "category_thumbnail": "http://3.imimg.com/data3/DC/YL/GLADMIN-7689/spectacle-cases-125x125.jpg",
+    "items": [
+      {
+        "name": "Eyeglass Case",
+        "page": "https://dir.indiamart.com/impcat/eyeglass-case.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/CN/GLADMIN-89748/eyeglass-case-125x125.jpg"
+      },
+      {
+        "name": "Optical Case",
+        "page": "https://dir.indiamart.com/impcat/optical-case.html",
+        "thumbnail": "http://3.imimg.com/data3/CD/TP/GLADMIN-7557/optical-case-125x125.jpg"
+      },
+      {
+        "name": "Plastic Spectacle Case",
+        "page": "https://dir.indiamart.com/impcat/plastic-spectacle-case.html",
+        "thumbnail": "http://4.imimg.com/data4/NG/SA/GLADMIN-180402/plastic-spectacle-case-125x125.jpg"
+      },
+      {
+        "name": "Glasses Pouch",
+        "page": "https://dir.indiamart.com/impcat/glasses-pouch.html",
+        "thumbnail": "http://3.imimg.com/data3/OY/IT/GLADMIN-106421/glasses-pouch-125x125.jpg"
+      },
+      {
+        "name": "Spectacle Cover",
+        "page": "https://dir.indiamart.com/impcat/spectacle-cover.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/EP/HU/EP/91307/spectacle-cover-125x125.jpg"
+      },
+      {
+        "name": "Hard Eyeglass Case",
+        "page": "https://dir.indiamart.com/impcat/hard-eyeglass-case.html",
+        "thumbnail": "http://5.imimg.com/data5/VO/QU/GLADMIN-2/hard-eyeglass-case-125x125.jpg"
+      },
+      {
+        "name": "Leather Eyeglass Case",
+        "page": "https://dir.indiamart.com/impcat/leather-eyeglass-case.html",
+        "thumbnail": "http://3.imimg.com/data3/AN/CA/GLADMIN-30585/leather-eyeglass-case-125x125.jpg"
+      },
+      {
+        "name": "Zipper Eyeglass Case",
+        "page": "https://dir.indiamart.com/impcat/zipper-eyeglass-case.html",
+        "thumbnail": "http://5.imimg.com/data5/IT/UM/DP/GLADMIN-56986/zipper-eyeglass-case-125x125.jpg"
+      },
+      {
+        "name": "Fabric Eyeglass Case",
+        "page": "https://dir.indiamart.com/impcat/fabric-eyeglass-case.html",
+        "thumbnail": "http://5.imimg.com/data5/FE/OF/MN/GLADMIN-56986/fabric-eyeglass-case-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Eyeglasses Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/VU/LB/GLADMIN-107962/eyeglasses-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Lens Cleaning Cloth",
+        "page": "https://dir.indiamart.com/impcat/lens-cleaning-cloth.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/HM/MY-2/lens-cleaning-cloth-125x125.jpg"
+      },
+      {
+        "name": "Optical Lens Cleaner",
+        "page": "https://dir.indiamart.com/impcat/eyeglass-lens-cleaner.html",
+        "thumbnail": "http://3.imimg.com/data3/AB/IM/GLADMIN-100809/eyeglass-lens-cleaner-125x125.jpg"
+      },
+      {
+        "name": "Lens Cleaning Tissue",
+        "page": "https://dir.indiamart.com/impcat/lens-cleaning-tissue.html",
+        "thumbnail": "http://5.imimg.com/data5/QC/FC/II/GLADMIN-68087/lens-cleaning-tissue-125x125.jpg"
+      },
+      {
+        "name": "Nose Pad",
+        "page": "https://dir.indiamart.com/impcat/nose-pad.html",
+        "thumbnail": "http://5.imimg.com/data5/ID/OR/AO/GLADMIN-56986/nose-pad-125x125.jpg"
+      },
+      {
+        "name": "Spectacle String",
+        "page": "https://dir.indiamart.com/impcat/glasses-cord.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/FR/GLADMIN-64842/glasses-cord-125x125.jpg"
+      },
+      {
+        "name": "Spectacle Chain",
+        "page": "https://dir.indiamart.com/impcat/eyeglass-chain.html",
+        "thumbnail": "http://3.imimg.com/data3/FA/LD/GLADMIN-104529/eyeglass-chain-125x125.jpg"
+      },
+      {
+        "name": "Eyewear Parts",
+        "page": "https://dir.indiamart.com/impcat/eyewear-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/HN/GLADMIN-107970/eyewear-parts-125x125.jpg"
+      },
+      {
+        "name": "Sunglass Straps",
+        "page": "https://dir.indiamart.com/impcat/sunglass-straps.html",
+        "thumbnail": "http://5.imimg.com/data5/CN/GB/WO/GLADMIN-56986/sunglass-straps-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Goggles",
+    "category_thumbnail": "http://5.imimg.com/data5/UV/CN/YI/GLADMIN-65591/goggles-125x125.jpg",
+    "items": [
+      {
+        "name": "Motorcycle Goggles",
+        "page": "https://dir.indiamart.com/impcat/motorcycle-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/QD/GP/GLADMIN-111610/motorcycle-goggle-125x125.jpg"
+      },
+      {
+        "name": "Cataract Goggles",
+        "page": "https://dir.indiamart.com/impcat/cataract-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/EV/VJ/ZS/GLADMIN-73621/cataract-goggles-125x125.jpg"
+      },
+      {
+        "name": "Steampunk Victorian Goggles",
+        "page": "https://dir.indiamart.com/impcat/steampunk-victorian-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/GN/GO/NB/GLADMIN-56986/steampunk-victorian-goggles-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Contact Lenses",
+    "category_thumbnail": "http://3.imimg.com/data3/OT/KN/GLADMIN-148/contact-lenses-125x125.jpg",
+    "items": [
+      {
+        "name": "Colored Contact Lenses",
+        "page": "https://dir.indiamart.com/impcat/colored-contact-lenses.html",
+        "thumbnail": "http://5.imimg.com/data5/AH/QU/NI/GLADMIN-65591/colored-contact-lenses-125x125.jpeg"
+      },
+      {
+        "name": "Soft Contact Lenses",
+        "page": "https://dir.indiamart.com/impcat/soft-contact-lenses.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/HP/FL/FU/86068/soft-contact-lenses-125x125.jpg"
+      },
+      {
+        "name": "Disposable Contact Lens",
+        "page": "https://dir.indiamart.com/impcat/disposable-contact-lens.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/AC/GLADMIN-11644/disposable-contact-lens-125x125.jpg"
+      },
+      {
+        "name": "Toric Contact Lenses",
+        "page": "https://dir.indiamart.com/impcat/toric-lens.html",
+        "thumbnail": "http://4.imimg.com/data4/PK/FA/GLADMIN-182062/toric-lens-125x125.jpg"
+      },
+      {
+        "name": "Medical Contact Lens",
+        "page": "https://dir.indiamart.com/impcat/medical-contact-lens.html",
+        "thumbnail": "http://3.imimg.com/data3/ME/KF/GLADMIN-87559/medical-contact-lens-125x125.jpg"
+      },
+      {
+        "name": "Implantable Contact Lens",
+        "page": "https://dir.indiamart.com/impcat/implantable-contact-lens.html",
+        "thumbnail": "http://4.imimg.com/data4/WJ/JI/GLADMIN-182173/implantable-contact-lens-125x125.jpg"
+      },
+      {
+        "name": "Silk Contact Lens",
+        "page": "https://dir.indiamart.com/impcat/silk-contact-lens.html",
+        "thumbnail": "http://4.imimg.com/data4/US/WL/GLADMIN-181046/silk-contact-lens-125x125.jpg"
+      },
+      {
+        "name": "Bifocal Contact Lens",
+        "page": "https://dir.indiamart.com/impcat/bifocal-contact-lens.html",
+        "thumbnail": "http://5.imimg.com/data5/NV/IZ/DS/GLADMIN-65591/bifocal-contact-lens-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Safety Goggles",
+    "category_thumbnail": "http://3.imimg.com/data3/VP/FD/MY-2/safety-goggles-125x125.jpg",
+    "items": [
+      {
+        "name": "Safety Glasses",
+        "page": "https://dir.indiamart.com/impcat/safety-glasses.html",
+        "thumbnail": "http://3.imimg.com/data3/LS/QT/MY-2/safety-glasses-125x125.jpg"
+      },
+      {
+        "name": "Protective Eyewear",
+        "page": "https://dir.indiamart.com/impcat/protective-eyewear.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/KE/MY-2/protective-eyewear-125x125.jpg"
+      },
+      {
+        "name": "Industrial Safety Glasses",
+        "page": "https://dir.indiamart.com/impcat/industrial-safety-glasses.html",
+        "thumbnail": "http://5.imimg.com/data5/PO/AN/GLADMIN-2/industrial-safety-glasses-125x125.jpg"
+      },
+      {
+        "name": "UV Goggles",
+        "page": "https://dir.indiamart.com/impcat/uv-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/NO/SB/KL/GLADMIN-56986/uv-goggles-125x125.jpg"
+      },
+      {
+        "name": "Laser Safety Goggles",
+        "page": "https://dir.indiamart.com/impcat/laser-safety-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/YD/VL/GLADMIN-2/laser-safety-goggles-125x125.jpg"
+      },
+      {
+        "name": "Chemical Splash Goggles",
+        "page": "https://dir.indiamart.com/impcat/chemical-splash-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/BY/KQ/GLADMIN-164414/chemical-splash-goggle-125x125.jpg"
+      },
+      {
+        "name": "Cleanroom Goggles",
+        "page": "https://dir.indiamart.com/impcat/autoclavable-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/EH/JO/GLADMIN-81462/autoclavable-goggles-125x125.jpg"
+      },
+      {
+        "name": "Lead Goggles",
+        "page": "https://dir.indiamart.com/impcat/lead-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/TY/XY/GLADMIN-2/lead-goggles-125x125.jpg"
+      },
+      {
+        "name": "Punk Goggles",
+        "page": "https://dir.indiamart.com/impcat/punk-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/QR/EN/ZM/GLADMIN-73379/punk-goggles-125x125.jpg"
+      },
+      {
+        "name": "Fire Safety Goggles",
+        "page": "https://dir.indiamart.com/impcat/fire-safety-goggles.html",
+        "thumbnail": "http://4.imimg.com/data4/YJ/IQ/GLADMIN-183739/fire-safety-goggles-125x125.jpg"
+      },
+      {
+        "name": "Disposable Safety Goggles",
+        "page": "https://dir.indiamart.com/impcat/disposable-safety-goggles.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/FP/GLADMIN-89747/disposable-safety-goggles-125x125.jpg"
+      },
+      {
+        "name": "Leather Cup Goggles",
+        "page": "https://dir.indiamart.com/impcat/leather-cup-goggles.html",
+        "thumbnail": "http://3.imimg.com/data3/YU/AW/GLADMIN-159443/leather-cup-goggles-125x125.jpg"
+      },
+      {
+        "name": "Heat Resistant Goggles",
+        "page": "https://dir.indiamart.com/impcat/heat-resistant-goggles.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/AG/GLADMIN-150648/heat-resistant-goggles-125x125.jpg"
+      },
+      {
+        "name": "Lightweight Safety Spectacle",
+        "page": "https://dir.indiamart.com/impcat/lightweight-safety-spectacle.html",
+        "thumbnail": "http://3.imimg.com/data3/PU/KO/GLADMIN-94962/lightweight-safety-spectacle-125x125.jpg"
+      },
+      {
+        "name": "Over Spectacle",
+        "page": "https://dir.indiamart.com/impcat/over-spectacle.html",
+        "thumbnail": "http://4.imimg.com/data4/SA/IE/GLADMIN-183727/over-spectacle-125x125.jpg"
+      },
+      {
+        "name": "Dust Goggle",
+        "page": "https://dir.indiamart.com/impcat/dust-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/PW/XY/GLADMIN-94955/dust-goggle-125x125.jpg"
+      },
+      {
+        "name": "Construction Glasses",
+        "page": "https://dir.indiamart.com/impcat/construction-glasses.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/QD/GLADMIN-104979/construction-glasses-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Eyeglass Lenses",
+    "category_thumbnail": "http://3.imimg.com/data3/WX/PU/GLADMIN-28172/eyeglass-lenses-125x125.jpg",
+    "items": [
+      {
+        "name": "Progressive Glass Lens",
+        "page": "https://dir.indiamart.com/impcat/progressive-lenses.html",
+        "thumbnail": "http://3.imimg.com/data3/BI/NP/GLADMIN-177710/progressive-lenses-125x125.jpg"
+      },
+      {
+        "name": "Blue Light Lenses",
+        "page": "https://dir.indiamart.com/impcat/blue-light-lenses.html",
+        "thumbnail": "http://5.imimg.com/data5/PQ/GK/AW/GLADMIN-56986/blue-light-lenses-125x125.jpg"
+      },
+      {
+        "name": "Single Vision Glass Lens",
+        "page": "https://dir.indiamart.com/impcat/single-vision-lens.html",
+        "thumbnail": "http://5.imimg.com/data5/OL/AK/FH/GLADMIN-65591/single-vision-glass-lens-125x125.jpg"
+      },
+      {
+        "name": "Polycarbonate Lenses",
+        "page": "https://dir.indiamart.com/impcat/polycarbonate-lenses.html",
+        "thumbnail": "http://3.imimg.com/data3/DB/LF/GLADMIN-98720/polycarbonate-lenses-125x125.jpg"
+      },
+      {
+        "name": "Photochromic Lenses",
+        "page": "https://dir.indiamart.com/impcat/photochromic-lenses.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/HF/GLADMIN-72947/photochromic-lenses-125x125.jpg"
+      },
+      {
+        "name": "High Index glass Lens",
+        "page": "https://dir.indiamart.com/impcat/high-index-lens.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/TK/GLADMIN-72940/high-index-lens-125x125.jpg"
+      },
+      {
+        "name": "Anti Reflective Lenses",
+        "page": "https://dir.indiamart.com/impcat/anti-reflection-lenses.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/IL/UU/TW/86068/anti-reflection-lenses-125x125.webp"
+      },
+      {
+        "name": "Bifocal Eyeglass Lenses",
+        "page": "https://dir.indiamart.com/impcat/bifocal-lens.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/MZ/GS/PK/86068/bifocal-lens-125x125.webp"
+      },
+      {
+        "name": "Scratch Resistant Glass Lens",
+        "page": "https://dir.indiamart.com/impcat/scratch-resistant-glasses.html",
+        "thumbnail": "http://5.imimg.com/data5/EC/QU/GLADMIN-2/scratch-resistant-glasses-125x125.jpg"
+      },
+      {
+        "name": "Sunglass Lenses",
+        "page": "https://dir.indiamart.com/impcat/sunglasses-lens.html",
+        "thumbnail": "http://5.imimg.com/data5/KV/KS/EV/GLADMIN-65591/sunglass-lenses-125x125.jpg"
+      },
+      {
+        "name": "Anti Reflective Coating Lenses",
+        "page": "https://dir.indiamart.com/impcat/anti-reflective-coating-lenses.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/EO/GLADMIN-135857/anti-reflective-coating-lenses-125x125.jpg"
+      },
+      {
+        "name": "Flat Top Bifocal Lens",
+        "page": "https://dir.indiamart.com/impcat/flat-top-bifocal-lens.html",
+        "thumbnail": "http://3.imimg.com/data3/YS/LA/GLADMIN-108392/flat-top-bifocal-lens-125x125.jpg"
+      },
+      {
+        "name": "Tinted Lenses",
+        "page": "https://dir.indiamart.com/impcat/tinted-lens.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/AG/GLADMIN-72952/tinted-lens-125x125.jpg"
+      },
+      {
+        "name": "Polarized Lenses",
+        "page": "https://dir.indiamart.com/impcat/polarized-lenses.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/BF/GLADMIN-35335/polarized-lenses-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Contact Lens Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/KX/SW/GLADMIN-104983/contact-lens-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Contact Lens Cleaners",
+        "page": "https://dir.indiamart.com/impcat/lens-cleaners.html",
+        "thumbnail": "http://5.imimg.com/data5/RQ/SC/FE/GLADMIN-65591/contact-lens-cleaners-125x125.jpg"
+      },
+      {
+        "name": "Contact Lens Solution",
+        "page": "https://dir.indiamart.com/impcat/contact-lens-solution.html",
+        "thumbnail": "http://3.imimg.com/data3/TW/XL/GLADMIN-114034/contact-lens-solution-125x125.jpg"
+      },
+      {
+        "name": "Contact Lens Case",
+        "page": "https://dir.indiamart.com/impcat/contact-lens-case.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/MR/GLADMIN-25811/contact-lens-case-125x125.jpg"
+      },
+      {
+        "name": "Lens Soaking Cases",
+        "page": "https://dir.indiamart.com/impcat/lens-cases.html",
+        "thumbnail": "http://5.imimg.com/data5/NQ/EI/GLADMIN-2/lens-soaking-cases-125x125.jpg"
+      }
+    ]
+  }
+]

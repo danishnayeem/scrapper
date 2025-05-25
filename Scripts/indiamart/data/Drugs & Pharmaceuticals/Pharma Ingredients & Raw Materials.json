@@ -1,0 +1,584 @@
+[
+  {
+    "category_name": "API Intermediate",
+    "category_thumbnail": "http://3.imimg.com/data3/RL/SM/GLADMIN-134235/api-intermediate-125x125.jpg",
+    "items": [
+      {
+        "name": "API Impurities",
+        "page": "https://dir.indiamart.com/impcat/api-impurities.html",
+        "thumbnail": "http://5.imimg.com/data5/TO/XL/OG/GLADMIN-68087/api-impurities-125x125.jpg"
+      },
+      {
+        "name": "BOC Piperidone",
+        "page": "https://dir.indiamart.com/impcat/boc-piperidone.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/VD/GLADMIN-139669/boc-piperidone-125x125.jpg"
+      },
+      {
+        "name": "Sodium Thiosulfate Powder",
+        "page": "https://dir.indiamart.com/impcat/sodium-thiosulfate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/375706275/WM/BT/KK/103671/sodium-thiosulfate-125x125.jpg"
+      },
+      {
+        "name": "Pyridine",
+        "page": "https://dir.indiamart.com/impcat/pyridine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/XY/CD/YZ/92376/pyridine-125x125.jpg"
+      },
+      {
+        "name": "Sodium Methoxide",
+        "page": "https://dir.indiamart.com/impcat/sodium-methoxide.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/UX/TM/SG/86577/sodium-methoxide-125x125.jpg"
+      },
+      {
+        "name": "Benzyl Cyanide",
+        "page": "https://dir.indiamart.com/impcat/benzyl-cyanide.html",
+        "thumbnail": "http://3.imimg.com/data3/MQ/FL/GLADMIN-22624/benzyl-cyanide-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Pharmaceutical Excipients",
+    "category_thumbnail": "http://3.imimg.com/data3/OU/OS/GLADMIN-138811/pharmaceutical-excipients-125x125.jpg",
+    "items": [
+      {
+        "name": "Empty Gelatin Capsule",
+        "page": "https://dir.indiamart.com/impcat/empty-gelatin-capsule.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/11/KL/PE/ZV/86577/empty-gelatin-capsule-125x125.jpg"
+      },
+      {
+        "name": "Polyethylene Glycol PEG",
+        "page": "https://dir.indiamart.com/impcat/polyethylene-glycol.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/4/BM/ID/LP/79713/polyethylene-glycol-peg-125x125.jpg"
+      },
+      {
+        "name": "Empty HPMC capsules",
+        "page": "https://dir.indiamart.com/impcat/vegetable-cellulose-capsule.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/11/VV/AY/DS/86577/empty-hpmc-capsules-125x125.jpg"
+      },
+      {
+        "name": "Sodium Alginate Powder",
+        "page": "https://dir.indiamart.com/impcat/sodium-alginate.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/GH/GLADMIN-36989/sodium-alginate-125x125.jpg"
+      },
+      {
+        "name": "Carbopol 940 Powder",
+        "page": "https://dir.indiamart.com/impcat/carbopol-940.html",
+        "thumbnail": "http://5.imimg.com/data5/AR/LL/HV/GLADMIN-65832/carbopol-940-125x125.jpg"
+      },
+      {
+        "name": "EDTA Disodium Salt",
+        "page": "https://dir.indiamart.com/impcat/edta-disodium-salt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/424762055/XS/HG/WD/105656/edta-disodium-salt-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "API (Active Pharmaceutical Ingredients)",
+    "category_thumbnail": "http://3.imimg.com/data3/RM/PS/GLADMIN-2026/active-pharmaceutical-ingredients-125x125.jpg",
+    "items": [
+      {
+        "name": "Nervous System and Antipsychotic API",
+        "page": "https://dir.indiamart.com/impcat/nervous-system-and-antipsychotic-api.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/VZ/FD/OB/86577/nervous-system-and-antipsychotic-api-125x125.jpg"
+      },
+      {
+        "name": "Montelukast Sodium Powder",
+        "page": "https://dir.indiamart.com/impcat/montelukast-sodium.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/306851437/BF/HS/TP/96405/montelukast-sodium-125x125.webp"
+      },
+      {
+        "name": "Triprolidine Hydrochloride API",
+        "page": "https://dir.indiamart.com/impcat/triprolidine-hydrochloride.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/308428101/UI/TD/UN/95105/triprolidine-hydrochloride-tablets-125x125.jpg"
+      },
+      {
+        "name": "Anti Inflammatory and Immunosuppressant API",
+        "page": "https://dir.indiamart.com/impcat/anti-inflammatory-and-immunosuppressant-apis.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/XJ/IB/FY/86577/anti-inflammatory-and-immunosuppressant-apis-125x125.jpg"
+      },
+      {
+        "name": "Anti Infective API",
+        "page": "https://dir.indiamart.com/impcat/anti-infective-apis.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/FV/GR/VJ/86577/anti-infective-apis-125x125.jpg"
+      },
+      {
+        "name": "Vitamin Powder API",
+        "page": "https://dir.indiamart.com/impcat/vitamin-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/OQ/WX/GLADMIN-2/vitamin-powder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Anti Infective API",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/FV/GR/VJ/86577/anti-infective-apis-125x125.jpg",
+    "items": [
+      {
+        "name": "Chitosan Powder",
+        "page": "https://dir.indiamart.com/impcat/chitosan.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/312925216/OG/PI/EP/95105/chitosan-125x125.webp"
+      },
+      {
+        "name": "Azithromycin Dihydrate Powder",
+        "page": "https://dir.indiamart.com/impcat/azithromycin-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/XK/EK/WR/GLADMIN-73621/azithromycin-powder-125x125.jpg"
+      },
+      {
+        "name": "Ciprofloxacin Hydrochloride Powder",
+        "page": "https://dir.indiamart.com/impcat/ciprofloxacin-hydrochloride-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/LO/WX/JO/GLADMIN-76441/ciprofloxacin-hydrochloride-powder-125x125.jpg"
+      },
+      {
+        "name": "Cetrimide Powder",
+        "page": "https://dir.indiamart.com/impcat/cetrimide.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/12/472467722/XR/NG/KN/113452/cetrimide-powder-500x500-125x125.webp"
+      },
+      {
+        "name": "Ketoconazole Api",
+        "page": "https://dir.indiamart.com/impcat/ketoconazole-api.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/WR/BA/UH/89988/ketoconazole-api-125x125.jpg"
+      },
+      {
+        "name": "Chloroquine Phosphate Powder",
+        "page": "https://dir.indiamart.com/impcat/chloroquine-phosphate.html",
+        "thumbnail": "http://5.imimg.com/data5/JI/JU/SV/GLADMIN-73621/chloroquine-phosphate-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Nervous System and Antipsychotic API",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/VZ/FD/OB/86577/nervous-system-and-antipsychotic-api-125x125.jpg",
+    "items": [
+      {
+        "name": "Alprazolam Powder",
+        "page": "https://dir.indiamart.com/impcat/alprazolam-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/JO/NB/GLADMIN-167498/alprazolam-powder-125x125.jpg"
+      },
+      {
+        "name": "Pregabalin Powder",
+        "page": "https://dir.indiamart.com/impcat/pregabalin-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/3/293095607/DI/WR/FT/96809/pregabalin-powder-125x125.jpg"
+      },
+      {
+        "name": "Potassium Perchlorate",
+        "page": "https://dir.indiamart.com/impcat/potassium-perchlorate.html",
+        "thumbnail": "http://3.imimg.com/data3/HC/BL/GLADMIN-161628/potassium-perchlorate-125x125.jpg"
+      },
+      {
+        "name": "Caffeine Anhydrous API",
+        "page": "https://dir.indiamart.com/impcat/caffeine-anhydrous.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/VG/GLADMIN-148744/caffeine-anhydrous-125x125.jpg"
+      },
+      {
+        "name": "Docosahexaenoic Acid Powder",
+        "page": "https://dir.indiamart.com/impcat/docosahexaenoic-acid.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/HR/GLADMIN-167061/docosahexaenoic-acid-125x125.jpg"
+      },
+      {
+        "name": "Phenibut Powder",
+        "page": "https://dir.indiamart.com/impcat/phenibut-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/10/352037582/EM/AE/YZ/103671/phenibut-powder-125x125.webp"
+      }
+    ]
+  },
+  {
+    "category_name": "Vitamin Powder API",
+    "category_thumbnail": "http://4.imimg.com/data4/OQ/WX/GLADMIN-2/vitamin-powder-125x125.jpg",
+    "items": [
+      {
+        "name": "Ascorbic Acid Powder",
+        "page": "https://dir.indiamart.com/impcat/ascorbic-acid.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/MW/DJ/GY/85365/ascorbic-acid-125x125.jpg"
+      },
+      {
+        "name": "Caffeine Powder",
+        "page": "https://dir.indiamart.com/impcat/caffeine-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/PX/HF/GLADMIN-165879/caffeine-powder-125x125.jpg"
+      },
+      {
+        "name": "Vitamin E Acetate API",
+        "page": "https://dir.indiamart.com/impcat/vitamin-e-acetate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/HY/SK/EY/85365/vitamin-e-acetate-125x125.jpg"
+      },
+      {
+        "name": "Niacinamide Powder",
+        "page": "https://dir.indiamart.com/impcat/niacinamide.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/377301713/ZX/RN/SA/43668/niacinamide-125x125.webp"
+      },
+      {
+        "name": "Vitamin D3 Powder",
+        "page": "https://dir.indiamart.com/impcat/vitamin-d-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/VB/YC/OE/85365/vitamin-d3-powder-125x125.jpg"
+      },
+      {
+        "name": "Vitamin E API",
+        "page": "https://dir.indiamart.com/impcat/vitamin-e.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/HQ/PH/ZJ/62828/vitamin-e-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Hormones and Steroid API",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/FP/XJ/SE/86577/hormones-and-steroid-api-125x125.jpg",
+    "items": [
+      {
+        "name": "Testosterone Powder",
+        "page": "https://dir.indiamart.com/impcat/testosterone-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/KS/ZI/QD/85365/testosterone-powder-125x125.jpg"
+      },
+      {
+        "name": "Sildenafil powder",
+        "page": "https://dir.indiamart.com/impcat/sildenafil-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/XR/LC/IX/87070/sildenafil-powder-125x125.jpg"
+      },
+      {
+        "name": "Tadalafil API",
+        "page": "https://dir.indiamart.com/impcat/tadalafil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/VS/IF/SR/85365/tadalafil-api-125x125.jpg"
+      },
+      {
+        "name": "Nandrolone Powder",
+        "page": "https://dir.indiamart.com/impcat/nandrolone-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/12/RL/II/AU/87070/nandrolone-powder-125x125.jpg"
+      },
+      {
+        "name": "Androstanolone Dht Powder",
+        "page": "https://dir.indiamart.com/impcat/androstanolone-dht-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/370153675/CR/GW/KK/85365/androstanolone-dht-powder-125x125.webp"
+      },
+      {
+        "name": "Drostanolone Enanthate Powder",
+        "page": "https://dir.indiamart.com/impcat/drostanolone-enanthate-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/EQ/YF/KB/85365/drostanolone-enanthate-powder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Antiallergic API",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/VH/UI/IV/86577/antiallergic-api-125x125.jpg",
+    "items": [
+      {
+        "name": "Hydroxypropyl Methylcellulose API",
+        "page": "https://dir.indiamart.com/impcat/hydroxypropyl-methylcellulose.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/AX/NW/GZ/86671/hydroxypropyl-methylcellulose-125x125.webp"
+      },
+      {
+        "name": "Cyproheptadine HCL API",
+        "page": "https://dir.indiamart.com/impcat/cyproheptadine-hcl.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/309185972/LM/GU/IU/43668/cyproheptadine-hcl-syrup-125x125.jpg"
+      },
+      {
+        "name": "Fexofenadine HCl Powder",
+        "page": "https://dir.indiamart.com/impcat/fexofenadine-hcl-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/BN/GM/KK/GLADMIN-68155/fexofenadine-hcl-powder-125x125.jpg"
+      },
+      {
+        "name": "Diphenhydramine Hydrochloride Powder",
+        "page": "https://dir.indiamart.com/impcat/diphenhydramine-hydrochloride.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/304963502/DG/IL/PD/96405/diphenhydramine-hydrochloride-125x125.webp"
+      },
+      {
+        "name": "Phenylephrine Hcl Powder",
+        "page": "https://dir.indiamart.com/impcat/phenylephrine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/309988276/ZR/AB/JH/96405/phenylephrine-125x125.webp"
+      },
+      {
+        "name": "Cetirizine Dihydrochloride Powder",
+        "page": "https://dir.indiamart.com/impcat/cetirizine-dihydrochloride-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/EK/TZ/WD/86577/cetirizine-dihydrochloride-powder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Antipyretic and Analgesic API",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/KH/TJ/XS/86577/antipyretic-and-analgesic-apis-125x125.jpeg",
+    "items": [
+      {
+        "name": "Paracetamol Powder",
+        "page": "https://dir.indiamart.com/impcat/paracetamol-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/LP/GLADMIN-165888/paracetamol-powder-125x125.jpg"
+      },
+      {
+        "name": "Dimethyl Sulfoxide",
+        "page": "https://dir.indiamart.com/impcat/dimethyl-sulfoxide.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/SQ/TI/FO/92376/dimethyl-sulfoxide-125x125.jpg"
+      },
+      {
+        "name": "Methyl Salicylate API",
+        "page": "https://dir.indiamart.com/impcat/methyl-salicylate.html",
+        "thumbnail": "http://3.imimg.com/data3/AO/SH/GLADMIN-33452/methyl-salicylate-125x125.jpg"
+      },
+      {
+        "name": "Diclofenac Powder",
+        "page": "https://dir.indiamart.com/impcat/diclofenac-sodium-api.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/SA/TL/ZY/92376/diclofenac-sodium-api-125x125.jpg"
+      },
+      {
+        "name": "Acetylsalicylic Acid Powder",
+        "page": "https://dir.indiamart.com/impcat/acetylsalicylic-acid.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369429034/KV/TT/UT/103225/acetylsalicylic-acid-powder-125x125.png"
+      },
+      {
+        "name": "Ibuprofen Powder",
+        "page": "https://dir.indiamart.com/impcat/ibuprofen-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/JH/RP/LV/92376/ibuprofen-powder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Blood System and Cardiovascular API",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/RK/CE/GP/86577/blood-system-and-cardiovascular-api-125x125.jpg",
+    "items": [
+      {
+        "name": "Mannitol Powder",
+        "page": "https://dir.indiamart.com/impcat/mannitol-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/SC/GLADMIN-165876/mannitol-powder-125x125.jpg"
+      },
+      {
+        "name": "Telmisartan API",
+        "page": "https://dir.indiamart.com/impcat/telmisartan-api.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/BO/AH/LP/85365/telmisartan-api-125x125.jpg"
+      },
+      {
+        "name": "Tacrolimus Powder",
+        "page": "https://dir.indiamart.com/impcat/tacrolimus.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/XO/GLADMIN-166372/tacrolimus-125x125.jpg"
+      },
+      {
+        "name": "Minoxidil Powder API",
+        "page": "https://dir.indiamart.com/impcat/minoxidil-powder-active-pharmaceutical-ingredient.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/KS/UJ/PY/89988/minoxidil-powder-active-pharmaceutical-ingredient-125x125.jpg"
+      },
+      {
+        "name": "Metformin Hydrochloride API",
+        "page": "https://dir.indiamart.com/impcat/metformin-hydrochloride-active-pharmaceutical-ingredient.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/3/296564108/JU/OR/FJ/93748/metformin-hydrochloride-active-pharmaceutical-ingredient-125x125.webp"
+      },
+      {
+        "name": "Atorvastatin Calcium API",
+        "page": "https://dir.indiamart.com/impcat/atorvastatin-calcium-api.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/HN/VP/TZ/89988/atorvastatin-calcium-api-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Anti Inflammatory and Immunosuppressant API",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/XJ/IB/FY/86577/anti-inflammatory-and-immunosuppressant-apis-125x125.jpg",
+    "items": [
+      {
+        "name": "Lidocaine Hydrochloride API",
+        "page": "https://dir.indiamart.com/impcat/lidocaine-hydrochloride.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/VJ/TX/FI/86577/lidocaine-hydrochloride-125x125.jpg"
+      },
+      {
+        "name": "Benzocaine API",
+        "page": "https://dir.indiamart.com/impcat/benzocaine.html",
+        "thumbnail": "http://4.imimg.com/data4/YL/BU/GLADMIN-179611/benzocaine-125x125.jpg"
+      },
+      {
+        "name": "Ambroxol Hydrochloride API",
+        "page": "https://dir.indiamart.com/impcat/ambroxol-hydrochloride.html",
+        "thumbnail": "http://3.imimg.com/data3/OU/CD/GLADMIN-146967/ambroxol-hydrochloride-125x125.jpg"
+      },
+      {
+        "name": "Dexamethasone Sodium Phosphate API",
+        "page": "https://dir.indiamart.com/impcat/dexamethasone-sodium-phosphate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/JK/IX/MF/86577/dexamethasone-sodium-phosphate-125x125.jpg"
+      },
+      {
+        "name": "Rutin API",
+        "page": "https://dir.indiamart.com/impcat/rutin.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/378436728/OT/BI/BU/103671/rutin-api-125x125.webp"
+      },
+      {
+        "name": "Azelaic Acid",
+        "page": "https://dir.indiamart.com/impcat/azelaic-acid.html",
+        "thumbnail": "http://3.imimg.com/data3/MY/PA/GLADMIN-176586/azelaic-acid-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Veterinary API",
+    "category_thumbnail": "http://3.imimg.com/data3/PY/SA/GLADMIN-145602/veterinary-chemicals-125x125.jpg",
+    "items": [
+      {
+        "name": "Fenbendazole Powder",
+        "page": "https://dir.indiamart.com/impcat/fenbendazole.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/309140208/TP/LA/GW/86068/fenbendazole-125x125.webp"
+      },
+      {
+        "name": "Ceftiofur Sodium API",
+        "page": "https://dir.indiamart.com/impcat/ceftiofur-sodium.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/433509195/YH/YG/XS/97953/ceftiofur-sodium-125x125.png"
+      },
+      {
+        "name": "Amprolium Powder",
+        "page": "https://dir.indiamart.com/impcat/amprolium.html",
+        "thumbnail": "http://3.imimg.com/data3/WK/YP/GLADMIN-159718/amprolium-125x125.jpg"
+      },
+      {
+        "name": "Ceftiofur HCL Powder",
+        "page": "https://dir.indiamart.com/impcat/ceftiofur-hcl.html",
+        "thumbnail": "http://4.imimg.com/data4/DV/QF/GLADMIN-179964/ceftiofur-hcl-125x125.jpg"
+      },
+      {
+        "name": "Closantel Sodium API",
+        "page": "https://dir.indiamart.com/impcat/closantel-sodium-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/442428763/CS/TB/YN/103671/closental-base-powder-500x500-125x125.webp"
+      },
+      {
+        "name": "Oxfendazole API",
+        "page": "https://dir.indiamart.com/impcat/oxfendazole-bp-vet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/444903585/RE/RZ/NQ/103671/oxfendazole-api-powder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Digestive System API",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/KW/DE/QM/86577/digestive-system-api-125x125.jpg",
+    "items": [
+      {
+        "name": "Aluminum Hydroxide Powder",
+        "page": "https://dir.indiamart.com/impcat/aluminum-hydroxide.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/CQ/GLADMIN-21197/aluminum-hydroxide-125x125.jpg"
+      },
+      {
+        "name": "Docusate Sodium API",
+        "page": "https://dir.indiamart.com/impcat/docusate-sodium.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/12/473925751/QJ/MD/PX/113684/sulfadimethoxine-albon-di-methox-125x125.webp"
+      },
+      {
+        "name": "Omeprazole API",
+        "page": "https://dir.indiamart.com/impcat/omeprazole-api.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/TI/ME/LB/85365/omeprazole-api-125x125.jpg"
+      },
+      {
+        "name": "Antimony Potassium Tartrate Powder",
+        "page": "https://dir.indiamart.com/impcat/antimony-potassium-tartrate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/HT/ZS/JS/87162/antimony-potassium-tartrate-125x125.jpg"
+      },
+      {
+        "name": "Pantoprazole Powder",
+        "page": "https://dir.indiamart.com/impcat/pantoprazole-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/LG/QO/OF/GLADMIN-68155/pantoprazole-powder-125x125.jpg"
+      },
+      {
+        "name": "Betaine Hydrochloride",
+        "page": "https://dir.indiamart.com/impcat/betaine-hydrochloride.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/332941583/EM/YS/AU/93748/betaine-hydrochloride-125x125.webp"
+      }
+    ]
+  },
+  {
+    "category_name": "Antineoplastic API",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/UD/LC/YA/86577/antineoplastic-api-125x125.jpeg",
+    "items": [
+      {
+        "name": "Arsenic Trioxide Powder",
+        "page": "https://dir.indiamart.com/impcat/arsenic-trioxide.html",
+        "thumbnail": "http://3.imimg.com/data3/WQ/WX/GLADMIN-22118/arsenic-trioxide-125x125.jpg"
+      },
+      {
+        "name": "Methotrexate API",
+        "page": "https://dir.indiamart.com/impcat/methotrexate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/9/448551334/YN/KS/TO/103671/methotrexate-api-powder-125x125.jpg"
+      },
+      {
+        "name": "Exemestane Powder",
+        "page": "https://dir.indiamart.com/impcat/exemestane-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/SF/WY/UR/87070/exemestane-powder-125x125.jpg"
+      },
+      {
+        "name": "Dasatinib Powder",
+        "page": "https://dir.indiamart.com/impcat/dasatinib-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/339295381/JD/HT/WH/103671/dasatinib-powder-125x125.webp"
+      },
+      {
+        "name": "Gefitinib API",
+        "page": "https://dir.indiamart.com/impcat/gefitinib-api.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/OW/GLADMIN-138502/gefitinib-api-125x125.jpg"
+      },
+      {
+        "name": "Gemcitabine Hydrochloride Powder",
+        "page": "https://dir.indiamart.com/impcat/gemcitabine-hydrochloride-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/379849879/UQ/QC/EI/103671/gemcitabine-hydrochloride-powder-125x125.webp"
+      }
+    ]
+  },
+  {
+    "category_name": "Pyridine Derivatives",
+    "category_thumbnail": "http://3.imimg.com/data3/UR/BQ/GLADMIN-151497/pyridine-derivatives-125x125.jpg",
+    "items": [
+      {
+        "name": "2-Chloro-5-methylpyridine",
+        "page": "https://dir.indiamart.com/impcat/2-chloro-5-methylpyridine.html",
+        "thumbnail": "http://3.imimg.com/data3/MK/IS/GLADMIN-138462/2-chloro-5-methylpyridine-125x125.jpg"
+      },
+      {
+        "name": "Cyanopyridine Chemical Compound",
+        "page": "https://dir.indiamart.com/impcat/cyanopyridine-chemical-compound.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/KR/NH/FV/86685/cyanopyridine-chemical-compound-125x125.jpg"
+      },
+      {
+        "name": "2-Aminopyridine Powder",
+        "page": "https://dir.indiamart.com/impcat/2-aminopyridine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/424869436/EE/DU/MU/105656/2-aminopyridine-powder-125x125.webp"
+      },
+      {
+        "name": "2-Chloropyridine",
+        "page": "https://dir.indiamart.com/impcat/2-chloropyridine.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/VJ/GLADMIN-139779/2-chloropyridine-125x125.jpg"
+      },
+      {
+        "name": "Isonicotinic Acid",
+        "page": "https://dir.indiamart.com/impcat/isonicotinic-acid.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/SK/GLADMIN-159909/isonicotinic-acid-125x125.jpg"
+      },
+      {
+        "name": "3 Acetylpyridine API",
+        "page": "https://dir.indiamart.com/impcat/3-acetylpyridine.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/EC/GLADMIN-165919/3-acetylpyridine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Pharmaceutical Pellets",
+    "category_thumbnail": "http://3.imimg.com/data3/NF/ME/GLADMIN-43212/pharmaceutical-pellets-125x125.jpg",
+    "items": [
+      {
+        "name": "Lansoprazole Pellets",
+        "page": "https://dir.indiamart.com/impcat/lansoprazole-pellets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/FL/IQ/KU/71857/lansoprazole-pellets-125x125.jpg"
+      },
+      {
+        "name": "Orlistat Pellets",
+        "page": "https://dir.indiamart.com/impcat/orlistat-pellets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/424954294/YG/FJ/QR/105656/orlistat-pellets-125x125.webp"
+      },
+      {
+        "name": "Esomeprazole Pellets",
+        "page": "https://dir.indiamart.com/impcat/esomeprazole-pellets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/PR/JP/QZ/93748/esomeprazole-pellets-125x125.webp"
+      },
+      {
+        "name": "Ferrous Sulphate Pellets",
+        "page": "https://dir.indiamart.com/impcat/ferrous-sulphate-pellets.html",
+        "thumbnail": "http://3.imimg.com/data3/QP/HG/GLADMIN-164550/ferrous-sulphate-pellets-125x125.jpg"
+      },
+      {
+        "name": "Amino Acid Pellets",
+        "page": "https://dir.indiamart.com/impcat/amino-acid-pellets.html",
+        "thumbnail": "http://3.imimg.com/data3/LN/JO/GLADMIN-165977/amino-acid-pellets-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Clobetasone Butyrate Powder",
+        "page": "https://dir.indiamart.com/impcat/clobetasone-butyrate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/436187362/OZ/FB/FQ/97953/clobetasone-butyrate-125x125.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,780 @@
+[
+  {
+    "category_name": "ID Card",
+    "category_thumbnail": "http://3.imimg.com/data3/YA/WX/GLADMIN-30619/id-card-125x125.jpg",
+    "items": [
+      {
+        "name": "I Card Printing",
+        "page": "https://dir.indiamart.com/impcat/i-card-printing.html",
+        "thumbnail": "http://3.imimg.com/data3/MG/UQ/GLADMIN-135599/i-card-printing-125x125.jpg"
+      },
+      {
+        "name": "PVC ID Card",
+        "page": "https://dir.indiamart.com/impcat/pvc-id-card.html",
+        "thumbnail": "http://3.imimg.com/data3/AX/OT/GLADMIN-80967/pvc-id-card-125x125.jpg"
+      },
+      {
+        "name": "School ID Card",
+        "page": "https://dir.indiamart.com/impcat/school-id-card.html",
+        "thumbnail": "http://4.imimg.com/data4/YS/QS/GLADMIN-181380/school-id-card-125x125.jpg"
+      },
+      {
+        "name": "Office ID Card",
+        "page": "https://dir.indiamart.com/impcat/office-id-card.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/CC/GLADMIN-/office-id-card-125x125.jpg"
+      },
+      {
+        "name": "College ID Card",
+        "page": "https://dir.indiamart.com/impcat/college-id-card.html",
+        "thumbnail": "http://5.imimg.com/data5/KC/AO/GLADMIN-2/college-id-card-125x125.jpg"
+      },
+      {
+        "name": "Plastic Identification Cards",
+        "page": "https://dir.indiamart.com/impcat/plastic-identification-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/OQ/GLADMIN-34967/plastic-identification-cards-125x125.jpg"
+      },
+      {
+        "name": "Digital ID Card",
+        "page": "https://dir.indiamart.com/impcat/digital-id-card.html",
+        "thumbnail": "http://3.imimg.com/data3/CG/KO/GLADMIN-136895/digital-id-card-125x125.jpg"
+      },
+      {
+        "name": "ID Card Designing Service",
+        "page": "https://dir.indiamart.com/impcat/id-card-designing-service.html",
+        "thumbnail": "http://5.imimg.com/data5/EG/KO/GLADMIN-2/id-screen-125x125.jpg"
+      },
+      {
+        "name": "Conference Card",
+        "page": "https://dir.indiamart.com/impcat/conference-card.html",
+        "thumbnail": "http://5.imimg.com/data5/HO/CB/GLADMIN-2/conference-card-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Billing Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/FK/SQ/GLADMIN-20674/billing-machines-125x125.jpg",
+    "items": [
+      {
+        "name": "Bluetooth Printer",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/OO/GLADMIN-167068/bluetooth-printer-125x125.jpg"
+      },
+      {
+        "name": "GPRS Card Swipe Machine",
+        "page": "https://dir.indiamart.com/impcat/gprs-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/IH/GLADMIN-122297/gprs-machine-125x125.jpg"
+      },
+      {
+        "name": "POS Machine",
+        "page": "https://dir.indiamart.com/impcat/pos-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/JV/SC/GLADMIN-160939/pos-machine-125x125.jpg"
+      },
+      {
+        "name": "Card Swipe Machine",
+        "page": "https://dir.indiamart.com/impcat/card-swipe-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/AJ/BQ/GLADMIN-2/card-swipe-machine-125x125.jpg"
+      },
+      {
+        "name": "Electronic Billing Machine",
+        "page": "https://dir.indiamart.com/impcat/electronic-billing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/SF/IP/GLADMIN-145464/electronic-billing-machine-125x125.jpg"
+      },
+      {
+        "name": "Retail Shop Billing Machine",
+        "page": "https://dir.indiamart.com/impcat/retail-shop-billing-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/CF/LI/GLADMIN-178388/retail-shop-billing-machine-125x125.jpg"
+      },
+      {
+        "name": "Handheld Billing Machines",
+        "page": "https://dir.indiamart.com/impcat/handheld-billing-machines.html",
+        "thumbnail": "http://5.imimg.com/data5/PA/HP/GLADMIN-2/handheld-billing-machines-125x125.jpg"
+      },
+      {
+        "name": "Point-Of-Sale Systems",
+        "page": "https://dir.indiamart.com/impcat/point-of-sale-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/NU/PB/GLADMIN-35050/point-of-sale-systems-125x125.jpg"
+      },
+      {
+        "name": "Bus Ticketing Machine",
+        "page": "https://dir.indiamart.com/impcat/bus-ticketing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/XF/UM/GLADMIN-136739/bus-ticketing-machine-125x125.jpg"
+      },
+      {
+        "name": "Retail Billing Printer",
+        "page": "https://dir.indiamart.com/impcat/retail-billing-printer.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/NL/GLADMIN-120939/retail-billing-printer-125x125.jpg"
+      },
+      {
+        "name": "Spot Billing Machine",
+        "page": "https://dir.indiamart.com/impcat/spot-billing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/IB/GLADMIN-136741/spot-billing-machine-125x125.jpg"
+      },
+      {
+        "name": "Bank Machines",
+        "page": "https://dir.indiamart.com/impcat/bank-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/II/GLADMIN-22827/bank-machines-125x125.jpg"
+      },
+      {
+        "name": "Ticketing Machine",
+        "page": "https://dir.indiamart.com/impcat/ticketing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/MY/GLADMIN-143442/ticketing-machine-125x125.jpg"
+      },
+      {
+        "name": "Bill Counter",
+        "page": "https://dir.indiamart.com/impcat/bill-counter.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/VD/GLADMIN-23392/bill-counter-125x125.jpg"
+      },
+      {
+        "name": "PCO Billing Machines",
+        "page": "https://dir.indiamart.com/impcat/pco-billing-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/HX/VY/GLADMIN-149988/pco-billing-machines-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fingerprint Scanners",
+    "category_thumbnail": "http://3.imimg.com/data3/FF/ML/GLADMIN-2123/fingerprint-scanners-125x125.jpg",
+    "items": [
+      {
+        "name": "Aadhar Kit",
+        "page": "https://dir.indiamart.com/impcat/aadhar-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/RV/GLADMIN-177521/aadhar-kit-125x125.jpg"
+      },
+      {
+        "name": "Biometric Fingerprint Scanners",
+        "page": "https://dir.indiamart.com/impcat/biometric-fingerprint-scanners.html",
+        "thumbnail": "http://5.imimg.com/data5/GG/GG/GLADMIN-/a-img924-7634-mmtni3-125x125.jpg"
+      },
+      {
+        "name": "Fingerprint Reader",
+        "page": "https://dir.indiamart.com/impcat/fingerprint-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/IC/GT/GLADMIN-27531/fingerprint-reader-125x125.jpg"
+      },
+      {
+        "name": "Fingerprint Scanner Cable",
+        "page": "https://dir.indiamart.com/impcat/fingerprint-scanner-cable.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NZ/KQ/KH/81953/fingerprint-scanner-cable-125x125.jpg"
+      },
+      {
+        "name": "Fingerprint Device",
+        "page": "https://dir.indiamart.com/impcat/fingerprint-device.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/GF/GLADMIN-80324/fingerprint-device-125x125.jpg"
+      },
+      {
+        "name": "USB Fingerprint Scanner",
+        "page": "https://dir.indiamart.com/impcat/usb-fingerprint-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/IC/KO/GLADMIN-40550/usb-fingerprint-scanner-125x125.jpg"
+      },
+      {
+        "name": "Fingerprint Reader Module",
+        "page": "https://dir.indiamart.com/impcat/fingerprint-reader-module.html",
+        "thumbnail": "http://5.imimg.com/data5/UW/RW/GLADMIN-2/fingerprint-reader-module-125x125.jpg"
+      },
+      {
+        "name": "Palm Scanners",
+        "page": "https://dir.indiamart.com/impcat/palm-scanners.html",
+        "thumbnail": "http://3.imimg.com/data3/BN/MP/GLADMIN-33946/palm-scanners-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "POS Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/JV/SC/GLADMIN-160939/pos-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Android POS Machine",
+        "page": "https://dir.indiamart.com/impcat/android-pos-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/NE/VD/QN/GLADMIN-56986/android-pos-machine-125x125.jpg"
+      },
+      {
+        "name": "POS Touch Screen",
+        "page": "https://dir.indiamart.com/impcat/pos-touch-screen.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/DD/GLADMIN-129267/pos-touch-screen-125x125.jpg"
+      },
+      {
+        "name": "mPOS Machine",
+        "page": "https://dir.indiamart.com/impcat/mpos-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/DG/PY/GLADMIN-2/machine-pink-mobile-02-125x125.png"
+      },
+      {
+        "name": "Mobile POS",
+        "page": "https://dir.indiamart.com/impcat/mobile-pos.html",
+        "thumbnail": "http://5.imimg.com/data5/RP/AA/DI/GLADMIN-68155/mobile-pos-125x125.jpg"
+      },
+      {
+        "name": "Retail POS Printer",
+        "page": "https://dir.indiamart.com/impcat/retail-pos-printer.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/a-img924-426-f6i4ax-125x125.jpg"
+      },
+      {
+        "name": "POS Peripheral",
+        "page": "https://dir.indiamart.com/impcat/pos-peripheral.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/VL/GLADMIN-65221/pos-peripheral-125x125.jpg"
+      },
+      {
+        "name": "Car Parking Payment Machine",
+        "page": "https://dir.indiamart.com/impcat/payment-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/IP/GLADMIN-34601/payment-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Time Attendance Systems",
+    "category_thumbnail": "http://3.imimg.com/data3/TU/DA/GLADMIN-38953/time-attendance-systems-125x125.jpg",
+    "items": [
+      {
+        "name": "Biometric Attendance System",
+        "page": "https://dir.indiamart.com/impcat/biometric-attendance-system.html",
+        "thumbnail": "http://4.imimg.com/data4/NS/KH/GLADMIN-180800/biometric-attendance-system-125x125.jpg"
+      },
+      {
+        "name": "Face Recognition Time Attendance System",
+        "page": "https://dir.indiamart.com/impcat/face-recognition-time-attendance-system.html",
+        "thumbnail": "http://5.imimg.com/data5/UF/BJ/GLADMIN-2/face-recognition-time-attendance-system-125x125.jpg"
+      },
+      {
+        "name": "RFID Time Attendance System",
+        "page": "https://dir.indiamart.com/impcat/rfid-time-attendance-system.html",
+        "thumbnail": "http://5.imimg.com/data5/TL/MM/GLADMIN-2/rfid-time-attendance-system-125x125.jpg"
+      },
+      {
+        "name": "Card Attendance Machine",
+        "page": "https://dir.indiamart.com/impcat/card-attendance-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/XQ/XJ/GLADMIN-182682/card-attendance-machine-125x125.jpg"
+      },
+      {
+        "name": "Attendance Recorder",
+        "page": "https://dir.indiamart.com/impcat/attendance-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/JM/CI/GLADMIN-22162/attendance-recorder-125x125.jpg"
+      },
+      {
+        "name": "Punch Card",
+        "page": "https://dir.indiamart.com/impcat/punch-card.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/LW/GLADMIN-18386/punch-card-125x125.jpg"
+      },
+      {
+        "name": "Auto Attendant System",
+        "page": "https://dir.indiamart.com/impcat/auto-attendant-system.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/MA/GLADMIN-22427/auto-attendant-system-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Smart Cards",
+    "category_thumbnail": "http://3.imimg.com/data3/MK/MS/GLADMIN-20727/smart-cards-125x125.jpg",
+    "items": [
+      {
+        "name": "NFC Business Card",
+        "page": "https://dir.indiamart.com/impcat/nfc-business-card.html",
+        "thumbnail": "http://5.imimg.com/data5/JV/BF/IW/GLADMIN-68155/nfc-business-card-125x125.jpg"
+      },
+      {
+        "name": "Hotel Key Card Switch",
+        "page": "https://dir.indiamart.com/impcat/key-card-switch.html",
+        "thumbnail": "http://5.imimg.com/data5/MI/XR/GLADMIN-2/key-card-switch-125x125.jpg"
+      },
+      {
+        "name": "Plastic Chip Cards",
+        "page": "https://dir.indiamart.com/impcat/plastic-chip-cards.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/plastic-chip-cards-125x125.jpg"
+      },
+      {
+        "name": "Hotel Key Card",
+        "page": "https://dir.indiamart.com/impcat/hotel-key-card.html",
+        "thumbnail": "http://3.imimg.com/data3/VW/BF/GLADMIN-46031/hotel-key-card-125x125.jpg"
+      },
+      {
+        "name": "MIFARE Card",
+        "page": "https://dir.indiamart.com/impcat/mifare-card.html",
+        "thumbnail": "http://3.imimg.com/data3/UU/HB/GLADMIN-80709/mifare-card-125x125.jpg"
+      },
+      {
+        "name": "HID Access Card",
+        "page": "https://dir.indiamart.com/impcat/hid-access-card.html",
+        "thumbnail": "http://5.imimg.com/data5/AL/WO/GLADMIN-2/hid-access-card-125x125.jpg"
+      },
+      {
+        "name": "Magnetic Stripe Card",
+        "page": "https://dir.indiamart.com/impcat/magnetic-stripe-card.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/YE/GLADMIN-32447/magnetic-stripe-card-125x125.jpg"
+      },
+      {
+        "name": "Access Cards",
+        "page": "https://dir.indiamart.com/impcat/access-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/TR/GLADMIN-21566/access-cards-125x125.jpg"
+      },
+      {
+        "name": "Proximity Cards",
+        "page": "https://dir.indiamart.com/impcat/proximity-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/XO/GLADMIN-35899/proximity-cards-125x125.jpg"
+      },
+      {
+        "name": "Electronic Card",
+        "page": "https://dir.indiamart.com/impcat/electronic-card.html",
+        "thumbnail": "http://3.imimg.com/data3/VG/HJ/GLADMIN-159811/electronic-card-125x125.jpg"
+      },
+      {
+        "name": "Barcode Cards",
+        "page": "https://dir.indiamart.com/impcat/barcode-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/NK/ET/GLADMIN-20726/barcode-cards-125x125.jpg"
+      },
+      {
+        "name": "Attendance Card",
+        "page": "https://dir.indiamart.com/impcat/attendance-card.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/MN/GLADMIN-50166/attendance-card-125x125.jpg"
+      },
+      {
+        "name": "Contactless Smart Card",
+        "page": "https://dir.indiamart.com/impcat/contactless-smart-card.html",
+        "thumbnail": "http://3.imimg.com/data3/BM/JT/GLADMIN-80168/contactless-smart-card-125x125.jpg"
+      },
+      {
+        "name": "Contact Smart Card",
+        "page": "https://dir.indiamart.com/impcat/contact-smart-card.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/PX/GLADMIN-80167/contact-smart-card-125x125.jpg"
+      },
+      {
+        "name": "Biometric Cards",
+        "page": "https://dir.indiamart.com/impcat/biometric-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/FG/GLADMIN-114080/biometric-cards-125x125.jpg"
+      },
+      {
+        "name": "Swipe Card",
+        "page": "https://dir.indiamart.com/impcat/swipe-card.html",
+        "thumbnail": "http://3.imimg.com/data3/HT/JR/GLADMIN-81261/swipe-card-125x125.jpg"
+      },
+      {
+        "name": "Security Card",
+        "page": "https://dir.indiamart.com/impcat/security-card.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/HE/GLADMIN-37566/security-card-125x125.jpg"
+      },
+      {
+        "name": "Hybrid Smart Card",
+        "page": "https://dir.indiamart.com/impcat/hybrid-smart-card.html",
+        "thumbnail": "http://3.imimg.com/data3/PD/ER/GLADMIN-80441/hybrid-smart-card-125x125.jpg"
+      },
+      {
+        "name": "Fingerprint Cards",
+        "page": "https://dir.indiamart.com/impcat/fingerprint-cards.html",
+        "thumbnail": "http://5.imimg.com/data5/JJ/GO/GLADMIN-2/fingerprint-cards-125x125.jpg"
+      },
+      {
+        "name": "EM Card",
+        "page": "https://dir.indiamart.com/impcat/em-card.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/US/GLADMIN-46025/em-card-125x125.jpg"
+      },
+      {
+        "name": "Thermal Card",
+        "page": "https://dir.indiamart.com/impcat/thermal-card.html",
+        "thumbnail": "http://4.imimg.com/data4/XQ/KX/GLADMIN-183579/thermal-card-125x125.jpg"
+      },
+      {
+        "name": "Contact IC Card",
+        "page": "https://dir.indiamart.com/impcat/contact-ic-card.html",
+        "thumbnail": "http://3.imimg.com/data3/JF/QV/GLADMIN-88248/contact-ic-card-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Biometric Access Control System",
+    "category_thumbnail": "http://3.imimg.com/data3/KX/SY/GLADMIN-14589/biometric-access-control-system-125x125.jpg",
+    "items": [
+      {
+        "name": "Dual IRIS Scanner",
+        "page": "https://dir.indiamart.com/impcat/dual-iris-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/LN/TE/GLADMIN-2/irimagic-125x125.jpg"
+      },
+      {
+        "name": "Biometric Devices",
+        "page": "https://dir.indiamart.com/impcat/biometric-devices.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/DL/GLADMIN-113727/biometric-devices-125x125.jpg"
+      },
+      {
+        "name": "Face Recognition System",
+        "page": "https://dir.indiamart.com/impcat/face-recognition-system.html",
+        "thumbnail": "http://3.imimg.com/data3/XF/NQ/GLADMIN-44213/face-recognition-system-125x125.jpg"
+      },
+      {
+        "name": "Biometric System",
+        "page": "https://dir.indiamart.com/impcat/biometric-system.html",
+        "thumbnail": "http://4.imimg.com/data4/DO/JE/GLADMIN-181677/biometric-system-125x125.jpg"
+      },
+      {
+        "name": "Iris Recognition System",
+        "page": "https://dir.indiamart.com/impcat/iris-recognition-system.html",
+        "thumbnail": "http://5.imimg.com/data5/AV/JC/GLADMIN-2/iris-recognition-system-125x125.jpg"
+      },
+      {
+        "name": "Fingerprint Access Control",
+        "page": "https://dir.indiamart.com/impcat/fingerprint-access-control.html",
+        "thumbnail": "http://3.imimg.com/data3/VO/OT/GLADMIN-108990/fingerprint-access-control-125x125.jpg"
+      },
+      {
+        "name": "Fingerprint Security System",
+        "page": "https://dir.indiamart.com/impcat/fingerprint-security-system.html",
+        "thumbnail": "http://3.imimg.com/data3/XX/BY/GLADMIN-46026/fingerprint-security-system-125x125.jpg"
+      },
+      {
+        "name": "Biometric Switch",
+        "page": "https://dir.indiamart.com/impcat/biometric-switch.html",
+        "thumbnail": "http://5.imimg.com/data5/MH/FF/GR/GLADMIN-68155/biometric-switch-125x125.jpg"
+      },
+      {
+        "name": "Palm Reader Machine",
+        "page": "https://dir.indiamart.com/impcat/palm-reader-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/JX/KC/GLADMIN-2/palm-reader-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Security Token",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/MY/PT/ES/81953/security-token-125x125.png",
+    "items": [
+      {
+        "name": "USB Smart Token",
+        "page": "https://dir.indiamart.com/impcat/usb-smart-token.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/QH/GB/GM/49660/usb-smart-token-125x125.webp"
+      },
+      {
+        "name": "Plastic Token",
+        "page": "https://dir.indiamart.com/impcat/plastic-token.html",
+        "thumbnail": "http://3.imimg.com/data3/BG/FE/GLADMIN-177678/plastic-token-125x125.jpg"
+      },
+      {
+        "name": "EPass Token",
+        "page": "https://dir.indiamart.com/impcat/epass-token.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/PS/VG/YR/81953/epass-token-125x125.jpg"
+      },
+      {
+        "name": "Token Card",
+        "page": "https://dir.indiamart.com/impcat/token-card.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/HI/GLADMIN-46042/token-card-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Access Control Reader",
+    "category_thumbnail": "http://3.imimg.com/data3/UE/QP/MY-2/access-control-reader-125x125.jpg",
+    "items": [
+      {
+        "name": "Fingerprint Scanners",
+        "page": "https://dir.indiamart.com/impcat/fingerprint-scanners.html",
+        "thumbnail": "http://3.imimg.com/data3/FF/ML/GLADMIN-2123/fingerprint-scanners-125x125.jpg"
+      },
+      {
+        "name": "RFID Reader",
+        "page": "https://dir.indiamart.com/impcat/rfid-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/RY/GLADMIN-18608/rfid-reader-125x125.jpg"
+      },
+      {
+        "name": "UHF RFID Reader",
+        "page": "https://dir.indiamart.com/impcat/uhf-rfid-reader.html",
+        "thumbnail": "http://4.imimg.com/data4/YE/RC/GLADMIN-183122/uhf-rfid-reader-125x125.jpg"
+      },
+      {
+        "name": "Smart Card Reader",
+        "page": "https://dir.indiamart.com/impcat/smart-card-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/EW/GLADMIN-37262/smart-card-reader-125x125.jpg"
+      },
+      {
+        "name": "Card Readers",
+        "page": "https://dir.indiamart.com/impcat/card-readers.html",
+        "thumbnail": "http://5.imimg.com/data5/MO/NQ/GLADMIN-2/card-reader1-125x125.jpg"
+      },
+      {
+        "name": "Handheld RFID Reader",
+        "page": "https://dir.indiamart.com/impcat/handheld-rfid-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/TQ/WI/GLADMIN-164349/handheld-rfid-reader-125x125.jpg"
+      },
+      {
+        "name": "Key Management Systems",
+        "page": "https://dir.indiamart.com/impcat/key-management-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/TW/YN/GLADMIN-113904/key-management-systems-125x125.jpg"
+      },
+      {
+        "name": "Proximity Reader",
+        "page": "https://dir.indiamart.com/impcat/proximity-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/QT/GLADMIN-35901/proximity-reader-125x125.jpg"
+      },
+      {
+        "name": "RFID Reader & Writer",
+        "page": "https://dir.indiamart.com/impcat/rfid-reader-and-writer.html",
+        "thumbnail": "http://4.imimg.com/data4/PN/CU/GLADMIN-181177/rfid-reader-and-writer-125x125.jpg"
+      },
+      {
+        "name": "Biometric Reader",
+        "page": "https://dir.indiamart.com/impcat/biometric-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/BG/GLADMIN-80579/biometric-reader-125x125.jpg"
+      },
+      {
+        "name": "Desktop Reader",
+        "page": "https://dir.indiamart.com/impcat/desktop-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/HK/FT/GLADMIN-80230/desktop-reader-125x125.jpg"
+      },
+      {
+        "name": "Mobile UHF Reader",
+        "page": "https://dir.indiamart.com/impcat/mobile-uhf-reader.html",
+        "thumbnail": "http://5.imimg.com/data5/KI/KL/JY/GLADMIN-68087/mobile-uhf-reader-125x125.png"
+      },
+      {
+        "name": "Keypad Proximity Reader",
+        "page": "https://dir.indiamart.com/impcat/keypad-proximity-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/AP/GLADMIN-167049/keypad-proximity-reader-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Access Control Systems",
+    "category_thumbnail": "http://3.imimg.com/data3/NJ/JP/GLADMIN-21568/access-control-systems-125x125.jpg",
+    "items": [
+      {
+        "name": "Biometric Access Control System",
+        "page": "https://dir.indiamart.com/impcat/biometric-access-control-system.html",
+        "thumbnail": "http://3.imimg.com/data3/KX/SY/GLADMIN-14589/biometric-access-control-system-125x125.jpg"
+      },
+      {
+        "name": "RFID System",
+        "page": "https://dir.indiamart.com/impcat/rfid-system.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/YB/GLADMIN-42904/rfid-system-125x125.jpg"
+      },
+      {
+        "name": "Time Attendance Systems",
+        "page": "https://dir.indiamart.com/impcat/time-attendance-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/TU/DA/GLADMIN-38953/time-attendance-systems-125x125.jpg"
+      },
+      {
+        "name": "Access Control Machine",
+        "page": "https://dir.indiamart.com/impcat/access-control-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/FF/DX/GLADMIN-3119/access-control-machine-125x125.jpg"
+      },
+      {
+        "name": "Card Access System",
+        "page": "https://dir.indiamart.com/impcat/card-access-system.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/IE/GLADMIN-46021/card-access-system-125x125.jpg"
+      },
+      {
+        "name": "Door Control System",
+        "page": "https://dir.indiamart.com/impcat/door-control-system.html",
+        "thumbnail": "http://3.imimg.com/data3/YC/RS/GLADMIN-46024/door-control-system-125x125.jpg"
+      },
+      {
+        "name": "Multi Door Access Control",
+        "page": "https://dir.indiamart.com/impcat/multi-door-access-control.html",
+        "thumbnail": "http://5.imimg.com/data5/JN/DP/GLADMIN-2/multi-door-access-control-125x125.jpg"
+      },
+      {
+        "name": "Door Access System",
+        "page": "https://dir.indiamart.com/impcat/door-access-system.html",
+        "thumbnail": "http://3.imimg.com/data3/CW/DL/GLADMIN-80261/door-access-system-125x125.jpg"
+      },
+      {
+        "name": "Smart Card System",
+        "page": "https://dir.indiamart.com/impcat/smart-card-system.html",
+        "thumbnail": "http://3.imimg.com/data3/ER/MA/GLADMIN-46041/smart-card-system-125x125.jpg"
+      },
+      {
+        "name": "Identification Systems",
+        "page": "https://dir.indiamart.com/impcat/identification-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/CY/UX/GLADMIN-30625/identification-systems-125x125.jpg"
+      },
+      {
+        "name": "Single Door Access Control",
+        "page": "https://dir.indiamart.com/impcat/single-door-access-control.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/QA/GLADMIN-177731/single-door-access-control-125x125.jpg"
+      },
+      {
+        "name": "Single Door Controller",
+        "page": "https://dir.indiamart.com/impcat/single-door-controller.html",
+        "thumbnail": "http://4.imimg.com/data4/LY/HW/GLADMIN-2/single-door-controller-125x125.jpg"
+      },
+      {
+        "name": "Keypad Access Control System",
+        "page": "https://dir.indiamart.com/impcat/keypad-access-control-system.html",
+        "thumbnail": "http://4.imimg.com/data4/OK/YI/GLADMIN-184818/keypad-access-control-system-125x125.png"
+      },
+      {
+        "name": "Security Control System",
+        "page": "https://dir.indiamart.com/impcat/security-control-system.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/RA/GLADMIN-46038/security-control-system-125x125.jpg"
+      },
+      {
+        "name": "Access Control Accessories",
+        "page": "https://dir.indiamart.com/impcat/access-control-accessories.html",
+        "thumbnail": "http://5.imimg.com/data5/KK/NL/GLADMIN-2/access-control-accessories-125x125.jpg"
+      },
+      {
+        "name": "RFID Transponder",
+        "page": "https://dir.indiamart.com/impcat/rfid-transponder.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/MA/GLADMIN-53254/rfid-transponder-125x125.png"
+      },
+      {
+        "name": "Voice Recognition System",
+        "page": "https://dir.indiamart.com/impcat/voice-recognition-system.html",
+        "thumbnail": "http://5.imimg.com/data5/XY/WL/GLADMIN-2/voice-recognition-system-125x125.jpg"
+      },
+      {
+        "name": "Proximity System",
+        "page": "https://dir.indiamart.com/impcat/proximity-system.html",
+        "thumbnail": "http://4.imimg.com/data4/UV/VA/GLADMIN-184494/proximity-system-125x125.jpg"
+      },
+      {
+        "name": "Vehicle Identification Solution",
+        "page": "https://dir.indiamart.com/impcat/vehicle-identification-solution.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/JB/GLADMIN-171167/vehicle-identification-solution-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Card Readers",
+    "category_thumbnail": "http://5.imimg.com/data5/MO/NQ/GLADMIN-2/card-reader1-125x125.jpg",
+    "items": [
+      {
+        "name": "Magnetic Card Readers",
+        "page": "https://dir.indiamart.com/impcat/magnetic-card-readers.html",
+        "thumbnail": "http://3.imimg.com/data3/CQ/AL/GLADMIN-31667/magnetic-card-readers-125x125.jpg"
+      },
+      {
+        "name": "NFC Reader",
+        "page": "https://dir.indiamart.com/impcat/nfc-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/AD/GLADMIN-/media-catalog-product-cache-1-small_image-135x-9df78eab33525d08d6e5fb8d27136e95-a-c-acr122l_1_1-125x125.jpg"
+      },
+      {
+        "name": "Multi Card Reader",
+        "page": "https://dir.indiamart.com/impcat/multi-card-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/EF/GLADMIN-33656/multi-card-reader-125x125.jpg"
+      },
+      {
+        "name": "HID Access Card Reader",
+        "page": "https://dir.indiamart.com/impcat/hid-access-card-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/EJ/GLADMIN-107888/hid-access-card-reader-125x125.jpg"
+      },
+      {
+        "name": "Business Card Scanner",
+        "page": "https://dir.indiamart.com/impcat/business-card-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/UR/GLADMIN-23921/business-card-scanner-125x125.jpg"
+      },
+      {
+        "name": "Memory Card Adapter",
+        "page": "https://dir.indiamart.com/impcat/memory-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/PR/IX/GLADMIN-45906/memory-adapter-125x125.jpg"
+      },
+      {
+        "name": "Badge Readers",
+        "page": "https://dir.indiamart.com/impcat/badge-readers.html",
+        "thumbnail": "http://5.imimg.com/data5/MK/WJ/GLADMIN-2/badge-readers-125x125.jpg"
+      },
+      {
+        "name": "Proximity Card Reader",
+        "page": "https://dir.indiamart.com/impcat/proximity-card-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/HK/JG/GLADMIN-18363/proximity-card-reader-125x125.jpg"
+      },
+      {
+        "name": "Portable Card Reader",
+        "page": "https://dir.indiamart.com/impcat/portable-card-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/TX/GLADMIN-35401/portable-card-reader-125x125.jpg"
+      },
+      {
+        "name": "Memory Card Case",
+        "page": "https://dir.indiamart.com/impcat/memory-card-case.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/HV/GLADMIN-31944/memory-card-case-125x125.jpg"
+      },
+      {
+        "name": "Security Card Reader",
+        "page": "https://dir.indiamart.com/impcat/security-card-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/OC/GLADMIN-147105/security-card-reader-125x125.jpg"
+      },
+      {
+        "name": "Digital Card Reader",
+        "page": "https://dir.indiamart.com/impcat/digital-card-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/TA/GLADMIN-80233/digital-card-reader-125x125.jpg"
+      },
+      {
+        "name": "Punch Card Reader",
+        "page": "https://dir.indiamart.com/impcat/punch-card-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/UR/GLADMIN-18387/punch-card-reader-125x125.jpg"
+      },
+      {
+        "name": "Industrial ID Readers",
+        "page": "https://dir.indiamart.com/impcat/industrial-id-readers.html",
+        "thumbnail": "http://3.imimg.com/data3/HA/JW/GLADMIN-140062/industrial-id-readers-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Barcode Scanners",
+    "category_thumbnail": "http://3.imimg.com/data3/CP/WU/GLADMIN-22856/barcode-scanners-125x125.jpg",
+    "items": [
+      {
+        "name": "Handheld Barcode Scanner",
+        "page": "https://dir.indiamart.com/impcat/handheld-barcode-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/handheld-barcode-scanner-125x125.jpg"
+      },
+      {
+        "name": "CCD Scanners",
+        "page": "https://dir.indiamart.com/impcat/ccd-scanners.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/LA/GLADMIN-24550/ccd-scanners-125x125.jpg"
+      },
+      {
+        "name": "Laser Scanner",
+        "page": "https://dir.indiamart.com/impcat/laser-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/RK/GLADMIN-16976/laser-scanner-125x125.jpg"
+      },
+      {
+        "name": "2D Barcode Reader",
+        "page": "https://dir.indiamart.com/impcat/2d-barcode-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/PA/GLADMIN-141727/2d-barcode-reader-125x125.jpg"
+      },
+      {
+        "name": "Barcode Verifiers",
+        "page": "https://dir.indiamart.com/impcat/barcode-verifiers.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/BS/GLADMIN-22857/barcode-verifiers-125x125.jpg"
+      },
+      {
+        "name": "Barcode Card Reader",
+        "page": "https://dir.indiamart.com/impcat/barcode-card-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/AB/UJ/GLADMIN-22853/barcode-card-reader-125x125.jpg"
+      },
+      {
+        "name": "Barcode Systems",
+        "page": "https://dir.indiamart.com/impcat/barcode-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/UO/GLADMIN-113726/barcode-systems-125x125.jpg"
+      },
+      {
+        "name": "Pen Scanner",
+        "page": "https://dir.indiamart.com/impcat/pen-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/GW/XM/GLADMIN-2/pen-scanner-125x125.jpg"
+      },
+      {
+        "name": "USB Barcode Scanner",
+        "page": "https://dir.indiamart.com/impcat/usb-barcode-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/GI/UI/FD/49660/usb-barcode-scanner-125x125.jpg"
+      },
+      {
+        "name": "Omni Directional Scanner",
+        "page": "https://dir.indiamart.com/impcat/omni-directional-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/NC/BL/UR/GLADMIN-68155/omni-directional-scanner-125x125.jpg"
+      },
+      {
+        "name": "Automotive Barcode Scanner",
+        "page": "https://dir.indiamart.com/impcat/automotive-barcode-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/LL/GLADMIN-151133/automotive-barcode-scanner-125x125.jpg"
+      },
+      {
+        "name": "Slot Scanner",
+        "page": "https://dir.indiamart.com/impcat/slot-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/YX/NY/GLADMIN-81173/slot-scanner-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Card Swipe Machine",
+        "page": "https://dir.indiamart.com/impcat/card-swipe-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/AJ/BQ/GLADMIN-2/card-swipe-machine-125x125.jpg"
+      }
+    ]
+  }
+]

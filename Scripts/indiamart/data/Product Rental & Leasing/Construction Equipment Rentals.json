@@ -1,0 +1,49 @@
+[
+  {
+    "category_name": "Man Lifts Rental Service",
+    "category_thumbnail": "http://3.imimg.com/data3/SV/IB/GLADMIN-174270/man-lifts-rental-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Telescopic Boom Lift Rental",
+        "page": "https://dir.indiamart.com/impcat/telescopic-boom-lift-rental.html",
+        "thumbnail": "http://3.imimg.com/data3/JK/YN/GLADMIN-176124/telescopic-boom-lift-rental-125x125.jpg"
+      },
+      {
+        "name": "Cherry Picker Rental Services",
+        "page": "https://dir.indiamart.com/impcat/cherry-picker-rental-services.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/OI/GLADMIN-175305/cherry-picker-rental-services-125x125.jpg"
+      },
+      {
+        "name": "Straight Boom Lift Services",
+        "page": "https://dir.indiamart.com/impcat/straight-boom-lift-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/JO/GLADMIN-174710/straight-boom-lift-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Excavators Hiring Services",
+        "page": "https://dir.indiamart.com/impcat/excavators-hiring-services.html",
+        "thumbnail": "http://3.imimg.com/data3/JR/AJ/GLADMIN-169333/excavators-hiring-services-125x125.jpg"
+      },
+      {
+        "name": "Motor Grader Rental",
+        "page": "https://dir.indiamart.com/impcat/motor-graders-renting-services.html",
+        "thumbnail": "http://5.imimg.com/data5/TN/LS/GLADMIN-2/grader-machine-on-rent-125x125.jpg"
+      },
+      {
+        "name": "Wheel Loader Rental",
+        "page": "https://dir.indiamart.com/impcat/wheel-loader-rental-service.html",
+        "thumbnail": "http://3.imimg.com/data3/TS/YE/GLADMIN-174274/wheel-loader-rental-service-125x125.jpg"
+      },
+      {
+        "name": "Skid Steer Loader Rental",
+        "page": "https://dir.indiamart.com/impcat/loader-rental-services.html",
+        "thumbnail": "http://3.imimg.com/data3/YC/JJ/GLADMIN-172525/loader-rental-services-125x125.jpg"
+      }
+    ]
+  }
+]

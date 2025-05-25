@@ -1,0 +1,427 @@
+[
+  {
+    "category_name": "Aquarium Fish",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/UA/YT/KI/90525/aquarium-fish-125x125.webp",
+    "items": [
+      {
+        "name": "Betta Fish",
+        "page": "https://dir.indiamart.com/impcat/betta-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/UL/QH/IH/86648/betta-fish-125x125.jpg"
+      },
+      {
+        "name": "Guppy Fish",
+        "page": "https://dir.indiamart.com/impcat/guppy-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/KK/PW/KZ/86648/guppy-fish-125x125.jpg"
+      },
+      {
+        "name": "Gold Fishes",
+        "page": "https://dir.indiamart.com/impcat/gold-fishes.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/TH/GLADMIN-147229/gold-fishes-125x125.jpg"
+      },
+      {
+        "name": "Black Molly Fish",
+        "page": "https://dir.indiamart.com/impcat/black-molly-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/AA/GLADMIN-/a-img924-8963-saj5cg-125x125.jpg"
+      },
+      {
+        "name": "Flowerhorn Fish",
+        "page": "https://dir.indiamart.com/impcat/flowerhorn-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/KR/ER/KO/86648/flowerhorn-fish-125x125.jpg"
+      },
+      {
+        "name": "Koi Fish",
+        "page": "https://dir.indiamart.com/impcat/koi-fish.html",
+        "thumbnail": "http://4.imimg.com/data4/JP/GM/GLADMIN-182630/koi-fish-125x125.jpg"
+      },
+      {
+        "name": "Oscar Fish",
+        "page": "https://dir.indiamart.com/impcat/oscar-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/QF/UA/VG/86648/oscar-fish-125x125.jpeg"
+      },
+      {
+        "name": "Clown Fish",
+        "page": "https://dir.indiamart.com/impcat/clown-fish.html",
+        "thumbnail": "http://3.imimg.com/data3/XL/DP/GLADMIN-25040/clown-fish-125x125.jpg"
+      },
+      {
+        "name": "Ornamental Fish",
+        "page": "https://dir.indiamart.com/impcat/ornamental-fish.html",
+        "thumbnail": "http://3.imimg.com/data3/CA/KF/MY-2/ornamental-fish-125x125.jpg"
+      },
+      {
+        "name": "Catfishes",
+        "page": "https://dir.indiamart.com/impcat/catfishes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/YY/DN/SJ/91623/catfishes-125x125.jpg"
+      },
+      {
+        "name": "Neon Tetra Fish",
+        "page": "https://dir.indiamart.com/impcat/neon-tetra-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/neon-tetra-fish-125x125.jpg"
+      },
+      {
+        "name": "Garra Rufa Fish",
+        "page": "https://dir.indiamart.com/impcat/garra-rufa-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZW/UR/DT/86648/garra-rufa-fish-125x125.jpg"
+      },
+      {
+        "name": "Parrot Fish",
+        "page": "https://dir.indiamart.com/impcat/parrot-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/HL/DR/ZN/86648/parrot-fish-125x125.jpg"
+      },
+      {
+        "name": "Discus Fish",
+        "page": "https://dir.indiamart.com/impcat/discus-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/JJ/JJ/GLADMIN-/discus-fish-125x125.jpg"
+      },
+      {
+        "name": "Cichlid",
+        "page": "https://dir.indiamart.com/impcat/cichlid.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/EH/VX/VN/86648/cichlid-125x125.png"
+      },
+      {
+        "name": "Angelfish",
+        "page": "https://dir.indiamart.com/impcat/angelfish.html",
+        "thumbnail": "http://5.imimg.com/data5/DW/QE/GLADMIN-2/angelfish-125x125.jpg"
+      },
+      {
+        "name": "Live Tropical Fish",
+        "page": "https://dir.indiamart.com/impcat/live-tropical-fish.html",
+        "thumbnail": "http://3.imimg.com/data3/MV/SQ/MY-2/live-tropical-fish-125x125.jpg"
+      },
+      {
+        "name": "Marine Fish",
+        "page": "https://dir.indiamart.com/impcat/marine-fish.html",
+        "thumbnail": "http://3.imimg.com/data3/RB/NR/GLADMIN-42544/marine-fish-125x125.jpg"
+      },
+      {
+        "name": "Gourami Fish",
+        "page": "https://dir.indiamart.com/impcat/gourami-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/VH/VB/BG/GLADMIN-56986/gourami-fish-125x125.jpg"
+      },
+      {
+        "name": "Black Ghost Fish",
+        "page": "https://dir.indiamart.com/impcat/black-ghost-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/HQ/TF/PJ/GLADMIN-68087/black-ghost-fish-125x125.jpg"
+      },
+      {
+        "name": "Piranha Fish",
+        "page": "https://dir.indiamart.com/impcat/piranha-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/JX/WV/ZI/86648/piranha-fish-125x125.jpeg"
+      },
+      {
+        "name": "Barb Fish",
+        "page": "https://dir.indiamart.com/impcat/barb-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/YT/LF/OV/GLADMIN-68155/barb-fish-125x125.jpg"
+      },
+      {
+        "name": "Cardinal Tetra Fish",
+        "page": "https://dir.indiamart.com/impcat/cardinal-tetra-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/NL/BO/FQ/GLADMIN-73467/cardinal-tetra-fish-125x125.jpg"
+      },
+      {
+        "name": "Wild Fish",
+        "page": "https://dir.indiamart.com/impcat/wild-fish.html",
+        "thumbnail": "http://3.imimg.com/data3/LU/TO/MY-2/wild-fish-125x125.jpg"
+      },
+      {
+        "name": "Grouper Fish",
+        "page": "https://dir.indiamart.com/impcat/grouper-fish.html",
+        "thumbnail": "http://4.imimg.com/data4/BX/HY/GLADMIN-183947/grouper-fish-125x125.jpg"
+      },
+      {
+        "name": "Kissing Fish",
+        "page": "https://dir.indiamart.com/impcat/kissing-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/AS/VY/AZ/GLADMIN-65832/kissing-fish-125x125.jpg"
+      },
+      {
+        "name": "Bloodfin Tetras",
+        "page": "https://dir.indiamart.com/impcat/bloodfin-tetras.html",
+        "thumbnail": "http://5.imimg.com/data5/FI/XU/GLADMIN-2/bloodfin-tetras-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fish Aquarium",
+    "category_thumbnail": "http://3.imimg.com/data3/JQ/CK/GLADMIN-102146/fish-aquarium-125x125.jpg",
+    "items": [
+      {
+        "name": "Aquarium Tank",
+        "page": "https://dir.indiamart.com/impcat/aquarium-tank.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/UW/GLADMIN-50699/aquarium-tank-125x125.jpg"
+      },
+      {
+        "name": "Biofloc Fish Farming Tank",
+        "page": "https://dir.indiamart.com/impcat/biofloc-fish-farming-tank.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/BQ/HZ/ED/86648/biofloc-fish-farming-tank-125x125.jpg"
+      },
+      {
+        "name": "Fish Tanks",
+        "page": "https://dir.indiamart.com/impcat/fish-tanks.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZD/TR/AB/92368/fish-tanks-125x125.jpeg"
+      },
+      {
+        "name": "Glass Fish Bowl",
+        "page": "https://dir.indiamart.com/impcat/glass-fish-bowl.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/UL/GLADMIN-107610/glass-fish-bowl-125x125.jpg"
+      },
+      {
+        "name": "Freshwater Aquarium",
+        "page": "https://dir.indiamart.com/impcat/freshwater-aquarium.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/CA/MY-2/freshwater-aquarium-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Aquarium",
+        "page": "https://dir.indiamart.com/impcat/acrylic-aquarium.html",
+        "thumbnail": "http://3.imimg.com/data3/UQ/IE/GLADMIN-98800/acrylic-aquarium-125x125.jpg"
+      },
+      {
+        "name": "Marine Aquarium",
+        "page": "https://dir.indiamart.com/impcat/marine-aquarium.html",
+        "thumbnail": "http://3.imimg.com/data3/BR/YK/GLADMIN-150747/marine-aquarium-125x125.jpg"
+      },
+      {
+        "name": "Fish Pond",
+        "page": "https://dir.indiamart.com/impcat/fish-pond.html",
+        "thumbnail": "http://3.imimg.com/data3/TI/TF/GLADMIN-122264/fish-pond-125x125.jpg"
+      },
+      {
+        "name": "Mini Aquarium",
+        "page": "https://dir.indiamart.com/impcat/mini-aquarium.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/BX/MY-2/mini-aquarium-125x125.jpg"
+      },
+      {
+        "name": "Wall Mounted Aquarium",
+        "page": "https://dir.indiamart.com/impcat/wall-mounted-aquarium.html",
+        "thumbnail": "http://3.imimg.com/data3/OB/UK/GLADMIN-55145/wall-mounted-aquarium-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Table",
+        "page": "https://dir.indiamart.com/impcat/aquarium-table.html",
+        "thumbnail": "http://5.imimg.com/data5/IJ/HP/UE/GLADMIN-65832/aquarium-table-125x125.jpg"
+      },
+      {
+        "name": "Wooden Fish Aquarium",
+        "page": "https://dir.indiamart.com/impcat/wooden-fish-aquarium.html",
+        "thumbnail": "http://3.imimg.com/data3/RC/DQ/GLADMIN-102147/wooden-fish-aquarium-125x125.jpg"
+      },
+      {
+        "name": "Plastic Aquarium",
+        "page": "https://dir.indiamart.com/impcat/plastic-aquarium.html",
+        "thumbnail": "http://3.imimg.com/data3/LP/DO/GLADMIN-55144/plastic-aquarium-125x125.jpg"
+      },
+      {
+        "name": "Planted Aquariums",
+        "page": "https://dir.indiamart.com/impcat/planted-aquariums.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320784092/SD/MH/UJ/96317/planted-aquariums-125x125.jpg"
+      },
+      {
+        "name": "Bonsai Aquarium",
+        "page": "https://dir.indiamart.com/impcat/bonsai-aquarium.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/EK/GLADMIN-137147/bonsai-aquarium-125x125.jpg"
+      },
+      {
+        "name": "Tropical Aquariums",
+        "page": "https://dir.indiamart.com/impcat/tropical-aquariums.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/TE/MY-2/tropical-aquariums-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Aquarium Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/GL/UH/GLADMIN-50696/aquarium-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Natural Seashell",
+        "page": "https://dir.indiamart.com/impcat/natural-seashell.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/FU/GLADMIN-43361/natural-seashell-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Stone",
+        "page": "https://dir.indiamart.com/impcat/aquarium-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/JU/GLADMIN-140190/aquarium-stone-125x125.jpg"
+      },
+      {
+        "name": "Terrariums",
+        "page": "https://dir.indiamart.com/impcat/terrariums.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/FE/GLADMIN-160638/terrariums-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Plants",
+        "page": "https://dir.indiamart.com/impcat/aquarium-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/QH/IB/GLADMIN-50698/aquarium-plants-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Sand",
+        "page": "https://dir.indiamart.com/impcat/aquarium-sand.html",
+        "thumbnail": "http://3.imimg.com/data3/YF/ON/GLADMIN-44881/aquarium-sand-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Decoration",
+        "page": "https://dir.indiamart.com/impcat/aquarium-decoration.html",
+        "thumbnail": "http://3.imimg.com/data3/VG/GJ/MY-2/aquarium-decoration-125x125.jpg"
+      },
+      {
+        "name": "Aquatic Plants",
+        "page": "https://dir.indiamart.com/impcat/aquatic-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/LU/MY-2/aquatic-plants-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Driftwood",
+        "page": "https://dir.indiamart.com/impcat/aquarium-driftwood.html",
+        "thumbnail": "http://5.imimg.com/data5/GJ/LG/LE/GLADMIN-73467/aquarium-driftwood-125x125.jpg"
+      },
+      {
+        "name": "Colour Stones",
+        "page": "https://dir.indiamart.com/impcat/colour-stones.html",
+        "thumbnail": "http://3.imimg.com/data3/CB/AR/GLADMIN-24400/colour-stones-125x125.jpg"
+      },
+      {
+        "name": "Oxygen Tablets",
+        "page": "https://dir.indiamart.com/impcat/oxygen-tablets.html",
+        "thumbnail": "http://4.imimg.com/data4/EA/OK/GLADMIN-179731/oxygen-tablets-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Soil",
+        "page": "https://dir.indiamart.com/impcat/aquarium-soil.html",
+        "thumbnail": "http://4.imimg.com/data4/CV/UY/GLADMIN-2/aquarium-soil-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Toy",
+        "page": "https://dir.indiamart.com/impcat/aquarium-toy.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/CX/GLADMIN-100031/aquarium-toy-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Air Stone",
+        "page": "https://dir.indiamart.com/impcat/aquarium-air-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/RT/GLADMIN-55142/aquarium-air-stone-125x125.jpg"
+      },
+      {
+        "name": "Coral Rocks",
+        "page": "https://dir.indiamart.com/impcat/coral-rocks.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/GL/GLADMIN-148438/coral-rocks-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Backgrounds",
+        "page": "https://dir.indiamart.com/impcat/aquarium-backgrounds.html",
+        "thumbnail": "http://3.imimg.com/data3/FC/LH/GLADMIN-98801/aquarium-backgrounds-125x125.jpg"
+      },
+      {
+        "name": "Anubias Nana",
+        "page": "https://dir.indiamart.com/impcat/anubias-nana.html",
+        "thumbnail": "http://5.imimg.com/data5/QL/PP/LF/GLADMIN-56986/anubias-nana-125x125.jpg"
+      },
+      {
+        "name": "Aquatic Herbicide",
+        "page": "https://dir.indiamart.com/impcat/aquatic-herbicide.html",
+        "thumbnail": "http://3.imimg.com/data3/CP/SX/GLADMIN-162687/aquatic-herbicide-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Aquarium Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/GN/WW/MY-2/aquarium-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Aquarium Filters",
+        "page": "https://dir.indiamart.com/impcat/aquarium-filters.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/KR/MY-2/aquarium-filters-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Lights",
+        "page": "https://dir.indiamart.com/impcat/aquarium-lights.html",
+        "thumbnail": "http://3.imimg.com/data3/EG/ON/MY-2/aquarium-lights-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Heater",
+        "page": "https://dir.indiamart.com/impcat/aquarium-heater.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/YR/GLADMIN-50697/aquarium-heater-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Stands",
+        "page": "https://dir.indiamart.com/impcat/aquarium-stands.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/MY/MY-2/aquarium-stands-125x125.jpg"
+      },
+      {
+        "name": "Canister Filter",
+        "page": "https://dir.indiamart.com/impcat/canister-filter.html",
+        "thumbnail": "http://3.imimg.com/data3/PF/SK/GLADMIN-49852/canister-filter-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Pumps",
+        "page": "https://dir.indiamart.com/impcat/aquarium-pumps.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/SA/GLADMIN-22075/aquarium-pumps-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Sponge Filters",
+        "page": "https://dir.indiamart.com/impcat/aquarium-sponge-filters.html",
+        "thumbnail": "http://3.imimg.com/data3/GJ/XI/GLADMIN-151308/aquarium-sponge-filters-125x125.jpg"
+      },
+      {
+        "name": "Automatic Fish Feeder",
+        "page": "https://dir.indiamart.com/impcat/automatic-fish-feeder.html",
+        "thumbnail": "http://3.imimg.com/data3/UU/VY/GLADMIN-161152/automatic-fish-feeder-125x125.jpg"
+      },
+      {
+        "name": "Fish Pond Filter",
+        "page": "https://dir.indiamart.com/impcat/fish-pond-filter.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/PB/GLADMIN-163583/fish-pond-filter-125x125.jpg"
+      },
+      {
+        "name": "Cataract Protein Skimmer",
+        "page": "https://dir.indiamart.com/impcat/cataract-protein-skimmer.html",
+        "thumbnail": "http://3.imimg.com/data3/JA/NY/GLADMIN-147354/cataract-protein-skimmer-125x125.jpg"
+      },
+      {
+        "name": "Internal Filters",
+        "page": "https://dir.indiamart.com/impcat/internal-filters.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/LA/GLADMIN-118470/internal-filters-125x125.jpg"
+      },
+      {
+        "name": "Magnet Aquarium Cleaners",
+        "page": "https://dir.indiamart.com/impcat/magnet-aquarium-cleaners.html",
+        "thumbnail": "http://3.imimg.com/data3/EE/XL/GLADMIN-161170/magnet-aquarium-cleaners-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Chiller",
+        "page": "https://dir.indiamart.com/impcat/aquarium-chiller.html",
+        "thumbnail": "http://5.imimg.com/data5/FC/KQ/XD/GLADMIN-68087/aquarium-chiller-125x125.png"
+      },
+      {
+        "name": "Aquarium Nets",
+        "page": "https://dir.indiamart.com/impcat/aquarium-nets.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/VC/GLADMIN-22074/aquarium-nets-125x125.jpg"
+      },
+      {
+        "name": "Aquarium Thermometer",
+        "page": "https://dir.indiamart.com/impcat/aquarium-thermometer.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/VX/MY-2/aquarium-thermometer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fish Tanks",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZD/TR/AB/92368/fish-tanks-125x125.jpeg",
+    "items": [
+      {
+        "name": "Mud Crab Box",
+        "page": "https://dir.indiamart.com/impcat/mud-crab-box.html",
+        "thumbnail": "http://5.imimg.com/data5/LX/UQ/TN/GLADMIN-56986/mud-crab-box-125x125.jpg"
+      },
+      {
+        "name": "Aquaculture Tanks",
+        "page": "https://dir.indiamart.com/impcat/aquaculture-tanks.html",
+        "thumbnail": "http://5.imimg.com/data5/XP/XT/GLADMIN-2/aquaculture-tanks-125x125.jpg"
+      },
+      {
+        "name": "Glass Tanks",
+        "page": "https://dir.indiamart.com/impcat/glass-tanks.html",
+        "thumbnail": "http://3.imimg.com/data3/ON/WU/GLADMIN-44679/glass-tanks-125x125.jpg"
+      },
+      {
+        "name": "Corner Fish Tank",
+        "page": "https://dir.indiamart.com/impcat/corner-fish-tank.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/QA/GLADMIN-100683/corner-fish-tank-125x125.jpg"
+      }
+    ]
+  }
+]

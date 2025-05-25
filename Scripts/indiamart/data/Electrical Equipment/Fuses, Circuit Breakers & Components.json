@@ -1,0 +1,1389 @@
+[
+  {
+    "category_name": "Circuit Breakers",
+    "category_thumbnail": "http://5.imimg.com/data5/AP/HC/UK/GLADMIN-56986/circuit-breakers-125x125.jpg",
+    "items": [
+      {
+        "name": "MCB",
+        "page": "https://dir.indiamart.com/impcat/miniature-circuit-breaker.html",
+        "thumbnail": "http://3.imimg.com/data3/BO/MD/GLADMIN-5163/miniature-circuit-breaker-125x125.jpg"
+      },
+      {
+        "name": "MCCB",
+        "page": "https://dir.indiamart.com/impcat/molded-case-circuit-breakers.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/NI/GLADMIN-69443/molded-case-circuit-breakers-125x125.jpg"
+      },
+      {
+        "name": "Surge Protection Device",
+        "page": "https://dir.indiamart.com/impcat/surge-protection-device.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/SO/GLADMIN-39148/surge-protection-device-125x125.jpg"
+      },
+      {
+        "name": "Electrical Circuit Breaker",
+        "page": "https://dir.indiamart.com/impcat/electrical-circuit-breaker.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/LW/GLADMIN-28005/electrical-circuit-breaker-125x125.jpg"
+      },
+      {
+        "name": "RCCB",
+        "page": "https://dir.indiamart.com/impcat/residual-current-circuit-breaker.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/NU/GLADMIN-35978/residual-current-circuit-breaker-125x125.jpg"
+      },
+      {
+        "name": "Ring Main Unit",
+        "page": "https://dir.indiamart.com/impcat/ring-main-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/UB/GLADMIN-122549/ring-main-unit-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Circuit Breaker",
+        "page": "https://dir.indiamart.com/impcat/vacuum-circuit-breaker.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/HR/GLADMIN-19873/vacuum-circuit-breaker-125x125.jpg"
+      },
+      {
+        "name": "Motor Protection Circuit Breaker",
+        "page": "https://dir.indiamart.com/impcat/motor-protection-circuit-breaker.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/MC/GLADMIN-141920/motor-protection-circuit-breaker-125x125.jpg"
+      },
+      {
+        "name": "Tripping Coil",
+        "page": "https://dir.indiamart.com/impcat/tripping-coil.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/RA/GLADMIN-161416/tripping-coil-125x125.jpg"
+      },
+      {
+        "name": "Air Circuit Breakers",
+        "page": "https://dir.indiamart.com/impcat/air-circuit-breakers.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/FD/GLADMIN-21370/air-circuit-breakers-125x125.jpg"
+      },
+      {
+        "name": "Electric Shock Guard",
+        "page": "https://dir.indiamart.com/impcat/electric-shock-guard.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/HT/TB/FI/23669/electric-shock-guard-125x125.jpg"
+      },
+      {
+        "name": "SF6 Circuit Breaker",
+        "page": "https://dir.indiamart.com/impcat/sf6-circuit-breaker.html",
+        "thumbnail": "http://4.imimg.com/data4/PU/UJ/GLADMIN-179700/sf6-circuit-breaker-125x125.jpg"
+      },
+      {
+        "name": "Thermal Overload Protector",
+        "page": "https://dir.indiamart.com/impcat/thermal-overload-protector.html",
+        "thumbnail": "http://3.imimg.com/data3/RC/IE/GLADMIN-2382/thermal-overload-protector-125x125.jpg"
+      },
+      {
+        "name": "Circuit Breaker Timer",
+        "page": "https://dir.indiamart.com/impcat/circuit-breaker-timer.html",
+        "thumbnail": "http://5.imimg.com/data5/OI/ON/LC/GLADMIN-56986/circuit-breaker-timer-125x125.jpg"
+      },
+      {
+        "name": "Thermal Protectors",
+        "page": "https://dir.indiamart.com/impcat/thermal-protectors.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/NA/MY-2/thermal-protectors3-125x125.jpg"
+      },
+      {
+        "name": "RCBO",
+        "page": "https://dir.indiamart.com/impcat/rcbo.html",
+        "thumbnail": "http://4.imimg.com/data4/EO/DM/GLADMIN-179598/rcbo-125x125.jpg"
+      },
+      {
+        "name": "Overload Protector",
+        "page": "https://dir.indiamart.com/impcat/overload-protector.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/CP/MY-2/overload-protector1-125x125.jpg"
+      },
+      {
+        "name": "Thermal Circuit Breaker",
+        "page": "https://dir.indiamart.com/impcat/thermal-circuit-breaker.html",
+        "thumbnail": "http://3.imimg.com/data3/JG/XN/GLADMIN-2376/thermal-circuit-breaker-125x125.jpg"
+      },
+      {
+        "name": "Oil Circuit Breaker",
+        "page": "https://dir.indiamart.com/impcat/oil-circuit-breaker.html",
+        "thumbnail": "http://3.imimg.com/data3/NR/YF/GLADMIN-140736/oil-circuit-breaker-125x125.jpg"
+      },
+      {
+        "name": "Control Gears",
+        "page": "https://dir.indiamart.com/impcat/control-gears.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/RC/GW/TR/85351/control-gears-125x125.png"
+      },
+      {
+        "name": "High Voltage Circuit Breakers",
+        "page": "https://dir.indiamart.com/impcat/high-voltage-switchgears.html",
+        "thumbnail": "http://5.imimg.com/data5/JC/NV/PC/GLADMIN-56986/high-voltage-circuit-breakers-125x125.jpg"
+      },
+      {
+        "name": "Line Protection Units",
+        "page": "https://dir.indiamart.com/impcat/line-protection-units.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/SJ/GLADMIN-166824/line-protection-units-125x125.jpg"
+      },
+      {
+        "name": "Power Choke Coil",
+        "page": "https://dir.indiamart.com/impcat/power-choke-coil.html",
+        "thumbnail": "http://5.imimg.com/data5/SP/UF/GLADMIN-2/power-choke-coil-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Electrical Fuse",
+    "category_thumbnail": "http://5.imimg.com/data5/BW/IJ/RD/GLADMIN-56986/electrical-fuse-125x125.jpg",
+    "items": [
+      {
+        "name": "Kit Kat Fuses",
+        "page": "https://dir.indiamart.com/impcat/kit-kat-fuses.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/NN/GLADMIN-143157/kit-kat-fuses-125x125.jpg"
+      },
+      {
+        "name": "HRC Fuse",
+        "page": "https://dir.indiamart.com/impcat/hrc-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/XP/MY-2/hrc-fuse-125x125.jpg"
+      },
+      {
+        "name": "Safety Fuses",
+        "page": "https://dir.indiamart.com/impcat/safety-fuses.html",
+        "thumbnail": "http://5.imimg.com/data5/GZ/IR/HV/GLADMIN-56986/safety-fuses-125x125.jpg"
+      },
+      {
+        "name": "Wired Fuse Unit",
+        "page": "https://dir.indiamart.com/impcat/fuse-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/SB/GLADMIN-11731/fuse-unit-125x125.jpg"
+      },
+      {
+        "name": "Blade Fuse",
+        "page": "https://dir.indiamart.com/impcat/blade-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/SS/GLADMIN-14609/blade-fuse-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Fuse",
+        "page": "https://dir.indiamart.com/impcat/ceramic-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/FJ/GLADMIN-13654/ceramic-fuse-125x125.jpg"
+      },
+      {
+        "name": "Miniature Fuse",
+        "page": "https://dir.indiamart.com/impcat/miniature-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/HT/FW/GLADMIN-33114/miniature-fuse-125x125.jpg"
+      },
+      {
+        "name": "Cartridge Fuse",
+        "page": "https://dir.indiamart.com/impcat/cartridge-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/BT/GLADMIN-14404/cartridge-fuse-125x125.jpg"
+      },
+      {
+        "name": "Fast Acting Fuses",
+        "page": "https://dir.indiamart.com/impcat/fast-acting-fuses.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/EB/GLADMIN-69406/fast-acting-fuses-125x125.jpg"
+      },
+      {
+        "name": "Electrical Fuse Components",
+        "page": "https://dir.indiamart.com/impcat/fuse-components.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/TG/GLADMIN-104686/fuse-components-125x125.jpg"
+      },
+      {
+        "name": "Aerial Fuse Board",
+        "page": "https://dir.indiamart.com/impcat/aerial-fuse-board.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/FF/GLADMIN-45524/aerial-fuse-board-125x125.jpg"
+      },
+      {
+        "name": "High Speed Fuses",
+        "page": "https://dir.indiamart.com/impcat/high-speed-fuses.html",
+        "thumbnail": "http://5.imimg.com/data5/EA/TB/WF/GLADMIN-56986/high-speed-fuses-125x125.jpg"
+      },
+      {
+        "name": "Industrial Fuse",
+        "page": "https://dir.indiamart.com/impcat/industrial-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/MG/EI/GLADMIN-69421/industrial-fuse-125x125.jpg"
+      },
+      {
+        "name": "Expulsion Fuse Element",
+        "page": "https://dir.indiamart.com/impcat/expulsion-fuse-element.html",
+        "thumbnail": "http://3.imimg.com/data3/YL/EL/GLADMIN-69404/expulsion-fuse-element-125x125.jpg"
+      },
+      {
+        "name": "Bottle Fuse",
+        "page": "https://dir.indiamart.com/impcat/bottle-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/HM/UV/GLADMIN-78563/bottle-fuse-125x125.jpg"
+      },
+      {
+        "name": "Mining Detonating Fuse",
+        "page": "https://dir.indiamart.com/impcat/detonator-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/FD/GLADMIN-148511/detonator-fuse-125x125.jpg"
+      },
+      {
+        "name": "Current Limiting Fuse",
+        "page": "https://dir.indiamart.com/impcat/current-limiting-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/DA/HC/GLADMIN-13221/current-limiting-fuse-125x125.jpg"
+      },
+      {
+        "name": "Time Delay Fuses",
+        "page": "https://dir.indiamart.com/impcat/time-delay-fuses.html",
+        "thumbnail": "http://5.imimg.com/data5/JP/XG/GQ/GLADMIN-56986/time-delay-fuses-125x125.jpg"
+      },
+      {
+        "name": "Fuse Connectors",
+        "page": "https://dir.indiamart.com/impcat/fuse-connectors.html",
+        "thumbnail": "http://5.imimg.com/data5/ZT/AM/QT/GLADMIN-68155/fuse-connectors-125x125.jpg"
+      },
+      {
+        "name": "HBC Fuse",
+        "page": "https://dir.indiamart.com/impcat/hbc-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/XX/QO/GLADMIN-30134/hbc-fuse-125x125.jpg"
+      },
+      {
+        "name": "Heavy Duty Fuses",
+        "page": "https://dir.indiamart.com/impcat/heavy-duty-fuses.html",
+        "thumbnail": "http://3.imimg.com/data3/RC/OQ/GLADMIN-143671/heavy-duty-fuses-125x125.jpg"
+      },
+      {
+        "name": "Plug Fuse",
+        "page": "https://dir.indiamart.com/impcat/plug-fuse.html",
+        "thumbnail": "http://5.imimg.com/data5/YQ/KE/XN/GLADMIN-56986/plug-fuse-125x125.jpg"
+      },
+      {
+        "name": "Diazed Fuse",
+        "page": "https://dir.indiamart.com/impcat/diazed-fuse.html",
+        "thumbnail": "http://5.imimg.com/data5/NZ/IJ/PU/GLADMIN-56986/diazed-fuse-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Surge Protection Device",
+    "category_thumbnail": "http://3.imimg.com/data3/PL/SO/GLADMIN-39148/surge-protection-device-125x125.jpg",
+    "items": [
+      {
+        "name": "Lightning Arresters",
+        "page": "https://dir.indiamart.com/impcat/lightning-arresters.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/ID/GLADMIN-53823/lightning-arresters-125x125.jpg"
+      },
+      {
+        "name": "Copper Lightning Arrester",
+        "page": "https://dir.indiamart.com/impcat/copper-lightning-arrester.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/FO/GLADMIN-151487/copper-lightning-arrester-125x125.jpg"
+      },
+      {
+        "name": "ESE Lightning Arresters",
+        "page": "https://dir.indiamart.com/impcat/ese-lightning-arresters.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/AE/YN/EH/91286/ese-lightning-arresters-125x125.png"
+      },
+      {
+        "name": "DC SPD",
+        "page": "https://dir.indiamart.com/impcat/dc-spd.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/OC/FY/TN/49660/dc-spd-125x125.jpg"
+      },
+      {
+        "name": "Voltage Protector",
+        "page": "https://dir.indiamart.com/impcat/voltage-protector.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/VJ/GLADMIN-53825/voltage-protector-125x125.jpg"
+      },
+      {
+        "name": "Lightning Protection System",
+        "page": "https://dir.indiamart.com/impcat/lightning-protection-system.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/IA/GLADMIN-11585/lightning-protection-system-125x125.jpg"
+      },
+      {
+        "name": "Porcelain Lightning Arrester",
+        "page": "https://dir.indiamart.com/impcat/porcelain-lightning-arrester.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/QA/GLADMIN-111921/porcelain-lightning-arrester-125x125.jpg"
+      },
+      {
+        "name": "Ethernet Surge Protector",
+        "page": "https://dir.indiamart.com/impcat/ethernet-surge-protector.html",
+        "thumbnail": "http://5.imimg.com/data5/NV/VV/ZG/GLADMIN-76441/ethernet-surge-protector-125x125.jpg"
+      },
+      {
+        "name": "Surge Counter",
+        "page": "https://dir.indiamart.com/impcat/surge-counter.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/UE/GLADMIN-120866/surge-counter-125x125.jpg"
+      },
+      {
+        "name": "Lightning Protectors",
+        "page": "https://dir.indiamart.com/impcat/lightning-protectors.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/NM/TF/UH/84846/lightning-protectors-125x125.jpg"
+      },
+      {
+        "name": "Home Protector",
+        "page": "https://dir.indiamart.com/impcat/home-protector.html",
+        "thumbnail": "http://3.imimg.com/data3/LN/DM/GLADMIN-107078/home-protector-125x125.jpg"
+      },
+      {
+        "name": "Surge Absorbers",
+        "page": "https://dir.indiamart.com/impcat/surge-absorbers.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/PW/GLADMIN-39145/surge-absorbers-125x125.jpg"
+      },
+      {
+        "name": "Screw Down Test Clamp",
+        "page": "https://dir.indiamart.com/impcat/screw-down-test-clamp.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/TF/GLADMIN-/img-product-lightning-screw-down-test-clamp-125x125.jpg"
+      },
+      {
+        "name": "Aerial Elevation Rod",
+        "page": "https://dir.indiamart.com/impcat/aerial-elevation-rod.html",
+        "thumbnail": "http://3.imimg.com/data3/TE/AG/GLADMIN-/pcat-gifs-products-small-aerial-elevation-rod-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Changeover Switch",
+    "category_thumbnail": "http://5.imimg.com/data5/YP/VT/LA/GLADMIN-56986/changeover-switch-125x125.jpg",
+    "items": [
+      {
+        "name": "Automatic Changeover Switches",
+        "page": "https://dir.indiamart.com/impcat/automatic-changeover-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/MX/GLADMIN-70000/automatic-changeover-switches-125x125.jpg"
+      },
+      {
+        "name": "Automatic Transfer Switch",
+        "page": "https://dir.indiamart.com/impcat/automatic-transfer-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/WG/FF/GLADMIN-22208/automatic-transfer-switch-125x125.jpg"
+      },
+      {
+        "name": "Onload Changeover Switches",
+        "page": "https://dir.indiamart.com/impcat/onload-changeover-switches.html",
+        "thumbnail": "http://4.imimg.com/data4/HW/KW/GLADMIN-186242/onload-changeover-switches-125x125.jpg"
+      },
+      {
+        "name": "MCB Changeover Switch",
+        "page": "https://dir.indiamart.com/impcat/mcb-changeover-switch.html",
+        "thumbnail": "http://4.imimg.com/data4/GT/NV/GLADMIN-185596/mcb-changeover-switch-125x125.jpg"
+      },
+      {
+        "name": "Bypass Switch",
+        "page": "https://dir.indiamart.com/impcat/bypass-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/CK/GLADMIN-23966/bypass-switch-125x125.jpg"
+      },
+      {
+        "name": "Low Voltage Transfer Switches",
+        "page": "https://dir.indiamart.com/impcat/transfer-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/WL/GLADMIN-40155/transfer-switches-125x125.jpg"
+      },
+      {
+        "name": "Double Power Automatic Transfer Switches",
+        "page": "https://dir.indiamart.com/impcat/double-power-automatic-transfer-switches.html",
+        "thumbnail": "http://4.imimg.com/data4/GL/PI/GLADMIN-109049/double-power-automatic-transfer-switches-125x125.jpg"
+      },
+      {
+        "name": "Motorized Changeover Switch",
+        "page": "https://dir.indiamart.com/impcat/motorized-changeover-switch.html",
+        "thumbnail": "http://4.imimg.com/data4/XP/LA/GLADMIN-185595/motorized-changeover-switch-125x125.png"
+      },
+      {
+        "name": "Low Voltage Switches",
+        "page": "https://dir.indiamart.com/impcat/low-voltage-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/BK/GLADMIN-108497/low-voltage-switches-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Current Limiting and Changeover Devices",
+    "category_thumbnail": "http://3.imimg.com/data3/ES/CO/GLADMIN-176724/current-limiting-device-125x125.jpg",
+    "items": [
+      {
+        "name": "Changeover Switch",
+        "page": "https://dir.indiamart.com/impcat/change-over-switch.html",
+        "thumbnail": "http://5.imimg.com/data5/YP/VT/LA/GLADMIN-56986/changeover-switch-125x125.jpg"
+      },
+      {
+        "name": "Automatic Changeover Switches",
+        "page": "https://dir.indiamart.com/impcat/automatic-changeover-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/MX/GLADMIN-70000/automatic-changeover-switches-125x125.jpg"
+      },
+      {
+        "name": "Main Switches",
+        "page": "https://dir.indiamart.com/impcat/main-switches.html",
+        "thumbnail": "http://5.imimg.com/data5/XY/GS/GLADMIN-2/main-switches-125x125.jpg"
+      },
+      {
+        "name": "ACCL",
+        "page": "https://dir.indiamart.com/impcat/accl.html",
+        "thumbnail": "http://5.imimg.com/data5/RF/RL/UT/GLADMIN-56986/accl-125x125.jpg"
+      },
+      {
+        "name": "Switch Fuse Unit",
+        "page": "https://dir.indiamart.com/impcat/switch-fuse-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/YY/XV/GLADMIN-139758/switch-fuse-unit-125x125.jpg"
+      },
+      {
+        "name": "Phase Changer",
+        "page": "https://dir.indiamart.com/impcat/phase-changer.html",
+        "thumbnail": "http://3.imimg.com/data3/SR/CO/GLADMIN-5887/phase-changer-125x125.jpg"
+      },
+      {
+        "name": "Knife Switches",
+        "page": "https://dir.indiamart.com/impcat/knife-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/SP/GLADMIN-109074/knife-switches-125x125.jpg"
+      },
+      {
+        "name": "Changeover Boxes",
+        "page": "https://dir.indiamart.com/impcat/changeover-boxes.html",
+        "thumbnail": "http://5.imimg.com/data5/FV/YS/GLADMIN-2/changeover-boxes-125x125.jpg"
+      },
+      {
+        "name": "Current Monitor",
+        "page": "https://dir.indiamart.com/impcat/current-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/EN/GLADMIN-122181/current-monitor-125x125.jpg"
+      },
+      {
+        "name": "Motorized Changeover Switch",
+        "page": "https://dir.indiamart.com/impcat/motorized-changeover-switch.html",
+        "thumbnail": "http://4.imimg.com/data4/XP/LA/GLADMIN-185595/motorized-changeover-switch-125x125.png"
+      },
+      {
+        "name": "Rewirable Switches",
+        "page": "https://dir.indiamart.com/impcat/rewirable-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/WL/GLADMIN-69471/rewirable-switches-125x125.jpg"
+      },
+      {
+        "name": "General Switches",
+        "page": "https://dir.indiamart.com/impcat/general-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/XP/TP/GLADMIN-104798/general-switches-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Plug and Socket",
+    "category_thumbnail": "http://5.imimg.com/data5/DL/QN/QG/GLADMIN-56986/industrial-plug-and-socket-125x125.jpg",
+    "items": [
+      {
+        "name": "Industrial Socket",
+        "page": "https://dir.indiamart.com/impcat/industrial-socket.html",
+        "thumbnail": "http://3.imimg.com/data3/WE/VN/GLADMIN-30727/industrial-socket-125x125.jpg"
+      },
+      {
+        "name": "Industrial Plugs",
+        "page": "https://dir.indiamart.com/impcat/industrial-plugs.html",
+        "thumbnail": "http://5.imimg.com/data5/ZT/PQ/JH/GLADMIN-56986/industrial-plugs-125x125.jpg"
+      },
+      {
+        "name": "Industrial Connector",
+        "page": "https://dir.indiamart.com/impcat/industrial-connector.html",
+        "thumbnail": "http://3.imimg.com/data3/OW/RM/GLADMIN-145045/industrial-connector-125x125.jpg"
+      },
+      {
+        "name": "Interlock Socket",
+        "page": "https://dir.indiamart.com/impcat/interlock-socket.html",
+        "thumbnail": "http://5.imimg.com/data5/BB/BB/GLADMIN-/interlock-socket-125x125.jpg"
+      },
+      {
+        "name": "Electric Receptacles",
+        "page": "https://dir.indiamart.com/impcat/electric-receptacles.html",
+        "thumbnail": "http://3.imimg.com/data3/PQ/PE/GLADMIN-27300/electric-receptacles-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "High Voltage Circuit Breakers",
+    "category_thumbnail": "http://5.imimg.com/data5/JC/NV/PC/GLADMIN-56986/high-voltage-circuit-breakers-125x125.jpg",
+    "items": [
+      {
+        "name": "Signal Isolators",
+        "page": "https://dir.indiamart.com/impcat/signal-isolators.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/ER/SG/SW/49660/signal-isolators-125x125.jpg"
+      },
+      {
+        "name": "High Voltage Electrical Isolator",
+        "page": "https://dir.indiamart.com/impcat/electrical-isolator.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/HY/GLADMIN-42986/electrical-isolator-125x125.jpg"
+      },
+      {
+        "name": "Air Break Switches",
+        "page": "https://dir.indiamart.com/impcat/air-break-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/DB/AT/GLADMIN-21364/air-break-switches-125x125.jpg"
+      },
+      {
+        "name": "Polymeric Surge Arresters",
+        "page": "https://dir.indiamart.com/impcat/polymeric-surge-arresters.html",
+        "thumbnail": "http://3.imimg.com/data3/PY/CF/GLADMIN-69457/polymeric-surge-arresters-125x125.jpg"
+      },
+      {
+        "name": "Gang Operated Air Break Switch",
+        "page": "https://dir.indiamart.com/impcat/goab-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/RB/GLADMIN-158335/goab-switch-125x125.jpg"
+      },
+      {
+        "name": "Load Break Switches",
+        "page": "https://dir.indiamart.com/impcat/load-break-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/CD/WR/GLADMIN-9632/load-break-switches-125x125.jpg"
+      },
+      {
+        "name": "Capacitor Bank",
+        "page": "https://dir.indiamart.com/impcat/capacitor-bank.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/EM/GLADMIN-122659/capacitor-bank-125x125.jpg"
+      },
+      {
+        "name": "Gas Insulated Switchgear",
+        "page": "https://dir.indiamart.com/impcat/gas-insulated-switchgear.html",
+        "thumbnail": "http://5.imimg.com/data5/FZ/CZ/ZO/GLADMIN-56986/gas-insulated-switchgear-125x125.jpg"
+      },
+      {
+        "name": "Disconnect Switch",
+        "page": "https://dir.indiamart.com/impcat/disconnect-switch.html",
+        "thumbnail": "http://5.imimg.com/data5/VD/UK/GLADMIN-2/disconnect-switch-125x125.jpg"
+      },
+      {
+        "name": "Loop Powered Isolator",
+        "page": "https://dir.indiamart.com/impcat/loop-powered-isolator.html",
+        "thumbnail": "http://4.imimg.com/data4/HX/GF/GLADMIN-184212/loop-powered-isolator-125x125.jpg"
+      },
+      {
+        "name": "Double Break Isolator",
+        "page": "https://dir.indiamart.com/impcat/double-break-isolator.html",
+        "thumbnail": "http://3.imimg.com/data3/OK/YB/GLADMIN-159476/double-break-isolator-125x125.jpg"
+      },
+      {
+        "name": "Static VAR Compensator",
+        "page": "https://dir.indiamart.com/impcat/static-var-compensator.html",
+        "thumbnail": "http://3.imimg.com/data3/JK/JP/GLADMIN-166301/static-var-compensator-125x125.jpg"
+      },
+      {
+        "name": "Preventive Maintenance Service",
+        "page": "https://dir.indiamart.com/impcat/preventive-maintenance-service.html",
+        "thumbnail": "http://3.imimg.com/data3/JK/JK/GLADMIN-168481/preventive-maintenance-service-125x125.jpg"
+      },
+      {
+        "name": "High Voltage Disconnecting Switch",
+        "page": "https://dir.indiamart.com/impcat/high-voltage-disconnecting-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/CI/GLADMIN-105449/high-voltage-disconnecting-switch-125x125.jpg"
+      },
+      {
+        "name": "Transmission Switches",
+        "page": "https://dir.indiamart.com/impcat/transmission-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/DF/QO/GLADMIN-69489/transmission-switches-125x125.jpg"
+      },
+      {
+        "name": "High Voltage Switches",
+        "page": "https://dir.indiamart.com/impcat/high-voltage-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/DN/GLADMIN-30405/high-voltage-switches-125x125.jpg"
+      },
+      {
+        "name": "Horizontal Double Break Isolator",
+        "page": "https://dir.indiamart.com/impcat/horizontal-double-break-isolator.html",
+        "thumbnail": "http://3.imimg.com/data3/OJ/SQ/GLADMIN-158633/horizontal-double-break-isolator-125x125.jpg"
+      },
+      {
+        "name": "HT Isolator",
+        "page": "https://dir.indiamart.com/impcat/ht-isolator.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/KP/GLADMIN-143896/ht-isolator-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Solar Protection Devices",
+    "category_thumbnail": "http://5.imimg.com/data5/LH/DH/NG/GLADMIN-56986/solar-protection-devices-125x125.jpg",
+    "items": [
+      {
+        "name": "Solar ACDB",
+        "page": "https://dir.indiamart.com/impcat/solar-acdb.html",
+        "thumbnail": "http://5.imimg.com/data5/NV/JX/GK/GLADMIN-76441/solar-acdb-125x125.jpg"
+      },
+      {
+        "name": "Solar Meter",
+        "page": "https://dir.indiamart.com/impcat/solar-meter.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/DC/GLADMIN-161367/solar-meter-125x125.jpg"
+      },
+      {
+        "name": "DC SPD",
+        "page": "https://dir.indiamart.com/impcat/dc-spd.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/OC/FY/TN/49660/dc-spd-125x125.jpg"
+      },
+      {
+        "name": "DC MCB",
+        "page": "https://dir.indiamart.com/impcat/dc-mcb.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/IR/SA/KL/49660/dc-mcb-125x125.webp"
+      },
+      {
+        "name": "DC Fuse",
+        "page": "https://dir.indiamart.com/impcat/dc-fuse.html",
+        "thumbnail": "http://5.imimg.com/data5/MN/ZT/EM/GLADMIN-56986/dc-fuse-125x125.jpg"
+      },
+      {
+        "name": "Solar Fuse",
+        "page": "https://dir.indiamart.com/impcat/solar-fuse.html",
+        "thumbnail": "http://5.imimg.com/data5/IW/KK/GLADMIN-2/wind-sun_2269_33243753-125x125.jpg"
+      },
+      {
+        "name": "Insulation Monitoring Device",
+        "page": "https://dir.indiamart.com/impcat/insulation-monitoring-device.html",
+        "thumbnail": "http://3.imimg.com/data3/CG/IR/GLADMIN-74088/insulation-monitoring-device-125x125.jpg"
+      },
+      {
+        "name": "Solar Fuse Holder",
+        "page": "https://dir.indiamart.com/impcat/pv-fuse-holder.html",
+        "thumbnail": "http://5.imimg.com/data5/YS/TC/FZ/GLADMIN-56986/pv-fuse-holder-125x125.jpg"
+      },
+      {
+        "name": "DC Switches",
+        "page": "https://dir.indiamart.com/impcat/dc-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/JD/GLADMIN-69396/dc-switches-125x125.jpg"
+      },
+      {
+        "name": "DC Circuit Breaker",
+        "page": "https://dir.indiamart.com/impcat/dc-circuit-breaker.html",
+        "thumbnail": "http://5.imimg.com/data5/AT/CV/HC/GLADMIN-68155/dc-circuit-breaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "MCB",
+    "category_thumbnail": "http://3.imimg.com/data3/BO/MD/GLADMIN-5163/miniature-circuit-breaker-125x125.jpg",
+    "items": [
+      {
+        "name": "MCB Parts",
+        "page": "https://dir.indiamart.com/impcat/mcb-parts.html",
+        "thumbnail": "http://5.imimg.com/data5/SS/SS/GLADMIN-/mcb-parts-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fuse Holders",
+    "category_thumbnail": "http://3.imimg.com/data3/MP/OW/GLADMIN-30/fuse-holders-125x125.jpg",
+    "items": [
+      {
+        "name": "HRC Fuse Link",
+        "page": "https://dir.indiamart.com/impcat/hrc-fuse-link.html",
+        "thumbnail": "http://3.imimg.com/data3/IE/UB/MY-2/hrc-fuse-link-125x125.jpg"
+      },
+      {
+        "name": "Fuse Box",
+        "page": "https://dir.indiamart.com/impcat/fuse-box.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/CH/GLADMIN-20667/fuse-box-125x125.jpg"
+      },
+      {
+        "name": "PCB Mount Fuse Holder",
+        "page": "https://dir.indiamart.com/impcat/pcb-mount-fuse-holder.html",
+        "thumbnail": "http://5.imimg.com/data5/ZC/FZ/CO/GLADMIN-56986/pcb-mount-fuse-holder-125x125.jpg"
+      },
+      {
+        "name": "Fuse Base",
+        "page": "https://dir.indiamart.com/impcat/fuse-base.html",
+        "thumbnail": "http://3.imimg.com/data3/AY/DF/GLADMIN-11727/fuse-base-125x125.jpg"
+      },
+      {
+        "name": "HRC Fuse Base",
+        "page": "https://dir.indiamart.com/impcat/hrc-fuse-base.html",
+        "thumbnail": "http://4.imimg.com/data4/OD/NS/GLADMIN-185597/hrc-fuse-base-125x125.jpg"
+      },
+      {
+        "name": "HRC Fuse Holder",
+        "page": "https://dir.indiamart.com/impcat/hrc-fuse-holder.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/MN/GLADMIN-150344/hrc-fuse-holder-125x125.jpg"
+      },
+      {
+        "name": "Fuse Clips",
+        "page": "https://dir.indiamart.com/impcat/fuse-clips.html",
+        "thumbnail": "http://5.imimg.com/data5/VI/ZJ/QQ/GLADMIN-56986/fuse-clips-125x125.jpg"
+      },
+      {
+        "name": "Fuse Block",
+        "page": "https://dir.indiamart.com/impcat/fuse-block.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/KV/GLADMIN-29131/fuse-block-125x125.jpg"
+      },
+      {
+        "name": "Fuse Caps",
+        "page": "https://dir.indiamart.com/impcat/fuse-caps.html",
+        "thumbnail": "http://3.imimg.com/data3/OS/AB/GLADMIN-29132/fuse-caps-125x125.jpg"
+      },
+      {
+        "name": "Fuse Accessories",
+        "page": "https://dir.indiamart.com/impcat/fuse-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/OD/BA/GLADMIN-106106/fuse-accessories-125x125.jpg"
+      },
+      {
+        "name": "Fuse Contacts",
+        "page": "https://dir.indiamart.com/impcat/fuse-contacts.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/a-img922-1706-sxrhgo-125x125.jpg"
+      },
+      {
+        "name": "Fuse Panels",
+        "page": "https://dir.indiamart.com/impcat/fuse-panels.html",
+        "thumbnail": "http://3.imimg.com/data3/GY/BG/GLADMIN-29136/fuse-panels-125x125.jpg"
+      },
+      {
+        "name": "Fuse Module",
+        "page": "https://dir.indiamart.com/impcat/fuse-module.html",
+        "thumbnail": "http://3.imimg.com/data3/PY/LX/GLADMIN-107294/fuse-module-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Vacuum Circuit Breaker",
+    "category_thumbnail": "http://3.imimg.com/data3/RN/HR/GLADMIN-19873/vacuum-circuit-breaker-125x125.jpg",
+    "items": [
+      {
+        "name": "Indoor VCB Panel",
+        "page": "https://dir.indiamart.com/impcat/indoor-vcb-panel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/CQ/GF/OD/23669/indoor-vcb-panel-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Interrupters",
+        "page": "https://dir.indiamart.com/impcat/vacuum-interrupters.html",
+        "thumbnail": "http://3.imimg.com/data3/FH/BW/GLADMIN-69490/vacuum-interrupters-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Circuit Breaker Panel",
+        "page": "https://dir.indiamart.com/impcat/vacuum-circuit-breaker-panel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/TS/DF/HU/23669/vacuum-circuit-breaker-panel-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Circuit Breaker Services",
+        "page": "https://dir.indiamart.com/impcat/vacuum-circuit-breaker-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/II/GLADMIN-174216/vacuum-circuit-breaker-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "RCCB",
+    "category_thumbnail": "http://3.imimg.com/data3/RV/NU/GLADMIN-35978/residual-current-circuit-breaker-125x125.jpg",
+    "items": [
+      {
+        "name": "Earth Leakage Circuit Breaker",
+        "page": "https://dir.indiamart.com/impcat/earth-leakage-circuit-breaker.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/KQ/GLADMIN-153052/earth-leakage-circuit-breaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Electronic Fuses",
+    "category_thumbnail": "http://3.imimg.com/data3/QM/DJ/GLADMIN-27884/electronic-fuses-125x125.jpg",
+    "items": [
+      {
+        "name": "Glass Fuse",
+        "page": "https://dir.indiamart.com/impcat/glass-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/BY/FX/MY-2/glass-fuse-125x125.jpg"
+      },
+      {
+        "name": "Semiconductor Fuses",
+        "page": "https://dir.indiamart.com/impcat/semiconductor-fuses.html",
+        "thumbnail": "http://5.imimg.com/data5/PW/CL/XN/GLADMIN-56986/semiconductor-fuses-125x125.jpg"
+      },
+      {
+        "name": "Thermal Fuse",
+        "page": "https://dir.indiamart.com/impcat/thermal-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/VG/CU/GLADMIN-19682/thermal-fuse-125x125.jpg"
+      },
+      {
+        "name": "PTC Resettable Fuse",
+        "page": "https://dir.indiamart.com/impcat/ptc-resettable-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/QB/GLADMIN-116832/ptc-resettable-fuse-125x125.jpg"
+      },
+      {
+        "name": "SMD Fuse",
+        "page": "https://dir.indiamart.com/impcat/smd-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/ID/GH/GLADMIN-37264/smd-fuse-125x125.jpg"
+      },
+      {
+        "name": "Resettable Fuse",
+        "page": "https://dir.indiamart.com/impcat/resettable-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/YM/GLADMIN-35974/resettable-fuse-125x125.jpg"
+      },
+      {
+        "name": "Refrigerator Fuse",
+        "page": "https://dir.indiamart.com/impcat/refrigerator-fuse.html",
+        "thumbnail": "http://5.imimg.com/data5/RQ/MO/KT/GLADMIN-72666/refrigerator-fuse-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "High Voltage Fuse",
+    "category_thumbnail": "http://5.imimg.com/data5/QK/PJ/OZ/GLADMIN-56986/high-voltage-fuse-125x125.jpg",
+    "items": [
+      {
+        "name": "Cut Out Fuse",
+        "page": "https://dir.indiamart.com/impcat/cut-out-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/WA/YL/GLADMIN-69394/cut-out-fuse-125x125.jpg"
+      },
+      {
+        "name": "Drop Out Fuse",
+        "page": "https://dir.indiamart.com/impcat/drop-out-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/TN/VI/GLADMIN-148956/drop-out-fuse-125x125.jpg"
+      },
+      {
+        "name": "PT Fuses",
+        "page": "https://dir.indiamart.com/impcat/pt-fuses.html",
+        "thumbnail": "http://5.imimg.com/data5/TC/JX/WQ/GLADMIN-56986/pt-fuses-125x125.jpg"
+      },
+      {
+        "name": "Fuse Puller",
+        "page": "https://dir.indiamart.com/impcat/fuse-puller.html",
+        "thumbnail": "http://5.imimg.com/data5/XW/BP/DG/GLADMIN-56986/fuse-puller-125x125.jpg"
+      },
+      {
+        "name": "R Rated Fuse",
+        "page": "https://dir.indiamart.com/impcat/medium-voltage-fuses.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/XH/GLADMIN-69433/medium-voltage-fuses-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Switchgears",
+    "category_thumbnail": "http://3.imimg.com/data3/LX/TV/GLADMIN-2871/switchgears-125x125.jpg",
+    "items": [
+      {
+        "name": "Circuit Breaker Components",
+        "page": "https://dir.indiamart.com/impcat/circuit-breaker-components.html",
+        "thumbnail": "http://3.imimg.com/data3/MV/AY/GLADMIN-70006/circuit-breaker-components-125x125.jpg"
+      },
+      {
+        "name": "Low Voltage Switchgear",
+        "page": "https://dir.indiamart.com/impcat/low-voltage-switchgear.html",
+        "thumbnail": "http://5.imimg.com/data5/ZT/JV/HE/GLADMIN-56986/low-voltage-switchgear-125x125.png"
+      },
+      {
+        "name": "Industrial Switchgear",
+        "page": "https://dir.indiamart.com/impcat/industrial-switchgear.html",
+        "thumbnail": "http://5.imimg.com/data5/AN/KT/DL/GLADMIN-56986/industrial-switchgear-125x125.jpg"
+      },
+      {
+        "name": "Switchgear Components",
+        "page": "https://dir.indiamart.com/impcat/switchgear-components.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/LX/MY-2/switchgear-components-125x125.jpg"
+      },
+      {
+        "name": "Power Protection Devices",
+        "page": "https://dir.indiamart.com/impcat/power-protection-devices.html",
+        "thumbnail": "http://3.imimg.com/data3/JA/SQ/GLADMIN-35705/power-protection-devices-125x125.jpg"
+      },
+      {
+        "name": "Medium Voltage Switchgear",
+        "page": "https://dir.indiamart.com/impcat/medium-voltage-switchgear.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/QU/GLADMIN-31925/medium-voltage-switchgear-125x125.jpg"
+      },
+      {
+        "name": "Switchgear Servicing",
+        "page": "https://dir.indiamart.com/impcat/switchgear-servicing.html",
+        "thumbnail": "http://3.imimg.com/data3/GR/MU/GLADMIN-175244/switchgear-servicing-125x125.jpg"
+      },
+      {
+        "name": "Used Switchgear",
+        "page": "https://dir.indiamart.com/impcat/used-switchgear.html",
+        "thumbnail": "http://5.imimg.com/data5/MY/SB/KY/GLADMIN-56986/used-switchgear-125x125.jpg"
+      },
+      {
+        "name": "Key Exchange Boxes",
+        "page": "https://dir.indiamart.com/impcat/key-exchange-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/PY/DT/GLADMIN-109071/key-exchange-boxes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Low Voltage Switchgear",
+    "category_thumbnail": "http://5.imimg.com/data5/ZT/JV/HE/GLADMIN-56986/low-voltage-switchgear-125x125.png",
+    "items": [
+      {
+        "name": "Thermal Overload Relays",
+        "page": "https://dir.indiamart.com/impcat/thermal-overload-relays.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/BO/GLADMIN-2383/thermal-overload-relays-125x125.jpg"
+      },
+      {
+        "name": "Low Voltage Switchgear Spares",
+        "page": "https://dir.indiamart.com/impcat/switchgear-spares.html",
+        "thumbnail": "http://5.imimg.com/data5/KA/JS/QN/GLADMIN-56986/low-voltage-switchgear-spares-125x125.jpg"
+      },
+      {
+        "name": "Contact Breaker",
+        "page": "https://dir.indiamart.com/impcat/contact-breaker.html",
+        "thumbnail": "http://3.imimg.com/data3/SW/EC/GLADMIN-25808/contact-breaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Switch Disconnector",
+    "category_thumbnail": "http://3.imimg.com/data3/FO/QN/GLADMIN-39308/switch-disconnector-125x125.jpg",
+    "items": [
+      {
+        "name": "Switch Disconnector Fuse",
+        "page": "https://dir.indiamart.com/impcat/switch-disconnector-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/QS/GLADMIN-39309/switch-disconnector-fuse-125x125.jpg"
+      },
+      {
+        "name": "DC Switch Disconnector",
+        "page": "https://dir.indiamart.com/impcat/dc-switch-disconnector.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411681423/GU/BB/ON/90596/dc-switch-disconnector-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Distribution Box",
+    "category_thumbnail": "http://3.imimg.com/data3/AV/VC/GLADMIN-11665/distribution-box-125x125.jpg",
+    "items": [
+      {
+        "name": "MCB Box",
+        "page": "https://dir.indiamart.com/impcat/mcb-box.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/DE/GLADMIN-52868/mcb-box-125x125.jpg"
+      },
+      {
+        "name": "MCB Distribution Boards",
+        "page": "https://dir.indiamart.com/impcat/mcb-distribution-boards.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/SE/GLADMIN-9916/mcb-distribution-boards-125x125.jpg"
+      },
+      {
+        "name": "Solar DCDB",
+        "page": "https://dir.indiamart.com/impcat/solar-dcdb.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/RD/CS/JH/92492/solar-dcdb-125x125.jpg"
+      },
+      {
+        "name": "Fiber Optic Termination Boxes",
+        "page": "https://dir.indiamart.com/impcat/fiber-optic-termination-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/OP/QG/GLADMIN-108358/fiber-optic-termination-boxes-125x125.jpg"
+      },
+      {
+        "name": "Power Distribution Box",
+        "page": "https://dir.indiamart.com/impcat/power-distribution-box.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/IK/GLADMIN-35684/power-distribution-box-125x125.jpg"
+      },
+      {
+        "name": "Feeder Pillars",
+        "page": "https://dir.indiamart.com/impcat/feeder-pillars.html",
+        "thumbnail": "http://5.imimg.com/data5/GK/UE/GLADMIN-2/1404916168_ritherdon-stainless-steel-feeder-pillars-125x125.jpg"
+      },
+      {
+        "name": "Power Board",
+        "page": "https://dir.indiamart.com/impcat/power-board.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/YO/QP/AQ/92492/power-board-125x125.jpg"
+      },
+      {
+        "name": "SMC Distribution Box",
+        "page": "https://dir.indiamart.com/impcat/smc-distribution-box.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/DH/OM/XX/92492/smc-distribution-box-125x125.jpg"
+      },
+      {
+        "name": "Connection Boxes",
+        "page": "https://dir.indiamart.com/impcat/connection-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/CG/NK/GLADMIN-99721/connection-boxes-125x125.jpg"
+      },
+      {
+        "name": "LT Distribution Box",
+        "page": "https://dir.indiamart.com/impcat/lt-distribution-box.html",
+        "thumbnail": "http://3.imimg.com/data3/MB/PJ/GLADMIN-159843/lt-distribution-box-125x125.jpg"
+      },
+      {
+        "name": "Mild Steel Distribution Box",
+        "page": "https://dir.indiamart.com/impcat/mild-steel-distribution-box.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/TF/DY/XB/23669/mild-steel-distribution-box-125x125.jpg"
+      },
+      {
+        "name": "Control Cabinets",
+        "page": "https://dir.indiamart.com/impcat/control-cabinets.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/QR/GLADMIN-26018/control-cabinets-125x125.jpg"
+      },
+      {
+        "name": "Feeder Box",
+        "page": "https://dir.indiamart.com/impcat/feeder-box.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/TV/KQ/NN/88727/feeder-box-125x125.jpg"
+      },
+      {
+        "name": "Automatic Phase Shifter",
+        "page": "https://dir.indiamart.com/impcat/automatic-phase-shifter.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/SP/MY-2/automatic-phase-shifter1-125x125.jpg"
+      },
+      {
+        "name": "MCCB Busbar Box",
+        "page": "https://dir.indiamart.com/impcat/mccb-busbar-box.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/370095596/TF/XG/FJ/96308/mccb-busbar-box-125x125.jpg"
+      },
+      {
+        "name": "Pole Distribution Box",
+        "page": "https://dir.indiamart.com/impcat/pole-distribution-box.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/BW/GLADMIN-146205/pole-distribution-box-125x125.jpg"
+      },
+      {
+        "name": "Indoor Distribution Boxes",
+        "page": "https://dir.indiamart.com/impcat/indoor-distribution-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/KL/KW/GLADMIN-107298/indoor-distribution-boxes-125x125.jpg"
+      },
+      {
+        "name": "Switch Control Box",
+        "page": "https://dir.indiamart.com/impcat/switch-control-box.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/RR/GLADMIN-45526/switch-control-box-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Earthing Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/TM/JQ/GLADMIN-41711/earthing-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Gi Earthing Strip",
+        "page": "https://dir.indiamart.com/impcat/gi-earthing-strip.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/KE/GLADMIN-52852/gi-earthing-strip-125x125.jpg"
+      },
+      {
+        "name": "Copper Earthing Strip",
+        "page": "https://dir.indiamart.com/impcat/copper-earthing-strip.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/WW/GLADMIN-/copper-earthing-strip-125x125.jpg"
+      },
+      {
+        "name": "Copper Earthing Plate",
+        "page": "https://dir.indiamart.com/impcat/copper-earthing-plate.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/HO/GLADMIN-155376/copper-earthing-plate-125x125.jpg"
+      },
+      {
+        "name": "Earth Pit",
+        "page": "https://dir.indiamart.com/impcat/earth-pit.html",
+        "thumbnail": "http://3.imimg.com/data3/BO/CI/GLADMIN-52841/earth-pit-125x125.jpg"
+      },
+      {
+        "name": "Earthing Cover",
+        "page": "https://dir.indiamart.com/impcat/earthing-cover.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/SK/GLADMIN-145461/earthing-cover-125x125.jpg"
+      },
+      {
+        "name": "GI Earthing Pipe",
+        "page": "https://dir.indiamart.com/impcat/gi-earthing-pipe.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/XP/GLADMIN-/prd-gi-pipe-electrode-125x125.jpg"
+      },
+      {
+        "name": "Earthing Plate",
+        "page": "https://dir.indiamart.com/impcat/earthing-plate.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/GU/GLADMIN-146633/earthing-plate-125x125.jpg"
+      },
+      {
+        "name": "FRP Earth Pit Chamber",
+        "page": "https://dir.indiamart.com/impcat/frp-earth-pit-chamber.html",
+        "thumbnail": "http://4.imimg.com/data4/QP/QS/GLADMIN-179439/frp-earth-pit-chamber-125x125.png"
+      },
+      {
+        "name": "Earthing Set",
+        "page": "https://dir.indiamart.com/impcat/earthing-set.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/BE/GLADMIN-120829/earthing-set-125x125.jpg"
+      },
+      {
+        "name": "Concrete Earthing Pit",
+        "page": "https://dir.indiamart.com/impcat/concrete-earthing-pit.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/OA/EL/RH/92492/concrete-earthing-pit-125x125.webp"
+      },
+      {
+        "name": "Earthing Strip",
+        "page": "https://dir.indiamart.com/impcat/earthing-strip.html",
+        "thumbnail": "http://3.imimg.com/data3/HN/FT/GLADMIN-99722/earthing-strip-125x125.jpg"
+      },
+      {
+        "name": "Earthing Pipe",
+        "page": "https://dir.indiamart.com/impcat/earthing-pipe.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/JM/GLADMIN-88399/earthing-pipe-125x125.jpg"
+      },
+      {
+        "name": "Grounding Systems",
+        "page": "https://dir.indiamart.com/impcat/grounding-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/OJ/GLADMIN-29858/grounding-systems-125x125.jpg"
+      },
+      {
+        "name": "Earthing Mat",
+        "page": "https://dir.indiamart.com/impcat/earthing-mat.html",
+        "thumbnail": "http://5.imimg.com/data5/HY/YJ/FK/GLADMIN-68087/earthing-mat-125x125.jpg"
+      },
+      {
+        "name": "Earthing Coil",
+        "page": "https://dir.indiamart.com/impcat/earthing-coil.html",
+        "thumbnail": "http://5.imimg.com/data5/VX/HX/GLADMIN-2/earthing-coil-125x125.jpg"
+      },
+      {
+        "name": "Air Terminal Base",
+        "page": "https://dir.indiamart.com/impcat/air-terminal-base.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/1/EH/NU/IL/91095/air-terminal-base-125x125.jpg"
+      },
+      {
+        "name": "Grounding Kit",
+        "page": "https://dir.indiamart.com/impcat/grounding-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/PH/GN/GLADMIN-52854/grounding-kit-125x125.jpg"
+      },
+      {
+        "name": "Earth Boss",
+        "page": "https://dir.indiamart.com/impcat/earth-boss.html",
+        "thumbnail": "http://3.imimg.com/data3/EW/AA/GLADMIN-/furse-images-earth_boss-125x125.jpg"
+      },
+      {
+        "name": "Earth Tag",
+        "page": "https://dir.indiamart.com/impcat/earth-tag.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/EB/GLADMIN-52842/earth-tag-125x125.jpg"
+      },
+      {
+        "name": "Spark Gaps",
+        "page": "https://dir.indiamart.com/impcat/spark-gaps.html",
+        "thumbnail": "http://3.imimg.com/data3/FY/RW/GLADMIN-37447/spark-gaps-125x125.jpg"
+      },
+      {
+        "name": "Copper Earthing System",
+        "page": "https://dir.indiamart.com/impcat/copper-earthing-system.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/BC/UT/ON/92492/copper-earthing-system-125x125.webp"
+      },
+      {
+        "name": "Brass Earthing Terminals",
+        "page": "https://dir.indiamart.com/impcat/brass-earthing-terminals.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/WW/BA/NQ/92492/brass-earthing-terminals-125x125.jpg"
+      },
+      {
+        "name": "Glazing Bar Holdfast",
+        "page": "https://dir.indiamart.com/impcat/glazing-bar-holdfast.html",
+        "thumbnail": "http://3.imimg.com/data3/SX/QY/GLADMIN-/furse-images-glazing_bar_holdfast-125x125.jpg"
+      },
+      {
+        "name": "Earth Bar",
+        "page": "https://dir.indiamart.com/impcat/earth-bar.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/OQ/GLADMIN-52840/earth-bar-125x125.jpg"
+      },
+      {
+        "name": "Ground Bar",
+        "page": "https://dir.indiamart.com/impcat/ground-bar.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/DK/GLADMIN-150502/ground-bar-125x125.jpg"
+      },
+      {
+        "name": "Disconnecting Links",
+        "page": "https://dir.indiamart.com/impcat/disconnecting-links.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/XD/BW/ZR/92492/disconnecting-links-125x125.jpg"
+      },
+      {
+        "name": "Copper Earthing Bar",
+        "page": "https://dir.indiamart.com/impcat/copper-earthing-bar.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/CX/GLADMIN-155375/copper-earthing-bar-125x125.jpg"
+      },
+      {
+        "name": "Neutral Balancing System",
+        "page": "https://dir.indiamart.com/impcat/neutral-balancing-system.html",
+        "thumbnail": "http://3.imimg.com/data3/MH/VE/GLADMIN-161587/neutral-balancing-system-125x125.jpg"
+      },
+      {
+        "name": "Brass Earthing Pin",
+        "page": "https://dir.indiamart.com/impcat/brass-earthing-pin.html",
+        "thumbnail": "http://5.imimg.com/data5/JP/NO/IU/GLADMIN-76441/brass-earthing-pin-125x125.png"
+      },
+      {
+        "name": "Concrete Inspection Pit",
+        "page": "https://dir.indiamart.com/impcat/concrete-inspection-pit.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/DV/CH/BG/92492/concrete-inspection-pit-125x125.jpg"
+      },
+      {
+        "name": "Earth Pin",
+        "page": "https://dir.indiamart.com/impcat/earth-pin.html",
+        "thumbnail": "http://3.imimg.com/data3/AY/DM/GLADMIN-6777/earth-pin-125x125.jpg"
+      },
+      {
+        "name": "Earth Socket",
+        "page": "https://dir.indiamart.com/impcat/earth-socket.html",
+        "thumbnail": "http://3.imimg.com/data3/FE/HK/GLADMIN-6778/earth-socket-125x125.jpg"
+      },
+      {
+        "name": "Water Main Bond",
+        "page": "https://dir.indiamart.com/impcat/water-main-bond.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/UM/GLADMIN-/datafiles-water-main-bond-shivexport-india-125x125.jpg"
+      },
+      {
+        "name": "Test Bonds",
+        "page": "https://dir.indiamart.com/impcat/test-bonds.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/WX/GLADMIN-/img-tape-clip-clamp-125x125.jpg"
+      },
+      {
+        "name": "Grounding Connectors",
+        "page": "https://dir.indiamart.com/impcat/grounding-connectors.html",
+        "thumbnail": "http://3.imimg.com/data3/OH/AD/GLADMIN-29857/grounding-connectors-125x125.jpg"
+      },
+      {
+        "name": "Back Plate Holdfast Stem",
+        "page": "https://dir.indiamart.com/impcat/back-plate-holdfast-stem.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/QH/GLADMIN-/images-1-back-20plate-20holdfast-20stem_-125x125.png"
+      },
+      {
+        "name": "Coupling Dowels",
+        "page": "https://dir.indiamart.com/impcat/coupling-dowels.html",
+        "thumbnail": "http://3.imimg.com/data3/PX/CC/GLADMIN-160786/coupling-dowels-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Earthing Electrodes",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/RX/JL/BI/92492/earthing-electrodes-125x125.webp",
+    "items": [
+      {
+        "name": "Discharge Rods",
+        "page": "https://dir.indiamart.com/impcat/discharge-rods.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/RW/GLADMIN-56246/discharge-rods-125x125.jpg"
+      },
+      {
+        "name": "Chemical Earthing Electrode",
+        "page": "https://dir.indiamart.com/impcat/chemical-earthing-electrode.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/GF/GLADMIN-77610/chemical-earthing-electrode-125x125.jpg"
+      },
+      {
+        "name": "Earthing Rod",
+        "page": "https://dir.indiamart.com/impcat/earthing-rod.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/CK/UY/LZ/92492/earthing-rod-125x125.jpg"
+      },
+      {
+        "name": "Copper Earthing Electrode",
+        "page": "https://dir.indiamart.com/impcat/copper-earthing-electrode.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/YY/GLADMIN-142266/copper-earthing-electrode-125x125.jpg"
+      },
+      {
+        "name": "Copper Bonded Rods",
+        "page": "https://dir.indiamart.com/impcat/copper-bonded-rods.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/MY/GLADMIN-142265/copper-bonded-rods-125x125.jpg"
+      },
+      {
+        "name": "GI Earthing Electrode",
+        "page": "https://dir.indiamart.com/impcat/gi-earthing-electrode.html",
+        "thumbnail": "http://4.imimg.com/data4/EB/IU/GLADMIN-180851/gi-earthing-electrode-125x125.jpg"
+      },
+      {
+        "name": "Solid Copper Earth Rods",
+        "page": "https://dir.indiamart.com/impcat/solid-copper-earth-rods.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/MC/LD/HE/92492/solid-copper-earth-rods-125x125.webp"
+      },
+      {
+        "name": "Maintenance Free Earthing Electrode",
+        "page": "https://dir.indiamart.com/impcat/maintenance-free-earthing-electrode.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/ID/LN/VS/92492/maintenance-free-earthing-electrode-125x125.webp"
+      },
+      {
+        "name": "Static Discharge Stick",
+        "page": "https://dir.indiamart.com/impcat/static-discharge-stick.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/UQ/IA/IV/92492/static-discharge-stick-125x125.webp"
+      },
+      {
+        "name": "Copper Grounding Rods",
+        "page": "https://dir.indiamart.com/impcat/copper-grounding-rods.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/EB/UH/BN/92492/copper-grounding-rods-125x125.webp"
+      },
+      {
+        "name": "Titanium Electrode",
+        "page": "https://dir.indiamart.com/impcat/titanium-electrode.html",
+        "thumbnail": "http://5.imimg.com/data5/YK/QP/GLADMIN-2/fedg-125x125.jpg"
+      },
+      {
+        "name": "Gel Earthing Electrodes",
+        "page": "https://dir.indiamart.com/impcat/gel-earthing-electrodes.html",
+        "thumbnail": "http://3.imimg.com/data3/JW/XV/GLADMIN-142267/gel-earthing-electrodes-125x125.jpg"
+      },
+      {
+        "name": "Ground Rods",
+        "page": "https://dir.indiamart.com/impcat/ground-rods.html",
+        "thumbnail": "http://3.imimg.com/data3/AC/YT/GLADMIN-29849/ground-rods-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Electric Coils",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/QR/IY/RO/92492/electric-coils-125x125.jpg",
+    "items": [
+      {
+        "name": "Tripping Coil",
+        "page": "https://dir.indiamart.com/impcat/tripping-coil.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/RA/GLADMIN-161416/tripping-coil-125x125.jpg"
+      },
+      {
+        "name": "Contactor Coil",
+        "page": "https://dir.indiamart.com/impcat/contactor-coil.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/DY/GLADMIN-149650/contactor-coil-125x125.jpg"
+      },
+      {
+        "name": "Electronic Coil",
+        "page": "https://dir.indiamart.com/impcat/electronic-coil.html",
+        "thumbnail": "http://3.imimg.com/data3/MU/AT/GLADMIN-15564/electronic-coil-125x125.jpg"
+      },
+      {
+        "name": "Induction Coils",
+        "page": "https://dir.indiamart.com/impcat/induction-coils.html",
+        "thumbnail": "http://3.imimg.com/data3/KL/SA/GLADMIN-10966/induction-coils-125x125.jpg"
+      },
+      {
+        "name": "Spare Coil",
+        "page": "https://dir.indiamart.com/impcat/spare-coil.html",
+        "thumbnail": "http://5.imimg.com/data5/PG/UY/GLADMIN-2/spare-coil-125x125.jpg"
+      },
+      {
+        "name": "Tesla Coil",
+        "page": "https://dir.indiamart.com/impcat/tesla-coil.html",
+        "thumbnail": "http://5.imimg.com/data5/CI/WV/GLADMIN-2/tesla-coil-125x125.jpg"
+      },
+      {
+        "name": "Earthing Coil",
+        "page": "https://dir.indiamart.com/impcat/earthing-coil.html",
+        "thumbnail": "http://5.imimg.com/data5/VX/HX/GLADMIN-2/earthing-coil-125x125.jpg"
+      },
+      {
+        "name": "Inductor Coil",
+        "page": "https://dir.indiamart.com/impcat/inductor-coil.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/JW/GLADMIN-96010/inductor-coil-125x125.jpg"
+      },
+      {
+        "name": "Choke Coil",
+        "page": "https://dir.indiamart.com/impcat/choke-coil.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/DI/GLADMIN-13749/choke-coil-125x125.jpg"
+      },
+      {
+        "name": "Resistance Coil",
+        "page": "https://dir.indiamart.com/impcat/resistance-coil.html",
+        "thumbnail": "http://5.imimg.com/data5/DX/DS/GLADMIN-2/resistance-coil-125x125.jpg"
+      },
+      {
+        "name": "Induction Hardening Coil",
+        "page": "https://dir.indiamart.com/impcat/induction-hardening-coil.html",
+        "thumbnail": "http://5.imimg.com/data5/IW/MO/GLADMIN-2/induction-hardening-coil-125x125.jpg"
+      },
+      {
+        "name": "Edge Wound Coil",
+        "page": "https://dir.indiamart.com/impcat/edgewound-coil.html",
+        "thumbnail": "http://5.imimg.com/data5/AN/RW/GLADMIN-2/edge-wound-coil-125x125.jpg"
+      },
+      {
+        "name": "Power Coils",
+        "page": "https://dir.indiamart.com/impcat/power-coils.html",
+        "thumbnail": "http://3.imimg.com/data3/PW/XD/GLADMIN-122515/power-coils-125x125.jpg"
+      },
+      {
+        "name": "Power Choke Coil",
+        "page": "https://dir.indiamart.com/impcat/power-choke-coil.html",
+        "thumbnail": "http://5.imimg.com/data5/SP/UF/GLADMIN-2/power-choke-coil-125x125.jpg"
+      },
+      {
+        "name": "Air Core Coil",
+        "page": "https://dir.indiamart.com/impcat/air-core-coil.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/UN/GLADMIN-85244/air-core-coil-125x125.jpg"
+      },
+      {
+        "name": "Meter Coils",
+        "page": "https://dir.indiamart.com/impcat/meter-coils.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/YW/GLADMIN-135653/meter-coils-125x125.jpg"
+      },
+      {
+        "name": "Linearity Coils",
+        "page": "https://dir.indiamart.com/impcat/linearity-coils.html",
+        "thumbnail": "http://5.imimg.com/data5/DQ/GK/GLADMIN-2/linearity-coils-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "MCCB",
+        "page": "https://dir.indiamart.com/impcat/molded-case-circuit-breakers.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/NI/GLADMIN-69443/molded-case-circuit-breakers-125x125.jpg"
+      },
+      {
+        "name": "Electrical Circuit Breaker",
+        "page": "https://dir.indiamart.com/impcat/electrical-circuit-breaker.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/LW/GLADMIN-28005/electrical-circuit-breaker-125x125.jpg"
+      },
+      {
+        "name": "Ring Main Unit",
+        "page": "https://dir.indiamart.com/impcat/ring-main-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/UB/GLADMIN-122549/ring-main-unit-125x125.jpg"
+      },
+      {
+        "name": "Air Circuit Breakers",
+        "page": "https://dir.indiamart.com/impcat/air-circuit-breakers.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/FD/GLADMIN-21370/air-circuit-breakers-125x125.jpg"
+      },
+      {
+        "name": "SF6 Circuit Breaker",
+        "page": "https://dir.indiamart.com/impcat/sf6-circuit-breaker.html",
+        "thumbnail": "http://4.imimg.com/data4/PU/UJ/GLADMIN-179700/sf6-circuit-breaker-125x125.jpg"
+      },
+      {
+        "name": "Isolator Switch",
+        "page": "https://dir.indiamart.com/impcat/isolation-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/PU/UE/GLADMIN-53750/isolation-switch-125x125.jpg"
+      },
+      {
+        "name": "RCBO",
+        "page": "https://dir.indiamart.com/impcat/rcbo.html",
+        "thumbnail": "http://4.imimg.com/data4/EO/DM/GLADMIN-179598/rcbo-125x125.jpg"
+      }
+    ]
+  }
+]

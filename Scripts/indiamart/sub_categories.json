@@ -1,0 +1,887 @@
+[
+  {
+    "name": "Financial & Legal Services",
+    "page": "https://dir.indiamart.com/industry/finance-law.html",
+    "thumbnail": "https://dir.imimg.com/images/Financial_Legal_Services.jpg",
+    "sub_category": [
+      {
+        "name": "Stock Trading & Money Market",
+        "page": "https://dir.indiamart.com/indianservices/s_share.html",
+        "thumbnail": "https://4.imimg.com/data4/FH/JP/GLADMIN-2/339_stock_trading_money_market-125x125.jpg"
+      },
+      {
+        "name": "Banks and Banking Services",
+        "page": "https://dir.indiamart.com/indianservices/indbank.html",
+        "thumbnail": "https://utils.imimg.com/imsrchui/imgs/z.gif"
+      },
+      {
+        "name": "Legal Drafting & Litigation Services",
+        "page": "https://dir.indiamart.com/indianservices/legal-documentation.html",
+        "thumbnail": "https://utils.imimg.com/imsrchui/imgs/z.gif"
+      },
+      {
+        "name": "Actuarial & Risk Management",
+        "page": "https://dir.indiamart.com/indianservices/advisory-services.html",
+        "thumbnail": "https://utils.imimg.com/imsrchui/imgs/z.gif"
+      }
+    ]
+  },
+  {
+    "name": "Education & Training",
+    "page": "https://dir.indiamart.com/industry/education-training.html",
+    "thumbnail": "https://dir.imimg.com/images/Education_Training.jpg",
+    "sub_category": [
+      {
+        "name": "Vocational Education and Training",
+        "page": "https://dir.indiamart.com/indianservices/vocational-education.html",
+        "thumbnail": "https://4.imimg.com/data4/EN/TF/GLADMIN-2/686_vocational_education_and_training-125x125.jpg"
+      },
+      {
+        "name": "Corporate and Soft Skills Training",
+        "page": "https://dir.indiamart.com/indianservices/management-training.html",
+        "thumbnail": "https://4.imimg.com/data4/GG/KP/GLADMIN-2/296_corporate_and_soft_skills_training-125x125.jpg"
+      },
+      {
+        "name": "Computer, IT & Software Training",
+        "page": "https://dir.indiamart.com/indianservices/computer-training.html",
+        "thumbnail": "https://3.imimg.com/data3/FB/CL/GLADMIN-2/267_computer-it-and-software-training-125x125.jpg"
+      },
+      {
+        "name": "Graduation & High Education Programs",
+        "page": "https://dir.indiamart.com/indianservices/higher-education.html",
+        "thumbnail": "https://4.imimg.com/data4/OA/ML/GLADMIN-2/670_graduation_and_high_education_programs-125x125.jpg"
+      },
+      {
+        "name": "Short Term Diploma & Course Provider",
+        "page": "https://dir.indiamart.com/indianservices/certification-course.html",
+        "thumbnail": "https://4.imimg.com/data4/BN/FX/GLADMIN-2/384_short_term_diploma_and_course_provider-125x125.jpg"
+      },
+      {
+        "name": "Career Guidance & Admission Services",
+        "page": "https://dir.indiamart.com/indianservices/education-services.html",
+        "thumbnail": "https://4.imimg.com/data4/JS/CC/GLADMIN-2/666_career_guidance_and_admission_services-125x125.jpg"
+      },
+      {
+        "name": "Coaching Classes & Tuition Centers",
+        "page": "https://dir.indiamart.com/indianservices/coaching-tutition.html",
+        "thumbnail": "https://4.imimg.com/data4/BK/TV/GLADMIN-2/661_coaching_classes_and_tuition_centers-125x125.jpg"
+      },
+      {
+        "name": "Online Education & Coaching Services",
+        "page": "https://dir.indiamart.com/indianservices/online-education.html",
+        "thumbnail": "https://4.imimg.com/data4/ND/XS/GLADMIN-2/302_online_education_and_coaching_services-125x125.jpg"
+      },
+      {
+        "name": "Primary & Secondary Schools",
+        "page": "https://dir.indiamart.com/indianservices/schools.html",
+        "thumbnail": "https://4.imimg.com/data4/LM/IB/GLADMIN-2/681_primary_and_secondary_schools-125x125.jpg"
+      },
+      {
+        "name": "Presentation Boards & Accessories",
+        "page": "https://dir.indiamart.com/indianexporters/presentation-boards.html",
+        "thumbnail": "https://4.imimg.com/data4/UH/IC/GLADMIN-2/515_presentation_boards_and_supplies-125x125.jpg"
+      },
+      {
+        "name": "Kids Fiction & Entertainment Books",
+        "page": "https://dir.indiamart.com/indianexporters/book_fiction.html",
+        "thumbnail": "https://4.imimg.com/data4/HY/JE/GLADMIN-2/44-kids-fiction-_-entertainment-books-125x125.jpg"
+      },
+      {
+        "name": "Science & Technology Books",
+        "page": "https://dir.indiamart.com/indianexporters/book_tech.html",
+        "thumbnail": "https://3.imimg.com/data3/OM/RW/GLADMIN-2/46_science-and-technology-books-125x125.jpg"
+      },
+      {
+        "name": "Culture & Religion Related Books",
+        "page": "https://dir.indiamart.com/indianexporters/book_epics.html",
+        "thumbnail": "https://3.imimg.com/data3/EJ/CP/GLADMIN-2/43_culture-and-religion-related-books-125x125.jpg"
+      },
+      {
+        "name": "Management & Educational Books",
+        "page": "https://dir.indiamart.com/indianexporters/book_edu.html",
+        "thumbnail": "https://3.imimg.com/data3/YU/CR/GLADMIN-2/42_management-and-educational-books-125x125.jpg"
+      },
+      {
+        "name": "Social Science & Literature Books",
+        "page": "https://dir.indiamart.com/indianexporters/book_art.html",
+        "thumbnail": "https://3.imimg.com/data3/QR/WR/GLADMIN-2/41_social-science-and-literature-books-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Travel, Tourism & Hotels",
+    "page": "https://dir.indiamart.com/industry/travel-tourism.html",
+    "thumbnail": "https://dir.imimg.com/images/Travel_Tourism_Hotels.jpg",
+    "sub_category": [
+      {
+        "name": "Air Taxi, Bus Rentals & Services",
+        "page": "https://dir.indiamart.com/indianservices/wheel.html",
+        "thumbnail": "https://4.imimg.com/data4/NG/MT/GLADMIN-2/351_rentals___taxi-_car_and_bus-125x125.jpg"
+      },
+      {
+        "name": "Tour Operators and Travel Agents",
+        "page": "https://dir.indiamart.com/indianservices/tourist.html",
+        "thumbnail": "https://4.imimg.com/data4/LR/FJ/GLADMIN-2/349_tour_operators_and_travel_agents-125x125.jpg"
+      },
+      {
+        "name": "Hotel Booking & Reservation Services",
+        "page": "https://dir.indiamart.com/indianservices/s_reservation.html",
+        "thumbnail": "https://3.imimg.com/data3/OS/EW/GLADMIN-2/38_hotel-booking-and-reservation-services-125x125.jpg"
+      },
+      {
+        "name": "Adventure & Trekking Tours",
+        "page": "https://dir.indiamart.com/indianservices/adventure-tours.html",
+        "thumbnail": "https://4.imimg.com/data4/KT/JO/GLADMIN-2/459_adventure_and_trekking_tours-125x125.jpg"
+      },
+      {
+        "name": "Camping, Fishing & Hunting Goods",
+        "page": "https://dir.indiamart.com/indianexporters/fishing-equipment.html",
+        "thumbnail": "https://4.imimg.com/data4/EU/IT/GLADMIN-2/455_camping-_fishing_and_hunting_goods-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Call Center & BPO Services",
+    "page": "https://dir.indiamart.com/industry/callcenter-bpo.html",
+    "thumbnail": "https://dir.imimg.com/images/CallCenter_BPO_Services.jpg",
+    "sub_category": [
+      {
+        "name": "Call Centre & Customer Care Services",
+        "page": "https://dir.indiamart.com/indianservices/callcentres.html",
+        "thumbnail": "https://3.imimg.com/data3/NX/QX/GLADMIN-2/261_call-centre-and-customer-care-services-125x125.jpg"
+      },
+      {
+        "name": "BPO Operations and Services",
+        "page": "https://dir.indiamart.com/indianservices/business-process-outsourcing.html",
+        "thumbnail": "https://4.imimg.com/data4/XO/SA/GLADMIN-2/382_bpo_operations_and_services-125x125.jpg"
+      },
+      {
+        "name": "Branding & Advertising Agencies",
+        "page": "https://dir.indiamart.com/indianservices/s_adcon.html",
+        "thumbnail": "https://4.imimg.com/data4/MB/LH/GLADMIN-2/311_branding_and_advertising_agencies-125x125.jpg"
+      },
+      {
+        "name": "HR & Manpower Recruitment Solutions",
+        "page": "https://dir.indiamart.com/indianservices/manpower-recruitment.html",
+        "thumbnail": "https://4.imimg.com/data4/OF/SA/GLADMIN-2/510_hr_and_manpower_recruitment_solutions-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Bicycle, Rickshaw & Spares",
+    "page": "https://dir.indiamart.com/industry/bicycles-rickshaws.html",
+    "thumbnail": "https://dir.imimg.com/images/Bicycle_Rickshaw_Spares.jpg",
+    "sub_category": [
+      {
+        "name": "Bicycle Spare Parts",
+        "page": "https://dir.indiamart.com/indianexporters/ag_water.html",
+        "thumbnail": "https://4.imimg.com/data4/TE/FE/GLADMIN-2/18-bicycle-spare-parts-125x125.jpg"
+      },
+      {
+        "name": "Kids, Racing Bicycles and Rickshaws",
+        "page": "https://dir.indiamart.com/indianexporters/bicycle.html",
+        "thumbnail": "https://3.imimg.com/data3/HF/OL/GLADMIN-2/38_bicycle-and-rickshaws-125x125.jpg"
+      },
+      {
+        "name": "Oils, Grease & Lubricants",
+        "page": "https://dir.indiamart.com/indianexporters/o_lubric.html",
+        "thumbnail": "https://3.imimg.com/data3/KF/FH/GLADMIN-2/196_oils-grease-and-lubricants-125x125.jpg"
+      },
+      {
+        "name": "Nails, Fasteners, Rivets & Shackles",
+        "page": "https://dir.indiamart.com/indianexporters/nutbolt.html",
+        "thumbnail": "https://3.imimg.com/data3/PY/CL/GLADMIN-2/95_nuts-bolts-and-screws-125x125.jpg"
+      },
+      {
+        "name": "Ball Bearings and Bearing Assemblies",
+        "page": "https://dir.indiamart.com/indianexporters/bearing.html",
+        "thumbnail": "https://4.imimg.com/data4/PK/TR/GLADMIN-2/37_bearings-and-bushings-125x125.jpg"
+      },
+      {
+        "name": "Tyres & Tube",
+        "page": "https://dir.indiamart.com/indianexporters/r_tyre.html",
+        "thumbnail": "https://4.imimg.com/data4/BF/YV/GLADMIN-2/214_tyre-tube-and-flaps-125x125.jpg"
+      },
+      {
+        "name": "Air Springs & Compression Springs",
+        "page": "https://dir.indiamart.com/indianexporters/au_sprng.html",
+        "thumbnail": "https://4.imimg.com/data4/LS/SD/GLADMIN-2/28-air-springs-_-compression-springs-125x125.jpg"
+      },
+      {
+        "name": "Suspension System & Components",
+        "page": "https://dir.indiamart.com/indianexporters/brake_clutch.html",
+        "thumbnail": "https://4.imimg.com/data4/JG/VA/GLADMIN-2/suspension-125x125.jpg"
+      },
+      {
+        "name": "Brakes & Braking Systems",
+        "page": "https://dir.indiamart.com/indianexporters/brake-systems.html",
+        "thumbnail": "https://4.imimg.com/data4/NF/TI/GLADMIN-2/543_brakes_and_braking_systems-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "R&D and Testing Labs",
+    "page": "https://dir.indiamart.com/industry/research-development.html",
+    "thumbnail": "https://dir.imimg.com/images/RnD_Testing_Labs.jpg",
+    "sub_category": [
+      {
+        "name": "Material Testing Labs & Services",
+        "page": "https://dir.indiamart.com/indianservices/s_labort.html",
+        "thumbnail": "https://4.imimg.com/data4/DL/BN/GLADMIN-2/329_material_testing_labs_and_services-125x125.jpg"
+      },
+      {
+        "name": "Instrument Calibration & Adjustment",
+        "page": "https://dir.indiamart.com/indianservices/instrument-calibration.html",
+        "thumbnail": "https://4.imimg.com/data4/IP/TF/GLADMIN-2/673_instrument_calibration_and_adjustment-125x125.jpg"
+      },
+      {
+        "name": "Inspection & Quality Check Services",
+        "page": "https://dir.indiamart.com/indianservices/inspection-services.html",
+        "thumbnail": "https://4.imimg.com/data4/YN/MH/GLADMIN-2/436_inspection_and_quality_check_services-125x125.jpg"
+      },
+      {
+        "name": "Research and Development (R&D) Work",
+        "page": "https://dir.indiamart.com/indianservices/research.html",
+        "thumbnail": "https://4.imimg.com/data4/WX/RB/GLADMIN-2/309_research_and_development_randd_work-125x125.jpg"
+      },
+      {
+        "name": "Testing & Measuring Equipments",
+        "page": "https://dir.indiamart.com/indianexporters/testing-equipment.html",
+        "thumbnail": "https://4.imimg.com/data4/WL/LX/GLADMIN-2/383-testing-_-measuring-equipments-125x125.jpg"
+      },
+      {
+        "name": "Laboratory & Lab Equipment",
+        "page": "https://dir.indiamart.com/indianexporters/laboratory-equipment.html",
+        "thumbnail": "https://4.imimg.com/data4/BR/WD/GLADMIN-2/385-laboratory-_-lab-equipment-125x125.jpg"
+      },
+      {
+        "name": "Measuring Equipments & Instruments",
+        "page": "https://dir.indiamart.com/indianexporters/w_weight.html",
+        "thumbnail": "https://5.imimg.com/data5/DF/GI/GLADMIN-2/measuring-instruments-equipment-125x125.png"
+      },
+      {
+        "name": "Weighing Scales & Measuring Tapes",
+        "page": "https://dir.indiamart.com/indianexporters/scales-balances.html",
+        "thumbnail": "https://4.imimg.com/data4/DE/FJ/GLADMIN-2/629-weighing-scales-_-measuring-tapes-125x125.jpg"
+      },
+      {
+        "name": "Analyzers & Analytical Instruments",
+        "page": "https://dir.indiamart.com/indianexporters/analyzer-spectrometer.html",
+        "thumbnail": "https://4.imimg.com/data4/BE/RL/GLADMIN-2/630-analyzers-_-analytical-instruments-125x125.jpg"
+      },
+      {
+        "name": "Diagnostic Medical Imaging Equipment",
+        "page": "https://dir.indiamart.com/indianexporters/pathology-instruments.html",
+        "thumbnail": "https://4.imimg.com/data4/RB/IL/GLADMIN-2/577-diagnosis-_-path-lab-instruments-125x125.jpg"
+      },
+      {
+        "name": "Plastic & Glass Labware",
+        "page": "https://dir.indiamart.com/indianexporters/plastic-glass-labware.html",
+        "thumbnail": "https://5.imimg.com/data5/JL/WP/GLADMIN-2/beakers-test-tubes-flasks-and-other-plastic-glass-labware-125x125.jpg"
+      },
+      {
+        "name": "Chemical Reactors and Process Tanks",
+        "page": "https://dir.indiamart.com/indianexporters/reaction-vessels.html",
+        "thumbnail": "https://4.imimg.com/data4/BG/SQ/GLADMIN-2/599_chemical_reactors_and_process_tanks-125x125.jpg"
+      },
+      {
+        "name": "Optical, Laser Instruments & Devices",
+        "page": "https://dir.indiamart.com/indianexporters/optical-optics.html",
+        "thumbnail": "https://4.imimg.com/data4/FG/DX/GLADMIN-2/522-optical-components-_-optics-125x125.jpg"
+      },
+      {
+        "name": "Metallurgical & Lab Microscopes",
+        "page": "https://dir.indiamart.com/indianexporters/microscopes-exporters.html",
+        "thumbnail": "https://4.imimg.com/data4/DL/DN/GLADMIN-2/440-metallurgical-_-lab-microscopes-125x125.jpg"
+      },
+      {
+        "name": "Scientific Instruments & Devices",
+        "page": "https://dir.indiamart.com/indianexporters/s_scinst.html",
+        "thumbnail": "https://4.imimg.com/data4/IJ/JW/GLADMIN-2/221_scientific-instruments-and-devices-125x125.jpg"
+      },
+      {
+        "name": "Cleanroom Equipment & Supplies",
+        "page": "https://dir.indiamart.com/indianexporters/cleanroom-supplies.html",
+        "thumbnail": "https://4.imimg.com/data4/AE/MX/GLADMIN-2/521_cleanroom_equipment_and_supplies-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Architecture & Interiors",
+    "page": "https://dir.indiamart.com/industry/architectural-designing.html",
+    "thumbnail": "https://dir.imimg.com/images/Architecture_Interiors.jpg",
+    "sub_category": [
+      {
+        "name": "Interior Designing & Decoration",
+        "page": "https://dir.indiamart.com/indianservices/s_decor.html",
+        "thumbnail": "https://4.imimg.com/data4/BX/VW/GLADMIN-2/319_interior_designing_and_decoration-125x125.jpg"
+      },
+      {
+        "name": "Building and Flooring Services",
+        "page": "https://dir.indiamart.com/indianservices/building-repairs.html",
+        "thumbnail": "https://4.imimg.com/data4/BF/UH/GLADMIN-2/services-125x125.jpg"
+      },
+      {
+        "name": "Doors and Windows",
+        "page": "https://dir.indiamart.com/indianexporters/doorframeworks.html",
+        "thumbnail": "https://4.imimg.com/data4/AJ/UO/GLADMIN-2/646_doors-_windows_and_frameworks-125x125.jpg"
+      },
+      {
+        "name": "Granite, Marble, Sandstone & Others",
+        "page": "https://dir.indiamart.com/indianexporters/marble.html",
+        "thumbnail": "https://3.imimg.com/data3/TW/LO/GLADMIN-2/178_granite-marble-sandstone-and-others-125x125.jpg"
+      },
+      {
+        "name": "Building & Real Estate Developers",
+        "page": "https://dir.indiamart.com/indianservices/builder.html",
+        "thumbnail": "https://4.imimg.com/data4/GT/VI/GLADMIN-2/civil-contractors-125x125.jpg"
+      },
+      {
+        "name": "Roofing and False ceiling",
+        "page": "https://dir.indiamart.com/indianexporters/roofing-ceiling.html",
+        "thumbnail": "https://5.imimg.com/data5/FV/FA/GS/GLADMIN-64442/649-roofing-sheets-tiles-fittings-skylights-false-ceiling-tiles-accessories-125x125.jpg"
+      },
+      {
+        "name": "Wash Basins, Sanitaryware & Fittings",
+        "page": "https://dir.indiamart.com/indianexporters/sanitary.html",
+        "thumbnail": "https://3.imimg.com/data3/YF/YK/GLADMIN-2/223_toilets-basins-and-sanitary-ware-125x125.jpg"
+      },
+      {
+        "name": "Building Panels & Cladding Materials",
+        "page": "https://dir.indiamart.com/indianexporters/miscel.html",
+        "thumbnail": "https://3.imimg.com/data3/QJ/PG/GLADMIN-2/191_building-and-construction-materials-125x125.jpg"
+      },
+      {
+        "name": "Elevators & Escalators",
+        "page": "https://dir.indiamart.com/indianexporters/lifting-equipments.html",
+        "thumbnail": "https://4.imimg.com/data4/AX/SX/GLADMIN-2/358_elevators_and_escalators-125x125.jpg"
+      },
+      {
+        "name": "Gate, Grilles, Fences & Railings",
+        "page": "https://dir.indiamart.com/indianexporters/gates-fencings.html",
+        "thumbnail": "https://4.imimg.com/data4/TX/YI/GLADMIN-2/647_gates-_grilles_and_fences-125x125.jpg"
+      },
+      {
+        "name": "Vitrified,Ceramic Floor & Wall Tiles",
+        "page": "https://dir.indiamart.com/indianexporters/tiles-ceramic.html",
+        "thumbnail": "https://4.imimg.com/data4/SK/BH/GLADMIN-2/640_ceramic_tiles_and_floorings-125x125.jpg"
+      },
+      {
+        "name": "Cement and Concrete",
+        "page": "https://dir.indiamart.com/indianexporters/cement.html",
+        "thumbnail": "https://3.imimg.com/data3/VT/DM/GLADMIN-2/53_cement-and-concrete-125x125.jpg"
+      },
+      {
+        "name": "Statues & Sculptures",
+        "page": "https://dir.indiamart.com/indianexporters/h_sculp.html",
+        "thumbnail": "https://3.imimg.com/data3/VR/CV/GLADMIN-2/120_statues-and-sculptures-125x125.jpg"
+      },
+      {
+        "name": "Scaffolding Pipes and Fittings",
+        "page": "https://dir.indiamart.com/indianexporters/scaffolding.html",
+        "thumbnail": "https://4.imimg.com/data4/AS/EA/GLADMIN-2/497_scaffolding_and_scaffolding_fittings-125x125.jpg"
+      },
+      {
+        "name": "Bathroom Accessories",
+        "page": "https://dir.indiamart.com/indianexporters/bath.html",
+        "thumbnail": "https://3.imimg.com/data3/QR/CL/GLADMIN-2/35_bathroom-fittings-and-accessories-125x125.jpg"
+      },
+      {
+        "name": "Bricks & Construction Aggregates",
+        "page": "https://dir.indiamart.com/indianexporters/masonrysupplies.html",
+        "thumbnail": "https://4.imimg.com/data4/SS/PX/GLADMIN-2/643_mortar-_brick_and_grouts-125x125.jpg"
+      },
+      {
+        "name": "Staircase, Balusters and Stair Parts",
+        "page": "https://dir.indiamart.com/indianexporters/stairs-newels.html",
+        "thumbnail": "https://4.imimg.com/data4/KD/YR/GLADMIN-2/645_stairs-_newels_and_balusters-125x125.jpg"
+      },
+      {
+        "name": "Drapes & Curtains",
+        "page": "https://dir.indiamart.com/indianexporters/curtains-drapes.html",
+        "thumbnail": "https://4.imimg.com/data4/WI/QB/GLADMIN-2/608_drapes_and_curtains-125x125.jpg"
+      },
+      {
+        "name": "Garden & Landscaping Products",
+        "page": "https://dir.indiamart.com/indianexporters/garden-decoratives.html",
+        "thumbnail": "https://5.imimg.com/data5/YA/VG/GLADMIN-2/garden-125x125.jpg"
+      },
+      {
+        "name": "Vinyl, Plastic & Rubber Floor Tiles",
+        "page": "https://dir.indiamart.com/indianexporters/vinfloor.html",
+        "thumbnail": "https://4.imimg.com/data4/QW/DW/GLADMIN-2/247_plastic-floorings-and-tiles-125x125.jpg"
+      },
+      {
+        "name": "Bamboo and Wooden Handicrafts",
+        "page": "https://dir.indiamart.com/indianexporters/h_sandal.html",
+        "thumbnail": "https://3.imimg.com/data3/AF/BE/GLADMIN-2/119_sandalwood-and-wooden-handicrafts-125x125.jpg"
+      },
+      {
+        "name": "Gazebos, Awnings, Canopies & Sheds",
+        "page": "https://dir.indiamart.com/indianexporters/tents-gazebos.html",
+        "thumbnail": "https://4.imimg.com/data4/JA/HI/GLADMIN-2/618_awnings-_canopies_and_sheds-125x125.jpg"
+      },
+      {
+        "name": "Brass, Copper & Metal Handicrafts",
+        "page": "https://dir.indiamart.com/indianexporters/h_brass.html",
+        "thumbnail": "https://4.imimg.com/data4/QB/RP/GLADMIN-2/115_brass-epns-metal-handicrafts-125x125.jpg"
+      },
+      {
+        "name": "Marble & Stone Artifacts",
+        "page": "https://dir.indiamart.com/indianexporters/stone-handicraft.html",
+        "thumbnail": "https://4.imimg.com/data4/IU/PY/GLADMIN-2/372_marble_and_stone_artifacts-125x125.jpg"
+      },
+      {
+        "name": "Door, Window Frame, Panel & Shutters",
+        "page": "https://dir.indiamart.com/indianexporters/door-frames-panels.html",
+        "thumbnail": "https://4.imimg.com/data4/VQ/IC/GLADMIN-2/door-frame-125x125.jpg"
+      },
+      {
+        "name": "Beams, Purlins, Frames and Girders",
+        "page": "https://dir.indiamart.com/indianexporters/beams-girders.html",
+        "thumbnail": "https://4.imimg.com/data4/CJ/IX/GLADMIN-2/644_beams-_girders_and_rebars-125x125.jpg"
+      },
+      {
+        "name": "Cobbles, Pebbles & Pavings",
+        "page": "https://dir.indiamart.com/indianexporters/cobbles-pebbles.html",
+        "thumbnail": "https://4.imimg.com/data4/KA/FP/GLADMIN-2/641_cobbles-_pebbles_and_pavings-125x125.jpg"
+      },
+      {
+        "name": "Hardwood Flooring & Wooden Floor Tiles",
+        "page": "https://dir.indiamart.com/indianexporters/tiles-wood.html",
+        "thumbnail": "https://4.imimg.com/data4/XF/XO/GLADMIN-2/639_wood_tiles-_floorings_and_laminates-125x125.jpg"
+      },
+      {
+        "name": "Stone Tiles & Floorings",
+        "page": "https://dir.indiamart.com/indianexporters/walpaper.html",
+        "thumbnail": "https://3.imimg.com/data3/JQ/XV/GLADMIN-2/250_stone-tiles-and-floorings-125x125.jpg"
+      },
+      {
+        "name": "Shower Panels & Accessories",
+        "page": "https://dir.indiamart.com/indianexporters/bath-shower.html",
+        "thumbnail": "https://4.imimg.com/data4/QB/GG/GLADMIN-2/637_showers_and_shower_accessories-125x125.jpg"
+      },
+      {
+        "name": "Door Skins, Panels & Profile",
+        "page": "https://dir.indiamart.com/indianexporters/door-hardware.html",
+        "thumbnail": "https://4.imimg.com/data4/NB/PC/GLADMIN-2/479_door_hardware_and_window_fittings-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "HR Planning & Recruitment",
+    "page": "https://dir.indiamart.com/industry/human-resource.html",
+    "thumbnail": "https://dir.imimg.com/images/HR_Planning_Recruitment.jpg",
+    "sub_category": [
+      {
+        "name": "HR & Manpower Recruitment Solutions",
+        "page": "https://dir.indiamart.com/indianservices/manpower-recruitment.html",
+        "thumbnail": "https://4.imimg.com/data4/OF/SA/GLADMIN-2/510_hr_and_manpower_recruitment_solutions-125x125.jpg"
+      },
+      {
+        "name": "Contract Employment & Staffing Firms",
+        "page": "https://dir.indiamart.com/indianservices/contract-jobs.html",
+        "thumbnail": "https://4.imimg.com/data4/PT/DJ/GLADMIN-2/268_contract_employment_and_staffing_firms-125x125.jpg"
+      },
+      {
+        "name": "HR Consulting & Advisory",
+        "page": "https://dir.indiamart.com/indianservices/hr-consultant.html",
+        "thumbnail": "https://4.imimg.com/data4/PD/EM/GLADMIN-2/285_hr_consulting_and_advisory-125x125.jpg"
+      },
+      {
+        "name": "HR & Payroll Outsourcing Services",
+        "page": "https://dir.indiamart.com/indianservices/hr-outsource.html",
+        "thumbnail": "https://4.imimg.com/data4/QD/VR/GLADMIN-2/672_hr_and_payroll_outsourcing_services-125x125.jpg"
+      },
+      {
+        "name": "Corporate and Soft Skills Training",
+        "page": "https://dir.indiamart.com/indianservices/management-training.html",
+        "thumbnail": "https://4.imimg.com/data4/GG/KP/GLADMIN-2/296_corporate_and_soft_skills_training-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Rail, Shipping & Aviation",
+    "page": "https://dir.indiamart.com/industry/transportation.html",
+    "thumbnail": "https://dir.imimg.com/images/Rail_Shipping_Aviation.jpg",
+    "sub_category": [
+      {
+        "name": "Marine Tools & Equipments",
+        "page": "https://dir.indiamart.com/indianexporters/m_marine.html",
+        "thumbnail": "https://4.imimg.com/data4/WS/YM/GLADMIN-2/162_marine-tools-and-equipments-125x125.jpg"
+      },
+      {
+        "name": "Railway, Railroad & Train Components",
+        "page": "https://dir.indiamart.com/indianexporters/e_raily.html",
+        "thumbnail": "https://4.imimg.com/data4/PL/QC/GLADMIN-2/86_railway-railroad-and-train-components-125x125.jpg"
+      },
+      {
+        "name": "Aeronautical Instrument & Components",
+        "page": "https://dir.indiamart.com/indianexporters/aireng.html",
+        "thumbnail": "https://4.imimg.com/data4/XF/XU/GLADMIN-2/aircraft-125x125.jpg"
+      },
+      {
+        "name": "Nails, Fasteners, Rivets & Shackles",
+        "page": "https://dir.indiamart.com/indianexporters/nutbolt.html",
+        "thumbnail": "https://3.imimg.com/data3/PY/CL/GLADMIN-2/95_nuts-bolts-and-screws-125x125.jpg"
+      },
+      {
+        "name": "Ball Bearings and Bearing Assemblies",
+        "page": "https://dir.indiamart.com/indianexporters/bearing.html",
+        "thumbnail": "https://4.imimg.com/data4/PK/TR/GLADMIN-2/37_bearings-and-bushings-125x125.jpg"
+      },
+      {
+        "name": "Storage Tanks, Drums & Containers",
+        "page": "https://dir.indiamart.com/indianexporters/i_contan.html",
+        "thumbnail": "https://3.imimg.com/data3/LR/YI/GLADMIN-2/128_industrial-and-shipping-containers-125x125.jpg"
+      },
+      {
+        "name": "Engineering and Shipping Ropes",
+        "page": "https://dir.indiamart.com/indianexporters/ropes.html",
+        "thumbnail": "https://3.imimg.com/data3/NN/SS/GLADMIN-2/218_engineering-shipping-and-other-ropes-125x125.jpg"
+      },
+      {
+        "name": "Brakes & Braking Systems",
+        "page": "https://dir.indiamart.com/indianexporters/brake-systems.html",
+        "thumbnail": "https://4.imimg.com/data4/NF/TI/GLADMIN-2/543_brakes_and_braking_systems-125x125.jpg"
+      },
+      {
+        "name": "Power Transmission Tools & Couplings",
+        "page": "https://dir.indiamart.com/indianexporters/transmission-tools.html",
+        "thumbnail": "https://4.imimg.com/data4/YJ/WN/GLADMIN-2/252_power-transmission-tools-and-couplings-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "House Keeping Services",
+    "page": "https://dir.indiamart.com/industry/facility-management.html",
+    "thumbnail": "https://hm.imimg.com/imhome_gifs/bigBn02.jpg",
+    "sub_category": [
+      {
+        "name": "Housekeeping and Cleaning Services",
+        "page": "https://dir.indiamart.com/indianservices/house-keeping.html",
+        "thumbnail": "https://4.imimg.com/data4/VD/SP/GLADMIN-2/377_housekeeping_and_cleaning_services-125x125.jpg"
+      },
+      {
+        "name": "Termite & Pest Control Services",
+        "page": "https://dir.indiamart.com/indianservices/pest-control.html",
+        "thumbnail": "https://4.imimg.com/data4/RN/NK/GLADMIN-2/679_termite_and_pest_control_services-125x125.jpg"
+      },
+      {
+        "name": "Residential & Commercial Security",
+        "page": "https://dir.indiamart.com/indianservices/secure.html",
+        "thumbnail": "https://4.imimg.com/data4/UK/DN/GLADMIN-2/345_residential_and_commercial_security-125x125.jpg"
+      },
+      {
+        "name": "Disinfection Equipment & Machines",
+        "page": "https://dir.indiamart.com/indianexporters/disinfection-equipment.html",
+        "thumbnail": "https://3.imimg.com/data3/DC/CB/GLADMIN-21351/agricultural-sprayers-125x125.jpg"
+      },
+      {
+        "name": "Packers & Movers",
+        "page": "https://dir.indiamart.com/indianservices/s_packrs.html",
+        "thumbnail": "https://4.imimg.com/data4/WO/FL/GLADMIN-2/334_packers_and_movers-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Leather Products",
+    "page": "https://dir.indiamart.com/industry/leather.html",
+    "thumbnail": "https://dir.imimg.com/images/Leather_Products.jpg",
+    "sub_category": [
+      {
+        "name": "Raw and Processed Leather",
+        "page": "https://dir.indiamart.com/indianexporters/finished-leather.html",
+        "thumbnail": "https://3.imimg.com/data3/DQ/BP/GLADMIN-2/144_raw-and-processed-leather-125x125.jpg"
+      },
+      {
+        "name": "Leather Goods & Accessories",
+        "page": "https://dir.indiamart.com/indianexporters/l_lgoods.html",
+        "thumbnail": "https://3.imimg.com/data3/CO/QJ/GLADMIN-2/142_leather-goods-and-accessories-125x125.jpg"
+      },
+      {
+        "name": "Men, Women & Kids Footwear",
+        "page": "https://dir.indiamart.com/indianexporters/l_shoes.html",
+        "thumbnail": "https://4.imimg.com/data4/UX/ON/GLADMIN-2/145_men-women-and-kids-footwear-125x125.jpg"
+      },
+      {
+        "name": "Animal Clothing & Accessories",
+        "page": "https://dir.indiamart.com/indianexporters/animal-clothing.html",
+        "thumbnail": "https://4.imimg.com/data4/VN/RD/GLADMIN-2/380_animal_clothes-_saddle_and_accessories-125x125.jpg"
+      },
+      {
+        "name": "Wallets & Purses",
+        "page": "https://dir.indiamart.com/indianexporters/wallets-purses.html",
+        "thumbnail": "https://4.imimg.com/data4/NA/IN/GLADMIN-2/617_wallets_and_purses-125x125.jpg"
+      },
+      {
+        "name": "Fashion & Leather Belts",
+        "page": "https://dir.indiamart.com/indianexporters/men-women-belt.html",
+        "thumbnail": "https://4.imimg.com/data4/FW/WQ/GLADMIN-2/612_fashion_and_leather_belts-125x125.jpg"
+      },
+      {
+        "name": "Leather Jackets and Garments",
+        "page": "https://dir.indiamart.com/indianexporters/l_garmnt.html",
+        "thumbnail": "https://3.imimg.com/data3/VC/XT/GLADMIN-2/141_leather-garments-and-clothings-125x125.jpg"
+      },
+      {
+        "name": "Briefcase, Portfolio & Laptop Bags",
+        "page": "https://dir.indiamart.com/indianexporters/portfolio-office-bags.html",
+        "thumbnail": "https://4.imimg.com/data4/RE/QM/GLADMIN-2/602-briefcase-portfolio-_-laptop-bags-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Contractors & Freelancers",
+    "page": "https://dir.indiamart.com/industry/small-businesses.html",
+    "thumbnail": "https://dir.imimg.com/images/Contractors_Freelancers.jpg",
+    "sub_category": [
+      {
+        "name": "Detective & Investigation Agencies",
+        "page": "https://dir.indiamart.com/indianservices/detective.html",
+        "thumbnail": "https://4.imimg.com/data4/IS/FP/GLADMIN-2/271-detective-_-investigation-agencies-125x125.jpg"
+      },
+      {
+        "name": "Language Translators & Interpreter",
+        "page": "https://dir.indiamart.com/indianservices/language.html",
+        "thumbnail": "https://4.imimg.com/data4/RS/EQ/GLADMIN-2/290_language-translators-and-interpreter-125x125.jpg"
+      },
+      {
+        "name": "Charity & Non Profit Organizations",
+        "page": "https://dir.indiamart.com/indianservices/social.html",
+        "thumbnail": "https://4.imimg.com/data4/DJ/JM/GLADMIN-2/346_charity_and_non_profit_organizations-125x125.jpg"
+      },
+      {
+        "name": "Painters & Painting Service Provider",
+        "page": "https://dir.indiamart.com/indianservices/painting.html",
+        "thumbnail": "https://4.imimg.com/data4/AV/TE/GLADMIN-2/303_painters_and_painting_service_provider-125x125.jpg"
+      },
+      {
+        "name": "Transport Agents & Bulk Carriers",
+        "page": "https://dir.indiamart.com/indianservices/s_trans.html",
+        "thumbnail": "https://4.imimg.com/data4/LV/VA/GLADMIN-2/342_transport_agents_and_bulk_carriers-125x125.jpg"
+      },
+      {
+        "name": "Photographers & Videographers",
+        "page": "https://dir.indiamart.com/indianservices/photo-services.html",
+        "thumbnail": "https://4.imimg.com/data4/JD/WB/GLADMIN-2/682_photographers_and_videographers-125x125.jpg"
+      },
+      {
+        "name": "Product Packing & Labelling Services",
+        "page": "https://dir.indiamart.com/indianservices/product-packaging.html",
+        "thumbnail": "https://4.imimg.com/data4/FW/KO/GLADMIN-2/726-product-packing-_-labelling-services-125x125.jpg"
+      },
+      {
+        "name": "Furniture Making & Carpentry Service",
+        "page": "https://dir.indiamart.com/indianservices/furniture-making-repair.html",
+        "thumbnail": "https://4.imimg.com/data4/PR/GF/GLADMIN-2/734_furniture_making_and_carpentry_service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Electronics Components",
+    "page": "https://dir.indiamart.com/industry/electronics-components-supplies.html",
+    "thumbnail": "https://dir.imimg.com/images/Electronics_Components.jpg",
+    "sub_category": [
+      {
+        "name": "Electric Circuit Components & Spares",
+        "page": "https://dir.indiamart.com/indianexporters/e_elnic.html",
+        "thumbnail": "https://3.imimg.com/data3/KV/YY/GLADMIN-2/76_electronic-parts-and-spares-125x125.jpg"
+      },
+      {
+        "name": "Sensors & Transducers",
+        "page": "https://dir.indiamart.com/indianexporters/sensors-transducers.html",
+        "thumbnail": "https://4.imimg.com/data4/MD/BP/GLADMIN-2/628_sensors_and_transducers-125x125.jpg"
+      },
+      {
+        "name": "VFD, PLC, HMI & Control Equipments",
+        "page": "https://dir.indiamart.com/indianexporters/e_instru.html",
+        "thumbnail": "https://4.imimg.com/data4/SO/HC/GLADMIN-2/ac-drives-recorder-125x125.jpg"
+      },
+      {
+        "name": "Resistors & Other Passive Devices",
+        "page": "https://dir.indiamart.com/indianexporters/passive-devices.html",
+        "thumbnail": "https://3.imimg.com/data3/BB/HH/GLADMIN-2/68_resistors-and-other-passive-devices-125x125.jpg"
+      },
+      {
+        "name": "Diodes & Electronic Active Devices",
+        "page": "https://dir.indiamart.com/indianexporters/active-devices.html",
+        "thumbnail": "https://4.imimg.com/data4/RP/UQ/GLADMIN-2/544_ic-_diodes_and_other_active_devices-125x125.jpg"
+      },
+      {
+        "name": "Process Control Systems & Equipments",
+        "page": "https://dir.indiamart.com/indianexporters/process-control-equipment.html",
+        "thumbnail": "https://4.imimg.com/data4/ET/VA/GLADMIN-2/384_process_control_systems_and_equipments-125x125.jpg"
+      },
+      {
+        "name": "Optical, Laser Instruments & Devices",
+        "page": "https://dir.indiamart.com/indianexporters/optical-optics.html",
+        "thumbnail": "https://4.imimg.com/data4/FG/DX/GLADMIN-2/522-optical-components-_-optics-125x125.jpg"
+      },
+      {
+        "name": "GPS and Navigation Devices",
+        "page": "https://dir.indiamart.com/indianexporters/gps-tracking-navigation.html",
+        "thumbnail": "https://4.imimg.com/data4/RY/YA/GLADMIN-2/739_gps_and_navigation_device-125x125.jpg"
+      },
+      {
+        "name": "PCB Modules and Circuit Boards",
+        "page": "https://dir.indiamart.com/indianexporters/pcb-modules-boards.html",
+        "thumbnail": "https://4.imimg.com/data4/CH/SJ/GLADMIN-2/pcb-125x125.jpg"
+      },
+      {
+        "name": "Voltage & Power Stabilizers",
+        "page": "https://dir.indiamart.com/indianexporters/stabilizers-regulators.html",
+        "thumbnail": "https://3.imimg.com/data3/BK/WB/GLADMIN-2/92_voltage-and-power-transformers-125x125.jpg"
+      },
+      {
+        "name": "Soldering Machines and Accesories",
+        "page": "https://dir.indiamart.com/indianexporters/soldering-brazing-machines.html",
+        "thumbnail": "https://4.imimg.com/data4/NL/AM/GLADMIN-2/cccc-125x125.jpg"
+      },
+      {
+        "name": "Electrical and Electronic Gadgets",
+        "page": "https://dir.indiamart.com/indianexporters/e_misc.html",
+        "thumbnail": "https://3.imimg.com/data3/EL/PM/GLADMIN-2/83_coils-and-electromagnetic-parts-125x125.jpg"
+      },
+      {
+        "name": "Electrical & Electronic Connectors",
+        "page": "https://dir.indiamart.com/indianexporters/antenna.html",
+        "thumbnail": "https://3.imimg.com/data3/EV/CY/GLADMIN-2/20_electrical-and-electronic-connectors-125x125.jpg"
+      },
+      {
+        "name": "Electric Fittings & Components",
+        "page": "https://dir.indiamart.com/indianexporters/e_tube.html",
+        "thumbnail": "https://3.imimg.com/data3/RJ/KU/GLADMIN-2/90_electric-fittings-and-components-125x125.jpg"
+      },
+      {
+        "name": "Relays and Contactors",
+        "page": "https://dir.indiamart.com/indianexporters/relays-contactors.html",
+        "thumbnail": "https://4.imimg.com/data4/TE/HM/GLADMIN-2/779-electronic-relays-and-contactors-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Electrical Equipment",
+    "page": "https://dir.indiamart.com/industry/electrical-equipment-supplies.html",
+    "thumbnail": "https://dir.imimg.com/images/Electrical_Equipment.jpg",
+    "sub_category": [
+      {
+        "name": "Industrial Air Conditioner & Devices",
+        "page": "https://dir.indiamart.com/indianexporters/ac-refrigeration-equipment.html",
+        "thumbnail": "https://5.imimg.com/data5/XU/PG/GLADMIN-2/industrial-ac-125x125.jpg"
+      },
+      {
+        "name": "Electrical & Electronic Test Devices",
+        "page": "https://dir.indiamart.com/indianexporters/electronic-test.html",
+        "thumbnail": "https://5.imimg.com/data5/MO/UA/GLADMIN-2/electrical-electronics-testing-measurin-125x125.jpg"
+      },
+      {
+        "name": "Batteries & Charge Storage Devices",
+        "page": "https://dir.indiamart.com/indianexporters/battery.html",
+        "thumbnail": "https://3.imimg.com/data3/VK/UJ/GLADMIN-2/36_battery-and-storage-devices-125x125.jpg"
+      },
+      {
+        "name": "Electric Motors and Components",
+        "page": "https://dir.indiamart.com/indianexporters/e_electl.html",
+        "thumbnail": "https://3.imimg.com/data3/QO/DJ/GLADMIN-2/74_electric-motors-and-components-125x125.jpg"
+      },
+      {
+        "name": "Switches & Switch Boxes",
+        "page": "https://dir.indiamart.com/indianexporters/e_switch.html",
+        "thumbnail": "https://3.imimg.com/data3/TR/DK/GLADMIN-2/88_switches-sockets-and-relays-125x125.jpg"
+      },
+      {
+        "name": "Solar & Renewable Energy Products",
+        "page": "https://dir.indiamart.com/indianexporters/energy-conservation-products.html",
+        "thumbnail": "https://4.imimg.com/data4/JI/IB/GLADMIN-2/571_energy_conservation_goods_and_products-125x125.jpg"
+      },
+      {
+        "name": "Fuses, Circuit Breakers & Components",
+        "page": "https://dir.indiamart.com/indianexporters/fuses-circuit-breaker.html",
+        "thumbnail": "https://4.imimg.com/data4/VS/UQ/GLADMIN-2/782-fuses-circuit-breakers-and-components-125x125.jpg"
+      },
+      {
+        "name": "Electrical Panels & Distribution Box",
+        "page": "https://dir.indiamart.com/indianexporters/control-panels.html",
+        "thumbnail": "https://4.imimg.com/data4/ML/NH/GLADMIN-2/591_electrical_control_panels_and_boards-125x125.jpg"
+      },
+      {
+        "name": "Generators, Turbines & Power Plants",
+        "page": "https://dir.indiamart.com/indianexporters/e_relay.html",
+        "thumbnail": "https://3.imimg.com/data3/LE/VS/GLADMIN-2/87_power-generators-and-alternators-125x125.jpg"
+      },
+      {
+        "name": "Electric Fittings & Components",
+        "page": "https://dir.indiamart.com/indianexporters/e_tube.html",
+        "thumbnail": "https://3.imimg.com/data3/RJ/KU/GLADMIN-2/90_electric-fittings-and-components-125x125.jpg"
+      },
+      {
+        "name": "Transformers & Transformer Parts",
+        "page": "https://dir.indiamart.com/indianexporters/e_voltg.html",
+        "thumbnail": "https://4.imimg.com/data4/TR/RE/GLADMIN-2/aaa-125x125.jpg"
+      },
+      {
+        "name": "Cables & Wiring Components",
+        "page": "https://dir.indiamart.com/indianexporters/cable-wiring.html",
+        "thumbnail": "https://4.imimg.com/data4/FY/UP/GLADMIN-2/789-cables-and-wiring-components-125x125.jpg"
+      },
+      {
+        "name": "Metal and Alloy Wires",
+        "page": "https://dir.indiamart.com/indianexporters/metal-alloy-wires.html",
+        "thumbnail": "https://4.imimg.com/data4/WR/LS/GLADMIN-2/763_metal_and_alloy_wires-125x125.jpg"
+      },
+      {
+        "name": "Electrical Cables & Wires",
+        "page": "https://dir.indiamart.com/indianexporters/e_cable.html",
+        "thumbnail": "https://3.imimg.com/data3/EA/YB/GLADMIN-2/70_electrical-cables-and-wires-125x125.jpg"
+      },
+      {
+        "name": "Relays and Contactors",
+        "page": "https://dir.indiamart.com/indianexporters/relays-contactors.html",
+        "thumbnail": "https://4.imimg.com/data4/TE/HM/GLADMIN-2/779-electronic-relays-and-contactors-125x125.jpg"
+      },
+      {
+        "name": "LED Display Board & Light Boxes",
+        "page": "https://dir.indiamart.com/indianexporters/r_dispy.html",
+        "thumbnail": "https://5.imimg.com/data5/HH/XO/GLADMIN-2/electronic-display-boards-125x125.jpg"
+      },
+      {
+        "name": "Electrical Conduits and Fittings",
+        "page": "https://dir.indiamart.com/indianexporters/electrical-conduits.html",
+        "thumbnail": "https://5.imimg.com/data5/DN/OE/GLADMIN-2/untitled100-125x125.png"
+      }
+    ]
+  },
+  {
+    "name": "Hospital,Clinic & Consultation",
+    "page": "https://dir.indiamart.com/industry/hospital-consultation.html",
+    "thumbnail": "https://dir.imimg.com/images/Hospital_Clinic_Consultation.jpg",
+    "sub_category": [
+      {
+        "name": "Medical Surgery & Treatment Centres",
+        "page": "https://dir.indiamart.com/indianservices/medical-treatments.html",
+        "thumbnail": "https://4.imimg.com/data4/BF/JW/GLADMIN-2/medical-surgery--125x125.jpg"
+      },
+      {
+        "name": "Medical Consultants & Clinics",
+        "page": "https://dir.indiamart.com/indianservices/s_medicl.html",
+        "thumbnail": "https://4.imimg.com/data4/NP/DF/GLADMIN-2/medical-practitioner-125x125.jpg"
+      },
+      {
+        "name": "Pharma & Bioanalytical Services",
+        "page": "https://dir.indiamart.com/indianservices/pharma-services.html",
+        "thumbnail": "https://4.imimg.com/data4/RO/NY/GLADMIN-2/660_pharma_and_bioanalytical_services-125x125.jpg"
+      },
+      {
+        "name": "Herbal & Ayurvedic Medical Services",
+        "page": "https://dir.indiamart.com/indianservices/buds.html",
+        "thumbnail": "https://3.imimg.com/data3/AB/JD/GLADMIN-2/259_herbal-and-ayurvedicmedical-services-125x125.jpg"
+      },
+      {
+        "name": "Diagnostic Imaging & Pathology Labs",
+        "page": "https://dir.indiamart.com/indianservices/pathological-lab.html",
+        "thumbnail": "https://4.imimg.com/data4/JN/JP/GLADMIN-2/678_diagnostic_imaging_and_pathology_labs-125x125.jpg"
+      }
+    ]
+  }
+]

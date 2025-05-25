@@ -1,0 +1,590 @@
+[
+  {
+    "category_name": "Paintings",
+    "category_thumbnail": "http://3.imimg.com/data3/QH/IX/GLADMIN-5692/paintings-125x125.jpg",
+    "items": [
+      {
+        "name": "Digital Wall Paintings",
+        "page": "https://dir.indiamart.com/impcat/digital-wall-paintings.html",
+        "thumbnail": "http://4.imimg.com/data4/KT/EM/GLADMIN-184321/digital-wall-paintings-125x125.jpg"
+      },
+      {
+        "name": "Wall Painting",
+        "page": "https://dir.indiamart.com/impcat/wall-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/FY/DV/GLADMIN-20051/wall-painting-125x125.jpg"
+      },
+      {
+        "name": "Pichwai Painting",
+        "page": "https://dir.indiamart.com/impcat/pichwai-painting.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/CC/GLADMIN-/pichwai-painting-125x125.jpg"
+      },
+      {
+        "name": "Tanjore Paintings",
+        "page": "https://dir.indiamart.com/impcat/tanjore-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/GV/BD/GLADMIN-2953/tanjore-paintings-125x125.jpg"
+      },
+      {
+        "name": "Canvas Painting",
+        "page": "https://dir.indiamart.com/impcat/canvas-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/UK/GO/GLADMIN-1428/canvas-painting-125x125.jpg"
+      },
+      {
+        "name": "Decorative Paintings",
+        "page": "https://dir.indiamart.com/impcat/decorative-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/UP/GLADMIN-12726/decorative-paintings-125x125.jpg"
+      },
+      {
+        "name": "God Painting",
+        "page": "https://dir.indiamart.com/impcat/god-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/WK/GLADMIN-16175/god-painting-125x125.jpg"
+      },
+      {
+        "name": "Horse Painting",
+        "page": "https://dir.indiamart.com/impcat/horse-painting.html",
+        "thumbnail": "http://5.imimg.com/data5/LT/QD/GLADMIN-2/paintings-125x125.jpg"
+      },
+      {
+        "name": "Portrait Painting",
+        "page": "https://dir.indiamart.com/impcat/portrait-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/PK/GLADMIN-35434/portrait-painting-125x125.jpg"
+      },
+      {
+        "name": "Religious Painting",
+        "page": "https://dir.indiamart.com/impcat/religious-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/DI/GLADMIN-18554/religious-painting-125x125.jpg"
+      },
+      {
+        "name": "Radha Krishna Paintings",
+        "page": "https://dir.indiamart.com/impcat/radha-krishna-paintings.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/radha-krishna-paintings-125x125.jpg"
+      },
+      {
+        "name": "Modern Art Paintings",
+        "page": "https://dir.indiamart.com/impcat/modern-art-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/RP/GLADMIN-5192/modern-art-paintings-125x125.jpg"
+      },
+      {
+        "name": "Handmade Painting",
+        "page": "https://dir.indiamart.com/impcat/handmade-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/JH/GLADMIN-83831/handmade-painting-125x125.jpg"
+      },
+      {
+        "name": "Scenery Paintings",
+        "page": "https://dir.indiamart.com/impcat/scenery-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/YG/GLADMIN-68098/scenery-paintings-125x125.jpg"
+      },
+      {
+        "name": "Madhubani Painting",
+        "page": "https://dir.indiamart.com/impcat/madhubani-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/DI/GLADMIN-17296/madhubani-painting-125x125.jpg"
+      },
+      {
+        "name": "Glass Paintings",
+        "page": "https://dir.indiamart.com/impcat/glass-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/NJ/GLADMIN-12083/glass-paintings-125x125.jpg"
+      },
+      {
+        "name": "Shreenathji Painting",
+        "page": "https://dir.indiamart.com/impcat/shreenathji-painting.html",
+        "thumbnail": "http://4.imimg.com/data4/GD/SY/GLADMIN-180997/shreenathji-painting-125x125.jpg"
+      },
+      {
+        "name": "Canvas Art",
+        "page": "https://dir.indiamart.com/impcat/canvas-art.html",
+        "thumbnail": "http://3.imimg.com/data3/KB/IO/GLADMIN-98762/canvas-art-125x125.jpg"
+      },
+      {
+        "name": "Balaji Tanjore Painting",
+        "page": "https://dir.indiamart.com/impcat/balaji-tanjore-painting.html",
+        "thumbnail": "http://5.imimg.com/data5/RB/IN/GLADMIN-2/balaji_2319-125x125.jpg"
+      },
+      {
+        "name": "Indian Paintings",
+        "page": "https://dir.indiamart.com/impcat/indian-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/RC/WI/GLADMIN-10946/indian-paintings-125x125.jpg"
+      },
+      {
+        "name": "Oil Paintings",
+        "page": "https://dir.indiamart.com/impcat/oil-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/HP/HV/GLADMIN-2001/oil-paintings-125x125.jpg"
+      },
+      {
+        "name": "Fabric Painting",
+        "page": "https://dir.indiamart.com/impcat/fabric-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/SD/YY/MY-2/fabric-painting-125x125.jpg"
+      },
+      {
+        "name": "Oil Canvas Painting",
+        "page": "https://dir.indiamart.com/impcat/oil-canvas-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/BN/EG/GLADMIN-111937/oil-canvas-painting-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Canvas Painting",
+        "page": "https://dir.indiamart.com/impcat/acrylic-canvas-painting.html",
+        "thumbnail": "http://4.imimg.com/data4/LS/WN/GLADMIN-180201/acrylic-canvas-painting-125x125.jpg"
+      },
+      {
+        "name": "Abstract Painting",
+        "page": "https://dir.indiamart.com/impcat/abstract-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/JC/LE/GLADMIN-15052/abstract-painting-125x125.jpg"
+      },
+      {
+        "name": "Warli Paintings",
+        "page": "https://dir.indiamart.com/impcat/warli-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/YX/NG/GLADMIN-40910/warli-paintings-125x125.jpg"
+      },
+      {
+        "name": "Embossed Paintings",
+        "page": "https://dir.indiamart.com/impcat/embossed-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/CS/GLADMIN-27711/embossed-paintings-125x125.jpg"
+      },
+      {
+        "name": "Hand Painting",
+        "page": "https://dir.indiamart.com/impcat/hand-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/MP/GLADMIN-11807/hand-painting-125x125.jpg"
+      },
+      {
+        "name": "Spiritual Buddha Paintings",
+        "page": "https://dir.indiamart.com/impcat/spiritual-buddha-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/NF/GLADMIN-137746/spiritual-buddha-paintings-125x125.jpg"
+      },
+      {
+        "name": "Mural Paintings",
+        "page": "https://dir.indiamart.com/impcat/mural-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/GR/GY/GLADMIN-13050/mural-paintings-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Paintings",
+        "page": "https://dir.indiamart.com/impcat/acrylic-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/RL/GLADMIN-13045/acrylic-paintings-125x125.jpg"
+      },
+      {
+        "name": "Traditional Paintings",
+        "page": "https://dir.indiamart.com/impcat/traditional-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/OW/GLADMIN-150911/traditional-paintings-125x125.jpg"
+      },
+      {
+        "name": "Krishna Painting",
+        "page": "https://dir.indiamart.com/impcat/krishna-painting.html",
+        "thumbnail": "http://4.imimg.com/data4/GJ/WD/GLADMIN-180996/krishna-painting-125x125.jpg"
+      },
+      {
+        "name": "Abstract Canvas Painting",
+        "page": "https://dir.indiamart.com/impcat/abstract-canvas-painting.html",
+        "thumbnail": "http://4.imimg.com/data4/PP/PP/GLADMIN-/abstract-canvas-painting-125x125.jpg"
+      },
+      {
+        "name": "Ganesha Paintings",
+        "page": "https://dir.indiamart.com/impcat/ganesha-paintings.html",
+        "thumbnail": "http://5.imimg.com/data5/FF/FF/GLADMIN-/ganesha-paintings-125x125.jpg"
+      },
+      {
+        "name": "Paper Painting",
+        "page": "https://dir.indiamart.com/impcat/paper-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/YI/EX/GLADMIN-16638/paper-painting-125x125.jpg"
+      },
+      {
+        "name": "Kids Room Paintings",
+        "page": "https://dir.indiamart.com/impcat/kids-room-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/MI/XB/GLADMIN-167364/kids-room-paintings-125x125.jpg"
+      },
+      {
+        "name": "Miniature Paintings",
+        "page": "https://dir.indiamart.com/impcat/miniature-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/QR/GLADMIN-1430/miniature-paintings-125x125.jpg"
+      },
+      {
+        "name": "Calligraphy Painting",
+        "page": "https://dir.indiamart.com/impcat/calligraphy-painting.html",
+        "thumbnail": "http://4.imimg.com/data4/FF/FF/GLADMIN-/calligraphy-painting-125x125.jpg"
+      },
+      {
+        "name": "Watercolor Painting",
+        "page": "https://dir.indiamart.com/impcat/water-color-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/VO/BR/GLADMIN-20075/water-color-painting-125x125.jpg"
+      },
+      {
+        "name": "Wooden Painting",
+        "page": "https://dir.indiamart.com/impcat/wooden-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/EV/EK/GLADMIN-20225/wooden-painting-125x125.jpg"
+      },
+      {
+        "name": "Krishna Tanjore Painting",
+        "page": "https://dir.indiamart.com/impcat/krishna-tanjore-painting.html",
+        "thumbnail": "http://5.imimg.com/data5/NB/TW/GLADMIN-2/krishna-tanjore-painting-125x125.jpg"
+      },
+      {
+        "name": "Animal Painting",
+        "page": "https://dir.indiamart.com/impcat/animal-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/LB/MG/MY-2/animal-painting-125x125.jpg"
+      },
+      {
+        "name": "Nature Painting",
+        "page": "https://dir.indiamart.com/impcat/nature-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/RP/WX/MY-2/nature-painting-125x125.jpg"
+      },
+      {
+        "name": "Art Canvas",
+        "page": "https://dir.indiamart.com/impcat/art-canvas.html",
+        "thumbnail": "http://3.imimg.com/data3/MR/AK/GLADMIN-50702/art-canvas-125x125.jpg"
+      },
+      {
+        "name": "Cloth Paintings",
+        "page": "https://dir.indiamart.com/impcat/cloth-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/SW/GLADMIN-13046/cloth-paintings-125x125.jpg"
+      },
+      {
+        "name": "Silk Paintings",
+        "page": "https://dir.indiamart.com/impcat/silk-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/CD/JY/GLADMIN-1431/silk-paintings-125x125.jpg"
+      },
+      {
+        "name": "Bird Painting",
+        "page": "https://dir.indiamart.com/impcat/bird-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/TE/KB/GLADMIN-14597/bird-painting-125x125.jpg"
+      },
+      {
+        "name": "Still Life Painting",
+        "page": "https://dir.indiamart.com/impcat/still-life-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/EI/SI/GLADMIN-18811/still-life-painting-125x125.jpg"
+      },
+      {
+        "name": "Flower Painting",
+        "page": "https://dir.indiamart.com/impcat/flower-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/PR/GLADMIN-28631/flower-painting-125x125.jpg"
+      },
+      {
+        "name": "Marble Paintings",
+        "page": "https://dir.indiamart.com/impcat/marble-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/CF/BC/GLADMIN-2000/marble-paintings-125x125.jpg"
+      },
+      {
+        "name": "Texture Painting",
+        "page": "https://dir.indiamart.com/impcat/texture-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/DD/GLADMIN-135788/texture-painting-125x125.jpg"
+      },
+      {
+        "name": "Goddess Painting",
+        "page": "https://dir.indiamart.com/impcat/goddess-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/VW/GLADMIN-16177/goddess-painting-125x125.jpg"
+      },
+      {
+        "name": "Rajasthani Painting",
+        "page": "https://dir.indiamart.com/impcat/rajasthani-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/XY/GLADMIN-18476/rajasthani-painting-125x125.jpg"
+      },
+      {
+        "name": "Village Painting",
+        "page": "https://dir.indiamart.com/impcat/village-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/YA/VV/GLADMIN-19988/village-painting-125x125.jpg"
+      },
+      {
+        "name": "Mughal Painting",
+        "page": "https://dir.indiamart.com/impcat/mughal-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/OW/OS/GLADMIN-17704/mughal-painting-125x125.jpg"
+      },
+      {
+        "name": "Nature Art Painting Service",
+        "page": "https://dir.indiamart.com/impcat/nature-art-painting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/HC/GLADMIN-174778/nature-art-painting-service-125x125.jpg"
+      },
+      {
+        "name": "Stone Painting",
+        "page": "https://dir.indiamart.com/impcat/stone-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/HD/GLADMIN-18760/stone-painting-125x125.jpg"
+      },
+      {
+        "name": "Gemstone Paintings",
+        "page": "https://dir.indiamart.com/impcat/gemstone-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/AU/GLADMIN-1429/gemstone-paintings-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Mural",
+        "page": "https://dir.indiamart.com/impcat/ceramic-mural.html",
+        "thumbnail": "http://3.imimg.com/data3/JW/UC/GLADMIN-84098/ceramic-mural-125x125.jpg"
+      },
+      {
+        "name": "Contemporary Painting",
+        "page": "https://dir.indiamart.com/impcat/contemporary-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/QM/GLADMIN-131679/contemporary-painting-125x125.jpg"
+      },
+      {
+        "name": "Charcoal Painting",
+        "page": "https://dir.indiamart.com/impcat/charcoal-painting.html",
+        "thumbnail": "http://4.imimg.com/data4/JD/RY/GLADMIN-183889/charcoal-painting-125x125.jpg"
+      },
+      {
+        "name": "Fine Art Painting",
+        "page": "https://dir.indiamart.com/impcat/fine-art-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/DR/GLADMIN-177518/fine-art-painting-125x125.jpg"
+      },
+      {
+        "name": "Pastel Paintings",
+        "page": "https://dir.indiamart.com/impcat/pastel-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/SJ/GLADMIN-5778/pastel-paintings-125x125.jpg"
+      },
+      {
+        "name": "Antique Painting",
+        "page": "https://dir.indiamart.com/impcat/antique-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/BT/KK/MY-2/antique-painting-125x125.jpg"
+      },
+      {
+        "name": "Tribal Painting",
+        "page": "https://dir.indiamart.com/impcat/tribal-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/QN/XM/GLADMIN-19761/tribal-painting-125x125.jpg"
+      },
+      {
+        "name": "Fish Painting",
+        "page": "https://dir.indiamart.com/impcat/fish-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/KJ/GLADMIN-28287/fish-painting-125x125.jpg"
+      },
+      {
+        "name": "Velvet Painting",
+        "page": "https://dir.indiamart.com/impcat/velvet-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/HN/AH/GLADMIN-19928/velvet-painting-125x125.jpg"
+      },
+      {
+        "name": "Gond Paintings",
+        "page": "https://dir.indiamart.com/impcat/gond-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/AR/GLADMIN-150912/gond-paintings-125x125.jpg"
+      },
+      {
+        "name": "Special Effect Painting",
+        "page": "https://dir.indiamart.com/impcat/special-effect-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/WO/GLADMIN-135762/special-effect-painting-125x125.jpg"
+      },
+      {
+        "name": "Landscape Painting",
+        "page": "https://dir.indiamart.com/impcat/landscape-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/BG/DX/GLADMIN-16938/landscape-painting-125x125.jpg"
+      },
+      {
+        "name": "POP Art Painting",
+        "page": "https://dir.indiamart.com/impcat/pop-art-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/KX/GLADMIN-111940/pop-art-painting-125x125.jpg"
+      },
+      {
+        "name": "Stained Glass Paintings",
+        "page": "https://dir.indiamart.com/impcat/stained-glass-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/FX/TJ/GLADMIN-2002/stained-glass-paintings-125x125.jpg"
+      },
+      {
+        "name": "Floral Painting",
+        "page": "https://dir.indiamart.com/impcat/floral-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/CE/GLADMIN-3516/floral-painting-125x125.jpg"
+      },
+      {
+        "name": "Antique Oil Painting",
+        "page": "https://dir.indiamart.com/impcat/antique-oil-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/BF/AG/GLADMIN-83827/antique-oil-painting-125x125.jpg"
+      },
+      {
+        "name": "Figurative Painting",
+        "page": "https://dir.indiamart.com/impcat/figurative-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/GV/EG/GLADMIN-14106/figurative-painting-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Painting",
+        "page": "https://dir.indiamart.com/impcat/ceramic-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/MA/EA/GLADMIN-83828/ceramic-painting-125x125.jpg"
+      },
+      {
+        "name": "Impression Landscape Oil Painting",
+        "page": "https://dir.indiamart.com/impcat/impression-landscape-oil-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/TX/GLADMIN-107584/impression-landscape-oil-painting-125x125.jpg"
+      },
+      {
+        "name": "Folk Painting",
+        "page": "https://dir.indiamart.com/impcat/folk-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/MD/GLADMIN-6522/folk-painting-125x125.jpg"
+      },
+      {
+        "name": "Traditional Oil Painting",
+        "page": "https://dir.indiamart.com/impcat/traditional-oil-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/AM/HS/GLADMIN-83839/traditional-oil-painting-125x125.jpg"
+      },
+      {
+        "name": "Seascape Painting",
+        "page": "https://dir.indiamart.com/impcat/seascape-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/JW/GLADMIN-83837/seascape-painting-125x125.jpg"
+      },
+      {
+        "name": "Ink Painting",
+        "page": "https://dir.indiamart.com/impcat/ink-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/SG/HS/GLADMIN-15710/ink-painting-125x125.jpg"
+      },
+      {
+        "name": "Phad Painting",
+        "page": "https://dir.indiamart.com/impcat/phad-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/TK/GLADMIN-16767/phad-painting-125x125.jpg"
+      },
+      {
+        "name": "Canvas Picture",
+        "page": "https://dir.indiamart.com/impcat/canvas-picture.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/GP/GLADMIN-23309/canvas-picture-125x125.jpg"
+      },
+      {
+        "name": "Epic Paintings",
+        "page": "https://dir.indiamart.com/impcat/epic-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/VY/BM/GLADMIN-13047/epic-paintings-125x125.jpg"
+      },
+      {
+        "name": "Batik Painting",
+        "page": "https://dir.indiamart.com/impcat/batik-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/QW/PG/MY-2/batik-painting-125x125.jpg"
+      },
+      {
+        "name": "African Painting",
+        "page": "https://dir.indiamart.com/impcat/african-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/NA/MY-2/african-painting-125x125.jpg"
+      },
+      {
+        "name": "Chinese Painting",
+        "page": "https://dir.indiamart.com/impcat/chinese-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/BC/GLADMIN-13735/chinese-painting-125x125.jpg"
+      },
+      {
+        "name": "Jharokha Paintings",
+        "page": "https://dir.indiamart.com/impcat/jharokha-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/MH/WB/GLADMIN-167188/jharokha-paintings-125x125.jpg"
+      },
+      {
+        "name": "Gouache Painting",
+        "page": "https://dir.indiamart.com/impcat/gouache-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/LV/MJ/MY-2/gouache-painting-125x125.jpg"
+      },
+      {
+        "name": "Reproduction Oil Painting",
+        "page": "https://dir.indiamart.com/impcat/reproduction-oil-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/ES/TY/GLADMIN-83836/reproduction-oil-painting-125x125.jpg"
+      },
+      {
+        "name": "Lenticular Painting",
+        "page": "https://dir.indiamart.com/impcat/lenticular-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/DW/GLADMIN-108056/lenticular-painting-125x125.jpg"
+      },
+      {
+        "name": "European Paintings",
+        "page": "https://dir.indiamart.com/impcat/european-paintings.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/BE/GLADMIN-13049/european-paintings-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Mural Paintings",
+    "category_thumbnail": "http://3.imimg.com/data3/GR/GY/GLADMIN-13050/mural-paintings-125x125.jpg",
+    "items": [
+      {
+        "name": "Wall Murals",
+        "page": "https://dir.indiamart.com/impcat/wall-murals.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/TE/GLADMIN-83840/wall-murals-125x125.jpg"
+      },
+      {
+        "name": "Fiber Murals",
+        "page": "https://dir.indiamart.com/impcat/fiber-murals.html",
+        "thumbnail": "http://3.imimg.com/data3/CW/CW/GLADMIN-153944/fiber-murals-125x125.jpg"
+      },
+      {
+        "name": "Buddha Mural",
+        "page": "https://dir.indiamart.com/impcat/buddha-mural.html",
+        "thumbnail": "http://4.imimg.com/data4/QW/GJ/GLADMIN-2/buddha-mural-125x125.jpg"
+      },
+      {
+        "name": "Stone mural",
+        "page": "https://dir.indiamart.com/impcat/stone-mural.html",
+        "thumbnail": "http://4.imimg.com/data4/HS/HR/GLADMIN-88472/stone-mural-125x125.jpg"
+      },
+      {
+        "name": "Decorative Mural",
+        "page": "https://dir.indiamart.com/impcat/decorative-mural.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/JV/GLADMIN-88392/decorative-mural-125x125.jpg"
+      },
+      {
+        "name": "Sandstone Mural",
+        "page": "https://dir.indiamart.com/impcat/sand-stone-mural.html",
+        "thumbnail": "http://3.imimg.com/data3/YV/BM/GLADMIN-88461/sand-stone-mural-125x125.jpg"
+      },
+      {
+        "name": "Tile Murals",
+        "page": "https://dir.indiamart.com/impcat/tile-murals.html",
+        "thumbnail": "http://3.imimg.com/data3/HM/FT/GLADMIN-/images-tuscanywindow-125x125.jpg"
+      },
+      {
+        "name": "Mosaic Wall Mural",
+        "page": "https://dir.indiamart.com/impcat/mosaic-wall-mural.html",
+        "thumbnail": "http://3.imimg.com/data3/GF/WC/GLADMIN-64993/mosaic-wall-mural-125x125.jpg"
+      },
+      {
+        "name": "Clay Murals",
+        "page": "https://dir.indiamart.com/impcat/clay-murals.html",
+        "thumbnail": "http://5.imimg.com/data5/HY/HD/GLADMIN-2/clay-murals-125x125.jpg"
+      },
+      {
+        "name": "Glass Wall Mural",
+        "page": "https://dir.indiamart.com/impcat/glass-wall-mural.html",
+        "thumbnail": "http://3.imimg.com/data3/NE/JT/GLADMIN-153948/glass-wall-mural-125x125.jpg"
+      },
+      {
+        "name": "Siporex Mural",
+        "page": "https://dir.indiamart.com/impcat/siporex-mural.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/MM/GLADMIN-/siporex-mural-125x125.jpg"
+      },
+      {
+        "name": "Wood Mural Art",
+        "page": "https://dir.indiamart.com/impcat/wood-mural-art.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/CQ/GLADMIN-127393/wood-mural-art-125x125.jpg"
+      },
+      {
+        "name": "Slate Stone Mural",
+        "page": "https://dir.indiamart.com/impcat/slate-stone-mural.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/LX/GLADMIN-88466/slate-stone-mural-125x125.jpg"
+      },
+      {
+        "name": "Metal Mural",
+        "page": "https://dir.indiamart.com/impcat/metal-mural.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/TI/GLADMIN-153950/metal-mural-125x125.jpg"
+      },
+      {
+        "name": "Ceiling Murals",
+        "page": "https://dir.indiamart.com/impcat/ceiling-murals.html",
+        "thumbnail": "http://3.imimg.com/data3/HL/WY/GLADMIN-24729/ceiling-murals-125x125.jpg"
+      },
+      {
+        "name": "Granite Mural",
+        "page": "https://dir.indiamart.com/impcat/granite-mural.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/XD/GLADMIN-88417/granite-mural-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Sketches",
+    "category_thumbnail": "http://3.imimg.com/data3/XG/UY/GLADMIN-111142/sketches-125x125.jpg",
+    "items": [
+      {
+        "name": "Pencil Sketch",
+        "page": "https://dir.indiamart.com/impcat/pencil-sketch.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/JP/GLADMIN-83834/pencil-sketch-125x125.jpg"
+      },
+      {
+        "name": "Portrait Sketching",
+        "page": "https://dir.indiamart.com/impcat/portrait-sketching.html",
+        "thumbnail": "http://3.imimg.com/data3/PR/ES/GLADMIN-111141/portrait-sketching-125x125.jpg"
+      },
+      {
+        "name": "Art Sketch",
+        "page": "https://dir.indiamart.com/impcat/art-sketch.html",
+        "thumbnail": "http://3.imimg.com/data3/HP/BE/GLADMIN-98761/art-sketch-125x125.jpg"
+      },
+      {
+        "name": "Colour Pencil Sketches",
+        "page": "https://dir.indiamart.com/impcat/colour-pencil-sketches.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/colour-pencil-sketches-125x125.jpg"
+      },
+      {
+        "name": "Charcoal Pencil Drawings",
+        "page": "https://dir.indiamart.com/impcat/charcoal-pencil-drawings.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/KV/GLADMIN-138507/charcoal-pencil-drawings-125x125.jpg"
+      }
+    ]
+  }
+]

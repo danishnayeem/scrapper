@@ -1,0 +1,615 @@
+[
+  {
+    "category_name": "Veterinary Medicines",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/FF/FG/IM/43668/veterinary-medicines-125x125.jpg",
+    "items": [
+      {
+        "name": "Veterinary Pharmaceuticals",
+        "page": "https://dir.indiamart.com/impcat/veterinary-pharmaceuticals.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/PG/GLADMIN-86291/veterinary-pharmaceuticals-125x125.jpg"
+      },
+      {
+        "name": "Poultry Medicines",
+        "page": "https://dir.indiamart.com/impcat/poultry-medicines.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/LW/GLADMIN-7242/poultry-medicines-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Bolus",
+        "page": "https://dir.indiamart.com/impcat/veterinary-bolus.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/WH/EC/CE/43668/veterinary-bolus-125x125.jpg"
+      },
+      {
+        "name": "Dog Medicines",
+        "page": "https://dir.indiamart.com/impcat/dog-medicines.html",
+        "thumbnail": "http://4.imimg.com/data4/IB/FL/GLADMIN-182770/dog-medicines-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Vaccines",
+        "page": "https://dir.indiamart.com/impcat/veterinary-vaccines.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DO/DA/VL/43668/veterinary-vaccines-125x125.jpg"
+      },
+      {
+        "name": "Homeopathic Veterinary Medicines",
+        "page": "https://dir.indiamart.com/impcat/homeopathic-veterinary-medicines.html",
+        "thumbnail": "http://3.imimg.com/data3/ON/DE/MY-2/homeopathic-veterinary-medicines-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Test Kit",
+        "page": "https://dir.indiamart.com/impcat/veterinary-pregnancy-test-kit.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/442930184/RB/LX/XI/103671/anigen-rapid-rabies-ag-test-kit-125x125.webp"
+      },
+      {
+        "name": "Veterinary Skin Care Ointment",
+        "page": "https://dir.indiamart.com/impcat/veterinary-skin-care-ointment.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/KC/GLADMIN-146942/veterinary-skin-care-ointment-125x125.jpg"
+      },
+      {
+        "name": "Fish Breeding Medicine",
+        "page": "https://dir.indiamart.com/impcat/fish-breeding-medicine.html",
+        "thumbnail": "http://3.imimg.com/data3/YS/WM/GLADMIN-152894/fish-breeding-medicine-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Drugs",
+        "page": "https://dir.indiamart.com/impcat/veterinary-drugs.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/YI/NC/FI/43668/veterinary-drugs-125x125.jpg"
+      },
+      {
+        "name": "Phenylbutazone Tablets",
+        "page": "https://dir.indiamart.com/impcat/phenylbutazone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/444206064/UK/KI/QX/103671/phenylbutazone-100mg-tablets-ip-125x125.jpg"
+      },
+      {
+        "name": "Amitraz Solution",
+        "page": "https://dir.indiamart.com/impcat/amitraz.html",
+        "thumbnail": "http://3.imimg.com/data3/EE/DM/GLADMIN-159900/amitraz-125x125.jpg"
+      },
+      {
+        "name": "Vimeral Syrup",
+        "page": "https://dir.indiamart.com/impcat/vimeral.html",
+        "thumbnail": "http://5.imimg.com/data5/HD/LJ/RR/GLADMIN-68155/vimeral-125x125.png"
+      },
+      {
+        "name": "Teat Dip Solution",
+        "page": "https://dir.indiamart.com/impcat/teat-dip.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/UO/PC/TT/81953/teat-dip-125x125.jpg"
+      },
+      {
+        "name": "Mastitis Test Kit",
+        "page": "https://dir.indiamart.com/impcat/mastitis-test-kit.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/AM/FX/AL/81953/mastitis-test-kit-125x125.jpg"
+      },
+      {
+        "name": "Closantel Oral Suspension",
+        "page": "https://dir.indiamart.com/impcat/closantel-syrup.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/446712196/CB/MZ/NC/97953/clo-125x125.jpeg"
+      },
+      {
+        "name": "Enrofloxacin Oral Solution",
+        "page": "https://dir.indiamart.com/impcat/enrofloxacin-oral-solution.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/10/353443717/AY/YS/RQ/103671/enrofloxacin-oral-solution-125x125.webp"
+      },
+      {
+        "name": "Fenbendazole And Ivermectin Bolus",
+        "page": "https://dir.indiamart.com/impcat/fenbendazole-ivermectin-bolus.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/377937349/TD/PE/PN/103671/fenbendazole-ivermectin-bolus-125x125.jpg"
+      },
+      {
+        "name": "Neomec Tablet",
+        "page": "https://dir.indiamart.com/impcat/neomec-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/10/357115956/SU/JO/WI/103671/neomec-tablet-125x125.jpg"
+      },
+      {
+        "name": "Oxyclozanide",
+        "page": "https://dir.indiamart.com/impcat/oxyclozanide.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/DN/GLADMIN-41605/oxyclozanide-125x125.jpg"
+      },
+      {
+        "name": "Anthelmintics Drugs",
+        "page": "https://dir.indiamart.com/impcat/anthelmintics.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/AJ/GLADMIN-146770/anthelmintics-125x125.jpg"
+      },
+      {
+        "name": "Yohimbine Hydrochloride",
+        "page": "https://dir.indiamart.com/impcat/yohimbine-hydrochloride.html",
+        "thumbnail": "http://4.imimg.com/data4/OF/TQ/GLADMIN-179805/yohimbine-hydrochloride-125x125.jpg"
+      },
+      {
+        "name": "Animal Digestive Powder",
+        "page": "https://dir.indiamart.com/impcat/animal-digestive-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/MX/XM/LP/GLADMIN-68155/animal-digestive-powder-125x125.png"
+      },
+      {
+        "name": "Clobetasol Propionate Ofloxacin Miconazole Nitrate and Zinc Sulphate Lotion",
+        "page": "https://dir.indiamart.com/impcat/clobetasol-propionate-ofloxacin-miconazole-nitrate-and-zinc-sulphate-lotion.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381905044/AX/WQ/LQ/103671/clobetasol-propionate-ofloxacin-miconazole-nitrate-and-zinc-sulphate-lotion-125x125.webp"
+      },
+      {
+        "name": "Carprofen Drugs",
+        "page": "https://dir.indiamart.com/impcat/carprofen-drugs.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/DE/GLADMIN-137402/carprofen-drugs-125x125.jpg"
+      },
+      {
+        "name": "Tylosin Tartrate Powder",
+        "page": "https://dir.indiamart.com/impcat/tylosin-tartrate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437325595/VO/GY/RB/103671/tylosin-tartrate-125x125.jpg"
+      },
+      {
+        "name": "Piperazine Adipate Oral Powder",
+        "page": "https://dir.indiamart.com/impcat/piperazine-adipate-oral-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/XK/GLADMIN-135688/piperazine-adipate-oral-powder-125x125.jpg"
+      },
+      {
+        "name": "Animal Nutraceuticals Supplements",
+        "page": "https://dir.indiamart.com/impcat/animal-nutraceuticals.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/10/460148119/WV/WV/BI/113452/animal-nutraceuticals-supplements-500x500-125x125.webp"
+      },
+      {
+        "name": "Sarolaner Tablet",
+        "page": "https://dir.indiamart.com/impcat/sarolaner-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/378686347/AP/KS/AC/103671/sarolaner-tablet-125x125.webp"
+      },
+      {
+        "name": "Meloxicam Chewable Tablets",
+        "page": "https://dir.indiamart.com/impcat/meloxicam-chewable-tablets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/9/452029853/XJ/LV/XK/103671/1108-4-125x125.jpg"
+      },
+      {
+        "name": "Meloxicam Oral Suspension",
+        "page": "https://dir.indiamart.com/impcat/meloxicam-oral-suspension.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371767540/WG/YN/ZF/30311/meloxicam-oral-suspension-125x125.jpg"
+      },
+      {
+        "name": "Praziquantel Pyrantel Febantel Tablets",
+        "page": "https://dir.indiamart.com/impcat/praziquantel-pyrantel-febantel-veterinary-drug.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371645118/LD/UR/IK/103671/praziquantel-pyrantel-febantel-veterinary-drug-125x125.jpg"
+      },
+      {
+        "name": "Flumethrin 1 Pour On Solution",
+        "page": "https://dir.indiamart.com/impcat/flumethrin-1-pour-on-solution.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/9/343404788/TG/BW/TF/103671/flumethrin-1-pour-on-solution-125x125.jpeg"
+      },
+      {
+        "name": "Fish Medicine",
+        "page": "https://dir.indiamart.com/impcat/fish-medicine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/418467016/DR/ZC/TR/96317/fish-medicine-125x125.jpg"
+      },
+      {
+        "name": "Tylosin Phosphate Powder",
+        "page": "https://dir.indiamart.com/impcat/tylosin-phosphate.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/UY/GLADMIN-167053/tylosin-phosphate-125x125.jpg"
+      },
+      {
+        "name": "Cyclosporine Ophthalmic Ointment",
+        "page": "https://dir.indiamart.com/impcat/cyclosporine-ophthalmic-ointment.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/393905691/CE/FR/BC/103671/cyclosporine-ophthalmic-ointment-125x125.jpg"
+      },
+      {
+        "name": "Rock sulphur",
+        "page": "https://dir.indiamart.com/impcat/rock-sulphur.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/EE/GLADMIN-160033/rock-sulphur-125x125.jpg"
+      },
+      {
+        "name": "Anti Rabies Serum",
+        "page": "https://dir.indiamart.com/impcat/rabies-serum-equine.html",
+        "thumbnail": "http://4.imimg.com/data4/WQ/AG/GLADMIN-114038/anti-rabies-serum-125x125.jpg"
+      },
+      {
+        "name": "Pyrantel Pamoate And Febantel Oral Suspension",
+        "page": "https://dir.indiamart.com/impcat/pyrantel-pamoate-and-febantel-oral-suspension.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/377675604/RG/ZR/BX/103671/pyrantel-pamoate-and-febantel-oral-suspension-125x125.jpg"
+      },
+      {
+        "name": "Ivermectin Veterinary Bolus",
+        "page": "https://dir.indiamart.com/impcat/ivermectin-veterinary-bolus.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381248778/ZT/JI/BW/30311/ivermectin-veterinary-bolus-125x125.jpg"
+      },
+      {
+        "name": "Butaphosphan Raw Chemical",
+        "page": "https://dir.indiamart.com/impcat/butaphosphan-raw-chemical.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/QV/DC/US/85365/butaphosphan-raw-chemical-125x125.jpg"
+      },
+      {
+        "name": "Meloxicam and Paracetamol Bolus",
+        "page": "https://dir.indiamart.com/impcat/meloxicam-veterinary-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371636426/YK/VU/QH/30311/meloxicam-veterinary-tablet-125x125.jpg"
+      },
+      {
+        "name": "Proviboost Syrup",
+        "page": "https://dir.indiamart.com/impcat/proviboost-syrup.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/376649173/YO/HG/KW/103671/proviboost-syrup-125x125.jpg"
+      },
+      {
+        "name": "Flea Treatments",
+        "page": "https://dir.indiamart.com/impcat/flea-treatments.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/WD/GLADMIN-28543/flea-treatments-125x125.jpg"
+      },
+      {
+        "name": "Fipronil Spray",
+        "page": "https://dir.indiamart.com/impcat/fipronil-spray.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/400024256/DD/TP/KD/103671/fipronil-spray-125x125.jpg"
+      },
+      {
+        "name": "Boldenone Cypionate Powder",
+        "page": "https://dir.indiamart.com/impcat/boldenone-cypionate-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/UD/GS/WB/85365/boldenone-cypionate-powder-125x125.jpg"
+      },
+      {
+        "name": "Rafoxanide Powder",
+        "page": "https://dir.indiamart.com/impcat/rafoxanide-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437268887/VZ/RP/RR/103671/rafoxanide-powder-125x125.webp"
+      },
+      {
+        "name": "Ethopabate Powder",
+        "page": "https://dir.indiamart.com/impcat/ethopabate.html",
+        "thumbnail": "http://4.imimg.com/data4/GW/SC/GLADMIN-179867/ethopabate-125x125.jpg"
+      },
+      {
+        "name": "Oxyclozanide Solution",
+        "page": "https://dir.indiamart.com/impcat/oxyclozanide-solution.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/11/468571820/QH/QC/UE/113452/1000ml-oxyclozanide-veterinary-oral-suspension-ip-500x500-125x125.webp"
+      }
+    ]
+  },
+  {
+    "category_name": "Veterinary Injections",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/WU/TG/BM/43668/veterinary-injections-125x125.jpg",
+    "items": [
+      {
+        "name": "Ivermectin Injection",
+        "page": "https://dir.indiamart.com/impcat/ivermectin-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/MZ/TL/UL/92376/ivermectin-injection-125x125.jpeg"
+      },
+      {
+        "name": "Enrofloxacin Injections",
+        "page": "https://dir.indiamart.com/impcat/enrofloxacin.html",
+        "thumbnail": "http://3.imimg.com/data3/VC/PI/GLADMIN-121060/enrofloxacin-125x125.jpg"
+      },
+      {
+        "name": "Xylazine Injections",
+        "page": "https://dir.indiamart.com/impcat/xylazine.html",
+        "thumbnail": "http://4.imimg.com/data4/WW/WW/GLADMIN-/xylazine-125x125.jpg"
+      },
+      {
+        "name": "Doramectin Injection",
+        "page": "https://dir.indiamart.com/impcat/doramectin-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/322015521/XW/UD/LD/96405/-doramectin-injection-125x125.jpg"
+      },
+      {
+        "name": "Oxytetracycline Vet Injection",
+        "page": "https://dir.indiamart.com/impcat/oxytetracycline-vet-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/KN/MU/WD/GLADMIN-76441/oxytetracycline-vet-injection-125x125.jpg"
+      },
+      {
+        "name": "Buserelin Injection",
+        "page": "https://dir.indiamart.com/impcat/buserelin-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/359958972/GY/RI/ZP/30311/buserelin-injection-125x125.jpg"
+      },
+      {
+        "name": "Flunixin Meglumine Injection",
+        "page": "https://dir.indiamart.com/impcat/flunixin-meglumine-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/TP/ZW/HN/GLADMIN-68087/flunixin-meglumine-injection-125x125.png"
+      },
+      {
+        "name": "Tylosin Injection",
+        "page": "https://dir.indiamart.com/impcat/tylosin-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/378544098/KZ/TA/CT/30311/tylosin-injection-125x125.jpg"
+      },
+      {
+        "name": "Amoxycillin Cloxacillin Injection",
+        "page": "https://dir.indiamart.com/impcat/amoxycillin-cloxacillin-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/394754137/ZR/KN/ZY/103671/amoxycillin-cloxacillin-injection-125x125.jpg"
+      },
+      {
+        "name": "Ceftiofur Sodium Injection",
+        "page": "https://dir.indiamart.com/impcat/wouter-cf-ceftiour-sodium-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/322123834/YK/MA/FZ/96405/wouter-cf-ceftiour-sodium-injection-125x125.png"
+      },
+      {
+        "name": "Pentosan Injection",
+        "page": "https://dir.indiamart.com/impcat/pentosan-polysulfate-sodium.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/2/EH/KL/RG/93748/pentosan-polysulfate-sodium-125x125.jpg"
+      },
+      {
+        "name": "Butaphosphan & Cyanocobalamin Injection",
+        "page": "https://dir.indiamart.com/impcat/butaphosphan-cyanocobalamin-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/372342600/FL/PT/NF/30311/butaphosphan-cyanocobalamin-injection-125x125.jpg"
+      },
+      {
+        "name": "Vitamin B Complex Vet Injection",
+        "page": "https://dir.indiamart.com/impcat/vitamin-b-complex-vet-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/321992718/NV/JM/BH/96405/vitamin-b-complex-vet-injection--125x125.jpg"
+      },
+      {
+        "name": "Oxytetracycline Tablets and Capsules",
+        "page": "https://dir.indiamart.com/impcat/oxytetracycline.html",
+        "thumbnail": "http://5.imimg.com/data5/RN/RR/AH/GLADMIN-81462/oxytetracycline-125x125.png"
+      },
+      {
+        "name": "Vet Gentamicin Injections",
+        "page": "https://dir.indiamart.com/impcat/gentamicin-injections.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/PS/WD/HE/86583/gentamicin-injections-125x125.jpg"
+      },
+      {
+        "name": "Meloxicam and Paracetamol Injection",
+        "page": "https://dir.indiamart.com/impcat/meloxicam-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371659987/NK/YY/ZY/30311/meloxicam-tablet-125x125.jpg"
+      },
+      {
+        "name": "Amoxicillin Sulbactam Veterinary Injection",
+        "page": "https://dir.indiamart.com/impcat/amoxicillin-sulbactam-veterinary-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381281218/WX/EN/OO/30311/amoxicillin-sulbactam-veterinary-injection-125x125.jpg"
+      },
+      {
+        "name": "Meloxicam Injection",
+        "page": "https://dir.indiamart.com/impcat/meloxicam-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/370634473/XG/HJ/ZY/30311/meloxicam-injection-125x125.jpg"
+      },
+      {
+        "name": "Cloprostenol Sodium Injection",
+        "page": "https://dir.indiamart.com/impcat/cloprostenol.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/389099988/RO/QG/VD/103671/cloprostenol-125x125.jpg"
+      },
+      {
+        "name": "Sodium Acid Phosphate Injection",
+        "page": "https://dir.indiamart.com/impcat/sodium-acid-phosphate-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/380375942/PK/CK/ZB/30311/sodium-acid-phosphate-injection-125x125.jpg"
+      },
+      {
+        "name": "Buparvaquone Injection",
+        "page": "https://dir.indiamart.com/impcat/buparvaquone-injection.html",
+        "thumbnail": "http://3.imimg.com/data3/VU/MA/GLADMIN-135888/buparvaquone-injection-125x125.jpg"
+      },
+      {
+        "name": "Isoflupredone Acetate Injectable Suspension",
+        "page": "https://dir.indiamart.com/impcat/isoflupredone-acetate-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/377874646/VF/NW/HH/30311/isoflupredone-acetate-injection-125x125.jpg"
+      },
+      {
+        "name": "Chlorpheniramine Maleate Veterinary Injection",
+        "page": "https://dir.indiamart.com/impcat/chlorpheniramine-maleate-veterinary-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381345063/GV/RQ/RC/30311/chlorpheniramine-maleate-veterinary-injection-125x125.jpg"
+      },
+      {
+        "name": "Diminazene Aceturate Injection",
+        "page": "https://dir.indiamart.com/impcat/diminazene-aceturate.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/395907242/HM/ZX/LB/103671/diminazene-aceturate-125x125.jpg"
+      },
+      {
+        "name": "Nitroxynil Injectable",
+        "page": "https://dir.indiamart.com/impcat/nitroxynil-injectable.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/JD/GLADMIN-137403/nitroxynil-injectable-125x125.jpg"
+      },
+      {
+        "name": "Methylcobalamin Vitamin B6 Niacinamide Injection",
+        "page": "https://dir.indiamart.com/impcat/methylcobalamin-vitamin-b6-niacinamide-injection.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/394878592/YH/JN/MO/103671/methylcobalamin-vitamin-b6-niacinamide-injection-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Veterinary Instruments",
+    "category_thumbnail": "http://3.imimg.com/data3/UJ/CN/GLADMIN-5345/veterinary-instruments-125x125.jpg",
+    "items": [
+      {
+        "name": "Frozen Animal Semen",
+        "page": "https://dir.indiamart.com/impcat/frozen-animal-semen.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/EB/CA/KX/92368/frozen-animal-semen-125x125.jpeg"
+      },
+      {
+        "name": "Artificial Insemination Gun",
+        "page": "https://dir.indiamart.com/impcat/artificial-insemination-gun.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/OD/GLADMIN-162669/artificial-insemination-gun-125x125.jpg"
+      },
+      {
+        "name": "Artificial Insemination Sheaths",
+        "page": "https://dir.indiamart.com/impcat/artificial-insemination-sheaths.html",
+        "thumbnail": "http://3.imimg.com/data3/EI/KI/GLADMIN-148162/artificial-insemination-sheaths-125x125.jpg"
+      },
+      {
+        "name": "Inst Castration Emasculator",
+        "page": "https://dir.indiamart.com/impcat/inst-castration-emasculator.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/QF/GLADMIN-106824/inst-castration-emasculator-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Examination Table",
+        "page": "https://dir.indiamart.com/impcat/veterinary-examination-table.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381974987/JS/OY/VY/90177/veterinary-examination-table-125x125.png"
+      },
+      {
+        "name": "Veterinary Anesthesia Machine",
+        "page": "https://dir.indiamart.com/impcat/veterinary-anesthesia-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/NV/GLADMIN-39045/veterinary-anesthesia-machine-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Injector",
+        "page": "https://dir.indiamart.com/impcat/veterinary-injector.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/PK/GLADMIN-129938/veterinary-injector-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Dental Equipment",
+        "page": "https://dir.indiamart.com/impcat/veterinary-dental-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/MR/YG/GLADMIN-150771/veterinary-dental-equipment-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Pulse Oximeter",
+        "page": "https://dir.indiamart.com/impcat/veterinary-pulse-oximeter.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/XF/GLADMIN-150824/veterinary-pulse-oximeter-125x125.jpg"
+      },
+      {
+        "name": "Calf Puller",
+        "page": "https://dir.indiamart.com/impcat/calf-puller.html",
+        "thumbnail": "http://5.imimg.com/data5/VD/AF/UQ/GLADMIN-68155/calf-puller-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Veterinary Vaccines",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DO/DA/VL/43668/veterinary-vaccines-125x125.jpg",
+    "items": [
+      {
+        "name": "Canine Distemper Vaccine",
+        "page": "https://dir.indiamart.com/impcat/canine-distemper-vaccine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381365781/DU/CR/WT/103671/canine-distemper-vaccine-125x125.webp"
+      },
+      {
+        "name": "Chicken Vaccines",
+        "page": "https://dir.indiamart.com/impcat/chicken-vaccines.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ON/OF/KE/43668/chicken-vaccines-125x125.png"
+      },
+      {
+        "name": "Rabies Veterinary Vaccine",
+        "page": "https://dir.indiamart.com/impcat/rabies-veterinary-vaccine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/YJ/GI/WL/43668/rabies-veterinary-vaccine-125x125.jpg"
+      },
+      {
+        "name": "FMD Vaccine",
+        "page": "https://dir.indiamart.com/impcat/fmd-vaccine.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/JG/GLADMIN-177190/fmd-vaccine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Anthelmintics Drugs",
+    "category_thumbnail": "http://3.imimg.com/data3/WV/AJ/GLADMIN-146770/anthelmintics-125x125.jpg",
+    "items": [
+      {
+        "name": "Fenbendazole Tablet",
+        "page": "https://dir.indiamart.com/impcat/fenbendazole-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/RP/NJ/LW/GLADMIN-68087/fenbendazole-tablet-125x125.jpg"
+      },
+      {
+        "name": "Triclabendazole Tablet",
+        "page": "https://dir.indiamart.com/impcat/triclabendazole-tab.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/399887787/QQ/CS/QD/103671/triclabendazole-tab-125x125.jpg"
+      },
+      {
+        "name": "Niclosamide Tablet",
+        "page": "https://dir.indiamart.com/impcat/niclosamide-tablet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/MH/ZV/LP/43668/niclosamide-tablet-125x125.webp"
+      },
+      {
+        "name": "Pyrantel Pamoate",
+        "page": "https://dir.indiamart.com/impcat/pyrantel-pamoate.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/PM/GLADMIN-160257/pyrantel-pamoate-125x125.jpg"
+      },
+      {
+        "name": "Albendazole Powder",
+        "page": "https://dir.indiamart.com/impcat/albendazole-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/OV/GLADMIN-135849/albendazole-powder-125x125.jpg"
+      },
+      {
+        "name": "Closantel Sodium Injection",
+        "page": "https://dir.indiamart.com/impcat/closantel-sodium.html",
+        "thumbnail": "http://3.imimg.com/data3/TP/QK/GLADMIN-132601/closantel-sodium-125x125.jpg"
+      },
+      {
+        "name": "Closantel Amino Compound",
+        "page": "https://dir.indiamart.com/impcat/closantel-amino-compound.html",
+        "thumbnail": "http://3.imimg.com/data3/PX/LU/GLADMIN-132600/closantel-amino-compound-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Animal Nutraceuticals Supplements",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/10/460148119/WV/WV/BI/113452/animal-nutraceuticals-supplements-500x500-125x125.webp",
+    "items": [
+      {
+        "name": "Veterinary Liver Tonic",
+        "page": "https://dir.indiamart.com/impcat/veterinary-liver-tonic.html",
+        "thumbnail": "http://4.imimg.com/data4/QI/TQ/GLADMIN-186195/veterinary-liver-tonic-125x125.jpg"
+      },
+      {
+        "name": "Cattle Milk Booster Supplement",
+        "page": "https://dir.indiamart.com/impcat/cattle-milk-booster-supplement.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/383955298/YB/SG/UL/103671/cattle-milk-booster-supplement-125x125.webp"
+      },
+      {
+        "name": "Calcium Syrup Veterinary",
+        "page": "https://dir.indiamart.com/impcat/calcium-syrups-veterinary.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/382689802/IJ/UE/XY/103671/calcium-syrups-veterinary-125x125.jpg"
+      },
+      {
+        "name": "Animal Uterine Tonic",
+        "page": "https://dir.indiamart.com/impcat/animal-uterine-tonic.html",
+        "thumbnail": "http://5.imimg.com/data5/UY/UP/MO/GLADMIN-68087/animal-uterine-tonic-125x125.png"
+      },
+      {
+        "name": "Animal Calcium Tablet",
+        "page": "https://dir.indiamart.com/impcat/animal-calcium-tablet.html",
+        "thumbnail": "http://4.imimg.com/data4/YM/YM/GLADMIN-179989/animal-calcium-tablet-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Animal Treatment Services",
+    "category_thumbnail": "http://3.imimg.com/data3/NU/XG/GLADMIN-173134/animal-treatment-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Animal Care Centres",
+        "page": "https://dir.indiamart.com/impcat/animal-care-centres.html",
+        "thumbnail": "http://3.imimg.com/data3/MI/RP/GLADMIN-43123/animal-care-centres-125x125.jpg"
+      },
+      {
+        "name": "Dog Training Services",
+        "page": "https://dir.indiamart.com/impcat/dog-training-services.html",
+        "thumbnail": "http://3.imimg.com/data3/SP/UD/GLADMIN-153981/dog-training-services-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Clinic",
+        "page": "https://dir.indiamart.com/impcat/veterinary-clinic.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/DO/GLADMIN-43124/veterinary-clinic-125x125.jpg"
+      },
+      {
+        "name": "Pet Grooming Service",
+        "page": "https://dir.indiamart.com/impcat/pet-grooming-service.html",
+        "thumbnail": "http://4.imimg.com/data4/LO/NH/GLADMIN-2/pet-grooming-service-125x125.jpg"
+      },
+      {
+        "name": "Pets Treatment",
+        "page": "https://dir.indiamart.com/impcat/pets-treatment.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/DI/GLADMIN-171139/pets-treatment-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Doctors",
+        "page": "https://dir.indiamart.com/impcat/veterinary-doctors.html",
+        "thumbnail": "http://3.imimg.com/data3/LK/GR/GLADMIN-43122/veterinary-doctors-125x125.jpg"
+      },
+      {
+        "name": "Dog Grooming Services",
+        "page": "https://dir.indiamart.com/impcat/dog-grooming-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UM/IP/GLADMIN-177681/dog-grooming-services-125x125.jpg"
+      },
+      {
+        "name": "Animal Hospitals",
+        "page": "https://dir.indiamart.com/impcat/animal-hospitals.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/PJ/GLADMIN-22649/animal-hospitals-125x125.jpg"
+      },
+      {
+        "name": "Pet Boarding Service",
+        "page": "https://dir.indiamart.com/impcat/pet-boarding-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/381196672/GF/GV/FK/90177/pet-boarding-service-125x125.png"
+      },
+      {
+        "name": "Dog Bathing Services",
+        "page": "https://dir.indiamart.com/impcat/dog-bathing-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/380365576/FF/DX/XA/90177/dog-bathing-services-125x125.jpg"
+      },
+      {
+        "name": "Dog Surgery Services",
+        "page": "https://dir.indiamart.com/impcat/dog-surgery-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UG/GM/GLADMIN-175949/dog-surgery-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Veterinary Drugs",
+        "page": "https://dir.indiamart.com/impcat/veterinary-drugs.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/YI/NC/FI/43668/veterinary-drugs-125x125.jpg"
+      }
+    ]
+  }
+]

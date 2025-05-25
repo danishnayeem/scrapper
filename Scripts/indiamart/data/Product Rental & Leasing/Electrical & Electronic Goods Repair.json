@@ -1,0 +1,270 @@
+[
+  {
+    "category_name": "Battery Repair & Maintenance Service",
+    "category_thumbnail": "http://3.imimg.com/data3/VE/RP/GLADMIN-169143/battery-maintenance-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Battery Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/batteries-repairing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IC/UP/GLADMIN-169949/batteries-repairing-services-125x125.jpg"
+      },
+      {
+        "name": "Inverter Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/inverter-repairing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CA/PB/GLADMIN-172488/inverter-repairing-services-125x125.jpg"
+      },
+      {
+        "name": "UPS Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/ups-repairing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/ER/UO/GLADMIN-175657/ups-repairing-service-125x125.jpg"
+      },
+      {
+        "name": "UPS AMC Service",
+        "page": "https://dir.indiamart.com/impcat/ups-amc-service.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/VB/GLADMIN-169890/ups-amc-service-125x125.jpg"
+      },
+      {
+        "name": "UPS Maintenance",
+        "page": "https://dir.indiamart.com/impcat/ups-maintenance.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371613034/YS/NS/EN/104148/ups-maintenance-125x125.png"
+      },
+      {
+        "name": "Inverter Maintenance Service",
+        "page": "https://dir.indiamart.com/impcat/inverter-maintenance-service.html",
+        "thumbnail": "http://3.imimg.com/data3/PY/YQ/GLADMIN-170995/inverter-maintenance-service-125x125.jpg"
+      },
+      {
+        "name": "Home Power Supply and Battery Repair & Maintenance",
+        "page": "https://dir.indiamart.com/impcat/home-power-supply-and-battery-repair-maintenance.html",
+        "thumbnail": "http://5.imimg.com/data5/SS/SS/GLADMIN-/home-power-supply-and-battery-repair-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Drive Repair & Maintenance Service",
+    "category_thumbnail": "http://3.imimg.com/data3/IR/QA/GLADMIN-172702/spindle-drive-repair-125x125.jpg",
+    "items": [
+      {
+        "name": "AC DC Drive Repair Services",
+        "page": "https://dir.indiamart.com/impcat/ac-dc-drive-repair-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/LP/GLADMIN-117751/ac-dc-drive-repair-services-125x125.jpg"
+      },
+      {
+        "name": "VFD Repair",
+        "page": "https://dir.indiamart.com/impcat/vfd-repair.html",
+        "thumbnail": "http://3.imimg.com/data3/BQ/MQ/GLADMIN-176965/vfd-repair-125x125.jpg"
+      },
+      {
+        "name": "PLC Repair Services",
+        "page": "https://dir.indiamart.com/impcat/plc-repair-services.html",
+        "thumbnail": "http://5.imimg.com/data5/ES/VJ/GLADMIN-2/safdgf-125x125.jpg"
+      },
+      {
+        "name": "Servo Drive Repair",
+        "page": "https://dir.indiamart.com/impcat/servo-drive-repair.html",
+        "thumbnail": "http://3.imimg.com/data3/QX/XB/GLADMIN-117931/servo-drive-repair-125x125.jpg"
+      },
+      {
+        "name": "HMI Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/hmi-repairing-service.html",
+        "thumbnail": "http://4.imimg.com/data4/KW/WC/GLADMIN-181135/hmi-repairing-service-125x125.jpg"
+      },
+      {
+        "name": "DC Drive Repair Services",
+        "page": "https://dir.indiamart.com/impcat/dc-drive-repair-services.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/EH/GLADMIN-175623/dc-drive-repair-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Solar Power Plant Installation",
+    "category_thumbnail": "http://3.imimg.com/data3/QW/MO/GLADMIN-174210/solar-power-plant-installation-125x125.png",
+    "items": [
+      {
+        "name": "Solar Panel Installation",
+        "page": "https://dir.indiamart.com/impcat/solar-panel-installation.html",
+        "thumbnail": "http://3.imimg.com/data3/GT/WY/GLADMIN-172695/solar-panel-installation-125x125.jpg"
+      },
+      {
+        "name": "Solar System Installation Service",
+        "page": "https://dir.indiamart.com/impcat/solar-system-installation-service.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/GI/GLADMIN-174212/solar-system-installation-service-125x125.jpg"
+      },
+      {
+        "name": "Solar Installation",
+        "page": "https://dir.indiamart.com/impcat/solar-installation.html",
+        "thumbnail": "http://3.imimg.com/data3/TW/XF/GLADMIN-135759/solar-installation-125x125.jpg"
+      },
+      {
+        "name": "Solar Consultancy Services",
+        "page": "https://dir.indiamart.com/impcat/solar-consultancy-services.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/QV/GLADMIN-172025/solar-consultancy-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Circuit Board Repairing Services",
+    "category_thumbnail": "http://3.imimg.com/data3/XT/IJ/GLADMIN-173843/circuit-repairing-services-125x125.jpg",
+    "items": [
+      {
+        "name": "PCB Repairing",
+        "page": "https://dir.indiamart.com/impcat/pcb-repairing.html",
+        "thumbnail": "http://3.imimg.com/data3/TI/CY/GLADMIN-42947/pcb-repairing-125x125.jpg"
+      },
+      {
+        "name": "Electronic Card Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/electronic-card-repairing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/XS/GLADMIN-170208/electronic-card-repairing-service-125x125.jpg"
+      },
+      {
+        "name": "Power Supply Repairs",
+        "page": "https://dir.indiamart.com/impcat/power-supply-repairs.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/KY/GLADMIN-172437/power-supply-repairs-125x125.jpg"
+      },
+      {
+        "name": "Water Level Controller Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/water-level-controller-repairing-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GC/HC/PZ/GLADMIN-73467/water-level-controller-repairing-service-125x125.jpg"
+      },
+      {
+        "name": "Control Card Repair Services",
+        "page": "https://dir.indiamart.com/impcat/control-card-repair-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/YH/GLADMIN-174888/control-card-repair-services-125x125.jpg"
+      },
+      {
+        "name": "Rectifier Repair Service",
+        "page": "https://dir.indiamart.com/impcat/rectifier-repair-service.html",
+        "thumbnail": "http://3.imimg.com/data3/RI/RF/GLADMIN-153792/rectifier-repair-service-125x125.jpg"
+      },
+      {
+        "name": "Component Level Repair Services",
+        "page": "https://dir.indiamart.com/impcat/component-level-repair-services.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/AF/GLADMIN-174621/component-level-repair-services-125x125.jpg"
+      },
+      {
+        "name": "Medical PCB Repair",
+        "page": "https://dir.indiamart.com/impcat/medical-pcb-repair.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/HU/GLADMIN-117870/medical-pcb-repair-125x125.jpg"
+      },
+      {
+        "name": "Processor Board Repair",
+        "page": "https://dir.indiamart.com/impcat/processor-board-repair.html",
+        "thumbnail": "http://3.imimg.com/data3/UF/CG/GLADMIN-117908/processor-board-repair-125x125.jpg"
+      },
+      {
+        "name": "Industrial Power Supply and Battery Repair & Maintenance",
+        "page": "https://dir.indiamart.com/impcat/industrial-power-supply-and-battery-repair-maintenance.html",
+        "thumbnail": "http://5.imimg.com/data5/TN/IV/GLADMIN-2/industrial-power-suppl-125x125.jpg"
+      },
+      {
+        "name": "In Circuit Testing Services",
+        "page": "https://dir.indiamart.com/impcat/in-circuit-testing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/WP/PA/GLADMIN-171836/in-circuit-testing-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Electrical Panel Repair & Maintenance",
+    "category_thumbnail": "http://3.imimg.com/data3/DG/KQ/GLADMIN-171701/electrical-panel-maintenance-125x125.jpg",
+    "items": [
+      {
+        "name": "Control Panel Repair Services",
+        "page": "https://dir.indiamart.com/impcat/control-panel-repair-services.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/WF/GLADMIN-121116/control-panel-repair-services-125x125.jpg"
+      },
+      {
+        "name": "Circuit Breaker Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/circuit-breaker-repairing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FS/VE/GLADMIN-174878/circuit-breaker-repairing-services-125x125.jpg"
+      },
+      {
+        "name": "Circuit Breaker Maintenance Services",
+        "page": "https://dir.indiamart.com/impcat/circuit-breaker-maintenance-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HX/JE/GLADMIN-147179/circuit-breaker-maintenance-services-125x125.jpg"
+      },
+      {
+        "name": "Panel Maintenance Service",
+        "page": "https://dir.indiamart.com/impcat/panel-maintenance-service.html",
+        "thumbnail": "http://3.imimg.com/data3/YB/WP/GLADMIN-170599/panel-maintenance-service-125x125.jpg"
+      },
+      {
+        "name": "Switchgear Repair Services",
+        "page": "https://dir.indiamart.com/impcat/switchgear-repair-services.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/AC/GLADMIN-142313/switchgear-repair-services-125x125.jpg"
+      },
+      {
+        "name": "Switchgear Servicing",
+        "page": "https://dir.indiamart.com/impcat/switchgear-servicing.html",
+        "thumbnail": "http://3.imimg.com/data3/GR/MU/GLADMIN-175244/switchgear-servicing-125x125.jpg"
+      },
+      {
+        "name": "Distribution Board Services",
+        "page": "https://dir.indiamart.com/impcat/distribution-board-services.html",
+        "thumbnail": "http://3.imimg.com/data3/BR/DG/GLADMIN-170390/distribution-board-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ducting Services",
+    "category_thumbnail": "http://3.imimg.com/data3/VD/BO/GLADMIN-132625/ducting-services-125x125.jpg",
+    "items": [
+      {
+        "name": "HVAC Ducting Service",
+        "page": "https://dir.indiamart.com/impcat/hvac-ducting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HA/NF/GLADMIN-173394/hvac-ducting-service-125x125.jpg"
+      },
+      {
+        "name": "FRP Ductwork",
+        "page": "https://dir.indiamart.com/impcat/frp-duct-work.html",
+        "thumbnail": "http://3.imimg.com/data3/RX/JP/GLADMIN-171789/frp-duct-work-125x125.jpg"
+      },
+      {
+        "name": "MS Duct Work",
+        "page": "https://dir.indiamart.com/impcat/ms-duct-work.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/LM/GLADMIN-171646/ms-duct-work-125x125.jpg"
+      },
+      {
+        "name": "Round Ducting Services",
+        "page": "https://dir.indiamart.com/impcat/round-ducting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/UA/GLADMIN-173202/round-ducting-services-125x125.jpg"
+      },
+      {
+        "name": "AC Piping Services",
+        "page": "https://dir.indiamart.com/impcat/ac-piping-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/12/473306133/KB/FW/SE/113738/ac-piping-services-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Cooling System Service",
+    "category_thumbnail": "http://3.imimg.com/data3/XN/PB/GLADMIN-173625/cooling-system-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Cold Insulation Services",
+        "page": "https://dir.indiamart.com/impcat/cold-insulation-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/HY/GLADMIN-132603/cold-insulation-services-125x125.jpg"
+      },
+      {
+        "name": "Condenser Cleaning",
+        "page": "https://dir.indiamart.com/impcat/condenser-cleaning.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/RE/GLADMIN-176679/condenser-cleaning-125x125.jpg"
+      },
+      {
+        "name": "Cooling Tower Maintenance Services",
+        "page": "https://dir.indiamart.com/impcat/cooling-tower-maintenance-services.html",
+        "thumbnail": "http://5.imimg.com/data5/EL/DP/GLADMIN-2/cooling-tower-cleaning-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Air Conditioner Maintenance Services",
+        "page": "https://dir.indiamart.com/impcat/air-conditioner-maintenance-services.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/VV/GLADMIN-140005/air-conditioner-maintenance-services-125x125.jpg"
+      }
+    ]
+  }
+]

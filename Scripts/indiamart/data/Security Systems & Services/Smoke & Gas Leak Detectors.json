@@ -1,0 +1,397 @@
+[
+  {
+    "category_name": "Gas Leak Detector",
+    "category_thumbnail": "http://3.imimg.com/data3/GE/BG/GLADMIN-29273/gas-leak-detectors-125x125.jpg",
+    "items": [
+      {
+        "name": "Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/gas-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/FG/GLADMIN-20966/gas-detectors-125x125.jpg"
+      },
+      {
+        "name": "Multi Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/multi-gas-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/YX/GLADMIN-69919/multi-gas-detector-125x125.jpg"
+      },
+      {
+        "name": "LPG Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/lpg-gas-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/JR/GP/GLADMIN-32396/lpg-gas-detector-125x125.jpg"
+      },
+      {
+        "name": "Leak Detectors",
+        "page": "https://dir.indiamart.com/impcat/leak-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/DE/UI/GLADMIN-30571/leak-detectors-125x125.jpg"
+      },
+      {
+        "name": "Portable Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/portable-gas-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/CW/WR/GLADMIN-80890/portable-gas-detector-125x125.jpg"
+      },
+      {
+        "name": "Gas Detector Tubes",
+        "page": "https://dir.indiamart.com/impcat/gas-detector-tubes.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/VA/GLADMIN-166340/gas-detector-tubes-125x125.jpg"
+      },
+      {
+        "name": "Helium Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/helium-leak-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/VS/GLADMIN-30263/helium-leak-detectors-125x125.jpg"
+      },
+      {
+        "name": "Electronic Detectors",
+        "page": "https://dir.indiamart.com/impcat/electronic-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/BO/YD/GLADMIN-27873/electronic-detectors-125x125.jpg"
+      },
+      {
+        "name": "Refrigerant Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/refrigerant-leak-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/LL/PF/GLADMIN-36288/refrigerant-leak-detectors-125x125.jpg"
+      },
+      {
+        "name": "Oxygen Detector",
+        "page": "https://dir.indiamart.com/impcat/oxygen-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/FG/GLADMIN-69920/oxygen-detector-125x125.jpg"
+      },
+      {
+        "name": "Ultrasonic Air Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/ultrasonic-air-leak-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/WQ/NA/GLADMIN-137291/ultrasonic-air-leak-detector-125x125.jpg"
+      },
+      {
+        "name": "SF6 Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/portable-sf6-leak-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/HI/GLADMIN-137293/portable-sf6-leak-detector-125x125.jpg"
+      },
+      {
+        "name": "Fixed Gas Monitor",
+        "page": "https://dir.indiamart.com/impcat/fixed-gas-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/BX/II/GLADMIN-140319/fixed-gas-monitor-125x125.jpg"
+      },
+      {
+        "name": "Single Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/single-gas-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/AY/QV/GLADMIN-69922/single-gas-detector-125x125.jpg"
+      },
+      {
+        "name": "Gas Leak Detector Spray",
+        "page": "https://dir.indiamart.com/impcat/gas-leak-detector-spray.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/GZ/LJ/MF/84523/gas-leak-detector-spray-125x125.jpg"
+      },
+      {
+        "name": "Combustible Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/combustible-gas-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/NB/GLADMIN-24412/combustible-gas-detectors-125x125.jpg"
+      },
+      {
+        "name": "Leak Detection Instrument",
+        "page": "https://dir.indiamart.com/impcat/leak-detection-instrument.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/XX/GLADMIN-115664/leak-detection-instrument-125x125.jpg"
+      },
+      {
+        "name": "Photoionization Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/photoionization-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/MH/GLADMIN-34297/photoionization-detectors-125x125.jpg"
+      },
+      {
+        "name": "UV Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/uv-leak-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/NI/GLADMIN-40592/uv-leak-detector-125x125.jpg"
+      },
+      {
+        "name": "Earth Leakage Detector",
+        "page": "https://dir.indiamart.com/impcat/earth-leakage-detector.html",
+        "thumbnail": "http://5.imimg.com/data5/FE/XL/IY/GLADMIN-68155/earth-leakage-detector-125x125.jpg"
+      },
+      {
+        "name": "Refractive Index Detector",
+        "page": "https://dir.indiamart.com/impcat/refractive-index-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/FB/VA/GLADMIN-133117/refractive-index-detector-125x125.jpg"
+      },
+      {
+        "name": "Oxygen Indicators",
+        "page": "https://dir.indiamart.com/impcat/oxygen-indicators.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/UX/GLADMIN-34148/oxygen-indicators-125x125.jpg"
+      },
+      {
+        "name": "Toxic Gas Monitors",
+        "page": "https://dir.indiamart.com/impcat/toxic-gas-monitors.html",
+        "thumbnail": "http://3.imimg.com/data3/TS/IL/GLADMIN-39963/toxic-gas-monitors-125x125.jpg"
+      },
+      {
+        "name": "Confined Space Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/confined-space-gas-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/HC/GLADMIN-69914/confined-space-gas-detector-125x125.jpg"
+      },
+      {
+        "name": "Toxic Gas Detectors",
+        "page": "https://dir.indiamart.com/impcat/toxic-gas-detectors.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/11/MD/BP/FG/83861/toxic-gas-detectors-125x125.jpg"
+      },
+      {
+        "name": "Microwave Leakage Detector",
+        "page": "https://dir.indiamart.com/impcat/microwave-leakage-detector.html",
+        "thumbnail": "http://4.imimg.com/data4/HS/IG/GLADMIN-2/microwave-leakage-detector-125x125.jpg"
+      },
+      {
+        "name": "Single Channel Detector",
+        "page": "https://dir.indiamart.com/impcat/single-channel-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/CB/GLADMIN-69921/single-channel-detector-125x125.jpg"
+      },
+      {
+        "name": "HCFC Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/hcfc-gas-leak-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/LJ/GLADMIN-69916/hcfc-gas-leak-detector-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Toxic Gas Detectors",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/11/MD/BP/FG/83861/toxic-gas-detectors-125x125.jpg",
+    "items": [
+      {
+        "name": "H2S Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/h2s-gas-leak-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/WA/GLADMIN-137292/h2s-gas-leak-detector-125x125.jpg"
+      },
+      {
+        "name": "Carbon Monoxide Detectors",
+        "page": "https://dir.indiamart.com/impcat/carbon-monoxide-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/YT/GLADMIN-24171/carbon-monoxide-detectors-125x125.jpg"
+      },
+      {
+        "name": "Ammonia Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/ammonia-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/SJ/GLADMIN-21949/ammonia-detectors-125x125.jpg"
+      },
+      {
+        "name": "VOC Meter",
+        "page": "https://dir.indiamart.com/impcat/voc-meter.html",
+        "thumbnail": "http://3.imimg.com/data3/VT/LW/GLADMIN-142304/voc-meter-125x125.jpg"
+      },
+      {
+        "name": "Methane Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/methane-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/CW/GLADMIN-69918/methane-detector-125x125.jpg"
+      },
+      {
+        "name": "Hydrogen Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/hydrogen-gas-leak-detector.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/11/CW/ZS/TH/83861/hydrogen-gas-leak-detector-125x125.jpg"
+      },
+      {
+        "name": "Carbon Monoxide Monitors",
+        "page": "https://dir.indiamart.com/impcat/carbon-monoxide-monitors.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/EY/GLADMIN-24173/carbon-monoxide-monitors-125x125.jpg"
+      },
+      {
+        "name": "Chlorine Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/chlorine-gas-leak-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/RH/GLADMIN-152047/chlorine-gas-leak-detectors-125x125.jpg"
+      },
+      {
+        "name": "Ozone Monitor",
+        "page": "https://dir.indiamart.com/impcat/ozone-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/DF/GLADMIN-5662/ozone-monitor-125x125.jpg"
+      },
+      {
+        "name": "Ozone Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/ozone-gas-detector.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/PP/GLADMIN-/ozone-gas-detector-125x125.jpg"
+      },
+      {
+        "name": "Carbon Dioxide Detector",
+        "page": "https://dir.indiamart.com/impcat/carbon-dioxide-detectors.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/11/XD/XY/VL/83861/carbon-dioxide-detectors-125x125.jpg"
+      },
+      {
+        "name": "Ozone Monitoring Equipment",
+        "page": "https://dir.indiamart.com/impcat/ozone-monitoring-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/BM/MY-2/ozone-monitoring-equipment-125x125.jpg"
+      },
+      {
+        "name": "Ambient Ozone Monitor",
+        "page": "https://dir.indiamart.com/impcat/ambient-ozone-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/MW/PQ/GLADMIN-158200/ambient-ozone-monitor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Combustible Gas Detector",
+    "category_thumbnail": "http://3.imimg.com/data3/FV/NB/GLADMIN-24412/combustible-gas-detectors-125x125.jpg",
+    "items": [
+      {
+        "name": "LPG Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/lpg-gas-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/JR/GP/GLADMIN-32396/lpg-gas-detector-125x125.jpg"
+      },
+      {
+        "name": "CNG Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/cng-gas-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/OJ/GLADMIN-152048/cng-gas-detector-125x125.jpg"
+      },
+      {
+        "name": "Ammonia Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/ammonia-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/SJ/GLADMIN-21949/ammonia-detectors-125x125.jpg"
+      },
+      {
+        "name": "Methane Gas Detector",
+        "page": "https://dir.indiamart.com/impcat/methane-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/CW/GLADMIN-69918/methane-detector-125x125.jpg"
+      },
+      {
+        "name": "Hydrogen Gas Leak Detector",
+        "page": "https://dir.indiamart.com/impcat/hydrogen-gas-leak-detector.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/11/CW/ZS/TH/83861/hydrogen-gas-leak-detector-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Smoke Detector",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/HD/NV/BR/92511/smoke-detectors-125x125.jpg",
+    "items": [
+      {
+        "name": "Addressable Smoke Detector",
+        "page": "https://dir.indiamart.com/impcat/addressable-smoke-detector.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GO/OI/EQ/92511/addressable-smoke-detector-125x125.png"
+      },
+      {
+        "name": "Beam Detector",
+        "page": "https://dir.indiamart.com/impcat/beam-detector.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/BP/GK/EA/92511/beam-detector-125x125.jpg"
+      },
+      {
+        "name": "Multi Sensor Smoke Detector",
+        "page": "https://dir.indiamart.com/impcat/multi-sensor-smoke-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/QH/GLADMIN-69181/multi-sensor-smoke-detector-125x125.jpg"
+      },
+      {
+        "name": "Optical Smoke Detector",
+        "page": "https://dir.indiamart.com/impcat/optical-smoke-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/ST/GLADMIN-69182/optical-smoke-detector-125x125.jpg"
+      },
+      {
+        "name": "Photoelectric Smoke Detector",
+        "page": "https://dir.indiamart.com/impcat/photoelectric-smoke-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/WM/GLADMIN-34285/photoelectric-smoke-detector-125x125.jpg"
+      },
+      {
+        "name": "Response Indicator",
+        "page": "https://dir.indiamart.com/impcat/response-indicator.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/EA/GLADMIN-166411/response-indicator-125x125.jpg"
+      },
+      {
+        "name": "Wireless Smoke Detector",
+        "page": "https://dir.indiamart.com/impcat/wireless-smoke-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/BG/GLADMIN-69186/wireless-smoke-detector-125x125.jpg"
+      },
+      {
+        "name": "Standalone Smoke Detectors",
+        "page": "https://dir.indiamart.com/impcat/standalone-smoke-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/SK/FR/GLADMIN-158933/standalone-smoke-detectors-125x125.jpg"
+      },
+      {
+        "name": "Air Sampling Smoke Detection System",
+        "page": "https://dir.indiamart.com/impcat/air-sampling-smoke-detection-system.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/IX/GLADMIN-165441/air-sampling-smoke-detection-system-125x125.jpg"
+      },
+      {
+        "name": "Thermal Detectors",
+        "page": "https://dir.indiamart.com/impcat/thermal-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/JN/GLADMIN-39750/thermal-detectors-125x125.jpg"
+      },
+      {
+        "name": "Smoke Detector Camera",
+        "page": "https://dir.indiamart.com/impcat/smoke-detector-camera.html",
+        "thumbnail": "http://3.imimg.com/data3/ML/PY/GLADMIN-19246/smoke-detector-camera-125x125.jpg"
+      },
+      {
+        "name": "Photoelectric Detectors",
+        "page": "https://dir.indiamart.com/impcat/photoelectric-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/KT/GLADMIN-34284/photoelectric-detectors-125x125.jpg"
+      },
+      {
+        "name": "Ionization Detectors",
+        "page": "https://dir.indiamart.com/impcat/ionization-detectors.html",
+        "thumbnail": "http://3.imimg.com/data3/KM/PS/GLADMIN-31081/ionization-detectors-125x125.jpg"
+      },
+      {
+        "name": "Standalone Detector",
+        "page": "https://dir.indiamart.com/impcat/standalone-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/MJ/GLADMIN-69923/standalone-detector-125x125.jpg"
+      },
+      {
+        "name": "Photoelectric Alarms",
+        "page": "https://dir.indiamart.com/impcat/photoelectric-alarms.html",
+        "thumbnail": "http://3.imimg.com/data3/BM/RN/GLADMIN-34283/photoelectric-alarms-125x125.jpg"
+      },
+      {
+        "name": "Chromatographic Detector",
+        "page": "https://dir.indiamart.com/impcat/chromatographic-detector.html",
+        "thumbnail": "http://3.imimg.com/data3/SK/AC/GLADMIN-24869/chromatographic-detector-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Gas Sensors",
+    "category_thumbnail": "http://3.imimg.com/data3/HX/XQ/GLADMIN-29302/gas-sensors-125x125.jpg",
+    "items": [
+      {
+        "name": "Oxygen Sensor",
+        "page": "https://dir.indiamart.com/impcat/oxygen-sensors.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/1/FC/AE/GM/83861/oxygen-sensor-125x125.jpg"
+      },
+      {
+        "name": "Ventilator Oxygen Sensor",
+        "page": "https://dir.indiamart.com/impcat/ventilator-oxygen-sensor.html",
+        "thumbnail": "http://5.imimg.com/data5/LV/YK/HK/GLADMIN-32016/ventilator-oxygen-sensor-125x125.jpg"
+      },
+      {
+        "name": "NOx Sensor",
+        "page": "https://dir.indiamart.com/impcat/nitrogen-oxide-nox-sensor.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/400054171/VT/IW/CP/90576/nitrogen-oxide-nox-sensor-125x125.jpg"
+      },
+      {
+        "name": "CO2 Sensors",
+        "page": "https://dir.indiamart.com/impcat/carbon-dioxide-sensors.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/RB/GLADMIN-24304/carbon-dioxide-sensors-125x125.jpg"
+      },
+      {
+        "name": "LPG Gas Sensor",
+        "page": "https://dir.indiamart.com/impcat/lpg-gas-leakage-sensor.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/QK/TJ/MU/83861/lpg-gas-leakage-sensor-125x125.jpg"
+      },
+      {
+        "name": "Dissolved Oxygen Sensor",
+        "page": "https://dir.indiamart.com/impcat/dissolved-oxygen-sensor.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/OR/GLADMIN-26696/dissolved-oxygen-sensor-125x125.jpg"
+      },
+      {
+        "name": "Carbon Monoxide Sensor",
+        "page": "https://dir.indiamart.com/impcat/carbon-monoxide-sensor.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/1/VW/LN/SU/83861/carbon-monoxide-sensor-125x125.jpg"
+      },
+      {
+        "name": "Hydrogen Gas Sensor",
+        "page": "https://dir.indiamart.com/impcat/hydrogen-gas-sensor.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/JX/GLADMIN-148727/hydrogen-gas-sensor-125x125.jpg"
+      },
+      {
+        "name": "Alcohol Sensor",
+        "page": "https://dir.indiamart.com/impcat/alcohol-sensor.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/TG/GLADMIN-53712/alcohol-sensor-125x125.jpg"
+      },
+      {
+        "name": "PPM Oxygen Sensors",
+        "page": "https://dir.indiamart.com/impcat/ppm-oxygen-sensors.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/TU/FZ/HM/83861/ppm-oxygen-sensors-125x125.jpg"
+      },
+      {
+        "name": "Leakage Sensor",
+        "page": "https://dir.indiamart.com/impcat/leakage-sensor.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/NP/GLADMIN-138010/leakage-sensor-125x125.jpg"
+      }
+    ]
+  }
+]

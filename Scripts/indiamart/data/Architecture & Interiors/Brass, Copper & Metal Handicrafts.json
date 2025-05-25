@@ -1,0 +1,64 @@
+[
+  {
+    "category_name": "Copper Crafts",
+    "category_thumbnail": "http://3.imimg.com/data3/QM/OT/GLADMIN-74/copper-crafts-125x125.jpg",
+    "items": [
+      {
+        "name": "Copper Gift Articles",
+        "page": "https://dir.indiamart.com/impcat/copper-gift-articles.html",
+        "thumbnail": "http://3.imimg.com/data3/WO/SK/GLADMIN-126764/copper-gift-articles-125x125.jpg"
+      },
+      {
+        "name": "Copper Diya",
+        "page": "https://dir.indiamart.com/impcat/copper-diya.html",
+        "thumbnail": "http://5.imimg.com/data5/QS/GJ/AH/GLADMIN-68155/copper-diya-125x125.jpg"
+      },
+      {
+        "name": "Copper Handicraft",
+        "page": "https://dir.indiamart.com/impcat/copper-handicraft.html",
+        "thumbnail": "http://3.imimg.com/data3/EX/NB/GLADMIN-153564/copper-handicraft-125x125.jpg"
+      },
+      {
+        "name": "Copper Artware",
+        "page": "https://dir.indiamart.com/impcat/copper-artware.html",
+        "thumbnail": "http://3.imimg.com/data3/TT/WH/GLADMIN-4026/copper-artware-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Aluminium Crafts",
+    "category_thumbnail": "http://3.imimg.com/data3/NR/BK/GLADMIN-73/aluminum-crafts-125x125.jpg",
+    "items": [
+      {
+        "name": "Aluminium Handicrafts",
+        "page": "https://dir.indiamart.com/impcat/aluminium-handicrafts.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/NY/GLADMIN-149140/aluminium-handicrafts-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Spoon",
+        "page": "https://dir.indiamart.com/impcat/aluminum-spoon.html",
+        "thumbnail": "http://3.imimg.com/data3/SY/TH/GLADMIN-11510/aluminum-spoon-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Urns",
+        "page": "https://dir.indiamart.com/impcat/aluminum-urns.html",
+        "thumbnail": "http://4.imimg.com/data4/MT/OL/GLADMIN-179581/aluminum-urns-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Napkin Ring",
+        "page": "https://dir.indiamart.com/impcat/aluminum-napkin-ring.html",
+        "thumbnail": "http://3.imimg.com/data3/TY/JG/MY-2/aluminum-napkin-ring-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Keychain",
+        "page": "https://dir.indiamart.com/impcat/aluminum-keychain.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/JJ/GLADMIN-21202/aluminum-keychain-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Numerals",
+        "page": "https://dir.indiamart.com/impcat/aluminum-numerals.html",
+        "thumbnail": "http://5.imimg.com/data5/SP/CH/GLADMIN-2/image_20170706_115851_7308-125x125.jpg"
+      }
+    ]
+  }
+]

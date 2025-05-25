@@ -1,0 +1,406 @@
+[
+  {
+    "category_name": "Smart TV",
+    "category_thumbnail": "http://4.imimg.com/data4/OS/VF/GLADMIN-180594/smart-tv-125x125.jpg",
+    "items": [
+      {
+        "name": "Smart LED TV",
+        "page": "https://dir.indiamart.com/impcat/smart-led-tv.html",
+        "thumbnail": "http://4.imimg.com/data4/LP/AB/GLADMIN-183343/smart-led-tv-125x125.jpg"
+      },
+      {
+        "name": "Android Television",
+        "page": "https://dir.indiamart.com/impcat/android-television.html",
+        "thumbnail": "http://4.imimg.com/data4/OW/EL/GLADMIN-179884/android-television-125x125.jpg"
+      },
+      {
+        "name": "Curved Smart TV",
+        "page": "https://dir.indiamart.com/impcat/curved-smart-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324020908/AI/VF/IK/90177/curved-smart-tv-125x125.png"
+      },
+      {
+        "name": "4k Smart TV",
+        "page": "https://dir.indiamart.com/impcat/4k-smart-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324214543/SC/RF/ZO/90177/4k-smart-tv-125x125.png"
+      },
+      {
+        "name": "LCD Smart TV",
+        "page": "https://dir.indiamart.com/impcat/lcd-smart-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324019343/YX/RL/CH/90177/lcd-smart-tv-125x125.png"
+      },
+      {
+        "name": "QLED Smart TV",
+        "page": "https://dir.indiamart.com/impcat/qled-smart-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324017563/CR/JM/YO/90177/qled-smart-tv-125x125.png"
+      },
+      {
+        "name": "HDR Smart TV",
+        "page": "https://dir.indiamart.com/impcat/hdr-smart-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324218239/UX/WC/QX/90177/hdr-smart-tv-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "LED TV",
+    "category_thumbnail": "http://3.imimg.com/data3/BC/VD/GLADMIN-44612/led-television-125x125.jpg",
+    "items": [
+      {
+        "name": "LED TV Screen",
+        "page": "https://dir.indiamart.com/impcat/led-tv-screen.html",
+        "thumbnail": "http://5.imimg.com/data5/RU/AU/GB/GLADMIN-68087/led-tv-screen-125x125.png"
+      },
+      {
+        "name": "LED TV Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/led-tv-repairing-services.html",
+        "thumbnail": "http://5.imimg.com/data5/FF/FF/GLADMIN-/a-img922-9212-e0fmeg-125x125.jpg"
+      },
+      {
+        "name": "High Definition Television",
+        "page": "https://dir.indiamart.com/impcat/high-definition-television.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/VA/GLADMIN-55166/high-definition-television-125x125.jpg"
+      },
+      {
+        "name": "32 inch LED TV",
+        "page": "https://dir.indiamart.com/impcat/32-inch-led-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/313484646/BG/NF/PJ/88875/32-inch-led-tv-125x125.jpg"
+      },
+      {
+        "name": "QLED TV",
+        "page": "https://dir.indiamart.com/impcat/qled-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/SL/OR/GLADMIN-2/qled-tv-125x125.jpg"
+      },
+      {
+        "name": "OLED TV",
+        "page": "https://dir.indiamart.com/impcat/oled-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/OG/BS/GLADMIN-2/oled-tv-125x125.jpg"
+      },
+      {
+        "name": "Beston LED TV",
+        "page": "https://dir.indiamart.com/impcat/beston-led-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/CY/KG/KC/81953/beston-led-tv-125x125.jpg"
+      },
+      {
+        "name": "Flat TV",
+        "page": "https://dir.indiamart.com/impcat/flat-tv.html",
+        "thumbnail": "http://3.imimg.com/data3/VR/MU/GLADMIN-28564/flat-tv-125x125.jpg"
+      },
+      {
+        "name": "Commercial TV",
+        "page": "https://dir.indiamart.com/impcat/commercial-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/420338388/ZD/IS/EZ/23669/commercial-tv-125x125.jpg"
+      },
+      {
+        "name": "3D TV",
+        "page": "https://dir.indiamart.com/impcat/3d-television.html",
+        "thumbnail": "http://5.imimg.com/data5/HC/GR/GLADMIN-2/3d-tv-125x125.jpg"
+      },
+      {
+        "name": "Television Monitor",
+        "page": "https://dir.indiamart.com/impcat/television-monitor.html",
+        "thumbnail": "http://5.imimg.com/data5/AD/VC/GLADMIN-2/television-monitor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "TV Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/HL/UR/GLADMIN-117348/tv-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Android TV Box",
+        "page": "https://dir.indiamart.com/impcat/android-tv-box.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/KN/GLADMIN-177708/android-tv-box-125x125.jpg"
+      },
+      {
+        "name": "TV Remote Control",
+        "page": "https://dir.indiamart.com/impcat/tv-remote-control.html",
+        "thumbnail": "http://3.imimg.com/data3/BN/UB/GLADMIN-40429/tv-remote-control-125x125.jpg"
+      },
+      {
+        "name": "DTH Remote",
+        "page": "https://dir.indiamart.com/impcat/dth-remote.html",
+        "thumbnail": "http://3.imimg.com/data3/KV/WB/GLADMIN-143709/dth-remote-125x125.jpg"
+      },
+      {
+        "name": "TV Speaker",
+        "page": "https://dir.indiamart.com/impcat/tv-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/DR/OI/GLADMIN-2/tv-speaker-125x125.jpg"
+      },
+      {
+        "name": "USB TV Tuner",
+        "page": "https://dir.indiamart.com/impcat/usb-tv-tuner.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/EP/GLADMIN-40575/usb-tv-tuner-125x125.jpg"
+      },
+      {
+        "name": "TV Tuner Card",
+        "page": "https://dir.indiamart.com/impcat/tv-tuner-card.html",
+        "thumbnail": "http://3.imimg.com/data3/WE/VF/GLADMIN-40298/tv-tuner-card-125x125.jpg"
+      },
+      {
+        "name": "TV Cover",
+        "page": "https://dir.indiamart.com/impcat/tv-cover.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/RY/GLADMIN-90181/tv-cover-125x125.jpg"
+      },
+      {
+        "name": "TV Converter Boxes",
+        "page": "https://dir.indiamart.com/impcat/tv-converter-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/SL/GLADMIN-117350/tv-converter-boxes-125x125.jpg"
+      },
+      {
+        "name": "Air Mouse",
+        "page": "https://dir.indiamart.com/impcat/air-mouse.html",
+        "thumbnail": "http://5.imimg.com/data5/GI/MB/WE/GLADMIN-68087/air-mouse-125x125.jpg"
+      },
+      {
+        "name": "Digital TV Tuner",
+        "page": "https://dir.indiamart.com/impcat/digital-tv-tuner.html",
+        "thumbnail": "http://3.imimg.com/data3/BH/NF/GLADMIN-26230/digital-tv-tuner-125x125.jpg"
+      },
+      {
+        "name": "Digital TV",
+        "page": "https://dir.indiamart.com/impcat/digital-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/JR/YI/GLADMIN-2/digital-tv-125x125.jpg"
+      },
+      {
+        "name": "TV Satellite Splitter",
+        "page": "https://dir.indiamart.com/impcat/tv-satellite-splitter.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/AD/GLADMIN-118210/tv-satellite-splitter-125x125.jpg"
+      },
+      {
+        "name": "TV Video Adapter",
+        "page": "https://dir.indiamart.com/impcat/tv-video-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/MS/JL/GLADMIN-49806/tv-video-adapter-125x125.jpg"
+      },
+      {
+        "name": "TV Electron Gun Parts",
+        "page": "https://dir.indiamart.com/impcat/tv-electron-gun-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/YD/GLADMIN-177552/tv-electron-gun-parts-125x125.jpg"
+      },
+      {
+        "name": "PCMCIA TV Tuner Card",
+        "page": "https://dir.indiamart.com/impcat/pcmcia-tv-tuner-card.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/DM/GLADMIN-111767/pcmcia-tv-tuner-card-125x125.jpg"
+      },
+      {
+        "name": "Digital Satellite TV",
+        "page": "https://dir.indiamart.com/impcat/digital-satellite-tv.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/OD/GLADMIN-26212/digital-satellite-tv-125x125.jpg"
+      },
+      {
+        "name": "Video Pattern Generators",
+        "page": "https://dir.indiamart.com/impcat/video-pattern-generators.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/NH/GLADMIN-40716/video-pattern-generators-125x125.jpg"
+      },
+      {
+        "name": "TV Recorder",
+        "page": "https://dir.indiamart.com/impcat/tv-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/BQ/GLADMIN-40428/tv-recorder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "TV",
+    "category_thumbnail": "http://5.imimg.com/data5/OX/HK/GLADMIN-2/tv-125x125.jpg",
+    "items": [
+      {
+        "name": "LED TV",
+        "page": "https://dir.indiamart.com/impcat/led-television.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/VD/GLADMIN-44612/led-television-125x125.jpg"
+      },
+      {
+        "name": "Second Hand TV",
+        "page": "https://dir.indiamart.com/impcat/second-hand-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/SX/JC/VD/GLADMIN-68155/second-hand-tv-125x125.jpg"
+      },
+      {
+        "name": "Color Television",
+        "page": "https://dir.indiamart.com/impcat/color-television.html",
+        "thumbnail": "http://3.imimg.com/data3/HR/JJ/GLADMIN-3934/color-television-125x125.jpg"
+      },
+      {
+        "name": "Smart TV",
+        "page": "https://dir.indiamart.com/impcat/smart-tv.html",
+        "thumbnail": "http://4.imimg.com/data4/OS/VF/GLADMIN-180594/smart-tv-125x125.jpg"
+      },
+      {
+        "name": "4K TV",
+        "page": "https://dir.indiamart.com/impcat/4k-television.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/368859808/CW/SD/ZH/23669/4k-tv-125x125.jpg"
+      },
+      {
+        "name": "LCD Television",
+        "page": "https://dir.indiamart.com/impcat/lcd-television.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/XV/GLADMIN-30517/lcd-television-125x125.jpg"
+      },
+      {
+        "name": "TV Accessories",
+        "page": "https://dir.indiamart.com/impcat/tv-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/HL/UR/GLADMIN-117348/tv-accessories-125x125.jpg"
+      },
+      {
+        "name": "Plasma Television",
+        "page": "https://dir.indiamart.com/impcat/plasma-television.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/PS/GLADMIN-34481/plasma-television-125x125.jpg"
+      },
+      {
+        "name": "Curved Television",
+        "page": "https://dir.indiamart.com/impcat/curved-television.html",
+        "thumbnail": "http://4.imimg.com/data4/CQ/JH/GLADMIN-179887/curved-television-125x125.jpg"
+      },
+      {
+        "name": "Mirror TV",
+        "page": "https://dir.indiamart.com/impcat/mirror-tv.html",
+        "thumbnail": "http://5.imimg.com/data5/EO/TW/GLADMIN-2/mirror-tv-onoff-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Home Theater",
+    "category_thumbnail": "http://3.imimg.com/data3/FU/QX/GLADMIN-137935/home-theatre-125x125.jpg",
+    "items": [
+      {
+        "name": "Home Theater Speaker",
+        "page": "https://dir.indiamart.com/impcat/home-theater-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/AV/GLADMIN-29456/home-theater-speaker-125x125.jpg"
+      },
+      {
+        "name": "Home Theater Speaker System",
+        "page": "https://dir.indiamart.com/impcat/home-theater-speaker-system.html",
+        "thumbnail": "http://3.imimg.com/data3/SL/PI/GLADMIN-55167/home-theater-speaker-system-125x125.jpg"
+      },
+      {
+        "name": "Acoustic Home Theater",
+        "page": "https://dir.indiamart.com/impcat/acoustic-home-theater.html",
+        "thumbnail": "http://3.imimg.com/data3/IV/GE/GLADMIN-165813/acoustic-home-theater-125x125.jpg"
+      },
+      {
+        "name": "DVD Home Theater",
+        "page": "https://dir.indiamart.com/impcat/dvd-home-theater.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/LF/GLADMIN-27082/dvd-home-theater-125x125.jpg"
+      },
+      {
+        "name": "Wireless Home Theater",
+        "page": "https://dir.indiamart.com/impcat/wireless-home-theater.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/JD/GLADMIN-41301/wireless-home-theater-125x125.jpg"
+      },
+      {
+        "name": "Home Theater Solution",
+        "page": "https://dir.indiamart.com/impcat/home-theater-solution.html",
+        "thumbnail": "http://4.imimg.com/data4/QC/FV/GLADMIN-183605/home-theater-solution-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Set Top Box",
+    "category_thumbnail": "http://3.imimg.com/data3/EI/SC/GLADMIN-37614/set-top-box-125x125.jpg",
+    "items": [
+      {
+        "name": "HDTV Set Top Boxes",
+        "page": "https://dir.indiamart.com/impcat/hdtv-set-top-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/SF/GLADMIN-108333/hdtv-set-top-boxes-125x125.jpg"
+      },
+      {
+        "name": "DTH Kit",
+        "page": "https://dir.indiamart.com/impcat/dth-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/VX/GLADMIN-147382/dth-kit-125x125.jpg"
+      },
+      {
+        "name": "IP Set Top Box",
+        "page": "https://dir.indiamart.com/impcat/ip-set-top-box.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/RB/GLADMIN-31088/ip-set-top-box-125x125.jpg"
+      },
+      {
+        "name": "Cable Set Top Boxes",
+        "page": "https://dir.indiamart.com/impcat/cable-set-top-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/WA/GLADMIN-98684/cable-set-top-boxes-125x125.jpg"
+      },
+      {
+        "name": "Satellite Set Top Box",
+        "page": "https://dir.indiamart.com/impcat/satellite-set-top-box.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319942072/YA/EB/YL/96317/satellite-set-top-box-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Remote Control",
+    "category_thumbnail": "http://3.imimg.com/data3/SY/NM/GLADMIN-18557/remote-control-125x125.jpg",
+    "items": [
+      {
+        "name": "Remote Controller",
+        "page": "https://dir.indiamart.com/impcat/remote-controller.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/QM/GLADMIN-36205/remote-controller-125x125.jpg"
+      },
+      {
+        "name": "IR Remote Control",
+        "page": "https://dir.indiamart.com/impcat/ir-remote-control.html",
+        "thumbnail": "http://3.imimg.com/data3/WI/LY/GLADMIN-31096/ir-remote-control-125x125.jpg"
+      },
+      {
+        "name": "Universal Remote Control",
+        "page": "https://dir.indiamart.com/impcat/universal-remote-control.html",
+        "thumbnail": "http://3.imimg.com/data3/MW/RQ/GLADMIN-40527/universal-remote-control-125x125.jpg"
+      },
+      {
+        "name": "Light Remote Controller",
+        "page": "https://dir.indiamart.com/impcat/light-remote-controller.html",
+        "thumbnail": "http://5.imimg.com/data5/UP/RA/GLADMIN-2/light-remote-controller-125x125.jpg"
+      },
+      {
+        "name": "Process Monitoring System",
+        "page": "https://dir.indiamart.com/impcat/process-monitoring-system.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/MX/GLADMIN-34791/process-monitoring-system-125x125.jpg"
+      },
+      {
+        "name": "Electronic Remote Control",
+        "page": "https://dir.indiamart.com/impcat/electronic-remote-control.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/KK/GLADMIN-27653/electronic-remote-control-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Television Parts",
+    "category_thumbnail": "http://3.imimg.com/data3/KR/VV/GLADMIN-117176/television-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Color Picture Tube",
+        "page": "https://dir.indiamart.com/impcat/color-picture-tube.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/FS/GLADMIN-55153/color-picture-tube-125x125.jpg"
+      },
+      {
+        "name": "Deflection Yoke",
+        "page": "https://dir.indiamart.com/impcat/deflection-yoke.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/TH/GLADMIN-26438/deflection-yoke-125x125.jpg"
+      },
+      {
+        "name": "Picture Tubes",
+        "page": "https://dir.indiamart.com/impcat/picturetubes.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/XJ/MY-2/picture-tubes-125x125.jpg"
+      },
+      {
+        "name": "Cathode Ray Tubes",
+        "page": "https://dir.indiamart.com/impcat/cathode-ray-tubes.html",
+        "thumbnail": "http://3.imimg.com/data3/GA/JG/GLADMIN-24543/cathode-ray-tubes-125x125.jpg"
+      },
+      {
+        "name": "Set Back Box",
+        "page": "https://dir.indiamart.com/impcat/set-back-box.html",
+        "thumbnail": "http://3.imimg.com/data3/GO/VY/GLADMIN-65146/set-back-box-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "4K TV",
+        "page": "https://dir.indiamart.com/impcat/4k-television.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/368859808/CW/SD/ZH/23669/4k-tv-125x125.jpg"
+      },
+      {
+        "name": "LCD Television",
+        "page": "https://dir.indiamart.com/impcat/lcd-television.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/XV/GLADMIN-30517/lcd-television-125x125.jpg"
+      }
+    ]
+  }
+]

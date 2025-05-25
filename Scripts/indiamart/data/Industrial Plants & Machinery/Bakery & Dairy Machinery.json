@@ -1,0 +1,856 @@
+[
+  {
+    "category_name": "Ice Cream Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/HB/VF/MY-2/ice-cream-machine-s850c--125x125.jpg",
+    "items": [
+      {
+        "name": "Softy Making Machine",
+        "page": "https://dir.indiamart.com/impcat/softy-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/QR/MY-2/softy-making-machine1-125x125.jpg"
+      },
+      {
+        "name": "Ice Cream Mixing Machine",
+        "page": "https://dir.indiamart.com/impcat/ice-cream-mixing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/FS/LA/MY-2/ice-cream-mixing-125x125.jpg"
+      },
+      {
+        "name": "Ice Gola Machine",
+        "page": "https://dir.indiamart.com/impcat/ice-gola-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/MU/EN/MY-2/manual-ice-crusher-125x125.jpg"
+      },
+      {
+        "name": "Kulfi Machine",
+        "page": "https://dir.indiamart.com/impcat/kulfi-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/OF/MY-2/kulfi-machine1-125x125.jpg"
+      },
+      {
+        "name": "Ice Cream Plant",
+        "page": "https://dir.indiamart.com/impcat/ice-cream-plant.html",
+        "thumbnail": "http://4.imimg.com/data4/CE/HS/GLADMIN-181379/ice-cream-plant-125x125.jpg"
+      },
+      {
+        "name": "Fried Ice Cream Machines",
+        "page": "https://dir.indiamart.com/impcat/fried-ice-cream-machines.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/fried-ice-cream-machines-125x125.jpg"
+      },
+      {
+        "name": "Ice Cream Cone Making Machine",
+        "page": "https://dir.indiamart.com/impcat/ice-cream-cone-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/CV/MY-2/spin_prod_905266912-125x125.jpg"
+      },
+      {
+        "name": "Ice Cream Cone Filling Machine",
+        "page": "https://dir.indiamart.com/impcat/ice-cream-cone-filling-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/OI/GLADMIN-157957/ice-cream-cone-filling-machine-125x125.jpg"
+      },
+      {
+        "name": "Batch Freezer",
+        "page": "https://dir.indiamart.com/impcat/batch-freezer.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/VH/MY-2/batch-freezer1-125x125.jpg"
+      },
+      {
+        "name": "Ice Cream Hardener Machine",
+        "page": "https://dir.indiamart.com/impcat/ice-cream-hardener-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/LQ/OJ/TG/GLADMIN-76441/ice-cream-hardener-machine-125x125.jpg"
+      },
+      {
+        "name": "Roller Ice Cream Machine",
+        "page": "https://dir.indiamart.com/impcat/roller-ice-cream-machines.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/1/MP/YP/CR/92383/roller-ice-cream-machines-125x125.webp"
+      },
+      {
+        "name": "Milkshake Machine",
+        "page": "https://dir.indiamart.com/impcat/milkshake-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/RJ/MY-2/milkshake-125x125.jpg"
+      },
+      {
+        "name": "Yogurt Makers",
+        "page": "https://dir.indiamart.com/impcat/yogurt-makers.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/MO/MY-2/71bovy5edsl-_sl1500_-125x125.jpg"
+      },
+      {
+        "name": "Frozen Yogurt Machine",
+        "page": "https://dir.indiamart.com/impcat/frozen-yogurt-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/XX/GLADMIN-/frozen-yogurt-machine-125x125.jpg"
+      },
+      {
+        "name": "Ice Cream Candy Plant",
+        "page": "https://dir.indiamart.com/impcat/ice-cream-candy-plant.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/MM/GLADMIN-/ice-cream-candy-plant-125x125.jpg"
+      },
+      {
+        "name": "Rolled Sugar Cone Machine",
+        "page": "https://dir.indiamart.com/impcat/rolled-sugar-cone-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/WC/MY-2/rolled-sugar-cone-machine-125x125.jpg"
+      },
+      {
+        "name": "Ageing Vat",
+        "page": "https://dir.indiamart.com/impcat/ageing-vat.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/PU/MY-2/ageing-vat1-125x125.jpg"
+      },
+      {
+        "name": "Ice Cream Pasteurizer",
+        "page": "https://dir.indiamart.com/impcat/ice-cream-pasteurizer.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/AB/MY-2/2007871055577405-125x125.jpg"
+      },
+      {
+        "name": "Ripple Feeder",
+        "page": "https://dir.indiamart.com/impcat/ripple-feeder.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/VN/GLADMIN-111222/ripple-feeder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bakery Oven",
+    "category_thumbnail": "http://3.imimg.com/data3/EP/DP/GLADMIN-4209/bakery-oven-125x125.jpg",
+    "items": [
+      {
+        "name": "Pizza Oven",
+        "page": "https://dir.indiamart.com/impcat/pizza-oven.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/BI/MY-2/75085_1000x1000-125x125.jpg"
+      },
+      {
+        "name": "Deck Ovens",
+        "page": "https://dir.indiamart.com/impcat/deck-ovens.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/XE/MY-2/electric-deck-ovens-125x125.jpg"
+      },
+      {
+        "name": "Gas Rotary Rack Oven",
+        "page": "https://dir.indiamart.com/impcat/rotary-rack-oven.html",
+        "thumbnail": "http://5.imimg.com/data5/UL/EA/VC/GLADMIN-32016/rotary-rack-oven-125x125.jpg"
+      },
+      {
+        "name": "Conveyor Pizza Oven",
+        "page": "https://dir.indiamart.com/impcat/conveyor-pizza-oven.html",
+        "thumbnail": "http://4.imimg.com/data4/GW/OF/GLADMIN-185172/conveyor-pizza-oven-125x125.jpg"
+      },
+      {
+        "name": "Wood Fired Oven",
+        "page": "https://dir.indiamart.com/impcat/wood-fired-oven.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/TA/GLADMIN-161190/wood-fired-oven-125x125.jpg"
+      },
+      {
+        "name": "Convection Ovens",
+        "page": "https://dir.indiamart.com/impcat/convection-ovens.html",
+        "thumbnail": "http://5.imimg.com/data5/VO/NB/GLADMIN-2/co-double-deck-125x125.jpg"
+      },
+      {
+        "name": "Combi Oven",
+        "page": "https://dir.indiamart.com/impcat/combi-oven.html",
+        "thumbnail": "http://3.imimg.com/data3/BU/YJ/GLADMIN-122155/combi-oven-125x125.jpg"
+      },
+      {
+        "name": "Diesel Rotary Rack Oven",
+        "page": "https://dir.indiamart.com/impcat/diesel-rotary-rack-oven.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/407605483/LL/AH/AC/96317/diesel-rotary-rack-oven-125x125.png"
+      },
+      {
+        "name": "Electric Rotary Rack Oven",
+        "page": "https://dir.indiamart.com/impcat/electric-rotary-rack-oven.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/408658317/DZ/IQ/JA/96317/electric-rotary-rack-oven-125x125.png"
+      },
+      {
+        "name": "Stainless Steel Oven",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-oven.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/UT/GLADMIN-84830/stainless-steel-oven-125x125.jpg"
+      },
+      {
+        "name": "Tunnel Ovens",
+        "page": "https://dir.indiamart.com/impcat/tunnel-ovens.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/XK/GLADMIN-40283/tunnel-ovens-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Milk Processing Plant and Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/NT/IL/GLADMIN-5126/milk-processing-plants-125x125.jpg",
+    "items": [
+      {
+        "name": "Cream Separator",
+        "page": "https://dir.indiamart.com/impcat/cream-separator.html",
+        "thumbnail": "http://3.imimg.com/data3/HV/GP/MY-2/710f54o4rrl-_sl1500_-125x125.jpg"
+      },
+      {
+        "name": "Milk Boiler",
+        "page": "https://dir.indiamart.com/impcat/milk-boiler-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/SL/MY-2/145434253_enw-200d-125x125.jpg"
+      },
+      {
+        "name": "Mini Dairy Plant",
+        "page": "https://dir.indiamart.com/impcat/mini-dairy-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/LA/LP/MY-2/mini-dairy-plant-125x125.jpg"
+      },
+      {
+        "name": "Milk Pasteurization Plant",
+        "page": "https://dir.indiamart.com/impcat/milk-pasteurization-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/KS/LX/GLADMIN-32749/milk-pasteurization-plant-125x125.jpg"
+      },
+      {
+        "name": "Batch Milk Pasteurizer",
+        "page": "https://dir.indiamart.com/impcat/milk-pasteurizers.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/LI/GLADMIN-5123/milk-pasteurizers-125x125.jpg"
+      },
+      {
+        "name": "Milk Homogenizer",
+        "page": "https://dir.indiamart.com/impcat/milk-homogenizer.html",
+        "thumbnail": "http://4.imimg.com/data4/NN/UE/GLADMIN-183154/milk-homogenizer-125x125.jpg"
+      },
+      {
+        "name": "Milk Powder Plant",
+        "page": "https://dir.indiamart.com/impcat/milk-powder-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/LK/GLADMIN-133876/milk-powder-plant-125x125.jpg"
+      },
+      {
+        "name": "Curd Making Machines",
+        "page": "https://dir.indiamart.com/impcat/curd-making-machines.html",
+        "thumbnail": "http://5.imimg.com/data5/DE/SD/GLADMIN-2/curd-making-machines-125x125.jpg"
+      },
+      {
+        "name": "Milk Dairy Pump",
+        "page": "https://dir.indiamart.com/impcat/milk-pump.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/AH/MY-2/av1116-125x125.jpg"
+      },
+      {
+        "name": "Milk Chilling Plant",
+        "page": "https://dir.indiamart.com/impcat/milk-chilling-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/TN/PL/GLADMIN-145647/milk-chilling-plant-125x125.jpg"
+      },
+      {
+        "name": "Ghee Plant",
+        "page": "https://dir.indiamart.com/impcat/ghee-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/SS/GLADMIN-/assets-images-content-infrastructure_1_main-125x125.jpg"
+      },
+      {
+        "name": "Egg Pasteurization Machine",
+        "page": "https://dir.indiamart.com/impcat/egg-pasteurization-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/QR/JK/PF/GLADMIN-56986/egg-pasteurization-machine-125x125.jpg&width=720"
+      },
+      {
+        "name": "Milk Can Scrubber Machine",
+        "page": "https://dir.indiamart.com/impcat/milk-can-scrubber-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GF/VS/SU/GLADMIN-75568/milk-can-scrubber-machine-125x125.jpg"
+      },
+      {
+        "name": "Evaporated Milk Plant",
+        "page": "https://dir.indiamart.com/impcat/evaporated-milk-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/DA/GLADMIN-148247/evaporated-milk-plant-125x125.jpg"
+      },
+      {
+        "name": "Milk Can Scrubbing Brush",
+        "page": "https://dir.indiamart.com/impcat/milk-can-scrubbing-brush.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/TF/GLADMIN-177500/milk-can-scrubbing-brush-125x125.jpg"
+      },
+      {
+        "name": "Can Drip Saver",
+        "page": "https://dir.indiamart.com/impcat/can-drip-saver.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/YC/MY-2/can-drip-saver-125x125.jpg"
+      },
+      {
+        "name": "Milk Centrifuge Machine",
+        "page": "https://dir.indiamart.com/impcat/gerber-centrifuge.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/RK/GLADMIN-155108/milk-centrifuge-machine-125x125.jpg"
+      },
+      {
+        "name": "Skid Mounted Process Module",
+        "page": "https://dir.indiamart.com/impcat/skid-mounted-process-module.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/BS/MY-2/pump_skid_2-125x125.jpg"
+      },
+      {
+        "name": "Soya Curd Machine",
+        "page": "https://dir.indiamart.com/impcat/soya-curd-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/SD/XJ/MY-2/soya-curd-machine-125x125.jpg"
+      },
+      {
+        "name": "Curd Separator",
+        "page": "https://dir.indiamart.com/impcat/curd-separator.html",
+        "thumbnail": "http://4.imimg.com/data4/PK/IO/GLADMIN-178533/curd-separator-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bakery Machinery",
+    "category_thumbnail": "http://3.imimg.com/data3/UK/HT/MY-2/deck-125x125.jpg",
+    "items": [
+      {
+        "name": "Dough Mixers",
+        "page": "https://dir.indiamart.com/impcat/dough-mixers.html",
+        "thumbnail": "http://5.imimg.com/data5/NU/YP/AP/GLADMIN-32016/dough-mixers-125x125.jpg"
+      },
+      {
+        "name": "Bakery Oven",
+        "page": "https://dir.indiamart.com/impcat/bakery-oven.html",
+        "thumbnail": "http://3.imimg.com/data3/EP/DP/GLADMIN-4209/bakery-oven-125x125.jpg"
+      },
+      {
+        "name": "Batter Mixer Machine",
+        "page": "https://dir.indiamart.com/impcat/batter-mixer-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/YC/MY-2/batter-mixer-machine1-125x125.jpg"
+      },
+      {
+        "name": "Cake Making Machine",
+        "page": "https://dir.indiamart.com/impcat/cake-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/UM/JQ/GLADMIN-2/cake-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Biscuit Making Machinery",
+        "page": "https://dir.indiamart.com/impcat/biscuit-making-machinery.html",
+        "thumbnail": "http://3.imimg.com/data3/AE/SQ/MY-2/biscuit-depositor-machine-125x125.jpg"
+      },
+      {
+        "name": "Bread Making Machine",
+        "page": "https://dir.indiamart.com/impcat/bread-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/VH/JP/HW/GLADMIN-32016/bread-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Roundup Bun Toaster",
+        "page": "https://dir.indiamart.com/impcat/roundup-bun-toaster.html",
+        "thumbnail": "http://3.imimg.com/data3/DF/SR/MY-2/bun-grill-toaster-125x125.jpg"
+      },
+      {
+        "name": "Bakery Consultancy Service",
+        "page": "https://dir.indiamart.com/impcat/bakery-consulting.html",
+        "thumbnail": "http://3.imimg.com/data3/WA/NW/GLADMIN-176252/bakery-consulting-125x125.jpg"
+      },
+      {
+        "name": "Proving Cabinet",
+        "page": "https://dir.indiamart.com/impcat/proving-cabinet.html",
+        "thumbnail": "http://3.imimg.com/data3/UU/XB/GLADMIN-177019/proving-cabinet-125x125.jpg"
+      },
+      {
+        "name": "Confectionery Equipment",
+        "page": "https://dir.indiamart.com/impcat/confectionery-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/JS/MY-2/automatic-confectionery-funnel-571-179_zoom-125x125.jpg"
+      },
+      {
+        "name": "Bowl Lifting Devices",
+        "page": "https://dir.indiamart.com/impcat/bowl-lifting-devices.html",
+        "thumbnail": "http://3.imimg.com/data3/DB/JO/MY-2/ho-125x125.jpg"
+      },
+      {
+        "name": "Tilting Device",
+        "page": "https://dir.indiamart.com/impcat/tilting-device.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/OJ/GLADMIN-136607/tilting-device-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Milking Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/HV/AW/MY-2/image_27376-125x125.jpg",
+    "items": [
+      {
+        "name": "Milking Machine Parts",
+        "page": "https://dir.indiamart.com/impcat/milking-machine-parts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/328897047/JK/FN/PD/90177/milking-machine-parts-125x125.jpg"
+      },
+      {
+        "name": "Automatic Milk Collection Unit",
+        "page": "https://dir.indiamart.com/impcat/automatic-milk-collection-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/EL/MY-2/automatic-milk-collection-unit-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Gauges",
+        "page": "https://dir.indiamart.com/impcat/vacuum-gauges.html",
+        "thumbnail": "http://3.imimg.com/data3/TN/KR/GLADMIN-1539/vacuum-gauges-125x125.jpg"
+      },
+      {
+        "name": "Data Processor and Milk Collection Unit",
+        "page": "https://dir.indiamart.com/impcat/data-processing-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/PF/WH/GLADMIN-25347/data-processing-equipment-125x125.jpg"
+      },
+      {
+        "name": "Milking Parlour",
+        "page": "https://dir.indiamart.com/impcat/milking-parlor.html",
+        "thumbnail": "http://5.imimg.com/data5/CX/YM/AH/GLADMIN-75568/milking-parlour-125x125.png"
+      },
+      {
+        "name": "Milking Liners",
+        "page": "https://dir.indiamart.com/impcat/milking-liners.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335082886/WS/HD/DK/90177/milking-liners-125x125.jpg"
+      },
+      {
+        "name": "Milking Cluster",
+        "page": "https://dir.indiamart.com/impcat/milking-cluster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/328984885/NB/QV/JA/90177/milking-cluster-125x125.jpg"
+      },
+      {
+        "name": "CIP System",
+        "page": "https://dir.indiamart.com/impcat/clean-in-place-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/WJ/HR/GLADMIN-165614/cip-system-125x125.jpg"
+      },
+      {
+        "name": "Milking Claw",
+        "page": "https://dir.indiamart.com/impcat/milking-claw.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335086308/CW/SA/SF/90177/milking-claw-125x125.jpg"
+      },
+      {
+        "name": "Milk Meter",
+        "page": "https://dir.indiamart.com/impcat/milk-meter.html",
+        "thumbnail": "http://3.imimg.com/data3/BT/XJ/GLADMIN-162780/milk-meter-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Dough Mixers",
+    "category_thumbnail": "http://5.imimg.com/data5/NU/YP/AP/GLADMIN-32016/dough-mixers-125x125.jpg",
+    "items": [
+      {
+        "name": "Planetary Mixer",
+        "page": "https://dir.indiamart.com/impcat/planetary-mixer.html",
+        "thumbnail": "http://3.imimg.com/data3/TS/HG/MY-2/planetary-mixer-125x125.jpg"
+      },
+      {
+        "name": "Spiral Mixer",
+        "page": "https://dir.indiamart.com/impcat/spiral-mixer.html",
+        "thumbnail": "http://3.imimg.com/data3/BQ/NN/GLADMIN-20957/spiral-mixer-125x125.jpg"
+      },
+      {
+        "name": "Bakery Mixer",
+        "page": "https://dir.indiamart.com/impcat/bakery-mixer.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/EQ/MY-2/bakery-mixer-125x125.jpg"
+      },
+      {
+        "name": "Dough Sheeter",
+        "page": "https://dir.indiamart.com/impcat/dough-sheeter.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/IN/GLADMIN-20958/dough-sheeter-125x125.jpg"
+      },
+      {
+        "name": "Dough Divider",
+        "page": "https://dir.indiamart.com/impcat/dough-dividers.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/RL/MY-2/slim-1-125x125.jpg"
+      },
+      {
+        "name": "Dough Rounder",
+        "page": "https://dir.indiamart.com/impcat/dough-rounder.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/VT/GLADMIN-126776/dough-rounder-125x125.jpg"
+      },
+      {
+        "name": "Dough Moulder",
+        "page": "https://dir.indiamart.com/impcat/dough-moulder.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/DD/MY-2/mini-moulder-125x125.jpg"
+      },
+      {
+        "name": "Commercial Planetary Mixer",
+        "page": "https://dir.indiamart.com/impcat/commercial-planetary-mixer.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/405345234/ZA/UK/TA/90177/commercial-planetary-mixer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Biscuit Making Machinery",
+    "category_thumbnail": "http://3.imimg.com/data3/AE/SQ/MY-2/biscuit-depositor-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Deck Ovens",
+        "page": "https://dir.indiamart.com/impcat/deck-ovens.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/XE/MY-2/electric-deck-ovens-125x125.jpg"
+      },
+      {
+        "name": "Gas Rotary Rack Oven",
+        "page": "https://dir.indiamart.com/impcat/rotary-rack-oven.html",
+        "thumbnail": "http://5.imimg.com/data5/UL/EA/VC/GLADMIN-32016/rotary-rack-oven-125x125.jpg"
+      },
+      {
+        "name": "Dough Sheeter",
+        "page": "https://dir.indiamart.com/impcat/dough-sheeter.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/IN/GLADMIN-20958/dough-sheeter-125x125.jpg"
+      },
+      {
+        "name": "Biscuit & Cookies Dropping Machine",
+        "page": "https://dir.indiamart.com/impcat/cookie-dropping-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/QL/AA/MY-2/483-125x125.jpg"
+      },
+      {
+        "name": "Rusk Making Machine",
+        "page": "https://dir.indiamart.com/impcat/rusk-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/PH/OI/GLADMIN-2/rusk-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Cookies Machine",
+        "page": "https://dir.indiamart.com/impcat/cookies-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/PS/MY-2/cookies-machine-125x125.jpg"
+      },
+      {
+        "name": "Sugar Grinders",
+        "page": "https://dir.indiamart.com/impcat/sugar-grinders.html",
+        "thumbnail": "http://3.imimg.com/data3/CL/IY/MY-2/sugar-grinding-machine-125x125.jpg"
+      },
+      {
+        "name": "Dough Rounder",
+        "page": "https://dir.indiamart.com/impcat/dough-rounder.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/VT/GLADMIN-126776/dough-rounder-125x125.jpg"
+      },
+      {
+        "name": "Bakery Cooling Tunnels",
+        "page": "https://dir.indiamart.com/impcat/cooling-tunnels.html",
+        "thumbnail": "http://3.imimg.com/data3/JR/HH/MY-2/chocolate-cooling-tunnels-125x125.jpg"
+      },
+      {
+        "name": "Biscuit Rotary Cutting Machine",
+        "page": "https://dir.indiamart.com/impcat/biscuit-rotary-cutting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/GE/VH/GLADMIN-156087/biscuit-rotary-cutting-machine-125x125.jpg"
+      },
+      {
+        "name": "Biscuit Cream Sandwiching Machine",
+        "page": "https://dir.indiamart.com/impcat/biscuit-cream-sandwiching-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/AF/CM/GLADMIN-156084/biscuit-cream-sandwiching-machine-125x125.jpg"
+      },
+      {
+        "name": "Oil Spraying Machine",
+        "page": "https://dir.indiamart.com/impcat/oil-spraying-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/VN/LQ/MY-2/407-125x125.jpg"
+      },
+      {
+        "name": "Biscuit Die Roller",
+        "page": "https://dir.indiamart.com/impcat/biscuit-die-roller.html",
+        "thumbnail": "http://3.imimg.com/data3/EI/QI/GLADMIN-156749/biscuit-die-roller-125x125.jpg"
+      },
+      {
+        "name": "Dough Extruder",
+        "page": "https://dir.indiamart.com/impcat/dough-extruder.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/BX/GLADMIN-151961/dough-extruder-125x125.jpg"
+      },
+      {
+        "name": "Biscuit Grinder",
+        "page": "https://dir.indiamart.com/impcat/biscuit-grinder.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/QM/RJ/GLADMIN-32016/biscuit-grinder-125x125.jpg"
+      },
+      {
+        "name": "Cookie Filling Machine",
+        "page": "https://dir.indiamart.com/impcat/cookie-filling-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/408251324/ZU/SW/KA/96317/cookie-filling-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Sweets Making Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/JW/BA/MY-2/sweets-making-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Khoya Making Machine",
+        "page": "https://dir.indiamart.com/impcat/khoya-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/QM/MY-2/khoya-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Laddu Making Machine",
+        "page": "https://dir.indiamart.com/impcat/laddu-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/MB/GLADMIN-2/laddu-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Chikki Making Machine",
+        "page": "https://dir.indiamart.com/impcat/chikki-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/RH/IO/GLADMIN-2/chikki-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Rasgulla Making Machine",
+        "page": "https://dir.indiamart.com/impcat/rasgulla-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/BG/YU/GLADMIN-2/rasgulla-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Peda Making Machine",
+        "page": "https://dir.indiamart.com/impcat/peda-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320201537/TN/FT/PL/71486/peda-making-machine-125x125.png"
+      },
+      {
+        "name": "Halwa Making Machine",
+        "page": "https://dir.indiamart.com/impcat/halwa-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/HA/PE/GLADMIN-2/halwa-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Sweets Cutting Machine",
+        "page": "https://dir.indiamart.com/impcat/sweet-cutting-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/OB/RP/QR/GLADMIN-68087/sweet-cutting-machine-125x125.jpg"
+      },
+      {
+        "name": "Shrikhand Making Machine",
+        "page": "https://dir.indiamart.com/impcat/shrikhand-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/PH/GLADMIN-137750/shrikhand-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Soan Papdi Making Machine",
+        "page": "https://dir.indiamart.com/impcat/soan-papdi-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GF/JG/WM/GLADMIN-75568/soan-papdi-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Gulab Jamun Making Machine",
+        "page": "https://dir.indiamart.com/impcat/gulab-jamun-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/4/302575370/YR/JF/WJ/96809/gulab-jamun-making-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bread Making Machine",
+    "category_thumbnail": "http://5.imimg.com/data5/VH/JP/HW/GLADMIN-32016/bread-making-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Deck Ovens",
+        "page": "https://dir.indiamart.com/impcat/deck-ovens.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/XE/MY-2/electric-deck-ovens-125x125.jpg"
+      },
+      {
+        "name": "Gas Rotary Rack Oven",
+        "page": "https://dir.indiamart.com/impcat/rotary-rack-oven.html",
+        "thumbnail": "http://5.imimg.com/data5/UL/EA/VC/GLADMIN-32016/rotary-rack-oven-125x125.jpg"
+      },
+      {
+        "name": "Dough Sheeter",
+        "page": "https://dir.indiamart.com/impcat/dough-sheeter.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/IN/GLADMIN-20958/dough-sheeter-125x125.jpg"
+      },
+      {
+        "name": "Bread Slicer Machine",
+        "page": "https://dir.indiamart.com/impcat/bread-slicing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/ES/MV/GLADMIN-23581/bread-slicing-machine-125x125.jpg"
+      },
+      {
+        "name": "Inter Proofer",
+        "page": "https://dir.indiamart.com/impcat/inter-proofer.html",
+        "thumbnail": "http://3.imimg.com/data3/MI/CR/MY-2/proofer-125x125.jpg"
+      },
+      {
+        "name": "Dough Rounder",
+        "page": "https://dir.indiamart.com/impcat/dough-rounder.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/VT/GLADMIN-126776/dough-rounder-125x125.jpg"
+      },
+      {
+        "name": "Bread Baking Plant",
+        "page": "https://dir.indiamart.com/impcat/bread-baking-plants.html",
+        "thumbnail": "http://3.imimg.com/data3/OU/LM/GLADMIN-5370/bread-baking-plants-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Candy Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/LJ/IP/MY-2/candy-125x125.jpg",
+    "items": [
+      {
+        "name": "Cotton Candy Machine",
+        "page": "https://dir.indiamart.com/impcat/cotton-candy-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/QM/MY-2/cotton-candy-machine-125x125.jpg"
+      },
+      {
+        "name": "Ice Candy Making Machine",
+        "page": "https://dir.indiamart.com/impcat/ice-candy-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/CD/MY-2/26ice001-pl-09-125x125.jpg"
+      },
+      {
+        "name": "Candy Making Machine",
+        "page": "https://dir.indiamart.com/impcat/candy-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/LM/GLADMIN-161287/candy-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Lollipop Making Machine",
+        "page": "https://dir.indiamart.com/impcat/lollipop-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/CK/MY-2/lollipop-forming-machine-125x125.jpg"
+      },
+      {
+        "name": "Ice Lolly Machine",
+        "page": "https://dir.indiamart.com/impcat/ice-lolly-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/LA/DR/GLADMIN-2/ice-lolly-machine-125x125.jpg"
+      },
+      {
+        "name": "Toffee Making Machine",
+        "page": "https://dir.indiamart.com/impcat/toffee-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/NM/MY-2/toffee_making_machine-125x125.jpg"
+      },
+      {
+        "name": "Rope Sizer",
+        "page": "https://dir.indiamart.com/impcat/rope-sizer.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/XE/MY-2/rope-sizer-125x125.jpg"
+      },
+      {
+        "name": "Candy Sugar Plant",
+        "page": "https://dir.indiamart.com/impcat/candy-sugar-plant.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/JJ/GLADMIN-123940/candy-sugar-plant-125x125.jpg"
+      },
+      {
+        "name": "Batch Roller",
+        "page": "https://dir.indiamart.com/impcat/batch-roller.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/AX/MY-2/batch-roller-and-3-stage-rope-sizer-for-candy-125x125.jpg"
+      },
+      {
+        "name": "Used Cotton Candy Machine",
+        "page": "https://dir.indiamart.com/impcat/used-cotton-candy-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/AS/IM/FT/GLADMIN-56986/used-cotton-candy-machine-125x125.jpg"
+      },
+      {
+        "name": "Continuous Cooker",
+        "page": "https://dir.indiamart.com/impcat/continuous-cooker.html",
+        "thumbnail": "http://5.imimg.com/data5/CX/QL/KR/GLADMIN-68155/continuous-cooker-125x125.jpg"
+      },
+      {
+        "name": "Candy Vacuum Cooker",
+        "page": "https://dir.indiamart.com/impcat/candy-vacuum-cooker.html",
+        "thumbnail": "http://4.imimg.com/data4/VJ/PW/GLADMIN-183850/candy-vacuum-cooker-125x125.jpg"
+      },
+      {
+        "name": "Candy Kneader",
+        "page": "https://dir.indiamart.com/impcat/candy-kneader.html",
+        "thumbnail": "http://5.imimg.com/data5/RY/JI/VV/GLADMIN-68155/candy-kneader-125x125.png"
+      },
+      {
+        "name": "Vacuum Cooker",
+        "page": "https://dir.indiamart.com/impcat/vaccum-cooker.html",
+        "thumbnail": "http://4.imimg.com/data4/EC/ID/GLADMIN-131745/vacuum-cooker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Milk Can",
+    "category_thumbnail": "http://3.imimg.com/data3/GT/YH/MY-2/milk-can-125x125.jpg",
+    "items": [
+      {
+        "name": "Plastic Milk Can",
+        "page": "https://dir.indiamart.com/impcat/plastic-milk-can.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/FE/GLADMIN-/1-417426-small-images-plastic-milk-can-pmc-002-857166-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Milk Cans",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-milk-cans.html",
+        "thumbnail": "http://3.imimg.com/data3/TG/LG/GLADMIN-20521/stainless-steel-milk-cans-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Milk Cans",
+        "page": "https://dir.indiamart.com/impcat/aliminium-milk-cans.html",
+        "thumbnail": "http://3.imimg.com/data3/SP/CM/GLADMIN-20520/aluminium-milk-cans-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Cans",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-cans.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/12/AI/EX/PA/81953/stainless-steel-cans-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Milk Storage Tank and Silo",
+    "category_thumbnail": "http://3.imimg.com/data3/PN/PQ/MY-2/milk-storage-tank-125x125.jpg",
+    "items": [
+      {
+        "name": "Bulk Milk Cooler",
+        "page": "https://dir.indiamart.com/impcat/bulk-milk-cooler.html",
+        "thumbnail": "http://4.imimg.com/data4/HN/BC/GLADMIN-180568/bulk-milk-cooler-125x125.jpg"
+      },
+      {
+        "name": "Ice Bank Tank",
+        "page": "https://dir.indiamart.com/impcat/ice-bank-tank.html",
+        "thumbnail": "http://3.imimg.com/data3/XV/AR/GLADMIN-/static-images-userupload-slides-engineered_products-05004009-omega-25-11-2005-b-125x125.png"
+      },
+      {
+        "name": "Milk Dump Tank",
+        "page": "https://dir.indiamart.com/impcat/milk-dump-tank.html",
+        "thumbnail": "http://5.imimg.com/data5/KI/RK/QS/GLADMIN-65832/milk-dump-tank-125x125.jpg"
+      },
+      {
+        "name": "Blue Star Milk Coolers",
+        "page": "https://dir.indiamart.com/impcat/blue-star-milk-coolers.html",
+        "thumbnail": "http://4.imimg.com/data4/YL/GN/GLADMIN-182346/blue-star-milk-coolers-125x125.jpg"
+      },
+      {
+        "name": "Weigh Bowl",
+        "page": "https://dir.indiamart.com/impcat/weigh-bowl.html",
+        "thumbnail": "http://4.imimg.com/data4/IE/EL/GLADMIN-183542/weigh-bowl-125x125.jpg"
+      },
+      {
+        "name": "Ghee Storage and Settling Tank",
+        "page": "https://dir.indiamart.com/impcat/ghee-storage-tank.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/MK/MY-2/ghee-storage-tank2-125x125.jpg"
+      },
+      {
+        "name": "Butter Melting Vat",
+        "page": "https://dir.indiamart.com/impcat/butter-melting-vat.html",
+        "thumbnail": "http://5.imimg.com/data5/CR/QJ/BM/GLADMIN-73467/butter-melting-vat-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Butter Cheese & Paneer Making Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/PT/OH/GLADMIN-139873/cheese-production-machines-125x125.jpg",
+    "items": [
+      {
+        "name": "Paneer Making Machine",
+        "page": "https://dir.indiamart.com/impcat/paneer-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/TT/GLADMIN-139363/paneer-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Paneer and Cheese Press Machine",
+        "page": "https://dir.indiamart.com/impcat/paneer-press-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/WY/EC/GLADMIN-183197/paneer-press-machine-125x125.png"
+      },
+      {
+        "name": "Ghee Boiler Machine",
+        "page": "https://dir.indiamart.com/impcat/ghee-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/RU/JV/HO/GLADMIN-73467/ghee-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Butter Churner",
+        "page": "https://dir.indiamart.com/impcat/electric-butter-churner.html",
+        "thumbnail": "http://5.imimg.com/data5/LK/TI/ZE/GLADMIN-75568/butter-churner-125x125.png"
+      },
+      {
+        "name": "Butter Making Machine",
+        "page": "https://dir.indiamart.com/impcat/butter-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/SS/HJ/MY-2/butter-making-machine1-125x125.jpg"
+      },
+      {
+        "name": "Ghee Clarifier",
+        "page": "https://dir.indiamart.com/impcat/ghee-clarifier.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/II/MY-2/ghee-clarifier3-125x125.jpg"
+      },
+      {
+        "name": "Paneer Cutting Machine",
+        "page": "https://dir.indiamart.com/impcat/paneer-cutting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/YB/MY-2/paneer-cutting-machine-125x125.jpg"
+      },
+      {
+        "name": "Cheese Vat",
+        "page": "https://dir.indiamart.com/impcat/cheese-vat.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/PN/GLADMIN-177155/cheese-vat-125x125.jpg"
+      },
+      {
+        "name": "Butter Melting Vat",
+        "page": "https://dir.indiamart.com/impcat/butter-melting-vat.html",
+        "thumbnail": "http://5.imimg.com/data5/CR/QJ/BM/GLADMIN-73467/butter-melting-vat-125x125.jpg"
+      },
+      {
+        "name": "Butter Trolley",
+        "page": "https://dir.indiamart.com/impcat/butter-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/ST/AH/NJ/GLADMIN-76037/butter-trolley-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Chocolate Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/YO/WS/MY-2/1385141002-65552600-125x125.jpg",
+    "items": [
+      {
+        "name": "Chocolate Melting Machine",
+        "page": "https://dir.indiamart.com/impcat/chocolate-melting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/YY/MY-2/chocolate-melting-machine1-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Coating Machine",
+        "page": "https://dir.indiamart.com/impcat/chocolate-coating-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/VI/MY-2/drg20-125x125.jpg"
+      },
+      {
+        "name": "Tempering Machine",
+        "page": "https://dir.indiamart.com/impcat/tempering-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/OU/KK/MY-2/tempering-machine-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Moulding Machine",
+        "page": "https://dir.indiamart.com/impcat/chocolate-moulding-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/WG/BY/IV/GLADMIN-68155/chocolate-moulding-machine-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Enrobing Machine",
+        "page": "https://dir.indiamart.com/impcat/chocolate-enrobing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/PK/MY-2/chocolate-enrobing-machine-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Cooling Tunnels",
+        "page": "https://dir.indiamart.com/impcat/chocolate-cooling-tunnels.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/QD/MY-2/chocolate-cooling-tunnels-125x125.jpg"
+      }
+    ]
+  }
+]

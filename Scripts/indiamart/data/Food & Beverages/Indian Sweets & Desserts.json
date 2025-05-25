@@ -1,0 +1,906 @@
+[
+  {
+    "category_name": "Sweets",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/QE/XT/ZJ/92368/sweets-125x125.jpg",
+    "items": [
+      {
+        "name": "Soan Papdi",
+        "page": "https://dir.indiamart.com/impcat/soan-papdi.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/IL/UY/UT/92368/soan-papdi-125x125.jpeg"
+      },
+      {
+        "name": "Chikki",
+        "page": "https://dir.indiamart.com/impcat/chikki.html",
+        "thumbnail": "http://4.imimg.com/data4/LS/QM/GLADMIN-178217/chikki-125x125.jpg"
+      },
+      {
+        "name": "Halwa",
+        "page": "https://dir.indiamart.com/impcat/halwa.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/media-catalog-product-cache-1-image-9df78eab33525d08d6e5fb8d27136e95-m-u-mucchads-kadha_halwa-125x125.jpg"
+      },
+      {
+        "name": "Gulab Jamun",
+        "page": "https://dir.indiamart.com/impcat/gulab-jamun.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/YD/GQ/TN/86648/gulab-jamun-125x125.jpg"
+      },
+      {
+        "name": "Milk Sweets",
+        "page": "https://dir.indiamart.com/impcat/milk-sweets.html",
+        "thumbnail": "http://5.imimg.com/data5/YR/VF/GLADMIN-2/milk-sweets-125x125.jpg"
+      },
+      {
+        "name": "Laddu",
+        "page": "https://dir.indiamart.com/impcat/laddu.html",
+        "thumbnail": "http://4.imimg.com/data4/VQ/TB/GLADMIN-178097/laddu-125x125.jpg"
+      },
+      {
+        "name": "Dry Fruit Sweets",
+        "page": "https://dir.indiamart.com/impcat/dry-fruit-sweets.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/JR/GLADMIN-138813/dry-fruit-sweets-125x125.jpg"
+      },
+      {
+        "name": "Barfi",
+        "page": "https://dir.indiamart.com/impcat/barfi.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/332703242/NM/QN/SI/82392/barfi-125x125.webp"
+      },
+      {
+        "name": "Mixed Sweets",
+        "page": "https://dir.indiamart.com/impcat/mixed-sweets.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/mixed-sweets-125x125.jpg"
+      },
+      {
+        "name": "Petha",
+        "page": "https://dir.indiamart.com/impcat/petha.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZO/IX/CO/92368/petha-125x125.jpg"
+      },
+      {
+        "name": "Peda",
+        "page": "https://dir.indiamart.com/impcat/peda.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/peda-125x125.jpg"
+      },
+      {
+        "name": "Khaja",
+        "page": "https://dir.indiamart.com/impcat/khaja.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324404781/YF/QH/QJ/82392/khaja-125x125.jpg"
+      },
+      {
+        "name": "Sugar Free Sweets",
+        "page": "https://dir.indiamart.com/impcat/sugar-free-sweets.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/YP/GLADMIN-138814/sugar-free-sweets-125x125.jpg"
+      },
+      {
+        "name": "Assorted Sweets",
+        "page": "https://dir.indiamart.com/impcat/assorted-sweets.html",
+        "thumbnail": "http://5.imimg.com/data5/BK/PP/GLADMIN-2/assorted-sweets-125x125.jpg"
+      },
+      {
+        "name": "Khajur Sweet",
+        "page": "https://dir.indiamart.com/impcat/khajur-sweet.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/WT/RO/GLADMIN-56986/khajur-sweet-125x125.jpg"
+      },
+      {
+        "name": "Mewa Bite",
+        "page": "https://dir.indiamart.com/impcat/mewa-bite.html",
+        "thumbnail": "http://4.imimg.com/data4/UA/NJ/GLADMIN-185443/mewa-bite-125x125.jpg"
+      },
+      {
+        "name": "Modak",
+        "page": "https://dir.indiamart.com/impcat/modak.html",
+        "thumbnail": "http://4.imimg.com/data4/GP/GM/GLADMIN-185970/modak-125x125.jpg"
+      },
+      {
+        "name": "Gazak",
+        "page": "https://dir.indiamart.com/impcat/gazak.html",
+        "thumbnail": "http://4.imimg.com/data4/PU/DL/GLADMIN-178224/gazak-125x125.jpg"
+      },
+      {
+        "name": "Jalebi",
+        "page": "https://dir.indiamart.com/impcat/jalebi.html",
+        "thumbnail": "http://4.imimg.com/data4/NR/EX/GLADMIN-181809/jalebi-125x125.jpg"
+      },
+      {
+        "name": "Ghevar",
+        "page": "https://dir.indiamart.com/impcat/ghevar.html",
+        "thumbnail": "http://4.imimg.com/data4/CJ/VC/GLADMIN-185741/ghevar-125x125.jpg"
+      },
+      {
+        "name": "Adhirasam",
+        "page": "https://dir.indiamart.com/impcat/adhirasam.html",
+        "thumbnail": "http://4.imimg.com/data4/BG/BT/GLADMIN-2/adhirasam-125x125.jpg"
+      },
+      {
+        "name": "Ukadiche Modak",
+        "page": "https://dir.indiamart.com/impcat/ukadiche-modak.html",
+        "thumbnail": "http://5.imimg.com/data5/UX/YR/WR/GLADMIN-76037/ukadiche-modak-125x125.jpg"
+      },
+      {
+        "name": "Sweet Boondi",
+        "page": "https://dir.indiamart.com/impcat/sweet-boondi.html",
+        "thumbnail": "http://4.imimg.com/data4/ON/JA/GLADMIN-181215/sweet-boondi-125x125.jpg"
+      },
+      {
+        "name": "Balushahi",
+        "page": "https://dir.indiamart.com/impcat/balushahi.html",
+        "thumbnail": "http://4.imimg.com/data4/RP/XV/GLADMIN-181810/balushahi-125x125.jpg"
+      },
+      {
+        "name": "Gujiya",
+        "page": "https://dir.indiamart.com/impcat/gujiya.html",
+        "thumbnail": "http://4.imimg.com/data4/JW/NG/GLADMIN-185737/gujiya-125x125.jpg"
+      },
+      {
+        "name": "Pinni",
+        "page": "https://dir.indiamart.com/impcat/pinni.html",
+        "thumbnail": "http://4.imimg.com/data4/ON/LJ/GLADMIN-185974/pinni-125x125.jpg"
+      },
+      {
+        "name": "Kaju Sweets",
+        "page": "https://dir.indiamart.com/impcat/kaju-sweets.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/kaju-sweets-125x125.jpg"
+      },
+      {
+        "name": "Kardant",
+        "page": "https://dir.indiamart.com/impcat/karadant.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335665970/EZ/PY/YZ/97574/karadant-125x125.jpg"
+      },
+      {
+        "name": "Anjeer Sweet",
+        "page": "https://dir.indiamart.com/impcat/anjeer-sweet.html",
+        "thumbnail": "http://5.imimg.com/data5/HQ/JK/OB/GLADMIN-56986/anjeer-sweet-125x125.JPG"
+      },
+      {
+        "name": "Sutarfeni",
+        "page": "https://dir.indiamart.com/impcat/sutarfeni.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334451271/TL/NK/IB/97574/sutarfeni-125x125.png"
+      },
+      {
+        "name": "Bengali Sweets",
+        "page": "https://dir.indiamart.com/impcat/bengali-sweets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/338598356/WE/SH/MJ/82392/bengali-sweets-125x125.jpg"
+      },
+      {
+        "name": "Bikaneri Sweets",
+        "page": "https://dir.indiamart.com/impcat/bikaneri-sweets.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/UU/GLADMIN-/bikaneri-sweets-125x125.jpg"
+      },
+      {
+        "name": "Malpua",
+        "page": "https://dir.indiamart.com/impcat/malpua.html",
+        "thumbnail": "http://4.imimg.com/data4/FE/TN/GLADMIN-186435/malpua-125x125.jpg"
+      },
+      {
+        "name": "Amla Burfi",
+        "page": "https://dir.indiamart.com/impcat/amla-burfi.html",
+        "thumbnail": "http://4.imimg.com/data4/WF/GS/GLADMIN-180998/amla-burfi-125x125.jpg"
+      },
+      {
+        "name": "Gujarati Sweets",
+        "page": "https://dir.indiamart.com/impcat/gujarati-sweets.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/337460138/GS/DV/YR/82392/gujarati-sweets-125x125.jpg"
+      },
+      {
+        "name": "Imarti",
+        "page": "https://dir.indiamart.com/impcat/imarti.html",
+        "thumbnail": "http://4.imimg.com/data4/IX/TA/GLADMIN-185742/imarti-125x125.jpg"
+      },
+      {
+        "name": "Amarkhand",
+        "page": "https://dir.indiamart.com/impcat/amarkhand.html",
+        "thumbnail": "http://4.imimg.com/data4/QC/IS/GLADMIN-183539/amarkhand-125x125.jpg"
+      },
+      {
+        "name": "Panjiri",
+        "page": "https://dir.indiamart.com/impcat/panjiri.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335259957/EM/DN/QK/82392/panjiri-125x125"
+      },
+      {
+        "name": "Turkish Delight",
+        "page": "https://dir.indiamart.com/impcat/turkish-delight.html",
+        "thumbnail": "http://5.imimg.com/data5/SS/SS/GLADMIN-/a-img923-7313-jot6jo-125x125.jpg"
+      },
+      {
+        "name": "Chandrakala Sweet",
+        "page": "https://dir.indiamart.com/impcat/chandrakala-sweet.html",
+        "thumbnail": "http://5.imimg.com/data5/VQ/TU/YE/GLADMIN-81462/chandrakala-sweet-125x125.png"
+      },
+      {
+        "name": "Sweet Samosa",
+        "page": "https://dir.indiamart.com/impcat/sweet-samosa.html",
+        "thumbnail": "http://5.imimg.com/data5/ED/UO/JK/GLADMIN-81462/sweet-samosa-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Milk Sweets",
+    "category_thumbnail": "http://5.imimg.com/data5/YR/VF/GLADMIN-2/milk-sweets-125x125.jpg",
+    "items": [
+      {
+        "name": "Rasgulla",
+        "page": "https://dir.indiamart.com/impcat/rasgulla.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/UH/NF/OI/86648/rasgulla-125x125.jpg"
+      },
+      {
+        "name": "Gulab Jamun",
+        "page": "https://dir.indiamart.com/impcat/gulab-jamun.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/YD/GQ/TN/86648/gulab-jamun-125x125.jpg"
+      },
+      {
+        "name": "Milk Cake",
+        "page": "https://dir.indiamart.com/impcat/milk-cake.html",
+        "thumbnail": "http://3.imimg.com/data3/CV/LV/GLADMIN-5119/milk-cake-125x125.jpg"
+      },
+      {
+        "name": "Rabri",
+        "page": "https://dir.indiamart.com/impcat/rabri.html",
+        "thumbnail": "http://4.imimg.com/data4/RX/QW/GLADMIN-178403/rabri-125x125.jpg"
+      },
+      {
+        "name": "Mawa Burfi",
+        "page": "https://dir.indiamart.com/impcat/mawa-burfi.html",
+        "thumbnail": "http://5.imimg.com/data5/HK/SH/GLADMIN-2/mawa-burfi-500x500-125x125.jpg"
+      },
+      {
+        "name": "Rasmalai",
+        "page": "https://dir.indiamart.com/impcat/ras-malai.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/QN/QX/XO/86648/rasmalai-125x125.jpg"
+      },
+      {
+        "name": "Kalakand",
+        "page": "https://dir.indiamart.com/impcat/kalakand.html",
+        "thumbnail": "http://4.imimg.com/data4/TK/HG/GLADMIN-181814/kalakand-125x125.jpg"
+      },
+      {
+        "name": "Rajbhog",
+        "page": "https://dir.indiamart.com/impcat/rajbhog.html",
+        "thumbnail": "http://4.imimg.com/data4/FA/WW/GLADMIN-183626/rajbhog-125x125.jpg"
+      },
+      {
+        "name": "Milk Burfi",
+        "page": "https://dir.indiamart.com/impcat/milk-burfi.html",
+        "thumbnail": "http://4.imimg.com/data4/JC/FC/GLADMIN-183901/milk-burfi-125x125.jpg"
+      },
+      {
+        "name": "Chum Chum",
+        "page": "https://dir.indiamart.com/impcat/chum-chum.html",
+        "thumbnail": "http://4.imimg.com/data4/HD/QP/GLADMIN-2/chum-chum-125x125.jpg"
+      },
+      {
+        "name": "Basundi",
+        "page": "https://dir.indiamart.com/impcat/basundi.html",
+        "thumbnail": "http://5.imimg.com/data5/KJ/SS/DN/GLADMIN-68087/basundi-125x125.png"
+      },
+      {
+        "name": "Ghevar",
+        "page": "https://dir.indiamart.com/impcat/ghevar.html",
+        "thumbnail": "http://4.imimg.com/data4/CJ/VC/GLADMIN-185741/ghevar-125x125.jpg"
+      },
+      {
+        "name": "Malai Laddu",
+        "page": "https://dir.indiamart.com/impcat/malai-laddu.html",
+        "thumbnail": "http://5.imimg.com/data5/CQ/NQ/GLADMIN-2/malai-laddu-125x125.jpg"
+      },
+      {
+        "name": "Rasbhari Sweet",
+        "page": "https://dir.indiamart.com/impcat/rasbhari-sweet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/9/347275000/EL/LN/VJ/97574/rasbhari-sweet-125x125.webp"
+      },
+      {
+        "name": "Kesar Bati",
+        "page": "https://dir.indiamart.com/impcat/kesar-bati.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/333846630/IG/WJ/JZ/97574/kesar-bati-125x125.png"
+      },
+      {
+        "name": "Kala Jamun",
+        "page": "https://dir.indiamart.com/impcat/kala-jamun.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334902111/TY/JA/JL/97574/kala-jamun-125x125.jpg"
+      },
+      {
+        "name": "Ghari Sweet",
+        "page": "https://dir.indiamart.com/impcat/ghari-sweet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335667804/SR/PM/BZ/97574/ghari-sweet-125x125.jpg"
+      },
+      {
+        "name": "Sandesh",
+        "page": "https://dir.indiamart.com/impcat/sandesh.html",
+        "thumbnail": "http://4.imimg.com/data4/BP/TJ/GLADMIN-185745/sandesh-125x125.jpg"
+      },
+      {
+        "name": "Kheer Kadam",
+        "page": "https://dir.indiamart.com/impcat/kheer-kadam.html",
+        "thumbnail": "http://4.imimg.com/data4/HH/HQ/GLADMIN-2/kheer-kadam-125x125.jpg"
+      },
+      {
+        "name": "Shahi Tukda",
+        "page": "https://dir.indiamart.com/impcat/shahi-tukda.html",
+        "thumbnail": "http://4.imimg.com/data4/LV/VE/GLADMIN-185973/shahi-tukda-125x125.jpg"
+      },
+      {
+        "name": "Mawa Bati",
+        "page": "https://dir.indiamart.com/impcat/mawa-bati.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/9/343568026/BB/LD/OP/97574/mawa-bati-125x125.jpg"
+      },
+      {
+        "name": "Malai Roll",
+        "page": "https://dir.indiamart.com/impcat/malai-roll.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334979324/HO/UD/DD/82392/malai-roll-125x125.jpeg"
+      }
+    ]
+  },
+  {
+    "category_name": "Chikki",
+    "category_thumbnail": "http://4.imimg.com/data4/LS/QM/GLADMIN-178217/chikki-125x125.jpg",
+    "items": [
+      {
+        "name": "Groundnut Chikki",
+        "page": "https://dir.indiamart.com/impcat/groundnut-chikki.html",
+        "thumbnail": "http://4.imimg.com/data4/BE/JB/GLADMIN-178216/groundnut-chikki-125x125.jpg"
+      },
+      {
+        "name": "Jaggery Chikki",
+        "page": "https://dir.indiamart.com/impcat/jaggery-chikki.html",
+        "thumbnail": "http://4.imimg.com/data4/CF/YT/GLADMIN-178509/jaggery-chikki-125x125.jpg"
+      },
+      {
+        "name": "Til Chikki",
+        "page": "https://dir.indiamart.com/impcat/til-chikki.html",
+        "thumbnail": "http://4.imimg.com/data4/WF/VM/GLADMIN-178218/til-chikki-125x125.jpg"
+      },
+      {
+        "name": "Dry Fruit Chikki",
+        "page": "https://dir.indiamart.com/impcat/dry-fruit-chikki.html",
+        "thumbnail": "http://4.imimg.com/data4/NH/EO/GLADMIN-178305/dry-fruit-chikki-125x125.jpg"
+      },
+      {
+        "name": "Peanut Butter Chikki",
+        "page": "https://dir.indiamart.com/impcat/peanut-butter-chikki.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335404127/AK/JB/FJ/97574/peanut-butter-chikki-125x125.jpg"
+      },
+      {
+        "name": "Mawa Chikki",
+        "page": "https://dir.indiamart.com/impcat/mawa-chikki.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334460010/QL/EL/NP/97574/mawa-chikki-125x125.png"
+      },
+      {
+        "name": "Badam Chikki",
+        "page": "https://dir.indiamart.com/impcat/badam-chikki.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335662532/WI/VL/WG/82392/badam-chikki-125x125"
+      },
+      {
+        "name": "Coconut Chikki",
+        "page": "https://dir.indiamart.com/impcat/coconut-chikki.html",
+        "thumbnail": "http://4.imimg.com/data4/RH/AK/GLADMIN-178219/coconut-chikki-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Chikki",
+        "page": "https://dir.indiamart.com/impcat/chocolate-chikki.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334898785/BL/WK/ZU/97574/chocolate-chikki-125x125.jpg"
+      },
+      {
+        "name": "Rajgira Chikki",
+        "page": "https://dir.indiamart.com/impcat/rajgira-chikki.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334457712/AK/AT/SJ/97574/rajgira-chikki-125x125.png"
+      },
+      {
+        "name": "Kaju Chikki",
+        "page": "https://dir.indiamart.com/impcat/kaju-chikki.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334898288/QB/TZ/OW/97574/kaju-chikki-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Laddu",
+    "category_thumbnail": "http://4.imimg.com/data4/VQ/TB/GLADMIN-178097/laddu-125x125.jpg",
+    "items": [
+      {
+        "name": "Til Laddu",
+        "page": "https://dir.indiamart.com/impcat/til-laddu.html",
+        "thumbnail": "http://4.imimg.com/data4/YR/UT/GLADMIN-183969/til-laddu-125x125.jpg"
+      },
+      {
+        "name": "Rajgira Ladoo",
+        "page": "https://dir.indiamart.com/impcat/rajgeera-ladoo.html",
+        "thumbnail": "http://3.imimg.com/data3/PX/DP/GLADMIN-178103/rajgeera-ladoo-125x125.jpg"
+      },
+      {
+        "name": "Motichoor Laddu",
+        "page": "https://dir.indiamart.com/impcat/motichoor-laddu.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/CE/GLADMIN-178101/motichoor-laddu-125x125.jpg"
+      },
+      {
+        "name": "Coconut Laddu",
+        "page": "https://dir.indiamart.com/impcat/coconut-laddu.html",
+        "thumbnail": "http://4.imimg.com/data4/GM/HU/GLADMIN-185747/coconut-laddu-125x125.jpg"
+      },
+      {
+        "name": "Boondi Laddu",
+        "page": "https://dir.indiamart.com/impcat/boondi-laddu.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/MU/GLADMIN-178098/boondi-laddu-125x125.jpg"
+      },
+      {
+        "name": "Besan Laddu",
+        "page": "https://dir.indiamart.com/impcat/besan-laddu.html",
+        "thumbnail": "http://3.imimg.com/data3/MQ/XW/GLADMIN-178099/besan-laddu-125x125.jpg"
+      },
+      {
+        "name": "Gond Laddu",
+        "page": "https://dir.indiamart.com/impcat/gond-laddu.html",
+        "thumbnail": "http://4.imimg.com/data4/HQ/YY/GLADMIN-185971/gond-laddu-125x125.jpg"
+      },
+      {
+        "name": "Dink Ladoo",
+        "page": "https://dir.indiamart.com/impcat/dink-ladoo.html",
+        "thumbnail": "http://4.imimg.com/data4/AQ/AK/GLADMIN-182547/dink-ladoo-125x125.jpg"
+      },
+      {
+        "name": "Shengdana Ladoo",
+        "page": "https://dir.indiamart.com/impcat/shengdana-ladoo.html",
+        "thumbnail": "http://5.imimg.com/data5/NR/GU/GLADMIN-2/shengdana-ladoo-125x125.jpg"
+      },
+      {
+        "name": "Amla Ladoo",
+        "page": "https://dir.indiamart.com/impcat/amla-ladoo.html",
+        "thumbnail": "http://4.imimg.com/data4/JP/TU/GLADMIN-183424/amla-ladoo-125x125.jpg"
+      },
+      {
+        "name": "Peanut Ladoo",
+        "page": "https://dir.indiamart.com/impcat/peanut-ladoo.html",
+        "thumbnail": "http://5.imimg.com/data5/AX/CN/MK/GLADMIN-68155/peanut-ladoo-125x125.jpg"
+      },
+      {
+        "name": "Mewa Laddu",
+        "page": "https://dir.indiamart.com/impcat/mewa-laddu.html",
+        "thumbnail": "http://3.imimg.com/data3/OK/RV/GLADMIN-178100/mewa-laddu-125x125.jpg"
+      },
+      {
+        "name": "Ragi Ladoo",
+        "page": "https://dir.indiamart.com/impcat/ragi-ladoo.html",
+        "thumbnail": "http://4.imimg.com/data4/VR/PL/GLADMIN-178140/ragi-ladoo-125x125.jpg"
+      },
+      {
+        "name": "Malai Laddu",
+        "page": "https://dir.indiamart.com/impcat/malai-laddu.html",
+        "thumbnail": "http://5.imimg.com/data5/CQ/NQ/GLADMIN-2/malai-laddu-125x125.jpg"
+      },
+      {
+        "name": "Panjiri Laddu",
+        "page": "https://dir.indiamart.com/impcat/panjiri-laddu.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335555970/TI/GN/RQ/82392/panjiri-laddu-125x125.png"
+      },
+      {
+        "name": "Atta Ladoo",
+        "page": "https://dir.indiamart.com/impcat/atta-ladoo.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335307224/CR/BY/SC/82392/atta-ladoo-125x125.jpg"
+      },
+      {
+        "name": "Rava Laddu",
+        "page": "https://dir.indiamart.com/impcat/rava-laddu.html",
+        "thumbnail": "http://4.imimg.com/data4/BW/TU/GLADMIN-185743/rava-laddu-125x125.jpg"
+      },
+      {
+        "name": "Moong Ladoo",
+        "page": "https://dir.indiamart.com/impcat/moong-ladoo.html",
+        "thumbnail": "http://4.imimg.com/data4/KT/EP/GLADMIN-183547/moong-ladoo-125x125.jpg"
+      },
+      {
+        "name": "Churma Ladoo",
+        "page": "https://dir.indiamart.com/impcat/churma-ladoo.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335666526/SM/DS/PI/97574/churma-ladoo-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Gazak",
+    "category_thumbnail": "http://4.imimg.com/data4/PU/DL/GLADMIN-178224/gazak-125x125.jpg",
+    "items": [
+      {
+        "name": "Til Gajak",
+        "page": "https://dir.indiamart.com/impcat/til-gajak.html",
+        "thumbnail": "http://4.imimg.com/data4/FU/CD/GLADMIN-180155/til-gajak-125x125.jpg"
+      },
+      {
+        "name": "Gud Gajak",
+        "page": "https://dir.indiamart.com/impcat/gud-gajak.html",
+        "thumbnail": "http://4.imimg.com/data4/HA/LA/GLADMIN-180156/gud-gajak-125x125.jpg"
+      },
+      {
+        "name": "Revdi",
+        "page": "https://dir.indiamart.com/impcat/revdi.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334147306/OO/AR/PE/82392/revdi-125x125.jpg"
+      },
+      {
+        "name": "Khasta Gajak",
+        "page": "https://dir.indiamart.com/impcat/khasta-gazak.html",
+        "thumbnail": "http://4.imimg.com/data4/DR/GR/GLADMIN-178309/khasta-gazak-125x125.jpg"
+      },
+      {
+        "name": "Morena Gajak",
+        "page": "https://dir.indiamart.com/impcat/morena-gajak.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324753433/BN/HB/LB/82392/morena-gajak-125x125.jpg"
+      },
+      {
+        "name": "Kaju Gajak",
+        "page": "https://dir.indiamart.com/impcat/kaju-gajak.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334157847/QL/YT/OL/82392/kaju-gajak-125x125.jpg"
+      },
+      {
+        "name": "Mewa Gazak",
+        "page": "https://dir.indiamart.com/impcat/mewa-gazak.html",
+        "thumbnail": "http://4.imimg.com/data4/KY/QE/GLADMIN-178507/mewa-gazak-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Soan Papdi",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/IL/UY/UT/92368/soan-papdi-125x125.jpeg",
+    "items": [
+      {
+        "name": "Elaichi Soan Papdi",
+        "page": "https://dir.indiamart.com/impcat/elaichi-soan-papdi.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/CC/GLADMIN-/image-cache-data-products-pethawalaagra-dry-sohan-papdi-500x500-125x125.jpg"
+      },
+      {
+        "name": "Soan Roll",
+        "page": "https://dir.indiamart.com/impcat/soan-roll.html",
+        "thumbnail": "http://5.imimg.com/data5/AY/IB/GLADMIN-2/soan-roll-125x125.jpg"
+      },
+      {
+        "name": "Orange Soan Papdi",
+        "page": "https://dir.indiamart.com/impcat/orange-soan-papdi.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/a-img923-9950-79xmid-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Soan Papdi",
+        "page": "https://dir.indiamart.com/impcat/chocolate-soan-papdi.html",
+        "thumbnail": "http://5.imimg.com/data5/JS/WK/GLADMIN-2/chocolate-soan-papdi-125x125.jpg"
+      },
+      {
+        "name": "Pineapple Soan Papdi",
+        "page": "https://dir.indiamart.com/impcat/pineapple-soan-papdi.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/images-i-517k3rlnbil-125x125.jpg"
+      },
+      {
+        "name": "Soan Cake",
+        "page": "https://dir.indiamart.com/impcat/soan-cake.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/337245921/WL/VF/LZ/97574/soan-cake-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bengali Sweets",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/338598356/WE/SH/MJ/82392/bengali-sweets-125x125.jpg",
+    "items": [
+      {
+        "name": "Rasgulla",
+        "page": "https://dir.indiamart.com/impcat/rasgulla.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/UH/NF/OI/86648/rasgulla-125x125.jpg"
+      },
+      {
+        "name": "Rajbhog",
+        "page": "https://dir.indiamart.com/impcat/rajbhog.html",
+        "thumbnail": "http://4.imimg.com/data4/FA/WW/GLADMIN-183626/rajbhog-125x125.jpg"
+      },
+      {
+        "name": "Chum Chum",
+        "page": "https://dir.indiamart.com/impcat/chum-chum.html",
+        "thumbnail": "http://4.imimg.com/data4/HD/QP/GLADMIN-2/chum-chum-125x125.jpg"
+      },
+      {
+        "name": "Sandesh",
+        "page": "https://dir.indiamart.com/impcat/sandesh.html",
+        "thumbnail": "http://4.imimg.com/data4/BP/TJ/GLADMIN-185745/sandesh-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Barfi",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/332703242/NM/QN/SI/82392/barfi-125x125.webp",
+    "items": [
+      {
+        "name": "Mysore pak",
+        "page": "https://dir.indiamart.com/impcat/mysore-pak.html",
+        "thumbnail": "http://4.imimg.com/data4/GI/QD/GLADMIN-185749/mysore-pak-125x125.jpg"
+      },
+      {
+        "name": "Mawa Burfi",
+        "page": "https://dir.indiamart.com/impcat/mawa-burfi.html",
+        "thumbnail": "http://5.imimg.com/data5/HK/SH/GLADMIN-2/mawa-burfi-500x500-125x125.jpg"
+      },
+      {
+        "name": "Coconut Burfi",
+        "page": "https://dir.indiamart.com/impcat/coconut-burfi.html",
+        "thumbnail": "http://4.imimg.com/data4/TQ/NK/GLADMIN-181816/coconut-burfi-125x125.jpg"
+      },
+      {
+        "name": "Milk Burfi",
+        "page": "https://dir.indiamart.com/impcat/milk-burfi.html",
+        "thumbnail": "http://4.imimg.com/data4/JC/FC/GLADMIN-183901/milk-burfi-125x125.jpg"
+      },
+      {
+        "name": "Khajur Pak",
+        "page": "https://dir.indiamart.com/impcat/khajur-pak.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335549327/UT/ZA/GO/82392/khajur-pak-125x125.jpg"
+      },
+      {
+        "name": "Doda Barfi",
+        "page": "https://dir.indiamart.com/impcat/doda-barfi.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/333845324/YE/KC/ZS/97574/doda-barfi-125x125.png"
+      },
+      {
+        "name": "Besan Burfi",
+        "page": "https://dir.indiamart.com/impcat/besan-burfi.html",
+        "thumbnail": "http://4.imimg.com/data4/YU/FP/GLADMIN-185972/besan-burfi-125x125.jpg"
+      },
+      {
+        "name": "Mohanthal",
+        "page": "https://dir.indiamart.com/impcat/mohanthal.html",
+        "thumbnail": "http://4.imimg.com/data4/VU/VQ/GLADMIN-185748/mohanthal-125x125.jpg"
+      },
+      {
+        "name": "Mango Burfi",
+        "page": "https://dir.indiamart.com/impcat/mango-burfi.html",
+        "thumbnail": "http://4.imimg.com/data4/SU/HU/GLADMIN-181002/mango-burfi-125x125.jpg"
+      },
+      {
+        "name": "Santra Barfi",
+        "page": "https://dir.indiamart.com/impcat/santra-barfi.html",
+        "thumbnail": "http://5.imimg.com/data5/SG/NS/JC/GLADMIN-68155/santra-barfi-125x125.jpg"
+      },
+      {
+        "name": "Dry Fruit Barfi",
+        "page": "https://dir.indiamart.com/impcat/dry-fruit-barfi.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335571276/PC/DO/ZJ/82392/dry-fruit-barfi-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Burfi",
+        "page": "https://dir.indiamart.com/impcat/chocolate-burfi.html",
+        "thumbnail": "http://4.imimg.com/data4/FO/LL/GLADMIN-181000/chocolate-burfi-125x125.jpg"
+      },
+      {
+        "name": "Badam Burfi",
+        "page": "https://dir.indiamart.com/impcat/badam-burfi.html",
+        "thumbnail": "http://4.imimg.com/data4/RO/BJ/GLADMIN-181817/badam-burfi-125x125.jpg"
+      },
+      {
+        "name": "Peanut Barfi",
+        "page": "https://dir.indiamart.com/impcat/peanut-barfi.html",
+        "thumbnail": "http://5.imimg.com/data5/UT/GH/YW/GLADMIN-68155/peanut-barfi-125x125.jpg"
+      },
+      {
+        "name": "Kaju Pista Barfi",
+        "page": "https://dir.indiamart.com/impcat/kaju-pista-barfi.html",
+        "thumbnail": "http://4.imimg.com/data4/VK/AY/GLADMIN-180946/kaju-pista-barfi-125x125.jpg"
+      },
+      {
+        "name": "Pista Burfi",
+        "page": "https://dir.indiamart.com/impcat/pista-burfi.html",
+        "thumbnail": "http://4.imimg.com/data4/CY/HN/GLADMIN-183771/pista-burfi-125x125.jpg"
+      },
+      {
+        "name": "Moong Dal Barfi",
+        "page": "https://dir.indiamart.com/impcat/moong-dal-barfi.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335579685/HF/IA/FB/82392/moong-dal-barfi-125x125.jpg"
+      },
+      {
+        "name": "Moti Pak",
+        "page": "https://dir.indiamart.com/impcat/moti-pak.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335668025/PN/MK/IG/97574/moti-pak-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Halwa",
+    "category_thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/media-catalog-product-cache-1-image-9df78eab33525d08d6e5fb8d27136e95-m-u-mucchads-kadha_halwa-125x125.jpg",
+    "items": [
+      {
+        "name": "Carrot Halwa",
+        "page": "https://dir.indiamart.com/impcat/gajar-halwa.html",
+        "thumbnail": "http://4.imimg.com/data4/HM/CE/GLADMIN-181811/gajar-halwa-125x125.jpg"
+      },
+      {
+        "name": "Sohan halwa",
+        "page": "https://dir.indiamart.com/impcat/sohan-halwa.html",
+        "thumbnail": "http://4.imimg.com/data4/UF/ED/GLADMIN-185744/sohan-halwa-125x125.jpg"
+      },
+      {
+        "name": "Tirunelveli Halwa",
+        "page": "https://dir.indiamart.com/impcat/tirunelveli-halwa.html",
+        "thumbnail": "http://4.imimg.com/data4/OD/NF/GLADMIN-178414/tirunelveli-halwa-125x125.jpg"
+      },
+      {
+        "name": "Karachi Halwa",
+        "page": "https://dir.indiamart.com/impcat/karachi-halwa.html",
+        "thumbnail": "http://4.imimg.com/data4/MH/SO/GLADMIN-185750/karachi-halwa-125x125.png"
+      },
+      {
+        "name": "Moong Dal Halwa",
+        "page": "https://dir.indiamart.com/impcat/moong-dal-halwa.html",
+        "thumbnail": "http://4.imimg.com/data4/VV/SN/GLADMIN-178368/moong-dal-halwa-125x125.jpg"
+      },
+      {
+        "name": "Ice Halwa",
+        "page": "https://dir.indiamart.com/impcat/ice-halwa.html",
+        "thumbnail": "http://3.imimg.com/data3/FF/SM/GLADMIN-30777/ice-halwa-125x125.jpg"
+      },
+      {
+        "name": "Wheat Halwa",
+        "page": "https://dir.indiamart.com/impcat/wheat-halwa.html",
+        "thumbnail": "http://4.imimg.com/data4/AK/PF/GLADMIN-178387/wheat-halwa-125x125.jpg"
+      },
+      {
+        "name": "Badam halwa",
+        "page": "https://dir.indiamart.com/impcat/badam-halwa.html",
+        "thumbnail": "http://4.imimg.com/data4/PK/CY/GLADMIN-185740/badam-halwa-125x125.jpg"
+      },
+      {
+        "name": "Suji Halwa",
+        "page": "https://dir.indiamart.com/impcat/suji-halwa.html",
+        "thumbnail": "http://4.imimg.com/data4/UV/XQ/GLADMIN-178385/suji-halwa-125x125.jpg"
+      },
+      {
+        "name": "Pineapple Halwa",
+        "page": "https://dir.indiamart.com/impcat/pineapple-halwa.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335327605/FF/BS/QU/97574/pineapple-halwa-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Peda",
+    "category_thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/peda-125x125.jpg",
+    "items": [
+      {
+        "name": "Malai Peda",
+        "page": "https://dir.indiamart.com/impcat/malai-peda.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/TC/GLADMIN-32498/malai-peda-125x125.jpg"
+      },
+      {
+        "name": "Coconut Peda",
+        "page": "https://dir.indiamart.com/impcat/coconut-peda.html",
+        "thumbnail": "http://5.imimg.com/data5/CG/FJ/TM/GLADMIN-56986/coconut-peda-125x125.jpg"
+      },
+      {
+        "name": "Kesar Peda",
+        "page": "https://dir.indiamart.com/impcat/kesar-peda.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/QQ/GLADMIN-/kesar-peda-125x125.jpg"
+      },
+      {
+        "name": "Dharwad Pedha",
+        "page": "https://dir.indiamart.com/impcat/dharwad-pedha.html",
+        "thumbnail": "http://4.imimg.com/data4/WI/LE/GLADMIN-185969/dharwad-pedha-125x125.jpg"
+      },
+      {
+        "name": "Mawa Peda",
+        "page": "https://dir.indiamart.com/impcat/mawa-peda.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/333848613/DB/WP/DA/97574/mawa-peda-125x125.png"
+      },
+      {
+        "name": "Mathura Peda",
+        "page": "https://dir.indiamart.com/impcat/mathura-peda.html",
+        "thumbnail": "http://4.imimg.com/data4/ON/CB/GLADMIN-180949/mathura-peda-125x125.jpg"
+      },
+      {
+        "name": "Thabdi Peda",
+        "page": "https://dir.indiamart.com/impcat/thabdi-peda.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335329168/XN/IL/BS/97574/thabdi-peda-125x125.jpg"
+      },
+      {
+        "name": "Kandi Pedha",
+        "page": "https://dir.indiamart.com/impcat/kandi-pedha.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335298110/JF/ZT/UA/82392/kandi-pedha-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Dry Fruit Sweets",
+    "category_thumbnail": "http://3.imimg.com/data3/QM/JR/GLADMIN-138813/dry-fruit-sweets-125x125.jpg",
+    "items": [
+      {
+        "name": "Dry Fruit Chikki",
+        "page": "https://dir.indiamart.com/impcat/dry-fruit-chikki.html",
+        "thumbnail": "http://4.imimg.com/data4/NH/EO/GLADMIN-178305/dry-fruit-chikki-125x125.jpg"
+      },
+      {
+        "name": "Khajur Sweet",
+        "page": "https://dir.indiamart.com/impcat/khajur-sweet.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/WT/RO/GLADMIN-56986/khajur-sweet-125x125.jpg"
+      },
+      {
+        "name": "Anjeer Sweet",
+        "page": "https://dir.indiamart.com/impcat/anjeer-sweet.html",
+        "thumbnail": "http://5.imimg.com/data5/HQ/JK/OB/GLADMIN-56986/anjeer-sweet-125x125.JPG"
+      },
+      {
+        "name": "Dry Fruit Barfi",
+        "page": "https://dir.indiamart.com/impcat/dry-fruit-barfi.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335571276/PC/DO/ZJ/82392/dry-fruit-barfi-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Petha",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZO/IX/CO/92368/petha-125x125.jpg",
+    "items": [
+      {
+        "name": "Dry Petha",
+        "page": "https://dir.indiamart.com/impcat/dry-petha.html",
+        "thumbnail": "http://4.imimg.com/data4/EG/IS/GLADMIN-178184/dry-petha-125x125.jpg"
+      },
+      {
+        "name": "Angoori Petha",
+        "page": "https://dir.indiamart.com/impcat/angoori-petha.html",
+        "thumbnail": "http://4.imimg.com/data4/WJ/CE/GLADMIN-185548/angoori-petha-125x125.jpg"
+      },
+      {
+        "name": "Paan Petha",
+        "page": "https://dir.indiamart.com/impcat/paan-petha.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/333800698/QL/SS/SQ/82392/paan-petha-125x125.jpg"
+      },
+      {
+        "name": "Kesar Petha",
+        "page": "https://dir.indiamart.com/impcat/kesar-petha.html",
+        "thumbnail": "http://4.imimg.com/data4/EV/XX/GLADMIN-180950/kesar-petha-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Petha",
+        "page": "https://dir.indiamart.com/impcat/chocolate-petha.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334152372/VM/VF/US/82392/chocolate-petha-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Kaju Sweets",
+    "category_thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/kaju-sweets-125x125.jpg",
+    "items": [
+      {
+        "name": "Kaju Katli",
+        "page": "https://dir.indiamart.com/impcat/kaju-katli.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/AW/MP/FR/92368/kaju-katli-125x125.jpg"
+      },
+      {
+        "name": "Kaju Roll",
+        "page": "https://dir.indiamart.com/impcat/kaju-roll.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/CC/GLADMIN-/a-img924-6928-hxrz0w-125x125.jpg"
+      },
+      {
+        "name": "Kaju Puri",
+        "page": "https://dir.indiamart.com/impcat/kaju-puri.html",
+        "thumbnail": "http://5.imimg.com/data5/IV/DK/HD/GLADMIN-56986/kaju-puri-125x125.jpg"
+      },
+      {
+        "name": "Kaju Pista Barfi",
+        "page": "https://dir.indiamart.com/impcat/kaju-pista-barfi.html",
+        "thumbnail": "http://4.imimg.com/data4/VK/AY/GLADMIN-180946/kaju-pista-barfi-125x125.jpg"
+      },
+      {
+        "name": "Kesar Kaju Katli",
+        "page": "https://dir.indiamart.com/impcat/kesar-kaju-katli.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334154979/BH/EA/JD/82392/kesar-kaju-katli-125x125.jpg"
+      },
+      {
+        "name": "Kaju Kalash",
+        "page": "https://dir.indiamart.com/impcat/kaju-kalash.html",
+        "thumbnail": "http://4.imimg.com/data4/YO/RP/GLADMIN-2/kaju-kalash-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Gujarati Sweets",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/337460138/GS/DV/YR/82392/gujarati-sweets-125x125.jpg",
+    "items": [
+      {
+        "name": "Ghari Sweet",
+        "page": "https://dir.indiamart.com/impcat/ghari-sweet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335667804/SR/PM/BZ/97574/ghari-sweet-125x125.jpg"
+      },
+      {
+        "name": "Sutarfeni",
+        "page": "https://dir.indiamart.com/impcat/sutarfeni.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334451271/TL/NK/IB/97574/sutarfeni-125x125.png"
+      },
+      {
+        "name": "Mohanthal",
+        "page": "https://dir.indiamart.com/impcat/mohanthal.html",
+        "thumbnail": "http://4.imimg.com/data4/VU/VQ/GLADMIN-185748/mohanthal-125x125.jpg"
+      }
+    ]
+  }
+]

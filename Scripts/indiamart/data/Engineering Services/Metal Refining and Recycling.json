@@ -1,0 +1,23 @@
+[
+  {
+    "category_name": "Metal Refining",
+    "category_thumbnail": "http://3.imimg.com/data3/GS/ME/GLADMIN-43444/metal-refining-125x125.jpg",
+    "items": [
+      {
+        "name": "Precious Metal Refiners",
+        "page": "https://dir.indiamart.com/impcat/precious-metal-refiners.html",
+        "thumbnail": "http://3.imimg.com/data3/SD/KY/GLADMIN-43686/precious-metal-refiners-125x125.jpg"
+      },
+      {
+        "name": "Precious Metal Recovery",
+        "page": "https://dir.indiamart.com/impcat/precious-metal-recovery.html",
+        "thumbnail": "http://3.imimg.com/data3/MY/LB/GLADMIN-172439/precious-metal-recovery-125x125.jpg"
+      },
+      {
+        "name": "Silver Refining",
+        "page": "https://dir.indiamart.com/impcat/silver-refining.html",
+        "thumbnail": "http://3.imimg.com/data3/WP/IY/GLADMIN-43688/silver-refining-125x125.jpg"
+      }
+    ]
+  }
+]

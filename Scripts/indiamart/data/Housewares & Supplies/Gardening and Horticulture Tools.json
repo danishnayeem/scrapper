@@ -1,0 +1,806 @@
+[
+  {
+    "category_name": "Power Garden Tools",
+    "category_thumbnail": "http://3.imimg.com/data3/FF/OF/GLADMIN-73466/power-garden-tools-125x125.jpg",
+    "items": [
+      {
+        "name": "Power Tiller",
+        "page": "https://dir.indiamart.com/impcat/power-tiller.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/ZX/WM/IK/92368/power-tiller-125x125.jpg"
+      },
+      {
+        "name": "Hand Blower",
+        "page": "https://dir.indiamart.com/impcat/hand-blower.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/hand-blower-125x125.jpg"
+      },
+      {
+        "name": "Tree Cutter",
+        "page": "https://dir.indiamart.com/impcat/tree-cutter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371732145/TL/NQ/YV/89231/tree-cutter-125x125.jpg"
+      },
+      {
+        "name": "Leaf Blowers",
+        "page": "https://dir.indiamart.com/impcat/leaf-blowers.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/PR/GLADMIN-30565/leaf-blowers-125x125.jpg"
+      },
+      {
+        "name": "Backpack Blower",
+        "page": "https://dir.indiamart.com/impcat/backpack-blower.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/TT/GLADMIN-22758/backpack-blower-125x125.jpg"
+      },
+      {
+        "name": "Garden Shredder",
+        "page": "https://dir.indiamart.com/impcat/garden-shredder.html",
+        "thumbnail": "http://3.imimg.com/data3/FH/DG/GLADMIN-147020/garden-shredder-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Litter Collector",
+        "page": "https://dir.indiamart.com/impcat/vacuum-litter-collector.html",
+        "thumbnail": "http://5.imimg.com/data5/KE/DP/CA/GLADMIN-68155/vacuum-litter-collector-125x125.jpg"
+      },
+      {
+        "name": "Snow Thrower",
+        "page": "https://dir.indiamart.com/impcat/snow-thrower.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GK/XT/ZM/81953/snow-thrower-125x125.jpg"
+      },
+      {
+        "name": "Pole Saw",
+        "page": "https://dir.indiamart.com/impcat/pole-saw.html",
+        "thumbnail": "http://5.imimg.com/data5/SV/SQ/GLADMIN-2/pole-saw-125x125.jpg"
+      },
+      {
+        "name": "Sod Cutters",
+        "page": "https://dir.indiamart.com/impcat/sod-cutters.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/UF/XR/FP/81953/sod-cutters-125x125.jpg"
+      },
+      {
+        "name": "Garden Blower",
+        "page": "https://dir.indiamart.com/impcat/garden-blower.html",
+        "thumbnail": "http://3.imimg.com/data3/GR/PF/GLADMIN-77779/garden-blower-125x125.jpg"
+      },
+      {
+        "name": "Cordless Shears",
+        "page": "https://dir.indiamart.com/impcat/cordless-shears.html",
+        "thumbnail": "http://3.imimg.com/data3/RU/TC/GLADMIN-69263/cordless-shears-125x125.jpg"
+      },
+      {
+        "name": "Garden Tiller",
+        "page": "https://dir.indiamart.com/impcat/garden-tiller.html",
+        "thumbnail": "http://3.imimg.com/data3/VC/SK/GLADMIN-147399/garden-tiller-125x125.jpg"
+      },
+      {
+        "name": "Scarifier",
+        "page": "https://dir.indiamart.com/impcat/scarifier.html",
+        "thumbnail": "http://3.imimg.com/data3/YN/ET/GLADMIN-121226/scarifier-125x125.jpg"
+      },
+      {
+        "name": "Trimming Tool",
+        "page": "https://dir.indiamart.com/impcat/trimming-tool.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/YR/GLADMIN-73477/trimming-tool-125x125.jpg"
+      },
+      {
+        "name": "Electric Gardening Tools",
+        "page": "https://dir.indiamart.com/impcat/grass-cutting-tools.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/electric-gardening-tools-125x125.jpg"
+      },
+      {
+        "name": "Cordless Grass Shear",
+        "page": "https://dir.indiamart.com/impcat/cordless-grass-shear.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/RM/GLADMIN-105024/cordless-grass-shear-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Shredders",
+        "page": "https://dir.indiamart.com/impcat/vacuum-shredders.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/XC/GLADMIN-/images-products-6573454-sun-joe-3-in-1-electric-leaf-blower-vacuum-shredder-p14149464-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Brush Cutters",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/QP/UM/JM/92368/brush-cutters-125x125.jpg",
+    "items": [
+      {
+        "name": "Petrol Brush Cutter",
+        "page": "https://dir.indiamart.com/impcat/petrol-brush-cutter.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/petrol-brush-cutter-125x125.jpg"
+      },
+      {
+        "name": "Brush Cutter Parts",
+        "page": "https://dir.indiamart.com/impcat/brush-cutter-parts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/MT/KY/ZL/85947/brush-cutter-parts-125x125.jpg"
+      },
+      {
+        "name": "Electric Brush Cutter",
+        "page": "https://dir.indiamart.com/impcat/electric-brush-cutter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/FW/EA/QD/85947/electric-brush-cutter-125x125.jpg"
+      },
+      {
+        "name": "Trimmer Line",
+        "page": "https://dir.indiamart.com/impcat/trimmer-line.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/NS/GLADMIN-72841/trimmer-line-125x125.jpg"
+      },
+      {
+        "name": "Wheel Brush Cutter",
+        "page": "https://dir.indiamart.com/impcat/wheel-brush-cutter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/OD/SW/FB/81953/wheel-brush-cutter-125x125.jpg"
+      },
+      {
+        "name": "Grass Trimmer",
+        "page": "https://dir.indiamart.com/impcat/grass-trimmer.html",
+        "thumbnail": "http://3.imimg.com/data3/CB/IO/GLADMIN-29784/grass-trimmer-125x125.jpg"
+      },
+      {
+        "name": "Brush Cutter Blades",
+        "page": "https://dir.indiamart.com/impcat/brush-cutter-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/AG/GLADMIN-68404/brush-cutter-blades-125x125.jpg"
+      },
+      {
+        "name": "Trimmer Head",
+        "page": "https://dir.indiamart.com/impcat/trimmer-head.html",
+        "thumbnail": "http://3.imimg.com/data3/LV/DO/GLADMIN-87601/trimmer-head-125x125.jpg"
+      },
+      {
+        "name": "Shoulder Brush Cutter",
+        "page": "https://dir.indiamart.com/impcat/shoulder-brush-cutter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/OF/XB/XL/85947/shoulder-brush-cutter-125x125.jpg"
+      },
+      {
+        "name": "Backpack Brush Cutter",
+        "page": "https://dir.indiamart.com/impcat/backpack-brush-cutter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324626681/YK/XS/EB/90177/backpack-brush-cutter-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Garden Watering Tools",
+    "category_thumbnail": "http://3.imimg.com/data3/AQ/FH/GLADMIN-55923/garden-watering-tools-125x125.jpg",
+    "items": [
+      {
+        "name": "Water Spray Gun",
+        "page": "https://dir.indiamart.com/impcat/water-spray-gun.html",
+        "thumbnail": "http://4.imimg.com/data4/YT/RJ/GLADMIN-184714/water-spray-gun-125x125.jpg"
+      },
+      {
+        "name": "Trigger Sprayers",
+        "page": "https://dir.indiamart.com/impcat/trigger-sprayers.html",
+        "thumbnail": "http://3.imimg.com/data3/DE/SS/MY-2/jpgafa-073130-125x125.jpg"
+      },
+      {
+        "name": "Water Sprinklers",
+        "page": "https://dir.indiamart.com/impcat/water-sprinklers.html",
+        "thumbnail": "http://3.imimg.com/data3/JN/LR/GLADMIN-39450/water-sprinklers-125x125.jpg"
+      },
+      {
+        "name": "Garden Sprayer",
+        "page": "https://dir.indiamart.com/impcat/garden-sprayer.html",
+        "thumbnail": "http://3.imimg.com/data3/QP/JQ/GLADMIN-29226/garden-sprayer-125x125.jpg"
+      },
+      {
+        "name": "Garden Drip Line",
+        "page": "https://dir.indiamart.com/impcat/garden-drip-line.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/QY/GLADMIN-158180/garden-drip-line-125x125.jpg"
+      },
+      {
+        "name": "Plastic Garden Watering Can",
+        "page": "https://dir.indiamart.com/impcat/plastic-watering-can.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/VM/WI/LH/81953/plastic-watering-can-125x125.jpg"
+      },
+      {
+        "name": "Watering Cans",
+        "page": "https://dir.indiamart.com/impcat/watering-cans.html",
+        "thumbnail": "http://3.imimg.com/data3/RC/GK/GLADMIN-3370/watering-cans-125x125.jpg"
+      },
+      {
+        "name": "Garden Sprinkler",
+        "page": "https://dir.indiamart.com/impcat/garden-sprinkler.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/EU/GLADMIN-29227/garden-sprinkler-125x125.jpg"
+      },
+      {
+        "name": "Water Sprayers",
+        "page": "https://dir.indiamart.com/impcat/water-sprayers.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/XY/GLADMIN-39449/water-sprayers-125x125.jpg"
+      },
+      {
+        "name": "Sprinkler Head",
+        "page": "https://dir.indiamart.com/impcat/sprinkler-head.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/UZ/CB/XW/81953/sprinkler-head-125x125.jpg"
+      },
+      {
+        "name": "Metal Watering Can",
+        "page": "https://dir.indiamart.com/impcat/metal-watering-can.html",
+        "thumbnail": "http://3.imimg.com/data3/FC/VN/GLADMIN-73463/metal-watering-can-125x125.jpg"
+      },
+      {
+        "name": "Rotary Sprinkler",
+        "page": "https://dir.indiamart.com/impcat/rotary-sprinkler.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371732915/VJ/SU/KY/89231/rotary-sprinkler-125x125.jpg"
+      },
+      {
+        "name": "Garden Watering Wand",
+        "page": "https://dir.indiamart.com/impcat/garden-watering-wand.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/XW/WU/NB/81953/garden-watering-wand-125x125.jpg"
+      },
+      {
+        "name": "Watering Equipment",
+        "page": "https://dir.indiamart.com/impcat/watering-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/SP/GLADMIN-975/watering-equipment-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garden Tools",
+    "category_thumbnail": "http://3.imimg.com/data3/SL/KS/GLADMIN-583/garden-tools-125x125.jpg",
+    "items": [
+      {
+        "name": "Plant Clip",
+        "page": "https://dir.indiamart.com/impcat/plant-clip.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/WN/GLADMIN-112415/plant-clip-125x125.jpg"
+      },
+      {
+        "name": "Garden Hand Tools",
+        "page": "https://dir.indiamart.com/impcat/garden-hand-tools.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/LK/GLADMIN-11888/garden-hand-tools-125x125.jpg"
+      },
+      {
+        "name": "Garden Tool Set",
+        "page": "https://dir.indiamart.com/impcat/garden-tool-set.html",
+        "thumbnail": "http://3.imimg.com/data3/BH/QO/GLADMIN-29229/garden-tool-set-125x125.jpg"
+      },
+      {
+        "name": "Billhook",
+        "page": "https://dir.indiamart.com/impcat/billhook.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/EU/GLADMIN-153674/billhook-125x125.jpg"
+      },
+      {
+        "name": "Snake Catcher",
+        "page": "https://dir.indiamart.com/impcat/snake-catcher.html",
+        "thumbnail": "http://3.imimg.com/data3/MH/JC/GLADMIN-165867/snake-catcher-125x125.jpg"
+      },
+      {
+        "name": "Garden Rake",
+        "page": "https://dir.indiamart.com/impcat/garden-rake.html",
+        "thumbnail": "http://3.imimg.com/data3/WQ/KX/GLADMIN-11899/garden-rake-125x125.jpg"
+      },
+      {
+        "name": "Tree Pruners",
+        "page": "https://dir.indiamart.com/impcat/tree-pruners.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/QG/GLADMIN-40226/tree-pruners-125x125.jpg"
+      },
+      {
+        "name": "Garden Gloves",
+        "page": "https://dir.indiamart.com/impcat/garden-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/OW/CY/GLADMIN-106713/garden-gloves-125x125.jpg"
+      },
+      {
+        "name": "Leaf Rakes",
+        "page": "https://dir.indiamart.com/impcat/leaf-rakes.html",
+        "thumbnail": "http://3.imimg.com/data3/VN/WI/GLADMIN-30567/leaf-rakes-125x125.jpg"
+      },
+      {
+        "name": "Leaf Collector",
+        "page": "https://dir.indiamart.com/impcat/leaf-collector.html",
+        "thumbnail": "http://3.imimg.com/data3/XX/MA/MY-2/lrgscalegreen-blade-leaf-and-grass-collector-clean-125x125.jpg"
+      },
+      {
+        "name": "Hand Cultivator",
+        "page": "https://dir.indiamart.com/impcat/hand-cultivator.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/media-catalog-product-cache-1-image-9df78eab33525d08d6e5fb8d27136e95-s-192603-125x125.jpg"
+      },
+      {
+        "name": "Waste Picker",
+        "page": "https://dir.indiamart.com/impcat/waste-picker.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/RV/GLADMIN-70024/waste-picker-125x125.jpg"
+      },
+      {
+        "name": "Lawn Edging",
+        "page": "https://dir.indiamart.com/impcat/lawn-edging.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/CY/GLADMIN-30496/lawn-edging-125x125.jpg"
+      },
+      {
+        "name": "Cordless Gardening Tools",
+        "page": "https://dir.indiamart.com/impcat/cordless-gardening-tools.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/UL/GLADMIN-105023/cordless-gardening-tools-125x125.jpg"
+      },
+      {
+        "name": "Garden Implements",
+        "page": "https://dir.indiamart.com/impcat/garden-implements.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/DM/GLADMIN-29216/garden-implements-125x125.jpg"
+      },
+      {
+        "name": "Plastic Garden Tools",
+        "page": "https://dir.indiamart.com/impcat/plastic-garden-tools.html",
+        "thumbnail": "http://3.imimg.com/data3/PD/EO/GLADMIN-73465/plastic-garden-tools-125x125.jpg"
+      },
+      {
+        "name": "Telescopic Garden Tools",
+        "page": "https://dir.indiamart.com/impcat/telescopic-garden-tools.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/BM/LB/ML/81953/telescopic-garden-tools-125x125.jpg"
+      },
+      {
+        "name": "Lawn Edger",
+        "page": "https://dir.indiamart.com/impcat/lawn-edger.html",
+        "thumbnail": "http://3.imimg.com/data3/KI/OX/GLADMIN-73456/lawn-edger-125x125.jpg"
+      },
+      {
+        "name": "Ergonomic Tools",
+        "page": "https://dir.indiamart.com/impcat/ergonomic-tools.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/XY/GLADMIN-110633/ergonomic-tools-125x125.jpg"
+      },
+      {
+        "name": "Cotton Garden Glove",
+        "page": "https://dir.indiamart.com/impcat/cotton-garden-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/JU/GLADMIN-89884/cotton-garden-glove-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Digging Tools",
+    "category_thumbnail": "http://3.imimg.com/data3/DM/HG/GLADMIN-12832/digging-tools-125x125.jpg",
+    "items": [
+      {
+        "name": "Garden Spades",
+        "page": "https://dir.indiamart.com/impcat/garden-spades.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/OE/GLADMIN-11901/garden-spades-125x125.jpg"
+      },
+      {
+        "name": "Shovels",
+        "page": "https://dir.indiamart.com/impcat/shovels.html",
+        "thumbnail": "http://3.imimg.com/data3/HA/RR/GLADMIN-584/shovels-125x125.jpg"
+      },
+      {
+        "name": "Hoes",
+        "page": "https://dir.indiamart.com/impcat/hoes.html",
+        "thumbnail": "http://3.imimg.com/data3/HM/TW/GLADMIN-972/hoes-125x125.jpg"
+      },
+      {
+        "name": "Garden Hoe",
+        "page": "https://dir.indiamart.com/impcat/garden-hoe.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/DS/GLADMIN-29212/garden-hoe-125x125.jpg"
+      },
+      {
+        "name": "Steel Shovel",
+        "page": "https://dir.indiamart.com/impcat/steel-shovel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GZ/XN/OW/81953/steel-shovel-125x125.jpg"
+      },
+      {
+        "name": "Trowel",
+        "page": "https://dir.indiamart.com/impcat/trowel.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/DJ/GLADMIN-2577/trowel-125x125.jpg"
+      },
+      {
+        "name": "Hand Weeder",
+        "page": "https://dir.indiamart.com/impcat/hand-weeder.html",
+        "thumbnail": "http://5.imimg.com/data5/JV/BU/GLADMIN-2/hand-weeder-125x125.jpg"
+      },
+      {
+        "name": "Plastic Shovels",
+        "page": "https://dir.indiamart.com/impcat/plastic-shovels.html",
+        "thumbnail": "http://3.imimg.com/data3/JA/CC/GLADMIN-35244/plastic-shovels-125x125.jpg"
+      },
+      {
+        "name": "Garden Trowel",
+        "page": "https://dir.indiamart.com/impcat/garden-trowel.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/EI/GLADMIN-104734/garden-trowel-125x125.jpg"
+      },
+      {
+        "name": "Hand Shovel",
+        "page": "https://dir.indiamart.com/impcat/hand-shovel.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/GP/GLADMIN-119185/hand-shovel-125x125.jpg"
+      },
+      {
+        "name": "Garden Shovel",
+        "page": "https://dir.indiamart.com/impcat/garden-shovel.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/AC/GLADMIN-12131/garden-shovel-125x125.jpg"
+      },
+      {
+        "name": "Snow Shovel",
+        "page": "https://dir.indiamart.com/impcat/snow-shovel.html",
+        "thumbnail": "http://3.imimg.com/data3/UK/FN/GLADMIN-36961/snow-shovel-125x125.jpg"
+      },
+      {
+        "name": "Garden Forks",
+        "page": "https://dir.indiamart.com/impcat/garden-forks.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/XA/GLADMIN-11885/garden-forks-125x125.jpg"
+      },
+      {
+        "name": "Digging Fork",
+        "page": "https://dir.indiamart.com/impcat/digging-fork.html",
+        "thumbnail": "http://3.imimg.com/data3/AI/XD/GLADMIN-12830/digging-fork-125x125.jpg"
+      },
+      {
+        "name": "Digging Bars",
+        "page": "https://dir.indiamart.com/impcat/digging-bars.html",
+        "thumbnail": "http://3.imimg.com/data3/DO/FA/GLADMIN-26199/digging-bars-125x125.jpg"
+      },
+      {
+        "name": "Garden Mattock",
+        "page": "https://dir.indiamart.com/impcat/garden-mattock.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/BX/EQ/GF/81953/garden-mattock-125x125.jpg"
+      },
+      {
+        "name": "Pick Mattock",
+        "page": "https://dir.indiamart.com/impcat/pick-mattock.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/HR/GLADMIN-5924/pick-mattock-125x125.jpg"
+      },
+      {
+        "name": "Value Dutch Hoe",
+        "page": "https://dir.indiamart.com/impcat/value-dutch-hoe.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/RB/GLADMIN-150466/value-dutch-hoe-125x125.jpg"
+      },
+      {
+        "name": "Forged Spades",
+        "page": "https://dir.indiamart.com/impcat/forged-spades.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/JJ/GS/JD/81953/forged-spades-125x125.jpg"
+      },
+      {
+        "name": "Folding Spade",
+        "page": "https://dir.indiamart.com/impcat/folding-spade.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/IV/GLADMIN-104566/folding-spade-125x125.jpg"
+      },
+      {
+        "name": "Trenching Shovel",
+        "page": "https://dir.indiamart.com/impcat/trenching-shovel.html",
+        "thumbnail": "http://3.imimg.com/data3/HK/FJ/GLADMIN-39009/trenching-shovel-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garden Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/GW/YT/GLADMIN-582/garden-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Hydroponic Systems",
+        "page": "https://dir.indiamart.com/impcat/hydroponic-systems.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/WL/YH/UA/92368/hydroponic-systems-125x125.jpg"
+      },
+      {
+        "name": "Aeroponics System",
+        "page": "https://dir.indiamart.com/impcat/aeroponics-system.html",
+        "thumbnail": "http://5.imimg.com/data5/BB/BB/GLADMIN-/aeroponics-system-125x125.jpg"
+      },
+      {
+        "name": "Hydroponic Fodder Machine",
+        "page": "https://dir.indiamart.com/impcat/hydroponic-fodder-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/MC/GLADMIN-155223/hydroponic-fodder-machine-125x125.jpg"
+      },
+      {
+        "name": "Root Trainers",
+        "page": "https://dir.indiamart.com/impcat/root-trainers.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GS/OF/RW/81953/root-trainers-125x125.jpg"
+      },
+      {
+        "name": "Lawn Roller",
+        "page": "https://dir.indiamart.com/impcat/lawn-roller.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/PP/GLADMIN-123963/lawn-roller-125x125.jpg"
+      },
+      {
+        "name": "Garden Hose Reel",
+        "page": "https://dir.indiamart.com/impcat/garden-hose-reel.html",
+        "thumbnail": "http://3.imimg.com/data3/RK/XJ/GLADMIN-29215/garden-hose-reel-125x125.jpg"
+      },
+      {
+        "name": "Garden Trolley",
+        "page": "https://dir.indiamart.com/impcat/garden-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/AF/GLADMIN-104733/garden-trolley-125x125.jpg"
+      },
+      {
+        "name": "Lawn Aerators",
+        "page": "https://dir.indiamart.com/impcat/lawn-aerators.html",
+        "thumbnail": "http://3.imimg.com/data3/NI/NS/GLADMIN-30494/lawn-aerators-125x125.jpg"
+      },
+      {
+        "name": "Hydroponic Timer",
+        "page": "https://dir.indiamart.com/impcat/hydroponic-timer.html",
+        "thumbnail": "http://5.imimg.com/data5/UX/BB/LT/GLADMIN-76037/hydroponic-timer-125x125.jpg"
+      },
+      {
+        "name": "Garden Machine",
+        "page": "https://dir.indiamart.com/impcat/garden-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/XV/GLADMIN-29218/garden-machine-125x125.jpg"
+      },
+      {
+        "name": "Garden Cultivator",
+        "page": "https://dir.indiamart.com/impcat/garden-cultivator.html",
+        "thumbnail": "http://4.imimg.com/data4/VM/UE/GLADMIN-181887/garden-cultivator-125x125.jpg"
+      },
+      {
+        "name": "Garden Wheelbarrow",
+        "page": "https://dir.indiamart.com/impcat/garden-wheelbarrow.html",
+        "thumbnail": "http://3.imimg.com/data3/JQ/YY/GLADMIN-29230/garden-wheelbarrow-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Lawn Mower",
+    "category_thumbnail": "http://3.imimg.com/data3/OH/YC/GLADMIN-339/lawn-mowers-125x125.jpg",
+    "items": [
+      {
+        "name": "Grass Cutting Machine",
+        "page": "https://dir.indiamart.com/impcat/grass-cutting-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/AT/MY/CS/92368/grass-cutting-machine-125x125.jpg"
+      },
+      {
+        "name": "Electric Lawn Mower",
+        "page": "https://dir.indiamart.com/impcat/electric-lawn-mowers.html",
+        "thumbnail": "http://3.imimg.com/data3/CB/QV/GLADMIN-55921/electric-lawn-mowers-125x125.jpg"
+      },
+      {
+        "name": "Lawn Tractor Mower",
+        "page": "https://dir.indiamart.com/impcat/lawn-tractor-mower.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/LB/GLADMIN-161510/lawn-tractor-mower-125x125.jpg"
+      },
+      {
+        "name": "Manual Lawn Mower",
+        "page": "https://dir.indiamart.com/impcat/manual-lawn-mower.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/LL/AZ/EG/85947/manual-lawn-mower-125x125.jpg"
+      },
+      {
+        "name": "Petrol Lawn Mower",
+        "page": "https://dir.indiamart.com/impcat/petrol-lawnmower.html",
+        "thumbnail": "http://3.imimg.com/data3/RU/ES/GLADMIN-112414/petrol-lawnmower-125x125.jpg"
+      },
+      {
+        "name": "Lawn Mower Blade",
+        "page": "https://dir.indiamart.com/impcat/lawn-mower-blade.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/XI/GLADMIN-55924/lawn-mower-blade-125x125.jpg"
+      },
+      {
+        "name": "Lawn Mower Parts",
+        "page": "https://dir.indiamart.com/impcat/lawn-mower-parts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EH/FC/BI/81953/lawn-mower-parts-125x125.png"
+      },
+      {
+        "name": "Diesel Lawn Mower",
+        "page": "https://dir.indiamart.com/impcat/diesel-lawn-mower.html",
+        "thumbnail": "http://4.imimg.com/data4/GR/HE/GLADMIN-183877/diesel-lawn-mower-125x125.jpg"
+      },
+      {
+        "name": "Self Propelled Lawn Mower",
+        "page": "https://dir.indiamart.com/impcat/self-propelled-lawn-mower.html",
+        "thumbnail": "http://3.imimg.com/data3/HV/CV/GLADMIN-160063/self-propelled-lawn-mower-125x125.jpg"
+      },
+      {
+        "name": "Gang Mowers",
+        "page": "https://dir.indiamart.com/impcat/gang-mowers.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/VD/MY-2/7gang-mower-500x500-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Plant Cutting tools",
+    "category_thumbnail": "http://3.imimg.com/data3/XK/EN/GLADMIN-69266/plant-cutting-tools-125x125.jpg",
+    "items": [
+      {
+        "name": "Pruning Secateur",
+        "page": "https://dir.indiamart.com/impcat/pruning-secateur.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/DK/GLADMIN-73469/pruning-secateur-125x125.jpg"
+      },
+      {
+        "name": "Flower Cutter",
+        "page": "https://dir.indiamart.com/impcat/flower-cutter.html",
+        "thumbnail": "http://3.imimg.com/data3/SP/VM/GLADMIN-6477/flower-cutter-125x125.jpg"
+      },
+      {
+        "name": "Grafting Tools",
+        "page": "https://dir.indiamart.com/impcat/grafting-tools.html",
+        "thumbnail": "http://3.imimg.com/data3/SG/CC/GLADMIN-89810/grafting-tools-125x125.jpg"
+      },
+      {
+        "name": "Pruning Saw",
+        "page": "https://dir.indiamart.com/impcat/pruning-saw.html",
+        "thumbnail": "http://3.imimg.com/data3/MG/IV/GLADMIN-35906/pruning-saw-125x125.jpg"
+      },
+      {
+        "name": "Garden Scissor",
+        "page": "https://dir.indiamart.com/impcat/garden-scissor.html",
+        "thumbnail": "http://3.imimg.com/data3/BM/OA/GLADMIN-104725/garden-scissor-125x125.jpg"
+      },
+      {
+        "name": "Garden Pruner",
+        "page": "https://dir.indiamart.com/impcat/garden-pruner.html",
+        "thumbnail": "http://3.imimg.com/data3/IY/FA/GLADMIN-12344/garden-pruner-125x125.jpg"
+      },
+      {
+        "name": "Garden Sickles",
+        "page": "https://dir.indiamart.com/impcat/garden-sickles.html",
+        "thumbnail": "http://3.imimg.com/data3/EW/WU/GLADMIN-157793/garden-sickles-125x125.jpg"
+      },
+      {
+        "name": "Pole Pruners",
+        "page": "https://dir.indiamart.com/impcat/pole-pruners.html",
+        "thumbnail": "http://4.imimg.com/data4/FQ/JT/GLADMIN-185525/pole-pruners-125x125.jpg"
+      },
+      {
+        "name": "Hedge Shears",
+        "page": "https://dir.indiamart.com/impcat/hedge-shears.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/PC/GLADMIN-30255/hedge-shears-125x125.jpg"
+      },
+      {
+        "name": "Bypass Pruner",
+        "page": "https://dir.indiamart.com/impcat/bypass-pruner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/PB/EV/BA/81953/bypass-pruner-125x125.jpg"
+      },
+      {
+        "name": "Long Reach Pruner",
+        "page": "https://dir.indiamart.com/impcat/long-reach-pruner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/UF/QK/VU/81953/long-reach-pruner-125x125.jpg"
+      },
+      {
+        "name": "Lopping Shear",
+        "page": "https://dir.indiamart.com/impcat/lopping-shear.html",
+        "thumbnail": "http://3.imimg.com/data3/FB/XF/GLADMIN-73462/lopping-shear-125x125.jpg"
+      },
+      {
+        "name": "Garden Shears",
+        "page": "https://dir.indiamart.com/impcat/garden-shears.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/EI/GLADMIN-11900/garden-shears-125x125.jpg"
+      },
+      {
+        "name": "Pruning Tools",
+        "page": "https://dir.indiamart.com/impcat/pruning-tools.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/II/GLADMIN-73470/pruning-tools-125x125.jpg"
+      },
+      {
+        "name": "Garden Lopper",
+        "page": "https://dir.indiamart.com/impcat/garden-lopper.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/6/YN/DY/MH/82397/garden-lopper-125x125.png"
+      },
+      {
+        "name": "Pruner Saw",
+        "page": "https://dir.indiamart.com/impcat/pruner-saw.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/WE/GLADMIN-73467/pruner-saw-125x125.jpg"
+      },
+      {
+        "name": "Grass Shear",
+        "page": "https://dir.indiamart.com/impcat/grass-shear.html",
+        "thumbnail": "http://3.imimg.com/data3/DB/AV/GLADMIN-104894/grass-shear-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Brush Cutter Parts",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/MT/KY/ZL/85947/brush-cutter-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Trimmer Line",
+        "page": "https://dir.indiamart.com/impcat/trimmer-line.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/NS/GLADMIN-72841/trimmer-line-125x125.jpg"
+      },
+      {
+        "name": "Brush Cutter Blades",
+        "page": "https://dir.indiamart.com/impcat/brush-cutter-blades.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/AG/GLADMIN-68404/brush-cutter-blades-125x125.jpg"
+      },
+      {
+        "name": "Cutter Parts",
+        "page": "https://dir.indiamart.com/impcat/cutter-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/TG/QY/GLADMIN-68424/cutter-parts-125x125.jpg"
+      },
+      {
+        "name": "Trimmer Head",
+        "page": "https://dir.indiamart.com/impcat/trimmer-head.html",
+        "thumbnail": "http://3.imimg.com/data3/LV/DO/GLADMIN-87601/trimmer-head-125x125.jpg"
+      },
+      {
+        "name": "Paddy Guard",
+        "page": "https://dir.indiamart.com/impcat/paddy-guard.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/321836470/QD/ZE/DQ/71486/paddy-guard-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Gardening Knives",
+    "category_thumbnail": "http://3.imimg.com/data3/DU/UM/GLADMIN-11913/gardening-knives-125x125.jpg",
+    "items": [
+      {
+        "name": "Cane Knives",
+        "page": "https://dir.indiamart.com/impcat/cane-knives.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/EN/LD/DQ/81953/cane-knives-125x125.jpg"
+      },
+      {
+        "name": "Budding Knives",
+        "page": "https://dir.indiamart.com/impcat/budding-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/HR/DG/GLADMIN-23886/budding-knives-125x125.jpg"
+      },
+      {
+        "name": "Pruning Knives",
+        "page": "https://dir.indiamart.com/impcat/pruning-knives.html",
+        "thumbnail": "http://3.imimg.com/data3/HC/CH/GLADMIN-35905/pruning-knives-125x125.jpg"
+      },
+      {
+        "name": "Uncapping Knife",
+        "page": "https://dir.indiamart.com/impcat/uncapping-knife.html",
+        "thumbnail": "http://3.imimg.com/data3/AB/DB/GLADMIN-177638/uncapping-knife-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garden Tool Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/OI/CD/GLADMIN-104729/garden-tool-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Hoe Handle",
+        "page": "https://dir.indiamart.com/impcat/hoe-handle.html",
+        "thumbnail": "http://5.imimg.com/data5/HZ/EQ/PM/GLADMIN-68155/hoe-handle-125x125.jpg"
+      },
+      {
+        "name": "Shovel Handles",
+        "page": "https://dir.indiamart.com/impcat/shovel-handles.html",
+        "thumbnail": "http://3.imimg.com/data3/AM/RC/GLADMIN-37741/shovel-handles-125x125.jpg"
+      },
+      {
+        "name": "Pickaxe Handle",
+        "page": "https://dir.indiamart.com/impcat/pickaxe-handle.html",
+        "thumbnail": "http://5.imimg.com/data5/MB/HF/NE/GLADMIN-68155/pickaxe-handle-125x125.jpg"
+      },
+      {
+        "name": "Garden Tool Handle",
+        "page": "https://dir.indiamart.com/impcat/garden-tool-handle.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/6/ET/BY/FP/82397/garden-tool-handle-125x125.png"
+      },
+      {
+        "name": "Rake Head",
+        "page": "https://dir.indiamart.com/impcat/rake-head.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/AP/GLADMIN-73471/rake-head-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Hedge Cutter",
+    "category_thumbnail": "http://3.imimg.com/data3/BF/JH/GLADMIN-73452/hedge-cutter-125x125.jpg",
+    "items": [
+      {
+        "name": "Hedge Trimmer",
+        "page": "https://dir.indiamart.com/impcat/hedge-trimmer.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/FT/GLADMIN-30256/hedge-trimmer-125x125.jpg"
+      },
+      {
+        "name": "Electric Hedge Trimmer",
+        "page": "https://dir.indiamart.com/impcat/electric-hedge-trimmer.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/XO/GLADMIN-27265/electric-hedge-trimmer-125x125.jpg"
+      },
+      {
+        "name": "Gasoline Hedge Trimmer",
+        "page": "https://dir.indiamart.com/impcat/gasoline-hedge-trimmer.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/DC/GLADMIN-73451/gasoline-hedge-trimmer-125x125.jpg"
+      },
+      {
+        "name": "Long Reach Hedge Cutter",
+        "page": "https://dir.indiamart.com/impcat/long-reach-hedge-cutter.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/WW/GLADMIN-110423/long-reach-hedge-cutter-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Trowel",
+    "category_thumbnail": "http://3.imimg.com/data3/WS/DJ/GLADMIN-2577/trowel-125x125.jpg",
+    "items": [
+      {
+        "name": "Plastering Trowel",
+        "page": "https://dir.indiamart.com/impcat/plastering-trowel.html",
+        "thumbnail": "http://3.imimg.com/data3/YV/KH/GLADMIN-112073/plastering-trowel-125x125.jpg"
+      },
+      {
+        "name": "Masonry Trowels",
+        "page": "https://dir.indiamart.com/impcat/masonry-trowels.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/SQ/GLADMIN-32583/masonry-trowels-125x125.jpg"
+      },
+      {
+        "name": "Notched Trowel",
+        "page": "https://dir.indiamart.com/impcat/notched-trowel.html",
+        "thumbnail": "http://3.imimg.com/data3/BH/CO/GLADMIN-155391/notched-trowel-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Electric Gardening Tools",
+        "page": "https://dir.indiamart.com/impcat/grass-cutting-tools.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/electric-gardening-tools-125x125.jpg"
+      }
+    ]
+  }
+]

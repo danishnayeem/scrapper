@@ -1,0 +1,631 @@
+[
+  {
+    "category_name": "Stationery Tape",
+    "category_thumbnail": "http://3.imimg.com/data3/CM/PL/GLADMIN-7860/stationery-tape-125x125.jpg",
+    "items": [
+      {
+        "name": "BOPP Tapes",
+        "page": "https://dir.indiamart.com/impcat/bopp-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/KV/OX/GLADMIN-2/plain-bopp-tapes-500x500-125x125.jpg"
+      },
+      {
+        "name": "Masking Tapes",
+        "page": "https://dir.indiamart.com/impcat/masking-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/MJ/HO/GLADMIN-9894/masking-tapes-125x125.jpg"
+      },
+      {
+        "name": "Cello Tape",
+        "page": "https://dir.indiamart.com/impcat/cello-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/WK/CY/GLADMIN-149032/cello-tape-125x125.jpg"
+      },
+      {
+        "name": "Brown Tape",
+        "page": "https://dir.indiamart.com/impcat/brown-tape.html",
+        "thumbnail": "http://4.imimg.com/data4/OB/BY/GLADMIN-182328/brown-tape-125x125.jpg"
+      },
+      {
+        "name": "Transparent Tapes",
+        "page": "https://dir.indiamart.com/impcat/transparent-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/OE/CL/KK/71486/transparent-tapes-125x125.jpg"
+      },
+      {
+        "name": "Plastic Tape",
+        "page": "https://dir.indiamart.com/impcat/plastic-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/WJ/MY-2/plastic-tape-125x125.jpg"
+      },
+      {
+        "name": "Label Tape",
+        "page": "https://dir.indiamart.com/impcat/label-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/VO/IC/GLADMIN-2/label-tape-125x125.jpg"
+      },
+      {
+        "name": "Book Binding Tape",
+        "page": "https://dir.indiamart.com/impcat/book-binding-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/MG/GLADMIN-165615/book-binding-tape-125x125.jpg"
+      },
+      {
+        "name": "Lamination Tapes",
+        "page": "https://dir.indiamart.com/impcat/lamination-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/XR/WN/GLADMIN-2/lamination-tape-125x125.jpg"
+      },
+      {
+        "name": "Tear Tapes",
+        "page": "https://dir.indiamart.com/impcat/tear-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/NJ/GLADMIN-20690/tear-tapes-125x125.jpg"
+      },
+      {
+        "name": "OPP Tape",
+        "page": "https://dir.indiamart.com/impcat/opp-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/WE/GN/GLADMIN-17460/opp-tape-125x125.jpg"
+      },
+      {
+        "name": "Removable Tapes",
+        "page": "https://dir.indiamart.com/impcat/removable-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/PB/HC/GLADMIN-36328/removable-tapes-125x125.jpg"
+      },
+      {
+        "name": "Drafting Tape",
+        "page": "https://dir.indiamart.com/impcat/drafting-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/YJ/JL/GLADMIN-26844/drafting-tape-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Sealing Tape",
+    "category_thumbnail": "http://3.imimg.com/data3/EP/BE/GLADMIN-17998/sealing-tape-125x125.jpg",
+    "items": [
+      {
+        "name": "Printed Tapes",
+        "page": "https://dir.indiamart.com/impcat/printed-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/MB/GS/GLADMIN-35735/printed-tapes-125x125.jpg"
+      },
+      {
+        "name": "Self Adhesive Tapes",
+        "page": "https://dir.indiamart.com/impcat/self-adhesive-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/EG/UY/ZU/81953/self-adhesive-tapes-125x125.jpg"
+      },
+      {
+        "name": "PVC Tape",
+        "page": "https://dir.indiamart.com/impcat/pvc-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/JY/XU/SB/71486/pvc-tape-125x125.jpg"
+      },
+      {
+        "name": "Butyl Tape",
+        "page": "https://dir.indiamart.com/impcat/butyl-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/YV/WG/GLADMIN-14668/butyl-tape-125x125.jpg"
+      },
+      {
+        "name": "Duct Tape",
+        "page": "https://dir.indiamart.com/impcat/duct-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/VY/GLADMIN-26980/duct-tape-125x125.jpg"
+      },
+      {
+        "name": "Paper Tape",
+        "page": "https://dir.indiamart.com/impcat/paper-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/LX/PZ/ZG/71486/paper-tape-125x125.jpg"
+      },
+      {
+        "name": "Filament Tapes",
+        "page": "https://dir.indiamart.com/impcat/filament-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/HO/GLADMIN-27460/filament-tapes-125x125.jpg"
+      },
+      {
+        "name": "Bag Seal Tape",
+        "page": "https://dir.indiamart.com/impcat/bag-seal-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/RT/GLADMIN-167237/bag-seal-tape-125x125.jpg"
+      },
+      {
+        "name": "Seam Sealing Tapes",
+        "page": "https://dir.indiamart.com/impcat/seam-sealing-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/NR/BZ/BW/71486/seam-sealing-tapes-125x125.jpg"
+      },
+      {
+        "name": "HDPE Tape",
+        "page": "https://dir.indiamart.com/impcat/hdpe-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/GN/GLADMIN-159204/hdpe-tape-125x125.jpg"
+      },
+      {
+        "name": "Polypropylene Tape",
+        "page": "https://dir.indiamart.com/impcat/polypropylene-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/AN/BK/GLADMIN-18170/polypropylene-tape-125x125.jpg"
+      },
+      {
+        "name": "Spacer Tape",
+        "page": "https://dir.indiamart.com/impcat/spacer-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/RK/GLADMIN-159917/spacer-tape-125x125.jpg"
+      },
+      {
+        "name": "Mastic Tape",
+        "page": "https://dir.indiamart.com/impcat/mastic-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/JV/GLADMIN-122412/mastic-tape-125x125.jpg"
+      },
+      {
+        "name": "Cellulose Tape",
+        "page": "https://dir.indiamart.com/impcat/cellulose-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/364423269/ZC/MT/PO/88875/cellulose-tape-125x125.jpg"
+      },
+      {
+        "name": "Strapping Tapes",
+        "page": "https://dir.indiamart.com/impcat/strapping-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/JB/QC/GLADMIN-38751/strapping-tapes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Tape",
+    "category_thumbnail": "http://3.imimg.com/data3/GG/JJ/GLADMIN-15688/industrial-tape-125x125.jpg",
+    "items": [
+      {
+        "name": "Edge Banding Tape",
+        "page": "https://dir.indiamart.com/impcat/edge-banding-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/LH/GLADMIN-126264/edge-banding-tape-125x125.jpg"
+      },
+      {
+        "name": "PVC Edge Band",
+        "page": "https://dir.indiamart.com/impcat/pvc-edge-band.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/WY/GLADMIN-122531/pvc-edge-band-125x125.jpg"
+      },
+      {
+        "name": "Cotton Tape",
+        "page": "https://dir.indiamart.com/impcat/cotton-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/GH/MY-2/cotton-tape-125x125.jpg"
+      },
+      {
+        "name": "Pipe Wrapping Tape",
+        "page": "https://dir.indiamart.com/impcat/pipe-wrapping-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/YA/QH/BH/71486/pipe-wrapping-tape-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Foil Tape",
+        "page": "https://dir.indiamart.com/impcat/aluminum-foil-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/PT/GLADMIN-21188/aluminum-foil-tape-125x125.jpg"
+      },
+      {
+        "name": "Fiberglass Tape",
+        "page": "https://dir.indiamart.com/impcat/fiberglass-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/JV/MY-2/fiberglass-tape-125x125.jpg"
+      },
+      {
+        "name": "Hot Fix Tape",
+        "page": "https://dir.indiamart.com/impcat/hot-fix-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/FR/LX/SK/GLADMIN-73621/hot-fix-tape-125x125.png"
+      },
+      {
+        "name": "Rubber Tape",
+        "page": "https://dir.indiamart.com/impcat/rubber-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/PC/YS/CS/71486/rubber-tape-125x125.jpg"
+      },
+      {
+        "name": "VHB Tape",
+        "page": "https://dir.indiamart.com/impcat/vhb-tape.html",
+        "thumbnail": "http://4.imimg.com/data4/AQ/AO/GLADMIN-184046/vhb-tape-125x125.jpg"
+      },
+      {
+        "name": "Copper Tape",
+        "page": "https://dir.indiamart.com/impcat/copper-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/DE/VD/MC/71486/copper-tape-125x125.jpg"
+      },
+      {
+        "name": "Bitumen Tape",
+        "page": "https://dir.indiamart.com/impcat/bitumen-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/KK/KK/GLADMIN-/a-img922-5422-ckbu4i-125x125.jpg"
+      },
+      {
+        "name": "Bonding Tapes",
+        "page": "https://dir.indiamart.com/impcat/bonding-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/GW/KO/GLADMIN-23703/bonding-tapes-125x125.jpg"
+      },
+      {
+        "name": "Cloth Tapes",
+        "page": "https://dir.indiamart.com/impcat/cloth-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/DT/GU/UO/71486/cloth-tapes-125x125.jpg"
+      },
+      {
+        "name": "Silicone Tapes",
+        "page": "https://dir.indiamart.com/impcat/silicone-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/HX/PB/GLADMIN-37784/silicone-tapes-125x125.jpg"
+      },
+      {
+        "name": "Pressure Sensitive Tapes",
+        "page": "https://dir.indiamart.com/impcat/psa-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/AM/GLADMIN-35712/pressure-sensitive-tapes-125x125.jpg"
+      },
+      {
+        "name": "Mounting Tapes",
+        "page": "https://dir.indiamart.com/impcat/mounting-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/ON/BT/GLADMIN-33614/mounting-tapes-125x125.jpg"
+      },
+      {
+        "name": "Autoclave Tape",
+        "page": "https://dir.indiamart.com/impcat/autoclave-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/WO/MO/GLADMIN-138987/autoclave-tape-125x125.jpg"
+      },
+      {
+        "name": "Nylon Tapes",
+        "page": "https://dir.indiamart.com/impcat/nylon-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/IE/GLADMIN-7447/nylon-tapes-125x125.jpg"
+      },
+      {
+        "name": "Splicing Tapes",
+        "page": "https://dir.indiamart.com/impcat/splicing-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/VJ/PV/GLADMIN-38642/splicing-tapes-125x125.jpg"
+      },
+      {
+        "name": "Joint Wrap Tape",
+        "page": "https://dir.indiamart.com/impcat/joint-wrap-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/YJ/JF/GLADMIN-74034/joint-wrap-tape-125x125.jpg"
+      },
+      {
+        "name": "ACF Tape",
+        "page": "https://dir.indiamart.com/impcat/acf-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369909874/MQ/LD/XA/88875/acf-tape-125x125.jpg"
+      },
+      {
+        "name": "Double Sided Cotton Tape",
+        "page": "https://dir.indiamart.com/impcat/double-sided-cotton-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/9/448939127/RR/DU/YM/96317/dsct-125x125.jpg"
+      },
+      {
+        "name": "Tape Tile",
+        "page": "https://dir.indiamart.com/impcat/tape-tile.html",
+        "thumbnail": "http://3.imimg.com/data3/VT/YH/GLADMIN-161923/tape-tile-125x125.jpg"
+      },
+      {
+        "name": "Foam Strip",
+        "page": "https://dir.indiamart.com/impcat/foam-strip.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/QV/GLADMIN-74717/foam-strip-125x125.jpg"
+      },
+      {
+        "name": "Antistatic Tape",
+        "page": "https://dir.indiamart.com/impcat/antistatic-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/LQ/GLADMIN-22061/antistatic-tape-125x125.jpg"
+      },
+      {
+        "name": "Stretch Tape",
+        "page": "https://dir.indiamart.com/impcat/stretch-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/KW/FX/OD/71486/stretch-tape-125x125.jpg"
+      },
+      {
+        "name": "Welding Tape",
+        "page": "https://dir.indiamart.com/impcat/welding-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/QM/BU/KW/GLADMIN-68087/welding-tape-125x125.jpg"
+      },
+      {
+        "name": "Suction Tape",
+        "page": "https://dir.indiamart.com/impcat/suction-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/LD/UD/GLADMIN-69500/suction-tape-125x125.jpg"
+      },
+      {
+        "name": "Belting Tape",
+        "page": "https://dir.indiamart.com/impcat/belting-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/JS/BR/GLADMIN-2/belting-tape-500x500-125x125.jpg"
+      },
+      {
+        "name": "Canvas Tapes",
+        "page": "https://dir.indiamart.com/impcat/canvas-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/LO/SZ/HG/71486/canvas-tapes-125x125.jpg"
+      },
+      {
+        "name": "Plasma Indicator Tape",
+        "page": "https://dir.indiamart.com/impcat/plasma-indicator-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/BT/OT/OA/GLADMIN-68155/plasma-indicator-tape-125x125.png"
+      },
+      {
+        "name": "Perforated Tape",
+        "page": "https://dir.indiamart.com/impcat/perforated-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/SM/WL/GLADMIN-137429/perforated-tape-125x125.jpg"
+      },
+      {
+        "name": "Weatherproofing Kit",
+        "page": "https://dir.indiamart.com/impcat/weatherproofing-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/TY/NT/GLADMIN-146951/weatherproofing-kit-125x125.jpg"
+      },
+      {
+        "name": "Synthetic Tape",
+        "page": "https://dir.indiamart.com/impcat/synthetic-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/FQ/TC/GLADMIN-2/synthetic-tape-125x125.jpg"
+      },
+      {
+        "name": "Leather Tape",
+        "page": "https://dir.indiamart.com/impcat/leather-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/HQ/KE/MY-2/leather-tape-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Electric Tape",
+    "category_thumbnail": "http://3.imimg.com/data3/YN/YJ/GLADMIN-27852/electric-tape-125x125.jpg",
+    "items": [
+      {
+        "name": "PVC Insulation Tape",
+        "page": "https://dir.indiamart.com/impcat/pvc-insulation-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/CL/KJ/GLADMIN-74039/pvc-insulation-tape-125x125.jpg"
+      },
+      {
+        "name": "PVC Tape",
+        "page": "https://dir.indiamart.com/impcat/pvc-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/JY/XU/SB/71486/pvc-tape-125x125.jpg"
+      },
+      {
+        "name": "Electrical Insulation Tapes",
+        "page": "https://dir.indiamart.com/impcat/electrical-insulation-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/NX/GLADMIN-27607/electrical-insulation-tapes-125x125.jpg"
+      },
+      {
+        "name": "Insulation Tape",
+        "page": "https://dir.indiamart.com/impcat/insulation-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/OI/MY-2/insulation-tape-125x125.jpg"
+      },
+      {
+        "name": "Polyester Tapes",
+        "page": "https://dir.indiamart.com/impcat/polyester-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/JX/TN/AF/71486/polyester-tapes-125x125.jpg"
+      },
+      {
+        "name": "Kapton Tape",
+        "page": "https://dir.indiamart.com/impcat/kapton-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/HK/GLADMIN-56111/kapton-tape-125x125.jpg"
+      },
+      {
+        "name": "HT Insulation Tape",
+        "page": "https://dir.indiamart.com/impcat/ht-insulation-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/HA/GLADMIN-146025/ht-insulation-tape-125x125.jpg"
+      },
+      {
+        "name": "Non Adhesive Tapes",
+        "page": "https://dir.indiamart.com/impcat/non-adhesive-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/WW/QC/GLADMIN-7386/non-adhesive-tapes-125x125.jpg"
+      },
+      {
+        "name": "Rayon Tape",
+        "page": "https://dir.indiamart.com/impcat/rayon-tape.html",
+        "thumbnail": "http://4.imimg.com/data4/XV/AY/GLADMIN-182164/rayon-tape-125x125.jpg"
+      },
+      {
+        "name": "Wire Harness Tape",
+        "page": "https://dir.indiamart.com/impcat/wire-harness-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/DF/GLADMIN-118031/wire-harness-tape-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Fiber Tape",
+        "page": "https://dir.indiamart.com/impcat/ceramic-fiber-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/PN/MR/CA/71486/ceramic-fiber-tape-125x125.jpg"
+      },
+      {
+        "name": "Cable Tape",
+        "page": "https://dir.indiamart.com/impcat/cable-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/RC/GLADMIN-74027/cable-tape-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Decorative Tape",
+    "category_thumbnail": "http://3.imimg.com/data3/KG/EX/GLADMIN-42882/decorative-tape-125x125.jpg",
+    "items": [
+      {
+        "name": "Double Sided Tape",
+        "page": "https://dir.indiamart.com/impcat/double-sided-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/LE/NU/AL/71486/double-sided-tape-125x125.jpg"
+      },
+      {
+        "name": "Foam Tapes",
+        "page": "https://dir.indiamart.com/impcat/foam-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/MI/RS/GLADMIN-2/foam-tapes-125x125.jpg"
+      },
+      {
+        "name": "Tissue Tapes",
+        "page": "https://dir.indiamart.com/impcat/tissue-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/IA/EC/GLADMIN-2/tissue-tapes-125x125.jpg"
+      },
+      {
+        "name": "Fabric Tapes",
+        "page": "https://dir.indiamart.com/impcat/fabric-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/TV/GLADMIN-28186/fabric-tapes-125x125.jpg"
+      },
+      {
+        "name": "Paper Tape",
+        "page": "https://dir.indiamart.com/impcat/paper-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/LX/PZ/ZG/71486/paper-tape-125x125.jpg"
+      },
+      {
+        "name": "Nano Tape",
+        "page": "https://dir.indiamart.com/impcat/nano-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/308891756/XQ/VA/TN/96414/nano-tape-125x125.png"
+      },
+      {
+        "name": "Colour Tapes",
+        "page": "https://dir.indiamart.com/impcat/colour-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/PN/VW/RZ/71486/colour-tapes-125x125.jpg"
+      },
+      {
+        "name": "Craft Paper Tape",
+        "page": "https://dir.indiamart.com/impcat/craft-paper-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/LP/GLADMIN-135938/craft-paper-tape-125x125.jpg"
+      },
+      {
+        "name": "Paper Gum Tape",
+        "page": "https://dir.indiamart.com/impcat/paper-gum-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/CD/GLADMIN-34509/paper-gum-tape-125x125.jpg"
+      },
+      {
+        "name": "Washi Tape",
+        "page": "https://dir.indiamart.com/impcat/washi-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/364452930/LU/GW/KB/88875/washi-tape-125x125.jpg"
+      },
+      {
+        "name": "Reinforced Paper Tape",
+        "page": "https://dir.indiamart.com/impcat/reinforced-paper-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/EH/GLADMIN-36178/reinforced-paper-tape-125x125.jpg"
+      },
+      {
+        "name": "Vinyl Tapes",
+        "page": "https://dir.indiamart.com/impcat/vinyl-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/YX/SM/GLADMIN-39373/vinyl-tapes-125x125.jpg"
+      },
+      {
+        "name": "Adhesive Transfer Tapes",
+        "page": "https://dir.indiamart.com/impcat/adhesive-transfer-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/NO/AL/GLADMIN-21582/adhesive-transfer-tapes-125x125.jpg"
+      },
+      {
+        "name": "Glitter Tape",
+        "page": "https://dir.indiamart.com/impcat/glitter-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/JJ/JJ/GLADMIN-/glitter-tape-125x125.jpg"
+      },
+      {
+        "name": "Application Tape",
+        "page": "https://dir.indiamart.com/impcat/application-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/SA/GLADMIN-12654/application-tape-125x125.jpg"
+      },
+      {
+        "name": "Embossing Tapes",
+        "page": "https://dir.indiamart.com/impcat/embossing-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/HI/PS/GLADMIN-27718/embossing-tapes-125x125.jpg"
+      },
+      {
+        "name": "Urethane Foam Tapes",
+        "page": "https://dir.indiamart.com/impcat/urethane-foam-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/EP/GLADMIN-40452/urethane-foam-tapes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Plumbing Tapes",
+    "category_thumbnail": "http://3.imimg.com/data3/BY/OV/MY-2/piping-tape-125x125.jpg",
+    "items": [
+      {
+        "name": "Teflon Tapes",
+        "page": "https://dir.indiamart.com/impcat/teflon-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/JN/VX/GLADMIN-2/teflon-tapes-125x125.jpg"
+      },
+      {
+        "name": "Waterproof Tapes",
+        "page": "https://dir.indiamart.com/impcat/waterproof-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/OO/CJ/GLADMIN-2/waterproof-tapes-125x125.jpg"
+      },
+      {
+        "name": "Pipe Wrapping Tape",
+        "page": "https://dir.indiamart.com/impcat/pipe-wrapping-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/YA/QH/BH/71486/pipe-wrapping-tape-125x125.jpg"
+      },
+      {
+        "name": "Anti Corrosive Tape",
+        "page": "https://dir.indiamart.com/impcat/anti-corrosive-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/HM/OU/GLADMIN-138483/anti-corrosive-tape-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Safety Tapes",
+    "category_thumbnail": "http://3.imimg.com/data3/EC/LF/GLADMIN-36701/safety-tapes-125x125.jpg",
+    "items": [
+      {
+        "name": "Barricade Tape",
+        "page": "https://dir.indiamart.com/impcat/barricade-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/OV/GLADMIN-22887/barricade-tape-125x125.jpg"
+      },
+      {
+        "name": "Anti Skid Tapes",
+        "page": "https://dir.indiamart.com/impcat/anti-skid-tapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/PB/VC/YY/71486/anti-skid-tapes-125x125.jpg"
+      },
+      {
+        "name": "Surface Protection Tape",
+        "page": "https://dir.indiamart.com/impcat/surface-protection-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/GP/GLADMIN-56121/surface-protection-tape-125x125.jpg"
+      },
+      {
+        "name": "Underground Caution Tape",
+        "page": "https://dir.indiamart.com/impcat/underground-caution-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/MU/GLADMIN-117363/underground-caution-tape-125x125.jpg"
+      },
+      {
+        "name": "High Temperature Tapes",
+        "page": "https://dir.indiamart.com/impcat/high-temperature-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/MT/GLADMIN-30392/high-temperature-tapes-125x125.jpg"
+      },
+      {
+        "name": "Warning Tape",
+        "page": "https://dir.indiamart.com/impcat/warning-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/YS/MX/WQ/85177/warning-tape-125x125.jpg"
+      },
+      {
+        "name": "Tamper Evident Tape",
+        "page": "https://dir.indiamart.com/impcat/tamper-evident-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/PW/ML/PQ/71486/tamper-evident-tape-125x125.jpg"
+      },
+      {
+        "name": "PTFE Glass Cloth Tape",
+        "page": "https://dir.indiamart.com/impcat/ptfe-glass-cloth-tape.html",
+        "thumbnail": "http://4.imimg.com/data4/QK/WB/GLADMIN-179713/ptfe-glass-cloth-tape-125x125.jpg"
+      },
+      {
+        "name": "Glass Cloth Tape",
+        "page": "https://dir.indiamart.com/impcat/glass-cloth-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/ET/GLADMIN-16141/glass-cloth-tape-125x125.jpg"
+      },
+      {
+        "name": "Carbon Fiber Tape",
+        "page": "https://dir.indiamart.com/impcat/carbon-fiber-tape.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/EX/NX/JP/84846/-carbon-fiber-tape-125x125.jpg"
+      },
+      {
+        "name": "Friction Tapes",
+        "page": "https://dir.indiamart.com/impcat/friction-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/LM/GLADMIN-29016/friction-tapes-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Tapes",
+        "page": "https://dir.indiamart.com/impcat/abrasive-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/MG/OU/GLADMIN-21529/abrasive-tapes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tape",
+    "category_thumbnail": "http://3.imimg.com/data3/HK/UM/GLADMIN-105918/tape-125x125.jpg",
+    "items": [
+      {
+        "name": "Electric Tape",
+        "page": "https://dir.indiamart.com/impcat/electric-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/YN/YJ/GLADMIN-27852/electric-tape-125x125.jpg"
+      },
+      {
+        "name": "Sealing Tape",
+        "page": "https://dir.indiamart.com/impcat/sealing-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/EP/BE/GLADMIN-17998/sealing-tape-125x125.jpg"
+      },
+      {
+        "name": "Safety Tapes",
+        "page": "https://dir.indiamart.com/impcat/safety-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/LF/GLADMIN-36701/safety-tapes-125x125.jpg"
+      },
+      {
+        "name": "Decorative Tape",
+        "page": "https://dir.indiamart.com/impcat/decorative-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/EX/GLADMIN-42882/decorative-tape-125x125.jpg"
+      },
+      {
+        "name": "Stationery Tape",
+        "page": "https://dir.indiamart.com/impcat/stationery-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/PL/GLADMIN-7860/stationery-tape-125x125.jpg"
+      },
+      {
+        "name": "Plumbing Tapes",
+        "page": "https://dir.indiamart.com/impcat/piping-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/BY/OV/MY-2/piping-tape-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Electrical Insulation Tapes",
+        "page": "https://dir.indiamart.com/impcat/electrical-insulation-tapes.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/NX/GLADMIN-27607/electrical-insulation-tapes-125x125.jpg"
+      }
+    ]
+  }
+]

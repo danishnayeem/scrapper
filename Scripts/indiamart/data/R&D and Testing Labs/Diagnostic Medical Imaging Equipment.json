@@ -1,0 +1,90 @@
+[
+  {
+    "category_name": "Doppler Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/AU/GW/GLADMIN-138672/doppler-ultrasound-scanner-125x125.jpg",
+    "items": [
+      {
+        "name": "Portable Color Doppler Ultrasound Scanner",
+        "page": "https://dir.indiamart.com/impcat/portable-color-doppler-ultrasound-scanner.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/NJ/GLADMIN-154345/portable-color-doppler-ultrasound-scanner-125x125.jpg"
+      },
+      {
+        "name": "Fetal Doppler",
+        "page": "https://dir.indiamart.com/impcat/fetal-doppler.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/TA/GLADMIN-85085/fetal-doppler-125x125.jpg"
+      },
+      {
+        "name": "Fetal Monitor",
+        "page": "https://dir.indiamart.com/impcat/fetal-monitors.html",
+        "thumbnail": "http://3.imimg.com/data3/OG/IP/GLADMIN-27394/fetal-monitors-125x125.jpg"
+      },
+      {
+        "name": "Vascular Doppler Recorder",
+        "page": "https://dir.indiamart.com/impcat/vascular-doppler-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/RF/GR/GLADMIN-106864/vascular-doppler-recorder-125x125.jpg"
+      },
+      {
+        "name": "Transcranial Doppler System",
+        "page": "https://dir.indiamart.com/impcat/transcranial-doppler-system.html",
+        "thumbnail": "http://3.imimg.com/data3/GT/FD/GLADMIN-129779/transcranial-doppler-system-125x125.jpg"
+      },
+      {
+        "name": "Veterinary Color Doppler",
+        "page": "https://dir.indiamart.com/impcat/veterinary-color-doppler.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/EQ/GLADMIN-150821/veterinary-color-doppler-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "CT Scan Machine",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TS/QY/EL/94069/ct-scan-machine-125x125.webp",
+    "items": [
+      {
+        "name": "CT Scan Centres",
+        "page": "https://dir.indiamart.com/impcat/ct-scan-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/DA/GLADMIN-43356/ct-scan-services-125x125.jpg"
+      },
+      {
+        "name": "PET CT Scan Machine",
+        "page": "https://dir.indiamart.com/impcat/pet-ct-scan-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/XO/MQ/GLADMIN-2/pet-ct-scan-machine-125x125.jpg"
+      },
+      {
+        "name": "SPECT CT Scanner",
+        "page": "https://dir.indiamart.com/impcat/spect-ct-scanner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/CT/EI/SF/59766/spect-ct-scanner-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "MRI Machine",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/US/AC/WW/94069/mri-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Refurbished MRI Scanners",
+        "page": "https://dir.indiamart.com/impcat/refurbished-mri-scanners.html",
+        "thumbnail": "http://5.imimg.com/data5/DK/MM/MC/GLADMIN-76441/refurbished-mri-scanners-125x125.jpg"
+      },
+      {
+        "name": "3T MRI Machine",
+        "page": "https://dir.indiamart.com/impcat/3t-mri-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/TP/XV/KP/GLADMIN-68155/3t-mri-machine-125x125.jpg"
+      },
+      {
+        "name": "Open MRI Machine",
+        "page": "https://dir.indiamart.com/impcat/open-mri-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/10/KZ/PS/UX/68087/open-mri-machine-125x125.png"
+      },
+      {
+        "name": "MRI Machine Repair Services",
+        "page": "https://dir.indiamart.com/impcat/mri-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/1/YU/AW/MM/5095/mri-machine-repair-services-125x125.jpg"
+      },
+      {
+        "name": "Closed MRI Machine",
+        "page": "https://dir.indiamart.com/impcat/closed-mri-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/10/GO/XS/ZL/68087/closed-mri-machine-125x125.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,810 @@
+[
+  {
+    "category_name": "Earphones",
+    "category_thumbnail": "http://4.imimg.com/data4/WS/EA/GLADMIN-178634/mobile-earphone-125x125.jpg",
+    "items": [
+      {
+        "name": "Earbuds",
+        "page": "https://dir.indiamart.com/impcat/earbuds.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/JX/IE/RR/81953/earbuds-125x125.jpg"
+      },
+      {
+        "name": "Neckband Headphones",
+        "page": "https://dir.indiamart.com/impcat/neckband-headphones.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/PS/KH/YI/81953/neckband-headphones-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Earphone",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-earphone.html",
+        "thumbnail": "http://5.imimg.com/data5/FU/DX/GLADMIN-2/bluetooth-earphone-125x125.jpg"
+      },
+      {
+        "name": "Wired Earphone",
+        "page": "https://dir.indiamart.com/impcat/wired-earphone.html",
+        "thumbnail": "http://5.imimg.com/data5/AI/OP/GLADMIN-2/wired-earphone-125x125.jpg"
+      },
+      {
+        "name": "Wireless Earphone",
+        "page": "https://dir.indiamart.com/impcat/wireless-earphone.html",
+        "thumbnail": "http://5.imimg.com/data5/IP/QI/GLADMIN-2/wireless-earphone-125x125.jpg"
+      },
+      {
+        "name": "Earphone Case",
+        "page": "https://dir.indiamart.com/impcat/earphone-case.html",
+        "thumbnail": "http://5.imimg.com/data5/JR/OE/GLADMIN-2/earphone-case-125x125.jpg"
+      },
+      {
+        "name": "Oneplus Earphone",
+        "page": "https://dir.indiamart.com/impcat/oneplus-earphones.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/2/XY/XX/JO/84520/oneplus-earphones-125x125.png"
+      },
+      {
+        "name": "Earplug Earphone",
+        "page": "https://dir.indiamart.com/impcat/earplug-earphone.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/GN/GLADMIN-107639/earplug-earphone-125x125.jpg"
+      },
+      {
+        "name": "Cell Phone Headphone",
+        "page": "https://dir.indiamart.com/impcat/cell-phone-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/BF/GLADMIN-104283/cell-phone-headphone-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Handsfree",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-handsfree.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/LD/GLADMIN-22944/bluetooth-handsfree-125x125.jpg"
+      },
+      {
+        "name": "Mini Stereo Earphone",
+        "page": "https://dir.indiamart.com/impcat/mini-stereo-earphone.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/YR/GLADMIN-111575/mini-stereo-earphone-125x125.jpg"
+      },
+      {
+        "name": "Noise Canceling Earphone",
+        "page": "https://dir.indiamart.com/impcat/noise-canceling-earphone.html",
+        "thumbnail": "http://5.imimg.com/data5/XU/XJ/VH/GLADMIN-73962/noise-canceling-earphone-125x125.jpg"
+      },
+      {
+        "name": "Mini Earphone",
+        "page": "https://dir.indiamart.com/impcat/mini-earphone.html",
+        "thumbnail": "http://5.imimg.com/data5/ME/BM/GLADMIN-2/mini-earphone-125x125.jpg"
+      },
+      {
+        "name": "Airline Earphone",
+        "page": "https://dir.indiamart.com/impcat/airline-earphone.html",
+        "thumbnail": "http://5.imimg.com/data5/CK/BC/GLADMIN-2/airline-earphone-125x125.jpg"
+      },
+      {
+        "name": "Zipper Earphone",
+        "page": "https://dir.indiamart.com/impcat/zipper-earphone.html",
+        "thumbnail": "http://4.imimg.com/data4/TT/TT/GLADMIN-/zipper-earphone-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Speaker & Earphone Parts and  Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/WT/YX/GLADMIN-117549/speaker-box-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Speaker Cabinet",
+        "page": "https://dir.indiamart.com/impcat/speaker-cabinet.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/SN/GLADMIN-37455/speaker-cabinet-125x125.jpg"
+      },
+      {
+        "name": "Speaker Driver",
+        "page": "https://dir.indiamart.com/impcat/speaker-driver.html",
+        "thumbnail": "http://3.imimg.com/data3/LD/AD/GLADMIN-37456/speaker-driver-125x125.jpg"
+      },
+      {
+        "name": "Speaker Components",
+        "page": "https://dir.indiamart.com/impcat/speaker-components.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/XD/GLADMIN-78079/speaker-components-125x125.jpg"
+      },
+      {
+        "name": "Speaker Grille",
+        "page": "https://dir.indiamart.com/impcat/speaker-grille.html",
+        "thumbnail": "http://3.imimg.com/data3/WY/HP/GLADMIN-55195/speaker-grille-125x125.jpg"
+      },
+      {
+        "name": "Car Speaker Box",
+        "page": "https://dir.indiamart.com/impcat/car-speaker-box.html",
+        "thumbnail": "http://4.imimg.com/data4/DN/KF/GLADMIN-184228/car-speaker-box-125x125.jpg"
+      },
+      {
+        "name": "Speaker Crossover",
+        "page": "https://dir.indiamart.com/impcat/speaker-crossover.html",
+        "thumbnail": "http://3.imimg.com/data3/II/VK/GLADMIN-55193/speaker-crossover-125x125.jpg"
+      },
+      {
+        "name": "Line Array Cabinet",
+        "page": "https://dir.indiamart.com/impcat/line-array-cabinet.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/HY/GLADMIN-2/line-array-cabinet-125x125.jpg"
+      },
+      {
+        "name": "Headphone Cushions",
+        "page": "https://dir.indiamart.com/impcat/headphone-cushions.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/CC/GLADMIN-/headphone-cushions-125x125.jpg"
+      },
+      {
+        "name": "Subwoofer Box",
+        "page": "https://dir.indiamart.com/impcat/subwoofer-box.html",
+        "thumbnail": "http://5.imimg.com/data5/HS/VE/GLADMIN-2/subwoofer-box-125x125.jpg"
+      },
+      {
+        "name": "Speaker Cover",
+        "page": "https://dir.indiamart.com/impcat/speaker-cover.html",
+        "thumbnail": "http://5.imimg.com/data5/GJ/SC/GLADMIN-2/speaker-cover-125x125.jpg"
+      },
+      {
+        "name": "Speaker Stand",
+        "page": "https://dir.indiamart.com/impcat/speaker-stand.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/TI/GLADMIN-55197/speaker-stand-125x125.jpg"
+      },
+      {
+        "name": "Speaker Wire",
+        "page": "https://dir.indiamart.com/impcat/speaker-wire.html",
+        "thumbnail": "http://3.imimg.com/data3/WH/JH/GLADMIN-37463/speaker-wire-125x125.jpg"
+      },
+      {
+        "name": "Speaker Magnet",
+        "page": "https://dir.indiamart.com/impcat/speaker-magnet.html",
+        "thumbnail": "http://3.imimg.com/data3/TG/KA/GLADMIN-37458/speaker-magnet-125x125.jpg"
+      },
+      {
+        "name": "Speaker Frame",
+        "page": "https://dir.indiamart.com/impcat/speaker-frame.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/RB/GLADMIN-37457/speaker-frame-125x125.jpg"
+      },
+      {
+        "name": "Speaker Cable",
+        "page": "https://dir.indiamart.com/impcat/speaker-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/MJ/NO/GLADMIN-45859/speaker-cable-125x125.jpg"
+      },
+      {
+        "name": "Auxiliary Cable",
+        "page": "https://dir.indiamart.com/impcat/auxiliary-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/BS/GLADMIN-166201/auxiliary-cable-125x125.jpg"
+      },
+      {
+        "name": "Speaker Handle",
+        "page": "https://dir.indiamart.com/impcat/speaker-handle.html",
+        "thumbnail": "http://5.imimg.com/data5/BI/PD/RB/GLADMIN-73621/speaker-handle-125x125.png"
+      },
+      {
+        "name": "Headphone Accessories",
+        "page": "https://dir.indiamart.com/impcat/headphone-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/PT/QK/GLADMIN-105400/headphone-accessories-125x125.jpg"
+      },
+      {
+        "name": "Speaker Box Parts",
+        "page": "https://dir.indiamart.com/impcat/speaker-box-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/SO/HH/GLADMIN-117550/speaker-box-parts-125x125.jpg"
+      },
+      {
+        "name": "Plastic Speaker Cabinet",
+        "page": "https://dir.indiamart.com/impcat/plastic-speaker-cabinet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/331293569/DN/SF/OF/96012/plastic-speaker-cabinet-125x125.jpg"
+      },
+      {
+        "name": "Speaker Terminal",
+        "page": "https://dir.indiamart.com/impcat/speaker-terminal.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/TA/GLADMIN-37462/speaker-terminal-125x125.jpg"
+      },
+      {
+        "name": "Earphone Accessories",
+        "page": "https://dir.indiamart.com/impcat/earphone-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/FJ/GLADMIN-107634/earphone-accessories-125x125.jpg"
+      },
+      {
+        "name": "Headphone Adapter",
+        "page": "https://dir.indiamart.com/impcat/headphone-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/OR/GLADMIN-99714/headphone-adapter-125x125.jpg"
+      },
+      {
+        "name": "Plastic Speaker Parts",
+        "page": "https://dir.indiamart.com/impcat/plastic-speaker-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/VY/GLADMIN-111883/plastic-speaker-parts-125x125.jpg"
+      },
+      {
+        "name": "Car Speaker Parts",
+        "page": "https://dir.indiamart.com/impcat/car-speaker-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/AK/GLADMIN-100721/car-speaker-parts-125x125.jpg"
+      },
+      {
+        "name": "Speaker Sockets",
+        "page": "https://dir.indiamart.com/impcat/speaker-sockets.html",
+        "thumbnail": "http://3.imimg.com/data3/SY/PI/GLADMIN-7675/speaker-sockets-125x125.jpg"
+      },
+      {
+        "name": "Speaker Bracket",
+        "page": "https://dir.indiamart.com/impcat/speaker-bracket.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/BU/GLADMIN-37454/speaker-bracket-125x125.jpg"
+      },
+      {
+        "name": "Stereo Socket",
+        "page": "https://dir.indiamart.com/impcat/stereo-socket.html",
+        "thumbnail": "http://3.imimg.com/data3/JA/KA/GLADMIN-7955/stereo-socket-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Home Audio Speaker",
+    "category_thumbnail": "http://3.imimg.com/data3/HF/KO/GLADMIN-29434/home-audio-speaker-125x125.jpg",
+    "items": [
+      {
+        "name": "Tower Speaker",
+        "page": "https://dir.indiamart.com/impcat/tower-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/EU/SA/GLADMIN-55200/tower-speaker-125x125.jpg"
+      },
+      {
+        "name": "Multimedia Speaker",
+        "page": "https://dir.indiamart.com/impcat/multimedia-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/FS/EL/GLADMIN-2/multimedia-speaker-125x125.jpg"
+      },
+      {
+        "name": "Portable Speaker",
+        "page": "https://dir.indiamart.com/impcat/portable-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/RF/SQ/GLADMIN-18263/portable-speaker-125x125.jpg"
+      },
+      {
+        "name": "Powered Speakers",
+        "page": "https://dir.indiamart.com/impcat/powered-speakers.html",
+        "thumbnail": "http://3.imimg.com/data3/SP/ML/GLADMIN-7269/powered-speakers-125x125.jpg"
+      },
+      {
+        "name": "Speaker System",
+        "page": "https://dir.indiamart.com/impcat/speaker-system.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/WE/GLADMIN-37461/speaker-system-125x125.jpg"
+      },
+      {
+        "name": "Surround Sound Speaker",
+        "page": "https://dir.indiamart.com/impcat/surround-sound-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/JS/GLADMIN-18888/surround-sound-speaker-125x125.jpg"
+      },
+      {
+        "name": "Active Speaker System",
+        "page": "https://dir.indiamart.com/impcat/active-speaker-system.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/QF/GLADMIN-21288/active-speaker-system-125x125.jpg"
+      },
+      {
+        "name": "Dual Woofer Speaker",
+        "page": "https://dir.indiamart.com/impcat/dual-woofer-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/GU/GLADMIN-13981/dual-woofer-speaker-125x125.jpg"
+      },
+      {
+        "name": "Column Speaker",
+        "page": "https://dir.indiamart.com/impcat/column-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/BW/GLADMIN-55154/column-speaker-125x125.jpg"
+      },
+      {
+        "name": "Wall Mount Speaker",
+        "page": "https://dir.indiamart.com/impcat/wall-mount-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/wall-mount-speaker-125x125.jpg"
+      },
+      {
+        "name": "Hi-Fi Speaker",
+        "page": "https://dir.indiamart.com/impcat/hi-fi-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/YT/GLADMIN-30294/hi-fi-speaker-125x125.jpg"
+      },
+      {
+        "name": "PA Column Speaker",
+        "page": "https://dir.indiamart.com/impcat/pa-column-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/MM/GLADMIN-/a-img924-7784-zeor5z-125x125.jpg"
+      },
+      {
+        "name": "Acoustic Multimedia Speakers",
+        "page": "https://dir.indiamart.com/impcat/acoustic-multimedia-speakers.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/JX/GLADMIN-45386/acoustic-multimedia-speakers-125x125.jpg"
+      },
+      {
+        "name": "Wooden Speaker",
+        "page": "https://dir.indiamart.com/impcat/wooden-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/XX/NG/GLADMIN-55217/wooden-speaker-125x125.jpg"
+      },
+      {
+        "name": "Stereo Speakers",
+        "page": "https://dir.indiamart.com/impcat/stereo-speakers.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/BU/GLADMIN-38191/stereo-speakers-125x125.jpg"
+      },
+      {
+        "name": "Mini Surround Sound Speaker",
+        "page": "https://dir.indiamart.com/impcat/mini-surround-sound-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/RC/GLADMIN-111577/mini-surround-sound-speaker-125x125.jpg"
+      },
+      {
+        "name": "Flat Speaker",
+        "page": "https://dir.indiamart.com/impcat/flat-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/WN/GLADMIN-12386/flat-speaker-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Speaker",
+        "page": "https://dir.indiamart.com/impcat/aluminum-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/RA/GLADMIN-55147/aluminum-speaker-125x125.jpg"
+      },
+      {
+        "name": "3D Speaker",
+        "page": "https://dir.indiamart.com/impcat/3d-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/YX/GLADMIN-14943/3d-speaker-125x125.jpg"
+      },
+      {
+        "name": "Portable DVD Speaker",
+        "page": "https://dir.indiamart.com/impcat/portable-dvd-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/YY/GLADMIN-111926/portable-dvd-speaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Raw Speakers",
+    "category_thumbnail": "http://5.imimg.com/data5/FJ/LC/GLADMIN-2/raw-speaker-125x125.jpg",
+    "items": [
+      {
+        "name": "Pro Audio Speaker",
+        "page": "https://dir.indiamart.com/impcat/pro-audio-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/ES/AA/GLADMIN-126301/pro-audio-speaker-125x125.jpg"
+      },
+      {
+        "name": "Cone Speaker",
+        "page": "https://dir.indiamart.com/impcat/cone-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/DE/GI/GLADMIN-25767/cone-speaker-125x125.jpg"
+      },
+      {
+        "name": "TV Speaker",
+        "page": "https://dir.indiamart.com/impcat/tv-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/DR/OI/GLADMIN-2/tv-speaker-125x125.jpg"
+      },
+      {
+        "name": "Ceiling Speaker",
+        "page": "https://dir.indiamart.com/impcat/ceiling-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/AY/MY-2/ceiling-speaker-125x125.jpg"
+      },
+      {
+        "name": "Coaxial Speaker",
+        "page": "https://dir.indiamart.com/impcat/coaxial-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/LE/GLADMIN-13138/coaxial-speaker-125x125.jpg"
+      },
+      {
+        "name": "Piezo Speaker",
+        "page": "https://dir.indiamart.com/impcat/piezo-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/DT/MY-2/piezo-speaker-125x125.jpg"
+      },
+      {
+        "name": "Micro Speaker",
+        "page": "https://dir.indiamart.com/impcat/micro-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/LX/MD/GLADMIN-2/micro-speaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Subwoofer",
+    "category_thumbnail": "http://5.imimg.com/data5/QN/EF/GLADMIN-2/subwoofer-125x125.jpg",
+    "items": [
+      {
+        "name": "Subwoofer Speaker",
+        "page": "https://dir.indiamart.com/impcat/subwoofer-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/NR/GLADMIN-18779/subwoofer-speaker-125x125.jpg"
+      },
+      {
+        "name": "Audio Subwoofer",
+        "page": "https://dir.indiamart.com/impcat/audio-subwoofer.html",
+        "thumbnail": "http://3.imimg.com/data3/WU/IX/GLADMIN-50711/audio-subwoofer-125x125.jpg"
+      },
+      {
+        "name": "Car Subwoofer",
+        "page": "https://dir.indiamart.com/impcat/car-subwoofer.html",
+        "thumbnail": "http://3.imimg.com/data3/FY/YU/GLADMIN-24142/car-subwoofer-125x125.jpg"
+      },
+      {
+        "name": "Single Woofer Speaker",
+        "page": "https://dir.indiamart.com/impcat/single-woofer-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/OJ/FT/GLADMIN-19054/single-woofer-speaker-125x125.jpg"
+      },
+      {
+        "name": "Car Woofer",
+        "page": "https://dir.indiamart.com/impcat/car-woofer.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/PF/GLADMIN-55230/car-woofer-125x125.jpg"
+      },
+      {
+        "name": "Yamaha Speaker",
+        "page": "https://dir.indiamart.com/impcat/yamaha-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/ZN/FT/WX/84520/yamaha-speaker-125x125.jpg"
+      },
+      {
+        "name": "PA Power Woofer",
+        "page": "https://dir.indiamart.com/impcat/pa-power-woofer.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/AP/GLADMIN-111742/pa-power-woofer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Headphone",
+    "category_thumbnail": "http://3.imimg.com/data3/MF/HI/GLADMIN-30151/headphone-125x125.jpg",
+    "items": [
+      {
+        "name": "Wireless Headphone",
+        "page": "https://dir.indiamart.com/impcat/wireless-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/XC/GLADMIN-20190/wireless-headphone-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Headphone",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-handphone.html",
+        "thumbnail": "http://5.imimg.com/data5/NU/BD/BV/GLADMIN-55524/bluetooth-headphone-125x125.jpeg"
+      },
+      {
+        "name": "Wired Headphone",
+        "page": "https://dir.indiamart.com/impcat/wired-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/UO/GLADMIN-20184/wired-headphone-125x125.jpg"
+      },
+      {
+        "name": "Stereo Headphone",
+        "page": "https://dir.indiamart.com/impcat/stereo-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/GX/GLADMIN-38187/stereo-headphone-125x125.jpg"
+      },
+      {
+        "name": "Noise Cancelling Headphones",
+        "page": "https://dir.indiamart.com/impcat/noise-canceling-headphones.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/MH/GLADMIN-32838/noise-canceling-headphones-125x125.jpg"
+      },
+      {
+        "name": "Handsfree Headphone",
+        "page": "https://dir.indiamart.com/impcat/handsfree-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/VC/GLADMIN-53045/handsfree-headphone-125x125.jpg"
+      },
+      {
+        "name": "DJ Headphone",
+        "page": "https://dir.indiamart.com/impcat/dj-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/QW/UD/GLADMIN-53037/dj-headphone-125x125.jpg"
+      },
+      {
+        "name": "Bass Headphones",
+        "page": "https://dir.indiamart.com/impcat/bass-headphones.html",
+        "thumbnail": "http://5.imimg.com/data5/JJ/JJ/GLADMIN-/bass-headphones-125x125.jpg"
+      },
+      {
+        "name": "Wireless Stereo Headphone",
+        "page": "https://dir.indiamart.com/impcat/wireless-stereo-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/NS/GLADMIN-55215/wireless-stereo-headphone-125x125.jpg"
+      },
+      {
+        "name": "Ear Hook Headphone",
+        "page": "https://dir.indiamart.com/impcat/ear-hook-headphone.html",
+        "thumbnail": "http://5.imimg.com/data5/LV/AK/GLADMIN-2/ear-hook-headphone-125x125.jpg"
+      },
+      {
+        "name": "Computer Headphone",
+        "page": "https://dir.indiamart.com/impcat/computer-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/YV/GLADMIN-13325/computer-headphone-125x125.jpg"
+      },
+      {
+        "name": "USB Headphone",
+        "page": "https://dir.indiamart.com/impcat/usb-headphone.html",
+        "thumbnail": "http://5.imimg.com/data5/VE/PX/GLADMIN-2/usb-headphone-125x125.jpg"
+      },
+      {
+        "name": "Hi Fi Headphones",
+        "page": "https://dir.indiamart.com/impcat/hi-fi-headphones.html",
+        "thumbnail": "http://3.imimg.com/data3/BO/ES/GLADMIN-53047/hi-fi-headphones-125x125.jpg"
+      },
+      {
+        "name": "Mini Headphone",
+        "page": "https://dir.indiamart.com/impcat/mini-headphone.html",
+        "thumbnail": "http://5.imimg.com/data5/SN/YH/GLADMIN-2/mini-headphone-125x125.jpg"
+      },
+      {
+        "name": "FM Wireless Headphone",
+        "page": "https://dir.indiamart.com/impcat/fm-wireless-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/SJ/GLADMIN-53043/fm-wireless-headphone-125x125.jpg"
+      },
+      {
+        "name": "Foldable Headphone",
+        "page": "https://dir.indiamart.com/impcat/foldable-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/NB/SL/GLADMIN-53220/foldable-headphone-125x125.jpg"
+      },
+      {
+        "name": "Monitoring Headphones",
+        "page": "https://dir.indiamart.com/impcat/monitoring-headphones.html",
+        "thumbnail": "http://5.imimg.com/data5/GY/JU/GLADMIN-2/monitoring-headphone-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Speakers",
+    "category_thumbnail": "http://3.imimg.com/data3/NW/PQ/GLADMIN-171/speakers-125x125.jpg",
+    "items": [
+      {
+        "name": "Outdoor Speaker",
+        "page": "https://dir.indiamart.com/impcat/outdoor-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/SG/RY/GLADMIN-2/outdoor-speaker-125x125.jpg"
+      },
+      {
+        "name": "Subwoofer",
+        "page": "https://dir.indiamart.com/impcat/subwoofer.html",
+        "thumbnail": "http://5.imimg.com/data5/QN/EF/GLADMIN-2/subwoofer-125x125.jpg"
+      },
+      {
+        "name": "Trolley Speakers",
+        "page": "https://dir.indiamart.com/impcat/trolley-speakers.html",
+        "thumbnail": "http://5.imimg.com/data5/RR/RR/GLADMIN-/trolley-speakers-125x125.jpg"
+      },
+      {
+        "name": "Wireless Speaker",
+        "page": "https://dir.indiamart.com/impcat/wireless-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/GN/GLADMIN-20201/wireless-speaker-125x125.jpg"
+      },
+      {
+        "name": "Boat Speaker",
+        "page": "https://dir.indiamart.com/impcat/boat-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/LA/EW/HE/84520/boat-speaker-125x125.jpg"
+      },
+      {
+        "name": "Speaker Lamp",
+        "page": "https://dir.indiamart.com/impcat/speaker-lamp.html",
+        "thumbnail": "http://5.imimg.com/data5/WO/IC/VC/GLADMIN-56986/speaker-lamp-125x125.jpg"
+      },
+      {
+        "name": "Home Audio Speaker",
+        "page": "https://dir.indiamart.com/impcat/home-audio-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/KO/GLADMIN-29434/home-audio-speaker-125x125.jpg"
+      },
+      {
+        "name": "Raw Speakers",
+        "page": "https://dir.indiamart.com/impcat/magnetic-raw-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/FJ/LC/GLADMIN-2/raw-speaker-125x125.jpg"
+      },
+      {
+        "name": "Computer Speakers",
+        "page": "https://dir.indiamart.com/impcat/computer-speakers.html",
+        "thumbnail": "http://5.imimg.com/data5/OF/TA/GLADMIN-2/computer-speakers-125x125.jpg"
+      },
+      {
+        "name": "Used Speakers",
+        "page": "https://dir.indiamart.com/impcat/used-speakers.html",
+        "thumbnail": "http://5.imimg.com/data5/KK/KK/GLADMIN-/used-speakers-125x125.png"
+      },
+      {
+        "name": "Cinema Speakers",
+        "page": "https://dir.indiamart.com/impcat/cinema-speakers.html",
+        "thumbnail": "http://5.imimg.com/data5/MD/CU/WV/GLADMIN-68155/cinema-speakers-125x125.png"
+      },
+      {
+        "name": "Bamboo Speaker",
+        "page": "https://dir.indiamart.com/impcat/bamboo-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/RQ/XK/HB/GLADMIN-68087/bamboo-speaker-125x125.jpg"
+      },
+      {
+        "name": "Multimedia Sound Boxes",
+        "page": "https://dir.indiamart.com/impcat/multimedia-sound-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/MG/GLADMIN-111660/multimedia-sound-boxes-125x125.jpg"
+      },
+      {
+        "name": "Music Flower Pot",
+        "page": "https://dir.indiamart.com/impcat/music-flower-pot.html",
+        "thumbnail": "http://5.imimg.com/data5/NE/LK/UX/GLADMIN-68087/music-flower-pot-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bluetooth Speaker",
+    "category_thumbnail": "http://3.imimg.com/data3/AU/MV/GLADMIN-23505/bluetooth-speaker-125x125.jpg",
+    "items": [
+      {
+        "name": "Mini Bluetooth Speaker",
+        "page": "https://dir.indiamart.com/impcat/mini-bluetooth-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/FV/BM/KM/GLADMIN-56986/mini-bluetooth-speaker-125x125.jpg"
+      },
+      {
+        "name": "Wireless Bluetooth Speakers",
+        "page": "https://dir.indiamart.com/impcat/wireless-bluetooth-speakers.html",
+        "thumbnail": "http://5.imimg.com/data5/BF/CI/GLADMIN-2/wireless-bluetooth-speakers-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Portable Speaker",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-portable-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/VP/RN/GLADMIN-2/bluetooth-portable-speaker-125x125.jpg"
+      },
+      {
+        "name": "MI Speaker",
+        "page": "https://dir.indiamart.com/impcat/mi-bluetooth-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/DE/QJ/QE/84520/mi-bluetooth-speaker-125x125.jpg"
+      },
+      {
+        "name": "Flame Bluetooth Speaker",
+        "page": "https://dir.indiamart.com/impcat/flame-bluetooth-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/OM/FY/GO/84520/flame-bluetooth-speaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Wireless Speaker",
+    "category_thumbnail": "http://3.imimg.com/data3/XK/GN/GLADMIN-20201/wireless-speaker-125x125.jpg",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/MV/GLADMIN-23505/bluetooth-speaker-125x125.jpg"
+      },
+      {
+        "name": "Waterproof Bluetooth Speaker",
+        "page": "https://dir.indiamart.com/impcat/waterproof-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/SC/GLADMIN-39465/waterproof-speaker-125x125.jpg"
+      },
+      {
+        "name": "iPod Speaker",
+        "page": "https://dir.indiamart.com/impcat/i-pod-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/EX/GLADMIN-55169/i-pod-speaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Headsets",
+    "category_thumbnail": "http://3.imimg.com/data3/FX/DG/GLADMIN-53049/microphone-headphone-125x125.jpg",
+    "items": [
+      {
+        "name": "Bluetooth Headset",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-headset.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/XS/MY-2/bluetooth-headset-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Stereo Headset",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-stereo-headset.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/JW/GLADMIN-55727/bluetooth-stereo-headset-125x125.jpg"
+      },
+      {
+        "name": "Wireless Headsets",
+        "page": "https://dir.indiamart.com/impcat/wireless-headsets.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/QD/GLADMIN-41297/wireless-headsets-125x125.jpg"
+      },
+      {
+        "name": "USB Headset",
+        "page": "https://dir.indiamart.com/impcat/usb-headset.html",
+        "thumbnail": "http://3.imimg.com/data3/FT/TM/GLADMIN-40616/usb-headset-125x125.jpg"
+      },
+      {
+        "name": "Call Center Headsets",
+        "page": "https://dir.indiamart.com/impcat/call-center-headsets.html",
+        "thumbnail": "http://5.imimg.com/data5/QI/QC/GLADMIN-2/call-center-headsets-125x125.png"
+      },
+      {
+        "name": "Mobile Phone Headset",
+        "page": "https://dir.indiamart.com/impcat/mobile-phone-headset.html",
+        "thumbnail": "http://3.imimg.com/data3/WF/XI/GLADMIN-32819/mobile-phone-headset-125x125.jpg"
+      },
+      {
+        "name": "Walkie Talkie Headset",
+        "page": "https://dir.indiamart.com/impcat/walkie-talkie-headset.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/HE/GLADMIN-53267/walkie-talkie-headset-125x125.jpg"
+      },
+      {
+        "name": "Aviation Headset",
+        "page": "https://dir.indiamart.com/impcat/aviation-headset.html",
+        "thumbnail": "http://3.imimg.com/data3/PR/XF/GLADMIN-53192/aviation-headset-125x125.jpg"
+      },
+      {
+        "name": "Phone Stereo Headset",
+        "page": "https://dir.indiamart.com/impcat/phone-stereo-headset.html",
+        "thumbnail": "http://3.imimg.com/data3/IW/HU/GLADMIN-34003/phone-stereo-headset-125x125.jpg"
+      },
+      {
+        "name": "Single Sided Headset",
+        "page": "https://dir.indiamart.com/impcat/single-sided-headset.html",
+        "thumbnail": "http://3.imimg.com/data3/YY/IJ/GLADMIN-53063/single-sided-headset-125x125.jpg"
+      },
+      {
+        "name": "Communication Headphone",
+        "page": "https://dir.indiamart.com/impcat/communication-headphone.html",
+        "thumbnail": "http://3.imimg.com/data3/BF/SK/GLADMIN-53200/communication-headphone-125x125.jpg"
+      },
+      {
+        "name": "Radio Headset",
+        "page": "https://dir.indiamart.com/impcat/radio-headset.html",
+        "thumbnail": "http://3.imimg.com/data3/PF/WR/GLADMIN-18469/radio-headset-125x125.jpg"
+      },
+      {
+        "name": "Telephone Headsets",
+        "page": "https://dir.indiamart.com/impcat/telephone-headsets.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/RC/GLADMIN-53067/telephone-headsets-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Computer Speakers",
+    "category_thumbnail": "http://5.imimg.com/data5/OF/TA/GLADMIN-2/computer-speakers-125x125.jpg",
+    "items": [
+      {
+        "name": "Laptop Speaker",
+        "page": "https://dir.indiamart.com/impcat/laptop-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/AX/KK/GLADMIN-31536/laptop-speaker-125x125.jpg"
+      },
+      {
+        "name": "Mini Computer Speaker",
+        "page": "https://dir.indiamart.com/impcat/mini-computer-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/TN/LN/GLADMIN-100698/mini-computer-speaker-125x125.jpg"
+      },
+      {
+        "name": "USB Speaker",
+        "page": "https://dir.indiamart.com/impcat/usb-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/DH/GLADMIN-40574/usb-speaker-125x125.jpg"
+      },
+      {
+        "name": "Mobile Phone Speaker",
+        "page": "https://dir.indiamart.com/impcat/mobile-phone-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/LA/GLADMIN-33164/mobile-phone-speaker-125x125.jpg"
+      },
+      {
+        "name": "Wireless PC Speaker",
+        "page": "https://dir.indiamart.com/impcat/wireless-pc-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/OY/NA/GLADMIN-118044/wireless-pc-speaker-125x125.jpg"
+      },
+      {
+        "name": "External Speaker",
+        "page": "https://dir.indiamart.com/impcat/external-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/KO/GLADMIN-55162/external-speaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Outdoor Speaker",
+    "category_thumbnail": "http://5.imimg.com/data5/SG/RY/GLADMIN-2/outdoor-speaker-125x125.jpg",
+    "items": [
+      {
+        "name": "Line Array System",
+        "page": "https://dir.indiamart.com/impcat/line-array-system.html",
+        "thumbnail": "http://4.imimg.com/data4/CG/UA/GLADMIN-182677/line-array-system-125x125.jpg"
+      },
+      {
+        "name": "Loudspeaker",
+        "page": "https://dir.indiamart.com/impcat/loudspeaker.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/KH/GLADMIN-17226/loudspeaker-125x125.jpg"
+      },
+      {
+        "name": "Powered PA Speaker",
+        "page": "https://dir.indiamart.com/impcat/powered-pa-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/UQ/HB/GLADMIN-35552/powered-pa-speaker-125x125.jpg"
+      },
+      {
+        "name": "Two Way Speaker",
+        "page": "https://dir.indiamart.com/impcat/two-way-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/OY/GLADMIN-55202/two-way-speaker-125x125.jpg"
+      },
+      {
+        "name": "Karaoke Speaker",
+        "page": "https://dir.indiamart.com/impcat/karaoke-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/LN/GLADMIN-31248/karaoke-speaker-125x125.jpg"
+      },
+      {
+        "name": "Amplified Speaker",
+        "page": "https://dir.indiamart.com/impcat/amplified-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/YK/GLADMIN-55148/amplified-speaker-125x125.jpg"
+      },
+      {
+        "name": "Active PA Speaker",
+        "page": "https://dir.indiamart.com/impcat/active-pa-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/HA/GLADMIN-45388/active-pa-speaker-125x125.jpg"
+      },
+      {
+        "name": "Garden Speaker",
+        "page": "https://dir.indiamart.com/impcat/garden-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/WT/GLADMIN-104726/garden-speaker-125x125.jpg"
+      },
+      {
+        "name": "Hi-Fi Loudspeaker",
+        "page": "https://dir.indiamart.com/impcat/hi-fi-loudspeaker.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/TF/GLADMIN-16251/hi-fi-loudspeaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Wireless Bluetooth Speakers",
+        "page": "https://dir.indiamart.com/impcat/wireless-bluetooth-speakers.html",
+        "thumbnail": "http://5.imimg.com/data5/BF/CI/GLADMIN-2/wireless-bluetooth-speakers-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Portable Speaker",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-portable-speaker.html",
+        "thumbnail": "http://5.imimg.com/data5/VP/RN/GLADMIN-2/bluetooth-portable-speaker-125x125.jpg"
+      }
+    ]
+  }
+]

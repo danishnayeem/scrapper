@@ -1,0 +1,968 @@
+[
+  {
+    "category_name": "Fresh Fruits",
+    "category_thumbnail": "http://3.imimg.com/data3/QT/YU/GLADMIN-571/fresh-fruits-125x125.jpg",
+    "items": [
+      {
+        "name": "Sugarcane",
+        "page": "https://dir.indiamart.com/impcat/sugar-cane.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/JS/GLADMIN-39263/sugar-cane-125x125.jpg"
+      },
+      {
+        "name": "Pomegranates",
+        "page": "https://dir.indiamart.com/impcat/fresh-pomegranates.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/DI/ZB/TV/92368/pomegranates-125x125.jpg"
+      },
+      {
+        "name": "Soursop",
+        "page": "https://dir.indiamart.com/impcat/soursop.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/PS/GLADMIN-165386/soursop-125x125.jpg"
+      },
+      {
+        "name": "Watermelon",
+        "page": "https://dir.indiamart.com/impcat/watermelon.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/BB/CW/AC/92368/watermelon-125x125.jpg"
+      },
+      {
+        "name": "Apple",
+        "page": "https://dir.indiamart.com/impcat/apple.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/BE/AS/OV/92368/apple-125x125.jpg"
+      },
+      {
+        "name": "Guava",
+        "page": "https://dir.indiamart.com/impcat/guava.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/HF/VC/TB/92368/guava-125x125.jpg"
+      },
+      {
+        "name": "Cherries",
+        "page": "https://dir.indiamart.com/impcat/fresh-cherries.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/AP/GLADMIN-84769/fresh-cherries-125x125.jpg"
+      },
+      {
+        "name": "Grapes",
+        "page": "https://dir.indiamart.com/impcat/fresh-grapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/XW/VT/QU/92368/grapes-125x125.jpg"
+      },
+      {
+        "name": "Jujube Fruit",
+        "page": "https://dir.indiamart.com/impcat/jujube-fruit.html",
+        "thumbnail": "http://3.imimg.com/data3/SX/BD/GLADMIN-17258/jujube-fruit-125x125.jpg"
+      },
+      {
+        "name": "Mangoes",
+        "page": "https://dir.indiamart.com/impcat/mango.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SL/BP/GQ/92368/mangoes-125x125.jpg"
+      },
+      {
+        "name": "Kiwi",
+        "page": "https://dir.indiamart.com/impcat/fresh-kiwi.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/VV/MD/JQ/92368/kiwi-125x125.jpg"
+      },
+      {
+        "name": "Dragon Fruit",
+        "page": "https://dir.indiamart.com/impcat/dragon-fruit.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/JE/UP/DG/92368/dragon-fruit-125x125.jpg"
+      },
+      {
+        "name": "Cavendish Bananas",
+        "page": "https://dir.indiamart.com/impcat/cavendish-bananas.html",
+        "thumbnail": "http://3.imimg.com/data3/QS/KV/GLADMIN-163413/cavendish-bananas-125x125.jpg"
+      },
+      {
+        "name": "Wet Dates",
+        "page": "https://dir.indiamart.com/impcat/wet-dates.html",
+        "thumbnail": "http://5.imimg.com/data5/FE/NK/GLADMIN-2/wet-dates-125x125.jpg"
+      },
+      {
+        "name": "Fig",
+        "page": "https://dir.indiamart.com/impcat/fresh-fig.html",
+        "thumbnail": "http://4.imimg.com/data4/VP/GM/GLADMIN-179860/fresh-fig-125x125.jpg"
+      },
+      {
+        "name": "Mangosteen",
+        "page": "https://dir.indiamart.com/impcat/mangosteen.html",
+        "thumbnail": "http://3.imimg.com/data3/BG/QD/GLADMIN-158650/mangosteen-125x125.jpg"
+      },
+      {
+        "name": "Durian Fruit",
+        "page": "https://dir.indiamart.com/impcat/durian-fruit.html",
+        "thumbnail": "http://4.imimg.com/data4/FF/FF/GLADMIN-/durian-fruit-125x125.jpg"
+      },
+      {
+        "name": "Black Grapes",
+        "page": "https://dir.indiamart.com/impcat/black-grapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/WB/UA/TL/92375/black-grapes-125x125.jpg"
+      },
+      {
+        "name": "Bael Fruit",
+        "page": "https://dir.indiamart.com/impcat/aegle-marmelos.html",
+        "thumbnail": "http://5.imimg.com/data5/MS/YR/GLADMIN-2/bael-fruit-125x125.jpg"
+      },
+      {
+        "name": "Muskmelon",
+        "page": "https://dir.indiamart.com/impcat/muskmelon.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/AN/IK/TM/92368/muskmelon-125x125.jpg"
+      },
+      {
+        "name": "Custard Apple",
+        "page": "https://dir.indiamart.com/impcat/custard-apple.html",
+        "thumbnail": "http://3.imimg.com/data3/UR/FH/GLADMIN-25224/custard-apple-125x125.jpg"
+      },
+      {
+        "name": "Persimmon Fruit",
+        "page": "https://dir.indiamart.com/impcat/persimmon-fruit.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/305032277/WZ/UF/BH/64512/persimmon-fruit-125x125.jpg"
+      },
+      {
+        "name": "Organic Fruits",
+        "page": "https://dir.indiamart.com/impcat/organic-fruits.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/CG/GLADMIN-141034/organic-fruits-125x125.jpg"
+      },
+      {
+        "name": "Pears",
+        "page": "https://dir.indiamart.com/impcat/fresh-pears.html",
+        "thumbnail": "http://3.imimg.com/data3/TE/NN/GLADMIN-45807/fresh-pears-125x125.jpg"
+      },
+      {
+        "name": "Green Grapes",
+        "page": "https://dir.indiamart.com/impcat/green-grapes.html",
+        "thumbnail": "http://5.imimg.com/data5/GR/RF/OW/GLADMIN-68087/green-grapes-125x125.png"
+      },
+      {
+        "name": "Chiku",
+        "page": "https://dir.indiamart.com/impcat/sapodilla.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/JB/FA/ED/92368/chiku-125x125.jpg"
+      },
+      {
+        "name": "Organic Pomegranate",
+        "page": "https://dir.indiamart.com/impcat/organic-pomegranate.html",
+        "thumbnail": "http://5.imimg.com/data5/AW/YO/LX/GLADMIN-68087/organic-pomegranate-125x125.jpg"
+      },
+      {
+        "name": "Passion Fruit",
+        "page": "https://dir.indiamart.com/impcat/passion-fruit.html",
+        "thumbnail": "http://4.imimg.com/data4/FK/OW/GLADMIN-179859/passion-fruit-125x125.jpg"
+      },
+      {
+        "name": "Red Banana",
+        "page": "https://dir.indiamart.com/impcat/red-banana.html",
+        "thumbnail": "http://4.imimg.com/data4/CK/YS/GLADMIN-179861/red-banana-125x125.jpg"
+      },
+      {
+        "name": "Tropical Fruits",
+        "page": "https://dir.indiamart.com/impcat/tropical-fruits.html",
+        "thumbnail": "http://5.imimg.com/data5/BT/BF/GLADMIN-2/tropical-fruit-125x125.jpg"
+      },
+      {
+        "name": "Plum",
+        "page": "https://dir.indiamart.com/impcat/plum.html",
+        "thumbnail": "http://4.imimg.com/data4/DW/XM/GLADMIN-180841/plum-125x125.png"
+      },
+      {
+        "name": "Citrus Fruits",
+        "page": "https://dir.indiamart.com/impcat/citrus-fruits.html",
+        "thumbnail": "http://3.imimg.com/data3/NJ/LG/GLADMIN-24931/citrus-fruits-125x125.jpg"
+      },
+      {
+        "name": "Chestnut",
+        "page": "https://dir.indiamart.com/impcat/fresh-chestnut.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/PX/GLADMIN-104599/fresh-chestnut-125x125.jpg"
+      },
+      {
+        "name": "Berries",
+        "page": "https://dir.indiamart.com/impcat/berries.html",
+        "thumbnail": "http://5.imimg.com/data5/XR/UE/GLADMIN-2/berries-125x125.jpg"
+      },
+      {
+        "name": "Neem Fruits",
+        "page": "https://dir.indiamart.com/impcat/neem-fruits.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/YB/GLADMIN-7326/neem-fruits-125x125.jpg"
+      },
+      {
+        "name": "Rambutan",
+        "page": "https://dir.indiamart.com/impcat/rambutan.html",
+        "thumbnail": "http://4.imimg.com/data4/EM/MT/GLADMIN-179862/rambutan-125x125.png"
+      },
+      {
+        "name": "Star Fruit",
+        "page": "https://dir.indiamart.com/impcat/carambola.html",
+        "thumbnail": "http://4.imimg.com/data4/II/II/GLADMIN-/carambola-125x125.jpg"
+      },
+      {
+        "name": "Seedless Grapes",
+        "page": "https://dir.indiamart.com/impcat/seedless-grapes.html",
+        "thumbnail": "http://3.imimg.com/data3/GJ/GO/GLADMIN-84803/seedless-grapes-125x125.jpg"
+      },
+      {
+        "name": "Flame Seedless Grapes",
+        "page": "https://dir.indiamart.com/impcat/flame-seedless-grapes.html",
+        "thumbnail": "http://3.imimg.com/data3/ES/AF/GLADMIN-84767/flame-seedless-grapes-125x125.jpg"
+      },
+      {
+        "name": "Cashew Apples",
+        "page": "https://dir.indiamart.com/impcat/cashew-apples.html",
+        "thumbnail": "http://3.imimg.com/data3/HT/YH/GLADMIN-24476/cashew-apples-125x125.jpg"
+      },
+      {
+        "name": "Apricot",
+        "page": "https://dir.indiamart.com/impcat/apricot.html",
+        "thumbnail": "http://5.imimg.com/data5/MC/XT/GLADMIN-2/apricot3-125x125.jpg"
+      },
+      {
+        "name": "Red Globe Grape",
+        "page": "https://dir.indiamart.com/impcat/red-globe-grape.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/CJ/GLADMIN-128849/red-globe-grape-125x125.jpg"
+      },
+      {
+        "name": "Peaches",
+        "page": "https://dir.indiamart.com/impcat/fresh-peaches.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/OU/GLADMIN-104600/fresh-peaches-125x125.jpg"
+      },
+      {
+        "name": "Galia Melons",
+        "page": "https://dir.indiamart.com/impcat/galia-melons.html",
+        "thumbnail": "http://5.imimg.com/data5/RS/HP/GLADMIN-2/galia-melon-125x125.jpg"
+      },
+      {
+        "name": "Organic Papaya",
+        "page": "https://dir.indiamart.com/impcat/organic-papaya.html",
+        "thumbnail": "http://5.imimg.com/data5/TQ/AR/UC/GLADMIN-16223/organic-papaya-125x125.png"
+      },
+      {
+        "name": "Grapefruit",
+        "page": "https://dir.indiamart.com/impcat/grapefruit.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/EW/GLADMIN-2/grapefruit-125x125.png"
+      },
+      {
+        "name": "Currants",
+        "page": "https://dir.indiamart.com/impcat/currants.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/VT/GLADMIN-155477/currants-125x125.jpg"
+      },
+      {
+        "name": "Pomegranate Arils",
+        "page": "https://dir.indiamart.com/impcat/pomegranate-arils.html",
+        "thumbnail": "http://5.imimg.com/data5/CF/AT/EQ/GLADMIN-68155/pomegranate-arils-125x125.jpg"
+      },
+      {
+        "name": "Honeydew Melons",
+        "page": "https://dir.indiamart.com/impcat/honeydew-melons.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/OJ/GLADMIN-29466/honeydew-melons-125x125.jpg"
+      },
+      {
+        "name": "Peruvian Groundcherry",
+        "page": "https://dir.indiamart.com/impcat/peruvian-groundcherry.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/a-img924-7105-fwkhss-125x125.jpg"
+      },
+      {
+        "name": "Sour Cherry",
+        "page": "https://dir.indiamart.com/impcat/sour-cherry.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/RY/GLADMIN-158275/sour-cherry-125x125.png"
+      },
+      {
+        "name": "Table Grapes",
+        "page": "https://dir.indiamart.com/impcat/table-grapes.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/SA/GLADMIN-84811/table-grapes-125x125.jpg"
+      },
+      {
+        "name": "Black Plum",
+        "page": "https://dir.indiamart.com/impcat/black-plum.html",
+        "thumbnail": "http://4.imimg.com/data4/QQ/PQ/GLADMIN-186080/black-plum-125x125.jpg"
+      },
+      {
+        "name": "Ya Pear",
+        "page": "https://dir.indiamart.com/impcat/fresh-ya-pear.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/MV/GLADMIN-84777/fresh-ya-pear-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Coconut",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/YM/SE/AK/92368/coconut-125x125.jpg",
+    "items": [
+      {
+        "name": "Tender Coconut",
+        "page": "https://dir.indiamart.com/impcat/tender-coconut.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/SL/GLADMIN-156361/tender-coconut-125x125.jpg"
+      },
+      {
+        "name": "Semi Husked Coconut",
+        "page": "https://dir.indiamart.com/impcat/semi-husked-coconut.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/OG/GLADMIN-156476/semi-husked-coconut-125x125.jpg"
+      },
+      {
+        "name": "Husked Coconut",
+        "page": "https://dir.indiamart.com/impcat/husked-coconut.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/BF/GLADMIN-156360/husked-coconut-125x125.jpg"
+      },
+      {
+        "name": "Raw Coconut",
+        "page": "https://dir.indiamart.com/impcat/raw-coconut.html",
+        "thumbnail": "http://3.imimg.com/data3/HM/BH/GLADMIN-136179/raw-coconut-125x125.jpg"
+      },
+      {
+        "name": "Pollachi Coconut",
+        "page": "https://dir.indiamart.com/impcat/pollachi-coconut.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/WW/GLADMIN-/pollachi-coconut-125x125.jpg"
+      },
+      {
+        "name": "Organic Coconut",
+        "page": "https://dir.indiamart.com/impcat/organic-coconut.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/KB/GLADMIN-2/organic-coconut-oil-125x125.jpg"
+      },
+      {
+        "name": "Mature Coconut",
+        "page": "https://dir.indiamart.com/impcat/mature-coconut.html",
+        "thumbnail": "http://4.imimg.com/data4/UF/IG/GLADMIN-182265/mature-coconut-125x125.jpg"
+      },
+      {
+        "name": "Laghu Nariyal",
+        "page": "https://dir.indiamart.com/impcat/laghu-nariyal.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/389111407/SN/RK/NJ/33104/laghu-nariyal-125x125.jpg"
+      },
+      {
+        "name": "Dehusked Coconut",
+        "page": "https://dir.indiamart.com/impcat/dehusked-coconut.html",
+        "thumbnail": "http://4.imimg.com/data4/CQ/WD/GLADMIN-185565/dehusked-coconut-125x125.png"
+      },
+      {
+        "name": "One Eye Coconut",
+        "page": "https://dir.indiamart.com/impcat/one-eye-coconut.html",
+        "thumbnail": "http://4.imimg.com/data4/WY/AU/GLADMIN-2/one-eye-coconut-125x125.jpg"
+      },
+      {
+        "name": "Yellow Coconut",
+        "page": "https://dir.indiamart.com/impcat/yellow-coconut.html",
+        "thumbnail": "http://4.imimg.com/data4/IG/KA/GLADMIN-2/yellow-coconut-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tropical Fruits",
+    "category_thumbnail": "http://5.imimg.com/data5/BT/BF/GLADMIN-2/tropical-fruit-125x125.jpg",
+    "items": [
+      {
+        "name": "Bananas",
+        "page": "https://dir.indiamart.com/impcat/fresh-bananas.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/VR/GP/GZ/92368/bananas-125x125.jpg"
+      },
+      {
+        "name": "Avocado",
+        "page": "https://dir.indiamart.com/impcat/avocado.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/HC/WC/OY/92368/avocado-125x125.jpg"
+      },
+      {
+        "name": "Papaya",
+        "page": "https://dir.indiamart.com/impcat/fresh-papaya.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/DC/ZY/YC/92368/papaya-125x125.jpg"
+      },
+      {
+        "name": "Pineapple",
+        "page": "https://dir.indiamart.com/impcat/pineapple.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/LW/AB/BA/92368/pineapple-125x125.jpg"
+      },
+      {
+        "name": "Litchi",
+        "page": "https://dir.indiamart.com/impcat/lychee.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/BP/WI/ZW/92368/litchi-125x125.png"
+      },
+      {
+        "name": "Jamun",
+        "page": "https://dir.indiamart.com/impcat/jamun.html",
+        "thumbnail": "http://4.imimg.com/data4/UO/ES/GLADMIN-185917/jamun-125x125.jpg"
+      },
+      {
+        "name": "Subtropical Fruits",
+        "page": "https://dir.indiamart.com/impcat/subtropical-fruits.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/DW/GLADMIN-39238/subtropical-fruits-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Citrus Fruits",
+    "category_thumbnail": "http://3.imimg.com/data3/NJ/LG/GLADMIN-24931/citrus-fruits-125x125.jpg",
+    "items": [
+      {
+        "name": "Oranges",
+        "page": "https://dir.indiamart.com/impcat/oranges.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/QG/FU/PJ/92368/oranges-125x125.jpg"
+      },
+      {
+        "name": "Amla",
+        "page": "https://dir.indiamart.com/impcat/amla.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/RE/GLADMIN-106964/amla-125x125.jpg"
+      },
+      {
+        "name": "Fresh Lemon",
+        "page": "https://dir.indiamart.com/impcat/fresh-lemon.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/TN/EV/AE/92368/fresh-lemon-125x125.jpg"
+      },
+      {
+        "name": "Lemon",
+        "page": "https://dir.indiamart.com/impcat/lemon.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/KZ/LT/AJ/92368/lemon-125x125.jpg"
+      },
+      {
+        "name": "Kinnow",
+        "page": "https://dir.indiamart.com/impcat/kinnow.html",
+        "thumbnail": "http://5.imimg.com/data5/NN/NN/GLADMIN-/kinnow-125x125.jpg"
+      },
+      {
+        "name": "Sweet Lime",
+        "page": "https://dir.indiamart.com/impcat/sweet-lime.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/XG/FU/BI/92368/sweet-lime-125x125.jpg"
+      },
+      {
+        "name": "Valencia Orange",
+        "page": "https://dir.indiamart.com/impcat/valencia-orange.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/IW/GLADMIN-129924/valencia-orange-125x125.jpg"
+      },
+      {
+        "name": "Lime",
+        "page": "https://dir.indiamart.com/impcat/lime.html",
+        "thumbnail": "http://3.imimg.com/data3/PY/PV/GLADMIN-105875/lime-125x125.jpg"
+      },
+      {
+        "name": "Navel Orange",
+        "page": "https://dir.indiamart.com/impcat/navel-orange.html",
+        "thumbnail": "http://3.imimg.com/data3/SV/XL/GLADMIN-112386/navel-orange-125x125.jpg"
+      },
+      {
+        "name": "Mandarin Orange",
+        "page": "https://dir.indiamart.com/impcat/mandarin-orange.html",
+        "thumbnail": "http://3.imimg.com/data3/WA/OK/GLADMIN-84790/mandarin-orange-125x125.jpg"
+      },
+      {
+        "name": "Pomelo",
+        "page": "https://dir.indiamart.com/impcat/pomelo.html",
+        "thumbnail": "http://5.imimg.com/data5/RR/RR/GLADMIN-/pomelo-125x125.jpg"
+      },
+      {
+        "name": "Orange Segments",
+        "page": "https://dir.indiamart.com/impcat/orange-segments.html",
+        "thumbnail": "http://3.imimg.com/data3/WU/XC/GLADMIN-7564/orange-segments-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fruit Powder",
+    "category_thumbnail": "http://5.imimg.com/data5/JN/IL/GLADMIN-2/fruit-powder-125x125.jpg",
+    "items": [
+      {
+        "name": "Banana Powder",
+        "page": "https://dir.indiamart.com/impcat/banana-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/OB/LI/GLADMIN-2/banana-powder-125x125.jpg"
+      },
+      {
+        "name": "Dry Dates Powder",
+        "page": "https://dir.indiamart.com/impcat/dry-dates-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/OC/XE/GLADMIN-2/dry-dates-powder-125x125.jpg"
+      },
+      {
+        "name": "Banana Peel Powder",
+        "page": "https://dir.indiamart.com/impcat/banana-peel-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/IC/KU/GLADMIN-2/482-125x125.jpg"
+      },
+      {
+        "name": "Papaya Powder",
+        "page": "https://dir.indiamart.com/impcat/papaya-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/HM/GB/GLADMIN-2/papaya-powder-125x125.jpg"
+      },
+      {
+        "name": "Apple Powder",
+        "page": "https://dir.indiamart.com/impcat/apple-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/OK/QM/GLADMIN-2/apple-powder-125x125.jpg"
+      },
+      {
+        "name": "Pomegranate Powder",
+        "page": "https://dir.indiamart.com/impcat/pomegranate-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/UJ/XU/GLADMIN-2/pomegranate-powder-125x125.jpg"
+      },
+      {
+        "name": "Mango Fruit Powder",
+        "page": "https://dir.indiamart.com/impcat/mango-fruit-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/362288476/CF/NI/XU/82392/mango-fruit-powder-125x125.jpg"
+      },
+      {
+        "name": "Kokum Powder",
+        "page": "https://dir.indiamart.com/impcat/kokum-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/IE/HR/GLADMIN-2/kumkum-powder-1kg-125x125.jpg"
+      },
+      {
+        "name": "Guava Powder",
+        "page": "https://dir.indiamart.com/impcat/guava-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/HJ/SE/GLADMIN-2/guava-powder-125x125.jpg"
+      },
+      {
+        "name": "Pineapple Powder",
+        "page": "https://dir.indiamart.com/impcat/pineapple-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/BD/VG/GLADMIN-181332/pineapple-powder-125x125.jpg"
+      },
+      {
+        "name": "Blueberry Powder",
+        "page": "https://dir.indiamart.com/impcat/blueberry-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/404473787/UN/SC/AK/90177/blueberry-powder-125x125.png"
+      },
+      {
+        "name": "Papaya Leaf Powder",
+        "page": "https://dir.indiamart.com/impcat/papaya-leaf-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/WB/RF/GLADMIN-2/papaya-leaf-powder-125x125.jpg"
+      },
+      {
+        "name": "Spray Dried Fruit Powder",
+        "page": "https://dir.indiamart.com/impcat/spray-dried-fruit-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/439661108/ZJ/DH/AS/96317/spray-dried-fruit-powder-125x125.jpg"
+      },
+      {
+        "name": "Custard Apple Powder",
+        "page": "https://dir.indiamart.com/impcat/custard-apple-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/NN/GR/GLADMIN-2/custard-apple-powder-125x125.jpg"
+      },
+      {
+        "name": "Watermelon powder",
+        "page": "https://dir.indiamart.com/impcat/watermelon-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/AA/GLADMIN-/watermelon-powder-125x125.jpg"
+      },
+      {
+        "name": "Sky Fruit Powder",
+        "page": "https://dir.indiamart.com/impcat/sky-fruit-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/VA/HR/RS/GLADMIN-68155/sky-fruit-powder-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Apple",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/BE/AS/OV/92368/apple-125x125.jpg",
+    "items": [
+      {
+        "name": "Red Delicious Apple",
+        "page": "https://dir.indiamart.com/impcat/red-delicious.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/NP/GLADMIN-84800/red-delicious-125x125.jpg"
+      },
+      {
+        "name": "Kashmiri Apple",
+        "page": "https://dir.indiamart.com/impcat/kashmiri-apple.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/XD/KO/SE/92368/kashmiri-apple-125x125.jpeg"
+      },
+      {
+        "name": "Shimla Apple",
+        "page": "https://dir.indiamart.com/impcat/shimla-apple.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/image-cache-catalog-fruits-buy-20shimla-20apple-20online-20kolkata-20-20-20kolkart-com-20-2-500x500-125x125.jpg"
+      },
+      {
+        "name": "Green Apple",
+        "page": "https://dir.indiamart.com/impcat/green-apple.html",
+        "thumbnail": "http://5.imimg.com/data5/KD/KH/GLADMIN-2/green-apple-125x125.png"
+      },
+      {
+        "name": "Rose Apple",
+        "page": "https://dir.indiamart.com/impcat/rose-apple.html",
+        "thumbnail": "http://5.imimg.com/data5/ZZ/ZZ/GLADMIN-/rose-apple-125x125.jpg"
+      },
+      {
+        "name": "Fuji Apple",
+        "page": "https://dir.indiamart.com/impcat/fuji-apple.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/UE/GLADMIN-29078/fuji-apple-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Berries",
+    "category_thumbnail": "http://5.imimg.com/data5/XR/UE/GLADMIN-2/berries-125x125.jpg",
+    "items": [
+      {
+        "name": "Strawberry",
+        "page": "https://dir.indiamart.com/impcat/strawberry.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/HT/VR/BE/92368/strawberry-125x125.jpg"
+      },
+      {
+        "name": "Blueberry",
+        "page": "https://dir.indiamart.com/impcat/blueberry.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZR/SQ/IE/92368/blueberry-125x125.jpg"
+      },
+      {
+        "name": "Fresh Cranberries",
+        "page": "https://dir.indiamart.com/impcat/fresh-cranberries.html",
+        "thumbnail": "http://4.imimg.com/data4/SQ/CS/GLADMIN-178851/fresh-cranberries-125x125.jpg"
+      },
+      {
+        "name": "Blackberry Fruit",
+        "page": "https://dir.indiamart.com/impcat/blackberry-fruit.html",
+        "thumbnail": "http://4.imimg.com/data4/WT/HT/GLADMIN-180458/blackberry-fruit-125x125.jpg"
+      },
+      {
+        "name": "Raspberry",
+        "page": "https://dir.indiamart.com/impcat/raspberry.html",
+        "thumbnail": "http://4.imimg.com/data4/EH/NU/GLADMIN-180840/raspberry-125x125.jpg"
+      },
+      {
+        "name": "Mulberry",
+        "page": "https://dir.indiamart.com/impcat/mulberry.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/370331198/UN/ZB/JO/82392/mulberry-125x125.jpeg"
+      },
+      {
+        "name": "Wolfberry",
+        "page": "https://dir.indiamart.com/impcat/wolfberry.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/RM/GLADMIN-20212/wolfberry-125x125.jpg"
+      },
+      {
+        "name": "Juniper Berries",
+        "page": "https://dir.indiamart.com/impcat/juniper-berries.html",
+        "thumbnail": "http://3.imimg.com/data3/ET/TV/GLADMIN-31232/juniper-berries-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fruit Pulp",
+    "category_thumbnail": "http://5.imimg.com/data5/HO/TQ/GLADMIN-2/fruit-pulp-125x125.jpg",
+    "items": [
+      {
+        "name": "Custard Apple Pulp",
+        "page": "https://dir.indiamart.com/impcat/custard-apple-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/OA/OL/GLADMIN-2/custard-apple-apple-125x125.jpg"
+      },
+      {
+        "name": "Frozen Fruit Pulp",
+        "page": "https://dir.indiamart.com/impcat/frozen-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/UA/UA/GLADMIN-2/frozen-fruit-pulp-125x125.jpg"
+      },
+      {
+        "name": "Mango Pulp",
+        "page": "https://dir.indiamart.com/impcat/mango-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/XV/WQ/AO/86648/mango-pulp-125x125.jpg"
+      },
+      {
+        "name": "Jamun Pulp",
+        "page": "https://dir.indiamart.com/impcat/jamun-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/329286239/LA/AB/YS/71486/jamun-pulp-125x125.png"
+      },
+      {
+        "name": "Alphonso Mango Pulp",
+        "page": "https://dir.indiamart.com/impcat/alphonso-mango-pulp.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/VI/GLADMIN-21740/alphonso-mango-pulp-125x125.jpg"
+      },
+      {
+        "name": "Totapuri Mango Pulp",
+        "page": "https://dir.indiamart.com/impcat/totapuri-mango-pulp.html",
+        "thumbnail": "http://4.imimg.com/data4/KT/LV/GLADMIN-2/totapuri-mango-pulp-125x125.jpg"
+      },
+      {
+        "name": "Kesar Mango Pulp",
+        "page": "https://dir.indiamart.com/impcat/kesar-mango-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/PH/TS/GLADMIN-2/kesar-mango-pulp-125x125.jpg"
+      },
+      {
+        "name": "Strawberry Pulp",
+        "page": "https://dir.indiamart.com/impcat/strawberry-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/VG/PY/GLADMIN-2/strawberry-pulp-125x125.jpg"
+      },
+      {
+        "name": "Avocado Pulp",
+        "page": "https://dir.indiamart.com/impcat/avocado-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/329656531/KG/KP/CB/71486/avocado-pulp-125x125.png"
+      },
+      {
+        "name": "Frozen Mango Pulp",
+        "page": "https://dir.indiamart.com/impcat/frozen-mango-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/AG/KN/GLADMIN-2/frozen-mango-pulp-125x125.jpg"
+      },
+      {
+        "name": "Guava Pulp",
+        "page": "https://dir.indiamart.com/impcat/guava-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/KR/XA/GLADMIN-2/guava-pulp-125x125.jpg"
+      },
+      {
+        "name": "Vegetable Pulps",
+        "page": "https://dir.indiamart.com/impcat/vegetable-pulps.html",
+        "thumbnail": "http://3.imimg.com/data3/YM/DQ/GLADMIN-38565/vegetable-pulps-125x125.jpg"
+      },
+      {
+        "name": "Pineapple Pulp",
+        "page": "https://dir.indiamart.com/impcat/pineapple-pulp.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/BH/GLADMIN-69248/pineapple-pulp-125x125.jpg"
+      },
+      {
+        "name": "Litchi Pulp",
+        "page": "https://dir.indiamart.com/impcat/litchi-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/BN/MK/GLADMIN-2/litch-pulp-125x125.jpg"
+      },
+      {
+        "name": "Orange Pulp",
+        "page": "https://dir.indiamart.com/impcat/orange-pulp.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/YM/GLADMIN-145076/orange-pulp-125x125.jpg"
+      },
+      {
+        "name": "Papaya Pulp",
+        "page": "https://dir.indiamart.com/impcat/papaya-pulp.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/XX/GLADMIN-5707/papaya-pulp-125x125.jpg"
+      },
+      {
+        "name": "Apple Pulp",
+        "page": "https://dir.indiamart.com/impcat/apple-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/CP/QL/GLADMIN-2/apple-pulp-125x125.jpg"
+      },
+      {
+        "name": "Banana Pulp",
+        "page": "https://dir.indiamart.com/impcat/banana-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/UU/GLADMIN-/banana-pulp-125x125.jpg"
+      },
+      {
+        "name": "Pomegranate Pulp",
+        "page": "https://dir.indiamart.com/impcat/pomegranate-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/IA/XL/KE/GLADMIN-68155/pomegranate-pulp-125x125.png"
+      },
+      {
+        "name": "Gooseberry Pulp",
+        "page": "https://dir.indiamart.com/impcat/gooseberry-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/US/EF/SC/GLADMIN-81953/gooseberry-pulp-125x125.jpg"
+      },
+      {
+        "name": "Pear Pulp",
+        "page": "https://dir.indiamart.com/impcat/pear-pulp.html",
+        "thumbnail": "http://4.imimg.com/data4/SC/EY/GLADMIN-178453/pear-pulp-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Mangoes",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SL/BP/GQ/92368/mangoes-125x125.jpg",
+    "items": [
+      {
+        "name": "Alphonso Mangoes",
+        "page": "https://dir.indiamart.com/impcat/alphonso-mangoes.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/GY/GLADMIN-3283/alphonso-mangoes-125x125.png"
+      },
+      {
+        "name": "Raw Mango",
+        "page": "https://dir.indiamart.com/impcat/raw-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SI/KY/ZH/92368/raw-mango-125x125.jpg"
+      },
+      {
+        "name": "Kesar Mango",
+        "page": "https://dir.indiamart.com/impcat/kesar-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/IH/HE/BV/92368/kesar-mango-125x125.jpg"
+      },
+      {
+        "name": "Totapuri Mangoes",
+        "page": "https://dir.indiamart.com/impcat/totapuri-mangoes.html",
+        "thumbnail": "http://4.imimg.com/data4/UI/QT/GLADMIN-183344/totapuri-mangoes-125x125.jpg"
+      },
+      {
+        "name": "Banganapalli Mangoes",
+        "page": "https://dir.indiamart.com/impcat/banganapalli-mangoes.html",
+        "thumbnail": "http://3.imimg.com/data3/RB/FS/GLADMIN-157897/banganapalli-mangoes-125x125.jpg"
+      },
+      {
+        "name": "Langra Mango",
+        "page": "https://dir.indiamart.com/impcat/langra-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/RJ/WA/KM/GLADMIN-56986/langra-mango-125x125.jpg"
+      },
+      {
+        "name": "Neelam Mango",
+        "page": "https://dir.indiamart.com/impcat/neelam-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/328879522/RF/IM/OC/71486/neelam-mango-125x125.png"
+      },
+      {
+        "name": "Chaunsa Mango",
+        "page": "https://dir.indiamart.com/impcat/chaunsa-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/328876585/VW/YB/RJ/71486/chaunsa-mango-125x125.png"
+      },
+      {
+        "name": "Dashehari Mango",
+        "page": "https://dir.indiamart.com/impcat/dashehari-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/QG/VZ/AH/GLADMIN-56986/dashehari-mango-125x125.jpg"
+      },
+      {
+        "name": "Amrapali Mango",
+        "page": "https://dir.indiamart.com/impcat/amrapali-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/ZV/WO/NB/GLADMIN-56986/amrapali-mango-125x125.jpg"
+      },
+      {
+        "name": "Mallika Mango",
+        "page": "https://dir.indiamart.com/impcat/mallika-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/328938572/TZ/BY/XL/71486/mallika-mango-125x125.png"
+      },
+      {
+        "name": "Himsagar Mango",
+        "page": "https://dir.indiamart.com/impcat/himsagar-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/417192127/OA/DG/JK/96317/himsagar-mango-125x125.jpg"
+      },
+      {
+        "name": "Raspuri Mango",
+        "page": "https://dir.indiamart.com/impcat/raspuri-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/317800948/AG/UA/MQ/92383/raspuri-mango-125x125.webp"
+      },
+      {
+        "name": "Malgova Mango",
+        "page": "https://dir.indiamart.com/impcat/malgova-mango.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/328883422/AZ/VY/TH/71486/malgova-mango-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Preserved Fruits",
+    "category_thumbnail": "http://3.imimg.com/data3/YL/MM/GLADMIN-572/preserved-fruits-125x125.jpg",
+    "items": [
+      {
+        "name": "Olives",
+        "page": "https://dir.indiamart.com/impcat/olives.html",
+        "thumbnail": "http://3.imimg.com/data3/VR/LH/GLADMIN-122463/olives-125x125.jpg"
+      },
+      {
+        "name": "Fruit Pulp",
+        "page": "https://dir.indiamart.com/impcat/fruit-pulp.html",
+        "thumbnail": "http://5.imimg.com/data5/HO/TQ/GLADMIN-2/fruit-pulp-125x125.jpg"
+      },
+      {
+        "name": "Fruit Slice",
+        "page": "https://dir.indiamart.com/impcat/fruit-slice.html",
+        "thumbnail": "http://3.imimg.com/data3/QO/GT/GLADMIN-104653/fruit-slice-125x125.jpg"
+      },
+      {
+        "name": "Mango Slices",
+        "page": "https://dir.indiamart.com/impcat/mango-slices.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/RW/GLADMIN-31711/mango-slices-125x125.jpg"
+      },
+      {
+        "name": "Canned Fruits",
+        "page": "https://dir.indiamart.com/impcat/canned-fruits.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/CS/GLADMIN-5498/canned-fruits-125x125.jpg"
+      },
+      {
+        "name": "Canned Cherries",
+        "page": "https://dir.indiamart.com/impcat/canned-cherries.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/VB/GLADMIN-99080/canned-cherries-125x125.jpg"
+      },
+      {
+        "name": "Frozen Mango Slices",
+        "page": "https://dir.indiamart.com/impcat/frozen-mango-slices.html",
+        "thumbnail": "http://4.imimg.com/data4/YI/OG/GLADMIN-184237/frozen-mango-slices-125x125.jpg"
+      },
+      {
+        "name": "Pineapple Slices",
+        "page": "https://dir.indiamart.com/impcat/pineapple-slices.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/PJ/GLADMIN-5960/pineapple-slices-125x125.jpg"
+      },
+      {
+        "name": "Canned Pineapple",
+        "page": "https://dir.indiamart.com/impcat/canned-pineapple.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/VP/GLADMIN-156276/canned-pineapple-125x125.jpg"
+      },
+      {
+        "name": "Pineapple Tidbits",
+        "page": "https://dir.indiamart.com/impcat/pineapple-tidbits.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/LL/GLADMIN-148108/pineapple-tidbits-125x125.jpg"
+      },
+      {
+        "name": "Processed Fruit",
+        "page": "https://dir.indiamart.com/impcat/processed-fruit.html",
+        "thumbnail": "http://3.imimg.com/data3/OK/CM/GLADMIN-34794/processed-fruit-125x125.jpg"
+      },
+      {
+        "name": "Mango Chunk",
+        "page": "https://dir.indiamart.com/impcat/mango-chunk.html",
+        "thumbnail": "http://5.imimg.com/data5/YE/MG/GLADMIN-2/mango-chunk1-125x125.jpg"
+      },
+      {
+        "name": "Canned Peaches",
+        "page": "https://dir.indiamart.com/impcat/canned-peaches.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/RN/GLADMIN-49891/canned-peaches-125x125.jpg"
+      },
+      {
+        "name": "Canned Strawberries",
+        "page": "https://dir.indiamart.com/impcat/canned-strawberries.html",
+        "thumbnail": "http://3.imimg.com/data3/EB/XT/GLADMIN-99086/canned-strawberries-125x125.jpg"
+      },
+      {
+        "name": "Canned Pear",
+        "page": "https://dir.indiamart.com/impcat/canned-pear.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/YY/GLADMIN-80601/canned-pear-125x125.jpg"
+      },
+      {
+        "name": "Gooseberry Preserves",
+        "page": "https://dir.indiamart.com/impcat/gooseberry-preserves.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/440880280/NG/GL/UC/100839/gooseberry-preserves-125x125.jpg"
+      },
+      {
+        "name": "Strawberry Preserves",
+        "page": "https://dir.indiamart.com/impcat/strawberry-preserves.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/LV/GLADMIN-38761/strawberry-preserves-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Frozen Fruits",
+    "category_thumbnail": "http://5.imimg.com/data5/XE/AY/GLADMIN-2/frozen-fruits-125x125.jpg",
+    "items": [
+      {
+        "name": "Frozen Berries",
+        "page": "https://dir.indiamart.com/impcat/frozen-berries.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/VD/GLADMIN-104617/frozen-berries-125x125.jpg"
+      },
+      {
+        "name": "Frozen Strawberries",
+        "page": "https://dir.indiamart.com/impcat/frozen-strawberries.html",
+        "thumbnail": "http://3.imimg.com/data3/DE/RR/GLADMIN-84782/frozen-strawberries-125x125.jpg"
+      },
+      {
+        "name": "Frozen Blueberry",
+        "page": "https://dir.indiamart.com/impcat/frozen-blueberry.html",
+        "thumbnail": "http://4.imimg.com/data4/XT/NW/GLADMIN-179572/frozen-blueberry-125x125.jpg"
+      },
+      {
+        "name": "Frozen Shredded Coconut",
+        "page": "https://dir.indiamart.com/impcat/frozen-shredded-coconut.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/PL/GLADMIN-160725/frozen-shredded-coconut-125x125.jpg"
+      },
+      {
+        "name": "Frozen Raspberries",
+        "page": "https://dir.indiamart.com/impcat/frozen-raspberries.html",
+        "thumbnail": "http://3.imimg.com/data3/GF/RE/GLADMIN-104640/frozen-raspberries-125x125.jpg"
+      },
+      {
+        "name": "Frozen Mangoes",
+        "page": "https://dir.indiamart.com/impcat/frozen-mangoes.html",
+        "thumbnail": "http://5.imimg.com/data5/VK/SJ/UO/GLADMIN-68155/frozen-mangoes-125x125.jpg"
+      },
+      {
+        "name": "Frozen Custard Apple",
+        "page": "https://dir.indiamart.com/impcat/frozen-custard-apple.html",
+        "thumbnail": "http://4.imimg.com/data4/DR/HC/GLADMIN-179564/frozen-custard-apple-125x125.jpg"
+      },
+      {
+        "name": "Frozen Chikoo",
+        "page": "https://dir.indiamart.com/impcat/frozen-chikoo.html",
+        "thumbnail": "http://5.imimg.com/data5/EJ/WI/FT/GLADMIN-72666/frozen-chikoo-125x125.png"
+      },
+      {
+        "name": "Frozen Litchi",
+        "page": "https://dir.indiamart.com/impcat/frozen-litchi.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/TP/GLADMIN-157945/frozen-litchi-125x125.jpg"
+      },
+      {
+        "name": "Frozen Kiwi",
+        "page": "https://dir.indiamart.com/impcat/frozen-kiwi.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/SR/GLADMIN-104631/frozen-kiwi-125x125.jpg"
+      },
+      {
+        "name": "Frozen Papaya",
+        "page": "https://dir.indiamart.com/impcat/frozen-papaya.html",
+        "thumbnail": "http://4.imimg.com/data4/CB/MX/GLADMIN-185660/frozen-papaya-125x125.jpg"
+      },
+      {
+        "name": "Frozen Peaches",
+        "page": "https://dir.indiamart.com/impcat/frozen-peaches.html",
+        "thumbnail": "http://3.imimg.com/data3/DN/VT/GLADMIN-104634/frozen-peaches-125x125.jpg"
+      },
+      {
+        "name": "Frozen Apple",
+        "page": "https://dir.indiamart.com/impcat/frozen-apple.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/FP/GLADMIN-42534/frozen-apple-125x125.jpg"
+      },
+      {
+        "name": "Frozen Guava",
+        "page": "https://dir.indiamart.com/impcat/frozen-guava.html",
+        "thumbnail": "http://4.imimg.com/data4/GG/GG/GLADMIN-/frozen-guava-125x125.jpg"
+      }
+    ]
+  }
+]

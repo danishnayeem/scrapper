@@ -1,0 +1,49 @@
+[
+  {
+    "category_name": "Share Trading Services",
+    "category_thumbnail": "http://3.imimg.com/data3/CU/NM/GLADMIN-169017/share-trading-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Business Brokers",
+        "page": "https://dir.indiamart.com/impcat/business-brokers.html",
+        "thumbnail": "http://3.imimg.com/data3/QL/OO/GLADMIN-23919/business-brokers-125x125.jpg"
+      },
+      {
+        "name": "Share Market Tip Services",
+        "page": "https://dir.indiamart.com/impcat/share-market-tip-services.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/PL/GLADMIN-175026/share-market-tip-services-125x125.jpg"
+      },
+      {
+        "name": "Online Trading Services",
+        "page": "https://dir.indiamart.com/impcat/online-trading-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/VC/GLADMIN-167974/online-trading-services-125x125.jpg"
+      },
+      {
+        "name": "Share Transfer Services",
+        "page": "https://dir.indiamart.com/impcat/share-transfer-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/IF/GLADMIN-172650/share-transfer-services-125x125.jpg"
+      },
+      {
+        "name": "Option Trading Services",
+        "page": "https://dir.indiamart.com/impcat/option-trading-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/HY/GLADMIN-171536/option-trading-services-125x125.jpg"
+      },
+      {
+        "name": "Equity Fund Service",
+        "page": "https://dir.indiamart.com/impcat/equity-fund-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HH/AW/GLADMIN-173567/equity-fund-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Stock Market Tips",
+        "page": "https://dir.indiamart.com/impcat/stock-market-tips.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/NT/GLADMIN-117637/stock-market-tips-125x125.jpg"
+      }
+    ]
+  }
+]

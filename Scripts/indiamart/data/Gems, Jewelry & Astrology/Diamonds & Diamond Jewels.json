@@ -1,0 +1,518 @@
+[
+  {
+    "category_name": "Diamond Jewelry",
+    "category_thumbnail": "http://3.imimg.com/data3/IT/YY/GLADMIN-409/diamond-jewelry-125x125.jpg",
+    "items": [
+      {
+        "name": "Diamond Watch",
+        "page": "https://dir.indiamart.com/impcat/diamond-watch.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/HF/GLADMIN-26375/diamond-watch-125x125.jpg"
+      },
+      {
+        "name": "Diamond Rings",
+        "page": "https://dir.indiamart.com/impcat/diamond-rings.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/CF/BC/MS/92368/diamond-rings-125x125.jpg"
+      },
+      {
+        "name": "Diamond Pendants",
+        "page": "https://dir.indiamart.com/impcat/diamond-pendants.html",
+        "thumbnail": "http://3.imimg.com/data3/YQ/SO/GLADMIN-12784/diamond-pendants-125x125.jpg"
+      },
+      {
+        "name": "Diamond Chain",
+        "page": "https://dir.indiamart.com/impcat/diamond-chain.html",
+        "thumbnail": "http://4.imimg.com/data4/FV/VM/GLADMIN-183036/diamond-chain-125x125.jpg"
+      },
+      {
+        "name": "Diamond Necklace",
+        "page": "https://dir.indiamart.com/impcat/diamond-necklace.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SH/GK/TL/92368/diamond-necklace-125x125.jpg"
+      },
+      {
+        "name": "Diamond Bracelets",
+        "page": "https://dir.indiamart.com/impcat/diamond-bracelets.html",
+        "thumbnail": "http://3.imimg.com/data3/JG/TG/GLADMIN-12779/diamond-bracelets-125x125.jpg"
+      },
+      {
+        "name": "Diamond Studded Gold Jewelry",
+        "page": "https://dir.indiamart.com/impcat/diamond-studded-gold-jewelry.html",
+        "thumbnail": "http://3.imimg.com/data3/VW/SV/GLADMIN-12788/diamond-studded-gold-jewelry-125x125.jpg"
+      },
+      {
+        "name": "Diamond Earring",
+        "page": "https://dir.indiamart.com/impcat/diamond-earring.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/QH/GLADMIN-12782/diamond-earring-125x125.jpg"
+      },
+      {
+        "name": "Diamond Nose Pin",
+        "page": "https://dir.indiamart.com/impcat/diamond-nose-pin.html",
+        "thumbnail": "http://4.imimg.com/data4/JR/VX/GLADMIN-182527/diamond-nose-pin-125x125.jpg"
+      },
+      {
+        "name": "Diamond Bangles",
+        "page": "https://dir.indiamart.com/impcat/diamond-bangles.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/EA/GLADMIN-12777/diamond-bangles-125x125.jpg"
+      },
+      {
+        "name": "Diamond Mangalsutra",
+        "page": "https://dir.indiamart.com/impcat/diamond-mangalsutra.html",
+        "thumbnail": "http://3.imimg.com/data3/VB/RV/GLADMIN-146447/diamond-mangalsutra-125x125.jpg"
+      },
+      {
+        "name": "Diamond Studded Jewelry",
+        "page": "https://dir.indiamart.com/impcat/diamond-studded-jewelry.html",
+        "thumbnail": "http://3.imimg.com/data3/UQ/RF/GLADMIN-1238/diamond-studded-jewelry-125x125.jpg"
+      },
+      {
+        "name": "Diamond Jewellery Set",
+        "page": "https://dir.indiamart.com/impcat/diamond-jewellery-set.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/PB/GLADMIN-84179/diamond-jewellery-set-125x125.jpg"
+      },
+      {
+        "name": "Diamond Brooches",
+        "page": "https://dir.indiamart.com/impcat/diamond-brooches.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/RJ/GLADMIN-164071/diamond-brooches-125x125.jpg"
+      },
+      {
+        "name": "Lab Grown Diamond Jewellery",
+        "page": "https://dir.indiamart.com/impcat/lab-grown-diamond-jewellery.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/446427227/VC/OF/WA/96317/lgdj-125x125.png"
+      },
+      {
+        "name": "Pave Diamond Findings",
+        "page": "https://dir.indiamart.com/impcat/pave-diamond-findings.html",
+        "thumbnail": "http://5.imimg.com/data5/DQ/MR/GLADMIN-2/pave-diamond-findings-125x125.jpg"
+      },
+      {
+        "name": "Silver Diamond Necklace",
+        "page": "https://dir.indiamart.com/impcat/silver-diamond-necklace.html",
+        "thumbnail": "http://3.imimg.com/data3/QA/FH/GLADMIN-/images-products-8228973-8228973-little-diva-diamonds-silver-childrens--125x125.jpg"
+      },
+      {
+        "name": "Pave Diamond Jewelry",
+        "page": "https://dir.indiamart.com/impcat/pave-diamond-jewelry.html",
+        "thumbnail": "http://4.imimg.com/data4/CL/BA/GLADMIN-2/pave-diamond-jewelry-125x125.jpg"
+      },
+      {
+        "name": "Diamond Findings",
+        "page": "https://dir.indiamart.com/impcat/diamond-findings.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/WH/GLADMIN-166477/diamond-findings-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diamond",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/GZ/IN/DJ/92368/diamond-125x125.jpg",
+    "items": [
+      {
+        "name": "Lab Grown Diamond",
+        "page": "https://dir.indiamart.com/impcat/lab-grown-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/RO/AT/GLADMIN-2/lab-created-diamonds-125x125.jpg"
+      },
+      {
+        "name": "Loose Diamond",
+        "page": "https://dir.indiamart.com/impcat/loose-diamond.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/LU/MY-2/loose-diamond-125x125.jpg"
+      },
+      {
+        "name": "Natural Diamond",
+        "page": "https://dir.indiamart.com/impcat/natural-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SL/KA/EH/92368/natural-diamond-125x125.jpg"
+      },
+      {
+        "name": "Round Brilliant Diamond",
+        "page": "https://dir.indiamart.com/impcat/round-brilliant-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/ES/VF/GLADMIN-2/round-brilliant-diamond-125x125.jpg"
+      },
+      {
+        "name": "Polished Diamond",
+        "page": "https://dir.indiamart.com/impcat/polished-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/PB/HH/GLADMIN-2/polished-diamond-125x125.jpg"
+      },
+      {
+        "name": "Rose Cut Diamond",
+        "page": "https://dir.indiamart.com/impcat/rose-cut-diamond.html",
+        "thumbnail": "http://3.imimg.com/data3/QN/QS/GLADMIN-139111/rose-cut-diamond-125x125.jpg"
+      },
+      {
+        "name": "Diamond Beads",
+        "page": "https://dir.indiamart.com/impcat/diamond-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/AF/VM/GLADMIN-12778/diamond-beads-125x125.jpg"
+      },
+      {
+        "name": "Crystal Diamond",
+        "page": "https://dir.indiamart.com/impcat/crystal-diamond.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/TQ/GLADMIN-84175/crystal-diamond-125x125.jpg"
+      },
+      {
+        "name": "Oval Shape Diamond",
+        "page": "https://dir.indiamart.com/impcat/oval-shape-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/BS/XS/GLADMIN-2/oval-shape-diamond-125x125.jpg"
+      },
+      {
+        "name": "Pear Shaped Diamond",
+        "page": "https://dir.indiamart.com/impcat/pear-shaped-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/GV/JW/GLADMIN-2/pear-shaped-diamond-125x125.jpg"
+      },
+      {
+        "name": "Industrial Diamond",
+        "page": "https://dir.indiamart.com/impcat/industrial-diamond.html",
+        "thumbnail": "http://4.imimg.com/data4/CS/PT/GLADMIN-10989/industrial-diamond-125x125.jpg"
+      },
+      {
+        "name": "Baguette Diamond",
+        "page": "https://dir.indiamart.com/impcat/baguette-diamond.html",
+        "thumbnail": "http://3.imimg.com/data3/LA/KU/GLADMIN-42485/baguette-diamond-125x125.jpg"
+      },
+      {
+        "name": "Full Cut Diamond",
+        "page": "https://dir.indiamart.com/impcat/full-cut-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/PQ/RU/GLADMIN-2/full-cut-diamond-125x125.jpg"
+      },
+      {
+        "name": "Princess Cut Diamond",
+        "page": "https://dir.indiamart.com/impcat/princess-cut-diamond.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/CC/GLADMIN-144748/princess-cut-diamond-125x125.jpg"
+      },
+      {
+        "name": "Marquise Cut Diamond",
+        "page": "https://dir.indiamart.com/impcat/marquise-cut-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/RO/YH/GLADMIN-2/marquise-cut-diamond-125x125.jpg"
+      },
+      {
+        "name": "Cushion Cut Diamonds",
+        "page": "https://dir.indiamart.com/impcat/cushion-cut-diamonds.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/ME/GLADMIN-25221/cushion-cut-diamonds-125x125.jpg"
+      },
+      {
+        "name": "Single Cut Diamond",
+        "page": "https://dir.indiamart.com/impcat/single-cut-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/TO/XK/GLADMIN-2/single-cut-diamond-125x125.jpg"
+      },
+      {
+        "name": "Radiant Cut Diamond",
+        "page": "https://dir.indiamart.com/impcat/radiant-cut-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/GX/XT/GLADMIN-2/radiant-cut-diamond-125x125.jpg"
+      },
+      {
+        "name": "Triangle Diamond",
+        "page": "https://dir.indiamart.com/impcat/triangle-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/RC/GLADMIN-2/triangle-diamond-125x125.jpg"
+      },
+      {
+        "name": "Emerald Cut Diamond",
+        "page": "https://dir.indiamart.com/impcat/emerald-cut-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/333291261/XD/BC/VQ/64193/emerald-cut-diamond-125x125.png"
+      },
+      {
+        "name": "Double Cut Diamond",
+        "page": "https://dir.indiamart.com/impcat/double-cut-diamond.html",
+        "thumbnail": "http://3.imimg.com/data3/VM/AQ/GLADMIN-160914/double-cut-diamond-125x125.jpg"
+      },
+      {
+        "name": "Rustic Diamond",
+        "page": "https://dir.indiamart.com/impcat/rustic-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/HM/WH/BR/GLADMIN-56986/rustic-diamond-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Natural Diamond",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/SL/KA/EH/92368/natural-diamond-125x125.jpg",
+    "items": [
+      {
+        "name": "Rough Diamond",
+        "page": "https://dir.indiamart.com/impcat/rough-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/CA/VK/GLADMIN-2/rough-diamond-125x125.jpg"
+      },
+      {
+        "name": "White Diamonds",
+        "page": "https://dir.indiamart.com/impcat/white-diamonds.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/NU/FD/FN/92368/white-diamonds-125x125.jpg"
+      },
+      {
+        "name": "Black Diamonds",
+        "page": "https://dir.indiamart.com/impcat/black-diamonds.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/368194334/YE/DG/BC/90525/black-diamonds-125x125.png"
+      },
+      {
+        "name": "Polki Diamond",
+        "page": "https://dir.indiamart.com/impcat/polki-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/TE/DH/GLADMIN-2/polki-diamond-125x125.jpg"
+      },
+      {
+        "name": "Yellow Diamond",
+        "page": "https://dir.indiamart.com/impcat/yellow-diamond.html",
+        "thumbnail": "http://4.imimg.com/data4/YE/FT/GLADMIN-183013/yellow-diamond-125x125.jpg"
+      },
+      {
+        "name": "Uncut Diamond",
+        "page": "https://dir.indiamart.com/impcat/uncut-diamond.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/FC/GLADMIN-72638/uncut-diamond-125x125.jpg"
+      },
+      {
+        "name": "Raw Diamond",
+        "page": "https://dir.indiamart.com/impcat/raw-diamond.html",
+        "thumbnail": "http://3.imimg.com/data3/KI/LB/GLADMIN-84182/raw-diamond-125x125.jpg"
+      },
+      {
+        "name": "Yellow Rough Diamond",
+        "page": "https://dir.indiamart.com/impcat/yellow-rough-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/a-img924-8914-crn6rb-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Synthetic Diamond",
+    "category_thumbnail": "http://5.imimg.com/data5/PJ/WO/GLADMIN-2/synthetic-diamond-125x125.jpg",
+    "items": [
+      {
+        "name": "CVD Diamond",
+        "page": "https://dir.indiamart.com/impcat/cvd-diamond.html",
+        "thumbnail": "http://4.imimg.com/data4/PX/KB/GLADMIN-2/cvd-diamond-125x125.jpg"
+      },
+      {
+        "name": "Cubic Zirconia",
+        "page": "https://dir.indiamart.com/impcat/cubic-zirconia.html",
+        "thumbnail": "http://5.imimg.com/data5/BH/OP/GLADMIN-2/cubic-125x125.jpg"
+      },
+      {
+        "name": "White Moissanite Diamond",
+        "page": "https://dir.indiamart.com/impcat/white-moissanite-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/NQ/CK/GLADMIN-2/white-moissanite-diamond-125x125.jpg"
+      },
+      {
+        "name": "American Diamond",
+        "page": "https://dir.indiamart.com/impcat/american-diamond.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/NN/GLADMIN-166711/american-diamond-125x125.jpg"
+      },
+      {
+        "name": "HPHT Diamond",
+        "page": "https://dir.indiamart.com/impcat/hpht-diamond.html",
+        "thumbnail": "http://4.imimg.com/data4/QK/AS/GLADMIN-2/hpht-diamond-125x125.jpg"
+      },
+      {
+        "name": "Polished CVD Diamond",
+        "page": "https://dir.indiamart.com/impcat/polished-cvd-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/DL/WP/DE/GLADMIN-73621/polished-cvd-diamond-125x125.jpg"
+      },
+      {
+        "name": "Melee Diamond",
+        "page": "https://dir.indiamart.com/impcat/melee-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/DG/VN/GLADMIN-2/melee-diamond-125x125.jpg"
+      },
+      {
+        "name": "CZ Diamond",
+        "page": "https://dir.indiamart.com/impcat/cz-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/QB/TL/GLADMIN-2/cz-diamond-125x125.jpg"
+      },
+      {
+        "name": "Polycrystalline Diamond",
+        "page": "https://dir.indiamart.com/impcat/polycrystalline-diamond.html",
+        "thumbnail": "http://5.imimg.com/data5/KF/OP/GLADMIN-2/polycrystaline-diamond-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diamond Rings",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/CF/BC/MS/92368/diamond-rings-125x125.jpg",
+    "items": [
+      {
+        "name": "Diamond Engagement Ring",
+        "page": "https://dir.indiamart.com/impcat/diamond-engagement-ring.html",
+        "thumbnail": "http://4.imimg.com/data4/PP/PP/GLADMIN-/diamond-engagement-ring-125x125.jpg"
+      },
+      {
+        "name": "Diamond Solitaire Ring",
+        "page": "https://dir.indiamart.com/impcat/diamond-solitaire-ring.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/QO/GLADMIN-146807/diamond-solitaire-ring-125x125.jpg"
+      },
+      {
+        "name": "Men Diamond Ring",
+        "page": "https://dir.indiamart.com/impcat/mens-diamond-ring.html",
+        "thumbnail": "http://4.imimg.com/data4/YJ/DW/GLADMIN-183316/mens-diamond-ring-125x125.jpg"
+      },
+      {
+        "name": "Emerald Diamond Ring",
+        "page": "https://dir.indiamart.com/impcat/emerald-diamond-ring.html",
+        "thumbnail": "http://4.imimg.com/data4/IC/VN/GLADMIN-185400/emerald-diamond-ring-125x125.jpg"
+      },
+      {
+        "name": "Ruby Diamond Ring",
+        "page": "https://dir.indiamart.com/impcat/ruby-diamond-ring.html",
+        "thumbnail": "http://4.imimg.com/data4/XP/OO/GLADMIN-182801/ruby-diamond-ring-125x125.jpg"
+      },
+      {
+        "name": "Rose Cut Diamond Ring",
+        "page": "https://dir.indiamart.com/impcat/rose-cut-diamond-ring.html",
+        "thumbnail": "http://5.imimg.com/data5/BR/IG/GLADMIN-2/rose-cut-diamond-ring-125x125.jpg"
+      },
+      {
+        "name": "Solitaire Ring",
+        "page": "https://dir.indiamart.com/impcat/solitaire-ring.html",
+        "thumbnail": "http://4.imimg.com/data4/YR/QV/GLADMIN-178812/solitaire-ring-125x125.jpg"
+      },
+      {
+        "name": "Halo Diamond Ring",
+        "page": "https://dir.indiamart.com/impcat/halo-diamond-ring.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320760466/DI/OU/XM/64193/halo-diamond-ring-125x125.png"
+      },
+      {
+        "name": "Cluster Diamond Ring",
+        "page": "https://dir.indiamart.com/impcat/cluster-diamond-ring.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320761032/CA/XW/BR/64193/cluster-diamond-ring-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Diamond Jewellery Set",
+    "category_thumbnail": "http://3.imimg.com/data3/PJ/PB/GLADMIN-84179/diamond-jewellery-set-125x125.jpg",
+    "items": [
+      {
+        "name": "Diamond Necklace Set",
+        "page": "https://dir.indiamart.com/impcat/diamond-necklace-set.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/SN/GLADMIN-156461/diamond-necklace-set-125x125.jpg"
+      },
+      {
+        "name": "American Diamond Pendant Set",
+        "page": "https://dir.indiamart.com/impcat/american-diamond-pendant-set.html",
+        "thumbnail": "http://3.imimg.com/data3/OV/GR/GLADMIN-167277/american-diamond-pendant-set-125x125.jpg"
+      },
+      {
+        "name": "Diamond Polki Necklace Set",
+        "page": "https://dir.indiamart.com/impcat/diamond-polki-necklace-set.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/LM/GLADMIN-151942/diamond-polki-necklace-set-125x125.jpg"
+      },
+      {
+        "name": "Diamond Pendant Set",
+        "page": "https://dir.indiamart.com/impcat/diamond-pendant-set.html",
+        "thumbnail": "http://5.imimg.com/data5/LK/XG/GLADMIN-2/diamond-pendant-set-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diamond Pendants",
+    "category_thumbnail": "http://3.imimg.com/data3/YQ/SO/GLADMIN-12784/diamond-pendants-125x125.jpg",
+    "items": [
+      {
+        "name": "Pave Diamond Pendant",
+        "page": "https://dir.indiamart.com/impcat/pave-diamond-pendant.html",
+        "thumbnail": "http://5.imimg.com/data5/SH/YR/GLADMIN-2/pave-diamond-pendant-125x125.jpg"
+      },
+      {
+        "name": "Diamond Padlock Pendant",
+        "page": "https://dir.indiamart.com/impcat/diamond-padlock-pendant.html",
+        "thumbnail": "http://5.imimg.com/data5/VV/VV/GLADMIN-/a-img924-9047-klxjqw-125x125.jpg"
+      },
+      {
+        "name": "Amethyst Diamond Pendants",
+        "page": "https://dir.indiamart.com/impcat/amethyst-diamond-pendants.html",
+        "thumbnail": "http://3.imimg.com/data3/JO/US/GLADMIN-146767/amethyst-diamond-pendants-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diamond Bracelets",
+    "category_thumbnail": "http://3.imimg.com/data3/JG/TG/GLADMIN-12779/diamond-bracelets-125x125.jpg",
+    "items": [
+      {
+        "name": "Pave Diamond Bracelets",
+        "page": "https://dir.indiamart.com/impcat/pave-diamond-bracelets.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/VE/GLADMIN-2/pave-diamond-bracelets-125x125.jpg"
+      },
+      {
+        "name": "Diamond Charm Bracelet",
+        "page": "https://dir.indiamart.com/impcat/diamond-charm-bracelet.html",
+        "thumbnail": "http://3.imimg.com/data3/SX/YK/GLADMIN-84177/diamond-charm-bracelet-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diamond Earring",
+    "category_thumbnail": "http://3.imimg.com/data3/XB/QH/GLADMIN-12782/diamond-earring-125x125.jpg",
+    "items": [
+      {
+        "name": "Diamond Stud Earring",
+        "page": "https://dir.indiamart.com/impcat/diamond-stud-earring.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/AQ/GLADMIN-84180/diamond-stud-earring-125x125.jpg"
+      },
+      {
+        "name": "Diamond Drop Earrings",
+        "page": "https://dir.indiamart.com/impcat/diamond-drop-earrings.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/RJ/GLADMIN-84178/diamond-drop-earrings-125x125.jpg"
+      },
+      {
+        "name": "Diamond Hoop Earing",
+        "page": "https://dir.indiamart.com/impcat/diamond-hoop-earing.html",
+        "thumbnail": "http://4.imimg.com/data4/XA/IW/GLADMIN-2/diamond-hoop-earing-125x125.jpg"
+      },
+      {
+        "name": "Rose Cut Diamond Earring",
+        "page": "https://dir.indiamart.com/impcat/rose-cut-diamond-earring.html",
+        "thumbnail": "http://5.imimg.com/data5/LU/XF/GLADMIN-2/rose-cut-diamond-earring-125x125.jpg"
+      },
+      {
+        "name": "Beaded Diamond Earring",
+        "page": "https://dir.indiamart.com/impcat/beaded-diamond-earring.html",
+        "thumbnail": "http://3.imimg.com/data3/WY/VJ/GLADMIN-163588/beaded-diamond-earring-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Diamond Bangles",
+    "category_thumbnail": "http://3.imimg.com/data3/AP/EA/GLADMIN-12777/diamond-bangles-125x125.jpg",
+    "items": [
+      {
+        "name": "Diamond Studded Bangle",
+        "page": "https://dir.indiamart.com/impcat/diamond-studded-bangle.html",
+        "thumbnail": "http://3.imimg.com/data3/TU/SL/GLADMIN-146808/diamond-studded-bangle-125x125.jpg"
+      },
+      {
+        "name": "Gold Diamond Bangle",
+        "page": "https://dir.indiamart.com/impcat/gold-diamond-bangle.html",
+        "thumbnail": "http://4.imimg.com/data4/GT/AG/GLADMIN-183708/gold-diamond-bangle-125x125.jpg"
+      },
+      {
+        "name": "Diamond Studded Gold Bangle",
+        "page": "https://dir.indiamart.com/impcat/diamond-studded-gold-bangle.html",
+        "thumbnail": "http://4.imimg.com/data4/IF/OV/GLADMIN-182885/diamond-studded-gold-bangle-125x125.jpg"
+      },
+      {
+        "name": "Rose Cut Diamond Bangle",
+        "page": "https://dir.indiamart.com/impcat/rose-cut-diamond-bangle.html",
+        "thumbnail": "http://4.imimg.com/data4/XW/II/GLADMIN-183060/rose-cut-diamond-bangle-125x125.jpg"
+      },
+      {
+        "name": "Pave Diamond Bangles",
+        "page": "https://dir.indiamart.com/impcat/pave-diamond-bangles.html",
+        "thumbnail": "http://5.imimg.com/data5/AK/HS/GLADMIN-2/pave-diamond-bangles-125x125.jpg"
+      },
+      {
+        "name": "Diamond Polki Bangle",
+        "page": "https://dir.indiamart.com/impcat/diamond-polki-bangle.html",
+        "thumbnail": "http://4.imimg.com/data4/LF/TR/GLADMIN-185213/diamond-polki-bangle-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Pave Diamond Jewelry",
+    "category_thumbnail": "http://4.imimg.com/data4/CL/BA/GLADMIN-2/pave-diamond-jewelry-125x125.jpg",
+    "items": [
+      {
+        "name": "Pave Diamond Earring",
+        "page": "https://dir.indiamart.com/impcat/pave-diamond-earring.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/pave-diamond-earring-125x125.jpg"
+      },
+      {
+        "name": "Pave Diamond Necklace",
+        "page": "https://dir.indiamart.com/impcat/pave-diamond-necklace.html",
+        "thumbnail": "http://5.imimg.com/data5/BH/TN/GLADMIN-2/pave-diamond-necklace-125x125.jpg"
+      },
+      {
+        "name": "Pave Diamond Charm",
+        "page": "https://dir.indiamart.com/impcat/pave-diamond-charm.html",
+        "thumbnail": "http://5.imimg.com/data5/XJ/AJ/GLADMIN-2/pave-diamond-charm-125x125.jpg"
+      }
+    ]
+  }
+]

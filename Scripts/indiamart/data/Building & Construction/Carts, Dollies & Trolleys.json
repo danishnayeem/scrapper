@@ -1,0 +1,1144 @@
+[
+  {
+    "category_name": "Food and Ice Cream Cart",
+    "category_thumbnail": "http://3.imimg.com/data3/RJ/JH/GLADMIN-38581/vending-carts-125x125.jpg",
+    "items": [
+      {
+        "name": "Food Cart",
+        "page": "https://dir.indiamart.com/impcat/food-cart.html",
+        "thumbnail": "http://5.imimg.com/data5/DW/JT/OM/GLADMIN-31571/food-cart-125x125.jpg"
+      },
+      {
+        "name": "Fast Food Stall",
+        "page": "https://dir.indiamart.com/impcat/fast-food-stall.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/QY/LT/KS/87970/fast-food-stall-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Food Cart",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-food-cart.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324494616/NA/AW/XC/80176/stainless-steel-food-cart-125x125.jpg"
+      },
+      {
+        "name": "Juice Counter",
+        "page": "https://dir.indiamart.com/impcat/juice-counter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/QE/NJ/UC/87970/juice-counter-125x125.jpg"
+      },
+      {
+        "name": "Ice Cream Cart",
+        "page": "https://dir.indiamart.com/impcat/ice-cream-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/HU/GLADMIN-146003/ice-cream-cart-125x125.jpg"
+      },
+      {
+        "name": "Push Carts",
+        "page": "https://dir.indiamart.com/impcat/push-carts.html",
+        "thumbnail": "http://5.imimg.com/data5/UM/ZB/PQ/GLADMIN-31571/push-carts-125x125.jpg"
+      },
+      {
+        "name": "Electric Vending Cart",
+        "page": "https://dir.indiamart.com/impcat/electric-vending-cart.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/OY/DC/ZY/5992/electric-vending-cart-125x125.jpg"
+      },
+      {
+        "name": "Ice Cream Tricycle",
+        "page": "https://dir.indiamart.com/impcat/ice-cream-tricycle.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/JT/GLADMIN-154275/ice-cream-tricycle-125x125.jpg"
+      },
+      {
+        "name": "Sweetcorn Counter",
+        "page": "https://dir.indiamart.com/impcat/sweetcorn-counter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/QM/IA/RQ/85357/sweetcorn-counter-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Wheelbarrow",
+    "category_thumbnail": "http://3.imimg.com/data3/YB/FY/GLADMIN-41187/wheelbarrow-125x125.jpg",
+    "items": [
+      {
+        "name": "Wheel Barrow Trolley",
+        "page": "https://dir.indiamart.com/impcat/wheel-barrow-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/DQ/GLADMIN-151212/wheel-barrow-trolley-125x125.jpg"
+      },
+      {
+        "name": "Wheelbarrow Tyre",
+        "page": "https://dir.indiamart.com/impcat/wheelbarrow-tire.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/DB/PG/FE/81953/wheelbarrow-tyre-125x125.jpg"
+      },
+      {
+        "name": "Hand Carts",
+        "page": "https://dir.indiamart.com/impcat/hand-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/QD/GLADMIN-29982/hand-carts-125x125.jpg"
+      },
+      {
+        "name": "Hand Trolley",
+        "page": "https://dir.indiamart.com/impcat/hand-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/KS/WS/GLADMIN-42171/hand-trolley-125x125.jpg"
+      },
+      {
+        "name": "Double Wheel Barrow",
+        "page": "https://dir.indiamart.com/impcat/double-wheel-barrow.html",
+        "thumbnail": "http://3.imimg.com/data3/SM/VP/GLADMIN-126691/double-wheel-barrow-125x125.jpg"
+      },
+      {
+        "name": "Single Wheel Barrow",
+        "page": "https://dir.indiamart.com/impcat/single-wheel-barrow.html",
+        "thumbnail": "http://3.imimg.com/data3/SM/FN/GLADMIN-126608/single-wheel-barrow-125x125.jpg"
+      },
+      {
+        "name": "Wheelbarrow Wheel",
+        "page": "https://dir.indiamart.com/impcat/wheelbarrow-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/CG/GLADMIN-78573/wheelbarrow-wheel-125x125.jpg"
+      },
+      {
+        "name": "Hand Wheelbarrow",
+        "page": "https://dir.indiamart.com/impcat/hand-wheelbarrow.html",
+        "thumbnail": "http://3.imimg.com/data3/NE/WH/GLADMIN-77792/hand-wheelbarrow-125x125.jpg"
+      },
+      {
+        "name": "Heavy Duty Wheelbarrow",
+        "page": "https://dir.indiamart.com/impcat/heavy-duty-wheel-barrow.html",
+        "thumbnail": "http://4.imimg.com/data4/OD/CK/GLADMIN-2/heavy-duty-wheel-barrow-125x125.jpg"
+      },
+      {
+        "name": "Tilting Wheel Barrow",
+        "page": "https://dir.indiamart.com/impcat/tilting-wheel-barrow.html",
+        "thumbnail": "http://3.imimg.com/data3/EQ/OT/GLADMIN-126627/tilting-wheel-barrow-125x125.jpg"
+      },
+      {
+        "name": "Pan Type Wheel Barrow",
+        "page": "https://dir.indiamart.com/impcat/pan-type-wheel-barrow.html",
+        "thumbnail": "http://3.imimg.com/data3/YY/IQ/GLADMIN-126580/pan-type-wheel-barrow-125x125.jpg"
+      },
+      {
+        "name": "Tipping Wheelbarrow",
+        "page": "https://dir.indiamart.com/impcat/tipping-wheelbarrow.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/WQ/GLADMIN-126628/tipping-wheelbarrow-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Utility Trolley",
+    "category_thumbnail": "http://3.imimg.com/data3/YT/PJ/GLADMIN-19857/utility-trolley-125x125.jpg",
+    "items": [
+      {
+        "name": "Shopping Trolley",
+        "page": "https://dir.indiamart.com/impcat/shopping-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/MS/DP/GLADMIN-1825/shopping-trolley-125x125.jpg"
+      },
+      {
+        "name": "Bike Trolley",
+        "page": "https://dir.indiamart.com/impcat/bike-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/316416933/YO/AJ/EO/57343/bike-trolley-125x125.jpg"
+      },
+      {
+        "name": "Trolley Tyres",
+        "page": "https://dir.indiamart.com/impcat/trolley-tyres.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/DV/MY-2/trolley-tyres-125x125.jpg"
+      },
+      {
+        "name": "Inverter Trolley",
+        "page": "https://dir.indiamart.com/impcat/inverter-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/TP/CA/GLADMIN-138602/inverter-trolley-125x125.jpg"
+      },
+      {
+        "name": "Battery Trolley",
+        "page": "https://dir.indiamart.com/impcat/battery-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/AS/KC/GLADMIN-126757/battery-trolley-125x125.jpg"
+      },
+      {
+        "name": "Dust Bin Trolley",
+        "page": "https://dir.indiamart.com/impcat/dust-bin-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/EP/YA/GLADMIN-121137/dust-bin-trolley-125x125.jpg"
+      },
+      {
+        "name": "Plastic Shopping Basket",
+        "page": "https://dir.indiamart.com/impcat/plastic-shopping-basket.html",
+        "thumbnail": "http://3.imimg.com/data3/LL/CX/GLADMIN-80855/plastic-shopping-basket-125x125.jpg"
+      },
+      {
+        "name": "Shopping Baskets",
+        "page": "https://dir.indiamart.com/impcat/shopping-baskets.html",
+        "thumbnail": "http://3.imimg.com/data3/RK/QA/GLADMIN-37721/shopping-baskets-125x125.jpg"
+      },
+      {
+        "name": "Generator Set Trolley",
+        "page": "https://dir.indiamart.com/impcat/generator-set-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/EU/GLADMIN-160867/generator-set-trolley-125x125.jpg"
+      },
+      {
+        "name": "Moving Cart",
+        "page": "https://dir.indiamart.com/impcat/moving-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/AP/GLADMIN-77795/moving-cart-125x125.jpg"
+      },
+      {
+        "name": "Shopping Carts",
+        "page": "https://dir.indiamart.com/impcat/shopping-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/WJ/GLADMIN-37724/shopping-carts-125x125.jpg"
+      },
+      {
+        "name": "Multipurpose Trolley",
+        "page": "https://dir.indiamart.com/impcat/multipurpose-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/TE/SX/GLADMIN-2/multipurpose-trolley-125x125.jpg"
+      },
+      {
+        "name": "Folding Shopping Trolley",
+        "page": "https://dir.indiamart.com/impcat/folding-shopping-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/UR/GLADMIN-106638/folding-shopping-trolley-125x125.jpg"
+      },
+      {
+        "name": "Sack Trolley",
+        "page": "https://dir.indiamart.com/impcat/sack-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/NB/GLADMIN-126848/sack-trolley-125x125.jpg"
+      },
+      {
+        "name": "Material Feeding Trolley",
+        "page": "https://dir.indiamart.com/impcat/material-feeding-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/OJ/BQ/GLADMIN-118215/material-feeding-trolley-125x125.jpg"
+      },
+      {
+        "name": "ESD Trolleys",
+        "page": "https://dir.indiamart.com/impcat/esd-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/XO/UC/SV/GLADMIN-76441/esd-trolley-125x125.jpg"
+      },
+      {
+        "name": "Scrap Trolley",
+        "page": "https://dir.indiamart.com/impcat/scrap-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/SP/QQ/GLADMIN-184452/scrap-trolley-125x125.jpg"
+      },
+      {
+        "name": "Metal Shopping Cart",
+        "page": "https://dir.indiamart.com/impcat/metal-shopping-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/KH/MU/GLADMIN-80704/metal-shopping-cart-125x125.jpg"
+      },
+      {
+        "name": "Banquet Table Trolley",
+        "page": "https://dir.indiamart.com/impcat/banquet-table-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/HN/NM/GLADMIN-139789/banquet-table-trolley-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Carts",
+    "category_thumbnail": "http://3.imimg.com/data3/FI/QN/GLADMIN-30900/industrial-carts-125x125.jpg",
+    "items": [
+      {
+        "name": "Material Handling Trolleys",
+        "page": "https://dir.indiamart.com/impcat/material-handling-trolleys.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/QI/GLADMIN-88436/material-handling-trolleys-125x125.jpg"
+      },
+      {
+        "name": "Hand Carts",
+        "page": "https://dir.indiamart.com/impcat/hand-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/QD/GLADMIN-29982/hand-carts-125x125.jpg"
+      },
+      {
+        "name": "Wheeled Cart",
+        "page": "https://dir.indiamart.com/impcat/wheeled-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/MW/GLADMIN-77801/wheeled-cart-125x125.jpg"
+      },
+      {
+        "name": "Four Wheel Cart",
+        "page": "https://dir.indiamart.com/impcat/four-wheel-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/KB/RC/GLADMIN-77791/four-wheel-cart-125x125.jpg"
+      },
+      {
+        "name": "Industrial Trolley",
+        "page": "https://dir.indiamart.com/impcat/industrial-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/AF/GLADMIN-88425/industrial-trolley-125x125.jpg"
+      },
+      {
+        "name": "Moving Cart",
+        "page": "https://dir.indiamart.com/impcat/moving-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/AP/GLADMIN-77795/moving-cart-125x125.jpg"
+      },
+      {
+        "name": "Foldable Trolley Cart",
+        "page": "https://dir.indiamart.com/impcat/foldable-trolley-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/JM/AO/GLADMIN-106637/foldable-trolley-cart-125x125.jpg"
+      },
+      {
+        "name": "Mobile Carts",
+        "page": "https://dir.indiamart.com/impcat/mobile-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/HM/RK/GLADMIN-143756/mobile-carts-125x125.jpg"
+      },
+      {
+        "name": "Engine Lifter Trolley",
+        "page": "https://dir.indiamart.com/impcat/engine-lifter-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/HE/GLADMIN-144922/engine-lifter-trolley-125x125.jpg"
+      },
+      {
+        "name": "Bobbin Trolley",
+        "page": "https://dir.indiamart.com/impcat/bobbin-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/WW/GLADMIN-/a-img924-928-xmqdxi-125x125.jpg"
+      },
+      {
+        "name": "Crate Trolley",
+        "page": "https://dir.indiamart.com/impcat/crate-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/UL/XY/GLADMIN-182908/crate-trolley-125x125.jpg"
+      },
+      {
+        "name": "Warehouse Trolley",
+        "page": "https://dir.indiamart.com/impcat/warehouse-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/FM/KM/GLADMIN-87724/warehouse-trolley-125x125.jpg"
+      },
+      {
+        "name": "Rolling Cart",
+        "page": "https://dir.indiamart.com/impcat/rolling-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/XP/VD/GLADMIN-77797/rolling-cart-125x125.jpg"
+      },
+      {
+        "name": "Plastic Carts",
+        "page": "https://dir.indiamart.com/impcat/plastic-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/CL/NL/GLADMIN-35222/plastic-carts-125x125.jpg"
+      },
+      {
+        "name": "Automotive Pallet",
+        "page": "https://dir.indiamart.com/impcat/automotive-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/VP/GLADMIN-80559/automotive-pallet-125x125.jpg"
+      },
+      {
+        "name": "Shelf Cart",
+        "page": "https://dir.indiamart.com/impcat/shelf-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/PD/GLADMIN-89643/shelf-cart-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Trolley",
+    "category_thumbnail": "http://3.imimg.com/data3/BC/XA/GLADMIN-2573/trolley-125x125.jpg",
+    "items": [
+      {
+        "name": "Hand Trolley",
+        "page": "https://dir.indiamart.com/impcat/hand-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/KS/WS/GLADMIN-42171/hand-trolley-125x125.jpg"
+      },
+      {
+        "name": "Generator Set Trolley",
+        "page": "https://dir.indiamart.com/impcat/generator-set-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/EU/GLADMIN-160867/generator-set-trolley-125x125.jpg"
+      },
+      {
+        "name": "Electric Trolley",
+        "page": "https://dir.indiamart.com/impcat/electric-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/PC/DF/GLADMIN-27990/electric-trolley-125x125.jpg"
+      },
+      {
+        "name": "Utility Trolley",
+        "page": "https://dir.indiamart.com/impcat/utility-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/PJ/GLADMIN-19857/utility-trolley-125x125.jpg"
+      },
+      {
+        "name": "Cage Trolley",
+        "page": "https://dir.indiamart.com/impcat/cage-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/PH/OW/GLADMIN-178255/cage-trolley-125x125.jpg"
+      },
+      {
+        "name": "Shifting Trolley",
+        "page": "https://dir.indiamart.com/impcat/shifting-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/SR/GLADMIN-136118/shifting-trolley-125x125.jpg"
+      },
+      {
+        "name": "Textile Trolley",
+        "page": "https://dir.indiamart.com/impcat/textile-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/EI/HM/GLADMIN-184201/textile-trolley-125x125.jpg"
+      },
+      {
+        "name": "Geared Trolley",
+        "page": "https://dir.indiamart.com/impcat/geared-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/IW/GLADMIN-87721/geared-trolley-125x125.jpg"
+      },
+      {
+        "name": "Plastic Trolley",
+        "page": "https://dir.indiamart.com/impcat/plastic-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/DP/GLADMIN-160715/plastic-trolley-125x125.jpg"
+      },
+      {
+        "name": "2 Tier Trolley",
+        "page": "https://dir.indiamart.com/impcat/2-tier-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/OL/GLADMIN-145315/2-tier-trolley-125x125.jpg"
+      },
+      {
+        "name": "Processing Trolleys",
+        "page": "https://dir.indiamart.com/impcat/processing-trolleys.html",
+        "thumbnail": "http://3.imimg.com/data3/KQ/UY/GLADMIN-177392/processing-trolleys-125x125.jpg"
+      },
+      {
+        "name": "Computer Trolley",
+        "page": "https://dir.indiamart.com/impcat/computer-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/FP/BO/GLADMIN-180307/computer-trolley-125x125.jpg"
+      },
+      {
+        "name": "Chip Trolley",
+        "page": "https://dir.indiamart.com/impcat/chip-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/QA/OV/GLADMIN-121102/chip-trolley-125x125.jpg"
+      },
+      {
+        "name": "Three Wheel Trolley",
+        "page": "https://dir.indiamart.com/impcat/three-wheel-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/SB/GLADMIN-126625/three-wheel-trolley-125x125.jpg"
+      },
+      {
+        "name": "Cloth Roll Doffing Trolley",
+        "page": "https://dir.indiamart.com/impcat/cloth-roll-doffing-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/VB/UP/GLADMIN-/images-large-cloth-roll-doffing-125x125.jpg"
+      },
+      {
+        "name": "Batching Trolley",
+        "page": "https://dir.indiamart.com/impcat/batching-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/KW/KS/AC/GLADMIN-68155/batching-trolley-125x125.jpg"
+      },
+      {
+        "name": "Second Hand and Used Trolley",
+        "page": "https://dir.indiamart.com/impcat/second-hand-and-used-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/IJ/VR/KN/GLADMIN-68155/second-hand-and-used-trolley-125x125.jpg"
+      },
+      {
+        "name": "Roll Cages",
+        "page": "https://dir.indiamart.com/impcat/roll-cages.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/IY/GLADMIN-/forums-attachments-f172-114244d1236934223-roll-cages-available-lotus-roll-cage-104-125x125.jpg"
+      },
+      {
+        "name": "Push trolley",
+        "page": "https://dir.indiamart.com/impcat/push-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/KA/GLADMIN-34873/push-trolley-125x125.jpg"
+      },
+      {
+        "name": "Glass Trolley",
+        "page": "https://dir.indiamart.com/impcat/glass-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/HL/VG/GLADMIN-2/glass-trolley-125x125.jpg"
+      },
+      {
+        "name": "Logistic Trolley",
+        "page": "https://dir.indiamart.com/impcat/logistic-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/XG/RJ/GLADMIN-159958/logistic-trolley-125x125.jpg"
+      },
+      {
+        "name": "Mobile Trolley",
+        "page": "https://dir.indiamart.com/impcat/mobile-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/IN/GLADMIN-20702/mobile-trolley-125x125.jpg"
+      },
+      {
+        "name": "Polypropylene Trolley",
+        "page": "https://dir.indiamart.com/impcat/polypropylene-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/FL/GLADMIN-150486/polypropylene-trolley-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Kitchen Restaurant and Catering Trolleys",
+    "category_thumbnail": "http://3.imimg.com/data3/DA/AQ/GLADMIN-89820/catering-cart-125x125.jpg",
+    "items": [
+      {
+        "name": "Stainless Steel Kitchen Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-kitchen-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/KU/ME/OY/84833/stainless-steel-kitchen-trolley-125x125.png"
+      },
+      {
+        "name": "Food Service Trolley",
+        "page": "https://dir.indiamart.com/impcat/food-service-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/WX/KC/GLADMIN-181942/food-service-trolley-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Fruit & Vegetable Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-fruit-vegetable-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/WV/MA/UQ/GLADMIN-68087/stainless-steel-fruit-vegetable-trolley-125x125.jpg"
+      },
+      {
+        "name": "Fruit & Vegetable Trolley",
+        "page": "https://dir.indiamart.com/impcat/fruit-vegetable-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/AA/GLADMIN-/fruit-125x125.jpg"
+      },
+      {
+        "name": "Tea Snack Trolley",
+        "page": "https://dir.indiamart.com/impcat/tea-snack-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/NM/JI/GLADMIN-153590/tea-snack-trolley-125x125.jpg"
+      },
+      {
+        "name": "Hot Food Trolley",
+        "page": "https://dir.indiamart.com/impcat/hot-food-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/XE/GLADMIN-145279/hot-food-trolley-125x125.jpg"
+      },
+      {
+        "name": "Serving Trolleys",
+        "page": "https://dir.indiamart.com/impcat/serving-trolleys.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/II/GLADMIN-8536/serving-trolleys-125x125.jpg"
+      },
+      {
+        "name": "Bakery Trolley",
+        "page": "https://dir.indiamart.com/impcat/bakery-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/JI/MZ/RG/GLADMIN-31571/bakery-trolley-125x125.jpg"
+      },
+      {
+        "name": "Tray Rack Trolley",
+        "page": "https://dir.indiamart.com/impcat/tray-rack-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/AO/RM/GLADMIN-144172/tray-rack-trolley-125x125.jpg"
+      },
+      {
+        "name": "Bar and Wine Cart",
+        "page": "https://dir.indiamart.com/impcat/bar-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/OH/MS/GLADMIN-2/bar-trolley1-125x125.jpg"
+      },
+      {
+        "name": "Wooden Kitchen Trolley",
+        "page": "https://dir.indiamart.com/impcat/wooden-kitchen-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/WL/GLADMIN-41491/wooden-kitchen-trolley-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Serving Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-serving-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/EV/IX/FD/GLADMIN-73621/stainless-steel-serving-trolley-125x125.jpg"
+      },
+      {
+        "name": "Bottle Trolley",
+        "page": "https://dir.indiamart.com/impcat/bottle-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/JP/FW/NK/GLADMIN-31571/bottle-trolley-125x125.jpg"
+      },
+      {
+        "name": "Wooden Service Trolley",
+        "page": "https://dir.indiamart.com/impcat/wooden-service-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/MW/XB/GLADMIN-153750/wooden-service-trolley-125x125.jpg"
+      },
+      {
+        "name": "Vegetable Rack Trolley",
+        "page": "https://dir.indiamart.com/impcat/vegetable-rack-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/RF/XA/GLADMIN-180995/vegetable-rack-trolley-125x125.jpg"
+      },
+      {
+        "name": "Banquet Chair Trolley",
+        "page": "https://dir.indiamart.com/impcat/banquet-chair-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/WJ/GLADMIN-139788/banquet-chair-trolley-125x125.jpg"
+      },
+      {
+        "name": "Banquet Table Trolley",
+        "page": "https://dir.indiamart.com/impcat/banquet-table-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/HN/NM/GLADMIN-139789/banquet-table-trolley-125x125.jpg"
+      },
+      {
+        "name": "Restaurant Carts",
+        "page": "https://dir.indiamart.com/impcat/restaurant-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/NG/GLADMIN-128881/restaurant-carts-125x125.jpg"
+      },
+      {
+        "name": "Bakery Cooling Rack",
+        "page": "https://dir.indiamart.com/impcat/bakery-cooling-rack.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/322690059/LK/IW/QO/81955/bakery-cooling-rack-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Cabinet Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-cabinet-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/AH/SY/ER/GLADMIN-68087/stainless-steel-cabinet-trolley-125x125.jpg"
+      },
+      {
+        "name": "Soup Trolley",
+        "page": "https://dir.indiamart.com/impcat/soup-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/DT/EC/RT/GLADMIN-31571/soup-trolley-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Trolley",
+    "category_thumbnail": "http://3.imimg.com/data3/PL/AF/GLADMIN-88425/industrial-trolley-125x125.jpg",
+    "items": [
+      {
+        "name": "MS Trolley",
+        "page": "https://dir.indiamart.com/impcat/ms-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/HW/UT/RZ/GLADMIN-68087/ms-trolley-125x125.jpg"
+      },
+      {
+        "name": "Hydraulic Trolley",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/KT/HU/GLADMIN-29685/hydraulic-trolley-125x125.jpg"
+      },
+      {
+        "name": "Heavy Duty Trolley",
+        "page": "https://dir.indiamart.com/impcat/heavy-duty-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/HC/DA/GLADMIN-167405/heavy-duty-trolley-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Platform Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-platform-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/OF/GW/GLADMIN-181536/stainless-steel-platform-trolley-125x125.jpg"
+      },
+      {
+        "name": "Hydraulic Lifting Trolley",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-lifting-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/DN/AP/GLADMIN-159924/hydraulic-lifting-trolley-125x125.jpg"
+      },
+      {
+        "name": "Stair Climbing Trolley",
+        "page": "https://dir.indiamart.com/impcat/stair-climbing-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/HB/GLADMIN-159655/stair-climbing-trolley-125x125.jpg"
+      },
+      {
+        "name": "Battery Operated Trolley",
+        "page": "https://dir.indiamart.com/impcat/battery-operated-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/KE/GLADMIN-160764/battery-operated-trolley-125x125.jpg"
+      },
+      {
+        "name": "Pallet Trolley",
+        "page": "https://dir.indiamart.com/impcat/pallet-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/TP/GLADMIN-150356/pallet-trolley-125x125.jpg"
+      },
+      {
+        "name": "Storage Trolley",
+        "page": "https://dir.indiamart.com/impcat/storage-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/BM/AT/GLADMIN-38865/storage-trolley-125x125.jpg"
+      },
+      {
+        "name": "Transfer Carts",
+        "page": "https://dir.indiamart.com/impcat/transfer-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/OV/YH/GLADMIN-40149/transfer-carts-125x125.jpg"
+      },
+      {
+        "name": "Push Pull Trolley",
+        "page": "https://dir.indiamart.com/impcat/push-pull-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/HR/WQ/GLADMIN-143466/push-pull-trolley-125x125.jpg"
+      },
+      {
+        "name": "Mobile Trolley",
+        "page": "https://dir.indiamart.com/impcat/mobile-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/IN/GLADMIN-20702/mobile-trolley-125x125.jpg"
+      },
+      {
+        "name": "Festoon Trolley",
+        "page": "https://dir.indiamart.com/impcat/festoon-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/AO/GLADMIN-122254/festoon-trolley-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Construction Trolley",
+    "category_thumbnail": "http://3.imimg.com/data3/TS/RG/GLADMIN-148899/construction-trolley-125x125.jpg",
+    "items": [
+      {
+        "name": "Material Handling Trolleys",
+        "page": "https://dir.indiamart.com/impcat/material-handling-trolleys.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/QI/GLADMIN-88436/material-handling-trolleys-125x125.jpg"
+      },
+      {
+        "name": "Hydraulic Trolley",
+        "page": "https://dir.indiamart.com/impcat/hydraulic-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/KT/HU/GLADMIN-29685/hydraulic-trolley-125x125.jpg"
+      },
+      {
+        "name": "Slab Trolley",
+        "page": "https://dir.indiamart.com/impcat/slab-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/GP/SI/GLADMIN-145655/slab-trolley-125x125.jpg"
+      },
+      {
+        "name": "Box Handling Trolley",
+        "page": "https://dir.indiamart.com/impcat/box-handling-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/XJ/GLADMIN-121086/box-handling-trolley-125x125.jpg"
+      },
+      {
+        "name": "Material Feeding Trolley",
+        "page": "https://dir.indiamart.com/impcat/material-feeding-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/OJ/BQ/GLADMIN-118215/material-feeding-trolley-125x125.jpg"
+      },
+      {
+        "name": "Tilting Bucket Trolley",
+        "page": "https://dir.indiamart.com/impcat/tilting-bucket-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/VN/GLADMIN-144426/tilting-bucket-trolley-125x125.jpg"
+      },
+      {
+        "name": "Fabrication Trolley",
+        "page": "https://dir.indiamart.com/impcat/fabrication-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/XT/GLADMIN-69301/fabrication-trolley-125x125.jpg"
+      },
+      {
+        "name": "Hose Trolley",
+        "page": "https://dir.indiamart.com/impcat/hose-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/KK/KK/GLADMIN-/hose-trolley-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Metal Trolley",
+    "category_thumbnail": "http://3.imimg.com/data3/EO/VO/GLADMIN-148003/metal-trolley-125x125.jpg",
+    "items": [
+      {
+        "name": "Stainless Steel Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/RG/TJ/GLADMIN-144518/stainless-steel-trolley-125x125.jpg"
+      },
+      {
+        "name": "MS Trolley",
+        "page": "https://dir.indiamart.com/impcat/ms-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/HW/UT/RZ/GLADMIN-68087/ms-trolley-125x125.jpg"
+      },
+      {
+        "name": "Heavy Duty Trolley",
+        "page": "https://dir.indiamart.com/impcat/heavy-duty-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/HC/DA/GLADMIN-167405/heavy-duty-trolley-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Platform Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-platform-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/OF/GW/GLADMIN-181536/stainless-steel-platform-trolley-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Fruit & Vegetable Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-fruit-vegetable-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/WV/MA/UQ/GLADMIN-68087/stainless-steel-fruit-vegetable-trolley-125x125.jpg"
+      },
+      {
+        "name": "Wire Mesh Trolley",
+        "page": "https://dir.indiamart.com/impcat/wire-mesh-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/BX/GLADMIN-151977/wire-mesh-trolley-125x125.jpg"
+      },
+      {
+        "name": "2 Tier Trolley",
+        "page": "https://dir.indiamart.com/impcat/2-tier-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/OL/GLADMIN-145315/2-tier-trolley-125x125.jpg"
+      },
+      {
+        "name": "Transport Trolley",
+        "page": "https://dir.indiamart.com/impcat/transport-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/OP/GLADMIN-137260/transport-trolley-125x125.jpg"
+      },
+      {
+        "name": "Wire Bin",
+        "page": "https://dir.indiamart.com/impcat/wire-bin.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/SK/GLADMIN-130044/wire-bin-125x125.jpg"
+      },
+      {
+        "name": "Bottle Trolley",
+        "page": "https://dir.indiamart.com/impcat/bottle-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/JP/FW/NK/GLADMIN-31571/bottle-trolley-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Trolley",
+        "page": "https://dir.indiamart.com/impcat/aluminum-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/SG/QA/GLADMIN-186461/aluminum-trolley-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Tray Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-tray-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/XU/UY/GLADMIN-184455/stainless-steel-tray-trolley-125x125.jpg"
+      },
+      {
+        "name": "Fabrication Trolley",
+        "page": "https://dir.indiamart.com/impcat/fabrication-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/XT/GLADMIN-69301/fabrication-trolley-125x125.jpg"
+      },
+      {
+        "name": "ESD Trolleys",
+        "page": "https://dir.indiamart.com/impcat/esd-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/XO/UC/SV/GLADMIN-76441/esd-trolley-125x125.jpg"
+      },
+      {
+        "name": "Metal Shopping Cart",
+        "page": "https://dir.indiamart.com/impcat/metal-shopping-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/KH/MU/GLADMIN-80704/metal-shopping-cart-125x125.jpg"
+      },
+      {
+        "name": "Multi Shelf Trolley",
+        "page": "https://dir.indiamart.com/impcat/multi-shelf-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/QY/JI/GLADMIN-164817/multi-shelf-trolley-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Housekeeping Carts and Wringer Trolleys",
+    "category_thumbnail": "http://3.imimg.com/data3/DA/RP/GLADMIN-147407/housekeeping-trolley-125x125.jpg",
+    "items": [
+      {
+        "name": "Wringer and Mopping Trolleys",
+        "page": "https://dir.indiamart.com/impcat/mopping-trolleys.html",
+        "thumbnail": "http://3.imimg.com/data3/LU/PI/GLADMIN-160085/mopping-trolleys-125x125.jpg"
+      },
+      {
+        "name": "Double Bucket Wringer Trolley",
+        "page": "https://dir.indiamart.com/impcat/double-bucket-wringer-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/ZZ/ZZ/GLADMIN-/double-bucket-wringer-trolley-125x125.jpg"
+      },
+      {
+        "name": "Housekeeping Cart",
+        "page": "https://dir.indiamart.com/impcat/housekeeping-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/GF/SM/GLADMIN-84943/housekeeping-cart-125x125.jpg"
+      },
+      {
+        "name": "Laundry Carts",
+        "page": "https://dir.indiamart.com/impcat/laundry-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/KJ/GLADMIN-30478/laundry-carts-125x125.jpg"
+      },
+      {
+        "name": "Soiled Linen Trolley",
+        "page": "https://dir.indiamart.com/impcat/soiled-linen-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/XX/QX/GLADMIN-19293/soiled-linen-trolley-125x125.jpg"
+      },
+      {
+        "name": "Service Trolley",
+        "page": "https://dir.indiamart.com/impcat/service-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/QS/GLADMIN-77799/service-trolley-125x125.jpg"
+      },
+      {
+        "name": "Janitor Carts",
+        "page": "https://dir.indiamart.com/impcat/janitor-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/CL/GLADMIN-31179/janitor-carts-125x125.jpg"
+      },
+      {
+        "name": "SS Mopping Trolley",
+        "page": "https://dir.indiamart.com/impcat/ss-mopping-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/QL/XR/GLADMIN-2/ss-mopping-trolley-125x125.jpg"
+      },
+      {
+        "name": "Room Service Trolley",
+        "page": "https://dir.indiamart.com/impcat/room-service-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/EU/GLADMIN-150801/room-service-trolley-125x125.jpg"
+      },
+      {
+        "name": "Garbage Cart",
+        "page": "https://dir.indiamart.com/impcat/garbage-cart.html",
+        "thumbnail": "http://3.imimg.com/data3/QS/BB/GLADMIN-164776/garbage-cart-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Luggage Trolley",
+    "category_thumbnail": "http://3.imimg.com/data3/WV/QC/GLADMIN-49919/luggage-trolley-125x125.jpg",
+    "items": [
+      {
+        "name": "Platform Trolley",
+        "page": "https://dir.indiamart.com/impcat/platform-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/VT/RX/GLADMIN-35014/platform-trolley-125x125.jpg"
+      },
+      {
+        "name": "Airport Luggage Carts",
+        "page": "https://dir.indiamart.com/impcat/airport-luggage-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/IM/SH/GLADMIN-21419/airport-luggage-carts-125x125.jpg"
+      },
+      {
+        "name": "Hotel Luggage Trolley",
+        "page": "https://dir.indiamart.com/impcat/hotel-luggage-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/ZQ/XC/OQ/GLADMIN-73467/hotel-luggage-trolley-125x125.jpg"
+      },
+      {
+        "name": "Platform Trucks",
+        "page": "https://dir.indiamart.com/impcat/platform-trucks.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/TJ/GLADMIN-35015/platform-trucks-125x125.jpg"
+      },
+      {
+        "name": "Luggage Carts",
+        "page": "https://dir.indiamart.com/impcat/luggage-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/MY/GLADMIN-31631/luggage-carts-125x125.jpg"
+      },
+      {
+        "name": "Transport Trolley",
+        "page": "https://dir.indiamart.com/impcat/transport-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/OP/GLADMIN-137260/transport-trolley-125x125.jpg"
+      },
+      {
+        "name": "Push trolley",
+        "page": "https://dir.indiamart.com/impcat/push-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/KA/GLADMIN-34873/push-trolley-125x125.jpg"
+      },
+      {
+        "name": "Baggage Carts",
+        "page": "https://dir.indiamart.com/impcat/baggage-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/BP/HQ/GLADMIN-22503/baggage-carts-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tool Trolley",
+    "category_thumbnail": "http://3.imimg.com/data3/XL/OW/GLADMIN-120919/tool-trolley-125x125.jpg",
+    "items": [
+      {
+        "name": "Tool Cabinets",
+        "page": "https://dir.indiamart.com/impcat/tool-cabinets.html",
+        "thumbnail": "http://3.imimg.com/data3/CD/ME/GLADMIN-38996/tool-cabinets-125x125.jpg"
+      },
+      {
+        "name": "Automobile Tool Trolley",
+        "page": "https://dir.indiamart.com/impcat/automobile-tool-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/LK/OF/GLADMIN-132790/automobile-tool-trolley-125x125.jpg"
+      },
+      {
+        "name": "Service Trolley",
+        "page": "https://dir.indiamart.com/impcat/service-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/QS/GLADMIN-77799/service-trolley-125x125.jpg"
+      },
+      {
+        "name": "CNC Tool Trolley",
+        "page": "https://dir.indiamart.com/impcat/cnc-tool-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/SI/VH/GLADMIN-132791/cnc-tool-trolley-125x125.jpg"
+      },
+      {
+        "name": "VMC Tool Trolley",
+        "page": "https://dir.indiamart.com/impcat/vmc-tool-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/CB/FB/GH/GLADMIN-68155/vmc-tool-trolley-125x125.jpg"
+      },
+      {
+        "name": "Tool Chests",
+        "page": "https://dir.indiamart.com/impcat/tool-chests.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/UH/GLADMIN-38998/tool-chests-125x125.jpg"
+      },
+      {
+        "name": "Storage Trolley",
+        "page": "https://dir.indiamart.com/impcat/storage-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/BM/AT/GLADMIN-38865/storage-trolley-125x125.jpg"
+      },
+      {
+        "name": "Box Handling Trolley",
+        "page": "https://dir.indiamart.com/impcat/box-handling-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/XJ/GLADMIN-121086/box-handling-trolley-125x125.jpg"
+      },
+      {
+        "name": "Workshop Trolleys",
+        "page": "https://dir.indiamart.com/impcat/workshop-trolleys.html",
+        "thumbnail": "http://3.imimg.com/data3/PY/PK/GLADMIN-161418/workshop-trolleys-125x125.jpg"
+      },
+      {
+        "name": "Roller Cabinet",
+        "page": "https://dir.indiamart.com/impcat/roller-cabinet.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/CH/GLADMIN-139110/roller-cabinet-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cylinder Trolley",
+    "category_thumbnail": "http://3.imimg.com/data3/BO/ME/GLADMIN-132792/cylinder-trolley-125x125.jpg",
+    "items": [
+      {
+        "name": "Oxygen Cylinder Trolley",
+        "page": "https://dir.indiamart.com/impcat/oxygen-cylinder-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/PV/GLADMIN-16485/oxygen-cylinder-trolley-125x125.jpg"
+      },
+      {
+        "name": "LPG Cylinder Trolley",
+        "page": "https://dir.indiamart.com/impcat/lpg-cylinder-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/10/458160217/FB/KL/TN/32235/double-gas-cylinder-trolley-1513850340-3534147-125x125.jpg"
+      },
+      {
+        "name": "Plastic Gas Cylinder Trolley",
+        "page": "https://dir.indiamart.com/impcat/plastic-gas-cylinder-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/EE/GLADMIN-/imgs-a-b-i-sdl066120423_1366367194_image1-f10c0-125x125.jpg"
+      },
+      {
+        "name": "Double Gas Cylinder Trolley",
+        "page": "https://dir.indiamart.com/impcat/double-gas-cylinder-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/LC/RX/GLADMIN-181759/double-gas-cylinder-trolley-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Cylinder Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-cylinder-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/IW/TV/GLADMIN-164908/stainless-steel-cylinder-trolley-125x125.jpg"
+      },
+      {
+        "name": "Sack Trolley",
+        "page": "https://dir.indiamart.com/impcat/sack-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/NB/GLADMIN-126848/sack-trolley-125x125.jpg"
+      },
+      {
+        "name": "Cylinder Trucks",
+        "page": "https://dir.indiamart.com/impcat/cylinder-trucks.html",
+        "thumbnail": "http://3.imimg.com/data3/AY/WW/GLADMIN-25280/cylinder-trucks-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Mesh Boxes",
+    "category_thumbnail": "http://3.imimg.com/data3/IB/PA/GLADMIN-115842/mesh-boxes-125x125.jpg",
+    "items": [
+      {
+        "name": "Gabion Box",
+        "page": "https://dir.indiamart.com/impcat/gabion-box.html",
+        "thumbnail": "http://3.imimg.com/data3/EV/GL/GLADMIN-56247/gabion-box-125x125.jpg"
+      },
+      {
+        "name": "Welded Wire Gabion",
+        "page": "https://dir.indiamart.com/impcat/welded-wire-gabion.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/QS/GLADMIN-135834/welded-wire-gabion-125x125.jpg"
+      },
+      {
+        "name": "Cage Pallets",
+        "page": "https://dir.indiamart.com/impcat/cage-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/DI/QA/GLADMIN-/upload-pct-02-pallet_cages-125x125.jpg"
+      },
+      {
+        "name": "Wire Mesh Container",
+        "page": "https://dir.indiamart.com/impcat/wire-mesh-container.html",
+        "thumbnail": "http://3.imimg.com/data3/GT/MD/GLADMIN-130061/wire-mesh-container-125x125.jpg"
+      },
+      {
+        "name": "Wire Mesh Pallets",
+        "page": "https://dir.indiamart.com/impcat/wire-mesh-pallets.html",
+        "thumbnail": "http://4.imimg.com/data4/RP/VK/GLADMIN-2/wire-mesh-pallets-125x125.jpg"
+      },
+      {
+        "name": "Gabion Mattress",
+        "page": "https://dir.indiamart.com/impcat/gabion-mattress.html",
+        "thumbnail": "http://3.imimg.com/data3/FD/IK/GLADMIN-104690/gabion-mattress-125x125.jpg"
+      },
+      {
+        "name": "Wire Mesh Retention Cage",
+        "page": "https://dir.indiamart.com/impcat/wire-mesh-retention-cage.html",
+        "thumbnail": "http://3.imimg.com/data3/AS/WS/GLADMIN-89989/wire-mesh-retention-cage-125x125.jpg"
+      },
+      {
+        "name": "Steel Gabion",
+        "page": "https://dir.indiamart.com/impcat/steel-gabion.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/JJ/GLADMIN-158158/steel-gabion-125x125.jpg"
+      },
+      {
+        "name": "Hexagonal Wire Netting Boxes",
+        "page": "https://dir.indiamart.com/impcat/hexagonal-wire-netting-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/AG/GLADMIN-105426/hexagonal-wire-netting-boxes-125x125.jpg"
+      },
+      {
+        "name": "Wire Pallet",
+        "page": "https://dir.indiamart.com/impcat/wire-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/MX/GLADMIN-116362/wire-pallet-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Trolley Truck",
+    "category_thumbnail": "http://3.imimg.com/data3/IA/UG/GLADMIN-40325/trolley-truck-125x125.jpg",
+    "items": [
+      {
+        "name": "Hand Trucks",
+        "page": "https://dir.indiamart.com/impcat/hand-trucks.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/FH/MY-2/hand-trucks-125x125.jpg"
+      },
+      {
+        "name": "Foldable Platform Trolley",
+        "page": "https://dir.indiamart.com/impcat/foldable-platform-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/DN/JX/GLADMIN-158223/foldable-platform-trolley-125x125.jpg"
+      },
+      {
+        "name": "Battery Operated Platform Truck",
+        "page": "https://dir.indiamart.com/impcat/battery-opeated-platform-truck.html",
+        "thumbnail": "http://5.imimg.com/data5/IU/BH/AD/GLADMIN-68155/battery-opeated-platform-truck-125x125.jpg"
+      },
+      {
+        "name": "Platform Trucks",
+        "page": "https://dir.indiamart.com/impcat/platform-trucks.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/TJ/GLADMIN-35015/platform-trucks-125x125.jpg"
+      },
+      {
+        "name": "Wagon Trucks",
+        "page": "https://dir.indiamart.com/impcat/wagon-trucks.html",
+        "thumbnail": "http://3.imimg.com/data3/GE/DP/GLADMIN-39400/wagon-trucks-125x125.jpg"
+      },
+      {
+        "name": "Low Profile Pallet Truck",
+        "page": "https://dir.indiamart.com/impcat/low-profile-pallet-truck.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/RR/GLADMIN-9673/low-profile-pallet-truck-125x125.jpg"
+      },
+      {
+        "name": "Bale Trolley",
+        "page": "https://dir.indiamart.com/impcat/bale-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/HV/GLADMIN-150316/bale-trolley-125x125.jpg"
+      },
+      {
+        "name": "Muck Truck",
+        "page": "https://dir.indiamart.com/impcat/muck-truck.html",
+        "thumbnail": "http://3.imimg.com/data3/KK/UX/GLADMIN-122439/muck-truck-125x125.jpg"
+      },
+      {
+        "name": "Sack Truck",
+        "page": "https://dir.indiamart.com/impcat/sack-truck.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/HT/GLADMIN-36652/sack-truck-125x125.jpg"
+      },
+      {
+        "name": "Hand Truck Tyre",
+        "page": "https://dir.indiamart.com/impcat/hand-truck-tire.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/OJ/GLADMIN-78569/hand-truck-tire-125x125.jpg"
+      },
+      {
+        "name": "Shelf Trucks",
+        "page": "https://dir.indiamart.com/impcat/shelf-trucks.html",
+        "thumbnail": "http://3.imimg.com/data3/XP/JA/GLADMIN-37995/shelf-trucks-125x125.jpg"
+      },
+      {
+        "name": "Box Truck",
+        "page": "https://dir.indiamart.com/impcat/box-truck.html",
+        "thumbnail": "http://3.imimg.com/data3/HT/QK/MY-2/box-truck1-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Wheel Dollies",
+    "category_thumbnail": "http://3.imimg.com/data3/EI/BX/GLADMIN-41180/wheel-dollies-125x125.jpg",
+    "items": [
+      {
+        "name": "Trolley Stand",
+        "page": "https://dir.indiamart.com/impcat/trolley-stand.html",
+        "thumbnail": "http://5.imimg.com/data5/GC/AR/GLADMIN-2/trolley-stand-125x125.jpg"
+      },
+      {
+        "name": "Drum Dollies",
+        "page": "https://dir.indiamart.com/impcat/drum-dollies.html",
+        "thumbnail": "http://3.imimg.com/data3/EK/KA/GLADMIN-26908/drum-dollies-125x125.jpg"
+      },
+      {
+        "name": "Pallet Dollies",
+        "page": "https://dir.indiamart.com/impcat/pallet-dollies.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/KY/GLADMIN-33937/pallet-dollies-125x125.jpg"
+      },
+      {
+        "name": "Steel Dollies",
+        "page": "https://dir.indiamart.com/impcat/steel-dollies.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/BQ/GLADMIN-38706/steel-dollies-125x125.jpg"
+      },
+      {
+        "name": "Wooden Dollies",
+        "page": "https://dir.indiamart.com/impcat/wooden-dollies.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/RJ/GLADMIN-41366/wooden-dollies-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Drum Trolley",
+    "category_thumbnail": "http://3.imimg.com/data3/YI/HH/GLADMIN-26929/drum-trolley-125x125.jpg",
+    "items": [
+      {
+        "name": "Drum Lifter",
+        "page": "https://dir.indiamart.com/impcat/drum-lifter.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/GD/GLADMIN-8767/drum-lifter-125x125.jpg"
+      },
+      {
+        "name": "Three Wheel Drum Lifter Trolley",
+        "page": "https://dir.indiamart.com/impcat/three-wheel-drum-lifter-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/SB/GLADMIN-126624/three-wheel-drum-lifter-trolley-125x125.jpg"
+      },
+      {
+        "name": "Three Wheel Trolley",
+        "page": "https://dir.indiamart.com/impcat/three-wheel-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/SB/GLADMIN-126625/three-wheel-trolley-125x125.jpg"
+      },
+      {
+        "name": "Drum Handling Trucks",
+        "page": "https://dir.indiamart.com/impcat/drum-handling-trucks.html",
+        "thumbnail": "http://3.imimg.com/data3/TW/FA/GLADMIN-26915/drum-handling-trucks-125x125.jpg"
+      },
+      {
+        "name": "Drum Cradles",
+        "page": "https://dir.indiamart.com/impcat/drum-cradles.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/VB/GLADMIN-26905/drum-cradles-125x125.jpg"
+      },
+      {
+        "name": "Electric Drum Lifter",
+        "page": "https://dir.indiamart.com/impcat/electric-drum-lifter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/312313280/LK/HC/QS/92368/electric-drum-lifter-125x125.png"
+      },
+      {
+        "name": "Stainless Steel Drum Trolley",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-drum-trolley.html",
+        "thumbnail": "http://4.imimg.com/data4/MR/LX/GLADMIN-2/stainless-steel-drum-trolley-125x125.jpg"
+      },
+      {
+        "name": "MS Drum Lift Trolley",
+        "page": "https://dir.indiamart.com/impcat/ms-drum-lift-trolley.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/UV/GLADMIN-126734/ms-drum-lift-trolley-125x125.jpg"
+      },
+      {
+        "name": "Bin Lifters",
+        "page": "https://dir.indiamart.com/impcat/bin-lifters.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/DO/GLADMIN-23408/bin-lifters-125x125.jpg"
+      }
+    ]
+  }
+]

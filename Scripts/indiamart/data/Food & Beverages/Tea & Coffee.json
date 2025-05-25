@@ -1,0 +1,751 @@
+[
+  {
+    "category_name": "Black Tea",
+    "category_thumbnail": "http://3.imimg.com/data3/AI/HE/GLADMIN-4449/black-tea-125x125.jpg",
+    "items": [
+      {
+        "name": "CTC Tea",
+        "page": "https://dir.indiamart.com/impcat/ctc-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/RY/GLADMIN-143826/ctc-tea-125x125.jpg"
+      },
+      {
+        "name": "Assam Tea",
+        "page": "https://dir.indiamart.com/impcat/assam-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GS/KV/MQ/92368/assam-tea-125x125.jpg"
+      },
+      {
+        "name": "Premium Tea",
+        "page": "https://dir.indiamart.com/impcat/premium-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/GG/GG/GLADMIN-/premium-tea-125x125.jpg"
+      },
+      {
+        "name": "Tea Dust",
+        "page": "https://dir.indiamart.com/impcat/tea-dust.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/YZ/RE/KM/92368/tea-dust-125x125.jpg"
+      },
+      {
+        "name": "Darjeeling Tea",
+        "page": "https://dir.indiamart.com/impcat/darjeeling-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/BO/GLADMIN-12715/darjeeling-tea-125x125.jpg"
+      },
+      {
+        "name": "Orthodox Tea",
+        "page": "https://dir.indiamart.com/impcat/orthodox-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/BB/BB/GLADMIN-/orthodox-tea-125x125.jpg"
+      },
+      {
+        "name": "Nilgiri Tea",
+        "page": "https://dir.indiamart.com/impcat/nilgiri-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/YN/XN/GLADMIN-2/nilgiri-tea-125x125.jpg"
+      },
+      {
+        "name": "Dooars Tea",
+        "page": "https://dir.indiamart.com/impcat/dooars-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/dooars-tea-125x125.jpg"
+      },
+      {
+        "name": "Second Flush Tea",
+        "page": "https://dir.indiamart.com/impcat/second-flush-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/CC/CC/GLADMIN-/second-flush-tea-125x125.jpg"
+      },
+      {
+        "name": "Ceylon Tea",
+        "page": "https://dir.indiamart.com/impcat/ceylon-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/ceylon-tea-125x125.jpg"
+      },
+      {
+        "name": "Tea Sticks",
+        "page": "https://dir.indiamart.com/impcat/tea-sticks.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/JO/GLADMIN-113822/tea-sticks-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tea",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/MV/UN/LT/92368/tea-125x125.jpg",
+    "items": [
+      {
+        "name": "Loose Tea",
+        "page": "https://dir.indiamart.com/impcat/loose-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/DU/GK/LN/92368/loose-tea-125x125.jpg"
+      },
+      {
+        "name": "Leaf Tea",
+        "page": "https://dir.indiamart.com/impcat/leaf-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/TJ/GLADMIN-11395/leaf-tea-125x125.jpg"
+      },
+      {
+        "name": "Blended Tea",
+        "page": "https://dir.indiamart.com/impcat/blended-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/NJ/EB/GLADMIN-182497/blended-tea-125x125.jpg"
+      },
+      {
+        "name": "Tea Leaves",
+        "page": "https://dir.indiamart.com/impcat/tea-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/CO/WE/GLADMIN-39669/tea-leaves-125x125.jpg"
+      },
+      {
+        "name": "Girnar Tea",
+        "page": "https://dir.indiamart.com/impcat/girnar-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/girnar-tea-125x125.jpg"
+      },
+      {
+        "name": "Flower Tea",
+        "page": "https://dir.indiamart.com/impcat/flower-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/EW/JW/GLADMIN-53805/flower-tea-125x125.jpg"
+      },
+      {
+        "name": "White Tea",
+        "page": "https://dir.indiamart.com/impcat/white-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/OF/JJ/GLADMIN-146598/white-tea-125x125.jpg"
+      },
+      {
+        "name": "Tea Sachets",
+        "page": "https://dir.indiamart.com/impcat/tea-sachets.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/DW/GLADMIN-39672/tea-sachets-125x125.jpg"
+      },
+      {
+        "name": "Plain Tea",
+        "page": "https://dir.indiamart.com/impcat/plain-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/QB/GLADMIN-127546/plain-tea-125x125.jpg"
+      },
+      {
+        "name": "Tea Mixture",
+        "page": "https://dir.indiamart.com/impcat/tea-mixture.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/XX/GLADMIN-/tea-mixture-125x125.jpg"
+      },
+      {
+        "name": "Tea Fanning",
+        "page": "https://dir.indiamart.com/impcat/tea-fanning.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/PB/GLADMIN-46054/tea-fanning-125x125.jpg"
+      },
+      {
+        "name": "Diamond Tea",
+        "page": "https://dir.indiamart.com/impcat/diamond-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324082931/EI/WH/AO/92383/diamond-tea-125x125.jpg"
+      },
+      {
+        "name": "Detox Tea",
+        "page": "https://dir.indiamart.com/impcat/detox-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/316515245/MD/ZK/BA/96809/detox-tea-125x125.jpg"
+      },
+      {
+        "name": "Yellow Tea",
+        "page": "https://dir.indiamart.com/impcat/yellow-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/MM/MM/GLADMIN-/yellow-tea-125x125.jpg"
+      },
+      {
+        "name": "Silver Tips Tea",
+        "page": "https://dir.indiamart.com/impcat/silver-tips-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/SS/SS/GLADMIN-/silver-tips-tea-125x125.jpg"
+      },
+      {
+        "name": "PU-ERH Tea",
+        "page": "https://dir.indiamart.com/impcat/pu-erh-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/KK/KK/GLADMIN-/pu-erh-tea-125x125.jpg"
+      },
+      {
+        "name": "Makaibari Tea",
+        "page": "https://dir.indiamart.com/impcat/makaibari-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/323418677/RU/QE/DT/92383/makaibari-tea-125x125.webp"
+      },
+      {
+        "name": "Kangra Tea",
+        "page": "https://dir.indiamart.com/impcat/kangra-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324126849/PZ/ES/ZV/82392/kangra-tea-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Coffee",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/CG/NE/UV/92368/coffee-125x125.jpg",
+    "items": [
+      {
+        "name": "Cocoa Beans",
+        "page": "https://dir.indiamart.com/impcat/cocoa-beans.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/EH/GLADMIN-25119/cocoa-beans-125x125.jpg"
+      },
+      {
+        "name": "Coffee Premix",
+        "page": "https://dir.indiamart.com/impcat/coffee-premix.html",
+        "thumbnail": "http://3.imimg.com/data3/XX/LH/GLADMIN-43203/coffee-premix-125x125.jpg"
+      },
+      {
+        "name": "Coffee Beans",
+        "page": "https://dir.indiamart.com/impcat/coffee-beans.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/CN/TV/QN/92368/coffee-beans-125x125.jpg"
+      },
+      {
+        "name": "Coffee Powder",
+        "page": "https://dir.indiamart.com/impcat/coffee-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/JK/CV/GM/92368/coffee-powder-125x125.jpg"
+      },
+      {
+        "name": "Coffee Capsules",
+        "page": "https://dir.indiamart.com/impcat/coffee-capsules.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/RT/GLADMIN-141790/coffee-capsules-125x125.jpg"
+      },
+      {
+        "name": "Agglomerated Instant Coffee",
+        "page": "https://dir.indiamart.com/impcat/agglomerated-instant-coffee.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/WX/GLADMIN-144953/agglomerated-instant-coffee-125x125.jpg"
+      },
+      {
+        "name": "Coffee Sachets",
+        "page": "https://dir.indiamart.com/impcat/coffee-sachet.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/308054603/HH/TA/RR/92383/coffee-sachet-125x125.webp"
+      },
+      {
+        "name": "Flavored Coffee",
+        "page": "https://dir.indiamart.com/impcat/flavored-coffee.html",
+        "thumbnail": "http://3.imimg.com/data3/XL/CT/GLADMIN-152200/flavored-coffee-125x125.jpg"
+      },
+      {
+        "name": "Herbal Coffee",
+        "page": "https://dir.indiamart.com/impcat/herbal-coffee.html",
+        "thumbnail": "http://4.imimg.com/data4/EF/VJ/GLADMIN-180038/herbal-coffee-125x125.jpg"
+      },
+      {
+        "name": "Coffee Extract",
+        "page": "https://dir.indiamart.com/impcat/coffee-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/PY/GLADMIN-42552/coffee-extract-125x125.jpg"
+      },
+      {
+        "name": "Coffee Pods",
+        "page": "https://dir.indiamart.com/impcat/coffee-pods.html",
+        "thumbnail": "http://3.imimg.com/data3/AN/DU/GLADMIN-69509/coffee-pods-125x125.jpg"
+      },
+      {
+        "name": "Ready to Drink Coffee",
+        "page": "https://dir.indiamart.com/impcat/ready-to-drink-coffee.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/322089727/WF/OB/AE/64512/ready-to-drink-coffee-125x125.jpg"
+      },
+      {
+        "name": "Low Sugar Coffee",
+        "page": "https://dir.indiamart.com/impcat/low-sugar-coffee.html",
+        "thumbnail": "http://4.imimg.com/data4/JR/WO/GLADMIN-2/low-sugar-coffee-125x125.jpg"
+      },
+      {
+        "name": "Plain Coffee",
+        "page": "https://dir.indiamart.com/impcat/plain-coffee.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/PP/GLADMIN-127545/plain-coffee-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Flavored Tea",
+    "category_thumbnail": "http://3.imimg.com/data3/WS/KA/GLADMIN-6423/flavored-tea-125x125.jpg",
+    "items": [
+      {
+        "name": "Bubble Tea",
+        "page": "https://dir.indiamart.com/impcat/pearl-milk-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/ZZ/ZZ/GLADMIN-/pearl-milk-tea-125x125.jpg"
+      },
+      {
+        "name": "Masala Tea",
+        "page": "https://dir.indiamart.com/impcat/masala-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/NT/RM/GLADMIN-185547/masala-tea-125x125.jpg"
+      },
+      {
+        "name": "Cardamom Tea",
+        "page": "https://dir.indiamart.com/impcat/cardamon-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/ES/HK/GLADMIN-127455/cardamon-tea-125x125.jpg"
+      },
+      {
+        "name": "Lemon Tea",
+        "page": "https://dir.indiamart.com/impcat/lemon-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/OF/KS/GLADMIN-32021/lemon-tea-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Tea",
+        "page": "https://dir.indiamart.com/impcat/chocolate-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/SK/GLADMIN-127466/chocolate-tea-125x125.jpg"
+      },
+      {
+        "name": "Ginger Tea",
+        "page": "https://dir.indiamart.com/impcat/ginger-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/CT/GLADMIN-12040/ginger-tea-125x125.jpg"
+      },
+      {
+        "name": "Lemongrass Tea",
+        "page": "https://dir.indiamart.com/impcat/lemongrass-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/FF/FF/GLADMIN-/lemongrass-tea-125x125.jpg"
+      },
+      {
+        "name": "Kesar Tea",
+        "page": "https://dir.indiamart.com/impcat/kesar-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/FP/DU/GLADMIN-2/kesar-tea-125x125.jpg"
+      },
+      {
+        "name": "Honey Tea",
+        "page": "https://dir.indiamart.com/impcat/honey-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/VV/VV/GLADMIN-/honey-tea-125x125.jpg"
+      },
+      {
+        "name": "Decaffeinated Tea",
+        "page": "https://dir.indiamart.com/impcat/decaffeinated-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/WB/DM/AV/GLADMIN-68155/decaffeinated-tea-125x125.png"
+      },
+      {
+        "name": "Vanilla Tea",
+        "page": "https://dir.indiamart.com/impcat/vanilla-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/NR/WH/GLADMIN-2/vanilla-tea-125x125.jpg"
+      },
+      {
+        "name": "Mint Tea",
+        "page": "https://dir.indiamart.com/impcat/mint-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/II/II/GLADMIN-/mint-tea-125x125.png"
+      },
+      {
+        "name": "Earl Grey Tea",
+        "page": "https://dir.indiamart.com/impcat/earl-grey-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/DD/DD/GLADMIN-/earl-grey-tea-125x125.jpg"
+      },
+      {
+        "name": "Cinnamon Tea",
+        "page": "https://dir.indiamart.com/impcat/cinnamon-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/IC/MX/GLADMIN-24124/cinnamon-tea-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Coffee Powder",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/JK/CV/GM/92368/coffee-powder-125x125.jpg",
+    "items": [
+      {
+        "name": "Instant Coffee",
+        "page": "https://dir.indiamart.com/impcat/instant-coffee.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/OU/GLADMIN-10183/instant-coffee-125x125.jpg"
+      },
+      {
+        "name": "Filter Coffee Powder",
+        "page": "https://dir.indiamart.com/impcat/filter-coffee-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/AY/IF/GLADMIN-167473/filter-coffee-powder-125x125.jpg"
+      },
+      {
+        "name": "Cold Coffee Powder",
+        "page": "https://dir.indiamart.com/impcat/cold-coffee.html",
+        "thumbnail": "http://3.imimg.com/data3/IM/BH/GLADMIN-24257/cold-coffee-125x125.jpg"
+      },
+      {
+        "name": "Chicory Powder",
+        "page": "https://dir.indiamart.com/impcat/chicory-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/AI/GLADMIN-114343/chicory-powder-125x125.jpg"
+      },
+      {
+        "name": "Green Coffee Powder",
+        "page": "https://dir.indiamart.com/impcat/green-coffee-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/DD/DD/GLADMIN-/green-coffee-powder-125x125.jpg"
+      },
+      {
+        "name": "Ginger Coffee Powder",
+        "page": "https://dir.indiamart.com/impcat/ginger-coffee-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/SO/QF/PP/81953/ginger-coffee-powder-125x125.jpg"
+      },
+      {
+        "name": "Nescafe Gold Coffee",
+        "page": "https://dir.indiamart.com/impcat/nescafe-gold-coffee.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/365027105/QU/QH/IN/33104/nescafe-gold-coffee-125x125.png"
+      },
+      {
+        "name": "Espresso Coffee Powder",
+        "page": "https://dir.indiamart.com/impcat/espresso-coffee.html",
+        "thumbnail": "http://3.imimg.com/data3/GF/MT/GLADMIN-27981/espresso-coffee-125x125.jpg"
+      },
+      {
+        "name": "Cappuccino Coffee Powder",
+        "page": "https://dir.indiamart.com/impcat/cappuccino-coffee.html",
+        "thumbnail": "http://3.imimg.com/data3/WO/HG/GLADMIN-127454/cappuccino-coffee-125x125.jpg"
+      },
+      {
+        "name": "Organic Coffee Powder",
+        "page": "https://dir.indiamart.com/impcat/organic-coffee-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/XP/GLADMIN-144647/organic-coffee-powder-125x125.jpg"
+      },
+      {
+        "name": "Latte Coffee Powder",
+        "page": "https://dir.indiamart.com/impcat/latte-coffee.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/JE/GLADMIN-127527/latte-coffee-125x125.jpg"
+      },
+      {
+        "name": "Coffee Husk Powder",
+        "page": "https://dir.indiamart.com/impcat/coffee-husk-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/upload-sanpham-704697193617-125x125.jpg"
+      },
+      {
+        "name": "Coffee Substitutes",
+        "page": "https://dir.indiamart.com/impcat/coffee-substitutes.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/KV/GLADMIN-24216/coffee-substitutes-125x125.jpg"
+      },
+      {
+        "name": "Ganoderma Coffee",
+        "page": "https://dir.indiamart.com/impcat/ganoderma-coffee.html",
+        "thumbnail": "http://3.imimg.com/data3/QH/JS/GLADMIN-163740/ganoderma-coffee-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Coffee Beans",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/CN/TV/QN/92368/coffee-beans-125x125.jpg",
+    "items": [
+      {
+        "name": "Roasted Coffee Bean",
+        "page": "https://dir.indiamart.com/impcat/roasted-coffee-bean.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/KW/GLADMIN-53809/roasted-coffee-bean-125x125.jpg"
+      },
+      {
+        "name": "Arabica Coffee Beans",
+        "page": "https://dir.indiamart.com/impcat/arabica-coffee-beans.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/RT/GLADMIN-53804/arabica-coffee-beans-125x125.jpg"
+      },
+      {
+        "name": "Green Coffee Beans",
+        "page": "https://dir.indiamart.com/impcat/green-coffee-beans.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/XB/GLADMIN-143488/green-coffee-beans-125x125.jpg"
+      },
+      {
+        "name": "Robusta Coffee Beans",
+        "page": "https://dir.indiamart.com/impcat/robusta-coffee-beans.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/328793471/FC/BZ/DT/97574/robusta-coffee-beans-125x125.png"
+      },
+      {
+        "name": "Roasted Coffee",
+        "page": "https://dir.indiamart.com/impcat/roasted-coffee.html",
+        "thumbnail": "http://3.imimg.com/data3/IT/ID/GLADMIN-36491/roasted-coffee-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tea Powder",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ID/IE/VN/92368/tea-powder-125x125.jpg",
+    "items": [
+      {
+        "name": "Jaggery Tea",
+        "page": "https://dir.indiamart.com/impcat/jaggery-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/361835909/RM/OV/CA/33104/jaggery-tea-125x125.webp"
+      },
+      {
+        "name": "Green Tea Leaves Powder",
+        "page": "https://dir.indiamart.com/impcat/green-tea-leaves-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/VK/GLADMIN-139050/green-tea-leaves-powder-125x125.jpg"
+      },
+      {
+        "name": "Flavored Tea Powder",
+        "page": "https://dir.indiamart.com/impcat/flavored-tea-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/SD/QT/GLADMIN-162634/flavored-tea-powder-125x125.jpg"
+      },
+      {
+        "name": "Broken Pekoe",
+        "page": "https://dir.indiamart.com/impcat/broken-pekoe.html",
+        "thumbnail": "http://5.imimg.com/data5/ED/SK/GLADMIN-2/broken-pekoe-125x125.jpg"
+      },
+      {
+        "name": "Ginger Tea Powder",
+        "page": "https://dir.indiamart.com/impcat/ginger-tea-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/ginger-tea-powder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tea Premix",
+    "category_thumbnail": "http://3.imimg.com/data3/HL/DT/GLADMIN-43204/tea-premix-125x125.jpg",
+    "items": [
+      {
+        "name": "Cardamom Tea Premix",
+        "page": "https://dir.indiamart.com/impcat/cardamom-tea-premix.html",
+        "thumbnail": "http://5.imimg.com/data5/CM/CG/KG/GLADMIN-68155/cardamom-tea-premix-125x125.png"
+      },
+      {
+        "name": "Masala Tea Premix",
+        "page": "https://dir.indiamart.com/impcat/masala-tea-premix.html",
+        "thumbnail": "http://5.imimg.com/data5/XH/SG/XP/GLADMIN-65832/masala-tea-premix-125x125.jpg"
+      },
+      {
+        "name": "Lemon Tea Premix",
+        "page": "https://dir.indiamart.com/impcat/lemon-tea-premix.html",
+        "thumbnail": "http://5.imimg.com/data5/SZ/NK/RM/GLADMIN-68155/lemon-tea-premix-125x125.png"
+      },
+      {
+        "name": "Ginger Tea Premix",
+        "page": "https://dir.indiamart.com/impcat/ginger-tea-premix.html",
+        "thumbnail": "http://5.imimg.com/data5/GH/YT/AR/GLADMIN-68155/ginger-tea-premix-125x125.png"
+      },
+      {
+        "name": "Iced Tea Premix",
+        "page": "https://dir.indiamart.com/impcat/iced-tea-premix.html",
+        "thumbnail": "http://5.imimg.com/data5/OH/RP/MF/GLADMIN-65832/iced-tea-premix-125x125.jpg"
+      },
+      {
+        "name": "Sugar Free Tea Premix",
+        "page": "https://dir.indiamart.com/impcat/sugar-free-tea-premix.html",
+        "thumbnail": "http://5.imimg.com/data5/QP/WX/YI/GLADMIN-76441/sugar-free-tea-premix-125x125.jpg"
+      },
+      {
+        "name": "Green Tea Premix",
+        "page": "https://dir.indiamart.com/impcat/green-tea-premix.html",
+        "thumbnail": "http://4.imimg.com/data4/PK/VO/GLADMIN-181018/green-tea-premix-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Herbal Tea",
+    "category_thumbnail": "http://3.imimg.com/data3/JN/XP/GLADMIN-1697/herbal-tea-125x125.jpg",
+    "items": [
+      {
+        "name": "Green Herbal Tea",
+        "page": "https://dir.indiamart.com/impcat/green-herbal-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/LA/HK/GLADMIN-11137/green-herbal-tea-125x125.png"
+      },
+      {
+        "name": "Tulsi Tea",
+        "page": "https://dir.indiamart.com/impcat/tulsi-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/SU/WB/GLADMIN-180746/tulsi-tea-125x125.jpg"
+      },
+      {
+        "name": "Red Tea",
+        "page": "https://dir.indiamart.com/impcat/red-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/RR/RR/GLADMIN-/red-tea-125x125.jpg"
+      },
+      {
+        "name": "Chamomile Tea",
+        "page": "https://dir.indiamart.com/impcat/chamomile-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/PF/GLADMIN-23996/chamomile-tea-125x125.jpg"
+      },
+      {
+        "name": "Moringa Tea",
+        "page": "https://dir.indiamart.com/impcat/moringa-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/UV/GLADMIN-177408/moringa-tea-125x125.jpg"
+      },
+      {
+        "name": "Anti Diabetic Tea",
+        "page": "https://dir.indiamart.com/impcat/anti-diabetic-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/QO/CJ/GLADMIN-152949/anti-diabetic-tea-125x125.jpg"
+      },
+      {
+        "name": "Oolong Tea Premium",
+        "page": "https://dir.indiamart.com/impcat/oolong-tea-premium.html",
+        "thumbnail": "http://5.imimg.com/data5/JJ/JJ/GLADMIN-/oolong-tea-premium-125x125.jpg"
+      },
+      {
+        "name": "Antioxidant Tea",
+        "page": "https://dir.indiamart.com/impcat/antioxidant-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/JZ/LB/DW/GLADMIN-65832/antioxidant-tea-125x125.jpeg"
+      },
+      {
+        "name": "Nettle Tea",
+        "page": "https://dir.indiamart.com/impcat/nettle-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/WW/WW/GLADMIN-/a-img923-615-ba7ncg-125x125.jpg"
+      },
+      {
+        "name": "Java Tea",
+        "page": "https://dir.indiamart.com/impcat/java-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/WD/ZZ/QF/GLADMIN-65832/java-tea-125x125.jpg"
+      },
+      {
+        "name": "Amla Tea",
+        "page": "https://dir.indiamart.com/impcat/amla-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/LT/GLADMIN-177493/amla-tea-125x125.jpg"
+      },
+      {
+        "name": "Anti Aging Tea",
+        "page": "https://dir.indiamart.com/impcat/anti-aging-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/MM/GLADMIN-/anti-aging-tea-125x125.png"
+      },
+      {
+        "name": "Peppermint Tea",
+        "page": "https://dir.indiamart.com/impcat/peppermint-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/XQ/GLADMIN-33909/peppermint-tea-125x125.jpg"
+      },
+      {
+        "name": "Neem Tea",
+        "page": "https://dir.indiamart.com/impcat/neem-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/BN/GLADMIN-7341/neem-tea-125x125.jpg"
+      },
+      {
+        "name": "Rosehip Tea",
+        "page": "https://dir.indiamart.com/impcat/rosehip-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/NN/NN/GLADMIN-/rosehip-tea-125x125.jpg"
+      },
+      {
+        "name": "Kapha Tea",
+        "page": "https://dir.indiamart.com/impcat/kapha-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/EG/MY-2/kapha-tea-125x125.jpg"
+      },
+      {
+        "name": "Mulethi Tea",
+        "page": "https://dir.indiamart.com/impcat/mulethi-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/PP/GLADMIN-/mulethi-tea-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Green Tea",
+    "category_thumbnail": "http://3.imimg.com/data3/MJ/FN/GLADMIN-11142/green-tea-125x125.jpg",
+    "items": [
+      {
+        "name": "Kashmiri Tea",
+        "page": "https://dir.indiamart.com/impcat/kashmiri-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/II/FF/TC/76063/kashmiri-tea-125x125.jpg"
+      },
+      {
+        "name": "Green Tea Leaves",
+        "page": "https://dir.indiamart.com/impcat/green-tea-leaves.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/YS/GLADMIN-11143/green-tea-leaves-125x125.jpg"
+      },
+      {
+        "name": "Organic Tea",
+        "page": "https://dir.indiamart.com/impcat/organic-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/YB/IC/GLADMIN-126831/organic-tea-125x125.jpg"
+      },
+      {
+        "name": "Matcha Tea",
+        "page": "https://dir.indiamart.com/impcat/matcha-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/RS/WE/MP/81953/matcha-tea-125x125.jpg"
+      },
+      {
+        "name": "Jasmine Tea",
+        "page": "https://dir.indiamart.com/impcat/jasmine-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/EB/BN/GLADMIN-31183/jasmine-tea-125x125.jpg"
+      },
+      {
+        "name": "Rose Green Tea",
+        "page": "https://dir.indiamart.com/impcat/rose-green-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/rose-green-tea-125x125.jpg"
+      },
+      {
+        "name": "Gourmet Tea",
+        "page": "https://dir.indiamart.com/impcat/gourmet-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/gourmet-tea-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Tea Bags",
+    "category_thumbnail": "http://3.imimg.com/data3/MQ/MP/GLADMIN-1698/tea-bags-125x125.jpg",
+    "items": [
+      {
+        "name": "Green Tea Bags",
+        "page": "https://dir.indiamart.com/impcat/green-tea-bags.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/UO/GLADMIN-53806/green-tea-bags-125x125.jpg"
+      },
+      {
+        "name": "Pyramid Tea Bag",
+        "page": "https://dir.indiamart.com/impcat/pyramid-tea-bag.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/UM/GLADMIN-53496/pyramid-tea-bag-125x125.jpg"
+      },
+      {
+        "name": "Tea Bag Paper Roll",
+        "page": "https://dir.indiamart.com/impcat/tea-bag-paper.html",
+        "thumbnail": "http://3.imimg.com/data3/GW/AS/GLADMIN-39665/tea-bag-paper-125x125.jpg"
+      },
+      {
+        "name": "Black Tea Bags",
+        "page": "https://dir.indiamart.com/impcat/black-tea-bags.html",
+        "thumbnail": "http://5.imimg.com/data5/KA/FR/KK/GLADMIN-56986/black-tea-bags-125x125.jpg"
+      },
+      {
+        "name": "Lemon Tea Bags",
+        "page": "https://dir.indiamart.com/impcat/lemon-tea-bags.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/3/404194592/ZN/TP/IY/82392/lemon-tea-bags-125x125.jpg"
+      },
+      {
+        "name": "Jasmine Tea Bags",
+        "page": "https://dir.indiamart.com/impcat/jasmine-tea-bags.html",
+        "thumbnail": "http://3.imimg.com/data3/GI/HJ/GLADMIN-53808/jasmine-tea-bags-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Flower Tea",
+    "category_thumbnail": "http://3.imimg.com/data3/EW/JW/GLADMIN-53805/flower-tea-125x125.jpg",
+    "items": [
+      {
+        "name": "Rose Tea",
+        "page": "https://dir.indiamart.com/impcat/rose-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/LL/LL/GLADMIN-/rose-tea-125x125.jpg"
+      },
+      {
+        "name": "Hibiscus Tea",
+        "page": "https://dir.indiamart.com/impcat/hibiscus-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/hibiscus-tea-125x125.jpg"
+      },
+      {
+        "name": "Jasmine Tea",
+        "page": "https://dir.indiamart.com/impcat/jasmine-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/EB/BN/GLADMIN-31183/jasmine-tea-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ice Tea",
+    "category_thumbnail": "http://3.imimg.com/data3/NF/LM/GLADMIN-30791/ice-tea-125x125.jpg",
+    "items": [
+      {
+        "name": "Iced Lemon Tea",
+        "page": "https://dir.indiamart.com/impcat/iced-lemon-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/TK/TE/VJ/GLADMIN-55524/iced-lemon-tea-125x125.jpg"
+      },
+      {
+        "name": "Peach Ice Tea",
+        "page": "https://dir.indiamart.com/impcat/peach-ice-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/US/JD/GLADMIN-127540/peach-ice-tea-125x125.jpg"
+      },
+      {
+        "name": "Strawberry Iced Tea",
+        "page": "https://dir.indiamart.com/impcat/strawberry-iced-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/LD/GP/YU/GLADMIN-55524/strawberry-iced-tea-125x125.png"
+      },
+      {
+        "name": "Orange Ice Tea",
+        "page": "https://dir.indiamart.com/impcat/orange-ice-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/AA/AA/GLADMIN-/orange-ice-tea-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fruit Tea",
+    "category_thumbnail": "http://3.imimg.com/data3/TS/KF/GLADMIN-29048/fruit-tea-125x125.jpg",
+    "items": [
+      {
+        "name": "Peach Tea",
+        "page": "https://dir.indiamart.com/impcat/peach-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/DB/GLADMIN-34634/peach-tea-125x125.jpg"
+      },
+      {
+        "name": "Mango Tea",
+        "page": "https://dir.indiamart.com/impcat/mango-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/XX/GLADMIN-/mango-tea-125x125.jpg"
+      },
+      {
+        "name": "Apple Tea",
+        "page": "https://dir.indiamart.com/impcat/apple-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/GG/GG/GLADMIN-/apple-tea-125x125.jpg"
+      },
+      {
+        "name": "Strawberry Tea",
+        "page": "https://dir.indiamart.com/impcat/strawberry-tea.html",
+        "thumbnail": "http://4.imimg.com/data4/JJ/JJ/GLADMIN-/strawberry-tea-125x125.jpg"
+      },
+      {
+        "name": "Pomegranate Tea",
+        "page": "https://dir.indiamart.com/impcat/pomegranate-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/MM/GLADMIN-/pomegranate-tea-125x125.jpg"
+      },
+      {
+        "name": "Orange tea",
+        "page": "https://dir.indiamart.com/impcat/orange-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/QQ/GLADMIN-/orange-tea-125x125.jpg"
+      },
+      {
+        "name": "Raspberry tea",
+        "page": "https://dir.indiamart.com/impcat/raspberry-tea.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/CC/GLADMIN-/raspberry-tea-125x125.jpg"
+      },
+      {
+        "name": "Cranberry Tea",
+        "page": "https://dir.indiamart.com/impcat/cranberry-tea.html",
+        "thumbnail": "http://3.imimg.com/data3/HA/AH/GLADMIN-25512/cranberry-tea-125x125.jpg"
+      }
+    ]
+  }
+]

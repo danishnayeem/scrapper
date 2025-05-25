@@ -1,0 +1,617 @@
+[
+  {
+    "category_name": "Autoclave & Sterilizer Components",
+    "category_thumbnail": "http://3.imimg.com/data3/YS/NR/GLADMIN-165963/autoclave-tray-125x125.jpg",
+    "items": [
+      {
+        "name": "Electric Water Heater",
+        "page": "https://dir.indiamart.com/impcat/electric-water-heater.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/HC/GLADMIN-14066/electric-water-heater-125x125.jpg"
+      },
+      {
+        "name": "Safety Valves",
+        "page": "https://dir.indiamart.com/impcat/safety-valves.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/CY/GLADMIN-36704/safety-valves-125x125.jpg"
+      },
+      {
+        "name": "Sterilization Rolls",
+        "page": "https://dir.indiamart.com/impcat/sterilization-rolls.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/WF/GLADMIN-7963/sterilization-rolls-125x125.jpg"
+      },
+      {
+        "name": "Air Pressure Gauge",
+        "page": "https://dir.indiamart.com/impcat/air-pressure-gauge.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/OR/GLADMIN-1536/air-pressure-gauge-125x125.jpg"
+      },
+      {
+        "name": "Sterilization Tray",
+        "page": "https://dir.indiamart.com/impcat/sterilization-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/KQ/TU/GLADMIN-100429/sterilization-tray-125x125.jpg"
+      },
+      {
+        "name": "Sterilization Indicator",
+        "page": "https://dir.indiamart.com/impcat/sterilization-indicator.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/IK/GN/MX/71486/sterilization-indicator-125x125.jpg"
+      },
+      {
+        "name": "Sterilization Wrapping Paper",
+        "page": "https://dir.indiamart.com/impcat/sterilization-wrapping-paper.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/YM/GLADMIN-159088/sterilization-wrapping-paper-125x125.jpg"
+      },
+      {
+        "name": "Autoclave Tape",
+        "page": "https://dir.indiamart.com/impcat/autoclave-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/WO/MO/GLADMIN-138987/autoclave-tape-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Generators",
+        "page": "https://dir.indiamart.com/impcat/vacuum-generators.html",
+        "thumbnail": "http://3.imimg.com/data3/XP/GS/GLADMIN-40767/vacuum-generators-125x125.jpg"
+      },
+      {
+        "name": "Autoclave Gaskets",
+        "page": "https://dir.indiamart.com/impcat/autoclave-gaskets.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/FB/GLADMIN-163144/autoclave-gaskets-125x125.jpg"
+      },
+      {
+        "name": "Plastic Sterilization Tray",
+        "page": "https://dir.indiamart.com/impcat/plastic-sterilization-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/IV/CA/GLADMIN-167359/plastic-sterilization-tray-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Laboratory Autoclave & Sterilizers",
+    "category_thumbnail": "http://5.imimg.com/data5/RM/QQ/GLADMIN-2/laboratory-autoclaves-125x125.jpg",
+    "items": [
+      {
+        "name": "Vertical Autoclave",
+        "page": "https://dir.indiamart.com/impcat/vertical-autoclave.html",
+        "thumbnail": "http://3.imimg.com/data3/HP/DF/GLADMIN-147550/vertical-autoclave-125x125.jpg"
+      },
+      {
+        "name": "Horizontal Autoclave",
+        "page": "https://dir.indiamart.com/impcat/horizontal-autoclave.html",
+        "thumbnail": "http://3.imimg.com/data3/WC/YC/GLADMIN-29488/horizontal-autoclave-125x125.jpg"
+      },
+      {
+        "name": "Hospital Autoclave & Sterilizers",
+        "page": "https://dir.indiamart.com/impcat/autoclaves.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/IK/SJ/MC/93097/hospital-autoclave-sterilizers-125x125.png"
+      },
+      {
+        "name": "Sterilizer",
+        "page": "https://dir.indiamart.com/impcat/sterilizing-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/QE/GLADMIN-273/sterilizers-125x125.jpg"
+      },
+      {
+        "name": "ETO Sterilizer",
+        "page": "https://dir.indiamart.com/impcat/ethylene-oxide-gas-sterilizer.html",
+        "thumbnail": "http://3.imimg.com/data3/FA/LB/GLADMIN-153361/ethylene-oxide-gas-sterilizer-125x125.jpg"
+      },
+      {
+        "name": "Instrument Sterilizer",
+        "page": "https://dir.indiamart.com/impcat/instrument-sterilizer.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/IW/MY-2/instrument-sterilizer-125x125.jpg"
+      },
+      {
+        "name": "Portable Autoclaves",
+        "page": "https://dir.indiamart.com/impcat/portable-autoclaves.html",
+        "thumbnail": "http://5.imimg.com/data5/LQ/YE/GLADMIN-2/portable-autoclaves-125x125.jpg"
+      },
+      {
+        "name": "Dental Autoclave",
+        "page": "https://dir.indiamart.com/impcat/dental-autoclave.html",
+        "thumbnail": "http://3.imimg.com/data3/IX/II/GLADMIN-94671/dental-autoclave-125x125.jpg"
+      },
+      {
+        "name": "Medical Ultrasonic Cleaner",
+        "page": "https://dir.indiamart.com/impcat/medical-ultrasonic-cleaner.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/IJ/GLADMIN-156291/medical-ultrasonic-cleaner-125x125.jpg"
+      },
+      {
+        "name": "Autoclave Pressure Cooker",
+        "page": "https://dir.indiamart.com/impcat/autoclave-pressure-cooker.html",
+        "thumbnail": "http://3.imimg.com/data3/IC/RA/GLADMIN-/images-members-products-5952-75-125x125.jpg"
+      },
+      {
+        "name": "Class B Autoclave",
+        "page": "https://dir.indiamart.com/impcat/class-b-autoclave.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/TB/SI/EH/81953/class-b-autoclave-125x125.jpg"
+      },
+      {
+        "name": "Plasma Sterilizer",
+        "page": "https://dir.indiamart.com/impcat/plasma-sterilizer.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/KA/GLADMIN-94674/plasma-sterilizer-125x125.jpg"
+      },
+      {
+        "name": "Table Top Sterilizer",
+        "page": "https://dir.indiamart.com/impcat/table-top-sterilizer.html",
+        "thumbnail": "http://3.imimg.com/data3/DL/WE/GLADMIN-156940/table-top-sterilizer-125x125.jpg"
+      },
+      {
+        "name": "Class N Autoclave",
+        "page": "https://dir.indiamart.com/impcat/class-n-autoclave.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/ZN/YR/RG/81953/class-n-autoclave-125x125.jpg"
+      },
+      {
+        "name": "Media Preparator",
+        "page": "https://dir.indiamart.com/impcat/media-preparator.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/FN/GLADMIN-42860/media-preparator-125x125.jpg"
+      },
+      {
+        "name": "Ozone Sterilizer",
+        "page": "https://dir.indiamart.com/impcat/ozone-sterilizer.html",
+        "thumbnail": "http://5.imimg.com/data5/SS/SS/GLADMIN-/ozone-sterilizer-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "UV Sterilizer and Lamps",
+    "category_thumbnail": "http://5.imimg.com/data5/OS/PJ/ZW/GLADMIN-56704/uv-sterilizer-and-lamps-125x125.jpg",
+    "items": [
+      {
+        "name": "UV Lamps",
+        "page": "https://dir.indiamart.com/impcat/uv-lamps.html",
+        "thumbnail": "http://4.imimg.com/data4/MW/DW/GLADMIN-40591/uv-lamps-125x125.png"
+      },
+      {
+        "name": "Ultraviolet Lights",
+        "page": "https://dir.indiamart.com/impcat/ultraviolet-lights.html",
+        "thumbnail": "http://5.imimg.com/data5/HS/HH/WJ/GLADMIN-72812/ultraviolet-lights-125x125.jpeg"
+      },
+      {
+        "name": "UVB Lamp",
+        "page": "https://dir.indiamart.com/impcat/uvb-lamp.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/LT/GLADMIN-109749/uvb-lamp-125x125.jpg"
+      },
+      {
+        "name": "UV Chamber",
+        "page": "https://dir.indiamart.com/impcat/uv-chamber.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/RZ/SU/UQ/81953/uv-chamber-125x125.jpg"
+      },
+      {
+        "name": "UVC Germicidal Lamp",
+        "page": "https://dir.indiamart.com/impcat/germicidal-lamps.html",
+        "thumbnail": "http://5.imimg.com/data5/LN/ZQ/RB/GLADMIN-72812/uvc-germicidal-lamp-125x125.jpg"
+      },
+      {
+        "name": "UV Curing Lamp",
+        "page": "https://dir.indiamart.com/impcat/uv-curing-lamp.html",
+        "thumbnail": "http://3.imimg.com/data3/IY/PF/GLADMIN-84416/uv-curing-lamp-125x125.jpg"
+      },
+      {
+        "name": "Ultra Violet Tube",
+        "page": "https://dir.indiamart.com/impcat/ultra-violet-tube.html",
+        "thumbnail": "http://5.imimg.com/data5/CD/FX/KA/GLADMIN-72812/ultra-violet-tube-125x125.jpg"
+      },
+      {
+        "name": "Ultraviolet Cabinets",
+        "page": "https://dir.indiamart.com/impcat/ultraviolet-cabinets.html",
+        "thumbnail": "http://3.imimg.com/data3/OW/OP/GLADMIN-151040/ultraviolet-cabinets-125x125.jpg"
+      },
+      {
+        "name": "Handheld UV Torch",
+        "page": "https://dir.indiamart.com/impcat/handheld-uv-torch.html",
+        "thumbnail": "http://5.imimg.com/data5/HV/EC/SQ/GLADMIN-72812/handheld-uv-torch-125x125.jpg"
+      },
+      {
+        "name": "UV Air Sterilizer",
+        "page": "https://dir.indiamart.com/impcat/uv-air-sterlizer.html",
+        "thumbnail": "http://3.imimg.com/data3/WD/CH/GLADMIN-2671/uv-air-sterilizer-125x125.jpg"
+      },
+      {
+        "name": "UV Conveyor",
+        "page": "https://dir.indiamart.com/impcat/uv-conveyor.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/8/ED/LJ/NY/81953/uv-conveyor-125x125.jpg"
+      },
+      {
+        "name": "Mobile Sanitizer",
+        "page": "https://dir.indiamart.com/impcat/cell-phone-sanitizer.html",
+        "thumbnail": "http://5.imimg.com/data5/BT/NS/HW/GLADMIN-81462/cell-phone-sanitizer-125x125.jpg"
+      },
+      {
+        "name": "Germicidal Tube",
+        "page": "https://dir.indiamart.com/impcat/germicidal-tube.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/FL/GLADMIN-107337/germicidal-tube-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Medical Refrigerator Systems",
+    "category_thumbnail": "http://3.imimg.com/data3/QO/OM/GLADMIN-/image_elements-144-image-125x125.png",
+    "items": [
+      {
+        "name": "Freeze Dryers",
+        "page": "https://dir.indiamart.com/impcat/freeze-dryers.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/AR/GLADMIN-28953/freeze-dryers-125x125.jpg"
+      },
+      {
+        "name": "Laboratory Refrigerators",
+        "page": "https://dir.indiamart.com/impcat/laboratory-refrigerators.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/DP/GLADMIN-31422/laboratory-refrigerators-125x125.jpg"
+      },
+      {
+        "name": "Blood Bank Refrigerators",
+        "page": "https://dir.indiamart.com/impcat/blood-bank-refrigerators.html",
+        "thumbnail": "http://3.imimg.com/data3/MG/NF/GLADMIN-341/blood-bank-refrigerators-125x125.jpg"
+      },
+      {
+        "name": "Vehicle Refrigeration Unit",
+        "page": "https://dir.indiamart.com/impcat/vehicle-refrigeration-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/SF/WN/GLADMIN-/images-slide_in_truck_refrigeration-125x125.jpg"
+      },
+      {
+        "name": "Ultra Low Deep Freezer",
+        "page": "https://dir.indiamart.com/impcat/ultra-deep-freezer.html",
+        "thumbnail": "http://3.imimg.com/data3/RX/SE/GLADMIN-159995/ultra-deep-freezer-125x125.jpg"
+      },
+      {
+        "name": "Ice Lined Refrigerator",
+        "page": "https://dir.indiamart.com/impcat/ice-lined-refrigerator.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/IG/GLADMIN-155561/ice-lined-refrigerator-125x125.jpg"
+      },
+      {
+        "name": "Lyophilizer",
+        "page": "https://dir.indiamart.com/impcat/lyophilizer.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/MC/MY-2/telstar_lyonomic-125x125.png"
+      },
+      {
+        "name": "Vaccine Refrigerator",
+        "page": "https://dir.indiamart.com/impcat/vaccine-fridge.html",
+        "thumbnail": "http://4.imimg.com/data4/JD/XC/GLADMIN-2/vaccine-fridge-125x125.jpg"
+      },
+      {
+        "name": "Laboratory Freezers",
+        "page": "https://dir.indiamart.com/impcat/laboratory-freezers.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/AL/MY-2/laboratory-freezers-125x125.jpg"
+      },
+      {
+        "name": "Laboratory Freeze Dryers",
+        "page": "https://dir.indiamart.com/impcat/laboratory-freeze-dryers.html",
+        "thumbnail": "http://4.imimg.com/data4/JS/YK/GLADMIN-2/laboratory-freeze-dryers-125x125.jpg"
+      },
+      {
+        "name": "Pharmaceutical Refrigerator",
+        "page": "https://dir.indiamart.com/impcat/pharmaceutical-refrigerator.html",
+        "thumbnail": "http://5.imimg.com/data5/OE/VF/GLADMIN-2/106_0-125x125.jpg"
+      },
+      {
+        "name": "Cryogenic Equipment",
+        "page": "https://dir.indiamart.com/impcat/cryogenic-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/VY/KQ/MY-2/chest-type-laboratory-cryogenic-freezers-68672-5864913-125x125.jpg"
+      },
+      {
+        "name": "Cryogenic Freezers",
+        "page": "https://dir.indiamart.com/impcat/cryogenic-freezers.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/CC/GLADMIN-150440/cryogenic-freezers-125x125.jpg"
+      },
+      {
+        "name": "Laboratory Dryers",
+        "page": "https://dir.indiamart.com/impcat/laboratory-dryers.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/OK/GLADMIN-31408/laboratory-dryers-125x125.jpg"
+      },
+      {
+        "name": "Plasma Freezer",
+        "page": "https://dir.indiamart.com/impcat/plasma-freezer.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/VO/GLADMIN-86349/plasma-freezer-125x125.jpg"
+      },
+      {
+        "name": "Bio Freezer",
+        "page": "https://dir.indiamart.com/impcat/bio-freezer.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/PW/GLADMIN-144814/bio-freezer-125x125.jpg"
+      },
+      {
+        "name": "Mobile Refrigeration System",
+        "page": "https://dir.indiamart.com/impcat/mobile-refrigeration-system.html",
+        "thumbnail": "http://3.imimg.com/data3/TE/CJ/GLADMIN-136660/mobile-refrigeration-system-125x125.jpg"
+      },
+      {
+        "name": "Cold Chain Equipment",
+        "page": "https://dir.indiamart.com/impcat/cold-chain-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/AF/RS/GLADMIN-41880/cold-chain-equipment-125x125.jpg"
+      },
+      {
+        "name": "Pharma Freezer",
+        "page": "https://dir.indiamart.com/impcat/pharma-freezer.html",
+        "thumbnail": "http://3.imimg.com/data3/UF/HF/GLADMIN-144816/pharma-freezer-125x125.jpg"
+      },
+      {
+        "name": "Medical Chillers",
+        "page": "https://dir.indiamart.com/impcat/medical-chillers.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/NB/GLADMIN-31862/medical-chillers-125x125.jpg"
+      },
+      {
+        "name": "Chromatography Refrigerators",
+        "page": "https://dir.indiamart.com/impcat/chromatography-refrigerators.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/VY/GLADMIN-671/chromatography-refrigerators-125x125.jpg"
+      },
+      {
+        "name": "Cryogenic Instruments",
+        "page": "https://dir.indiamart.com/impcat/cryogenic-instruments.html",
+        "thumbnail": "http://3.imimg.com/data3/MU/AS/GLADMIN-26135/cryogenic-instruments-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Autoclave & Sterilizers",
+    "category_thumbnail": "http://3.imimg.com/data3/JY/VA/GLADMIN-110778/yarn-setting-autoclave-125x125.jpg",
+    "items": [
+      {
+        "name": "Vertical Autoclave",
+        "page": "https://dir.indiamart.com/impcat/vertical-autoclave.html",
+        "thumbnail": "http://3.imimg.com/data3/HP/DF/GLADMIN-147550/vertical-autoclave-125x125.jpg"
+      },
+      {
+        "name": "Horizontal Autoclave",
+        "page": "https://dir.indiamart.com/impcat/horizontal-autoclave.html",
+        "thumbnail": "http://3.imimg.com/data3/WC/YC/GLADMIN-29488/horizontal-autoclave-125x125.jpg"
+      },
+      {
+        "name": "Tyre Electric Curing Chamber",
+        "page": "https://dir.indiamart.com/impcat/electric-tyre-chamber.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/YI/MK/KS/37679/electric-tyre-curing-chamber-125x125.png"
+      },
+      {
+        "name": "Hydrothermal Autoclave",
+        "page": "https://dir.indiamart.com/impcat/hydrothermal-autoclave.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/a-img922-2073-lvgpgl-125x125.jpg"
+      },
+      {
+        "name": "Industrial Bottle Sterilizer",
+        "page": "https://dir.indiamart.com/impcat/bottle-sterilizer.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/data5-lp-vw-my-238832-horizontal-cylindrical-autoclave-sterilizer-500x500-125x125.jpg"
+      },
+      {
+        "name": "Rubber Vulcanizer",
+        "page": "https://dir.indiamart.com/impcat/rubber-vulcanizer.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/12/VL/NR/TP/37679/rubber-vulcanizer-125x125.JPG"
+      },
+      {
+        "name": "Glass Bead Sterilizers",
+        "page": "https://dir.indiamart.com/impcat/glass-bead-sterilizers.html",
+        "thumbnail": "http://3.imimg.com/data3/HE/UO/GLADMIN-133853/glass-bead-sterilizers-125x125.jpg"
+      },
+      {
+        "name": "Dry Heat Sterilizer",
+        "page": "https://dir.indiamart.com/impcat/dry-heat-sterilizer.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/KE/GLADMIN-13833/dry-heat-sterilizer-125x125.jpg"
+      },
+      {
+        "name": "Cement Autoclave",
+        "page": "https://dir.indiamart.com/impcat/cement-autoclave.html",
+        "thumbnail": "http://3.imimg.com/data3/GE/SD/GLADMIN-166653/cement-autoclave-125x125.jpg"
+      },
+      {
+        "name": "Rotary Autoclave",
+        "page": "https://dir.indiamart.com/impcat/rotary-autoclave-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/PD/GLADMIN-159526/rotary-autoclave-unit-125x125.jpg"
+      },
+      {
+        "name": "Dewaxing Autoclave",
+        "page": "https://dir.indiamart.com/impcat/dewaxing-autoclave.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/ES/GLADMIN-152553/dewaxing-autoclave-125x125.jpg"
+      },
+      {
+        "name": "Vulcanizing Autoclave",
+        "page": "https://dir.indiamart.com/impcat/vulcanizing-autoclave.html",
+        "thumbnail": "http://5.imimg.com/data5/SF/NW/GLADMIN-2/vulcanizing-autoclave-125x125.jpg"
+      },
+      {
+        "name": "Plate Sterilizer",
+        "page": "https://dir.indiamart.com/impcat/plate-sterilizer.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/a-img922-4970-zt7ojz-125x125.jpg"
+      },
+      {
+        "name": "Pharmaceutical Sterilizing Tunnel",
+        "page": "https://dir.indiamart.com/impcat/pharmaceutical-sterilizing-tunnel.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/QW/GLADMIN-140056/pharmaceutical-sterilizing-tunnel-125x125.jpg"
+      },
+      {
+        "name": "Depyrogenation Tunnels",
+        "page": "https://dir.indiamart.com/impcat/depyrogenation-tunnels.html",
+        "thumbnail": "http://3.imimg.com/data3/JN/PQ/GLADMIN-152792/depyrogenation-tunnels-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Lab Incubator",
+    "category_thumbnail": "http://3.imimg.com/data3/LB/OB/GLADMIN-10561/lab-incubator-125x125.jpg",
+    "items": [
+      {
+        "name": "Bod Incubator",
+        "page": "https://dir.indiamart.com/impcat/bod-incubator.html",
+        "thumbnail": "http://3.imimg.com/data3/BJ/GG/GLADMIN-4493/bod-incubator-125x125.jpg"
+      },
+      {
+        "name": "Incubators",
+        "page": "https://dir.indiamart.com/impcat/incubators.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/BV/GLADMIN-1159/incubators-125x125.jpg"
+      },
+      {
+        "name": "Dry Bath Incubator",
+        "page": "https://dir.indiamart.com/impcat/dry-bath-incubator.html",
+        "thumbnail": "http://4.imimg.com/data4/QP/JG/GLADMIN-185730/dry-bath-incubator-125x125.jpg"
+      },
+      {
+        "name": "Carbon Dioxide Incubator",
+        "page": "https://dir.indiamart.com/impcat/carbon-dioxide-incubator.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/SI/GLADMIN-24432/carbon-dioxide-incubator-125x125.jpg"
+      },
+      {
+        "name": "IVF Incubator",
+        "page": "https://dir.indiamart.com/impcat/ivf-incubator.html",
+        "thumbnail": "http://5.imimg.com/data5/AE/VE/GLADMIN-2/ivf-incubator-125x125.jpg"
+      },
+      {
+        "name": "Shaking Incubators",
+        "page": "https://dir.indiamart.com/impcat/shaking-incubators.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/EH/GLADMIN-37981/shaking-incubators-125x125.jpg"
+      },
+      {
+        "name": "Incubator Shaker",
+        "page": "https://dir.indiamart.com/impcat/incubator-shaker.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/HI/GLADMIN-86347/incubator-shaker-125x125.jpg"
+      },
+      {
+        "name": "Platelet Incubator",
+        "page": "https://dir.indiamart.com/impcat/platelet-incubator.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/PM/GLADMIN-86346/platelet-incubator-125x125.jpg"
+      },
+      {
+        "name": "Cooled Incubators",
+        "page": "https://dir.indiamart.com/impcat/cooled-incubators.html",
+        "thumbnail": "http://3.imimg.com/data3/BY/NE/GLADMIN-25867/cooled-incubators-125x125.jpg"
+      },
+      {
+        "name": "Water Bath Incubator Shaker",
+        "page": "https://dir.indiamart.com/impcat/water-bath-incubator-shaker.html",
+        "thumbnail": "http://4.imimg.com/data4/FT/EP/GLADMIN-181382/water-bath-incubator-shaker-125x125.jpg"
+      },
+      {
+        "name": "Orbital Shaking Incubator",
+        "page": "https://dir.indiamart.com/impcat/orbital-shaking-incubator.html",
+        "thumbnail": "http://4.imimg.com/data4/PY/TJ/GLADMIN-182888/orbital-shaking-incubator-125x125.jpg"
+      },
+      {
+        "name": "Temperature Incubator",
+        "page": "https://dir.indiamart.com/impcat/temperature-incubator.html",
+        "thumbnail": "http://4.imimg.com/data4/HO/VM/GLADMIN-2/temperature-incubator-125x125.jpg"
+      },
+      {
+        "name": "Walk-In Incubator",
+        "page": "https://dir.indiamart.com/impcat/walk-in-incubator.html",
+        "thumbnail": "http://5.imimg.com/data5/YQ/CH/XR/GLADMIN-68155/walk-in-incubator-125x125.jpg"
+      },
+      {
+        "name": "COD Incubator",
+        "page": "https://dir.indiamart.com/impcat/cod-incubator.html",
+        "thumbnail": "http://3.imimg.com/data3/EK/EC/GLADMIN-146988/cod-incubator-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Laboratory & Pharmaceutical Ovens",
+    "category_thumbnail": "http://3.imimg.com/data3/VF/HS/GLADMIN-1835/laboratory-ovens-125x125.jpg",
+    "items": [
+      {
+        "name": "Hot Air Oven",
+        "page": "https://dir.indiamart.com/impcat/hot-air-oven.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/QL/GLADMIN-10768/hot-air-oven-125x125.jpg"
+      },
+      {
+        "name": "Laboratory Vacuum Oven",
+        "page": "https://dir.indiamart.com/impcat/laboratory-vacuum-oven.html",
+        "thumbnail": "http://4.imimg.com/data4/ED/YD/GLADMIN-181417/laboratory-vacuum-oven-125x125.jpg"
+      },
+      {
+        "name": "Lab Microwave Oven",
+        "page": "https://dir.indiamart.com/impcat/lab-microwave-oven.html",
+        "thumbnail": "http://5.imimg.com/data5/GC/CQ/GLADMIN-2/lab-microwave-oven-125x125.jpg"
+      },
+      {
+        "name": "Universal Ovens",
+        "page": "https://dir.indiamart.com/impcat/universal-ovens.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/QF/GLADMIN-2656/universal-ovens-125x125.jpg"
+      },
+      {
+        "name": "Humidity Oven",
+        "page": "https://dir.indiamart.com/impcat/humidity-oven.html",
+        "thumbnail": "http://3.imimg.com/data3/NK/UU/GLADMIN-127358/humidity-oven-125x125.jpg"
+      },
+      {
+        "name": "Hybridization Ovens",
+        "page": "https://dir.indiamart.com/impcat/hybridization-ovens.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/IJ/GLADMIN-29638/hybridization-ovens-125x125.jpg"
+      },
+      {
+        "name": "Thermostatic Oven",
+        "page": "https://dir.indiamart.com/impcat/thermostatic-oven.html",
+        "thumbnail": "http://3.imimg.com/data3/XL/CA/GLADMIN-154321/thermostatic-oven-125x125.jpg"
+      },
+      {
+        "name": "Pharmaceutical Ovens",
+        "page": "https://dir.indiamart.com/impcat/pharmaceutical-ovens.html",
+        "thumbnail": "http://3.imimg.com/data3/KR/YW/GLADMIN-33984/pharmaceutical-ovens-125x125.jpg"
+      },
+      {
+        "name": "HPLC Column Oven",
+        "page": "https://dir.indiamart.com/impcat/hplc-column-oven.html",
+        "thumbnail": "http://4.imimg.com/data4/JA/HT/GLADMIN-178635/hplc-column-oven-125x125.jpg"
+      },
+      {
+        "name": "Burn In Chamber",
+        "page": "https://dir.indiamart.com/impcat/burn-in-chamber.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/DC/GLADMIN-137180/burn-in-chamber-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cold Chain Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/AF/RS/GLADMIN-41880/cold-chain-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Vaccine Carriers",
+        "page": "https://dir.indiamart.com/impcat/vaccine-carriers.html",
+        "thumbnail": "http://3.imimg.com/data3/TF/GH/GLADMIN-41878/vaccine-carriers-125x125.jpg"
+      },
+      {
+        "name": "Vaccine Ice Pack",
+        "page": "https://dir.indiamart.com/impcat/medical-ice-pack.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/VM/OL/GP/56704/medical-ice-pack-125x125.jpg"
+      },
+      {
+        "name": "Cold Boxes",
+        "page": "https://dir.indiamart.com/impcat/cold-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/QT/KW/GLADMIN-41837/cold-boxes-125x125.jpg"
+      },
+      {
+        "name": "Freezing Pads",
+        "page": "https://dir.indiamart.com/impcat/freezing-pads.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/LY/GLADMIN-118284/freezing-pads-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Medical Chamber",
+    "category_thumbnail": "http://3.imimg.com/data3/QD/WV/GLADMIN-102158/medical-chamber-125x125.jpg",
+    "items": [
+      {
+        "name": "Formalin Chambers",
+        "page": "https://dir.indiamart.com/impcat/formalin-chambers.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/TL/GLADMIN-123950/formalin-chambers-125x125.jpg"
+      },
+      {
+        "name": "Proving Chamber",
+        "page": "https://dir.indiamart.com/impcat/proving-chamber.html",
+        "thumbnail": "http://3.imimg.com/data3/PD/FN/GLADMIN-166737/proving-chamber-125x125.jpg"
+      },
+      {
+        "name": "Temperature Cabinets",
+        "page": "https://dir.indiamart.com/impcat/temperature-cabinets.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/VY/GLADMIN-39719/temperature-cabinets-125x125.jpg"
+      },
+      {
+        "name": "Inoculation Chamber",
+        "page": "https://dir.indiamart.com/impcat/inoculation-chamber.html",
+        "thumbnail": "http://3.imimg.com/data3/QA/QN/GLADMIN-153885/inoculation-chamber-125x125.jpg"
+      },
+      {
+        "name": "Temperature Cycling Chamber",
+        "page": "https://dir.indiamart.com/impcat/temperature-cycling-chamber.html",
+        "thumbnail": "http://3.imimg.com/data3/OW/DL/GLADMIN-39548/temperature-cycling-chamber-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Hospital Autoclave & Sterilizers",
+        "page": "https://dir.indiamart.com/impcat/autoclaves.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/IK/SJ/MC/93097/hospital-autoclave-sterilizers-125x125.png"
+      }
+    ]
+  }
+]

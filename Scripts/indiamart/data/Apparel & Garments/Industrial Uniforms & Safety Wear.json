@@ -1,0 +1,1683 @@
+[
+  {
+    "category_name": "Industrial Gloves",
+    "category_thumbnail": "http://3.imimg.com/data3/QR/HY/GLADMIN-1902/industrial-gloves-125x125.jpg",
+    "items": [
+      {
+        "name": "Safety Gloves",
+        "page": "https://dir.indiamart.com/impcat/safety-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/WT/GLADMIN-1903/safety-gloves-125x125.jpg"
+      },
+      {
+        "name": "Cut Resistant Gloves",
+        "page": "https://dir.indiamart.com/impcat/cut-resistant-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/CO/YJ/GLADMIN-1899/cut-resistant-gloves-125x125.jpg"
+      },
+      {
+        "name": "Jeans Fabric Gloves",
+        "page": "https://dir.indiamart.com/impcat/jeans-fabric-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/EK/AV/GLADMIN-155551/jeans-fabric-gloves-125x125.jpg"
+      },
+      {
+        "name": "Cotton Safety Glove",
+        "page": "https://dir.indiamart.com/impcat/cotton-safety-glove.html",
+        "thumbnail": "http://4.imimg.com/data4/KQ/SG/GLADMIN-181604/cotton-safety-glove-125x125.jpg"
+      },
+      {
+        "name": "Nylon Gloves",
+        "page": "https://dir.indiamart.com/impcat/nylon-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/JO/GLADMIN-32937/nylon-gloves-125x125.jpg"
+      },
+      {
+        "name": "Rubber Gloves",
+        "page": "https://dir.indiamart.com/impcat/rubber-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/EX/HY/GLADMIN-36593/rubber-gloves-125x125.jpg"
+      },
+      {
+        "name": "Chemical Resistant Glove",
+        "page": "https://dir.indiamart.com/impcat/chemical-resistant-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/PO/GLADMIN-89878/chemical-resistant-glove-125x125.jpg"
+      },
+      {
+        "name": "Food Processing Gloves",
+        "page": "https://dir.indiamart.com/impcat/food-processing-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/LB/XM/GLADMIN-106742/food-processing-gloves-125x125.jpg"
+      },
+      {
+        "name": "Dotted Glove",
+        "page": "https://dir.indiamart.com/impcat/dotted-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/SB/GLADMIN-89889/dotted-glove-125x125.jpg"
+      },
+      {
+        "name": "Long Sleeve Glove",
+        "page": "https://dir.indiamart.com/impcat/long-sleeve-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/YY/CO/GLADMIN-89918/long-sleeve-glove-125x125.jpg"
+      },
+      {
+        "name": "ESD Glove",
+        "page": "https://dir.indiamart.com/impcat/esd-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/XY/GP/GLADMIN-89893/esd-glove-125x125.jpg"
+      },
+      {
+        "name": "Kevlar Glove",
+        "page": "https://dir.indiamart.com/impcat/kevlar-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/YO/GLADMIN-90030/kevlar-glove-125x125.jpg"
+      },
+      {
+        "name": "Lint Free Gloves",
+        "page": "https://dir.indiamart.com/impcat/lint-free-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/YC/YG/GLADMIN-132694/lint-free-gloves-125x125.jpg"
+      },
+      {
+        "name": "Neoprene Gloves",
+        "page": "https://dir.indiamart.com/impcat/neoprene-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/AF/GP/GLADMIN-32631/neoprene-gloves-125x125.jpg"
+      },
+      {
+        "name": "Cryogenic Glove",
+        "page": "https://dir.indiamart.com/impcat/cryogenic-glove.html",
+        "thumbnail": "http://4.imimg.com/data4/EV/NC/GLADMIN-182169/cryogenic-glove-125x125.jpg"
+      },
+      {
+        "name": "Coated Gloves",
+        "page": "https://dir.indiamart.com/impcat/coated-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/TN/GLADMIN-25089/coated-gloves-125x125.jpg"
+      },
+      {
+        "name": "Heavy Duty Glove",
+        "page": "https://dir.indiamart.com/impcat/heavy-duty-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/XR/GK/GLADMIN-89902/heavy-duty-glove-125x125.jpg"
+      },
+      {
+        "name": "Waterproof Glove",
+        "page": "https://dir.indiamart.com/impcat/waterproof-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/RU/FG/GLADMIN-90466/waterproof-glove-125x125.jpg"
+      },
+      {
+        "name": "Cold Resistant Gloves",
+        "page": "https://dir.indiamart.com/impcat/cold-resistant-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/RJ/GLADMIN-24269/cold-resistant-gloves-125x125.jpg"
+      },
+      {
+        "name": "PVC Dotted Glove",
+        "page": "https://dir.indiamart.com/impcat/pvc-dotted-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/PQ/PR/GLADMIN-89939/pvc-dotted-glove-125x125.jpg"
+      },
+      {
+        "name": "PVC Dotted Cotton Glove",
+        "page": "https://dir.indiamart.com/impcat/pvc-dotted-cotton-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/ID/GLADMIN-89938/pvc-dotted-cotton-glove-125x125.jpg"
+      },
+      {
+        "name": "Grip Work Glove",
+        "page": "https://dir.indiamart.com/impcat/grip-work-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/TG/CI/GLADMIN-89901/grip-work-glove-125x125.jpg"
+      },
+      {
+        "name": "Anti Static Gloves",
+        "page": "https://dir.indiamart.com/impcat/anti-static-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/TD/GLADMIN-4823/anti-static-gloves-125x125.jpg"
+      },
+      {
+        "name": "Beekeeping Gloves",
+        "page": "https://dir.indiamart.com/impcat/beekeeping-gloves.html",
+        "thumbnail": "http://5.imimg.com/data5/PQ/CM/GLADMIN-2/image_20170706_115954-125x125.jpg"
+      },
+      {
+        "name": "ESD Dotted Gloves",
+        "page": "https://dir.indiamart.com/impcat/esd-dotted-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/PD/UC/GLADMIN-132629/esd-dotted-gloves-125x125.jpg"
+      },
+      {
+        "name": "Rigger Gloves",
+        "page": "https://dir.indiamart.com/impcat/rigger-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/KF/WU/GLADMIN-110112/rigger-gloves-125x125.jpg"
+      },
+      {
+        "name": "Inspection Gloves",
+        "page": "https://dir.indiamart.com/impcat/inspection-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/VP/GLADMIN-30951/inspection-gloves-125x125.jpg"
+      },
+      {
+        "name": "Poly Glove",
+        "page": "https://dir.indiamart.com/impcat/poly-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/LC/UX/GLADMIN-90153/poly-glove-125x125.jpg"
+      },
+      {
+        "name": "String Knit Gloves",
+        "page": "https://dir.indiamart.com/impcat/string-knit-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/OW/GLADMIN-38884/string-knit-gloves-125x125.jpg"
+      },
+      {
+        "name": "Reflective Gloves",
+        "page": "https://dir.indiamart.com/impcat/reflective-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/AA/SL/GLADMIN-8093/reflective-gloves-125x125.jpg"
+      },
+      {
+        "name": "Custom Glove",
+        "page": "https://dir.indiamart.com/impcat/custom-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/TW/GLADMIN-89887/custom-glove-125x125.jpg"
+      },
+      {
+        "name": "Reversible Gloves",
+        "page": "https://dir.indiamart.com/impcat/reversible-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/BV/GLADMIN-35996/reversible-gloves-125x125.jpg"
+      },
+      {
+        "name": "Lining Gloves",
+        "page": "https://dir.indiamart.com/impcat/lining-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/DA/FU/GLADMIN-89915/lining-gloves-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Jacket",
+    "category_thumbnail": "http://3.imimg.com/data3/YJ/YL/MY-2/industrial-jacket-125x125.jpg",
+    "items": [
+      {
+        "name": "Safety Jacket",
+        "page": "https://dir.indiamart.com/impcat/safety-jacket.html",
+        "thumbnail": "http://3.imimg.com/data3/DL/MD/GLADMIN-81086/safety-jacket-125x125.jpg"
+      },
+      {
+        "name": "Police Jacket",
+        "page": "https://dir.indiamart.com/impcat/police-jacket.html",
+        "thumbnail": "http://4.imimg.com/data4/CC/CC/GLADMIN-/police-jacket-125x125.jpg"
+      },
+      {
+        "name": "Bullet Proof Jacket",
+        "page": "https://dir.indiamart.com/impcat/bullet-proof-jacket.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/CU/GLADMIN-41719/bullet-proof-jacket-125x125.jpg"
+      },
+      {
+        "name": "Reflective Jackets",
+        "page": "https://dir.indiamart.com/impcat/reflective-jackets.html",
+        "thumbnail": "http://3.imimg.com/data3/NN/RO/GLADMIN-2089/reflective-jackets-125x125.jpg"
+      },
+      {
+        "name": "Flame Retardant Jacket",
+        "page": "https://dir.indiamart.com/impcat/flame-retardant-jacket.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/flame-retardant-jacket-125x125.jpg"
+      },
+      {
+        "name": "Welding Jacket",
+        "page": "https://dir.indiamart.com/impcat/welding-jacket.html",
+        "thumbnail": "http://4.imimg.com/data4/MD/WC/GLADMIN-2/welding-jacket-125x125.jpg"
+      },
+      {
+        "name": "Firefighter Jacket",
+        "page": "https://dir.indiamart.com/impcat/firefighter-jacket.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/UU/GLADMIN-/firefighter-jacket-125x125.jpg"
+      },
+      {
+        "name": "Leather Safety Jacket",
+        "page": "https://dir.indiamart.com/impcat/leather-safety-jacket.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/JP/GLADMIN-90108/leather-safety-jacket-125x125.jpg"
+      },
+      {
+        "name": "Heat Resistant Jacket",
+        "page": "https://dir.indiamart.com/impcat/heat-resistant-jacket.html",
+        "thumbnail": "http://4.imimg.com/data4/RB/KS/GLADMIN-186469/heat-resistant-jacket-125x125.jpg"
+      },
+      {
+        "name": "Riot Jacket",
+        "page": "https://dir.indiamart.com/impcat/riot-jacket.html",
+        "thumbnail": "http://5.imimg.com/data5/QQ/QQ/GLADMIN-/riot-jacket-125x125.jpg"
+      },
+      {
+        "name": "Reflective Coats",
+        "page": "https://dir.indiamart.com/impcat/reflective-coats.html",
+        "thumbnail": "http://3.imimg.com/data3/JA/RG/GLADMIN-8091/reflective-coats-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ear Muffs",
+    "category_thumbnail": "http://3.imimg.com/data3/SH/JW/MY-2/ear-muffs-125x125.jpg",
+    "items": [
+      {
+        "name": "Colorful Ear Muff",
+        "page": "https://dir.indiamart.com/impcat/colorful-ear-muff.html",
+        "thumbnail": "http://3.imimg.com/data3/SC/RX/GLADMIN-104058/colorful-ear-muff-125x125.jpg"
+      },
+      {
+        "name": "Foldable Earmuff",
+        "page": "https://dir.indiamart.com/impcat/foldable-earmuff.html",
+        "thumbnail": "http://3.imimg.com/data3/SX/WW/GLADMIN-106809/foldable-earmuff-125x125.jpg"
+      },
+      {
+        "name": "Lightweight Earmuff",
+        "page": "https://dir.indiamart.com/impcat/lightweight-earmuff.html",
+        "thumbnail": "http://3.imimg.com/data3/JA/DL/GLADMIN-108968/lightweight-earmuff-125x125.jpg"
+      },
+      {
+        "name": "Helmet Ear Muffs",
+        "page": "https://dir.indiamart.com/impcat/helmet-ear-muffs.html",
+        "thumbnail": "http://3.imimg.com/data3/CD/JW/GLADMIN-156781/helmet-ear-muffs-125x125.jpg"
+      },
+      {
+        "name": "Electronics Earmuff",
+        "page": "https://dir.indiamart.com/impcat/electronics-earmuff.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/AJ/GLADMIN-107641/electronics-earmuff-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Rubber Gloves",
+    "category_thumbnail": "http://3.imimg.com/data3/EX/HY/GLADMIN-36593/rubber-gloves-125x125.jpg",
+    "items": [
+      {
+        "name": "Rubber Hand Gloves",
+        "page": "https://dir.indiamart.com/impcat/rubber-hand-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/ES/GLADMIN-8305/rubber-hand-gloves-125x125.jpg"
+      },
+      {
+        "name": "Industrial Rubber Gloves",
+        "page": "https://dir.indiamart.com/impcat/industrial-rubber-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/BN/GLADMIN-10108/industrial-rubber-gloves-125x125.jpg"
+      },
+      {
+        "name": "Electrical Safety Glove",
+        "page": "https://dir.indiamart.com/impcat/electrical-safety-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/TI/GLADMIN-143679/electrical-safety-glove-125x125.jpg"
+      },
+      {
+        "name": "Electrical Rubber Gloves",
+        "page": "https://dir.indiamart.com/impcat/electrical-rubber-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/LY/GLADMIN-141605/electrical-rubber-gloves-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Clothing",
+    "category_thumbnail": "http://3.imimg.com/data3/EH/OU/GLADMIN-43464/industrial-clothing-125x125.jpg",
+    "items": [
+      {
+        "name": "Safety Suits",
+        "page": "https://dir.indiamart.com/impcat/safety-suits.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/UK/GLADMIN-36699/safety-suits-125x125.jpg"
+      },
+      {
+        "name": "Industrial Uniforms",
+        "page": "https://dir.indiamart.com/impcat/industrial-uniforms.html",
+        "thumbnail": "http://3.imimg.com/data3/DC/AD/GLADMIN-10122/industrial-uniforms-125x125.jpg"
+      },
+      {
+        "name": "Safety Dangri Suits",
+        "page": "https://dir.indiamart.com/impcat/safety-dangri-suits.html",
+        "thumbnail": "http://3.imimg.com/data3/DB/PF/GLADMIN-137702/safety-dangri-suits-125x125.jpg"
+      },
+      {
+        "name": "Cold Storage Suits",
+        "page": "https://dir.indiamart.com/impcat/cold-storage-suits.html",
+        "thumbnail": "http://3.imimg.com/data3/AE/BL/GLADMIN-/stearnsnew-stearnspg20-i596driflexsuit-2008-125x125.jpg"
+      },
+      {
+        "name": "Reflective T Shirt",
+        "page": "https://dir.indiamart.com/impcat/reflective-t-shirt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/DV/WF/HW/85177/reflective-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Work Clothes",
+        "page": "https://dir.indiamart.com/impcat/work-clothes.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/GN/GLADMIN-41392/work-clothes-125x125.jpg"
+      },
+      {
+        "name": "Safety T Shirt",
+        "page": "https://dir.indiamart.com/impcat/safety-t-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/AT/NN/GLADMIN-89946/safety-t-shirt-125x125.jpg"
+      },
+      {
+        "name": "Industrial Safety Apparel",
+        "page": "https://dir.indiamart.com/impcat/industrial-safety-apparel.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/CO/GLADMIN-10109/industrial-safety-apparel-125x125.jpg"
+      },
+      {
+        "name": "Industrial Aprons",
+        "page": "https://dir.indiamart.com/impcat/industrial-aprons.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/RX/GLADMIN-30673/industrial-aprons-125x125.jpg"
+      },
+      {
+        "name": "Anti Static Clothes",
+        "page": "https://dir.indiamart.com/impcat/anti-static-clothes.html",
+        "thumbnail": "http://3.imimg.com/data3/KS/PC/GLADMIN-89872/anti-static-clothes-125x125.jpg"
+      },
+      {
+        "name": "Industrial Coverall",
+        "page": "https://dir.indiamart.com/impcat/industrial-coverall.html",
+        "thumbnail": "http://4.imimg.com/data4/CL/IV/GLADMIN-181617/industrial-coverall-125x125.jpg"
+      },
+      {
+        "name": "Bee Suit",
+        "page": "https://dir.indiamart.com/impcat/bee-suit.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/SA/GLADMIN-166763/bee-suit-125x125.jpg"
+      },
+      {
+        "name": "Demining Suit",
+        "page": "https://dir.indiamart.com/impcat/demining-suit.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/a-img924-8665-fkeu7y-125x125.jpg"
+      },
+      {
+        "name": "Work Shirts",
+        "page": "https://dir.indiamart.com/impcat/work-shirts.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/NF/GLADMIN-77915/work-shirts-125x125.jpg"
+      },
+      {
+        "name": "Sand Blasting Suit",
+        "page": "https://dir.indiamart.com/impcat/sand-blasting-suit.html",
+        "thumbnail": "http://3.imimg.com/data3/LN/HO/GLADMIN-164388/sand-blasting-suit-125x125.jpg"
+      },
+      {
+        "name": "ESD Garments",
+        "page": "https://dir.indiamart.com/impcat/esd-garments.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/DO/GLADMIN-132631/esd-garments-125x125.jpg"
+      },
+      {
+        "name": "Bee Veil",
+        "page": "https://dir.indiamart.com/impcat/bee-veil.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/NV/GLADMIN-20759/bee-veil-125x125.jpg"
+      },
+      {
+        "name": "Leather Safety Apparel",
+        "page": "https://dir.indiamart.com/impcat/leather-safety-apparel.html",
+        "thumbnail": "http://3.imimg.com/data3/MO/QU/GLADMIN-11493/leather-safety-apparel-125x125.jpg"
+      },
+      {
+        "name": "Chemical Resistant Clothing",
+        "page": "https://dir.indiamart.com/impcat/chemical-resistant-clothing.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/YV/GLADMIN-24006/chemical-resistant-clothing-125x125.jpg"
+      },
+      {
+        "name": "Lint Free Garments",
+        "page": "https://dir.indiamart.com/impcat/lint-free-garments.html",
+        "thumbnail": "http://5.imimg.com/data5/FS/TJ/GLADMIN-2/lint-free-garments-125x125.jpg"
+      },
+      {
+        "name": "Working Trouser",
+        "page": "https://dir.indiamart.com/impcat/working-trouser.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/RU/GLADMIN-89960/working-trouser-125x125.jpg"
+      },
+      {
+        "name": "Working Bib Pant",
+        "page": "https://dir.indiamart.com/impcat/working-bib-pant.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/GO/GLADMIN-89959/working-bib-pant-125x125.jpg"
+      },
+      {
+        "name": "High Visibility Clothing",
+        "page": "https://dir.indiamart.com/impcat/high-visibility-clothing.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/FL/GLADMIN-1901/high-visibility-clothing-125x125.jpg"
+      },
+      {
+        "name": "Immersion Suit",
+        "page": "https://dir.indiamart.com/impcat/immersion-suit.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/KQ/GLADMIN-77914/immersion-suit-125x125.jpg"
+      },
+      {
+        "name": "High Visibility Shirt",
+        "page": "https://dir.indiamart.com/impcat/high-visibility-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/UG/GLADMIN-89903/high-visibility-shirt-125x125.jpg"
+      },
+      {
+        "name": "Reflective Clothing",
+        "page": "https://dir.indiamart.com/impcat/reflective-clothing.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/BH/GLADMIN-8090/reflective-clothing-125x125.jpg"
+      },
+      {
+        "name": "Industrial Trousers",
+        "page": "https://dir.indiamart.com/impcat/industrial-trousers.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/WX/MY-2/industrial-trousers-125x125.jpg"
+      },
+      {
+        "name": "Safety Shirt",
+        "page": "https://dir.indiamart.com/impcat/safety-shirt.html",
+        "thumbnail": "http://3.imimg.com/data3/RC/QJ/GLADMIN-89945/safety-shirt-125x125.jpg"
+      },
+      {
+        "name": "Reflective Garments",
+        "page": "https://dir.indiamart.com/impcat/reflective-garments.html",
+        "thumbnail": "http://3.imimg.com/data3/IC/BG/GLADMIN-8092/reflective-garments-125x125.jpg"
+      },
+      {
+        "name": "Work Coat",
+        "page": "https://dir.indiamart.com/impcat/work-coat.html",
+        "thumbnail": "http://3.imimg.com/data3/MW/UB/GLADMIN-89956/work-coat-125x125.jpg"
+      },
+      {
+        "name": "Insulated Clothing",
+        "page": "https://dir.indiamart.com/impcat/insulated-clothing.html",
+        "thumbnail": "http://3.imimg.com/data3/LP/EK/GLADMIN-30975/insulated-clothing-125x125.jpg"
+      },
+      {
+        "name": "Heat Protection Wear",
+        "page": "https://dir.indiamart.com/impcat/heat-protection-wear.html",
+        "thumbnail": "http://3.imimg.com/data3/DN/YX/GLADMIN-142087/heat-protection-wear-125x125.jpg"
+      },
+      {
+        "name": "Work Pant",
+        "page": "https://dir.indiamart.com/impcat/work-pant.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/DQ/GLADMIN-89958/work-pant-125x125.jpg"
+      },
+      {
+        "name": "High Visibility Trouser",
+        "page": "https://dir.indiamart.com/impcat/high-visibility-trouser.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/VH/GLADMIN-89904/high-visibility-trouser-125x125.jpg"
+      },
+      {
+        "name": "Functional Clothes",
+        "page": "https://dir.indiamart.com/impcat/functional-clothes.html",
+        "thumbnail": "http://3.imimg.com/data3/AC/EN/GLADMIN-107320/functional-clothes-125x125.jpg"
+      },
+      {
+        "name": "Rubber Suit",
+        "page": "https://dir.indiamart.com/impcat/rubber-suit.html",
+        "thumbnail": "http://3.imimg.com/data3/NX/YX/GLADMIN-36050/rubber-suit-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Safety Belts",
+    "category_thumbnail": "http://3.imimg.com/data3/BF/ST/GLADMIN-8357/safety-belts-125x125.jpg",
+    "items": [
+      {
+        "name": "Reflective Belt",
+        "page": "https://dir.indiamart.com/impcat/reflective-belt.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/WR/GLADMIN-56002/reflective-belt-125x125.jpg"
+      },
+      {
+        "name": "Fall Protection Equipment",
+        "page": "https://dir.indiamart.com/impcat/fall-protection-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/WO/GLADMIN-28218/fall-protection-equipment-125x125.jpg"
+      },
+      {
+        "name": "Full Body Safety Belt",
+        "page": "https://dir.indiamart.com/impcat/full-body-safety-belt.html",
+        "thumbnail": "http://4.imimg.com/data4/PS/II/GLADMIN-181602/full-body-safety-belt-125x125.jpg"
+      },
+      {
+        "name": "Fall Arrest Systems",
+        "page": "https://dir.indiamart.com/impcat/fall-arrest-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/BQ/GLADMIN-6230/fall-arrest-systems-125x125.jpg"
+      },
+      {
+        "name": "Safety Harnesses",
+        "page": "https://dir.indiamart.com/impcat/safety-harnesses.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/ND/GLADMIN-36674/safety-harnesses-125x125.jpg"
+      },
+      {
+        "name": "Fall Protection Harness",
+        "page": "https://dir.indiamart.com/impcat/fall-protection-harness.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/WC/GLADMIN-56008/fall-protection-harness-125x125.jpg"
+      },
+      {
+        "name": "Retractable Fall Arrester",
+        "page": "https://dir.indiamart.com/impcat/retractable-fall-arrester.html",
+        "thumbnail": "http://4.imimg.com/data4/LQ/HW/GLADMIN-181314/retractable-fall-arrester-125x125.jpg"
+      },
+      {
+        "name": "Industrial Safety Belts",
+        "page": "https://dir.indiamart.com/impcat/industrial-safety-belts.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/MP/GLADMIN-10110/industrial-safety-belts-125x125.jpg"
+      },
+      {
+        "name": "Rope Safety Harness",
+        "page": "https://dir.indiamart.com/impcat/rope-safety-harness.html",
+        "thumbnail": "http://3.imimg.com/data3/TJ/VR/GLADMIN-117097/rope-safety-harness-125x125.jpg"
+      },
+      {
+        "name": "Confined Space Equipment",
+        "page": "https://dir.indiamart.com/impcat/confined-space-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/SY/GLADMIN-25772/confined-space-equipment-125x125.jpg"
+      },
+      {
+        "name": "Kids Safety Belt For Two Wheeler",
+        "page": "https://dir.indiamart.com/impcat/kids-safety-belt-for-two-wheeler.html",
+        "thumbnail": "http://5.imimg.com/data5/ER/BT/OT/GLADMIN-16223/kids-safety-belt-for-two-wheeler-125x125.png"
+      },
+      {
+        "name": "Seat Harness",
+        "page": "https://dir.indiamart.com/impcat/seat-harness.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/TW/GLADMIN-90306/seat-harness-125x125.jpg"
+      },
+      {
+        "name": "Fall Protection Devices",
+        "page": "https://dir.indiamart.com/impcat/fall-protection-devices.html",
+        "thumbnail": "http://3.imimg.com/data3/OA/WV/GLADMIN-28217/fall-protection-devices-125x125.jpg"
+      },
+      {
+        "name": "Climbing Harness",
+        "page": "https://dir.indiamart.com/impcat/climbing-harness.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/MZ/OW/KO/88475/climbing-harness-125x125.jpg"
+      },
+      {
+        "name": "Harness Belt",
+        "page": "https://dir.indiamart.com/impcat/harness-belt.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/JG/GLADMIN-88221/harness-belt-125x125.jpg"
+      },
+      {
+        "name": "Work Positioning Belt",
+        "page": "https://dir.indiamart.com/impcat/work-positioning-belt.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/DP/GLADMIN-78502/work-positioning-belt-125x125.jpg"
+      },
+      {
+        "name": "Fall Arrest Harness",
+        "page": "https://dir.indiamart.com/impcat/fall-arrest-harness.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/WQ/GLADMIN-90292/fall-arrest-harness-125x125.jpg"
+      },
+      {
+        "name": "Sit Harness Belt",
+        "page": "https://dir.indiamart.com/impcat/sit-harness-belt.html",
+        "thumbnail": "http://3.imimg.com/data3/YI/GT/GLADMIN-154606/sit-harness-belt-125x125.jpg"
+      },
+      {
+        "name": "Industrial Safety Harness",
+        "page": "https://dir.indiamart.com/impcat/industrial-safety-harness.html",
+        "thumbnail": "http://3.imimg.com/data3/AE/RQ/GLADMIN-90296/industrial-safety-harness-125x125.jpg"
+      },
+      {
+        "name": "Safety Blocks",
+        "page": "https://dir.indiamart.com/impcat/safety-blocks.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/UP/GLADMIN-166434/safety-blocks-125x125.jpg"
+      },
+      {
+        "name": "Construction Safety Harness",
+        "page": "https://dir.indiamart.com/impcat/construction-safety-harness.html",
+        "thumbnail": "http://3.imimg.com/data3/TM/LX/GLADMIN-104981/construction-safety-harness-125x125.jpg"
+      },
+      {
+        "name": "Miller Safety Belt",
+        "page": "https://dir.indiamart.com/impcat/miller-safety-belt.html",
+        "thumbnail": "http://3.imimg.com/data3/XQ/PP/GLADMIN-136569/miller-safety-belt-125x125.jpg"
+      },
+      {
+        "name": "Retractable Safety Harness",
+        "page": "https://dir.indiamart.com/impcat/retractable-safety-harness.html",
+        "thumbnail": "http://3.imimg.com/data3/WJ/GV/GLADMIN-117047/retractable-safety-harness-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Safety Masks",
+    "category_thumbnail": "http://5.imimg.com/data5/UU/RG/KL/GLADMIN-73289/industrial-safety-masks-125x125.jpg",
+    "items": [
+      {
+        "name": "N95 Mask",
+        "page": "https://dir.indiamart.com/impcat/n95-respirator-mask.html",
+        "thumbnail": "http://5.imimg.com/data5/IB/TC/AT/GLADMIN-73289/n95-kn95-ffp2-respirator-mask-125x125.jpg"
+      },
+      {
+        "name": "Welding Helmet",
+        "page": "https://dir.indiamart.com/impcat/welding-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/BJ/YV/MY-2/welding-helmet-125x125.jpg"
+      },
+      {
+        "name": "Dust Protection Mask",
+        "page": "https://dir.indiamart.com/impcat/dust-masks.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/FR/GLADMIN-27015/dust-masks-125x125.jpg"
+      },
+      {
+        "name": "Gas Masks",
+        "page": "https://dir.indiamart.com/impcat/gas-masks.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/IO/GLADMIN-29276/gas-masks-125x125.jpg"
+      },
+      {
+        "name": "Fire Escape Mask",
+        "page": "https://dir.indiamart.com/impcat/escape-mask.html",
+        "thumbnail": "http://5.imimg.com/data5/WL/OG/GM/GLADMIN-73289/fire-escape-mask-125x125.jpg"
+      },
+      {
+        "name": "N99 Mask",
+        "page": "https://dir.indiamart.com/impcat/n99-mask.html",
+        "thumbnail": "http://5.imimg.com/data5/JO/DI/LJ/GLADMIN-73289/n99-kn99-ffp3-mask-125x125.jpg"
+      },
+      {
+        "name": "N90 Mask",
+        "page": "https://dir.indiamart.com/impcat/dust-respirators.html",
+        "thumbnail": "http://5.imimg.com/data5/QZ/WH/WZ/GLADMIN-73289/ffp1-mask-125x125.jpg"
+      },
+      {
+        "name": "PVC Smoke Hood",
+        "page": "https://dir.indiamart.com/impcat/pvc-smoke-hood.html",
+        "thumbnail": "http://5.imimg.com/data5/IE/FB/DS/GLADMIN-73289/pvc-smoke-hood-125x125.jpg"
+      },
+      {
+        "name": "Welding Face Mask",
+        "page": "https://dir.indiamart.com/impcat/welding-face-mask.html",
+        "thumbnail": "http://5.imimg.com/data5/TO/XG/BJ/GLADMIN-73289/welding-face-mask-125x125.jpg"
+      },
+      {
+        "name": "Reusable Respirator",
+        "page": "https://dir.indiamart.com/impcat/reusable-respirator.html",
+        "thumbnail": "http://5.imimg.com/data5/CZ/UZ/GN/GLADMIN-73289/reusable-respirator-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Safety Vests",
+    "category_thumbnail": "http://3.imimg.com/data3/PR/FN/GLADMIN-36705/safety-vests-125x125.jpg",
+    "items": [
+      {
+        "name": "Reflective Safety Vest",
+        "page": "https://dir.indiamart.com/impcat/reflective-safety-vest.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/DQ/GLADMIN-36274/reflective-safety-vest-125x125.jpg"
+      },
+      {
+        "name": "Life Jacket",
+        "page": "https://dir.indiamart.com/impcat/life-jacket.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/RW/GLADMIN-32052/life-jacket-125x125.jpg"
+      },
+      {
+        "name": "Tactical Vest",
+        "page": "https://dir.indiamart.com/impcat/tactical-vest.html",
+        "thumbnail": "http://4.imimg.com/data4/OO/OO/GLADMIN-/tactical-vest-125x125.jpg"
+      },
+      {
+        "name": "Inflatable Life Vest",
+        "page": "https://dir.indiamart.com/impcat/inflatable-life-vest.html",
+        "thumbnail": "http://3.imimg.com/data3/IE/SX/GLADMIN-30849/inflatable-life-vest-125x125.jpg"
+      },
+      {
+        "name": "Weight Vest",
+        "page": "https://dir.indiamart.com/impcat/weight-vest.html",
+        "thumbnail": "http://3.imimg.com/data3/SL/WM/GLADMIN-41994/weight-vest-125x125.jpg"
+      },
+      {
+        "name": "Cooling Vests",
+        "page": "https://dir.indiamart.com/impcat/cooling-vests.html",
+        "thumbnail": "http://3.imimg.com/data3/JA/XJ/GLADMIN-25880/cooling-vests-125x125.jpg"
+      },
+      {
+        "name": "Traffic Safety Vest",
+        "page": "https://dir.indiamart.com/impcat/traffic-safety-vest.html",
+        "thumbnail": "http://3.imimg.com/data3/LM/JU/GLADMIN-90307/traffic-safety-vest-125x125.jpg"
+      },
+      {
+        "name": "Aviation Life Jacket",
+        "page": "https://dir.indiamart.com/impcat/aviation-life-jacket.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/EM/GLADMIN-153156/aviation-life-jacket-125x125.jpg"
+      },
+      {
+        "name": "Buoyancy Aid",
+        "page": "https://dir.indiamart.com/impcat/buoyancy-aid.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/EV/GLADMIN-100182/buoyancy-aid-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Safety Helmets",
+    "category_thumbnail": "http://3.imimg.com/data3/KA/VY/GLADMIN-10112/industrial-safety-helmets-125x125.jpg",
+    "items": [
+      {
+        "name": "Safety Helmets",
+        "page": "https://dir.indiamart.com/impcat/safety-helmets.html",
+        "thumbnail": "http://3.imimg.com/data3/SY/YL/GLADMIN-8361/safety-helmets-125x125.jpg"
+      },
+      {
+        "name": "Fireman Helmet",
+        "page": "https://dir.indiamart.com/impcat/fireman-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/YQ/FA/GLADMIN-132140/fireman-helmet-125x125.jpg"
+      },
+      {
+        "name": "PVC Helmet",
+        "page": "https://dir.indiamart.com/impcat/pvc-helmet.html",
+        "thumbnail": "http://5.imimg.com/data5/KS/IL/GLADMIN-2/pvc-125x125.jpg"
+      },
+      {
+        "name": "Safety Headgear",
+        "page": "https://dir.indiamart.com/impcat/safety-headgear.html",
+        "thumbnail": "http://3.imimg.com/data3/VC/CO/GLADMIN-36677/safety-headgear-125x125.jpg"
+      },
+      {
+        "name": "Hard Hats",
+        "page": "https://dir.indiamart.com/impcat/hard-hats.html",
+        "thumbnail": "http://3.imimg.com/data3/AV/HK/GLADMIN-30097/hard-hats-125x125.jpg"
+      },
+      {
+        "name": "Sand Blasting Helmet",
+        "page": "https://dir.indiamart.com/impcat/sand-blasting-helmet.html",
+        "thumbnail": "http://4.imimg.com/data4/RE/ET/GLADMIN-185533/sand-blasting-helmet-125x125.jpg"
+      },
+      {
+        "name": "Sandblasting Hoods",
+        "page": "https://dir.indiamart.com/impcat/sandblasting-hoods.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/XY/GLADMIN-164441/sandblasting-hoods-125x125.jpg"
+      },
+      {
+        "name": "Mining Helmet",
+        "page": "https://dir.indiamart.com/impcat/mining-helmet.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/mining-helmet-125x125.jpg"
+      },
+      {
+        "name": "Fusion Safety Helmet",
+        "page": "https://dir.indiamart.com/impcat/fusion-safety-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/AK/GLADMIN-156203/fusion-safety-helmet-125x125.jpg"
+      },
+      {
+        "name": "Safety Cap",
+        "page": "https://dir.indiamart.com/impcat/safety-cap.html",
+        "thumbnail": "http://3.imimg.com/data3/TE/IC/GLADMIN-81085/safety-cap-125x125.jpg"
+      },
+      {
+        "name": "Polyethylene Helmet",
+        "page": "https://dir.indiamart.com/impcat/polyethylene-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/EB/GLADMIN-86030/polyethylene-helmet-125x125.jpg"
+      },
+      {
+        "name": "Asbestos Hood",
+        "page": "https://dir.indiamart.com/impcat/asbestos-hood.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/VC/GLADMIN-151555/asbestos-hood-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Safety Helmets",
+    "category_thumbnail": "http://3.imimg.com/data3/SY/YL/GLADMIN-8361/safety-helmets-125x125.jpg",
+    "items": [
+      {
+        "name": "Ballistic Helmet",
+        "page": "https://dir.indiamart.com/impcat/ballistic-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/QX/GLADMIN-86005/ballistic-helmet-125x125.jpg"
+      },
+      {
+        "name": "FRP Helmet",
+        "page": "https://dir.indiamart.com/impcat/frp-helmet.html",
+        "thumbnail": "http://4.imimg.com/data4/KL/JI/GLADMIN-185613/frp-helmet-125x125.jpg"
+      },
+      {
+        "name": "Kids Helmet",
+        "page": "https://dir.indiamart.com/impcat/kids-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/CB/KU/GLADMIN-56053/kids-helmet-125x125.jpg"
+      },
+      {
+        "name": "Bullet Proof Helmet",
+        "page": "https://dir.indiamart.com/impcat/bullet-proof-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/BP/RB/GLADMIN-100180/bullet-proof-helmet-125x125.jpg"
+      },
+      {
+        "name": "PVC Helmet",
+        "page": "https://dir.indiamart.com/impcat/pvc-helmet.html",
+        "thumbnail": "http://5.imimg.com/data5/KS/IL/GLADMIN-2/pvc-125x125.jpg"
+      },
+      {
+        "name": "Helmet Lamp",
+        "page": "https://dir.indiamart.com/impcat/helmet-lamp.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/NU/GLADMIN-84402/helmet-lamp-125x125.jpg"
+      },
+      {
+        "name": "Safety Headgear",
+        "page": "https://dir.indiamart.com/impcat/safety-headgear.html",
+        "thumbnail": "http://3.imimg.com/data3/VC/CO/GLADMIN-36677/safety-headgear-125x125.jpg"
+      },
+      {
+        "name": "Torch Helmet",
+        "page": "https://dir.indiamart.com/impcat/torch-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/KX/HD/GLADMIN-149121/torch-helmet-125x125.jpg"
+      },
+      {
+        "name": "Sand Blasting Helmet",
+        "page": "https://dir.indiamart.com/impcat/sand-blasting-helmet.html",
+        "thumbnail": "http://4.imimg.com/data4/RE/ET/GLADMIN-185533/sand-blasting-helmet-125x125.jpg"
+      },
+      {
+        "name": "Mining Helmet",
+        "page": "https://dir.indiamart.com/impcat/mining-helmet.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/mining-helmet-125x125.jpg"
+      },
+      {
+        "name": "Fusion Safety Helmet",
+        "page": "https://dir.indiamart.com/impcat/fusion-safety-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/AK/GLADMIN-156203/fusion-safety-helmet-125x125.jpg"
+      },
+      {
+        "name": "Load Carry Helmet",
+        "page": "https://dir.indiamart.com/impcat/load-carry-helmet.html",
+        "thumbnail": "http://5.imimg.com/data5/DC/IT/GLADMIN-2/load-carrying-helmet-250x250-125x125.gif"
+      },
+      {
+        "name": "Air Ventilated Helmet",
+        "page": "https://dir.indiamart.com/impcat/air-ventilated-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/LL/GLADMIN-127391/air-ventilated-helmet-125x125.jpg"
+      },
+      {
+        "name": "Paratrooper Helmet",
+        "page": "https://dir.indiamart.com/impcat/paratrooper-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/QY/RK/GLADMIN-165547/paratrooper-helmet-125x125.jpg"
+      },
+      {
+        "name": "Head Shield",
+        "page": "https://dir.indiamart.com/impcat/head-shield.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/OD/GLADMIN-90295/head-shield-125x125.jpg"
+      },
+      {
+        "name": "Ultra Helmets",
+        "page": "https://dir.indiamart.com/impcat/ultra-helmets.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/XA/GLADMIN-156246/ultra-helmets-125x125.jpg"
+      },
+      {
+        "name": "Polyethylene Helmet",
+        "page": "https://dir.indiamart.com/impcat/polyethylene-helmet.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/EB/GLADMIN-86030/polyethylene-helmet-125x125.jpg"
+      },
+      {
+        "name": "Helmet Mounted Torch",
+        "page": "https://dir.indiamart.com/impcat/helmet-mounted-torch.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/HG/GLADMIN-152487/helmet-mounted-torch-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Heat Protection Wear",
+    "category_thumbnail": "http://3.imimg.com/data3/DN/YX/GLADMIN-142087/heat-protection-wear-125x125.jpg",
+    "items": [
+      {
+        "name": "Boiler Suits",
+        "page": "https://dir.indiamart.com/impcat/boiler-suits.html",
+        "thumbnail": "http://5.imimg.com/data5/TV/HI/GLADMIN-2/boiler-suits-125x125.jpg"
+      },
+      {
+        "name": "Fire Suit",
+        "page": "https://dir.indiamart.com/impcat/fire-suit.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/PU/GLADMIN-6388/fire-suit-125x125.jpg"
+      },
+      {
+        "name": "ARC Flash Suit",
+        "page": "https://dir.indiamart.com/impcat/arc-flash-suit.html",
+        "thumbnail": "http://4.imimg.com/data4/DO/QP/GLADMIN-179835/arc-flash-suit-125x125.jpg"
+      },
+      {
+        "name": "Cotton Boiler Suit",
+        "page": "https://dir.indiamart.com/impcat/cotton-boiler-suit.html",
+        "thumbnail": "http://4.imimg.com/data4/TB/EL/GLADMIN-185340/cotton-boiler-suit-125x125.jpg"
+      },
+      {
+        "name": "Welding Suits",
+        "page": "https://dir.indiamart.com/impcat/welding-suits.html",
+        "thumbnail": "http://3.imimg.com/data3/BL/ET/GLADMIN-164398/welding-suits-125x125.jpg"
+      },
+      {
+        "name": "PVC Boiler Suit",
+        "page": "https://dir.indiamart.com/impcat/pvc-boiler-suit.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/IQ/GLADMIN-141973/pvc-boiler-suit-125x125.jpg"
+      },
+      {
+        "name": "Asbestos Suit",
+        "page": "https://dir.indiamart.com/impcat/asbestos-suit.html",
+        "thumbnail": "http://3.imimg.com/data3/FE/UL/GLADMIN-151557/asbestos-suit-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Aprons",
+    "category_thumbnail": "http://3.imimg.com/data3/YP/RX/GLADMIN-30673/industrial-aprons-125x125.jpg",
+    "items": [
+      {
+        "name": "ESD Aprons",
+        "page": "https://dir.indiamart.com/impcat/esd-aprons.html",
+        "thumbnail": "http://4.imimg.com/data4/DC/TL/GLADMIN-179034/esd-aprons-125x125.jpg"
+      },
+      {
+        "name": "Leather Apron",
+        "page": "https://dir.indiamart.com/impcat/leather-apron.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/FF/GLADMIN-17022/leather-apron-125x125.jpg"
+      },
+      {
+        "name": "PVC Apron",
+        "page": "https://dir.indiamart.com/impcat/pvc-apron.html",
+        "thumbnail": "http://3.imimg.com/data3/NW/LP/GLADMIN-141972/pvc-apron-125x125.jpg"
+      },
+      {
+        "name": "Leather Welding Aprons",
+        "page": "https://dir.indiamart.com/impcat/leather-welding-aprons.html",
+        "thumbnail": "http://4.imimg.com/data4/YH/II/GLADMIN-184675/leather-welding-aprons-125x125.jpg"
+      },
+      {
+        "name": "Disposable Plastic Apron",
+        "page": "https://dir.indiamart.com/impcat/disposable-plastic-apron.html",
+        "thumbnail": "http://3.imimg.com/data3/JO/FF/GLADMIN-154247/disposable-plastic-apron-125x125.jpg"
+      },
+      {
+        "name": "Protective Aprons",
+        "page": "https://dir.indiamart.com/impcat/protective-aprons.html",
+        "thumbnail": "http://3.imimg.com/data3/CB/IJ/GLADMIN-35881/protective-aprons-125x125.jpg"
+      },
+      {
+        "name": "Plastic Apron",
+        "page": "https://dir.indiamart.com/impcat/plastic-apron.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320099131/UP/DJ/LU/96165/plastic-apron-125x125.png"
+      },
+      {
+        "name": "Work Apron",
+        "page": "https://dir.indiamart.com/impcat/work-apron.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/VC/GLADMIN-73127/work-apron-125x125.jpg"
+      },
+      {
+        "name": "Welding Aprons",
+        "page": "https://dir.indiamart.com/impcat/welding-aprons.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/GO/GLADMIN-152231/welding-aprons-125x125.jpg"
+      },
+      {
+        "name": "Rubber Apron",
+        "page": "https://dir.indiamart.com/impcat/rubber-apron.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/RS/GLADMIN-74830/rubber-apron-125x125.jpg"
+      },
+      {
+        "name": "Carpenter Aprons",
+        "page": "https://dir.indiamart.com/impcat/carpenter-aprons.html",
+        "thumbnail": "http://3.imimg.com/data3/FF/SQ/GLADMIN-152230/carpenter-aprons-125x125.jpg"
+      },
+      {
+        "name": "Aluminized Apron",
+        "page": "https://dir.indiamart.com/impcat/aluminized-apron.html",
+        "thumbnail": "http://5.imimg.com/data5/ZV/DF/PT/GLADMIN-73467/aluminized-apron-125x125.jpg"
+      },
+      {
+        "name": "Tool Aprons",
+        "page": "https://dir.indiamart.com/impcat/tool-aprons.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/TQ/GLADMIN-159709/tool-aprons-125x125.jpg"
+      },
+      {
+        "name": "Nylon Bib",
+        "page": "https://dir.indiamart.com/impcat/nylon-bib.html",
+        "thumbnail": "http://5.imimg.com/data5/SF/PD/GLADMIN-2/nylon-bib-125x125.jpg"
+      },
+      {
+        "name": "Cryogenic Apron",
+        "page": "https://dir.indiamart.com/impcat/cryogenic-apron.html",
+        "thumbnail": "http://3.imimg.com/data3/MB/QS/GLADMIN-163151/cryogenic-apron-125x125.jpg"
+      },
+      {
+        "name": "Metal Aprons",
+        "page": "https://dir.indiamart.com/impcat/metal-aprons.html",
+        "thumbnail": "http://4.imimg.com/data4/LK/WA/GLADMIN-152212/metal-aprons-125x125.jpg"
+      },
+      {
+        "name": "Asbestos Aprons",
+        "page": "https://dir.indiamart.com/impcat/asbestos-aprons.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/JD/GLADMIN-151554/asbestos-aprons-125x125.jpg"
+      },
+      {
+        "name": "Insulated Apron",
+        "page": "https://dir.indiamart.com/impcat/insulated-apron.html",
+        "thumbnail": "http://4.imimg.com/data4/AX/RO/GLADMIN-179907/insulated-apron-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Breathing Apparatus",
+    "category_thumbnail": "http://3.imimg.com/data3/GG/QS/GLADMIN-86007/breathing-apparatus-125x125.jpg",
+    "items": [
+      {
+        "name": "Self Contained Breathing Apparatus",
+        "page": "https://dir.indiamart.com/impcat/self-contained-breathing-apparatus.html",
+        "thumbnail": "http://3.imimg.com/data3/AX/MD/GLADMIN-37171/self-contained-breathing-apparatus-125x125.jpg"
+      },
+      {
+        "name": "Emergency Life Support Apparatus",
+        "page": "https://dir.indiamart.com/impcat/emergency-life-saving-apparatus.html",
+        "thumbnail": "http://5.imimg.com/data5/KE/OV/ZS/GLADMIN-76037/emergency-life-saving-apparatus-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ear protectors",
+    "category_thumbnail": "http://3.imimg.com/data3/QC/QI/GLADMIN-27129/ear-protectors-125x125.jpg",
+    "items": [
+      {
+        "name": "Ear Muffs",
+        "page": "https://dir.indiamart.com/impcat/ear-muffs.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/JW/MY-2/ear-muffs-125x125.jpg"
+      },
+      {
+        "name": "Ear Plugs",
+        "page": "https://dir.indiamart.com/impcat/ear-plugs.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/VV/GLADMIN-27128/ear-plugs-125x125.jpg"
+      },
+      {
+        "name": "Ear Cover",
+        "page": "https://dir.indiamart.com/impcat/ear-cover.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/FD/GLADMIN-27126/ear-cover-125x125.jpg"
+      },
+      {
+        "name": "Hearing Protection Devices",
+        "page": "https://dir.indiamart.com/impcat/hearing-protection-devices.html",
+        "thumbnail": "http://3.imimg.com/data3/XG/GN/GLADMIN-30169/hearing-protection-devices-125x125.jpg"
+      },
+      {
+        "name": "Ear Plug Accessories",
+        "page": "https://dir.indiamart.com/impcat/ear-plug-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/MW/GLADMIN-108960/ear-plug-accessories-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Reflective Jackets",
+    "category_thumbnail": "http://3.imimg.com/data3/NN/RO/GLADMIN-2089/reflective-jackets-125x125.jpg",
+    "items": [
+      {
+        "name": "Polyester Safety Jacket",
+        "page": "https://dir.indiamart.com/impcat/polyester-safety-jacket.html",
+        "thumbnail": "http://5.imimg.com/data5/CD/RA/GLADMIN-2/polyester-safety-jacket-125x125.jpg"
+      },
+      {
+        "name": "High Visibility Jackets",
+        "page": "https://dir.indiamart.com/impcat/high-visibility-jackets.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/YJ/GLADMIN-787/high-visibility-jackets-125x125.jpg"
+      },
+      {
+        "name": "Radium Jacket",
+        "page": "https://dir.indiamart.com/impcat/radium-jacket.html",
+        "thumbnail": "http://4.imimg.com/data4/EW/WL/GLADMIN-2/radium-jacket-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Coated Gloves",
+    "category_thumbnail": "http://3.imimg.com/data3/TK/TN/GLADMIN-25089/coated-gloves-125x125.jpg",
+    "items": [
+      {
+        "name": "PU Coated Glove",
+        "page": "https://dir.indiamart.com/impcat/pu-coated-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/XJ/GLADMIN-89935/pu-coated-glove-125x125.jpg"
+      },
+      {
+        "name": "Nitrile Coated Glove",
+        "page": "https://dir.indiamart.com/impcat/nitrile-coated-glove.html",
+        "thumbnail": "http://5.imimg.com/data5/CO/EK/GLADMIN-2/nitrile-coated-gloves-125x125.jpg"
+      },
+      {
+        "name": "Crinkle Latex Coated Glove",
+        "page": "https://dir.indiamart.com/impcat/crinkle-latex-coated-glove.html",
+        "thumbnail": "http://5.imimg.com/data5/VI/NM/QB/GLADMIN-65591/crinkle-latex-coated-glove-125x125.jpg"
+      },
+      {
+        "name": "Latex Coated Glove",
+        "page": "https://dir.indiamart.com/impcat/latex-coated-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/LT/GLADMIN-89909/latex-coated-glove-125x125.jpg"
+      },
+      {
+        "name": "Latex Coated Cotton Glove",
+        "page": "https://dir.indiamart.com/impcat/latex-coated-cotton-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/KF/EO/GLADMIN-89908/latex-coated-cotton-glove-125x125.jpg"
+      },
+      {
+        "name": "Foam Coated Gloves",
+        "page": "https://dir.indiamart.com/impcat/foam-coated-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/NC/GLADMIN-89899/foam-coated-gloves-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cut Resistant Gloves",
+    "category_thumbnail": "http://3.imimg.com/data3/CO/YJ/GLADMIN-1899/cut-resistant-gloves-125x125.jpg",
+    "items": [
+      {
+        "name": "Stainless Steel Gloves",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/NK/GLADMIN-177124/stainless-steel-gloves-125x125.jpg"
+      },
+      {
+        "name": "Glass Handling Gloves",
+        "page": "https://dir.indiamart.com/impcat/glass-handling-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/SM/VA/GLADMIN-28731/glass-handling-gloves-125x125.jpg"
+      },
+      {
+        "name": "Metal Mesh Gloves",
+        "page": "https://dir.indiamart.com/impcat/metal-mesh-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/PW/JU/GLADMIN-33366/metal-mesh-gloves-125x125.jpg"
+      },
+      {
+        "name": "Chain Mail Gloves",
+        "page": "https://dir.indiamart.com/impcat/chain-mail-gloves.html",
+        "thumbnail": "http://5.imimg.com/data5/PY/FN/GLADMIN-2/chain-mail-gloves-125x125.jpg"
+      },
+      {
+        "name": "Seamless Gloves",
+        "page": "https://dir.indiamart.com/impcat/seamless-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/GO/IF/GLADMIN-8470/seamless-gloves-125x125.jpg"
+      },
+      {
+        "name": "Leather Palm Gloves",
+        "page": "https://dir.indiamart.com/impcat/leather-palm-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/JQ/RJ/GLADMIN-30595/leather-palm-gloves-125x125.jpg"
+      },
+      {
+        "name": "Palm Glove",
+        "page": "https://dir.indiamart.com/impcat/palm-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/PY/GLADMIN-89928/palm-glove-125x125.jpg"
+      },
+      {
+        "name": "Dyneema Glove",
+        "page": "https://dir.indiamart.com/impcat/dyneema-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/EP/FX/GLADMIN-89891/dyneema-glove-125x125.jpg"
+      },
+      {
+        "name": "Terry Glove",
+        "page": "https://dir.indiamart.com/impcat/terry-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/WU/GLADMIN-89952/terry-glove-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ear Plugs",
+    "category_thumbnail": "http://3.imimg.com/data3/UA/VV/GLADMIN-27128/ear-plugs-125x125.jpg",
+    "items": [
+      {
+        "name": "Safety Ear Plug",
+        "page": "https://dir.indiamart.com/impcat/safety-ear-plug.html",
+        "thumbnail": "http://3.imimg.com/data3/WU/MB/GLADMIN-90302/safety-ear-plug-125x125.jpg"
+      },
+      {
+        "name": "Foam Earplug",
+        "page": "https://dir.indiamart.com/impcat/foam-earplug.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/DU/MY-2/foam-earplug-125x125.jpg"
+      },
+      {
+        "name": "Silicone Ear Plugs",
+        "page": "https://dir.indiamart.com/impcat/silicone-ear-plugs.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/UB/GLADMIN-86041/silicone-ear-plugs-125x125.jpg"
+      },
+      {
+        "name": "Disposable Ear Plugs",
+        "page": "https://dir.indiamart.com/impcat/disposable-ear-plugs.html",
+        "thumbnail": "http://3.imimg.com/data3/EY/NM/GLADMIN-26681/disposable-ear-plugs-125x125.jpg"
+      },
+      {
+        "name": "PU Foam Ear Plug",
+        "page": "https://dir.indiamart.com/impcat/pu-foam-ear-plug.html",
+        "thumbnail": "http://3.imimg.com/data3/VG/YJ/GLADMIN-116840/pu-foam-ear-plug-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Leather Gloves",
+    "category_thumbnail": "http://3.imimg.com/data3/HW/DL/GLADMIN-11014/industrial-leather-gloves-125x125.jpg",
+    "items": [
+      {
+        "name": "Leather Welding Glove",
+        "page": "https://dir.indiamart.com/impcat/leather-welding-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/EV/SS/GLADMIN-90111/leather-welding-glove-125x125.jpg"
+      },
+      {
+        "name": "Split Leather Gloves",
+        "page": "https://dir.indiamart.com/impcat/split-leather-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/QO/GLADMIN-160038/split-leather-gloves-125x125.jpg"
+      },
+      {
+        "name": "Canadian Leather Gloves",
+        "page": "https://dir.indiamart.com/impcat/canadian-leather-gloves.html",
+        "thumbnail": "http://5.imimg.com/data5/FF/FF/GLADMIN-/canadian-leather-gloves-125x125.jpg"
+      },
+      {
+        "name": "Chrome Leather Gloves",
+        "page": "https://dir.indiamart.com/impcat/chrome-leather-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/MS/GLADMIN-160147/chrome-leather-gloves-125x125.jpg"
+      },
+      {
+        "name": "Canvas Leather Gloves",
+        "page": "https://dir.indiamart.com/impcat/canvas-leather-gloves.html",
+        "thumbnail": "http://5.imimg.com/data5/AZ/OU/YX/GLADMIN-76037/canvas-leather-gloves-125x125.jpg"
+      },
+      {
+        "name": "Goat Leather Glove",
+        "page": "https://dir.indiamart.com/impcat/goat-leather-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/YV/VB/GLADMIN-90092/goat-leather-glove-125x125.jpg"
+      },
+      {
+        "name": "Long Leather Glove",
+        "page": "https://dir.indiamart.com/impcat/long-leather-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/VN/GLADMIN-90113/long-leather-glove-125x125.jpg"
+      },
+      {
+        "name": "Sheep Leather Glove",
+        "page": "https://dir.indiamart.com/impcat/sheep-leather-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/YB/UT/GLADMIN-74223/sheep-leather-glove-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Respirator",
+    "category_thumbnail": "http://3.imimg.com/data3/BX/KS/GLADMIN-290/respirator-125x125.jpg",
+    "items": [
+      {
+        "name": "Breathing Apparatus",
+        "page": "https://dir.indiamart.com/impcat/breathing-apparatus.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/QS/GLADMIN-86007/breathing-apparatus-125x125.jpg"
+      },
+      {
+        "name": "Powered Air Purifying Respirator",
+        "page": "https://dir.indiamart.com/impcat/powered-air-purifying-respirator.html",
+        "thumbnail": "http://5.imimg.com/data5/UE/CD/KY/GLADMIN-76037/powered-air-purifying-respirator-125x125.jpg"
+      },
+      {
+        "name": "Safety Respirators",
+        "page": "https://dir.indiamart.com/impcat/safety-respirators.html",
+        "thumbnail": "http://5.imimg.com/data5/ES/DJ/YK/GLADMIN-73289/safety-respirators-125x125.png"
+      },
+      {
+        "name": "Respirator Accessories",
+        "page": "https://dir.indiamart.com/impcat/respirator-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/HD/GLADMIN-117040/respirator-accessories-125x125.jpg"
+      },
+      {
+        "name": "Reusable Respirator",
+        "page": "https://dir.indiamart.com/impcat/reusable-respirator.html",
+        "thumbnail": "http://5.imimg.com/data5/CZ/UZ/GN/GLADMIN-73289/reusable-respirator-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Heat Resistant Gloves",
+    "category_thumbnail": "http://3.imimg.com/data3/YO/VE/GLADMIN-30196/heat-resistant-gloves-125x125.jpg",
+    "items": [
+      {
+        "name": "Welding Gloves",
+        "page": "https://dir.indiamart.com/impcat/welding-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/OV/GD/GLADMIN-40991/welding-gloves-125x125.jpg"
+      },
+      {
+        "name": "Asbestos Glove",
+        "page": "https://dir.indiamart.com/impcat/asbestos-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/HH/QV/GLADMIN-89874/asbestos-glove-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Gloves",
+        "page": "https://dir.indiamart.com/impcat/aluminium-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/JU/GLADMIN-151548/aluminium-gloves-125x125.jpg"
+      },
+      {
+        "name": "Aramid Fiber Glove",
+        "page": "https://dir.indiamart.com/impcat/aramid-fiber-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/OI/HQ/GLADMIN-89873/aramid-fiber-glove-125x125.jpg"
+      },
+      {
+        "name": "Canadian Glove",
+        "page": "https://dir.indiamart.com/impcat/canadian-glove.html",
+        "thumbnail": "http://4.imimg.com/data4/JG/SU/GLADMIN-181603/canadian-glove-125x125.jpg"
+      },
+      {
+        "name": "Fire Fighting Gloves",
+        "page": "https://dir.indiamart.com/impcat/fire-fighting-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/WG/GLADMIN-27562/fire-fighting-gloves-125x125.jpg"
+      },
+      {
+        "name": "Terry Glove",
+        "page": "https://dir.indiamart.com/impcat/terry-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/WU/GLADMIN-89952/terry-glove-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Chemical Resistant Glove",
+    "category_thumbnail": "http://3.imimg.com/data3/UN/PO/GLADMIN-89878/chemical-resistant-glove-125x125.jpg",
+    "items": [
+      {
+        "name": "Acid Resistant Gloves",
+        "page": "https://dir.indiamart.com/impcat/acid-resistant-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/HH/ID/GLADMIN-21237/acid-resistant-gloves-125x125.jpg"
+      },
+      {
+        "name": "Mechanic Work Gloves",
+        "page": "https://dir.indiamart.com/impcat/mechanic-work-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/HW/GLADMIN-115612/mechanic-work-gloves-125x125.jpg"
+      },
+      {
+        "name": "Alkali Resistant Glove",
+        "page": "https://dir.indiamart.com/impcat/alkali-resistant-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/LP/KW/GLADMIN-89870/alkali-resistant-glove-125x125.jpg"
+      },
+      {
+        "name": "Hypalon Gloves",
+        "page": "https://dir.indiamart.com/impcat/hypalon-gloves.html",
+        "thumbnail": "http://4.imimg.com/data4/RS/AD/GLADMIN-186462/hypalon-gloves-125x125.jpg"
+      },
+      {
+        "name": "Butyl Gloves",
+        "page": "https://dir.indiamart.com/impcat/butyl-gloves.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/RJ/GLADMIN-23959/butyl-gloves-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Coverall",
+    "category_thumbnail": "http://4.imimg.com/data4/CL/IV/GLADMIN-181617/industrial-coverall-125x125.jpg",
+    "items": [
+      {
+        "name": "Cotton Coverall",
+        "page": "https://dir.indiamart.com/impcat/cotton-coverall.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/AN/GLADMIN-89883/cotton-coverall-125x125.jpg"
+      },
+      {
+        "name": "Mechanic Coverall",
+        "page": "https://dir.indiamart.com/impcat/mechanic-overall.html",
+        "thumbnail": "http://3.imimg.com/data3/JX/TI/GLADMIN-85077/mechanic-overall-125x125.jpg"
+      },
+      {
+        "name": "Anti Static Coverall",
+        "page": "https://dir.indiamart.com/impcat/anti-static-coverall.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/JM/GLADMIN-129248/anti-static-coverall-125x125.jpg"
+      },
+      {
+        "name": "Industrial Raincoat",
+        "page": "https://dir.indiamart.com/impcat/industrial-raincoat.html",
+        "thumbnail": "http://5.imimg.com/data5/NU/EN/GLADMIN-2/industrial-raincoat-125x125.jpg"
+      },
+      {
+        "name": "Long Sleeve Coverall",
+        "page": "https://dir.indiamart.com/impcat/long-sleeve-coverall.html",
+        "thumbnail": "http://3.imimg.com/data3/AM/DH/GLADMIN-110424/long-sleeve-coverall-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Reusable Respirator",
+    "category_thumbnail": "http://5.imimg.com/data5/CZ/UZ/GN/GLADMIN-73289/reusable-respirator-125x125.jpg",
+    "items": [
+      {
+        "name": "Half Face Reusable Respirator",
+        "page": "https://dir.indiamart.com/impcat/half-face-reusable-respirator.html",
+        "thumbnail": "http://5.imimg.com/data5/ER/JX/XH/GLADMIN-73621/half-face-reusable-respirator-125x125.png"
+      },
+      {
+        "name": "Full Face Reusable Respirator",
+        "page": "https://dir.indiamart.com/impcat/full-face-reusable-respirator.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/374305634/UG/XE/HP/86676/full-face-reusable-respirator-125x125.jpg"
+      },
+      {
+        "name": "Acid Gas Cartridge",
+        "page": "https://dir.indiamart.com/impcat/acid-gas-cartridge.html",
+        "thumbnail": "http://5.imimg.com/data5/DA/WJ/IA/GLADMIN-76037/acid-gas-cartridge-125x125.jpg"
+      },
+      {
+        "name": "Respirator Cartridge Mask",
+        "page": "https://dir.indiamart.com/impcat/respirator-cartridge-mask.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/HR/GLADMIN-177399/respirator-cartridge-mask-125x125.jpg"
+      },
+      {
+        "name": "Karam Reusable Respirator Mask",
+        "page": "https://dir.indiamart.com/impcat/karam-safety-mask.html",
+        "thumbnail": "http://5.imimg.com/data5/PU/UG/KA/GLADMIN-73289/karam-safety-respirator-mask-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Safety Shields",
+    "category_thumbnail": "http://3.imimg.com/data3/MI/NU/GLADMIN-36693/safety-shields-125x125.jpg",
+    "items": [
+      {
+        "name": "Welding Shields",
+        "page": "https://dir.indiamart.com/impcat/welding-shields.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/KM/GLADMIN-156843/welding-shields-125x125.jpg"
+      },
+      {
+        "name": "Polycarbonate Shield",
+        "page": "https://dir.indiamart.com/impcat/polycarbonate-shield.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/DH/GLADMIN-90299/polycarbonate-shield-125x125.jpg"
+      },
+      {
+        "name": "Riot Shields",
+        "page": "https://dir.indiamart.com/impcat/riot-shields.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/TM/GLADMIN-36465/riot-shields-125x125.jpg"
+      },
+      {
+        "name": "Splash Shield",
+        "page": "https://dir.indiamart.com/impcat/splash-shield.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/GH/GLADMIN-17604/splash-shield-125x125.jpg"
+      },
+      {
+        "name": "Welding Hand Shield",
+        "page": "https://dir.indiamart.com/impcat/welding-hand-shield.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/DU/GLADMIN-144480/welding-hand-shield-125x125.jpg"
+      },
+      {
+        "name": "Ballistic Panels",
+        "page": "https://dir.indiamart.com/impcat/ballistic-panels.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/CA/GLADMIN-21836/ballistic-panels-125x125.jpg"
+      },
+      {
+        "name": "Sneeze Guard",
+        "page": "https://dir.indiamart.com/impcat/sneeze-guard.html",
+        "thumbnail": "http://5.imimg.com/data5/SO/YV/ZQ/GLADMIN-81953/sneeze-guard-125x125.jpg"
+      },
+      {
+        "name": "Head Shield",
+        "page": "https://dir.indiamart.com/impcat/head-shield.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/OD/GLADMIN-90295/head-shield-125x125.jpg"
+      },
+      {
+        "name": "Car Partition",
+        "page": "https://dir.indiamart.com/impcat/car-partition.html",
+        "thumbnail": "http://5.imimg.com/data5/BX/AU/FW/GLADMIN-81953/car-partition-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Protective Sleeves",
+    "category_thumbnail": "http://3.imimg.com/data3/BV/CI/GLADMIN-35894/protective-sleeves-125x125.jpg",
+    "items": [
+      {
+        "name": "Kevlar Sleeve",
+        "page": "https://dir.indiamart.com/impcat/kevlar-sleeve.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/EI/GLADMIN-90032/kevlar-sleeve-125x125.jpg"
+      },
+      {
+        "name": "Sleeve Protectors",
+        "page": "https://dir.indiamart.com/impcat/sleeve-protectors.html",
+        "thumbnail": "http://3.imimg.com/data3/HX/CT/GLADMIN-38044/sleeve-protectors-125x125.jpg"
+      },
+      {
+        "name": "Leather Sleeves",
+        "page": "https://dir.indiamart.com/impcat/leather-sleeves.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/QG/GLADMIN-11505/leather-sleeves-125x125.jpg"
+      },
+      {
+        "name": "Polypropylene Sleeve",
+        "page": "https://dir.indiamart.com/impcat/polypropylene-sleeve.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/OV/GLADMIN-80881/polypropylene-sleeve-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Safety Cap",
+    "category_thumbnail": "http://3.imimg.com/data3/TE/IC/GLADMIN-81085/safety-cap-125x125.jpg",
+    "items": [
+      {
+        "name": "Safety Bump Caps",
+        "page": "https://dir.indiamart.com/impcat/bump-caps.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/DP/GLADMIN-23669/bump-caps-125x125.jpg"
+      },
+      {
+        "name": "ESD Caps",
+        "page": "https://dir.indiamart.com/impcat/esd-cap.html",
+        "thumbnail": "http://4.imimg.com/data4/EK/UU/GLADMIN-2/esd-cap-125x125.jpg"
+      },
+      {
+        "name": "Industrial Caps",
+        "page": "https://dir.indiamart.com/impcat/industrial-caps.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/JS/GLADMIN-10985/industrial-caps-125x125.jpg"
+      },
+      {
+        "name": "Anti Static Cap",
+        "page": "https://dir.indiamart.com/impcat/anti-static-cap.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/NE/GLADMIN-132567/anti-static-cap-125x125.jpg"
+      },
+      {
+        "name": "Reflective Cap",
+        "page": "https://dir.indiamart.com/impcat/reflective-cap.html",
+        "thumbnail": "http://5.imimg.com/data5/QA/CH/GLADMIN-2/help2-778x600-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Hard Hats",
+    "category_thumbnail": "http://3.imimg.com/data3/AV/HK/GLADMIN-30097/hard-hats-125x125.jpg",
+    "items": [
+      {
+        "name": "Ratchet Hard Hat",
+        "page": "https://dir.indiamart.com/impcat/ratchet-hard-hat.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/ratchet-hard-hat-125x125.jpg"
+      },
+      {
+        "name": "Vented Hard Hats",
+        "page": "https://dir.indiamart.com/impcat/vented-hard-hats.html",
+        "thumbnail": "http://4.imimg.com/data4/OO/OO/GLADMIN-/vented-hard-hats-125x125.jpg"
+      },
+      {
+        "name": "Full Brim Hard Hat",
+        "page": "https://dir.indiamart.com/impcat/full-brim-hard-hat.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/full-brim-hard-hat-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Poly Glove",
+    "category_thumbnail": "http://3.imimg.com/data3/LC/UX/GLADMIN-90153/poly-glove-125x125.jpg",
+    "items": [
+      {
+        "name": "Polyester Glove",
+        "page": "https://dir.indiamart.com/impcat/polyester-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/GJ/PW/GLADMIN-89933/polyester-glove-125x125.jpg"
+      },
+      {
+        "name": "Poly Cotton Knitted Gloves",
+        "page": "https://dir.indiamart.com/impcat/poly-cotton-knitted-gloves.html",
+        "thumbnail": "http://5.imimg.com/data5/AR/BC/GLADMIN-2/poly-cotton-knitted-gloves1-125x125.jpg"
+      },
+      {
+        "name": "Polyamide Glove",
+        "page": "https://dir.indiamart.com/impcat/polyamide-glove.html",
+        "thumbnail": "http://3.imimg.com/data3/RC/SN/GLADMIN-89931/polyamide-glove-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Safety Goggles",
+    "category_thumbnail": "http://3.imimg.com/data3/VP/FD/MY-2/safety-goggles-125x125.jpg",
+    "items": [
+      {
+        "name": "Safety Glasses",
+        "page": "https://dir.indiamart.com/impcat/safety-glasses.html",
+        "thumbnail": "http://3.imimg.com/data3/LS/QT/MY-2/safety-glasses-125x125.jpg"
+      },
+      {
+        "name": "Protective Eyewear",
+        "page": "https://dir.indiamart.com/impcat/protective-eyewear.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/KE/MY-2/protective-eyewear-125x125.jpg"
+      },
+      {
+        "name": "Industrial Safety Glasses",
+        "page": "https://dir.indiamart.com/impcat/industrial-safety-glasses.html",
+        "thumbnail": "http://5.imimg.com/data5/PO/AN/GLADMIN-2/industrial-safety-glasses-125x125.jpg"
+      },
+      {
+        "name": "UV Goggles",
+        "page": "https://dir.indiamart.com/impcat/uv-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/NO/SB/KL/GLADMIN-56986/uv-goggles-125x125.jpg"
+      },
+      {
+        "name": "Laser Safety Goggles",
+        "page": "https://dir.indiamart.com/impcat/laser-safety-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/YD/VL/GLADMIN-2/laser-safety-goggles-125x125.jpg"
+      },
+      {
+        "name": "Chemical Splash Goggles",
+        "page": "https://dir.indiamart.com/impcat/chemical-splash-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/BY/KQ/GLADMIN-164414/chemical-splash-goggle-125x125.jpg"
+      },
+      {
+        "name": "Cleanroom Goggles",
+        "page": "https://dir.indiamart.com/impcat/autoclavable-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/EH/JO/GLADMIN-81462/autoclavable-goggles-125x125.jpg"
+      },
+      {
+        "name": "Lead Goggles",
+        "page": "https://dir.indiamart.com/impcat/lead-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/TY/XY/GLADMIN-2/lead-goggles-125x125.jpg"
+      },
+      {
+        "name": "Punk Goggles",
+        "page": "https://dir.indiamart.com/impcat/punk-goggles.html",
+        "thumbnail": "http://5.imimg.com/data5/QR/EN/ZM/GLADMIN-73379/punk-goggles-125x125.jpg"
+      },
+      {
+        "name": "Fire Safety Goggles",
+        "page": "https://dir.indiamart.com/impcat/fire-safety-goggles.html",
+        "thumbnail": "http://4.imimg.com/data4/YJ/IQ/GLADMIN-183739/fire-safety-goggles-125x125.jpg"
+      },
+      {
+        "name": "Disposable Safety Goggles",
+        "page": "https://dir.indiamart.com/impcat/disposable-safety-goggles.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/FP/GLADMIN-89747/disposable-safety-goggles-125x125.jpg"
+      },
+      {
+        "name": "Leather Cup Goggles",
+        "page": "https://dir.indiamart.com/impcat/leather-cup-goggles.html",
+        "thumbnail": "http://3.imimg.com/data3/YU/AW/GLADMIN-159443/leather-cup-goggles-125x125.jpg"
+      },
+      {
+        "name": "Heat Resistant Goggles",
+        "page": "https://dir.indiamart.com/impcat/heat-resistant-goggles.html",
+        "thumbnail": "http://3.imimg.com/data3/LT/AG/GLADMIN-150648/heat-resistant-goggles-125x125.jpg"
+      },
+      {
+        "name": "Lightweight Safety Spectacle",
+        "page": "https://dir.indiamart.com/impcat/lightweight-safety-spectacle.html",
+        "thumbnail": "http://3.imimg.com/data3/PU/KO/GLADMIN-94962/lightweight-safety-spectacle-125x125.jpg"
+      },
+      {
+        "name": "Over Spectacle",
+        "page": "https://dir.indiamart.com/impcat/over-spectacle.html",
+        "thumbnail": "http://4.imimg.com/data4/SA/IE/GLADMIN-183727/over-spectacle-125x125.jpg"
+      },
+      {
+        "name": "Dust Goggle",
+        "page": "https://dir.indiamart.com/impcat/dust-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/PW/XY/GLADMIN-94955/dust-goggle-125x125.jpg"
+      },
+      {
+        "name": "Construction Glasses",
+        "page": "https://dir.indiamart.com/impcat/construction-glasses.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/QD/GLADMIN-104979/construction-glasses-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Medical Caps",
+    "category_thumbnail": "http://3.imimg.com/data3/DJ/HW/GLADMIN-84446/medical-cap-125x125.jpg",
+    "items": [
+      {
+        "name": "Disposable Bouffant Cap",
+        "page": "https://dir.indiamart.com/impcat/disposable-bouffant-cap.html",
+        "thumbnail": "http://3.imimg.com/data3/CL/CS/GLADMIN-144502/disposable-bouffant-cap-125x125.jpg"
+      },
+      {
+        "name": "Disposable Cap",
+        "page": "https://dir.indiamart.com/impcat/disposable-cap.html",
+        "thumbnail": "http://3.imimg.com/data3/LA/LE/GLADMIN-126120/disposable-cap-125x125.jpg"
+      },
+      {
+        "name": "Surgical Caps",
+        "page": "https://dir.indiamart.com/impcat/surgical-caps.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/UL/GLADMIN-20916/surgical-caps-125x125.jpg"
+      },
+      {
+        "name": "Disposable Surgeon Cap",
+        "page": "https://dir.indiamart.com/impcat/disposable-surgeon-cap.html",
+        "thumbnail": "http://4.imimg.com/data4/IN/KE/GLADMIN-181934/disposable-surgeon-cap-125x125.jpg"
+      },
+      {
+        "name": "Disposable Hoods",
+        "page": "https://dir.indiamart.com/impcat/disposable-hoods.html",
+        "thumbnail": "http://3.imimg.com/data3/IX/MM/GLADMIN-164404/disposable-hoods-125x125.jpg"
+      },
+      {
+        "name": "Mob cap",
+        "page": "https://dir.indiamart.com/impcat/mob-cap.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/UP/GLADMIN-33159/mob-cap-125x125.jpg"
+      },
+      {
+        "name": "Cleanroom Hoods",
+        "page": "https://dir.indiamart.com/impcat/clean-room-hoods.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/TX/GLADMIN-24204/clean-room-hoods-125x125.jpg"
+      }
+    ]
+  }
+]

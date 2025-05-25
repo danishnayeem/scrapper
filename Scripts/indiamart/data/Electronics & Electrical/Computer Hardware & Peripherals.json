@@ -1,0 +1,2143 @@
+[
+  {
+    "category_name": "Computer Parts",
+    "category_thumbnail": "http://3.imimg.com/data3/AA/DY/GLADMIN-25643/computer-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Antminer",
+        "page": "https://dir.indiamart.com/impcat/antminer.html",
+        "thumbnail": "http://5.imimg.com/data5/TV/MJ/GLADMIN-2/antminer-125x125.jpg"
+      },
+      {
+        "name": "Motherboard",
+        "page": "https://dir.indiamart.com/impcat/motherboards.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/WS/GLADMIN-5254/motherboards-125x125.jpg"
+      },
+      {
+        "name": "Laptop Parts",
+        "page": "https://dir.indiamart.com/impcat/laptop-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/DT/GLADMIN-20941/laptop-parts-125x125.jpg"
+      },
+      {
+        "name": "Mining Rig",
+        "page": "https://dir.indiamart.com/impcat/mining-rig.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/ZK/CS/KV/81953/mining-rig-125x125.jpg"
+      },
+      {
+        "name": "Laptop Touchpad",
+        "page": "https://dir.indiamart.com/impcat/laptop-touchpad.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/FI/GLADMIN-155125/laptop-touchpad-125x125.jpg"
+      },
+      {
+        "name": "USB Adapter",
+        "page": "https://dir.indiamart.com/impcat/usb-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/XF/GLADMIN-40613/usb-adapter-125x125.jpg"
+      },
+      {
+        "name": "Laptop Panel",
+        "page": "https://dir.indiamart.com/impcat/laptop-panel.html",
+        "thumbnail": "http://5.imimg.com/data5/VI/DE/OJ/GLADMIN-72666/laptop-panel-125x125.png"
+      },
+      {
+        "name": "Computer SMPS",
+        "page": "https://dir.indiamart.com/impcat/computer-smps.html",
+        "thumbnail": "http://4.imimg.com/data4/EE/EE/GLADMIN-/computer-smps-125x125.jpg"
+      },
+      {
+        "name": "Computer Cabinets",
+        "page": "https://dir.indiamart.com/impcat/computer-cabinets.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/XO/GLADMIN-25735/computer-cabinets-125x125.jpg"
+      },
+      {
+        "name": "CPU Fan",
+        "page": "https://dir.indiamart.com/impcat/cpu-fan.html",
+        "thumbnail": "http://3.imimg.com/data3/OB/SU/GLADMIN-25506/cpu-fan-125x125.jpg"
+      },
+      {
+        "name": "Computer Power Supply",
+        "page": "https://dir.indiamart.com/impcat/computer-power-supply.html",
+        "thumbnail": "http://3.imimg.com/data3/EP/HS/GLADMIN-25646/computer-power-supply-125x125.jpg"
+      },
+      {
+        "name": "PCI Card",
+        "page": "https://dir.indiamart.com/impcat/pci-card.html",
+        "thumbnail": "http://3.imimg.com/data3/VB/RG/GLADMIN-34755/pci-card-125x125.jpg"
+      },
+      {
+        "name": "Display Cards",
+        "page": "https://dir.indiamart.com/impcat/display-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/PW/EQ/GLADMIN-26585/display-cards-125x125.jpg"
+      },
+      {
+        "name": "Computer Hardware",
+        "page": "https://dir.indiamart.com/impcat/computerparts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411624342/CQ/VM/ZE/91810/computer-hardware-125x125.jpg"
+      },
+      {
+        "name": "Computer UPS",
+        "page": "https://dir.indiamart.com/impcat/computer-ups.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/IN/GLADMIN-65162/computer-ups-125x125.jpg"
+      },
+      {
+        "name": "Analog Input Module",
+        "page": "https://dir.indiamart.com/impcat/analog-input-module.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/PF/GLADMIN-132561/analog-input-module-125x125.jpg"
+      },
+      {
+        "name": "USB Sound Card",
+        "page": "https://dir.indiamart.com/impcat/usb-sound-card.html",
+        "thumbnail": "http://3.imimg.com/data3/QX/TK/GLADMIN-40573/usb-sound-card-125x125.jpg"
+      },
+      {
+        "name": "USB Serial Converters",
+        "page": "https://dir.indiamart.com/impcat/usb-serial-converters.html",
+        "thumbnail": "http://4.imimg.com/data4/BQ/GD/GLADMIN-185085/usb-serial-converters-125x125.jpg"
+      },
+      {
+        "name": "Computer Peripherals",
+        "page": "https://dir.indiamart.com/impcat/computer-peripherals.html",
+        "thumbnail": "http://5.imimg.com/data5/FF/FF/GLADMIN-/a-img924-7175-zlbsq1-125x125.jpg"
+      },
+      {
+        "name": "Power Card",
+        "page": "https://dir.indiamart.com/impcat/power-card.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/JX/GLADMIN-35676/power-card-125x125.jpg"
+      },
+      {
+        "name": "CPU Heatsink",
+        "page": "https://dir.indiamart.com/impcat/cpu-heatsink.html",
+        "thumbnail": "http://3.imimg.com/data3/BP/UW/GLADMIN-105077/cpu-heatsink-125x125.jpg"
+      },
+      {
+        "name": "Computer Processor",
+        "page": "https://dir.indiamart.com/impcat/computer-processor.html",
+        "thumbnail": "http://3.imimg.com/data3/WM/UH/GLADMIN-25647/computer-processor-125x125.jpg"
+      },
+      {
+        "name": "Sound Cards",
+        "page": "https://dir.indiamart.com/impcat/sound-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/IU/GLADMIN-37401/sound-cards-125x125.jpg"
+      },
+      {
+        "name": "KVM Switches",
+        "page": "https://dir.indiamart.com/impcat/kvm-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/SG/GLADMIN-31385/kvm-switches-125x125.jpg"
+      },
+      {
+        "name": "PC Card Driver",
+        "page": "https://dir.indiamart.com/impcat/pc-card-driver.html",
+        "thumbnail": "http://3.imimg.com/data3/SV/KI/GLADMIN-111758/pc-card-driver-125x125.jpg"
+      },
+      {
+        "name": "USB Interface Controller",
+        "page": "https://dir.indiamart.com/impcat/usb-interface-controller.html",
+        "thumbnail": "http://5.imimg.com/data5/BX/QJ/GLADMIN-2/usb-interface-controller1-125x125.jpg"
+      },
+      {
+        "name": "Helium Miner",
+        "page": "https://dir.indiamart.com/impcat/helium-miner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/12/GN/YA/JU/81953/helium-miner-125x125.jpg"
+      },
+      {
+        "name": "Server Fan",
+        "page": "https://dir.indiamart.com/impcat/server-fan.html",
+        "thumbnail": "http://4.imimg.com/data4/JP/AV/GLADMIN-2/server-fan-125x125.jpg"
+      },
+      {
+        "name": "Input Output Cards",
+        "page": "https://dir.indiamart.com/impcat/input-output-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/QS/GLADMIN-30940/input-output-cards-125x125.jpg"
+      },
+      {
+        "name": "Digital Video Capture Card",
+        "page": "https://dir.indiamart.com/impcat/digital-video-capture-card.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/SY/GLADMIN-80238/digital-video-capture-card-125x125.jpg"
+      },
+      {
+        "name": "PC Stick",
+        "page": "https://dir.indiamart.com/impcat/pc-stick.html",
+        "thumbnail": "http://5.imimg.com/data5/KX/XY/FA/GLADMIN-56986/pc-stick-125x125.jpg"
+      },
+      {
+        "name": "Case Fan",
+        "page": "https://dir.indiamart.com/impcat/case-fan.html",
+        "thumbnail": "http://3.imimg.com/data3/EW/KP/GLADMIN-24465/case-fan-125x125.jpg"
+      },
+      {
+        "name": "SATA Card",
+        "page": "https://dir.indiamart.com/impcat/sata-card.html",
+        "thumbnail": "http://3.imimg.com/data3/PH/IY/GLADMIN-37504/sata-card-125x125.jpg"
+      },
+      {
+        "name": "Input Cards",
+        "page": "https://dir.indiamart.com/impcat/input-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/NF/GLADMIN-30938/input-cards-125x125.jpg"
+      },
+      {
+        "name": "RAID Controller",
+        "page": "https://dir.indiamart.com/impcat/raid-controller.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/EX/GLADMIN-36083/raid-controller-125x125.jpg"
+      },
+      {
+        "name": "Digital Card",
+        "page": "https://dir.indiamart.com/impcat/digital-card.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/MX/GLADMIN-80232/digital-card-125x125.jpg"
+      },
+      {
+        "name": "Digital Video Card",
+        "page": "https://dir.indiamart.com/impcat/digital-video-card.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/CK/GLADMIN-26232/digital-video-card-125x125.jpg"
+      },
+      {
+        "name": "Computer Chip",
+        "page": "https://dir.indiamart.com/impcat/computer-chip.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/GQ/GLADMIN-80157/computer-chip-125x125.jpg"
+      },
+      {
+        "name": "Digital IO Board",
+        "page": "https://dir.indiamart.com/impcat/digital-io-board.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/KV/GLADMIN-132618/digital-io-board-125x125.jpg"
+      },
+      {
+        "name": "PC Card",
+        "page": "https://dir.indiamart.com/impcat/pc-card.html",
+        "thumbnail": "http://3.imimg.com/data3/DL/QG/GLADMIN-65216/pc-card-125x125.jpg"
+      },
+      {
+        "name": "Communication Cards",
+        "page": "https://dir.indiamart.com/impcat/communication-cards.html",
+        "thumbnail": "http://4.imimg.com/data4/NW/UL/GLADMIN-25444/communication-cards-125x125.jpg"
+      },
+      {
+        "name": "ATX Power Supply",
+        "page": "https://dir.indiamart.com/impcat/atx-power-supply.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/LL/GLADMIN-22170/atx-power-supply-125x125.jpg"
+      },
+      {
+        "name": "Analog IO Card",
+        "page": "https://dir.indiamart.com/impcat/analog-io-card.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/SO/GLADMIN-132562/analog-io-card-125x125.jpg"
+      },
+      {
+        "name": "Frame Grabbers",
+        "page": "https://dir.indiamart.com/impcat/frame-grabbers.html",
+        "thumbnail": "http://3.imimg.com/data3/HX/AJ/GLADMIN-28939/frame-grabbers-125x125.jpg"
+      },
+      {
+        "name": "PCMCIA Card",
+        "page": "https://dir.indiamart.com/impcat/pcmcia-card.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/AC/GLADMIN-34760/pcmcia-card-125x125.jpg"
+      },
+      {
+        "name": "Optical Disc Drive",
+        "page": "https://dir.indiamart.com/impcat/optical-disc-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/JW/GLADMIN-64997/optical-disc-drive-125x125.jpg"
+      },
+      {
+        "name": "Video Cards",
+        "page": "https://dir.indiamart.com/impcat/video-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/MW/GLADMIN-40686/video-cards-125x125.jpg"
+      },
+      {
+        "name": "PC Controller",
+        "page": "https://dir.indiamart.com/impcat/pc-controller.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/1/HC/HV/XD/20683/pc-controller-125x125.jpg"
+      },
+      {
+        "name": "Dual Processor",
+        "page": "https://dir.indiamart.com/impcat/dual-processor.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/GK/GLADMIN-26967/dual-processor-125x125.jpg"
+      },
+      {
+        "name": "Audio Card",
+        "page": "https://dir.indiamart.com/impcat/audio-card.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/VB/GLADMIN-22175/audio-card-125x125.jpg"
+      },
+      {
+        "name": "PRI Card",
+        "page": "https://dir.indiamart.com/impcat/pri-card.html",
+        "thumbnail": "http://4.imimg.com/data4/TH/XD/GLADMIN-183356/pri-card-125x125.jpg"
+      },
+      {
+        "name": "Analog Input Card",
+        "page": "https://dir.indiamart.com/impcat/analog-input-card.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/VC/GLADMIN-120892/analog-input-card-125x125.jpg"
+      },
+      {
+        "name": "Computer Sockets",
+        "page": "https://dir.indiamart.com/impcat/computer-sockets.html",
+        "thumbnail": "http://5.imimg.com/data5/XQ/PM/GLADMIN-2/computer-sockets-125x125.jpg"
+      },
+      {
+        "name": "Desktop Virtualization Kit",
+        "page": "https://dir.indiamart.com/impcat/desktop-virtualization-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/CJ/GLADMIN-163788/desktop-virtualization-kit-125x125.jpg"
+      },
+      {
+        "name": "PCI Firewire Card",
+        "page": "https://dir.indiamart.com/impcat/pci-firewire-card.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/PW/GLADMIN-5797/pci-firewire-card-125x125.jpg"
+      },
+      {
+        "name": "CD ROM Drive",
+        "page": "https://dir.indiamart.com/impcat/cd-rom-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/UX/FL/GLADMIN-24608/cd-rom-drive-125x125.jpg"
+      },
+      {
+        "name": "Expansion Boards",
+        "page": "https://dir.indiamart.com/impcat/expansion-boards.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/QI/GLADMIN-28108/expansion-boards-125x125.jpg"
+      },
+      {
+        "name": "Laptop Video Card",
+        "page": "https://dir.indiamart.com/impcat/laptop-video-card.html",
+        "thumbnail": "http://4.imimg.com/data4/EW/AW/GLADMIN-65299/laptop-video-card-125x125.jpg"
+      },
+      {
+        "name": "Firewire Card",
+        "page": "https://dir.indiamart.com/impcat/firewire-card.html",
+        "thumbnail": "http://3.imimg.com/data3/ME/PA/GLADMIN-108343/firewire-card-125x125.jpg"
+      },
+      {
+        "name": "ATA Connector",
+        "page": "https://dir.indiamart.com/impcat/ata-connector.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/IK/GLADMIN-22150/ata-connector-125x125.jpg"
+      },
+      {
+        "name": "Computer Memory",
+        "page": "https://dir.indiamart.com/impcat/computer-memory-card.html",
+        "thumbnail": "http://3.imimg.com/data3/RI/RJ/GLADMIN-25634/computer-memory-card-125x125.jpg"
+      },
+      {
+        "name": "Computer Audio Card",
+        "page": "https://dir.indiamart.com/impcat/computer-audio-card.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/SQ/GLADMIN-45902/computer-audio-card-125x125.jpg"
+      },
+      {
+        "name": "Mini PCI Express",
+        "page": "https://dir.indiamart.com/impcat/mini-pci-express.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/IG/GLADMIN-111566/mini-pci-express-125x125.jpg"
+      },
+      {
+        "name": "Computer Room Equipment",
+        "page": "https://dir.indiamart.com/impcat/computer-room-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/KM/YL/GLADMIN-25650/computer-room-equipment-125x125.jpg"
+      },
+      {
+        "name": "PCI Video Card",
+        "page": "https://dir.indiamart.com/impcat/pci-video-card.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/IO/GLADMIN-34758/pci-video-card-125x125.jpg"
+      },
+      {
+        "name": "Communications Boards",
+        "page": "https://dir.indiamart.com/impcat/communications-boards.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/XM/GLADMIN-25446/communications-boards-125x125.jpg"
+      },
+      {
+        "name": "Fan Tray",
+        "page": "https://dir.indiamart.com/impcat/fan-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/SL/GLADMIN-65169/fan-tray-125x125.jpg"
+      },
+      {
+        "name": "SATA RAID Controller",
+        "page": "https://dir.indiamart.com/impcat/sata-raid-controller.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/DI/GLADMIN-37071/sata-raid-controller-125x125.jpg"
+      },
+      {
+        "name": "Compact Embedded IPCs",
+        "page": "https://dir.indiamart.com/impcat/compact-embedded-ipcs.html",
+        "thumbnail": "http://4.imimg.com/data4/YO/FC/GLADMIN-132605/compact-embedded-ipcs-125x125.jpg"
+      },
+      {
+        "name": "In Circuit Emulator",
+        "page": "https://dir.indiamart.com/impcat/in-circuit-emulator.html",
+        "thumbnail": "http://3.imimg.com/data3/OU/PE/GLADMIN-167150/in-circuit-emulator-125x125.jpg"
+      },
+      {
+        "name": "Optical Drives",
+        "page": "https://dir.indiamart.com/impcat/magneto-optical-drives.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/JL/GLADMIN-32452/magneto-optical-drives-125x125.jpg"
+      },
+      {
+        "name": "Computer PCB",
+        "page": "https://dir.indiamart.com/impcat/computer-pcb.html",
+        "thumbnail": "http://4.imimg.com/data4/HM/IW/GLADMIN-183073/computer-pcb-125x125.png"
+      },
+      {
+        "name": "Computer Terminals",
+        "page": "https://dir.indiamart.com/impcat/computer-terminals.html",
+        "thumbnail": "http://3.imimg.com/data3/FW/NG/GLADMIN-118464/computer-terminals-125x125.jpg"
+      },
+      {
+        "name": "Computer Video Interfaces",
+        "page": "https://dir.indiamart.com/impcat/computer-video-interfaces.html",
+        "thumbnail": "http://3.imimg.com/data3/IE/DT/GLADMIN-25662/computer-video-interfaces-125x125.jpg"
+      },
+      {
+        "name": "Analog Switch",
+        "page": "https://dir.indiamart.com/impcat/analog-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/QO/MY-2/analog-switch-125x125.jpg"
+      },
+      {
+        "name": "RS232 Adapter",
+        "page": "https://dir.indiamart.com/impcat/rs232-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/VA/GLADMIN-45907/rs232-adapter-125x125.jpg"
+      },
+      {
+        "name": "PCI Extender Boards",
+        "page": "https://dir.indiamart.com/impcat/pci-extender-boards.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/OW/GLADMIN-114284/pci-extender-boards-125x125.jpg"
+      },
+      {
+        "name": "RS232 Serial Card",
+        "page": "https://dir.indiamart.com/impcat/rs232-serial-card.html",
+        "thumbnail": "http://3.imimg.com/data3/VH/CY/GLADMIN-36926/rs232-serial-card-125x125.jpg"
+      },
+      {
+        "name": "Serial Port Card",
+        "page": "https://dir.indiamart.com/impcat/serial-port-card.html",
+        "thumbnail": "http://3.imimg.com/data3/UR/OS/GLADMIN-81131/serial-port-card-125x125.jpg"
+      },
+      {
+        "name": "PCI Communication Board",
+        "page": "https://dir.indiamart.com/impcat/pci-communication-board.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/VM/GLADMIN-132738/pci-communication-board-125x125.jpg"
+      },
+      {
+        "name": "Chipset Coolers",
+        "page": "https://dir.indiamart.com/impcat/chipset-coolers.html",
+        "thumbnail": "http://3.imimg.com/data3/DN/TW/GLADMIN-24830/chipset-coolers-125x125.jpg"
+      },
+      {
+        "name": "Video Compression Card",
+        "page": "https://dir.indiamart.com/impcat/video-compression-card.html",
+        "thumbnail": "http://3.imimg.com/data3/SS/UF/GLADMIN-40689/video-compression-card-125x125.jpg"
+      },
+      {
+        "name": "CAT5 KVM Switches",
+        "page": "https://dir.indiamart.com/impcat/cat5-kvm-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/RI/GLADMIN-104227/cat5-kvm-switches-125x125.jpg"
+      },
+      {
+        "name": "Fibre Channel Cards",
+        "page": "https://dir.indiamart.com/impcat/fibre-channel-cards.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/FP/GLADMIN-27434/fibre-channel-cards-125x125.jpg"
+      },
+      {
+        "name": "Multi IO Card",
+        "page": "https://dir.indiamart.com/impcat/multi-io-card.html",
+        "thumbnail": "http://3.imimg.com/data3/LY/OT/GLADMIN-111648/multi-io-card-125x125.jpg"
+      },
+      {
+        "name": "Gang Programmer",
+        "page": "https://dir.indiamart.com/impcat/gang-programmer.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/CW/GLADMIN-166874/gang-programmer-125x125.jpg"
+      },
+      {
+        "name": "ATA RAID Controller",
+        "page": "https://dir.indiamart.com/impcat/ata-raid-controller.html",
+        "thumbnail": "http://3.imimg.com/data3/JB/BT/GLADMIN-22151/ata-raid-controller-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Motherboard",
+    "category_thumbnail": "http://3.imimg.com/data3/PK/WS/GLADMIN-5254/motherboards-125x125.jpg",
+    "items": [
+      {
+        "name": "LED TV Motherboard",
+        "page": "https://dir.indiamart.com/impcat/led-tv-motherboard.html",
+        "thumbnail": "http://5.imimg.com/data5/DV/CK/MQ/GLADMIN-76037/led-tv-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Laptop Motherboard",
+        "page": "https://dir.indiamart.com/impcat/laptop-motherboard.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/VD/GLADMIN-20945/laptop-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Computer Motherboard",
+        "page": "https://dir.indiamart.com/impcat/computer-motherboard.html",
+        "thumbnail": "http://4.imimg.com/data4/KJ/JC/GLADMIN-2/computer-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Motherboard Scrap",
+        "page": "https://dir.indiamart.com/impcat/motherboard-scrap.html",
+        "thumbnail": "http://3.imimg.com/data3/GJ/NQ/GLADMIN-158654/motherboard-scrap-125x125.jpg"
+      },
+      {
+        "name": "Television Motherboard",
+        "page": "https://dir.indiamart.com/impcat/television-motherboard.html",
+        "thumbnail": "http://5.imimg.com/data5/XY/DX/SO/GLADMIN-68155/television-motherboard-125x125.JPG"
+      },
+      {
+        "name": "Gaming Motherboard",
+        "page": "https://dir.indiamart.com/impcat/gaming-motherboard.html",
+        "thumbnail": "http://5.imimg.com/data5/BB/BB/GLADMIN-/gaming-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Single Board Computers",
+        "page": "https://dir.indiamart.com/impcat/single-board-computers.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/WN/GLADMIN-37899/single-board-computers-125x125.jpg"
+      },
+      {
+        "name": "Industrial Motherboard",
+        "page": "https://dir.indiamart.com/impcat/industrial-motherboard.html",
+        "thumbnail": "http://5.imimg.com/data5/MR/EB/RH/GLADMIN-72666/industrial-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Server Motherboards",
+        "page": "https://dir.indiamart.com/impcat/server-motherboards.html",
+        "thumbnail": "http://4.imimg.com/data4/EA/BE/GLADMIN-2/server-motherboards-125x125.jpg"
+      },
+      {
+        "name": "Used Motherboard",
+        "page": "https://dir.indiamart.com/impcat/used-motherboard.html",
+        "thumbnail": "http://4.imimg.com/data4/QY/TI/GLADMIN-2/used-motherboard-125x125.jpg"
+      },
+      {
+        "name": "ATX Motherboard",
+        "page": "https://dir.indiamart.com/impcat/atx-motherboard.html",
+        "thumbnail": "http://5.imimg.com/data5/RH/UE/GLADMIN-2/ii-generation-atx-motherboard-500x500-125x125.jpg"
+      },
+      {
+        "name": "Mini ITX Motherboards",
+        "page": "https://dir.indiamart.com/impcat/mini-itx-motherboards.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/TW/GLADMIN-178039/mini-itx-motherboards-125x125.jpg"
+      },
+      {
+        "name": "Riser Card",
+        "page": "https://dir.indiamart.com/impcat/riser-card.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/CS/JK/DS/81953/riser-card-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Computer Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/AX/IR/GLADMIN-3962/computer-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Laptop Stands",
+        "page": "https://dir.indiamart.com/impcat/laptop-stands.html",
+        "thumbnail": "http://3.imimg.com/data3/KR/WY/GLADMIN-43854/laptop-stands-125x125.jpg"
+      },
+      {
+        "name": "Mouse Pads",
+        "page": "https://dir.indiamart.com/impcat/mouse-pads.html",
+        "thumbnail": "http://3.imimg.com/data3/UU/IR/GLADMIN-33617/mouse-pads-125x125.jpg"
+      },
+      {
+        "name": "Laptop Table",
+        "page": "https://dir.indiamart.com/impcat/laptop-table.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/ML/GLADMIN-145580/laptop-table-125x125.jpg"
+      },
+      {
+        "name": "External Hard Drive",
+        "page": "https://dir.indiamart.com/impcat/external-hard-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/MO/GLADMIN-28140/external-hard-drive-125x125.jpg"
+      },
+      {
+        "name": "Laptop Accessories",
+        "page": "https://dir.indiamart.com/impcat/laptop-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/OV/LO/GLADMIN-108384/laptop-accessories-125x125.jpg"
+      },
+      {
+        "name": "Software Boxes",
+        "page": "https://dir.indiamart.com/impcat/software-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/UM/SA/GLADMIN-129193/software-boxes-125x125.jpg"
+      },
+      {
+        "name": "Cable Manager",
+        "page": "https://dir.indiamart.com/impcat/cable-manager.html",
+        "thumbnail": "http://4.imimg.com/data4/XL/VR/GLADMIN-2/cable-manager-125x125.jpg"
+      },
+      {
+        "name": "Laptop Charger",
+        "page": "https://dir.indiamart.com/impcat/laptop-charger.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/ML/GLADMIN-65289/laptop-charger-125x125.jpg"
+      },
+      {
+        "name": "Computer Speakers",
+        "page": "https://dir.indiamart.com/impcat/computer-speakers.html",
+        "thumbnail": "http://5.imimg.com/data5/OF/TA/GLADMIN-2/computer-speakers-125x125.jpg"
+      },
+      {
+        "name": "Webcam",
+        "page": "https://dir.indiamart.com/impcat/web-camera.html",
+        "thumbnail": "http://3.imimg.com/data3/QX/EG/GLADMIN-40964/web-camera-125x125.jpg"
+      },
+      {
+        "name": "CPU Holders",
+        "page": "https://dir.indiamart.com/impcat/cpu-holders.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/CK/GLADMIN-25507/cpu-holders-125x125.jpg"
+      },
+      {
+        "name": "CPU Trolley",
+        "page": "https://dir.indiamart.com/impcat/cpu-trolley.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/RW/KD/YN/49660/cpu-trolley-125x125.webp"
+      },
+      {
+        "name": "Redundant Power Supply",
+        "page": "https://dir.indiamart.com/impcat/redundant-power-supply.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/UC/GLADMIN-36262/redundant-power-supply-125x125.jpg"
+      },
+      {
+        "name": "PVC Cable Manager",
+        "page": "https://dir.indiamart.com/impcat/pvc-cable-manager.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/GC/GS/GLADMIN-68087/pvc-cable-manager-125x125.jpeg"
+      },
+      {
+        "name": "Laptop Security Locks",
+        "page": "https://dir.indiamart.com/impcat/laptop-security-locks.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/MO/GLADMIN-161730/laptop-security-locks-125x125.jpg"
+      },
+      {
+        "name": "Computer Carts",
+        "page": "https://dir.indiamart.com/impcat/computer-carts.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/KV/GLADMIN-25740/computer-carts-125x125.jpg"
+      },
+      {
+        "name": "Computer Headsets",
+        "page": "https://dir.indiamart.com/impcat/computer-headsets.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/CG/GLADMIN-25625/computer-headsets-125x125.jpg"
+      },
+      {
+        "name": "Type C Dock",
+        "page": "https://dir.indiamart.com/impcat/type-c-dock.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/FP/VB/PR/81953/type-c-dock-125x125.jpg"
+      },
+      {
+        "name": "Computer Cable Manager",
+        "page": "https://dir.indiamart.com/impcat/computer-cable-manager.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/VS/GLADMIN-137560/computer-cable-manager-125x125.jpg"
+      },
+      {
+        "name": "Computer Adapter",
+        "page": "https://dir.indiamart.com/impcat/computer-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/MS/HA/GLADMIN-25731/computer-adapter-125x125.jpg"
+      },
+      {
+        "name": "USB Gadgets",
+        "page": "https://dir.indiamart.com/impcat/usb-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/HA/GLADMIN-129899/usb-accessories-125x125.jpg"
+      },
+      {
+        "name": "Keyboard Accessories",
+        "page": "https://dir.indiamart.com/impcat/keyboard-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/FY/NJ/GLADMIN-108381/keyboard-accessories-125x125.jpg"
+      },
+      {
+        "name": "CD Cases",
+        "page": "https://dir.indiamart.com/impcat/cd-cases.html",
+        "thumbnail": "http://3.imimg.com/data3/CA/OQ/GLADMIN-24598/cd-cases-125x125.jpg"
+      },
+      {
+        "name": "VGA Switcher",
+        "page": "https://dir.indiamart.com/impcat/vga-switcher.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/VJ/GLADMIN-39053/vga-switcher-125x125.jpg"
+      },
+      {
+        "name": "Water Block",
+        "page": "https://dir.indiamart.com/impcat/water-block.html",
+        "thumbnail": "http://3.imimg.com/data3/KI/EU/GLADMIN-84127/water-block-125x125.jpg"
+      },
+      {
+        "name": "Computer Stand",
+        "page": "https://dir.indiamart.com/impcat/computer-stand.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/FS/GLADMIN-25655/computer-stand-125x125.jpg"
+      },
+      {
+        "name": "Serial Port",
+        "page": "https://dir.indiamart.com/impcat/serial-port.html",
+        "thumbnail": "http://3.imimg.com/data3/RB/MU/GLADMIN-37968/serial-port-125x125.jpg"
+      },
+      {
+        "name": "Computer Cable Lock",
+        "page": "https://dir.indiamart.com/impcat/computer-cable-lock.html",
+        "thumbnail": "http://3.imimg.com/data3/YI/VU/GLADMIN-25736/computer-cable-lock-125x125.jpg"
+      },
+      {
+        "name": "Monitor Accessories",
+        "page": "https://dir.indiamart.com/impcat/monitor-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/IE/CQ/GLADMIN-65304/monitor-accessories-125x125.jpg"
+      },
+      {
+        "name": "Hard Drive Accessories",
+        "page": "https://dir.indiamart.com/impcat/hard-drive-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/WA/VE/GLADMIN-105385/hard-drive-accessories-125x125.jpg"
+      },
+      {
+        "name": "Computer Microphone",
+        "page": "https://dir.indiamart.com/impcat/computer-microphone.html",
+        "thumbnail": "http://3.imimg.com/data3/EX/UP/GLADMIN-13326/computer-microphone-125x125.jpg"
+      },
+      {
+        "name": "Optical Disc",
+        "page": "https://dir.indiamart.com/impcat/optical-disc.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/OS/GLADMIN-65213/optical-disc-125x125.jpg"
+      },
+      {
+        "name": "Notebook Lock",
+        "page": "https://dir.indiamart.com/impcat/notebook-lock.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/IG/GLADMIN-32913/notebook-lock-125x125.jpg"
+      },
+      {
+        "name": "Pointing Device",
+        "page": "https://dir.indiamart.com/impcat/pointing-device.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/LU/GLADMIN-68350/pointing-device-125x125.jpg"
+      },
+      {
+        "name": "Digital Interface Accessories",
+        "page": "https://dir.indiamart.com/impcat/digital-interface-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/KJ/GLADMIN-110012/digital-interface-accessories-125x125.jpg"
+      },
+      {
+        "name": "Computer Holder",
+        "page": "https://dir.indiamart.com/impcat/computer-holder.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/CF/GLADMIN-87956/computer-holder-125x125.jpg"
+      },
+      {
+        "name": "RS232 Interface",
+        "page": "https://dir.indiamart.com/impcat/rs232-interface.html",
+        "thumbnail": "http://3.imimg.com/data3/UU/SA/GLADMIN-36924/rs232-interface-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "USB Gadgets",
+    "category_thumbnail": "http://3.imimg.com/data3/OL/HA/GLADMIN-129899/usb-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "USB Hub",
+        "page": "https://dir.indiamart.com/impcat/usb-hub.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/CV/GLADMIN-40617/usb-hub-125x125.jpg"
+      },
+      {
+        "name": "Sim Card Dongle",
+        "page": "https://dir.indiamart.com/impcat/sim-card-dongle.html",
+        "thumbnail": "http://3.imimg.com/data3/CV/OD/GLADMIN-136966/sim-card-dongle-125x125.jpg"
+      },
+      {
+        "name": "USB LED Light",
+        "page": "https://dir.indiamart.com/impcat/usb-led-light.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/WE/GLADMIN-40557/usb-led-light-125x125.jpg"
+      },
+      {
+        "name": "Wireless USB Adapter",
+        "page": "https://dir.indiamart.com/impcat/wireless-usb-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/QG/GLADMIN-41334/wireless-usb-adapter-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Dongle",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-dongle.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/RL/GLADMIN-98696/bluetooth-dongle-125x125.jpg"
+      },
+      {
+        "name": "USB Bluetooth Adapter",
+        "page": "https://dir.indiamart.com/impcat/usb-bluetooth-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/FO/GLADMIN-40536/usb-bluetooth-adapter-125x125.jpg"
+      },
+      {
+        "name": "USB Port",
+        "page": "https://dir.indiamart.com/impcat/usb-port.html",
+        "thumbnail": "http://3.imimg.com/data3/SO/PT/GLADMIN-40568/usb-port-125x125.jpg"
+      },
+      {
+        "name": "HDD Enclosure",
+        "page": "https://dir.indiamart.com/impcat/hdd-enclosure.html",
+        "thumbnail": "http://3.imimg.com/data3/WA/ET/GLADMIN-30136/hdd-enclosure-125x125.jpg"
+      },
+      {
+        "name": "Software Protection Dongle",
+        "page": "https://dir.indiamart.com/impcat/software-protection-dongle.html",
+        "thumbnail": "http://3.imimg.com/data3/WV/RI/GLADMIN-153381/software-protection-dongle-125x125.jpg"
+      },
+      {
+        "name": "External DVD Drive",
+        "page": "https://dir.indiamart.com/impcat/external-dvd-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/EC/GLADMIN-65167/external-dvd-drive-125x125.jpg"
+      },
+      {
+        "name": "USB Controller",
+        "page": "https://dir.indiamart.com/impcat/usb-controller.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/CU/GLADMIN-40542/usb-controller-125x125.jpg"
+      },
+      {
+        "name": "USB Plasma Ball",
+        "page": "https://dir.indiamart.com/impcat/usb-plasma-ball.html",
+        "thumbnail": "http://4.imimg.com/data4/GG/GG/GLADMIN-/usb-plasma-ball-125x125.jpg"
+      },
+      {
+        "name": "Wireless Adapter",
+        "page": "https://dir.indiamart.com/impcat/wireless-adapter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411778554/QQ/ZS/UC/91810/wireless-adapter-125x125.jpg"
+      },
+      {
+        "name": "Display Adapter",
+        "page": "https://dir.indiamart.com/impcat/display-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/VM/GLADMIN-45931/display-adapter-125x125.jpg"
+      },
+      {
+        "name": "USB Serial Adapter",
+        "page": "https://dir.indiamart.com/impcat/usb-serial-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/QY/NN/GLADMIN-40572/usb-serial-adapter-125x125.jpg"
+      },
+      {
+        "name": "USB PCI Card",
+        "page": "https://dir.indiamart.com/impcat/usb-pci-card.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/TC/GLADMIN-65232/usb-pci-card-125x125.jpg"
+      },
+      {
+        "name": "USB Interface Converter",
+        "page": "https://dir.indiamart.com/impcat/usb-interface-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/SC/GLADMIN-165503/usb-interface-converter-125x125.jpg"
+      },
+      {
+        "name": "3G Dongles",
+        "page": "https://dir.indiamart.com/impcat/3g-dongles.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/YB/GLADMIN-156175/3g-dongles-125x125.jpg"
+      },
+      {
+        "name": "USB Reader",
+        "page": "https://dir.indiamart.com/impcat/usb-reader.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/DH/GLADMIN-40571/usb-reader-125x125.jpg"
+      },
+      {
+        "name": "USB Cable Adapter",
+        "page": "https://dir.indiamart.com/impcat/usb-cable-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/YS/HS/GLADMIN-84517/usb-cable-adapter-125x125.jpg"
+      },
+      {
+        "name": "Audio USB",
+        "page": "https://dir.indiamart.com/impcat/audio-usb.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/WH/GLADMIN-114255/audio-usb-125x125.jpg"
+      },
+      {
+        "name": "Portable USB Kit",
+        "page": "https://dir.indiamart.com/impcat/portable-usb-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/SS/GLADMIN-111793/portable-usb-kit-125x125.jpg"
+      },
+      {
+        "name": "Computer Bluetooth Device",
+        "page": "https://dir.indiamart.com/impcat/computer-bluetooth-device.html",
+        "thumbnail": "http://3.imimg.com/data3/AT/PK/GLADMIN-134093/computer-bluetooth-device-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Computer Keyboard",
+    "category_thumbnail": "http://3.imimg.com/data3/OA/RM/GLADMIN-65160/computer-keyboard-125x125.jpg",
+    "items": [
+      {
+        "name": "Gaming Keyboard",
+        "page": "https://dir.indiamart.com/impcat/gaming-keyboard.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/gaming-keyboard-125x125.jpg"
+      },
+      {
+        "name": "USB Keyboard",
+        "page": "https://dir.indiamart.com/impcat/usb-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/KR/KF/GLADMIN-19840/usb-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Wireless Keyboard",
+        "page": "https://dir.indiamart.com/impcat/wireless-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/WF/PQ/GLADMIN-20193/wireless-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Keyboard",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/PT/HC/GLADMIN-14635/bluetooth-keyboard-125x125.png"
+      },
+      {
+        "name": "Mini Computer Keyboard",
+        "page": "https://dir.indiamart.com/impcat/mini-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/CW/CU/GLADMIN-32789/mini-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "page": "https://dir.indiamart.com/impcat/mechanical-keyboard.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318700340/QX/PR/AY/96317/mechanical-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Tablet Keyboard",
+        "page": "https://dir.indiamart.com/impcat/tablet-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/UF/GLADMIN-160139/tablet-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Keyboard Controller",
+        "page": "https://dir.indiamart.com/impcat/keyboard-controller.html",
+        "thumbnail": "http://3.imimg.com/data3/KH/QS/GLADMIN-31278/keyboard-controller-125x125.jpg"
+      },
+      {
+        "name": "Multimedia Keyboard",
+        "page": "https://dir.indiamart.com/impcat/multimedia-keyboard.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/MM/GLADMIN-/a-img923-1496-xq5xia-125x125.jpg"
+      },
+      {
+        "name": "Metal Keyboard",
+        "page": "https://dir.indiamart.com/impcat/metal-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/QD/GLADMIN-87551/metal-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Programmable Keyboard",
+        "page": "https://dir.indiamart.com/impcat/programmable-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/WG/WP/GLADMIN-18347/programmable-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Flexible Membrane Keyboard",
+        "page": "https://dir.indiamart.com/impcat/flexible-membrane-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/IS/GLADMIN-145028/flexible-membrane-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Industrial Keyboard",
+        "page": "https://dir.indiamart.com/impcat/industrial-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/XA/GLADMIN-15682/industrial-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Laser Keyboard",
+        "page": "https://dir.indiamart.com/impcat/laser-keyboard.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/laser-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Pos Keyboard",
+        "page": "https://dir.indiamart.com/impcat/pos-keyboard.html",
+        "thumbnail": "http://5.imimg.com/data5/KS/UU/ZE/GLADMIN-68155/pos-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Sealed Keyboard",
+        "page": "https://dir.indiamart.com/impcat/sealed-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/UK/GLADMIN-17993/sealed-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Silicone Rubber Keyboard",
+        "page": "https://dir.indiamart.com/impcat/silicone-rubber-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/GT/HM/GLADMIN-145031/silicone-rubber-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Trackball Keyboard",
+        "page": "https://dir.indiamart.com/impcat/trackball-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/YQ/GLADMIN-40000/trackball-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Hybrid Membrane Keyboard",
+        "page": "https://dir.indiamart.com/impcat/hybrid-membrane-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/IO/GLADMIN-145029/hybrid-membrane-keyboard-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Monitor Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/IE/CQ/GLADMIN-65304/monitor-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Laptop Screens",
+        "page": "https://dir.indiamart.com/impcat/laptop-screens.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/WA/GLADMIN-20963/laptop-screens-125x125.jpg"
+      },
+      {
+        "name": "LCD Screen Protectors",
+        "page": "https://dir.indiamart.com/impcat/lcd-screen-protectors.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/DQ/GLADMIN-20697/lcd-screen-protectors-125x125.jpg"
+      },
+      {
+        "name": "USB Converter",
+        "page": "https://dir.indiamart.com/impcat/usb-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/PN/QY/GLADMIN-40543/usb-converter-125x125.jpg"
+      },
+      {
+        "name": "Monitor Stand",
+        "page": "https://dir.indiamart.com/impcat/monitor-stand.html",
+        "thumbnail": "http://5.imimg.com/data5/KT/WG/JI/GLADMIN-66783/monitor-stand-125x125.jpg"
+      },
+      {
+        "name": "Laptop Screen Guard",
+        "page": "https://dir.indiamart.com/impcat/laptop-screen-guard.html",
+        "thumbnail": "http://4.imimg.com/data4/VX/LA/GLADMIN-2/laptop-screen-guard-125x125.jpg"
+      },
+      {
+        "name": "VGA Converter",
+        "page": "https://dir.indiamart.com/impcat/vga-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/LU/HU/GLADMIN-39049/vga-converter-125x125.jpg"
+      },
+      {
+        "name": "Medical Monitor Stand",
+        "page": "https://dir.indiamart.com/impcat/medical-monitor-stand.html",
+        "thumbnail": "http://5.imimg.com/data5/PW/YY/UJ/GLADMIN-81462/medical-monitor-stand-125x125.jpg"
+      },
+      {
+        "name": "Computer Monitor Arms",
+        "page": "https://dir.indiamart.com/impcat/computer-monitor-arms.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/TV/GLADMIN-25635/computer-monitor-arms-125x125.jpg"
+      },
+      {
+        "name": "Computer Covers",
+        "page": "https://dir.indiamart.com/impcat/computer-covers.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/VK/GLADMIN-25616/computer-covers-125x125.jpg"
+      },
+      {
+        "name": "USB KVM Extender",
+        "page": "https://dir.indiamart.com/impcat/usb-kvm-extender.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/CH/GLADMIN-161738/usb-kvm-extender-125x125.jpg"
+      },
+      {
+        "name": "Transparency Film",
+        "page": "https://dir.indiamart.com/impcat/transparency-film.html",
+        "thumbnail": "http://3.imimg.com/data3/EQ/CO/GLADMIN-40314/transparency-film-125x125.jpg"
+      },
+      {
+        "name": "Monitor Privacy Screen",
+        "page": "https://dir.indiamart.com/impcat/monitor-privacy-screen.html",
+        "thumbnail": "http://3.imimg.com/data3/LC/YE/GLADMIN-113818/monitor-privacy-screen-125x125.jpg"
+      },
+      {
+        "name": "Computer Cleaning Kit",
+        "page": "https://dir.indiamart.com/impcat/computer-cleaning-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/JG/GLADMIN-25613/computer-cleaning-kit-125x125.jpg"
+      },
+      {
+        "name": "Anti Glare Screen",
+        "page": "https://dir.indiamart.com/impcat/anti-glare-screen.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/AY/GLADMIN-22788/anti-glare-screen-125x125.jpg"
+      },
+      {
+        "name": "VGA Splitter",
+        "page": "https://dir.indiamart.com/impcat/vga-splitter.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/PQ/GLADMIN-53282/vga-splitter-125x125.jpg"
+      },
+      {
+        "name": "Computer Screen Protector",
+        "page": "https://dir.indiamart.com/impcat/computer-screen-protector.html",
+        "thumbnail": "http://3.imimg.com/data3/AC/HC/GLADMIN-104960/computer-screen-protector-125x125.jpg"
+      },
+      {
+        "name": "Monitor Cable",
+        "page": "https://dir.indiamart.com/impcat/monitor-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/QP/XD/GLADMIN-33277/monitor-cable-125x125.jpg"
+      },
+      {
+        "name": "Monitor Adapter",
+        "page": "https://dir.indiamart.com/impcat/monitor-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/IA/GLADMIN-65586/monitor-adapter-125x125.jpg"
+      },
+      {
+        "name": "Anti Glare Screen Protector",
+        "page": "https://dir.indiamart.com/impcat/anti-glare-screen-protector.html",
+        "thumbnail": "http://3.imimg.com/data3/DR/EK/GLADMIN-98693/anti-glare-screen-protector-125x125.jpg"
+      },
+      {
+        "name": "USB Grabber",
+        "page": "https://dir.indiamart.com/impcat/usb-grabber.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/CU/GLADMIN-40553/usb-grabber-125x125.jpg"
+      },
+      {
+        "name": "USB Video Extender",
+        "page": "https://dir.indiamart.com/impcat/usb-video-extender.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/VA/GLADMIN-165661/usb-video-extender-125x125.jpg"
+      },
+      {
+        "name": "Computer Monitor Filters",
+        "page": "https://dir.indiamart.com/impcat/computer-monitor-filters.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/QG/GLADMIN-25636/computer-monitor-filters-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Laptop Body",
+    "category_thumbnail": "http://3.imimg.com/data3/RV/VK/GLADMIN-167342/laptop-body-125x125.jpg",
+    "items": [
+      {
+        "name": "Lenovo Laptop Body",
+        "page": "https://dir.indiamart.com/impcat/lenovo-laptop-body.html",
+        "thumbnail": "http://5.imimg.com/data5/UK/QL/CT/GLADMIN-72666/lenovo-laptop-body-125x125.png"
+      },
+      {
+        "name": "HP Laptop Body",
+        "page": "https://dir.indiamart.com/impcat/hp-laptop-body.html",
+        "thumbnail": "http://5.imimg.com/data5/DH/MW/ER/GLADMIN-72666/hp-laptop-body-125x125.jpg"
+      },
+      {
+        "name": "Dell Laptop Body",
+        "page": "https://dir.indiamart.com/impcat/dell-laptop-body.html",
+        "thumbnail": "http://5.imimg.com/data5/SZ/ZX/EE/GLADMIN-72666/dell-laptop-body-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Laptop Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/OV/LO/GLADMIN-108384/laptop-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Laptop Keyboard",
+        "page": "https://dir.indiamart.com/impcat/laptop-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/AS/GM/GLADMIN-20944/laptop-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Laptop Fans",
+        "page": "https://dir.indiamart.com/impcat/laptop-fans.html",
+        "thumbnail": "http://4.imimg.com/data4/JR/LR/GLADMIN-183683/laptop-fans-125x125.jpg"
+      },
+      {
+        "name": "Laptop Adapters",
+        "page": "https://dir.indiamart.com/impcat/laptop-adapters.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/SU/GLADMIN-20942/laptop-adapters-125x125.jpg"
+      },
+      {
+        "name": "Laptop Hinges",
+        "page": "https://dir.indiamart.com/impcat/laptop-hinges.html",
+        "thumbnail": "http://5.imimg.com/data5/QE/DI/GLADMIN-2/laptop-hinges-125x125.jpg"
+      },
+      {
+        "name": "Laptop Skin",
+        "page": "https://dir.indiamart.com/impcat/laptop-skin.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/WA/GLADMIN-65260/laptop-skin-125x125.jpg"
+      },
+      {
+        "name": "Laptop Cooling Pads",
+        "page": "https://dir.indiamart.com/impcat/laptop-cooling-pads.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/TA/GLADMIN-43855/laptop-cooling-pads-125x125.jpg"
+      },
+      {
+        "name": "Laptop AC Adapter",
+        "page": "https://dir.indiamart.com/impcat/laptop-ac-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/YJ/KF/GLADMIN-31531/laptop-ac-adapter-125x125.jpg"
+      },
+      {
+        "name": "Notebook Adapter",
+        "page": "https://dir.indiamart.com/impcat/notebook-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/BI/GLADMIN-45941/notebook-adapter-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Internal Hard Drive",
+    "category_thumbnail": "http://3.imimg.com/data3/PN/YT/GLADMIN-26566/disk-drive-125x125.jpg",
+    "items": [
+      {
+        "name": "Solid State Drives",
+        "page": "https://dir.indiamart.com/impcat/solid-state-drives.html",
+        "thumbnail": "http://3.imimg.com/data3/FT/HI/GLADMIN-37372/solid-state-drives-125x125.jpg"
+      },
+      {
+        "name": "SATA Hard Drive",
+        "page": "https://dir.indiamart.com/impcat/sata-hard-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/PU/CP/GLADMIN-37070/sata-hard-drive-125x125.jpg"
+      },
+      {
+        "name": "SATA Disk Drive",
+        "page": "https://dir.indiamart.com/impcat/sata-disk-drive.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/331354061/AA/JU/SF/96317/sata-disk-drive-125x125.jpg"
+      },
+      {
+        "name": "Laptop Hard Disk",
+        "page": "https://dir.indiamart.com/impcat/laptop-hard-disk.html",
+        "thumbnail": "http://3.imimg.com/data3/PD/DW/GLADMIN-20943/laptop-hard-disk-125x125.jpg"
+      },
+      {
+        "name": "SAS Hard Disk",
+        "page": "https://dir.indiamart.com/impcat/sas-hard-disk.html",
+        "thumbnail": "http://4.imimg.com/data4/FR/FF/GLADMIN-178534/sas-hard-disk-125x125.jpg"
+      },
+      {
+        "name": "SCSI Drive",
+        "page": "https://dir.indiamart.com/impcat/scsi-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/IC/GLADMIN-45908/scsi-drive-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Computer Monitors",
+    "category_thumbnail": "http://3.imimg.com/data3/AE/MU/GLADMIN-140/computer-monitors-125x125.jpg",
+    "items": [
+      {
+        "name": "Monitors",
+        "page": "https://dir.indiamart.com/impcat/monitors.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/SI/GLADMIN-105882/monitors-125x125.jpg"
+      },
+      {
+        "name": "LED Monitor",
+        "page": "https://dir.indiamart.com/impcat/led-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/NY/IP/GLADMIN-72687/led-monitor-125x125.jpg"
+      },
+      {
+        "name": "Refurbished Computer Monitor",
+        "page": "https://dir.indiamart.com/impcat/refurbished-computer-monitor.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/CP/UC/GLADMIN-76037/refurbished-computer-monitor-125x125.jpg"
+      },
+      {
+        "name": "Gaming Monitor",
+        "page": "https://dir.indiamart.com/impcat/game-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/RA/GLADMIN-29178/game-monitor-125x125.jpg"
+      },
+      {
+        "name": "LCD Monitor",
+        "page": "https://dir.indiamart.com/impcat/lcd-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/RE/MY-2/lcd-monitor-125x125.jpg"
+      },
+      {
+        "name": "Second Hand and Used Computer Monitors",
+        "page": "https://dir.indiamart.com/impcat/second-hand-and-used-computer-monitors.html",
+        "thumbnail": "http://5.imimg.com/data5/HI/KJ/JS/GLADMIN-68155/second-hand-and-used-computer-monitors-125x125.png"
+      },
+      {
+        "name": "Curved PC Monitor",
+        "page": "https://dir.indiamart.com/impcat/curved-monitor.html",
+        "thumbnail": "http://5.imimg.com/data5/JT/SF/CU/GLADMIN-81462/curved-pc-monitor-125x125.jpg"
+      },
+      {
+        "name": "CCTV Monitor",
+        "page": "https://dir.indiamart.com/impcat/cctv-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/DA/GLADMIN-24554/cctv-monitor-125x125.jpg"
+      },
+      {
+        "name": "CRT Monitor",
+        "page": "https://dir.indiamart.com/impcat/crt-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/QL/GT/GLADMIN-26124/crt-monitor-125x125.jpg"
+      },
+      {
+        "name": "Industrial Monitor",
+        "page": "https://dir.indiamart.com/impcat/industrial-grade-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/IN/GLADMIN-162425/industrial-grade-monitor-125x125.jpg"
+      },
+      {
+        "name": "3D Monitor",
+        "page": "https://dir.indiamart.com/impcat/3d-monitor.html",
+        "thumbnail": "http://5.imimg.com/data5/BB/XG/DK/GLADMIN-76037/3d-monitor-125x125.png"
+      },
+      {
+        "name": "Monochrome Monitor",
+        "page": "https://dir.indiamart.com/impcat/monochrome-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/QN/GLADMIN-17665/monochrome-monitor-125x125.jpg"
+      },
+      {
+        "name": "Flat Screen Monitor",
+        "page": "https://dir.indiamart.com/impcat/flat-screen-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/CD/GLADMIN-65279/flat-screen-monitor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Computer Input Devices",
+    "category_thumbnail": "http://3.imimg.com/data3/CU/LA/GLADMIN-25627/computer-input-devices-125x125.jpg",
+    "items": [
+      {
+        "name": "Keyboard & Mouse Combo",
+        "page": "https://dir.indiamart.com/impcat/keyboard-mouse-combo.html",
+        "thumbnail": "http://5.imimg.com/data5/QY/AV/GLADMIN-2/keyboard-mouse-combo-125x125.jpg"
+      },
+      {
+        "name": "Computer Keyboard",
+        "page": "https://dir.indiamart.com/impcat/computer-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/OA/RM/GLADMIN-65160/computer-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Graphic Tablet",
+        "page": "https://dir.indiamart.com/impcat/graphic-tablet.html",
+        "thumbnail": "http://3.imimg.com/data3/EX/OW/GLADMIN-108345/graphic-tablet-125x125.jpg"
+      },
+      {
+        "name": "Computer Mouse",
+        "page": "https://dir.indiamart.com/impcat/computer-mouse.html",
+        "thumbnail": "http://3.imimg.com/data3/EV/WD/GLADMIN-25638/computer-mouse-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Computer Cabinets",
+    "category_thumbnail": "http://3.imimg.com/data3/WB/XO/GLADMIN-25735/computer-cabinets-125x125.jpg",
+    "items": [
+      {
+        "name": "Laptop Body",
+        "page": "https://dir.indiamart.com/impcat/laptop-body.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/VK/GLADMIN-167342/laptop-body-125x125.jpg"
+      },
+      {
+        "name": "Computer Cases",
+        "page": "https://dir.indiamart.com/impcat/computer-cases.html",
+        "thumbnail": "http://3.imimg.com/data3/IY/DD/GLADMIN-25741/computer-cases-125x125.jpg"
+      },
+      {
+        "name": "Gaming Mid Tower Computer Case",
+        "page": "https://dir.indiamart.com/impcat/mid-tower-computer-case.html",
+        "thumbnail": "http://4.imimg.com/data4/VK/JV/GLADMIN-111538/mid-tower-computer-case-125x125.jpg"
+      },
+      {
+        "name": "Gaming Full Tower Case",
+        "page": "https://dir.indiamart.com/impcat/tower-case.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/2/OH/YK/BD/20683/gaming-cpu-cabinet-125x125.jpg"
+      },
+      {
+        "name": "Computer Enclosures",
+        "page": "https://dir.indiamart.com/impcat/computer-enclosures.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/9/MD/LZ/HO/86663/computer-enclosures-125x125.jpg"
+      },
+      {
+        "name": "Rack Mount Chassis",
+        "page": "https://dir.indiamart.com/impcat/rack-mount-chassis.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/WI/GLADMIN-35928/rack-mount-chassis-125x125.jpg"
+      },
+      {
+        "name": "PC Case",
+        "page": "https://dir.indiamart.com/impcat/pc-case.html",
+        "thumbnail": "http://3.imimg.com/data3/PS/UT/GLADMIN-34744/pc-case-125x125.jpg"
+      },
+      {
+        "name": "ATX Case",
+        "page": "https://dir.indiamart.com/impcat/atx-case.html",
+        "thumbnail": "http://3.imimg.com/data3/AO/EL/GLADMIN-22169/atx-case-125x125.jpg"
+      },
+      {
+        "name": "Rack Mount Computers",
+        "page": "https://dir.indiamart.com/impcat/rack-mount-computers.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411775639/BJ/VD/FP/91810/rack-mount-computers-125x125.jpg"
+      },
+      {
+        "name": "Industrial Computer Cabinet",
+        "page": "https://dir.indiamart.com/impcat/industrial-computer-cabinet.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/XD/GLADMIN-150000/industrial-computer-cabinet-125x125.jpg"
+      },
+      {
+        "name": "Computer Chassis",
+        "page": "https://dir.indiamart.com/impcat/computer-chassis.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/KE/GLADMIN-25744/computer-chassis-125x125.jpg"
+      },
+      {
+        "name": "IPC Chassis",
+        "page": "https://dir.indiamart.com/impcat/ipc-chassis.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/BN/GLADMIN-106318/ipc-chassis-125x125.jpg"
+      },
+      {
+        "name": "Computer Backplane",
+        "page": "https://dir.indiamart.com/impcat/computer-backplane.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/YM/GLADMIN-134091/computer-backplane-125x125.jpg"
+      },
+      {
+        "name": "Industrial PC Chassis",
+        "page": "https://dir.indiamart.com/impcat/industrial-pc-chassis.html",
+        "thumbnail": "http://3.imimg.com/data3/UQ/IQ/GLADMIN-65286/industrial-pc-chassis-125x125.jpg"
+      },
+      {
+        "name": "Micro ATX Case",
+        "page": "https://dir.indiamart.com/impcat/micro-atx-case.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/NE/GLADMIN-90253/micro-atx-case-125x125.jpg"
+      },
+      {
+        "name": "Wall Mount Chassis",
+        "page": "https://dir.indiamart.com/impcat/wall-mount-chassis.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/JX/GLADMIN-132545/wall-mount-chassis-125x125.jpg"
+      },
+      {
+        "name": "Subrack",
+        "page": "https://dir.indiamart.com/impcat/subrack.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/IY/GLADMIN-87552/subrack-125x125.jpg"
+      },
+      {
+        "name": "Compact PCI Chassis",
+        "page": "https://dir.indiamart.com/impcat/compact-pci-chassis.html",
+        "thumbnail": "http://3.imimg.com/data3/TG/EI/GLADMIN-104930/compact-pci-chassis-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Used Computer Parts",
+    "category_thumbnail": "http://3.imimg.com/data3/DI/IN/GLADMIN-140309/used-computer-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Second Hand CPU",
+        "page": "https://dir.indiamart.com/impcat/used-cpu.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/second-hand-cpu-125x125.jpg"
+      },
+      {
+        "name": "Used LCD Monitor",
+        "page": "https://dir.indiamart.com/impcat/used-lcd-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/YA/GLADMIN-/images-used_lcd_monitors-125x125.jpg"
+      },
+      {
+        "name": "Refurbished Computer Monitor",
+        "page": "https://dir.indiamart.com/impcat/refurbished-computer-monitor.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/CP/UC/GLADMIN-76037/refurbished-computer-monitor-125x125.jpg"
+      },
+      {
+        "name": "Refurbished Keyboard",
+        "page": "https://dir.indiamart.com/impcat/refurbished-keyboard.html",
+        "thumbnail": "http://5.imimg.com/data5/SV/QV/DJ/GLADMIN-65832/refurbished-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Refurbished CPU",
+        "page": "https://dir.indiamart.com/impcat/refurbished-cpu.html",
+        "thumbnail": "http://5.imimg.com/data5/RD/YM/EE/GLADMIN-76441/refurbished-cpu-125x125.jpg"
+      },
+      {
+        "name": "Second Hand and Used Computer Monitors",
+        "page": "https://dir.indiamart.com/impcat/second-hand-and-used-computer-monitors.html",
+        "thumbnail": "http://5.imimg.com/data5/HI/KJ/JS/GLADMIN-68155/second-hand-and-used-computer-monitors-125x125.png"
+      },
+      {
+        "name": "Used LED Monitor",
+        "page": "https://dir.indiamart.com/impcat/used-led-monitor.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/used-led-monitor-125x125.jpg"
+      },
+      {
+        "name": "Used Motherboard",
+        "page": "https://dir.indiamart.com/impcat/used-motherboard.html",
+        "thumbnail": "http://4.imimg.com/data4/QY/TI/GLADMIN-2/used-motherboard-125x125.jpg"
+      },
+      {
+        "name": "Old Computer Processors",
+        "page": "https://dir.indiamart.com/impcat/old-computer-processors.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/LC/GLADMIN-154722/old-computer-processors-125x125.jpg"
+      },
+      {
+        "name": "Second Hand and Used CRT Monitor",
+        "page": "https://dir.indiamart.com/impcat/second-hand-and-used-crt-monitor.html",
+        "thumbnail": "http://5.imimg.com/data5/EY/XE/MC/GLADMIN-68155/second-hand-and-used-crt-monitor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "LCD Monitor",
+    "category_thumbnail": "http://3.imimg.com/data3/RO/RE/MY-2/lcd-monitor-125x125.jpg",
+    "items": [
+      {
+        "name": "Laptop LCD Screen",
+        "page": "https://dir.indiamart.com/impcat/laptop-lcd-screen.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/JA/GLADMIN-65295/laptop-lcd-screen-125x125.jpg"
+      },
+      {
+        "name": "Used LCD Monitor",
+        "page": "https://dir.indiamart.com/impcat/used-lcd-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/YA/GLADMIN-/images-used_lcd_monitors-125x125.jpg"
+      },
+      {
+        "name": "TFT Monitor",
+        "page": "https://dir.indiamart.com/impcat/tft-monitor.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/8/NR/OW/YN/23669/tft-monitor-125x125.jpg"
+      },
+      {
+        "name": "LCD Computer Monitor",
+        "page": "https://dir.indiamart.com/impcat/lcd-computer-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/DT/GLADMIN-30509/lcd-computer-monitor-125x125.jpg"
+      },
+      {
+        "name": "Dell LCD Monitor",
+        "page": "https://dir.indiamart.com/impcat/dell-lcd-monitor.html",
+        "thumbnail": "http://4.imimg.com/data4/LO/VA/GLADMIN-185021/dell-lcd-monitor-125x125.jpg"
+      },
+      {
+        "name": "TFT LCD Panel",
+        "page": "https://dir.indiamart.com/impcat/tft-lcd-panel.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411623132/QS/PI/AX/91810/tft-lcd-panel-125x125.jpg"
+      },
+      {
+        "name": "TFT Panel",
+        "page": "https://dir.indiamart.com/impcat/tft-panel.html",
+        "thumbnail": "http://3.imimg.com/data3/JW/CM/GLADMIN-39739/tft-panel-125x125.jpg"
+      },
+      {
+        "name": "Color LCD Display",
+        "page": "https://dir.indiamart.com/impcat/color-lcd-display.html",
+        "thumbnail": "http://3.imimg.com/data3/VO/BO/GLADMIN-24386/color-lcd-display-125x125.jpg"
+      },
+      {
+        "name": "VGA LCD Monitor",
+        "page": "https://dir.indiamart.com/impcat/vga-lcd-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/JQ/GLADMIN-39050/vga-lcd-monitor-125x125.jpg"
+      },
+      {
+        "name": "Security Monitor",
+        "page": "https://dir.indiamart.com/impcat/security-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/VT/BQ/GLADMIN-81120/security-monitor-125x125.jpg"
+      },
+      {
+        "name": "Portable LCD Monitor",
+        "page": "https://dir.indiamart.com/impcat/portable-lcd-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/SP/GLADMIN-65220/portable-lcd-monitor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Computer Mouse",
+    "category_thumbnail": "http://3.imimg.com/data3/EV/WD/GLADMIN-25638/computer-mouse-125x125.jpg",
+    "items": [
+      {
+        "name": "Wireless Mouse",
+        "page": "https://dir.indiamart.com/impcat/wireless-mouse.html",
+        "thumbnail": "http://3.imimg.com/data3/DF/IH/GLADMIN-20197/wireless-mouse-125x125.jpg"
+      },
+      {
+        "name": "Gaming Mouse",
+        "page": "https://dir.indiamart.com/impcat/gaming-mouse.html",
+        "thumbnail": "http://5.imimg.com/data5/KK/KK/GLADMIN-/gaming-mouse-125x125.jpg"
+      },
+      {
+        "name": "USB Mouse",
+        "page": "https://dir.indiamart.com/impcat/usb-mouse.html",
+        "thumbnail": "http://3.imimg.com/data3/GI/MY/GLADMIN-19844/usb-mouse-125x125.jpg"
+      },
+      {
+        "name": "Bluetooth Mouse",
+        "page": "https://dir.indiamart.com/impcat/bluetooth-mouse.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/VJ/GLADMIN-22946/bluetooth-mouse-125x125.jpg"
+      },
+      {
+        "name": "HP Computer Mouse",
+        "page": "https://dir.indiamart.com/impcat/hp-computer-mouse.html",
+        "thumbnail": "http://4.imimg.com/data4/II/KV/GLADMIN-2/hp-computer-mouse-125x125.jpg"
+      },
+      {
+        "name": "3D Mouse",
+        "page": "https://dir.indiamart.com/impcat/3d-mouse.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/a-img924-1774-8kkeul-125x125.jpg"
+      },
+      {
+        "name": "Trackball Mouse",
+        "page": "https://dir.indiamart.com/impcat/trackball-mouse.html",
+        "thumbnail": "http://3.imimg.com/data3/II/WI/GLADMIN-19730/trackball-mouse-125x125.jpg"
+      },
+      {
+        "name": "Mini Optical Mouse",
+        "page": "https://dir.indiamart.com/impcat/mini-optical-mouse.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/US/GLADMIN-32796/mini-optical-mouse-125x125.jpg"
+      },
+      {
+        "name": "Trackball",
+        "page": "https://dir.indiamart.com/impcat/trackball.html",
+        "thumbnail": "http://3.imimg.com/data3/GJ/AM/GLADMIN-39999/trackball-125x125.jpg"
+      },
+      {
+        "name": "Fingerprint Mouse",
+        "page": "https://dir.indiamart.com/impcat/fingerprint-mouse.html",
+        "thumbnail": "http://3.imimg.com/data3/TQ/UR/GLADMIN-6369/fingerprint-mouse-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "RAM",
+    "category_thumbnail": "http://3.imimg.com/data3/SJ/VJ/GLADMIN-65222/ram-card-125x125.jpg",
+    "items": [
+      {
+        "name": "RAM Scrap",
+        "page": "https://dir.indiamart.com/impcat/ram-scrap.html",
+        "thumbnail": "http://5.imimg.com/data5/EY/IR/GLADMIN-2/ram-scrap-125x125.jpg"
+      },
+      {
+        "name": "DDR4 RAM",
+        "page": "https://dir.indiamart.com/impcat/ddr4-memory.html",
+        "thumbnail": "http://5.imimg.com/data5/LL/LL/GLADMIN-/ddr4-memory-125x125.jpg"
+      },
+      {
+        "name": "DDR3 RAM",
+        "page": "https://dir.indiamart.com/impcat/ddr3-ram.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/LB/GLADMIN-155214/ddr3-ram-125x125.jpg"
+      },
+      {
+        "name": "DDR2 RAM",
+        "page": "https://dir.indiamart.com/impcat/ddr2-dram.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/HO/GLADMIN-13279/ddr2-dram-125x125.jpg"
+      },
+      {
+        "name": "DDR1 RAM",
+        "page": "https://dir.indiamart.com/impcat/ddr1-ram.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/ON/GLADMIN-13278/ddr1-ram-125x125.jpg"
+      },
+      {
+        "name": "DDR Memory",
+        "page": "https://dir.indiamart.com/impcat/ddr-memory.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/GS/GLADMIN-25382/ddr-memory-125x125.jpg"
+      },
+      {
+        "name": "SDRAM Memory",
+        "page": "https://dir.indiamart.com/impcat/sdram-memory.html",
+        "thumbnail": "http://3.imimg.com/data3/UU/VR/GLADMIN-37661/sdram-memory-125x125.jpg"
+      },
+      {
+        "name": "DRAM Modules",
+        "page": "https://dir.indiamart.com/impcat/dram-modules.html",
+        "thumbnail": "http://3.imimg.com/data3/DB/LH/GLADMIN-26858/dram-modules-125x125.jpg"
+      },
+      {
+        "name": "DVD RAM",
+        "page": "https://dir.indiamart.com/impcat/dvd-ram.html",
+        "thumbnail": "http://3.imimg.com/data3/WW/NO/GLADMIN-13987/dvd-ram-125x125.jpg"
+      },
+      {
+        "name": "DDR SDRAM",
+        "page": "https://dir.indiamart.com/impcat/ddr-sdram.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/GJ/GLADMIN-13277/ddr-sdram-125x125.jpg"
+      },
+      {
+        "name": "Video RAM",
+        "page": "https://dir.indiamart.com/impcat/video-ram.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/FO/GLADMIN-65233/video-ram-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "CPU",
+    "category_thumbnail": "http://3.imimg.com/data3/EJ/FM/GLADMIN-101749/cpu-125x125.jpg",
+    "items": [
+      {
+        "name": "Second Hand CPU",
+        "page": "https://dir.indiamart.com/impcat/used-cpu.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/second-hand-cpu-125x125.jpg"
+      },
+      {
+        "name": "Refurbished CPU",
+        "page": "https://dir.indiamart.com/impcat/refurbished-cpu.html",
+        "thumbnail": "http://5.imimg.com/data5/RD/YM/EE/GLADMIN-76441/refurbished-cpu-125x125.jpg"
+      },
+      {
+        "name": "CPU Cooler",
+        "page": "https://dir.indiamart.com/impcat/cpu-cooler.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/RS/GLADMIN-65164/cpu-cooler-125x125.jpg"
+      },
+      {
+        "name": "PLC CPU Module",
+        "page": "https://dir.indiamart.com/impcat/plc-cpu-module.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/KR/GLADMIN-165702/plc-cpu-module-125x125.jpg"
+      },
+      {
+        "name": "CPU Card",
+        "page": "https://dir.indiamart.com/impcat/cpu-card.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/MD/GLADMIN-25505/cpu-card-125x125.gif"
+      },
+      {
+        "name": "CPU Module",
+        "page": "https://dir.indiamart.com/impcat/cpu-module.html",
+        "thumbnail": "http://3.imimg.com/data3/GS/KJ/GLADMIN-165701/cpu-module-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Computer Memory",
+    "category_thumbnail": "http://3.imimg.com/data3/RI/RJ/GLADMIN-25634/computer-memory-card-125x125.jpg",
+    "items": [
+      {
+        "name": "Device Programmers",
+        "page": "https://dir.indiamart.com/impcat/device-programmers.html",
+        "thumbnail": "http://3.imimg.com/data3/JM/XT/GLADMIN-26359/device-programmers-125x125.jpg"
+      },
+      {
+        "name": "RAM",
+        "page": "https://dir.indiamart.com/impcat/ram-card.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/VJ/GLADMIN-65222/ram-card-125x125.jpg"
+      },
+      {
+        "name": "Internal Hard Drive",
+        "page": "https://dir.indiamart.com/impcat/disk-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/PN/YT/GLADMIN-26566/disk-drive-125x125.jpg"
+      },
+      {
+        "name": "BIOS Programmer",
+        "page": "https://dir.indiamart.com/impcat/bios-programmer.html",
+        "thumbnail": "http://3.imimg.com/data3/WJ/AR/GLADMIN-158458/bios-programmer-125x125.jpg"
+      },
+      {
+        "name": "Eeprom Programmer",
+        "page": "https://dir.indiamart.com/impcat/eeprom-programmer.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/UN/GLADMIN-143378/eeprom-programmer-125x125.jpg"
+      },
+      {
+        "name": "Memory Module",
+        "page": "https://dir.indiamart.com/impcat/memory-module.html",
+        "thumbnail": "http://3.imimg.com/data3/ME/NB/GLADMIN-105879/memory-module-125x125.jpg"
+      },
+      {
+        "name": "Flash Memory",
+        "page": "https://dir.indiamart.com/impcat/flash-memory.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/VU/GLADMIN-28497/flash-memory-125x125.jpg"
+      },
+      {
+        "name": "NAND Flash Memory",
+        "page": "https://dir.indiamart.com/impcat/nand-flash-memory.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/VQ/GLADMIN-16860/nand-flash-memory-125x125.jpg"
+      },
+      {
+        "name": "Chipset",
+        "page": "https://dir.indiamart.com/impcat/memory-chip.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411779683/ZQ/HZ/WI/91810/chipset-125x125.jpeg"
+      },
+      {
+        "name": "Cache Memory",
+        "page": "https://dir.indiamart.com/impcat/cache-memory.html",
+        "thumbnail": "http://3.imimg.com/data3/HV/WJ/GLADMIN-23042/cache-memory-125x125.jpg"
+      },
+      {
+        "name": "Embedded Disk Card",
+        "page": "https://dir.indiamart.com/impcat/embedded-disk-card.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/OG/GLADMIN-55730/embedded-disk-card-125x125.jpg"
+      },
+      {
+        "name": "EPROM Eraser",
+        "page": "https://dir.indiamart.com/impcat/eprom-eraser.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/AW/GLADMIN-27948/eprom-eraser-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "LED Monitor",
+    "category_thumbnail": "http://3.imimg.com/data3/NY/IP/GLADMIN-72687/led-monitor-125x125.jpg",
+    "items": [
+      {
+        "name": "Laptop LED Screen",
+        "page": "https://dir.indiamart.com/impcat/laptop-led-screen.html",
+        "thumbnail": "http://3.imimg.com/data3/YI/SO/GLADMIN-177768/laptop-led-screen-125x125.jpg"
+      },
+      {
+        "name": "Used LED Monitor",
+        "page": "https://dir.indiamart.com/impcat/used-led-monitor.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/used-led-monitor-125x125.jpg"
+      },
+      {
+        "name": "4K Monitors",
+        "page": "https://dir.indiamart.com/impcat/4k-monitors.html",
+        "thumbnail": "http://5.imimg.com/data5/CS/PU/GLADMIN-2/4k-monitors-125x125.jpg"
+      },
+      {
+        "name": "Flat Panel Monitor",
+        "page": "https://dir.indiamart.com/impcat/flat-panel-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/WK/HV/GLADMIN-65174/flat-panel-monitor-125x125.jpg"
+      },
+      {
+        "name": "Wireless LED Monitor",
+        "page": "https://dir.indiamart.com/impcat/wireless-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/JT/FP/GLADMIN-84128/wireless-monitor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Graphics Card",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/XV/GO/WK/20683/graphics-card-125x125.jpg",
+    "items": [
+      {
+        "name": "Gaming Computer Graphics Card",
+        "page": "https://dir.indiamart.com/impcat/computer-graphics-card.html",
+        "thumbnail": "http://3.imimg.com/data3/SG/KL/GLADMIN-65158/computer-graphics-card-125x125.jpg"
+      },
+      {
+        "name": "VGA Card",
+        "page": "https://dir.indiamart.com/impcat/vga-card.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/HO/GLADMIN-39048/vga-card-125x125.jpg"
+      },
+      {
+        "name": "Laptop Graphics Card",
+        "page": "https://dir.indiamart.com/impcat/laptop-graphics-card.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/CD/GLADMIN-65293/laptop-graphics-card-125x125.jpg"
+      },
+      {
+        "name": "Adapter Card",
+        "page": "https://dir.indiamart.com/impcat/adapter-card.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/HW/GLADMIN-21302/adapter-card-125x125.jpg"
+      },
+      {
+        "name": "Graphic Arts Equipment",
+        "page": "https://dir.indiamart.com/impcat/graphic-arts-equipment.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/NI/GLADMIN-29893/graphic-arts-equipment-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Computer Processor",
+    "category_thumbnail": "http://3.imimg.com/data3/WM/UH/GLADMIN-25647/computer-processor-125x125.jpg",
+    "items": [
+      {
+        "name": "Digital Signal Processor",
+        "page": "https://dir.indiamart.com/impcat/digital-signal-processor.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/DD/GLADMIN-13503/digital-signal-processor-125x125.jpg"
+      },
+      {
+        "name": "Gaming Processor",
+        "page": "https://dir.indiamart.com/impcat/gaming-processor.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/1/VH/FM/SJ/20683/gaming-processor-125x125.jpg"
+      },
+      {
+        "name": "LCD Controllers",
+        "page": "https://dir.indiamart.com/impcat/lcd-controllers.html",
+        "thumbnail": "http://3.imimg.com/data3/JV/LB/GLADMIN-30510/lcd-controllers-125x125.jpg"
+      },
+      {
+        "name": "Microprocessor Controller Unit",
+        "page": "https://dir.indiamart.com/impcat/microprocessor-controller-unit.html",
+        "thumbnail": "http://3.imimg.com/data3/CF/NT/GLADMIN-101810/microprocessor-controller-unit-125x125.jpg"
+      },
+      {
+        "name": "Old Computer Processors",
+        "page": "https://dir.indiamart.com/impcat/old-computer-processors.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/LC/GLADMIN-154722/old-computer-processors-125x125.jpg"
+      },
+      {
+        "name": "Microprocessor",
+        "page": "https://dir.indiamart.com/impcat/microprocessor.html",
+        "thumbnail": "http://3.imimg.com/data3/KL/JG/GLADMIN-33218/microprocessor-125x125.jpg"
+      },
+      {
+        "name": "Laptop Processor",
+        "page": "https://dir.indiamart.com/impcat/laptop-processor.html",
+        "thumbnail": "http://3.imimg.com/data3/PT/PV/GLADMIN-65297/laptop-processor-125x125.jpg"
+      },
+      {
+        "name": "Multi Core Processor",
+        "page": "https://dir.indiamart.com/impcat/multi-core-processor.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/GM/GLADMIN-65306/multi-core-processor-125x125.jpg"
+      },
+      {
+        "name": "Quad Processor",
+        "page": "https://dir.indiamart.com/impcat/quad-processor.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/GD/GLADMIN-34930/quad-processor-125x125.jpg"
+      },
+      {
+        "name": "Server Processor",
+        "page": "https://dir.indiamart.com/impcat/server-processor.html",
+        "thumbnail": "http://3.imimg.com/data3/YC/JG/GLADMIN-/400wm-400-400-alehdats-alehdats1205-alehdats120500014-13638053-close-u-125x125.jpg"
+      },
+      {
+        "name": "I Cores",
+        "page": "https://dir.indiamart.com/impcat/i-cores.html",
+        "thumbnail": "http://4.imimg.com/data4/SO/DR/GLADMIN-184168/i-cores-125x125.jpg"
+      },
+      {
+        "name": "PGA Socket",
+        "page": "https://dir.indiamart.com/impcat/pga-socket.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/GS/GLADMIN-53278/pga-socket-125x125.jpg"
+      },
+      {
+        "name": "VLSI Microprocessor",
+        "page": "https://dir.indiamart.com/impcat/vlsi-microprocessor.html",
+        "thumbnail": "http://3.imimg.com/data3/MH/UI/GLADMIN-20018/vlsi-microprocessor-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Laptop Battery",
+    "category_thumbnail": "http://3.imimg.com/data3/CA/BU/GLADMIN-20948/laptop-battery-125x125.jpg",
+    "items": [
+      {
+        "name": "Computer Battery",
+        "page": "https://dir.indiamart.com/impcat/computer-battery.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/OD/GLADMIN-25734/computer-battery-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Laptop Charger",
+    "category_thumbnail": "http://3.imimg.com/data3/FO/ML/GLADMIN-65289/laptop-charger-125x125.jpg",
+    "items": [
+      {
+        "name": "Docking Station",
+        "page": "https://dir.indiamart.com/impcat/docking-station.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/LX/GLADMIN-26751/docking-station-125x125.jpg"
+      },
+      {
+        "name": "Laptop Adapter Cable",
+        "page": "https://dir.indiamart.com/impcat/laptop-adapter-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/FC/TN/GLADMIN-159227/laptop-adapter-cable-125x125.jpg"
+      },
+      {
+        "name": "Dell AC Adapters",
+        "page": "https://dir.indiamart.com/impcat/dell-ac-adapters.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/II/JL/EI/92511/dell-ac-adapters-125x125.jpg"
+      },
+      {
+        "name": "Solar Laptop Charger",
+        "page": "https://dir.indiamart.com/impcat/solar-laptop-charger.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/WS/GLADMIN-177874/solar-laptop-charger-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Graphic Tablet",
+    "category_thumbnail": "http://3.imimg.com/data3/EX/OW/GLADMIN-108345/graphic-tablet-125x125.jpg",
+    "items": [
+      {
+        "name": "Digital Signature Pad",
+        "page": "https://dir.indiamart.com/impcat/digital-signature-pad.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/DX/GLADMIN-13504/digital-signature-pad-125x125.jpg"
+      },
+      {
+        "name": "Digital Pen",
+        "page": "https://dir.indiamart.com/impcat/digital-pen.html",
+        "thumbnail": "http://3.imimg.com/data3/HP/CW/GLADMIN-13498/digital-pen-125x125.jpg"
+      },
+      {
+        "name": "Light Pen",
+        "page": "https://dir.indiamart.com/impcat/light-pen.html",
+        "thumbnail": "http://5.imimg.com/data5/VN/MK/GLADMIN-2/light-pen-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Webcam",
+    "category_thumbnail": "http://3.imimg.com/data3/QX/EG/GLADMIN-40964/web-camera-125x125.jpg",
+    "items": [
+      {
+        "name": "Conference Cam",
+        "page": "https://dir.indiamart.com/impcat/conference-cam.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/conference-cam-125x125.jpg"
+      },
+      {
+        "name": "PC Camera",
+        "page": "https://dir.indiamart.com/impcat/pc-camera.html",
+        "thumbnail": "http://3.imimg.com/data3/QO/CO/GLADMIN-34738/pc-camera-125x125.jpg"
+      },
+      {
+        "name": "Wireless Web Camera",
+        "page": "https://dir.indiamart.com/impcat/wireless-web-camera.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/1/EV/YF/FB/86648/wireless-web-camera-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Monitor",
+    "category_thumbnail": "http://3.imimg.com/data3/DD/IN/GLADMIN-162425/industrial-grade-monitor-125x125.jpg",
+    "items": [
+      {
+        "name": "Touch Screen Monitor",
+        "page": "https://dir.indiamart.com/impcat/touch-screen-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/DX/GLADMIN-19712/touch-screen-monitor-125x125.jpg"
+      },
+      {
+        "name": "Rack Mount Monitor",
+        "page": "https://dir.indiamart.com/impcat/rack-mount-monitor.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411776735/PX/PN/XF/91810/rack-mount-monitor-125x125.jpg"
+      },
+      {
+        "name": "Plasma Display Monitor",
+        "page": "https://dir.indiamart.com/impcat/plasma-display-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/WR/QH/GLADMIN-34478/plasma-display-monitor-125x125.jpg"
+      },
+      {
+        "name": "Widescreen Monitor",
+        "page": "https://dir.indiamart.com/impcat/widescreen-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/KF/BR/GLADMIN-65235/widescreen-monitor-125x125.jpg"
+      },
+      {
+        "name": "Multi Monitor",
+        "page": "https://dir.indiamart.com/impcat/multi-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/NR/GLADMIN-84126/multi-monitor-125x125.jpg"
+      },
+      {
+        "name": "Open Frame LCD Monitor",
+        "page": "https://dir.indiamart.com/impcat/open-frame-lcd-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/MM/YH/GLADMIN-34660/open-frame-lcd-monitor-125x125.jpg"
+      },
+      {
+        "name": "Rugged Panel Mount Monitor",
+        "page": "https://dir.indiamart.com/impcat/rugged-panel-mount-monitor.html",
+        "thumbnail": "http://3.imimg.com/data3/IX/GY/GLADMIN-132762/rugged-panel-mount-monitor-125x125.jpg"
+      },
+      {
+        "name": "Open Frame Monitors",
+        "page": "https://dir.indiamart.com/impcat/open-frame-monitors.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/NQ/GLADMIN-132730/open-frame-monitors-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Optical Drives",
+    "category_thumbnail": "http://3.imimg.com/data3/LF/JL/GLADMIN-32452/magneto-optical-drives-125x125.jpg",
+    "items": [
+      {
+        "name": "DVD Writer",
+        "page": "https://dir.indiamart.com/impcat/dvd-writer.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/YT/GLADMIN-27101/dvd-writer-125x125.jpg"
+      },
+      {
+        "name": "USB Floppy Drive",
+        "page": "https://dir.indiamart.com/impcat/usb-floppy.html",
+        "thumbnail": "http://3.imimg.com/data3/SX/YP/GLADMIN-40552/usb-floppy-125x125.jpg"
+      },
+      {
+        "name": "Tape Drives",
+        "page": "https://dir.indiamart.com/impcat/tape-drives.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/NE/GLADMIN-39538/tape-drives-125x125.jpg"
+      },
+      {
+        "name": "Floppy Drives",
+        "page": "https://dir.indiamart.com/impcat/floppy-drives.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/EE/GLADMIN-6470/floppy-drives-125x125.jpg"
+      },
+      {
+        "name": "Blu Ray Duplicator",
+        "page": "https://dir.indiamart.com/impcat/blu-ray-duplicator.html",
+        "thumbnail": "http://3.imimg.com/data3/JK/EB/GLADMIN-65156/blu-ray-duplicator-125x125.gif"
+      },
+      {
+        "name": "CD Drive",
+        "page": "https://dir.indiamart.com/impcat/cd-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/FD/GLADMIN-14459/cd-drive-125x125.jpg"
+      },
+      {
+        "name": "Floppy Disk Drive",
+        "page": "https://dir.indiamart.com/impcat/floppy-disk-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/XY/IK/GLADMIN-3515/floppy-disk-drive-125x125.jpg"
+      },
+      {
+        "name": "LTO Drive",
+        "page": "https://dir.indiamart.com/impcat/lto-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/XY/TA/GLADMIN-17280/lto-drive-125x125.jpg"
+      },
+      {
+        "name": "CD Duplicator",
+        "page": "https://dir.indiamart.com/impcat/cd-duplicator.html",
+        "thumbnail": "http://3.imimg.com/data3/UY/QG/GLADMIN-14460/cd-duplicator-125x125.jpg"
+      },
+      {
+        "name": "CD Writers",
+        "page": "https://dir.indiamart.com/impcat/cd-writers.html",
+        "thumbnail": "http://3.imimg.com/data3/AL/MH/GLADMIN-3637/cd-writers-125x125.jpg"
+      },
+      {
+        "name": "DLT Drive",
+        "page": "https://dir.indiamart.com/impcat/dlt-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/OY/GLADMIN-15498/dlt-drive-125x125.jpg"
+      },
+      {
+        "name": "SDLT Drive",
+        "page": "https://dir.indiamart.com/impcat/sdlt-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/OQ/GLADMIN-17990/sdlt-drive-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "DVD Writer",
+    "category_thumbnail": "http://3.imimg.com/data3/TX/YT/GLADMIN-27101/dvd-writer-125x125.jpg",
+    "items": [
+      {
+        "name": "DVD Drive",
+        "page": "https://dir.indiamart.com/impcat/dvd-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/NM/TW/GLADMIN-15545/dvd-drive-125x125.jpg"
+      },
+      {
+        "name": "DVD Duplicator",
+        "page": "https://dir.indiamart.com/impcat/dvd-duplicator.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/MH/GLADMIN-13986/dvd-duplicator-125x125.jpg"
+      },
+      {
+        "name": "Laptop DVD Drive",
+        "page": "https://dir.indiamart.com/impcat/laptop-dvd-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/AE/LV/GLADMIN-65290/laptop-dvd-drive-125x125.jpg"
+      },
+      {
+        "name": "DVD Recorder",
+        "page": "https://dir.indiamart.com/impcat/dvd-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/KJ/GLADMIN-27090/dvd-recorder-125x125.jpg"
+      },
+      {
+        "name": "DVD Combo Drive",
+        "page": "https://dir.indiamart.com/impcat/dvd-combo-drive.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/VK/GLADMIN-27078/dvd-combo-drive-125x125.jpg"
+      },
+      {
+        "name": "DVD ROM Drives",
+        "page": "https://dir.indiamart.com/impcat/dvd-rom-drives.html",
+        "thumbnail": "http://3.imimg.com/data3/HU/AD/GLADMIN-27093/dvd-rom-drives-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Computer Speakers",
+    "category_thumbnail": "http://5.imimg.com/data5/OF/TA/GLADMIN-2/computer-speakers-125x125.jpg",
+    "items": [
+      {
+        "name": "Laptop Speaker",
+        "page": "https://dir.indiamart.com/impcat/laptop-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/AX/KK/GLADMIN-31536/laptop-speaker-125x125.jpg"
+      },
+      {
+        "name": "Mini Computer Speaker",
+        "page": "https://dir.indiamart.com/impcat/mini-computer-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/TN/LN/GLADMIN-100698/mini-computer-speaker-125x125.jpg"
+      },
+      {
+        "name": "USB Speaker",
+        "page": "https://dir.indiamart.com/impcat/usb-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/DH/GLADMIN-40574/usb-speaker-125x125.jpg"
+      },
+      {
+        "name": "Mobile Phone Speaker",
+        "page": "https://dir.indiamart.com/impcat/mobile-phone-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/LA/GLADMIN-33164/mobile-phone-speaker-125x125.jpg"
+      },
+      {
+        "name": "Wireless PC Speaker",
+        "page": "https://dir.indiamart.com/impcat/wireless-pc-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/OY/NA/GLADMIN-118044/wireless-pc-speaker-125x125.jpg"
+      },
+      {
+        "name": "External Speaker",
+        "page": "https://dir.indiamart.com/impcat/external-speaker.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/KO/GLADMIN-55162/external-speaker-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Keyboard Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/FY/NJ/GLADMIN-108381/keyboard-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Keyboard Cover",
+        "page": "https://dir.indiamart.com/impcat/keyboard-cover.html",
+        "thumbnail": "http://3.imimg.com/data3/PX/VG/GLADMIN-65259/keyboard-cover-125x125.jpg"
+      },
+      {
+        "name": "Keyboard Tray",
+        "page": "https://dir.indiamart.com/impcat/keyboard-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/QL/KM/GLADMIN-87969/keyboard-tray-125x125.jpg"
+      },
+      {
+        "name": "Computer Keyboard Case",
+        "page": "https://dir.indiamart.com/impcat/keyboard-case.html",
+        "thumbnail": "http://3.imimg.com/data3/SK/RD/GLADMIN-64760/keyboard-case-125x125.jpg"
+      },
+      {
+        "name": "USB Keyboard Cable",
+        "page": "https://dir.indiamart.com/impcat/usb-keyboard-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/RQ/GLADMIN-19841/usb-keyboard-cable-125x125.jpg"
+      },
+      {
+        "name": "Matrix Keyboard",
+        "page": "https://dir.indiamart.com/impcat/matrix-keyboard.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/RG/GLADMIN-176991/matrix-keyboard-125x125.jpg"
+      },
+      {
+        "name": "Keyboard Key",
+        "page": "https://dir.indiamart.com/impcat/keyboard-key.html",
+        "thumbnail": "http://4.imimg.com/data4/JR/PS/GLADMIN-44052/keyboard-key-125x125.jpg"
+      },
+      {
+        "name": "Trackpad",
+        "page": "https://dir.indiamart.com/impcat/trackpad.html",
+        "thumbnail": "http://3.imimg.com/data3/RX/FG/GLADMIN-19731/trackpad-125x125.jpg"
+      },
+      {
+        "name": "Wrist Rests",
+        "page": "https://dir.indiamart.com/impcat/wrist-rests.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/GA/GLADMIN-41413/wrist-rests-125x125.jpg"
+      },
+      {
+        "name": "Computer Keyboard Slide",
+        "page": "https://dir.indiamart.com/impcat/computer-keyboard-slide.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/GX/GLADMIN-87686/computer-keyboard-slide-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Monitors",
+        "page": "https://dir.indiamart.com/impcat/monitors.html",
+        "thumbnail": "http://3.imimg.com/data3/DG/SI/GLADMIN-105882/monitors-125x125.jpg"
+      },
+      {
+        "name": "Color LCD Display",
+        "page": "https://dir.indiamart.com/impcat/color-lcd-display.html",
+        "thumbnail": "http://3.imimg.com/data3/VO/BO/GLADMIN-24386/color-lcd-display-125x125.jpg"
+      },
+      {
+        "name": "Server Processor",
+        "page": "https://dir.indiamart.com/impcat/server-processor.html",
+        "thumbnail": "http://3.imimg.com/data3/YC/JG/GLADMIN-/400wm-400-400-alehdats-alehdats1205-alehdats120500014-13638053-close-u-125x125.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "category_name": "Golf Equipment & Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/YR/XH/GLADMIN-1622/golf-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Golf Balls",
+        "page": "https://dir.indiamart.com/impcat/golf-balls.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/PH/GLADMIN-28824/golf-balls-125x125.jpg"
+      },
+      {
+        "name": "Golf Accessories",
+        "page": "https://dir.indiamart.com/impcat/golf-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/MR/GLADMIN-11085/golf-accessories-125x125.jpg"
+      },
+      {
+        "name": "Golf Set",
+        "page": "https://dir.indiamart.com/impcat/golf-set.html",
+        "thumbnail": "http://3.imimg.com/data3/BJ/FI/GLADMIN-28851/golf-set-125x125.jpg"
+      },
+      {
+        "name": "Indoor Golf Game",
+        "page": "https://dir.indiamart.com/impcat/indoor-golf-game.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/IV/GLADMIN-139759/indoor-golf-game-125x125.jpg"
+      },
+      {
+        "name": "Golf Practice Net",
+        "page": "https://dir.indiamart.com/impcat/golf-practice-nets.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/OQ/GLADMIN-28847/golf-practice-nets-125x125.jpg"
+      },
+      {
+        "name": "Golf Mats",
+        "page": "https://dir.indiamart.com/impcat/golf-mats.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/PK/GLADMIN-28844/golf-mats-125x125.jpg"
+      },
+      {
+        "name": "Golf Driver",
+        "page": "https://dir.indiamart.com/impcat/golf-driver.html",
+        "thumbnail": "http://4.imimg.com/data4/MM/MM/GLADMIN-/golf-driver-125x125.jpg"
+      },
+      {
+        "name": "Golf Tees",
+        "page": "https://dir.indiamart.com/impcat/golf-tees.html",
+        "thumbnail": "http://3.imimg.com/data3/NM/BQ/GLADMIN-29725/golf-tees-125x125.jpg"
+      },
+      {
+        "name": "Ball Marker",
+        "page": "https://dir.indiamart.com/impcat/ball-marker.html",
+        "thumbnail": "http://3.imimg.com/data3/MW/VH/GLADMIN-50246/ball-marker-125x125.jpg"
+      },
+      {
+        "name": "Golf Head Cover",
+        "page": "https://dir.indiamart.com/impcat/golf-head-cover.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/JU/GLADMIN-69503/golf-head-cover-125x125.jpg"
+      },
+      {
+        "name": "Golf Iron Head",
+        "page": "https://dir.indiamart.com/impcat/golf-iron-head.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/PJ/GLADMIN-80391/golf-iron-head-125x125.jpg"
+      },
+      {
+        "name": "Golf Putter",
+        "page": "https://dir.indiamart.com/impcat/golf-putter.html",
+        "thumbnail": "http://3.imimg.com/data3/TJ/QV/GLADMIN-28849/golf-putter-125x125.jpg"
+      },
+      {
+        "name": "Golf Shaft",
+        "page": "https://dir.indiamart.com/impcat/golf-shaft.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/UL/GLADMIN-28852/golf-shaft-125x125.jpg"
+      },
+      {
+        "name": "Golf Wedge",
+        "page": "https://dir.indiamart.com/impcat/golf-wedge.html",
+        "thumbnail": "http://3.imimg.com/data3/YQ/XG/GLADMIN-69506/golf-wedge-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Darts Game",
+    "category_thumbnail": "http://3.imimg.com/data3/PU/KY/GLADMIN-25325/darts-game-125x125.jpg",
+    "items": [
+      {
+        "name": "Dart Board",
+        "page": "https://dir.indiamart.com/impcat/dart-board.html",
+        "thumbnail": "http://3.imimg.com/data3/TU/YB/GLADMIN-25324/dart-board-125x125.jpg"
+      },
+      {
+        "name": "Magnetic Dart Game",
+        "page": "https://dir.indiamart.com/impcat/magnetic-dart-game.html",
+        "thumbnail": "http://3.imimg.com/data3/TW/DD/GLADMIN-31747/magnetic-dart-game-125x125.jpg"
+      },
+      {
+        "name": "Magnetic Dartboard",
+        "page": "https://dir.indiamart.com/impcat/magnetic-dartboard.html",
+        "thumbnail": "http://3.imimg.com/data3/EC/II/GLADMIN-31876/magnetic-dartboard-125x125.jpg"
+      },
+      {
+        "name": "Dart Set",
+        "page": "https://dir.indiamart.com/impcat/dart-set.html",
+        "thumbnail": "http://3.imimg.com/data3/EI/UP/GLADMIN-100505/dart-set-125x125.jpg"
+      }
+    ]
+  }
+]

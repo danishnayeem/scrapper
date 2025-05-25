@@ -1,0 +1,961 @@
+[
+  {
+    "category_name": "Coating Services",
+    "category_thumbnail": "http://3.imimg.com/data3/FU/CW/GLADMIN-2349/coating-services-125x125.jpg",
+    "items": [
+      {
+        "name": "PVD Coating Service",
+        "page": "https://dir.indiamart.com/impcat/pvd-coating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/GR/ND/GLADMIN-163059/pvd-coating-service-125x125.jpg"
+      },
+      {
+        "name": "Hot Dip Galvanizing",
+        "page": "https://dir.indiamart.com/impcat/hot-dip-galvanizing.html",
+        "thumbnail": "http://3.imimg.com/data3/ET/OI/GLADMIN-144677/hot-dip-galvanizing-125x125.jpg"
+      },
+      {
+        "name": "Powder Coating Services",
+        "page": "https://dir.indiamart.com/impcat/powder-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/FM/GLADMIN-43106/powder-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Buffing Services",
+        "page": "https://dir.indiamart.com/impcat/buffing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/GJ/GLADMIN-146725/buffing-services-125x125.jpg"
+      },
+      {
+        "name": "PTFE Coating Services",
+        "page": "https://dir.indiamart.com/impcat/ptfe-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/JE/GLADMIN-153541/ptfe-coating-services-125x125.jpg"
+      },
+      {
+        "name": "FRP Coating Services",
+        "page": "https://dir.indiamart.com/impcat/frp-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/SX/QX/GLADMIN-156202/frp-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Powder Coating Services",
+        "page": "https://dir.indiamart.com/impcat/aluminium-powder-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/EM/GLADMIN-142316/aluminium-powder-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Galvanizing Services",
+        "page": "https://dir.indiamart.com/impcat/galvanizing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/SC/HD/GLADMIN-113737/galvanizing-services-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Buffing Services",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-buffing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GP/YS/GLADMIN-161313/stainless-steel-buffing-services-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Metallizing Services",
+        "page": "https://dir.indiamart.com/impcat/vacuum-metallizing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GY/SC/GLADMIN-162936/vacuum-metallizing-services-125x125.jpg"
+      },
+      {
+        "name": "Metal Coating Services",
+        "page": "https://dir.indiamart.com/impcat/metal-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MQ/HM/GLADMIN-102044/metal-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Coating Services",
+        "page": "https://dir.indiamart.com/impcat/ceramic-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/UI/GLADMIN-159310/ceramic-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Zinc Flake Coating",
+        "page": "https://dir.indiamart.com/impcat/zinc-flake-coating.html",
+        "thumbnail": "http://4.imimg.com/data4/WR/YS/GLADMIN-185180/zinc-flake-coating-125x125.jpg"
+      },
+      {
+        "name": "Rubber Lining",
+        "page": "https://dir.indiamart.com/impcat/rubber-lining.html",
+        "thumbnail": "http://3.imimg.com/data3/AF/TA/GLADMIN-42957/rubber-lining-125x125.jpg"
+      },
+      {
+        "name": "Thermal Spray Coating Services",
+        "page": "https://dir.indiamart.com/impcat/thermal-spray-coating.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/MA/GLADMIN-42640/thermal-spray-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Phosphate Coating Services",
+        "page": "https://dir.indiamart.com/impcat/phosphate-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/TP/GLADMIN-170628/phosphate-coating-services-125x125.jpg"
+      },
+      {
+        "name": "PVDF Coating Services",
+        "page": "https://dir.indiamart.com/impcat/pvdf-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/DC/GLADMIN-169573/pvdf-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Lapping Services",
+        "page": "https://dir.indiamart.com/impcat/lapping-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/GW/GLADMIN-8351/lapping-services-125x125.jpg"
+      },
+      {
+        "name": "Polyurethane Coating Service",
+        "page": "https://dir.indiamart.com/impcat/polyurethane-coating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/DT/GLADMIN-154101/polyurethane-coating-service-125x125.jpg"
+      },
+      {
+        "name": "Pipe Coating Services",
+        "page": "https://dir.indiamart.com/impcat/pipe-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/OY/PV/GLADMIN-154096/pipe-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Xylan Coating Services",
+        "page": "https://dir.indiamart.com/impcat/xylan-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/KM/FE/GLADMIN-153543/xylan-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Acid Proof Lining Services",
+        "page": "https://dir.indiamart.com/impcat/acid-proof-lining-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/YX/GLADMIN-169101/acid-proof-lining-services-125x125.jpg"
+      },
+      {
+        "name": "CED Coating Services",
+        "page": "https://dir.indiamart.com/impcat/ced-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/YM/AJ/GLADMIN-44910/ced-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Refractory Lining Services",
+        "page": "https://dir.indiamart.com/impcat/refractory-lining-services.html",
+        "thumbnail": "http://3.imimg.com/data3/OV/EQ/GLADMIN-172002/refractory-lining-services-125x125.jpg"
+      },
+      {
+        "name": "Tungsten Carbide Coating Service",
+        "page": "https://dir.indiamart.com/impcat/tungsten-carbide-coating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/PW/GLADMIN-159335/tungsten-carbide-coating-service-125x125.jpg"
+      },
+      {
+        "name": "Zinc Spray Coating Services",
+        "page": "https://dir.indiamart.com/impcat/zinc-spray-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/UM/GLADMIN-175448/zinc-spray-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Acid Proof Tiles Lining",
+        "page": "https://dir.indiamart.com/impcat/acid-proof-tiles-lining.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371910908/QZ/UL/WN/104148/acid-proof-tiles-lining-125x125.png"
+      },
+      {
+        "name": "Aluminium Coating Services",
+        "page": "https://dir.indiamart.com/impcat/aluminium-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/MG/GLADMIN-168213/aluminium-coating-services-125x125.jpg"
+      },
+      {
+        "name": "HVOF Coating Services",
+        "page": "https://dir.indiamart.com/impcat/hvof-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/CX/GLADMIN-159319/hvof-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Zinc Nickel Alloy Plating",
+        "page": "https://dir.indiamart.com/impcat/zinc-nickel-alloy-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/EI/GLADMIN-172067/zinc-nickel-alloy-plating-125x125.jpg"
+      },
+      {
+        "name": "Zinc Phosphate Coating Services",
+        "page": "https://dir.indiamart.com/impcat/zinc-phosphate-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/ST/FW/GLADMIN-155773/zinc-phosphate-coating-services-125x125.jpg"
+      },
+      {
+        "name": "UV Coating Service",
+        "page": "https://dir.indiamart.com/impcat/uv-coating-service.html",
+        "thumbnail": "http://4.imimg.com/data4/XI/EX/GLADMIN-178594/uv-coating-service-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Metalizing",
+        "page": "https://dir.indiamart.com/impcat/aluminium-metalizing.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/NJ/GLADMIN-176236/aluminium-metalizing-125x125.jpg"
+      },
+      {
+        "name": "Manganese Phosphating Services",
+        "page": "https://dir.indiamart.com/impcat/manganese-phosphating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/MJ/GLADMIN-155774/manganese-phosphating-services-125x125.jpg"
+      },
+      {
+        "name": "Plasma Spray Coating Service",
+        "page": "https://dir.indiamart.com/impcat/plasma-spray-coating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/JP/GLADMIN-170646/plasma-spray-coating-service-125x125.jpg"
+      },
+      {
+        "name": "Protective Coating Services",
+        "page": "https://dir.indiamart.com/impcat/protective-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/NJ/PO/GLADMIN-168490/protective-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Spray Metallizing",
+        "page": "https://dir.indiamart.com/impcat/spray-metallizing.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/VL/GLADMIN-70086/spray-metallizing-125x125.jpg"
+      },
+      {
+        "name": "ED Coating Services",
+        "page": "https://dir.indiamart.com/impcat/ed-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/KL/UW/GLADMIN-169310/ed-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Electro Coating Services",
+        "page": "https://dir.indiamart.com/impcat/electro-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LH/JX/GLADMIN-102042/electro-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Chemical Resistant Coating Service",
+        "page": "https://dir.indiamart.com/impcat/chemical-resistant-coating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/SC/GLADMIN-173558/chemical-resistant-coating-service-125x125.jpg"
+      },
+      {
+        "name": "Surface Treatment Services",
+        "page": "https://dir.indiamart.com/impcat/surface-treatment-services.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/GV/GLADMIN-8378/surface-treatment-services-125x125.jpg"
+      },
+      {
+        "name": "Tank Coating Services",
+        "page": "https://dir.indiamart.com/impcat/tank-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TL/OI/GLADMIN-173320/tank-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Dip Galvanizing Service",
+        "page": "https://dir.indiamart.com/impcat/dip-galvanizing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/UY/ND/GLADMIN-170384/dip-galvanizing-service-125x125.jpg"
+      },
+      {
+        "name": "Nickel Coatings",
+        "page": "https://dir.indiamart.com/impcat/nickel-coatings.html",
+        "thumbnail": "http://3.imimg.com/data3/LN/WV/GLADMIN-32692/nickel-coatings-125x125.jpg"
+      },
+      {
+        "name": "Wire Arc Spray Coating Service",
+        "page": "https://dir.indiamart.com/impcat/wire-arc-spray-coating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/SE/GLADMIN-166663/wire-arc-spray-coating-service-125x125.jpg"
+      },
+      {
+        "name": "Ebonite Rubber Lining",
+        "page": "https://dir.indiamart.com/impcat/ebonite-rubber-lining.html",
+        "thumbnail": "http://4.imimg.com/data4/OT/JA/GLADMIN-180347/ebonite-rubber-lining-125x125.jpg"
+      },
+      {
+        "name": "Rubber Coating Services",
+        "page": "https://dir.indiamart.com/impcat/rubber-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/GR/GLADMIN-164891/rubber-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Chromate Conversion Coating Service",
+        "page": "https://dir.indiamart.com/impcat/chromate-conversion-coating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/RX/GLADMIN-173560/chromate-conversion-coating-service-125x125.jpg"
+      },
+      {
+        "name": "Surface Preparation Services",
+        "page": "https://dir.indiamart.com/impcat/surface-preparation-services.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/IN/GLADMIN-2914/surface-preparation-services-125x125.jpg"
+      },
+      {
+        "name": "Metal Spray Coating",
+        "page": "https://dir.indiamart.com/impcat/metal-spray-coating.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/RV/GLADMIN-33403/metal-spray-coating-125x125.jpg"
+      },
+      {
+        "name": "Chemical Coating Services",
+        "page": "https://dir.indiamart.com/impcat/chemical-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/RB/GLADMIN-102040/chemical-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Epoxy Wall Coating Services",
+        "page": "https://dir.indiamart.com/impcat/epoxy-wall-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/JP/NB/GLADMIN-165825/epoxy-wall-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Metal Galvanizing",
+        "page": "https://dir.indiamart.com/impcat/metal-galvanizing.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/LK/GLADMIN-144679/metal-galvanizing-125x125.jpg"
+      },
+      {
+        "name": "Solar Power Structures Galvanizing",
+        "page": "https://dir.indiamart.com/impcat/solar-power-structures-galvanizing.html",
+        "thumbnail": "http://4.imimg.com/data4/GF/NR/GLADMIN-176047/solar-power-structures-galvanizing-125x125.jpg"
+      },
+      {
+        "name": "Plasma Coatings",
+        "page": "https://dir.indiamart.com/impcat/plasma-coatings.html",
+        "thumbnail": "http://3.imimg.com/data3/IT/NA/GLADMIN-34474/plasma-coatings-125x125.jpg"
+      },
+      {
+        "name": "Boiler Tube Coatings",
+        "page": "https://dir.indiamart.com/impcat/boiler-tube-coatings.html",
+        "thumbnail": "http://5.imimg.com/data5/AZ/FE/ZA/GLADMIN-68087/boiler-tube-coatings-125x125.jpg"
+      },
+      {
+        "name": "Anti Carbonation Coating Services",
+        "page": "https://dir.indiamart.com/impcat/anti-carbonation-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DO/JK/GLADMIN-174380/anti-carbonation-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Heat Reflective Coating Service",
+        "page": "https://dir.indiamart.com/impcat/heat-reflective-coating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/UN/GLADMIN-174664/heat-reflective-coating-service-125x125.jpg"
+      },
+      {
+        "name": "Surface Pre Treatment Service",
+        "page": "https://dir.indiamart.com/impcat/surface-pre-treatment-service.html",
+        "thumbnail": "http://3.imimg.com/data3/OG/AD/GLADMIN-170937/surface-pre-treatment-service-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Coating Services",
+        "page": "https://dir.indiamart.com/impcat/acrylic-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/SQ/OX/GLADMIN-168204/acrylic-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Spray Galvanizing Services",
+        "page": "https://dir.indiamart.com/impcat/spray-galvanizing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/YA/GLADMIN-170872/spray-galvanizing-services-125x125.jpg"
+      },
+      {
+        "name": "Plastic Coating Services",
+        "page": "https://dir.indiamart.com/impcat/plastic-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/WG/GLADMIN-102046/plastic-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Arc Spray Coating Service",
+        "page": "https://dir.indiamart.com/impcat/arc-spray-coating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/SJ/GLADMIN-174866/arc-spray-coating-service-125x125.jpg"
+      },
+      {
+        "name": "Fastener Galvanizing",
+        "page": "https://dir.indiamart.com/impcat/fastener-galvanizing.html",
+        "thumbnail": "http://3.imimg.com/data3/CK/GW/GLADMIN-144678/fastener-galvanizing-125x125.jpg"
+      },
+      {
+        "name": "Rebabbitting Services",
+        "page": "https://dir.indiamart.com/impcat/rebabbitting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DN/NG/GLADMIN-149296/rebabbitting-services-125x125.jpg"
+      },
+      {
+        "name": "Adhesive Coating Services",
+        "page": "https://dir.indiamart.com/impcat/adhesive-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/II/KM/GLADMIN-159304/adhesive-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Steel Coating Services",
+        "page": "https://dir.indiamart.com/impcat/steel-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FM/SE/GLADMIN-172717/steel-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Thermal Spray Metallizing Service",
+        "page": "https://dir.indiamart.com/impcat/thermal-spray-metallizing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/WR/GLADMIN-169717/thermal-spray-metallizing-service-125x125.jpg"
+      },
+      {
+        "name": "Resurfacing Services",
+        "page": "https://dir.indiamart.com/impcat/resurfacing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/KD/CL/GLADMIN-12723/resurfacing-services-125x125.jpg"
+      },
+      {
+        "name": "Heat Resistant Coating Services",
+        "page": "https://dir.indiamart.com/impcat/heat-resistant-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/AI/GLADMIN-175702/heat-resistant-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Cathodic Electro Deposition",
+        "page": "https://dir.indiamart.com/impcat/cathodic-electro-deposition.html",
+        "thumbnail": "http://3.imimg.com/data3/JI/WF/GLADMIN-171367/cathodic-electro-deposition-125x125.jpg"
+      },
+      {
+        "name": "Hygienic Coating",
+        "page": "https://dir.indiamart.com/impcat/hygienic-coating.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/KY/GLADMIN-176398/hygienic-coating-125x125.jpg"
+      },
+      {
+        "name": "Class A Surfacing Services",
+        "page": "https://dir.indiamart.com/impcat/class-a-surfacing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/BC/TN/GLADMIN-175446/class-a-surfacing-services-125x125.jpg"
+      },
+      {
+        "name": "Zinc Protective Coating",
+        "page": "https://dir.indiamart.com/impcat/zinc-protective-coating.html",
+        "thumbnail": "http://3.imimg.com/data3/NU/KW/GLADMIN-117741/zinc-protective-coating-125x125.jpg"
+      },
+      {
+        "name": "Chromium Plating",
+        "page": "https://dir.indiamart.com/impcat/chromium-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/YQ/JD/GLADMIN-24889/chromium-plating-125x125.jpg"
+      },
+      {
+        "name": "Acid Tin Plating",
+        "page": "https://dir.indiamart.com/impcat/acid-tin-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/IH/DI/GLADMIN-117755/acid-tin-plating-125x125.jpg"
+      },
+      {
+        "name": "Copper Coating Services",
+        "page": "https://dir.indiamart.com/impcat/copper-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XX/EC/GLADMIN-165565/copper-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Corrosion Control Service",
+        "page": "https://dir.indiamart.com/impcat/corrosion-control-service.html",
+        "thumbnail": "http://3.imimg.com/data3/JM/LJ/GLADMIN-168617/corrosion-control-service-125x125.jpg"
+      },
+      {
+        "name": "Vessels Rubber Lining Services",
+        "page": "https://dir.indiamart.com/impcat/vessels-rubber-lining-services.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/MF/GLADMIN-175447/vessels-rubber-lining-services-125x125.jpg"
+      },
+      {
+        "name": "Silver Coating Services",
+        "page": "https://dir.indiamart.com/impcat/silver-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/JF/GLADMIN-165598/silver-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Abrasion Resistant Rubber Lining",
+        "page": "https://dir.indiamart.com/impcat/abrasion-resistant-rubber-lining.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/VA/GLADMIN-175555/abrasion-resistant-rubber-lining-125x125.jpg"
+      },
+      {
+        "name": "Acid Resistant Coating Services",
+        "page": "https://dir.indiamart.com/impcat/acid-resistant-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/GA/GLADMIN-175443/acid-resistant-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Powder Flame Spray Coating Services",
+        "page": "https://dir.indiamart.com/impcat/powder-flame-spray-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/PT/CH/GLADMIN-176101/powder-flame-spray-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Polymer Treatment Services",
+        "page": "https://dir.indiamart.com/impcat/polymer-treatment-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CY/TX/GLADMIN-173296/polymer-treatment-services-125x125.jpg"
+      },
+      {
+        "name": "Thin Film Coating Services",
+        "page": "https://dir.indiamart.com/impcat/thin-film-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/QH/GLADMIN-175877/thin-film-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Abrasion Resistant Coating Services",
+        "page": "https://dir.indiamart.com/impcat/abrasion-resistant-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/JQ/GLADMIN-175554/abrasion-resistant-coating-services-125x125.png"
+      },
+      {
+        "name": "Functional Coatings",
+        "page": "https://dir.indiamart.com/impcat/functional-coatings.html",
+        "thumbnail": "http://3.imimg.com/data3/HE/EG/GLADMIN-29092/functional-coatings-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Electroplating Services",
+    "category_thumbnail": "http://3.imimg.com/data3/TX/HP/GLADMIN-20539/electroplating-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Hard Chrome Plating",
+        "page": "https://dir.indiamart.com/impcat/hard-chrome-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/VR/MD/GLADMIN-30090/hard-chrome-plating-125x125.jpg"
+      },
+      {
+        "name": "Gold Plating Service",
+        "page": "https://dir.indiamart.com/impcat/gold-plating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/LS/GLADMIN-141063/gold-plating-service-125x125.jpg"
+      },
+      {
+        "name": "Zinc Plating",
+        "page": "https://dir.indiamart.com/impcat/zinc-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/OB/BD/GLADMIN-78486/zinc-plating-125x125.jpg"
+      },
+      {
+        "name": "Nickel Chrome Plating",
+        "page": "https://dir.indiamart.com/impcat/nickel-chrome-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/MX/GLADMIN-44802/nickel-chrome-plating-125x125.jpg"
+      },
+      {
+        "name": "Plating Services",
+        "page": "https://dir.indiamart.com/impcat/plating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/FI/GLADMIN-19061/plating-services-125x125.jpg"
+      },
+      {
+        "name": "Nickel Plating Services",
+        "page": "https://dir.indiamart.com/impcat/nickel-plating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/JO/GLADMIN-148947/nickel-plating-services-125x125.jpg"
+      },
+      {
+        "name": "Tin Plating",
+        "page": "https://dir.indiamart.com/impcat/tin-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/QL/OB/GLADMIN-88526/tin-plating-125x125.jpg"
+      },
+      {
+        "name": "Electroless Nickel Plating",
+        "page": "https://dir.indiamart.com/impcat/electroless-nickel-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/DO/GLADMIN-27721/electroless-nickel-plating-125x125.jpg"
+      },
+      {
+        "name": "Zinc Electroplating",
+        "page": "https://dir.indiamart.com/impcat/zinc-electroplating.html",
+        "thumbnail": "http://3.imimg.com/data3/BE/WO/GLADMIN-20543/zinc-electroplating-125x125.jpg"
+      },
+      {
+        "name": "Zinc Anodes",
+        "page": "https://dir.indiamart.com/impcat/zinc-anodes.html",
+        "thumbnail": "http://3.imimg.com/data3/VJ/JS/GLADMIN-2785/zinc-anodes-125x125.jpg"
+      },
+      {
+        "name": "Copper Plating Services",
+        "page": "https://dir.indiamart.com/impcat/copper-plating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TG/AL/GLADMIN-44803/copper-plating-services-125x125.jpg"
+      },
+      {
+        "name": "Chrome Electroplating Services",
+        "page": "https://dir.indiamart.com/impcat/chrome-electroplating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/JM/JL/GLADMIN-168259/chrome-electroplating-services-125x125.jpg"
+      },
+      {
+        "name": "Silver Plating",
+        "page": "https://dir.indiamart.com/impcat/silver-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/OH/GLADMIN-88523/silver-plating-125x125.jpg"
+      },
+      {
+        "name": "Trivalent Zinc Plating Service",
+        "page": "https://dir.indiamart.com/impcat/trivalent-zinc-plating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/BN/GLADMIN-172813/trivalent-zinc-plating-service-125x125.jpg"
+      },
+      {
+        "name": "Nickel Electroplating",
+        "page": "https://dir.indiamart.com/impcat/nickel-electroplating.html",
+        "thumbnail": "http://3.imimg.com/data3/ID/VG/GLADMIN-20545/nickel-electroplating-125x125.jpg"
+      },
+      {
+        "name": "Brass Plating Services",
+        "page": "https://dir.indiamart.com/impcat/brass-plating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/PF/YU/GLADMIN-117778/brass-plating-services-125x125.jpg"
+      },
+      {
+        "name": "Passivation Service",
+        "page": "https://dir.indiamart.com/impcat/passivation-service.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/YD/GLADMIN-102045/passivation-service-125x125.jpg"
+      },
+      {
+        "name": "Gold Electroplating",
+        "page": "https://dir.indiamart.com/impcat/gold-electroplating.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/CD/GLADMIN-139046/gold-electroplating-125x125.jpg"
+      },
+      {
+        "name": "Lead Anodes",
+        "page": "https://dir.indiamart.com/impcat/lead-anodes.html",
+        "thumbnail": "http://3.imimg.com/data3/RO/EO/GLADMIN-30529/lead-anodes-125x125.jpg"
+      },
+      {
+        "name": "Silver Electroplating",
+        "page": "https://dir.indiamart.com/impcat/silver-electroplating.html",
+        "thumbnail": "http://3.imimg.com/data3/JV/EC/GLADMIN-139116/silver-electroplating-125x125.jpg"
+      },
+      {
+        "name": "Metal Electroplating",
+        "page": "https://dir.indiamart.com/impcat/metal-electroplating.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/FW/GLADMIN-20544/metal-electroplating-125x125.jpg"
+      },
+      {
+        "name": "Tin Electroplating",
+        "page": "https://dir.indiamart.com/impcat/tin-electroplating.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/CJ/GLADMIN-139129/tin-electroplating-125x125.jpg"
+      },
+      {
+        "name": "Cadmium Plating Services",
+        "page": "https://dir.indiamart.com/impcat/cadmium-plating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UL/AG/GLADMIN-169189/cadmium-plating-services-125x125.jpg"
+      },
+      {
+        "name": "Cathodic Protection Anodes",
+        "page": "https://dir.indiamart.com/impcat/cathodic-protection-anodes.html",
+        "thumbnail": "http://3.imimg.com/data3/KI/SM/GLADMIN-24544/cathodic-protection-anodes-125x125.jpg"
+      },
+      {
+        "name": "Metal Plating Services",
+        "page": "https://dir.indiamart.com/impcat/metal-plating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CW/VS/GLADMIN-172289/metal-plating-services-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Pickling",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-pickling.html",
+        "thumbnail": "http://3.imimg.com/data3/VM/OQ/GLADMIN-170878/stainless-steel-pickling-125x125.jpg"
+      },
+      {
+        "name": "Copper Electroplating",
+        "page": "https://dir.indiamart.com/impcat/copper-electroplating.html",
+        "thumbnail": "http://3.imimg.com/data3/JE/RQ/GLADMIN-139012/copper-electroplating-125x125.jpg"
+      },
+      {
+        "name": "Black Chrome Plating",
+        "page": "https://dir.indiamart.com/impcat/black-chrome-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/TX/GI/GLADMIN-117772/black-chrome-plating-125x125.jpg"
+      },
+      {
+        "name": "Bronze Plating Services",
+        "page": "https://dir.indiamart.com/impcat/bronze-plating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GR/UC/GLADMIN-117780/bronze-plating-services-125x125.jpg"
+      },
+      {
+        "name": "Alkaline Zinc Plating",
+        "page": "https://dir.indiamart.com/impcat/alkaline-zinc-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/AN/GLADMIN-117759/alkaline-zinc-plating-125x125.jpg"
+      },
+      {
+        "name": "Black Nickel Plating",
+        "page": "https://dir.indiamart.com/impcat/black-nickel-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/IX/FI/GLADMIN-23437/black-nickel-plating-125x125.jpg"
+      },
+      {
+        "name": "Acid Etching",
+        "page": "https://dir.indiamart.com/impcat/acid-etching.html",
+        "thumbnail": "http://3.imimg.com/data3/SY/GA/GLADMIN-176225/acid-etching-125x125.jpg"
+      },
+      {
+        "name": "Duplex Nickel Hard Chrome Plating",
+        "page": "https://dir.indiamart.com/impcat/duplex-nickel-hard-chrome-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/JJ/GLADMIN-176030/duplex-nickel-hard-chrome-plating-125x125.jpg"
+      },
+      {
+        "name": "Barrel Plating Service",
+        "page": "https://dir.indiamart.com/impcat/barrel-plating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/RB/GLADMIN-168767/barrel-plating-service-125x125.jpg"
+      },
+      {
+        "name": "Satin Nickel Plating Service",
+        "page": "https://dir.indiamart.com/impcat/satin-nickel-plating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/YX/GLADMIN-172614/satin-nickel-plating-service-125x125.jpg"
+      },
+      {
+        "name": "Cadmium Electroplating",
+        "page": "https://dir.indiamart.com/impcat/cadmium-electroplating.html",
+        "thumbnail": "http://3.imimg.com/data3/AH/UL/GLADMIN-138997/cadmium-electroplating-125x125.jpg"
+      },
+      {
+        "name": "Zinc Iron Plating",
+        "page": "https://dir.indiamart.com/impcat/zinc-iron-plating.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437692961/YS/VU/VW/96317/zinc-iron-plating-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Metallizing Service",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-metallizing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/SV/XW/GLADMIN-170877/stainless-steel-metallizing-service-125x125.jpg"
+      },
+      {
+        "name": "Cyanide Zinc Plating",
+        "page": "https://dir.indiamart.com/impcat/cyanide-zinc-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/AL/UT/GLADMIN-117815/cyanide-zinc-plating-125x125.jpg"
+      },
+      {
+        "name": "Gold Plating Process",
+        "page": "https://dir.indiamart.com/impcat/gold-plating-process.html",
+        "thumbnail": "http://3.imimg.com/data3/OG/DN/GLADMIN-117833/gold-plating-process-125x125.jpg"
+      },
+      {
+        "name": "Chloride Zinc Plating",
+        "page": "https://dir.indiamart.com/impcat/chloride-zinc-plating.html",
+        "thumbnail": "http://3.imimg.com/data3/NN/CT/GLADMIN-172579/chloride-zinc-plating-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Polishing Service",
+    "category_thumbnail": "http://3.imimg.com/data3/MV/AT/GLADMIN-44257/polishing-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Marble Polishing Services",
+        "page": "https://dir.indiamart.com/impcat/marble-polishing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/BI/GLADMIN-150088/marble-polishing-services-125x125.jpg"
+      },
+      {
+        "name": "Floor Polishing Service",
+        "page": "https://dir.indiamart.com/impcat/floor-polishing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/FG/NK/GLADMIN-170499/floor-polishing-service-125x125.jpg"
+      },
+      {
+        "name": "Marble Floor Polishing Services",
+        "page": "https://dir.indiamart.com/impcat/marble-floor-polishing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MU/UM/GLADMIN-137283/marble-floor-polishing-services-125x125.jpg"
+      },
+      {
+        "name": "Electropolishing",
+        "page": "https://dir.indiamart.com/impcat/electropolishing.html",
+        "thumbnail": "http://3.imimg.com/data3/PX/LU/GLADMIN-27678/electropolishing-125x125.jpg"
+      },
+      {
+        "name": "Concrete Polishing Services",
+        "page": "https://dir.indiamart.com/impcat/concrete-polishing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RB/QY/GLADMIN-145208/concrete-polishing-services-125x125.jpg"
+      },
+      {
+        "name": "Granite Polishing Services",
+        "page": "https://dir.indiamart.com/impcat/granite-polishing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/OX/GLADMIN-170549/granite-polishing-services-125x125.jpg"
+      },
+      {
+        "name": "Metal Polishing Service",
+        "page": "https://dir.indiamart.com/impcat/metal-polishing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/GI/TP/GLADMIN-69780/metal-polishing-service-125x125.jpg"
+      },
+      {
+        "name": "Diamond Polishing Service",
+        "page": "https://dir.indiamart.com/impcat/diamond-polishing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/TI/GLADMIN-44238/diamond-polishing-service-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Polishing Services",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-polishing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HH/LD/GLADMIN-169664/stainless-steel-polishing-services-125x125.jpg"
+      },
+      {
+        "name": "Mould Polishing Services",
+        "page": "https://dir.indiamart.com/impcat/mould-polishing-services.html",
+        "thumbnail": "http://5.imimg.com/data5/DJ/VA/GLADMIN-2/mould-polishing-services-125x125.jpg"
+      },
+      {
+        "name": "Metal Finishing Services",
+        "page": "https://dir.indiamart.com/impcat/metal-finishing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LS/TK/GLADMIN-43105/metal-finishing-services-125x125.jpg"
+      },
+      {
+        "name": "Stone Polishing",
+        "page": "https://dir.indiamart.com/impcat/stone-polishing.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/IU/GLADMIN-44258/stone-polishing-125x125.jpg"
+      },
+      {
+        "name": "Mirror-Finish Polishing Services",
+        "page": "https://dir.indiamart.com/impcat/mirror-finish-polishing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IU/AJ/GLADMIN-171033/mirror-finish-polishing-services-125x125.jpg"
+      },
+      {
+        "name": "SS Electropolishing Service",
+        "page": "https://dir.indiamart.com/impcat/ss-electro-polishing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/UB/GLADMIN-172711/ss-electro-polishing-service-125x125.jpg"
+      },
+      {
+        "name": "Electrochemical Polishing",
+        "page": "https://dir.indiamart.com/impcat/electrochemical-polishing.html",
+        "thumbnail": "http://3.imimg.com/data3/IY/JK/GLADMIN-176712/electrochemical-polishing-125x125.jpg"
+      },
+      {
+        "name": "Shot Peening Services",
+        "page": "https://dir.indiamart.com/impcat/shot-peening-services.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/a-img923-523-fuds9v-125x125.jpg"
+      },
+      {
+        "name": "Glass Polishing Service",
+        "page": "https://dir.indiamart.com/impcat/glass-polishing-service.html",
+        "thumbnail": "http://4.imimg.com/data4/RE/KL/GLADMIN-183347/glass-polishing-service-125x125.jpg"
+      },
+      {
+        "name": "Pickling Service",
+        "page": "https://dir.indiamart.com/impcat/pickling-service.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/GS/GLADMIN-56231/pickling-service-125x125.jpg"
+      },
+      {
+        "name": "Steel Polish Services",
+        "page": "https://dir.indiamart.com/impcat/steel-polish-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VH/GY/GLADMIN-172720/steel-polish-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Blasting Job Works",
+    "category_thumbnail": "http://3.imimg.com/data3/EH/ER/GLADMIN-169155/blasting-job-works-125x125.jpg",
+    "items": [
+      {
+        "name": "Sandblasting Services",
+        "page": "https://dir.indiamart.com/impcat/sandblasting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/EI/DW/GLADMIN-8380/sandblasting-services-125x125.jpg"
+      },
+      {
+        "name": "Shot Blasting Services",
+        "page": "https://dir.indiamart.com/impcat/shot-blasting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/FD/GLADMIN-41734/shot-blasting-services-125x125.jpg"
+      },
+      {
+        "name": "Glass Bead Blasting Service",
+        "page": "https://dir.indiamart.com/impcat/glass-bead-blasting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/JR/QQ/GLADMIN-170545/glass-bead-blasting-service-125x125.jpg"
+      },
+      {
+        "name": "Abrasive Blasting Service",
+        "page": "https://dir.indiamart.com/impcat/abrasive-blasting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/PN/TM/GLADMIN-154103/abrasive-blasting-service-125x125.jpg"
+      },
+      {
+        "name": "Grit Blasting",
+        "page": "https://dir.indiamart.com/impcat/grit-blasting.html",
+        "thumbnail": "http://3.imimg.com/data3/MQ/VV/GLADMIN-70087/grit-blasting-125x125.jpg"
+      },
+      {
+        "name": "Copper Slag Blasting Services",
+        "page": "https://dir.indiamart.com/impcat/copper-slag-blasting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FW/WV/GLADMIN-154097/copper-slag-blasting-services-125x125.jpg"
+      },
+      {
+        "name": "Hydro-Blasting Service",
+        "page": "https://dir.indiamart.com/impcat/hydro-blasting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/LY/GLADMIN-176846/hydro-blasting-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Powder Coating Services",
+    "category_thumbnail": "http://3.imimg.com/data3/MF/FM/GLADMIN-43106/powder-coating-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Aluminium Powder Coating Services",
+        "page": "https://dir.indiamart.com/impcat/aluminium-powder-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/EM/GLADMIN-142316/aluminium-powder-coating-services-125x125.jpg"
+      },
+      {
+        "name": "SS Powder Coating Services",
+        "page": "https://dir.indiamart.com/impcat/ss-powder-coating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RX/CR/GLADMIN-142318/ss-powder-coating-services-125x125.jpg"
+      },
+      {
+        "name": "Steel Powder Coating Service",
+        "page": "https://dir.indiamart.com/impcat/steel-powder-coating-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/371985016/UF/DQ/XT/104148/steel-powder-coating-service-125x125.png"
+      },
+      {
+        "name": "Phosphating Process",
+        "page": "https://dir.indiamart.com/impcat/phosphating-process.html",
+        "thumbnail": "http://3.imimg.com/data3/BM/TL/GLADMIN-127424/phosphating-process-125x125.jpg"
+      },
+      {
+        "name": "Cable Tray Powder Coating",
+        "page": "https://dir.indiamart.com/impcat/cable-tray-powder-coating.html",
+        "thumbnail": "http://4.imimg.com/data4/SP/NX/GLADMIN-174608/cable-tray-powder-coating-125x125.jpg"
+      },
+      {
+        "name": "Thermosetting Powder Coating Service",
+        "page": "https://dir.indiamart.com/impcat/thermosetting-powder-coating-service.html",
+        "thumbnail": "http://3.imimg.com/data3/EY/NK/GLADMIN-169718/thermosetting-powder-coating-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Anodizing Services",
+    "category_thumbnail": "http://3.imimg.com/data3/JP/UU/GLADMIN-2912/anodizing-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Aluminium Anodizing Services",
+        "page": "https://dir.indiamart.com/impcat/aluminium-anodizing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/RQ/GLADMIN-149142/aluminium-anodizing-services-125x125.jpg"
+      },
+      {
+        "name": "Colored Anodizing Services",
+        "page": "https://dir.indiamart.com/impcat/colored-anodizing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/AA/QD/GLADMIN-173886/colored-anodizing-services-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Hard Anodizing Service",
+        "page": "https://dir.indiamart.com/impcat/aluminum-hard-anodizing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/YL/RO/GLADMIN-171266/aluminum-hard-anodizing-service-125x125.jpg"
+      },
+      {
+        "name": "Hard Coat Anodizing",
+        "page": "https://dir.indiamart.com/impcat/hard-coat-anodizing.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/XI/GLADMIN-30091/hard-coat-anodizing-125x125.png"
+      },
+      {
+        "name": "Black Anodizing",
+        "page": "https://dir.indiamart.com/impcat/black-anodizing.html",
+        "thumbnail": "http://3.imimg.com/data3/NX/FE/GLADMIN-23273/black-anodizing-125x125.jpg"
+      },
+      {
+        "name": "Electro-color Anodizing Services",
+        "page": "https://dir.indiamart.com/impcat/electro-color-anodizing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/JG/XE/GLADMIN-169317/electro-color-anodizing-services-125x125.jpg"
+      },
+      {
+        "name": "Metal Anodizing Service",
+        "page": "https://dir.indiamart.com/impcat/metal-anodizing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/CA/MX/GLADMIN-173110/metal-anodizing-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Product Painting Services",
+    "category_thumbnail": "http://3.imimg.com/data3/IH/KD/GLADMIN-169561/product-painting-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Automotive Painting Services",
+        "page": "https://dir.indiamart.com/impcat/automotive-painting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/VM/GLADMIN-143363/automotive-painting-services-125x125.jpg"
+      },
+      {
+        "name": "Machine Painting Service",
+        "page": "https://dir.indiamart.com/impcat/machine-painting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/TM/CM/GLADMIN-118786/machine-painting-service-125x125.jpg"
+      },
+      {
+        "name": "Tank Painting Service",
+        "page": "https://dir.indiamart.com/impcat/tank-painting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/VT/QX/GLADMIN-172759/tank-painting-service-125x125.jpg"
+      },
+      {
+        "name": "Airless Spray Painting Service",
+        "page": "https://dir.indiamart.com/impcat/airless-spray-painting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/QO/SQ/GLADMIN-174859/airless-spray-painting-service-125x125.jpg"
+      },
+      {
+        "name": "Chimney Painting Service",
+        "page": "https://dir.indiamart.com/impcat/chimney-painting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/TY/QT/GLADMIN-171381/chimney-painting-service-125x125.jpg"
+      },
+      {
+        "name": "Tower Painting Service",
+        "page": "https://dir.indiamart.com/impcat/tower-painting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/YY/AH/GLADMIN-172799/tower-painting-service-125x125.jpg"
+      },
+      {
+        "name": "Art Handling Service",
+        "page": "https://dir.indiamart.com/impcat/art-handling-service.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/UE/GLADMIN-169130/art-handling-service-125x125.jpg"
+      },
+      {
+        "name": "Gun Spray Painting",
+        "page": "https://dir.indiamart.com/impcat/gun-spray-painting.html",
+        "thumbnail": "http://3.imimg.com/data3/YS/FX/GLADMIN-70088/gun-spray-painting-125x125.jpg"
+      },
+      {
+        "name": "Tanjore Painting Service",
+        "page": "https://dir.indiamart.com/impcat/tanjore-painting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/MM/GLADMIN-172758/tanjore-painting-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Leafing Service",
+    "category_thumbnail": "http://3.imimg.com/data3/BC/GG/GLADMIN-56237/leafing-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Gold Leafing",
+        "page": "https://dir.indiamart.com/impcat/gold-leafing.html",
+        "thumbnail": "http://3.imimg.com/data3/YR/VS/GLADMIN-56236/gold-leafing-125x125.jpg"
+      },
+      {
+        "name": "Champagne Leafing",
+        "page": "https://dir.indiamart.com/impcat/champagne-leafing.html",
+        "thumbnail": "http://3.imimg.com/data3/OH/NO/GLADMIN-56233/champagne-leafing-125x125.jpg"
+      },
+      {
+        "name": "Copper Leafing",
+        "page": "https://dir.indiamart.com/impcat/copper-leafing.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/YB/GLADMIN-56234/copper-leafing-125x125.jpg"
+      },
+      {
+        "name": "Metal Leafing",
+        "page": "https://dir.indiamart.com/impcat/metal-leafing.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/HI/GLADMIN-56238/metal-leafing-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Plating Services",
+        "page": "https://dir.indiamart.com/impcat/plating-services.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/FI/GLADMIN-19061/plating-services-125x125.jpg"
+      }
+    ]
+  }
+]

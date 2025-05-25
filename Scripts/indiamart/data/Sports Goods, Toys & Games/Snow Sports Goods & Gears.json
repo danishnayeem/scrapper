@@ -1,0 +1,59 @@
+[
+  {
+    "category_name": "Snowboarding Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/OW/AT/GLADMIN-20824/snowboarding-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Snow Boots",
+        "page": "https://dir.indiamart.com/impcat/snow-boots.html",
+        "thumbnail": "http://3.imimg.com/data3/XF/TU/GLADMIN-36954/snow-boots-125x125.jpg"
+      },
+      {
+        "name": "Ski Jackets",
+        "page": "https://dir.indiamart.com/impcat/ski-jackets.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/LI/GLADMIN-37203/ski-jackets-125x125.jpg"
+      },
+      {
+        "name": "Snowboard Jacket",
+        "page": "https://dir.indiamart.com/impcat/snowboard-jacket.html",
+        "thumbnail": "http://4.imimg.com/data4/LR/DG/GLADMIN-116769/snowboard-jacket-125x125.jpg"
+      },
+      {
+        "name": "Ski Wear",
+        "page": "https://dir.indiamart.com/impcat/ski-wear.html",
+        "thumbnail": "http://3.imimg.com/data3/EI/JJ/GLADMIN-37923/ski-wear-125x125.jpg"
+      },
+      {
+        "name": "Ski Goggle",
+        "page": "https://dir.indiamart.com/impcat/ski-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/JH/GLADMIN-37200/ski-goggle-125x125.jpg"
+      },
+      {
+        "name": "Snow Goggle",
+        "page": "https://dir.indiamart.com/impcat/snow-goggle.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/OA/GLADMIN-94981/snow-goggle-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Ice Hockey Equipment",
+    "category_thumbnail": "http://3.imimg.com/data3/PR/VV/GLADMIN-20823/ice-hockey-equipment-125x125.jpg",
+    "items": [
+      {
+        "name": "Ice Hockey Skates",
+        "page": "https://dir.indiamart.com/impcat/ice-hockey-skates.html",
+        "thumbnail": "http://3.imimg.com/data3/VM/IW/GLADMIN-20608/ice-hockey-skates-125x125.jpg"
+      },
+      {
+        "name": "Ice Hockey Sticks",
+        "page": "https://dir.indiamart.com/impcat/ice-hockey-sticks.html",
+        "thumbnail": "http://3.imimg.com/data3/NX/VG/GLADMIN-30783/ice-hockey-sticks-125x125.jpg"
+      },
+      {
+        "name": "Ice Hockey Nets",
+        "page": "https://dir.indiamart.com/impcat/ice-hockey-nets.html",
+        "thumbnail": "http://3.imimg.com/data3/QF/BQ/GLADMIN-30781/ice-hockey-nets-125x125.jpg"
+      }
+    ]
+  }
+]

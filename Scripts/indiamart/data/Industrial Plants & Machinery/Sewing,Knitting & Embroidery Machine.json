@@ -1,0 +1,922 @@
+[
+  {
+    "category_name": "Industrial Sewing Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/VQ/BA/GLADMIN-15686/industrial-sewing-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Single Needle Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/single-needle-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/LJ/GLADMIN-136594/single-needle-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Overlock Machine",
+        "page": "https://dir.indiamart.com/impcat/overlock-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/AK/GLADMIN-90364/overlock-machine-125x125.jpg"
+      },
+      {
+        "name": "Button Hole Machine",
+        "page": "https://dir.indiamart.com/impcat/button-hole-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/TE/SP/GLADMIN-139234/button-hole-machine-125x125.jpg"
+      },
+      {
+        "name": "Zig Zag Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/zig-zag-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/VQ/GLADMIN-90374/zig-zag-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Badges Machine",
+        "page": "https://dir.indiamart.com/impcat/badges-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/VQ/MY-2/badges_machine-125x125.jpg"
+      },
+      {
+        "name": "Button Machine",
+        "page": "https://dir.indiamart.com/impcat/button-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/ON/OI/GLADMIN-23948/button-machine-125x125.jpg"
+      },
+      {
+        "name": "Tape Edge Machine",
+        "page": "https://dir.indiamart.com/impcat/tape-edge-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/PW/GLADMIN-107109/tape-edge-machine-125x125.jpg"
+      },
+      {
+        "name": "Leather Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/leather-sewing-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/HH/JV/MJ/20683/leather-sewing-machine-125x125.JPG"
+      },
+      {
+        "name": "Garment Stitching Machine",
+        "page": "https://dir.indiamart.com/impcat/fabric-stitching-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/JB/XY/GLADMIN-139483/fabric-stitching-machine-125x125.jpg"
+      },
+      {
+        "name": "Flat Lock Machine",
+        "page": "https://dir.indiamart.com/impcat/flat-lock-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/WC/JK/GLADMIN-185392/flat-lock-machine-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Repairs",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-repairs.html",
+        "thumbnail": "http://5.imimg.com/data5/LW/EX/NW/GLADMIN-56986/sewing-machine-repairs-125x125.jpg"
+      },
+      {
+        "name": "Button Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/button-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/RL/GLADMIN-154900/button-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Interlock Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/interlock-sewing-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/HG/GQ/GLADMIN-181144/interlock-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Multi Needle Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/multi-needle-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/VN/RG/GLADMIN-181280/multi-needle-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Mattress Making Machine",
+        "page": "https://dir.indiamart.com/impcat/mattress-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/JK/RN/MY-2/duo-matt-machine-295-125x125.jpg"
+      },
+      {
+        "name": "Bar Tacking Machine",
+        "page": "https://dir.indiamart.com/impcat/bar-tacking-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/DU/QO/GLADMIN-164644/bar-tacking-machine-125x125.jpg"
+      },
+      {
+        "name": "Snap Button Machine",
+        "page": "https://dir.indiamart.com/impcat/snap-button-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/1/FG/FL/TA/64512/snap-button-machine-125x125.png"
+      },
+      {
+        "name": "Quilting Machines",
+        "page": "https://dir.indiamart.com/impcat/quilting-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/EX/GLADMIN-2195/quilting-machines-125x125.jpg"
+      },
+      {
+        "name": "Feed Off The Arm Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/feed-off-the-arm-sewing-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/10/OP/JP/NT/81953/feed-off-the-arm-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Computerized Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/computerized-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/JQ/GLADMIN-155967/computerized-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Post Bed Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/post-bed-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IF/SH/GLADMIN-166194/post-bed-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Twin Needle Sewing Machines",
+        "page": "https://dir.indiamart.com/impcat/twin-needle-sewing-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/TH/GLADMIN-156245/twin-needle-sewing-machines-125x125.jpg"
+      },
+      {
+        "name": "Hemming Machine",
+        "page": "https://dir.indiamart.com/impcat/hemming-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/SF/FC/GLADMIN-139321/hemming-machine-125x125.jpg"
+      },
+      {
+        "name": "Cylinder Bed Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/cylinder-bed-sewing-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/HM/ID/GLADMIN-2/cylinder-bed-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Ultrasonic Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/ultrasonic-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/YK/GLADMIN-157847/ultrasonic-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Attaching Machine",
+        "page": "https://dir.indiamart.com/impcat/attaching-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/AQ/GLADMIN-12655/attaching-machine-125x125.jpg"
+      },
+      {
+        "name": "Computerized Quilting Machine",
+        "page": "https://dir.indiamart.com/impcat/computerized-quilting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/GA/MY-2/computerized-quilting-machine-125x125.jpg"
+      },
+      {
+        "name": "Single Needle Lockstitch",
+        "page": "https://dir.indiamart.com/impcat/single-needle-lock-stitch.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318620567/QA/JY/DG/90177/single-needle-lock-stitch-125x125.png"
+      },
+      {
+        "name": "Elastic Attaching Machine",
+        "page": "https://dir.indiamart.com/impcat/elastic-attaching-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320240430/DO/AD/WG/90177/elastic-attaching-machine-125x125.png"
+      },
+      {
+        "name": "Pearl Attaching Machine",
+        "page": "https://dir.indiamart.com/impcat/pearl-attaching-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/PD/UI/NX/GLADMIN-56986/pearl-attaching-machine-125x125.jpg"
+      },
+      {
+        "name": "Bobbin Elastic Machine",
+        "page": "https://dir.indiamart.com/impcat/bobbin-elastic-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/LP/IM/GLADMIN-146975/bobbin-elastic-machine-125x125.jpg"
+      },
+      {
+        "name": "Belt Loop Making Machine",
+        "page": "https://dir.indiamart.com/impcat/belt-loop-making-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/CM/ZW/BU/GLADMIN-76441/belt-loop-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Saddle Stitching Machines",
+        "page": "https://dir.indiamart.com/impcat/saddle-stitching-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/EX/DJ/GLADMIN-36653/saddle-stitching-machines-125x125.jpg"
+      },
+      {
+        "name": "Ultrasonic Quilting Machine",
+        "page": "https://dir.indiamart.com/impcat/ultrasonic-quilting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/BO/RW/GLADMIN-56262/ultrasonic-quilting-machine-125x125.jpg"
+      },
+      {
+        "name": "Piece End Joining Machine",
+        "page": "https://dir.indiamart.com/impcat/piece-end-joining-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/JA/NS/GLADMIN-181273/piece-end-joining-machine-125x125.jpg"
+      },
+      {
+        "name": "Wig Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/wig-sewing-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/NI/NJ/GLADMIN-2/wig-sewing-machine-500x500-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Home Sewing Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/HG/BX/GLADMIN-90358/home-sewing-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Manual Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/manual-sewing-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/VC/XV/PQ/GLADMIN-56986/manual-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Second Hand Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/used-sewing-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/NJ/VW/GLADMIN-2/used-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Foot Operated Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/table-top-sewing-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/11/YZ/YO/DZ/20683/foot-operated-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Umbrella Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/umbrella-sewing-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/WA/TG/GLADMIN-181143/umbrella-sewing-machine-125x125.png"
+      },
+      {
+        "name": "Automatic Sewing Machines",
+        "page": "https://dir.indiamart.com/impcat/automatic-sewing-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/HF/GLADMIN-156747/automatic-sewing-machines-125x125.jpg"
+      },
+      {
+        "name": "Handheld Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/handheld-sewing-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/MG/TC/GLADMIN-2/hand-held-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Mini Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/mini-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/QO/JW/GLADMIN-90363/mini-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Electric Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/electric-sewing-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/AS/IG/GLADMIN-185198/electric-sewing-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Embroidery Machine",
+    "category_thumbnail": "http://3.imimg.com/data3/RG/YK/GLADMIN-7000/embroidery-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Computerized Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/computerized-embroidery-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/QQ/HE/GLADMIN-25666/computerized-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Single Head Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/single-head-embroidery-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/AS/BE/GLADMIN-90373/single-head-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Multi Head Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/multi-head-embroidery-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/VV/XW/GLADMIN-2/multi-head-embroidery-machine-125x125.png"
+      },
+      {
+        "name": "Used Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/used-embroidery-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/AB/OV/GLADMIN-186473/used-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Sewing Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/sewing-embroidery-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/WB/AQ/GLADMIN-90367/sewing-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Aari Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/aari-embroidery-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/MV/PS/MY-2/aari-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Sequins Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/sequins-embroidery-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/IO/WW/GLADMIN-145400/sequins-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Double Head Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/double-head-embroidery-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/ID/GLADMIN-177851/double-head-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Sequin Device",
+        "page": "https://dir.indiamart.com/impcat/sequin-device.html",
+        "thumbnail": "http://3.imimg.com/data3/UX/LA/GLADMIN-139749/sequin-device-125x125.jpg"
+      },
+      {
+        "name": "Cording Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/cording-embroidery-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/WP/GLADMIN-145399/cording-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Schiffli Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/schiffli-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/AH/FG/GLADMIN-2/multi-head-mini-schiffli-embroidery-machine-500x500-125x125.jpg"
+      },
+      {
+        "name": "Chenille Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/chenille-embroidery-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/JF/YE/GLADMIN-2/chenille-embroidery-machine-920x722-125x125.jpg"
+      },
+      {
+        "name": "Laser Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/laser-embroidery-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/CY/VC/GLADMIN-2/laser-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Quilting Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/quilting-embroidery-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/CB/EX/GLADMIN-2/quilting-embroidery-machine-125x125.png"
+      },
+      {
+        "name": "Cap Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/cap-embroidery-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/PT/TH/GLADMIN-90351/cap-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Mixed Embroidery Machine",
+        "page": "https://dir.indiamart.com/impcat/mixed-embroidery-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/JN/GLADMIN-112577/mixed-embroidery-machine-125x125.jpg"
+      },
+      {
+        "name": "Embroidery Flat Bed Machine",
+        "page": "https://dir.indiamart.com/impcat/flat-bed-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/BN/XU/GLADMIN-90354/flat-bed-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Sewing Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/DT/GU/GLADMIN-2127/sewing-machines-125x125.jpg",
+    "items": [
+      {
+        "name": "Industrial Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/industrial-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/BA/GLADMIN-15686/industrial-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Home Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/home-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/BX/GLADMIN-90358/home-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Accessories",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-accessories.html",
+        "thumbnail": "http://5.imimg.com/data5/UR/BB/GLADMIN-2/sewing-tools-125x125.jpg"
+      },
+      {
+        "name": "Chain Stitch Machine",
+        "page": "https://dir.indiamart.com/impcat/chain-stitch-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/OS/UU/GLADMIN-185393/chain-stitch-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Sewing Machine Parts",
+    "category_thumbnail": "http://5.imimg.com/data5/TH/DT/GLADMIN-2/sewing-machine-125x125.jpg",
+    "items": [
+      {
+        "name": "Sewing Machine Motor",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-motor.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/RS/GLADMIN-44840/sewing-machine-motor-125x125.jpg"
+      },
+      {
+        "name": "Industrial Sewing Machine Parts",
+        "page": "https://dir.indiamart.com/impcat/industrial-sewing-machine-parts.html",
+        "thumbnail": "http://5.imimg.com/data5/RK/EJ/GLADMIN-2/sewing-machine-spare-parts-500x500-500x500-125x125.jpg"
+      },
+      {
+        "name": "Shuttle Hook",
+        "page": "https://dir.indiamart.com/impcat/shuttle-hook.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/VG/GLADMIN-90372/shuttle-hook-125x125.jpg"
+      },
+      {
+        "name": "Pressure Foot",
+        "page": "https://dir.indiamart.com/impcat/pressure-foot.html",
+        "thumbnail": "http://3.imimg.com/data3/HK/HY/GLADMIN-139099/pressure-foot-125x125.jpg"
+      },
+      {
+        "name": "Sewing Light",
+        "page": "https://dir.indiamart.com/impcat/sewing-light.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/VR/LI/PA/64512/sewing-light-125x125.jpg"
+      },
+      {
+        "name": "Clutch Motor",
+        "page": "https://dir.indiamart.com/impcat/clutch-motor.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/LL/GLADMIN-25047/clutch-motor-125x125.jpg"
+      },
+      {
+        "name": "Metal Bobbin Case",
+        "page": "https://dir.indiamart.com/impcat/metal-bobbin-case.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/PN/GLADMIN-96293/metal-bobbin-case-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Belt",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-belt.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SN/QG/OI/64512/sewing-machine-belt-125x125.png"
+      },
+      {
+        "name": "Needle Plate",
+        "page": "https://dir.indiamart.com/impcat/needle-plate.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/OT/GLADMIN-74667/needle-plate-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Body",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-body.html",
+        "thumbnail": "http://3.imimg.com/data3/LA/CA/GLADMIN-132239/sewing-machine-body-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Looper",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-looper.html",
+        "thumbnail": "http://5.imimg.com/data5/DL/KY/OJ/GLADMIN-56986/sewing-machine-looper-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Handle",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-handle.html",
+        "thumbnail": "http://5.imimg.com/data5/PS/YR/AE/GLADMIN-68155/sewing-machine-handle-125x125.jpg"
+      },
+      {
+        "name": "Bobbin Holder",
+        "page": "https://dir.indiamart.com/impcat/bobbin-holder.html",
+        "thumbnail": "http://3.imimg.com/data3/TW/YG/GLADMIN-4491/bobbin-holder-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Wheel",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-wheel.html",
+        "thumbnail": "http://5.imimg.com/data5/EY/AD/RJ/GLADMIN-20683/sewing-machine-wheel-125x125.jpg"
+      },
+      {
+        "name": "Tensional Assemblies",
+        "page": "https://dir.indiamart.com/impcat/tensional-assemblies.html",
+        "thumbnail": "http://3.imimg.com/data3/FW/PG/GLADMIN-117206/tensional-assemblies-125x125.jpg"
+      },
+      {
+        "name": "Thread Stands",
+        "page": "https://dir.indiamart.com/impcat/thread-stands.html",
+        "thumbnail": "http://3.imimg.com/data3/AS/TP/GLADMIN-42648/thread-stands-125x125.jpg"
+      },
+      {
+        "name": "Skiving Bell Knife",
+        "page": "https://dir.indiamart.com/impcat/skiving-bell-knife.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/1/GV/VT/JR/64512/skiving-bell-knife-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Motor Armature",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-motor-armature.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/329677448/HJ/ZH/NS/90596/sewing-machine-motor-armature-125x125.png"
+      },
+      {
+        "name": "Feed Dogs",
+        "page": "https://dir.indiamart.com/impcat/feed-dogs.html",
+        "thumbnail": "http://5.imimg.com/data5/SU/PG/GLADMIN-2/feed-dogs-125x125.jpg"
+      },
+      {
+        "name": "Shank Adaptor",
+        "page": "https://dir.indiamart.com/impcat/shank-adaptor.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/AX/GLADMIN-96294/shank-adaptor-125x125.jpg"
+      },
+      {
+        "name": "Thread Guide",
+        "page": "https://dir.indiamart.com/impcat/thread-guide.html",
+        "thumbnail": "http://3.imimg.com/data3/HK/HS/GLADMIN-88255/thread-guide-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Sewing Machine Accessories",
+    "category_thumbnail": "http://5.imimg.com/data5/UR/BB/GLADMIN-2/sewing-tools-125x125.jpg",
+    "items": [
+      {
+        "name": "Sewing Machine Table",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-table.html",
+        "thumbnail": "http://3.imimg.com/data3/OP/SS/GLADMIN-90222/sewing-machine-table-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Stands",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-stands.html",
+        "thumbnail": "http://3.imimg.com/data3/HQ/DU/GLADMIN-37622/sewing-machine-stands-125x125.jpg"
+      },
+      {
+        "name": "Tailor Ruler",
+        "page": "https://dir.indiamart.com/impcat/tailor-tools.html",
+        "thumbnail": "http://5.imimg.com/data5/IK/LS/GLADMIN-2/tailor-scale-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Table Top",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-table-top.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/NG/GLADMIN-177208/sewing-machine-table-top-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Tools",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-tools.html",
+        "thumbnail": "http://5.imimg.com/data5/FY/FX/GLADMIN-2/tools-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Cover",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-cover.html",
+        "thumbnail": "http://5.imimg.com/data5/AM/LV/RA/GLADMIN-68155/sewing-machine-cover-125x125.jpg"
+      },
+      {
+        "name": "End Cutter",
+        "page": "https://dir.indiamart.com/impcat/end-cutter.html",
+        "thumbnail": "http://3.imimg.com/data3/DS/LJ/GLADMIN-68447/end-cutter-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Base",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-base.html",
+        "thumbnail": "http://5.imimg.com/data5/BV/WG/UK/GLADMIN-68155/sewing-machine-base-125x125.jpg"
+      },
+      {
+        "name": "Tracing Wheel",
+        "page": "https://dir.indiamart.com/impcat/tracing-wheel.html",
+        "thumbnail": "http://3.imimg.com/data3/FJ/UI/GLADMIN-164160/tracing-wheel-125x125.jpg"
+      },
+      {
+        "name": "Sewing Scissors",
+        "page": "https://dir.indiamart.com/impcat/sewing-scissors.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/GS/GLADMIN-37624/sewing-scissors-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Drawer",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-drawer.html",
+        "thumbnail": "http://5.imimg.com/data5/PE/CJ/MZ/GLADMIN-68087/sewing-machine-drawer-125x125.jpg"
+      },
+      {
+        "name": "Fiber Cutter",
+        "page": "https://dir.indiamart.com/impcat/fiber-cutter.html",
+        "thumbnail": "http://3.imimg.com/data3/UF/UY/GLADMIN-144135/fiber-cutter-125x125.jpg"
+      },
+      {
+        "name": "Sewing Machine Cabinets",
+        "page": "https://dir.indiamart.com/impcat/sewing-machine-cabinets.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/XG/GLADMIN-37621/sewing-machine-cabinets-125x125.jpg"
+      },
+      {
+        "name": "Seam Ripper",
+        "page": "https://dir.indiamart.com/impcat/seam-ripper.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/AV/GLADMIN-37686/seam-ripper-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Knitting Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/HH/BF/GLADMIN-1607/knitting-machines-125x125.jpg",
+    "items": [
+      {
+        "name": "Flat Knitting Machines",
+        "page": "https://dir.indiamart.com/impcat/flat-knitting-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/QY/GLADMIN-28529/flat-knitting-machines-125x125.jpg"
+      },
+      {
+        "name": "Socks Making Machine",
+        "page": "https://dir.indiamart.com/impcat/socks-making-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/DJ/GLADMIN-138875/socks-making-machine-125x125.jpg"
+      },
+      {
+        "name": "Glove Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/glove-knitting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/LV/JY/GLADMIN-88252/glove-knitting-machine-125x125.jpg"
+      },
+      {
+        "name": "Sweater Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/sweater-knitting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/WR/GLADMIN-144483/sweater-knitting-machine-125x125.jpg"
+      },
+      {
+        "name": "Circular Knitting Machines",
+        "page": "https://dir.indiamart.com/impcat/circular-knitting-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/CU/GLADMIN-24920/circular-knitting-machines-125x125.jpg"
+      },
+      {
+        "name": "Crochet Machine",
+        "page": "https://dir.indiamart.com/impcat/crochet-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/JO/KH/GLADMIN-13592/crochet-machine-125x125.jpg"
+      },
+      {
+        "name": "Warp Knitting Machines",
+        "page": "https://dir.indiamart.com/impcat/warp-knitting-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/EG/ST/GLADMIN-3330/warp-knitting-machines-125x125.jpg"
+      },
+      {
+        "name": "Collar Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/collar-knitting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/JJ/GLADMIN-144482/collar-knitting-machine-125x125.jpg"
+      },
+      {
+        "name": "Jacquard Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/jacquard-knitting-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/AF/TD/GLADMIN-2/computerized_double_jacquard_knitting_machine_rsdt-s-125x125.jpg"
+      },
+      {
+        "name": "Used Flat Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/used-knitting-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/a-img923-3859-nhslkj-125x125.jpg"
+      },
+      {
+        "name": "Used Warp Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/computerized-knitting-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/QA/HI/QT/64512/computerized-knitting-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bag Sewing Machines",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/10/EH/TF/KX/20683/bag-sewing-machines-125x125.jpg",
+    "items": [
+      {
+        "name": "Jute Bag Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/jute-bag-sewing-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/BD/GLADMIN-142507/jute-bag-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Woven Sack Bag Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/woven-sack-bag-sewing-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/CO/YJ/CB/20683/woven-sack-bag-sewing-machine-125x125.JPG"
+      },
+      {
+        "name": "Bag Overedging Machine",
+        "page": "https://dir.indiamart.com/impcat/bag-overedging-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/VT/QT/GLADMIN-121075/bag-overedging-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Book Stitching Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/VS/VY/GLADMIN-1543/book-stitching-machines-125x125.jpg",
+    "items": [
+      {
+        "name": "Thread Book Sewing Machine",
+        "page": "https://dir.indiamart.com/impcat/thread-book-sewing-machine.html",
+        "thumbnail": "http://4.imimg.com/data4/XE/EN/GLADMIN-181079/thread-book-sewing-machine-125x125.jpg"
+      },
+      {
+        "name": "Edge Squaring Machine",
+        "page": "https://dir.indiamart.com/impcat/edge-squaring-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/IL/UI/BO/64512/edge-squaring-machine-125x125.PNG"
+      },
+      {
+        "name": "Wire Stitching Machine",
+        "page": "https://dir.indiamart.com/impcat/wire-stitching-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/VU/UY/MY-2/wire-stitching-machine-125x125.jpg"
+      },
+      {
+        "name": "Squaring Machine",
+        "page": "https://dir.indiamart.com/impcat/squaring-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/LK/MY-2/squaring-machine-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Embroidery Machine Parts",
+    "category_thumbnail": "http://3.imimg.com/data3/XX/RG/GLADMIN-80279/embroidery-machine-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Embroidery Machine Tools",
+        "page": "https://dir.indiamart.com/impcat/embroidery-machine-tools.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/ID/YQ/MO/64512/embroidery-machine-tools-125x125.PNG"
+      },
+      {
+        "name": "Embroidery Machine Hook",
+        "page": "https://dir.indiamart.com/impcat/embroidery-machine-hook.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/1/PA/RL/LD/64512/embroidery-machine-hook-125x125.jpg"
+      },
+      {
+        "name": "Cording Device",
+        "page": "https://dir.indiamart.com/impcat/cording-device.html",
+        "thumbnail": "http://3.imimg.com/data3/OO/VT/GLADMIN-142440/cording-device-125x125.jpg"
+      },
+      {
+        "name": "Schiffli Embroidery Machine Parts",
+        "page": "https://dir.indiamart.com/impcat/schiffli-embroidery-machine-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/BG/QL/GLADMIN-/2-444170-small-images-schiffli-embroidery-machine-parts-781595-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Circular Knitting Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/LE/CU/GLADMIN-24920/circular-knitting-machines-125x125.jpg",
+    "items": [
+      {
+        "name": "Used Circular Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/used-circular-knitting-machines.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/GY/GLADMIN-152669/used-circular-knitting-machines-125x125.jpg"
+      },
+      {
+        "name": "Jersey Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/jersey-knitting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/SQ/GLADMIN-132907/jersey-knitting-machine-125x125.jpg"
+      },
+      {
+        "name": "Rib Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/rib-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/KY/GLADMIN-88253/rib-machine-125x125.jpg"
+      },
+      {
+        "name": "Used Warp Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/computerized-knitting-machine.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/QA/HI/QT/64512/computerized-knitting-machine-125x125.jpg"
+      },
+      {
+        "name": "Hose Knitting Machine",
+        "page": "https://dir.indiamart.com/impcat/hose-knitting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/UD/GLADMIN-138144/hose-knitting-machine-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Warping Machines",
+    "category_thumbnail": "http://3.imimg.com/data3/GN/BB/GLADMIN-40919/warping-machines-125x125.jpg",
+    "items": [
+      {
+        "name": "Warp Knotting Machine",
+        "page": "https://dir.indiamart.com/impcat/warp-knotting-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/NR/MY-2/warp-knotting-machine-125x125.jpg"
+      },
+      {
+        "name": "Sectional Warping Machine",
+        "page": "https://dir.indiamart.com/impcat/sectional-warping-machine.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/VI/MY-2/sectional-warping-machine-125x125.jpg"
+      },
+      {
+        "name": "Warping Creel",
+        "page": "https://dir.indiamart.com/impcat/warping-creel.html",
+        "thumbnail": "http://4.imimg.com/data4/JC/IN/GLADMIN-182359/warping-creel-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Knitting Machine Parts",
+    "category_thumbnail": "http://5.imimg.com/data5/VB/JA/GLADMIN-2/knitting-machine-parts-125x125.jpg",
+    "items": [
+      {
+        "name": "Circular Knitting Machine Parts",
+        "page": "https://dir.indiamart.com/impcat/circular-knitting-machine-parts.html",
+        "thumbnail": "http://5.imimg.com/data5/AQ/ML/GLADMIN-2/circular-knitting-machine-parts-125x125.jpg"
+      },
+      {
+        "name": "Yarn Carrier",
+        "page": "https://dir.indiamart.com/impcat/yarn-carrier.html",
+        "thumbnail": "http://3.imimg.com/data3/SD/EM/GLADMIN-74671/yarn-carrier-125x125.jpg"
+      },
+      {
+        "name": "Weft Needle",
+        "page": "https://dir.indiamart.com/impcat/weft-needle.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/DK/GLADMIN-160844/weft-needle-125x125.jpg"
+      },
+      {
+        "name": "Boat Shuttles",
+        "page": "https://dir.indiamart.com/impcat/boat-shuttles.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/LX/GLADMIN-22955/boat-shuttles-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Bobbin",
+    "category_thumbnail": "http://3.imimg.com/data3/QV/TL/GLADMIN-105833/bobbin-125x125.jpg",
+    "items": [
+      {
+        "name": "Plastic Spools",
+        "page": "https://dir.indiamart.com/impcat/plastic-spools.html",
+        "thumbnail": "http://3.imimg.com/data3/SG/DE/GLADMIN-35358/plastic-spools-125x125.jpg"
+      },
+      {
+        "name": "Plastic Bobbins",
+        "page": "https://dir.indiamart.com/impcat/plastic-bobbins.html",
+        "thumbnail": "http://3.imimg.com/data3/PB/DM/GLADMIN-34499/plastic-bobbins-125x125.jpg"
+      },
+      {
+        "name": "Paper Bobbins",
+        "page": "https://dir.indiamart.com/impcat/paper-bobbins.html",
+        "thumbnail": "http://3.imimg.com/data3/YM/CX/GLADMIN-111402/paper-bobbins-125x125.jpg"
+      },
+      {
+        "name": "Textile Bobbins",
+        "page": "https://dir.indiamart.com/impcat/textile-bobbins.html",
+        "thumbnail": "http://3.imimg.com/data3/JQ/XP/GLADMIN-39721/textile-bobbins-125x125.jpg"
+      },
+      {
+        "name": "Plastic Reels",
+        "page": "https://dir.indiamart.com/impcat/plastic-reels.html",
+        "thumbnail": "http://3.imimg.com/data3/IY/AW/GLADMIN-35000/plastic-reels-125x125.jpg"
+      },
+      {
+        "name": "Nylon Bobbin",
+        "page": "https://dir.indiamart.com/impcat/nylon-bobbin.html",
+        "thumbnail": "http://3.imimg.com/data3/NU/YF/GLADMIN-145418/nylon-bobbin-125x125.jpg"
+      },
+      {
+        "name": "Wire Bobbin",
+        "page": "https://dir.indiamart.com/impcat/wire-bobbin.html",
+        "thumbnail": "http://3.imimg.com/data3/MC/RL/GLADMIN-160263/wire-bobbin-125x125.jpg"
+      },
+      {
+        "name": "Metal Bobbins",
+        "page": "https://dir.indiamart.com/impcat/metal-bobbins.html",
+        "thumbnail": "http://3.imimg.com/data3/MT/JV/GLADMIN-164744/metal-bobbins-125x125.jpg"
+      },
+      {
+        "name": "Coil Bobbin",
+        "page": "https://dir.indiamart.com/impcat/coil-bobbin.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/PB/GLADMIN-44856/coil-bobbin-125x125.jpg"
+      },
+      {
+        "name": "Wooden Bobbin",
+        "page": "https://dir.indiamart.com/impcat/wooden-bobbin.html",
+        "thumbnail": "http://5.imimg.com/data5/DW/AD/GLADMIN-2/wooden-bobbin-125x125.jpg"
+      },
+      {
+        "name": "Yarn Bobbins",
+        "page": "https://dir.indiamart.com/impcat/yarn-bobbins.html",
+        "thumbnail": "http://3.imimg.com/data3/SN/RJ/GLADMIN-158041/yarn-bobbins-125x125.jpg"
+      },
+      {
+        "name": "Mild Steel Bobbins",
+        "page": "https://dir.indiamart.com/impcat/mild-steel-bobbins.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/1/OG/XU/TL/64512/mild-steel-bobbins-125x125.PNG"
+      },
+      {
+        "name": "Simplex Bobbin",
+        "page": "https://dir.indiamart.com/impcat/simplex-bobbin.html",
+        "thumbnail": "http://3.imimg.com/data3/LM/WM/GLADMIN-158019/simplex-bobbin-125x125.jpg"
+      },
+      {
+        "name": "TFO Bobbin",
+        "page": "https://dir.indiamart.com/impcat/tfo-bobbin.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/GJ/GLADMIN-158028/tfo-bobbin-125x125.jpg"
+      },
+      {
+        "name": "Lace Bobbins",
+        "page": "https://dir.indiamart.com/impcat/lace-bobbins.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/RR/MY-2/lace-bobbins-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Bobbin",
+        "page": "https://dir.indiamart.com/impcat/ceramic-bobbin.html",
+        "thumbnail": "http://4.imimg.com/data4/KW/WE/GLADMIN-180163/ceramic-bobbin-125x125.jpg"
+      },
+      {
+        "name": "Ring Bobbin",
+        "page": "https://dir.indiamart.com/impcat/ring-bobbin.html",
+        "thumbnail": "http://3.imimg.com/data3/YR/IT/GLADMIN-74744/ring-bobbin-125x125.jpg"
+      },
+      {
+        "name": "Flanged Bobbin",
+        "page": "https://dir.indiamart.com/impcat/flanged-bobbin.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/FX/GLADMIN-160611/flanged-bobbin-125x125.jpg"
+      },
+      {
+        "name": "Pot Core Bobbin",
+        "page": "https://dir.indiamart.com/impcat/pot-core-bobbin.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/1/QY/CO/QX/64512/pot-core-bobbin-125x125.PNG"
+      },
+      {
+        "name": "Steel Bobbins",
+        "page": "https://dir.indiamart.com/impcat/steel-bobbins.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/NJ/LC/SI/64512/steel-bobbins-125x125.PNG"
+      },
+      {
+        "name": "Tube Bobbin",
+        "page": "https://dir.indiamart.com/impcat/tube-bobbin.html",
+        "thumbnail": "http://3.imimg.com/data3/KK/QU/GLADMIN-158031/tube-bobbin-125x125.jpg"
+      },
+      {
+        "name": "Electric Bobbin",
+        "page": "https://dir.indiamart.com/impcat/electric-bobbin.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/KX/MY-2/electric-bobbin-125x125.jpg"
+      },
+      {
+        "name": "PCB Bobbins",
+        "page": "https://dir.indiamart.com/impcat/pcb-bobbins.html",
+        "thumbnail": "http://3.imimg.com/data3/XI/QJ/GLADMIN-142206/pcb-bobbins-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Knitting Needles",
+    "category_thumbnail": "http://3.imimg.com/data3/YL/RS/GLADMIN-1310/knitting-needles-125x125.jpg",
+    "items": [
+      {
+        "name": "Knitting Machine Needle",
+        "page": "https://dir.indiamart.com/impcat/knitting-machine-needle.html",
+        "thumbnail": "http://3.imimg.com/data3/NE/MY/GLADMIN-89739/knitting-machine-needle-125x125.jpg"
+      },
+      {
+        "name": "Hand Knitting Needles",
+        "page": "https://dir.indiamart.com/impcat/hand-knitting-needles.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/VE/GLADMIN-11790/hand-knitting-needles-125x125.jpg"
+      },
+      {
+        "name": "Circular Knitting Needles",
+        "page": "https://dir.indiamart.com/impcat/circular-knitting-needles.html",
+        "thumbnail": "http://3.imimg.com/data3/NX/WG/GLADMIN-3834/circular-knitting-needles-125x125.jpg"
+      },
+      {
+        "name": "Knitting Needle Set",
+        "page": "https://dir.indiamart.com/impcat/knitting-needle-set.html",
+        "thumbnail": "http://3.imimg.com/data3/JQ/RK/GLADMIN-86145/knitting-needle-set-125x125.jpg"
+      },
+      {
+        "name": "Hosiery Needles",
+        "page": "https://dir.indiamart.com/impcat/hosiery-needles.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/YS/GLADMIN-485/hosiery-needles-125x125.jpg"
+      },
+      {
+        "name": "Knitting Pins",
+        "page": "https://dir.indiamart.com/impcat/knitting-pins.html",
+        "thumbnail": "http://3.imimg.com/data3/QH/YP/GLADMIN-149063/knitting-pins-125x125.jpg"
+      },
+      {
+        "name": "Plastic Knitting Needles",
+        "page": "https://dir.indiamart.com/impcat/plastic-knitting-needles.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/TC/GLADMIN-42869/plastic-knitting-needles-125x125.jpg"
+      },
+      {
+        "name": "Aluminium Knitting Needle",
+        "page": "https://dir.indiamart.com/impcat/aluminium-knitting-needle.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/GN/GLADMIN-42868/aluminium-knitting-needle-125x125.jpg"
+      },
+      {
+        "name": "Bamboo Knitting Needles",
+        "page": "https://dir.indiamart.com/impcat/bamboo-knitting-needles.html",
+        "thumbnail": "http://3.imimg.com/data3/WN/UY/GLADMIN-42867/bamboo-knitting-needles-125x125.jpg"
+      }
+    ]
+  }
+]

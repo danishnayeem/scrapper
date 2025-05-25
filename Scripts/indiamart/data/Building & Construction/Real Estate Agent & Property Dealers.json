@@ -1,0 +1,675 @@
+[
+  {
+    "category_name": "Commercial Residential Plots",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/332558989/VM/MC/RK/97830/commercial-residential-plots-125x125.webp",
+    "items": [
+      {
+        "name": "Residential Plots",
+        "page": "https://dir.indiamart.com/impcat/residential-plots.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/HM/GLADMIN-42771/residential-plots-125x125.jpg"
+      },
+      {
+        "name": "Commercial Land",
+        "page": "https://dir.indiamart.com/impcat/commercial-land.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/QM/GLADMIN-43847/commercial-land-125x125.jpg"
+      },
+      {
+        "name": "Farm House Plots",
+        "page": "https://dir.indiamart.com/impcat/farm-house-plots.html",
+        "thumbnail": "http://3.imimg.com/data3/CO/JU/GLADMIN-28241/farm-house-plots-125x125.jpg"
+      },
+      {
+        "name": "Industrial Land",
+        "page": "https://dir.indiamart.com/impcat/industrial-land.html",
+        "thumbnail": "http://3.imimg.com/data3/JT/SY/GLADMIN-30687/industrial-land-125x125.jpg"
+      },
+      {
+        "name": "Plot Selling Services",
+        "page": "https://dir.indiamart.com/impcat/plot-selling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/WK/UO/GLADMIN-167893/plot-selling-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Residential Property",
+    "category_thumbnail": "http://3.imimg.com/data3/EQ/EH/GLADMIN-35977/residential-property-125x125.jpg",
+    "items": [
+      {
+        "name": "Residential Flats",
+        "page": "https://dir.indiamart.com/impcat/residential-flats.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/JI/GLADMIN-35976/residential-flats-125x125.jpg"
+      },
+      {
+        "name": "Residential House",
+        "page": "https://dir.indiamart.com/impcat/residential-house.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/KD/GLADMIN-44037/residential-house-125x125.jpg"
+      },
+      {
+        "name": "Residential Villas",
+        "page": "https://dir.indiamart.com/impcat/residential-villas.html",
+        "thumbnail": "http://3.imimg.com/data3/TN/OC/GLADMIN-42772/residential-villas-125x125.jpg"
+      },
+      {
+        "name": "Residential Bungalow",
+        "page": "https://dir.indiamart.com/impcat/residential-bungalow.html",
+        "thumbnail": "http://3.imimg.com/data3/NW/XQ/GLADMIN-102065/residential-bungalow-125x125.jpg"
+      },
+      {
+        "name": "Residential Property Rentals",
+        "page": "https://dir.indiamart.com/impcat/property-rental.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/IR/GLADMIN-102064/property-rental-125x125.jpg"
+      },
+      {
+        "name": "Luxury Villas",
+        "page": "https://dir.indiamart.com/impcat/luxury-villas.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/UD/GLADMIN-56240/luxury-villas-125x125.jpg"
+      },
+      {
+        "name": "Row House Selling Services",
+        "page": "https://dir.indiamart.com/impcat/row-house-selling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/XJ/GLADMIN-175844/row-house-selling-services-125x125.jpg"
+      },
+      {
+        "name": "Full Furnished Flats",
+        "page": "https://dir.indiamart.com/impcat/full-furnished-flats.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/DA/GLADMIN-170276/full-furnished-flats-125x125.jpg"
+      },
+      {
+        "name": "Group Housing Service",
+        "page": "https://dir.indiamart.com/impcat/group-housing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/WC/NG/GLADMIN-171810/group-housing-service-125x125.jpg"
+      },
+      {
+        "name": "Builder Floor",
+        "page": "https://dir.indiamart.com/impcat/builder-floor.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/YQ/GLADMIN-102063/builder-floor-125x125.jpg"
+      },
+      {
+        "name": "Luxury Apartment Services",
+        "page": "https://dir.indiamart.com/impcat/luxury-apartment-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TP/QR/GLADMIN-174047/luxury-apartment-services-125x125.jpg"
+      },
+      {
+        "name": "Residential Complex Services",
+        "page": "https://dir.indiamart.com/impcat/residential-complex-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/XY/GLADMIN-172003/residential-complex-services-125x125.jpg"
+      },
+      {
+        "name": "Studio Apartment",
+        "page": "https://dir.indiamart.com/impcat/studio-apartment.html",
+        "thumbnail": "http://5.imimg.com/data5/JT/GM/GLADMIN-2/studio-apartment-125x125.jpg"
+      },
+      {
+        "name": "Flat Promotion Services",
+        "page": "https://dir.indiamart.com/impcat/flat-promotion-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HV/DV/GLADMIN-173125/flat-promotion-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Land Dealing",
+    "category_thumbnail": "http://3.imimg.com/data3/GI/VE/GLADMIN-31510/land-dealing-125x125.jpg",
+    "items": [
+      {
+        "name": "Agriculture Land Sale",
+        "page": "https://dir.indiamart.com/impcat/agriculture-land-sale.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/YT/JN/DA/86687/agriculture-land-sale-125x125.PNG"
+      },
+      {
+        "name": "Agriculture Land Dealing Services",
+        "page": "https://dir.indiamart.com/impcat/agriculture-land-dealing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/GV/GLADMIN-175479/agriculture-land-dealing-services-125x125.jpg"
+      },
+      {
+        "name": "Residential Land Dealing Services",
+        "page": "https://dir.indiamart.com/impcat/residential-land-dealing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/AU/GLADMIN-175480/residential-land-dealing-services-125x125.jpg"
+      },
+      {
+        "name": "Commercial Plot Dealing Services",
+        "page": "https://dir.indiamart.com/impcat/commercial-plot-dealing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TA/SC/GLADMIN-175599/commercial-plot-dealing-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Residential Property Rentals",
+    "category_thumbnail": "http://3.imimg.com/data3/NS/IR/GLADMIN-102064/property-rental-125x125.jpg",
+    "items": [
+      {
+        "name": "Girls Hostel Services",
+        "page": "https://dir.indiamart.com/impcat/girls-hostel-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VW/TO/GLADMIN-174535/girls-hostel-services-125x125.jpg"
+      },
+      {
+        "name": "Shop Rental Services",
+        "page": "https://dir.indiamart.com/impcat/shop-rental-services.html",
+        "thumbnail": "http://3.imimg.com/data3/PS/VN/GLADMIN-168514/shop-rental-services-125x125.jpg"
+      },
+      {
+        "name": "Boys Hostel",
+        "page": "https://dir.indiamart.com/impcat/boys-hostel.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/RL/GLADMIN-145606/boys-hostel-125x125.jpg"
+      },
+      {
+        "name": "Rented Apartments",
+        "page": "https://dir.indiamart.com/impcat/rented-apartments.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/AM/GLADMIN-41782/rented-apartments-125x125.jpg"
+      },
+      {
+        "name": "Serviced Apartments",
+        "page": "https://dir.indiamart.com/impcat/serviced-apartment.html",
+        "thumbnail": "http://3.imimg.com/data3/RV/ON/GLADMIN-41781/serviced-apartments-125x125.jpg"
+      },
+      {
+        "name": "To Let Service",
+        "page": "https://dir.indiamart.com/impcat/to-let-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/332691961/DF/FA/GR/97830/to-let-service-125x125.png"
+      },
+      {
+        "name": "Bungalow Rental Services",
+        "page": "https://dir.indiamart.com/impcat/bungalow-rental-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UY/LK/GLADMIN-173891/bungalow-rental-services-125x125.jpg"
+      },
+      {
+        "name": "Rent Collection Service",
+        "page": "https://dir.indiamart.com/impcat/rent-collection-service.html",
+        "thumbnail": "http://3.imimg.com/data3/YQ/MR/GLADMIN-117015/rent-collection-service-125x125.jpg"
+      },
+      {
+        "name": "Tenant Representation Service",
+        "page": "https://dir.indiamart.com/impcat/tenant-representation-service.html",
+        "thumbnail": "http://3.imimg.com/data3/SM/BE/GLADMIN-169708/tenant-representation-service-125x125.jpg"
+      },
+      {
+        "name": "Tenant Management Service",
+        "page": "https://dir.indiamart.com/impcat/tenant-management-service.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/KS/GLADMIN-171091/tenant-management-service-125x125.jpg"
+      },
+      {
+        "name": "Landlord Representation Services",
+        "page": "https://dir.indiamart.com/impcat/landlord-representation-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VH/NE/GLADMIN-172209/landlord-representation-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Real Estate Services",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/WU/OS/UZ/92368/real-estate-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Real Estate Developer",
+        "page": "https://dir.indiamart.com/impcat/real-estate-developer.html",
+        "thumbnail": "http://3.imimg.com/data3/US/VX/GLADMIN-114101/real-estate-developer-125x125.jpg"
+      },
+      {
+        "name": "Agricultural Properties",
+        "page": "https://dir.indiamart.com/impcat/agricultural-properties.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/EX/GLADMIN-21350/agricultural-properties-125x125.jpg"
+      },
+      {
+        "name": "Real Estate Agent",
+        "page": "https://dir.indiamart.com/impcat/real-estate-agent.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/RL/GLADMIN-85989/real-estate-agent-125x125.jpg"
+      },
+      {
+        "name": "Land Developers",
+        "page": "https://dir.indiamart.com/impcat/land-developers.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/LU/GLADMIN-31511/land-developers-125x125.jpg"
+      },
+      {
+        "name": "Land Brokers",
+        "page": "https://dir.indiamart.com/impcat/land-brokers.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/NB/GLADMIN-31509/land-brokers-125x125.jpg"
+      },
+      {
+        "name": "Properties Consultancy Services",
+        "page": "https://dir.indiamart.com/impcat/properties-consultancy-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/RU/GLADMIN-168489/properties-consultancy-services-125x125.jpg"
+      },
+      {
+        "name": "Industrial Property",
+        "page": "https://dir.indiamart.com/impcat/industrial-property.html",
+        "thumbnail": "http://3.imimg.com/data3/LD/JQ/GLADMIN-88511/industrial-property-125x125.jpg"
+      },
+      {
+        "name": "Factory Sale Service",
+        "page": "https://dir.indiamart.com/impcat/factory-sale-service.html",
+        "thumbnail": "http://3.imimg.com/data3/PF/LT/GLADMIN-169338/factory-sale-service-125x125.jpg"
+      },
+      {
+        "name": "Commercial Property",
+        "page": "https://dir.indiamart.com/impcat/commercial-property.html",
+        "thumbnail": "http://3.imimg.com/data3/TU/DV/GLADMIN-25579/commercial-property-125x125.jpg"
+      },
+      {
+        "name": "Investment Consultants",
+        "page": "https://dir.indiamart.com/impcat/investment-consultants.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/EK/GLADMIN-20589/investment-consultants-125x125.jpg"
+      },
+      {
+        "name": "Residential Property",
+        "page": "https://dir.indiamart.com/impcat/residential-property.html",
+        "thumbnail": "http://3.imimg.com/data3/EQ/EH/GLADMIN-35977/residential-property-125x125.jpg"
+      },
+      {
+        "name": "Housing Society Services",
+        "page": "https://dir.indiamart.com/impcat/housing-society-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GR/EF/GLADMIN-173471/housing-society-services-125x125.jpg"
+      },
+      {
+        "name": "Real Estate Development Services",
+        "page": "https://dir.indiamart.com/impcat/real-state-development-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/BQ/GLADMIN-174423/real-state-development-services-125x125.jpg"
+      },
+      {
+        "name": "Property Investment Consultants",
+        "page": "https://dir.indiamart.com/impcat/property-investment-consultants.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/UQ/GLADMIN-20592/property-investment-consultants-125x125.jpg"
+      },
+      {
+        "name": "Residential Township Services",
+        "page": "https://dir.indiamart.com/impcat/residential-township-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CL/KN/GLADMIN-172934/residential-township-services-125x125.jpg"
+      },
+      {
+        "name": "Farmhouse Sale Services",
+        "page": "https://dir.indiamart.com/impcat/farmhouse-sale-services.html",
+        "thumbnail": "http://3.imimg.com/data3/EG/YC/GLADMIN-171756/farmhouse-sale-services-125x125.jpg"
+      },
+      {
+        "name": "Leasing Management service",
+        "page": "https://dir.indiamart.com/impcat/leasing-management-service.html",
+        "thumbnail": "http://3.imimg.com/data3/OD/YK/GLADMIN-172499/leasing-management-service-125x125.jpg"
+      },
+      {
+        "name": "Farmhouse Consultancy Services",
+        "page": "https://dir.indiamart.com/impcat/farmhouse-consultancy-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/RK/GLADMIN-170471/farmhouse-consultancy-services-125x125.jpg"
+      },
+      {
+        "name": "Land Acquisition Consulting",
+        "page": "https://dir.indiamart.com/impcat/land-acquisition-consulting.html",
+        "thumbnail": "http://3.imimg.com/data3/JK/BA/GLADMIN-172212/land-acquisition-consulting-125x125.jpg"
+      },
+      {
+        "name": "Bungalow Sale Services",
+        "page": "https://dir.indiamart.com/impcat/bungalow-sale-services.html",
+        "thumbnail": "http://4.imimg.com/data4/UH/YK/GLADMIN-173564/bungalow-sale-services-125x125.jpg"
+      },
+      {
+        "name": "Geological Consultancy",
+        "page": "https://dir.indiamart.com/impcat/geological-consultancy.html",
+        "thumbnail": "http://3.imimg.com/data3/SM/ES/GLADMIN-176366/geological-consultancy-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Real Estate Agent",
+    "category_thumbnail": "http://3.imimg.com/data3/RE/RL/GLADMIN-85989/real-estate-agent-125x125.jpg",
+    "items": [
+      {
+        "name": "Property Dealers",
+        "page": "https://dir.indiamart.com/impcat/property-dealers.html",
+        "thumbnail": "http://3.imimg.com/data3/VR/QT/GLADMIN-116821/property-dealers-125x125.jpg"
+      },
+      {
+        "name": "Property Valuers",
+        "page": "https://dir.indiamart.com/impcat/property-valuers.html",
+        "thumbnail": "http://3.imimg.com/data3/SD/GL/GLADMIN-35864/property-valuers-125x125.jpg"
+      },
+      {
+        "name": "Real Estate Consulting Service",
+        "page": "https://dir.indiamart.com/impcat/real-estate-consulting-service.html",
+        "thumbnail": "http://3.imimg.com/data3/TS/VU/GLADMIN-85990/real-estate-consulting-service-125x125.jpg"
+      },
+      {
+        "name": "Property Management Services",
+        "page": "https://dir.indiamart.com/impcat/property-management-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/RJ/GLADMIN-116823/property-management-services-125x125.jpg"
+      },
+      {
+        "name": "Property Registration Services",
+        "page": "https://dir.indiamart.com/impcat/property-registration-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HI/WK/GLADMIN-171997/property-registration-services-125x125.jpg"
+      },
+      {
+        "name": "Real Estate Script Services",
+        "page": "https://dir.indiamart.com/impcat/real-estate-script-services.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/JU/GLADMIN-174422/real-estate-script-services-125x125.jpg"
+      },
+      {
+        "name": "Property Listings",
+        "page": "https://dir.indiamart.com/impcat/property-listings.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/UW/GLADMIN-35861/property-listings-125x125.jpg"
+      },
+      {
+        "name": "Real Estate Projects Cooperation",
+        "page": "https://dir.indiamart.com/impcat/real-estate-projects-cooperation.html",
+        "thumbnail": "http://3.imimg.com/data3/FH/UH/GLADMIN-116968/real-estate-projects-cooperation-125x125.jpg"
+      },
+      {
+        "name": "Property Resale Services",
+        "page": "https://dir.indiamart.com/impcat/property-resale-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CI/IW/GLADMIN-168999/property-resale-services-125x125.jpg"
+      },
+      {
+        "name": "Property Acquisition Services",
+        "page": "https://dir.indiamart.com/impcat/property-acquisition-services.html",
+        "thumbnail": "http://3.imimg.com/data3/ML/TN/GLADMIN-43117/property-acquisition-services-125x125.jpg"
+      },
+      {
+        "name": "Property Documentation",
+        "page": "https://dir.indiamart.com/impcat/property-documentation.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/OQ/GLADMIN-43118/property-documentation-125x125.jpg"
+      },
+      {
+        "name": "Colonial Development Service",
+        "page": "https://dir.indiamart.com/impcat/colonial-development-service.html",
+        "thumbnail": "http://3.imimg.com/data3/LB/PU/GLADMIN-173992/colonial-development-service-125x125.jpg"
+      },
+      {
+        "name": "Buildings Valuation Service",
+        "page": "https://dir.indiamart.com/impcat/buildings-valuation-service.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/EX/GLADMIN-173339/buildings-valuation-service-125x125.jpg"
+      },
+      {
+        "name": "Properties Collaboration Services",
+        "page": "https://dir.indiamart.com/impcat/properties-collaboration-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HK/UO/GLADMIN-173341/properties-collaboration-services-125x125.jpg"
+      },
+      {
+        "name": "Site Acquisition Service",
+        "page": "https://dir.indiamart.com/impcat/site-acquisition-service.html",
+        "thumbnail": "http://3.imimg.com/data3/DT/WX/GLADMIN-172666/site-acquisition-service-125x125.jpg"
+      },
+      {
+        "name": "Real Estate Financial Analysis",
+        "page": "https://dir.indiamart.com/impcat/real-estate-financial-analysis.html",
+        "thumbnail": "http://3.imimg.com/data3/MG/TL/GLADMIN-116967/real-estate-financial-analysis-125x125.jpg"
+      },
+      {
+        "name": "Real Estate Planning",
+        "page": "https://dir.indiamart.com/impcat/real-estate-planning.html",
+        "thumbnail": "http://3.imimg.com/data3/QA/PH/GLADMIN-174117/real-estate-planning-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Commercial Property Rental",
+    "category_thumbnail": "http://3.imimg.com/data3/FH/HX/GLADMIN-173580/commercial-property-rental-125x125.jpg",
+    "items": [
+      {
+        "name": "Godown Rent",
+        "page": "https://dir.indiamart.com/impcat/godown-rent.html",
+        "thumbnail": "http://3.imimg.com/data3/IL/KK/GLADMIN-170548/godown-rent-125x125.jpg"
+      },
+      {
+        "name": "Farmhouse Rental Services",
+        "page": "https://dir.indiamart.com/impcat/farmhouse-rental-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FA/TJ/GLADMIN-175682/farmhouse-rental-services-125x125.jpg"
+      },
+      {
+        "name": "Office Rental Services",
+        "page": "https://dir.indiamart.com/impcat/office-rental-services.html",
+        "thumbnail": "http://3.imimg.com/data3/RK/WF/GLADMIN-160075/office-rental-services-125x125.jpg"
+      },
+      {
+        "name": "Training Room Rental Services",
+        "page": "https://dir.indiamart.com/impcat/training-room-rental-services.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/NQ/GLADMIN-151448/training-room-rental-services-125x125.jpg"
+      },
+      {
+        "name": "Non Ac Room Rental Service",
+        "page": "https://dir.indiamart.com/impcat/non-ac-room-rental-service.html",
+        "thumbnail": "http://5.imimg.com/data5/BO/GX/KV/GLADMIN-56986/non-ac-room-rental-service-125x125.jpg"
+      },
+      {
+        "name": "Commercial Space Lease Services",
+        "page": "https://dir.indiamart.com/impcat/commercial-space-lease-services.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/FM/GLADMIN-175601/commercial-space-lease-services-125x125.jpg"
+      },
+      {
+        "name": "Portable Office Rental Service",
+        "page": "https://dir.indiamart.com/impcat/portable-office-rental-service.html",
+        "thumbnail": "http://3.imimg.com/data3/LW/WU/GLADMIN-175776/portable-office-rental-service-125x125.jpg"
+      },
+      {
+        "name": "To Let Service",
+        "page": "https://dir.indiamart.com/impcat/to-let-service.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/332691961/DF/FA/GR/97830/to-let-service-125x125.png"
+      },
+      {
+        "name": "Showrooms Rental Services",
+        "page": "https://dir.indiamart.com/impcat/showrooms-rental-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/HT/GLADMIN-168516/showrooms-rental-services-125x125.jpg"
+      },
+      {
+        "name": "Rent Collection Service",
+        "page": "https://dir.indiamart.com/impcat/rent-collection-service.html",
+        "thumbnail": "http://3.imimg.com/data3/YQ/MR/GLADMIN-117015/rent-collection-service-125x125.jpg"
+      },
+      {
+        "name": "Office Dealing Services",
+        "page": "https://dir.indiamart.com/impcat/office-dealing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/JS/GLADMIN-168449/office-dealing-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Commercial Property",
+    "category_thumbnail": "http://3.imimg.com/data3/TU/DV/GLADMIN-25579/commercial-property-125x125.jpg",
+    "items": [
+      {
+        "name": "Farmhouse",
+        "page": "https://dir.indiamart.com/impcat/farmhouse.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/AQ/GLADMIN-28244/farmhouse-125x125.jpg"
+      },
+      {
+        "name": "Commercial Real Estate Service",
+        "page": "https://dir.indiamart.com/impcat/commercial-real-estate-service.html",
+        "thumbnail": "http://3.imimg.com/data3/VF/TB/GLADMIN-87936/commercial-real-estate-service-125x125.jpg"
+      },
+      {
+        "name": "Commercial Shop Space",
+        "page": "https://dir.indiamart.com/impcat/commercial-shop-space.html",
+        "thumbnail": "http://3.imimg.com/data3/EA/HB/GLADMIN-168269/commercial-shop-space-125x125.jpg"
+      },
+      {
+        "name": "Furnished Office Space",
+        "page": "https://dir.indiamart.com/impcat/furnished-office-space.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/JU/GLADMIN-173016/furnished-office-space-125x125.jpg"
+      },
+      {
+        "name": "Commercial Property Rental",
+        "page": "https://dir.indiamart.com/impcat/commercial-property-rental.html",
+        "thumbnail": "http://3.imimg.com/data3/FH/HX/GLADMIN-173580/commercial-property-rental-125x125.jpg"
+      },
+      {
+        "name": "Business Centre Services",
+        "page": "https://dir.indiamart.com/impcat/business-centre-services.html",
+        "thumbnail": "http://3.imimg.com/data3/TO/KK/GLADMIN-168591/business-centre-services-125x125.jpg"
+      },
+      {
+        "name": "Hotel Property Consultants",
+        "page": "https://dir.indiamart.com/impcat/hotel-property-consultants.html",
+        "thumbnail": "http://3.imimg.com/data3/FY/ND/GLADMIN-171039/hotel-property-consultants-125x125.jpg"
+      },
+      {
+        "name": "Property Development Services",
+        "page": "https://dir.indiamart.com/impcat/property-development-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/DJ/GLADMIN-116822/property-development-services-125x125.jpg"
+      },
+      {
+        "name": "Corporate Office Services",
+        "page": "https://dir.indiamart.com/impcat/corporate-office-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HF/UV/GLADMIN-172594/corporate-office-services-125x125.jpg"
+      },
+      {
+        "name": "Institutional Property Consultants",
+        "page": "https://dir.indiamart.com/impcat/institutional-property-consultants.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/GT/GLADMIN-171040/institutional-property-consultants-125x125.jpg"
+      },
+      {
+        "name": "Retail Property",
+        "page": "https://dir.indiamart.com/impcat/retail-property.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/UD/GLADMIN-36368/retail-property-125x125.jpg"
+      },
+      {
+        "name": "Commercial Property Development",
+        "page": "https://dir.indiamart.com/impcat/commercial-property-development.html",
+        "thumbnail": "http://3.imimg.com/data3/JE/IQ/GLADMIN-172586/commercial-property-development-125x125.jpg"
+      },
+      {
+        "name": "Building Promotion Services",
+        "page": "https://dir.indiamart.com/impcat/building-promotion-services.html",
+        "thumbnail": "http://3.imimg.com/data3/ET/XP/GLADMIN-168243/building-promotion-services-125x125.jpg"
+      },
+      {
+        "name": "Building Selling Services",
+        "page": "https://dir.indiamart.com/impcat/building-selling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/PB/GLADMIN-173126/building-selling-services-125x125.jpg"
+      },
+      {
+        "name": "Business Property",
+        "page": "https://dir.indiamart.com/impcat/business-property.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/KN/GLADMIN-150706/business-property-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Land Brokers",
+    "category_thumbnail": "http://3.imimg.com/data3/LJ/NB/GLADMIN-31509/land-brokers-125x125.jpg",
+    "items": [
+      {
+        "name": "Land Renting Services",
+        "page": "https://dir.indiamart.com/impcat/land-renting-services.html",
+        "thumbnail": "http://3.imimg.com/data3/QW/CH/GLADMIN-174030/land-renting-services-125x125.jpg"
+      },
+      {
+        "name": "Commercial Residential Plots",
+        "page": "https://dir.indiamart.com/impcat/commercial-residential-plots.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/332558989/VM/MC/RK/97830/commercial-residential-plots-125x125.webp"
+      },
+      {
+        "name": "Land Purchase Service",
+        "page": "https://dir.indiamart.com/impcat/land-purchase-service.html",
+        "thumbnail": "http://3.imimg.com/data3/FK/TQ/GLADMIN-174029/land-purchase-service-125x125.jpg"
+      },
+      {
+        "name": "Land Dealing",
+        "page": "https://dir.indiamart.com/impcat/land-dealing.html",
+        "thumbnail": "http://3.imimg.com/data3/GI/VE/GLADMIN-31510/land-dealing-125x125.jpg"
+      },
+      {
+        "name": "Land Plotting Survey",
+        "page": "https://dir.indiamart.com/impcat/land-plotting-survey.html",
+        "thumbnail": "http://3.imimg.com/data3/BJ/CB/GLADMIN-171041/land-plotting-survey-125x125.jpg"
+      },
+      {
+        "name": "Land Use Conversion Service",
+        "page": "https://dir.indiamart.com/impcat/land-use-conversion-service.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/RU/GLADMIN-88514/land-use-conversion-service-125x125.jpg"
+      },
+      {
+        "name": "Commercial Land Consultancy Services",
+        "page": "https://dir.indiamart.com/impcat/commercial-land-consultancy-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/CF/GLADMIN-174999/commercial-land-consultancy-services-125x125.jpg"
+      },
+      {
+        "name": "Land Investment Consultancy",
+        "page": "https://dir.indiamart.com/impcat/land-investment-consultancy.html",
+        "thumbnail": "http://3.imimg.com/data3/WJ/CR/GLADMIN-172205/land-investment-consultancy-125x125.jpg"
+      },
+      {
+        "name": "Land Procurement",
+        "page": "https://dir.indiamart.com/impcat/land-procurement.html",
+        "thumbnail": "http://3.imimg.com/data3/OA/BT/GLADMIN-43705/land-procurement-125x125.jpg"
+      },
+      {
+        "name": "Land Management Services",
+        "page": "https://dir.indiamart.com/impcat/land-management-services.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/PQ/GLADMIN-172207/land-management-services-125x125.jpg"
+      },
+      {
+        "name": "Land Consolidation Services",
+        "page": "https://dir.indiamart.com/impcat/land-consolidation-services.html",
+        "thumbnail": "http://3.imimg.com/data3/KH/LF/GLADMIN-43704/land-consolidation-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Commercial Space Lease Services",
+    "category_thumbnail": "http://3.imimg.com/data3/BK/FM/GLADMIN-175601/commercial-space-lease-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Corporate Leasing Service",
+        "page": "https://dir.indiamart.com/impcat/corporate-leasing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/PT/OY/GLADMIN-172543/corporate-leasing-service-125x125.jpg"
+      },
+      {
+        "name": "Retail Space Leasing",
+        "page": "https://dir.indiamart.com/impcat/retail-space-leasing.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/ND/GLADMIN-173342/retail-space-leasing-125x125.jpg"
+      },
+      {
+        "name": "IT Parks Leasing",
+        "page": "https://dir.indiamart.com/impcat/it-parks-leasing.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/EX/GLADMIN-173470/it-parks-leasing-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Real Estate Consulting Service",
+    "category_thumbnail": "http://3.imimg.com/data3/TS/VU/GLADMIN-85990/real-estate-consulting-service-125x125.jpg",
+    "items": [
+      {
+        "name": "Properties Consultancy Services",
+        "page": "https://dir.indiamart.com/impcat/properties-consultancy-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/RU/GLADMIN-168489/properties-consultancy-services-125x125.jpg"
+      },
+      {
+        "name": "Property Investment Consultants",
+        "page": "https://dir.indiamart.com/impcat/property-investment-consultants.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/UQ/GLADMIN-20592/property-investment-consultants-125x125.jpg"
+      },
+      {
+        "name": "Industrial Property Consultant",
+        "page": "https://dir.indiamart.com/impcat/industrial-property-consultant.html",
+        "thumbnail": "http://3.imimg.com/data3/TF/SF/GLADMIN-171912/industrial-property-consultant-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Serviced Apartments",
+    "category_thumbnail": "http://3.imimg.com/data3/RV/ON/GLADMIN-41781/serviced-apartments-125x125.jpg",
+    "items": [
+      {
+        "name": "Luxury Serviced Apartment",
+        "page": "https://dir.indiamart.com/impcat/luxury-serviced-apartment.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/RJ/GLADMIN-69925/luxury-serviced-apartment-125x125.jpg"
+      },
+      {
+        "name": "Corporate Serviced Apartments",
+        "page": "https://dir.indiamart.com/impcat/corporate-serviced-apartments.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/BO/GLADMIN-69924/corporate-serviced-apartments-125x125.jpg"
+      },
+      {
+        "name": "Service Apartments Booking Services",
+        "page": "https://dir.indiamart.com/impcat/service-apartments-booking-services.html",
+        "thumbnail": "http://3.imimg.com/data3/DS/MU/GLADMIN-175854/service-apartments-booking-services-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Real Estate Development Services",
+        "page": "https://dir.indiamart.com/impcat/real-state-development-services.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/BQ/GLADMIN-174423/real-state-development-services-125x125.jpg"
+      }
+    ]
+  }
+]

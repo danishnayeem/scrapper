@@ -1,0 +1,552 @@
+[
+  {
+    "category_name": "Gas Cylinders",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/JY/IF/KE/92368/gas-cylinders-125x125.png",
+    "items": [
+      {
+        "name": "LPG Cylinders",
+        "page": "https://dir.indiamart.com/impcat/lpg-gas-cylinders.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/LJ/GLADMIN-177/lpg-cylinders-125x125.jpg"
+      },
+      {
+        "name": "Helium Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/helium-gas-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/VK/ZU/UA/92368/helium-gas-cylinder-125x125.jpeg"
+      },
+      {
+        "name": "Mini LPG Cylinders",
+        "page": "https://dir.indiamart.com/impcat/mini-lpg-cylinders.html",
+        "thumbnail": "http://5.imimg.com/data5/UC/YR/HM/GLADMIN-68087/mini-lpg-cylinders-125x125.jpg"
+      },
+      {
+        "name": "CNG Cylinder",
+        "page": "https://dir.indiamart.com/impcat/cng-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/EE/YT/GLADMIN-99284/cng-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Carbon Dioxide Cylinder",
+        "page": "https://dir.indiamart.com/impcat/carbon-dioxide-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/NN/NN/GLADMIN-/carbon-dioxide-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Kitchen Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/kitchen-gas-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/NA/SL/BE/92368/kitchen-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Hydrogen Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/hydrogen-gas-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/AL/NO/GLADMIN-161120/hydrogen-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Industrial Oxygen Cylinder",
+        "page": "https://dir.indiamart.com/impcat/industrial-oxygen-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/WF/MJ/OM/GLADMIN-31571/industrial-oxygen-cylinder-125x125.png"
+      },
+      {
+        "name": "Nitrogen Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/nitrogen-gas-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/MH/RH/GLADMIN-137633/nitrogen-gas-cylinder-125x125.png"
+      },
+      {
+        "name": "Composite Cylinder",
+        "page": "https://dir.indiamart.com/impcat/composite-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/composite-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Empty Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/empty-gas-cylinders.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/DG/KS/FJ/92368/empty-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Argon Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/argon-gas-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/JW/ML/GLADMIN-163809/argon-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Industrial Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/industrial-gas-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/QB/KI/GLADMIN-136957/industrial-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Dura Cylinder",
+        "page": "https://dir.indiamart.com/impcat/dura-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/CL/HG/GLADMIN-177024/dura-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Industrial Cylinders",
+        "page": "https://dir.indiamart.com/impcat/industrial-cylinders.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/WA/GLADMIN-56251/industrial-cylinders-125x125.jpg"
+      },
+      {
+        "name": "Industrial Liquid Oxygen Cylinder",
+        "page": "https://dir.indiamart.com/impcat/liquid-oxygen.html",
+        "thumbnail": "http://5.imimg.com/data5/SJ/QJ/OT/GLADMIN-31571/liquid-oxygen-125x125.jpg"
+      },
+      {
+        "name": "Refrigerant Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/refrigerant-gas-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/TS/AN/GLADMIN-149726/refrigerant-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "High Pressure Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/high-pressure-gas-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/EU/WO/FG/84846/high-pressure-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Cylinders",
+        "page": "https://dir.indiamart.com/impcat/aluminum-cylinders.html",
+        "thumbnail": "http://3.imimg.com/data3/DP/BC/GLADMIN-21168/aluminum-cylinders-125x125.jpg"
+      },
+      {
+        "name": "Ammonia Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/ammonia-gas-cylinder.html",
+        "thumbnail": "http://4.imimg.com/data4/LI/LP/GLADMIN-2/ammonia-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Chlorine Tonner",
+        "page": "https://dir.indiamart.com/impcat/chlorine-tonner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/UE/UB/AX/86685/chlorine-tonner-125x125.jpg"
+      },
+      {
+        "name": "Butane Cylinders",
+        "page": "https://dir.indiamart.com/impcat/butane-cylinders.html",
+        "thumbnail": "http://3.imimg.com/data3/HC/UW/GLADMIN-107046/butane-cylinders-125x125.jpg"
+      },
+      {
+        "name": "Ethylene Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/ethylene-gas-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/424746531/IA/GY/WF/92336/ethylene-gas-cylinder-125x125.webp"
+      },
+      {
+        "name": "Compressed Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/compressed-gas-cylinder.html",
+        "thumbnail": "http://4.imimg.com/data4/WO/IX/GLADMIN-2/compressed-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Cryogenic Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/cryogenic-gas-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/XN/GLADMIN-149138/cryogenic-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Steel Cylinders",
+        "page": "https://dir.indiamart.com/impcat/steel-cylinders.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/BM/GLADMIN-38705/steel-cylinders-125x125.jpg"
+      },
+      {
+        "name": "Seamless Cylinder",
+        "page": "https://dir.indiamart.com/impcat/seamless-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/IR/PF/TK/84846/seamless-cylinder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Gas Cylinder Accessories",
+    "category_thumbnail": "http://5.imimg.com/data5/GG/GG/GLADMIN-/gas-cylinder-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Gas Lighters",
+        "page": "https://dir.indiamart.com/impcat/gas-lighters.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369256849/BV/GG/ML/32235/gas-lighters-125x125.jpg"
+      },
+      {
+        "name": "Gas Safety Device",
+        "page": "https://dir.indiamart.com/impcat/gas-safety-device.html",
+        "thumbnail": "http://3.imimg.com/data3/RX/VB/GLADMIN-143387/gas-safety-device-125x125.jpg"
+      },
+      {
+        "name": "Electronic Gas Lighters",
+        "page": "https://dir.indiamart.com/impcat/electronic-gas-lighters.html",
+        "thumbnail": "http://3.imimg.com/data3/PA/LF/GLADMIN-27885/electronic-gas-lighters-125x125.jpg"
+      },
+      {
+        "name": "Gas Pipes",
+        "page": "https://dir.indiamart.com/impcat/gas-pipes.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/LQ/GLADMIN-29285/gas-pipes-125x125.jpg"
+      },
+      {
+        "name": "Refillable Gas Lighter",
+        "page": "https://dir.indiamart.com/impcat/refillable-gas-lighter.html",
+        "thumbnail": "http://3.imimg.com/data3/BW/QO/GLADMIN-36269/refillable-gas-lighter-125x125.jpg"
+      },
+      {
+        "name": "Cylinder Caps",
+        "page": "https://dir.indiamart.com/impcat/cylinder-caps.html",
+        "thumbnail": "http://3.imimg.com/data3/UX/BG/GLADMIN-25270/cylinder-caps-125x125.jpg"
+      },
+      {
+        "name": "Butane Lighter Gas",
+        "page": "https://dir.indiamart.com/impcat/butane-lighter-gas.html",
+        "thumbnail": "http://3.imimg.com/data3/AO/YV/GLADMIN-100977/butane-lighter-gas-125x125.jpg"
+      },
+      {
+        "name": "Gas Manifolds",
+        "page": "https://dir.indiamart.com/impcat/gas-manifolds.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/DH/GLADMIN-29275/gas-manifolds-125x125.jpg"
+      },
+      {
+        "name": "Gas Cylinder Key",
+        "page": "https://dir.indiamart.com/impcat/gas-cylinder-key.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/PE/GLADMIN-150812/gas-cylinder-key-125x125.jpg"
+      },
+      {
+        "name": "Gas Filters",
+        "page": "https://dir.indiamart.com/impcat/gas-filters.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/NT/GLADMIN-20586/gas-filters-125x125.jpg"
+      },
+      {
+        "name": "Gas Cylinder Stand",
+        "page": "https://dir.indiamart.com/impcat/gas-cylinder-stand.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/10/458160743/LO/PR/PE/32235/stand-125x125.webp"
+      },
+      {
+        "name": "Gas Saver",
+        "page": "https://dir.indiamart.com/impcat/gas-saver.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/AA/GLADMIN-29297/gas-saver-125x125.jpg"
+      },
+      {
+        "name": "CNG Fuel Tank",
+        "page": "https://dir.indiamart.com/impcat/cng-fuel-tank.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/YV/XI/QE/92368/cng-fuel-tank-125x125.jpg"
+      },
+      {
+        "name": "Gas Kits",
+        "page": "https://dir.indiamart.com/impcat/gas-conversion-kits.html",
+        "thumbnail": "http://3.imimg.com/data3/VH/OL/GLADMIN-29256/gas-conversion-kits-125x125.jpg"
+      },
+      {
+        "name": "Spark Lighter",
+        "page": "https://dir.indiamart.com/impcat/spark-lighter.html",
+        "thumbnail": "http://3.imimg.com/data3/KP/WE/GLADMIN-90147/spark-lighter-125x125.jpg"
+      },
+      {
+        "name": "Valve Guards",
+        "page": "https://dir.indiamart.com/impcat/valve-guards.html",
+        "thumbnail": "http://3.imimg.com/data3/EL/TJ/GLADMIN-153527/valve-guards-125x125.jpg"
+      },
+      {
+        "name": "Gas Mixer",
+        "page": "https://dir.indiamart.com/impcat/gas-mixer.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/AA/GLADMIN-107353/gas-mixer-125x125.jpg"
+      },
+      {
+        "name": "Gas Mantles",
+        "page": "https://dir.indiamart.com/impcat/gas-mantles.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/UB/GLADMIN-175/gas-mantles-125x125.jpg"
+      },
+      {
+        "name": "PVC Gas Pipe",
+        "page": "https://dir.indiamart.com/impcat/pvc-gas-pipe.html",
+        "thumbnail": "http://3.imimg.com/data3/HC/VL/GLADMIN-78366/pvc-gas-pipe-125x125.jpg"
+      },
+      {
+        "name": "Gas Tube",
+        "page": "https://dir.indiamart.com/impcat/gas-tube.html",
+        "thumbnail": "http://3.imimg.com/data3/UM/AJ/GLADMIN-29308/gas-tube-125x125.jpg"
+      },
+      {
+        "name": "LPG Appliances",
+        "page": "https://dir.indiamart.com/impcat/lpg-appliances.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/QA/GLADMIN-32395/lpg-appliances-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Igniters",
+        "page": "https://dir.indiamart.com/impcat/ceramic-igniters.html",
+        "thumbnail": "http://4.imimg.com/data4/ET/RT/GLADMIN-179437/ceramic-igniters-125x125.jpg"
+      },
+      {
+        "name": "Cylinder Racks",
+        "page": "https://dir.indiamart.com/impcat/cylinder-racks.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/LB/GLADMIN-25277/cylinder-racks-125x125.jpg"
+      },
+      {
+        "name": "Gas Fuse",
+        "page": "https://dir.indiamart.com/impcat/gas-fuse.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/HT/GLADMIN-139301/gas-fuse-125x125.jpg"
+      },
+      {
+        "name": "Oxygen Trap",
+        "page": "https://dir.indiamart.com/impcat/oxygen-trap.html",
+        "thumbnail": "http://3.imimg.com/data3/OY/BB/GLADMIN-163032/oxygen-trap-125x125.jpg"
+      },
+      {
+        "name": "CNG Gas Pipe",
+        "page": "https://dir.indiamart.com/impcat/cng-gas-pipe.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/CC/GLADMIN-142178/cng-gas-pipe-125x125.jpg"
+      },
+      {
+        "name": "Safety Plug",
+        "page": "https://dir.indiamart.com/impcat/safety-plug.html",
+        "thumbnail": "http://3.imimg.com/data3/QH/HX/GLADMIN-36688/safety-plug-125x125.jpg"
+      },
+      {
+        "name": "Cut Off Regulator",
+        "page": "https://dir.indiamart.com/impcat/cut-off-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/UK/GLADMIN-167040/cut-off-regulator-125x125.jpg"
+      },
+      {
+        "name": "Gas Collecting Device",
+        "page": "https://dir.indiamart.com/impcat/gas-collecting-device.html",
+        "thumbnail": "http://3.imimg.com/data3/LS/XJ/GLADMIN-149910/gas-collecting-device-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Gas Regulators",
+    "category_thumbnail": "http://3.imimg.com/data3/XP/XH/MY-2/gas-regulators-125x125.jpg",
+    "items": [
+      {
+        "name": "LPG Regulators",
+        "page": "https://dir.indiamart.com/impcat/lpg-regulators.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/LP/GLADMIN-9696/lpg-regulators-125x125.jpg"
+      },
+      {
+        "name": "Gas Pressure Regulator",
+        "page": "https://dir.indiamart.com/impcat/gas-pressure-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/LK/YQ/GLADMIN-29290/gas-pressure-regulator-125x125.jpg"
+      },
+      {
+        "name": "LPG Pressure Regulator",
+        "page": "https://dir.indiamart.com/impcat/lpg-pressure-regulator.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/369265286/SC/PT/JP/32235/lpg-pressure-regulator-125x125.jpg"
+      },
+      {
+        "name": "CO2 Regulator",
+        "page": "https://dir.indiamart.com/impcat/co2-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/BI/GLADMIN-142597/co2-regulator-125x125.jpg"
+      },
+      {
+        "name": "High Pressure Gas Regulators",
+        "page": "https://dir.indiamart.com/impcat/high-pressure-gas-regulators.html",
+        "thumbnail": "http://3.imimg.com/data3/IH/BN/GLADMIN-166189/high-pressure-gas-regulators-125x125.jpg"
+      },
+      {
+        "name": "Industrial Gas Regulator",
+        "page": "https://dir.indiamart.com/impcat/industrial-gas-regulator.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/industrial-gas-regulator-125x125.jpg"
+      },
+      {
+        "name": "Two-Stage Gas Regulators",
+        "page": "https://dir.indiamart.com/impcat/two-stage-gas-regulators.html",
+        "thumbnail": "http://3.imimg.com/data3/AY/CQ/GLADMIN-161586/two-stage-gas-regulators-125x125.jpg"
+      },
+      {
+        "name": "Brass Gas Regulator",
+        "page": "https://dir.indiamart.com/impcat/brass-gas-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/GU/AX/GLADMIN-87782/brass-gas-regulator-125x125.jpg"
+      },
+      {
+        "name": "Fuel Pressure Regulator",
+        "page": "https://dir.indiamart.com/impcat/fuel-pressure-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/WF/GLADMIN-12268/fuel-pressure-regulator-125x125.jpg"
+      },
+      {
+        "name": "Industrial Oxygen Regulator",
+        "page": "https://dir.indiamart.com/impcat/industrial-oxygen-regulator.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/5/BN/RY/XJ/81953/industrial-oxygen-regulator-125x125.jpg"
+      },
+      {
+        "name": "CNG Pressure Regulator",
+        "page": "https://dir.indiamart.com/impcat/cng-pressure-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/JO/QY/GLADMIN-155082/cng-pressure-regulator-125x125.jpg"
+      },
+      {
+        "name": "Acetylene Gas Regulator",
+        "page": "https://dir.indiamart.com/impcat/acetylene-gas-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/FD/GLADMIN-140844/acetylene-gas-regulator-125x125.jpg"
+      },
+      {
+        "name": "Hydrogen Gas Regulator",
+        "page": "https://dir.indiamart.com/impcat/hydrogen-gas-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/LG/GLADMIN-140706/hydrogen-gas-regulator-125x125.jpg"
+      },
+      {
+        "name": "Cooking Gas Saver",
+        "page": "https://dir.indiamart.com/impcat/cooking-gas-saver.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/HE/GLADMIN-136522/cooking-gas-saver-125x125.jpg"
+      },
+      {
+        "name": "Flowmeter Regulator",
+        "page": "https://dir.indiamart.com/impcat/flowmeter-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/FM/DC/GLADMIN-95958/flowmeter-regulator-125x125.jpg"
+      },
+      {
+        "name": "Air Gas Ratio Regulator",
+        "page": "https://dir.indiamart.com/impcat/air-gas-ratio-regulator.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/FW/GLADMIN-161381/air-gas-ratio-regulator-125x125.jpg"
+      },
+      {
+        "name": "ASI Gas Safety Device",
+        "page": "https://dir.indiamart.com/impcat/asi-gas-safety-device.html",
+        "thumbnail": "http://4.imimg.com/data4/EY/JU/GLADMIN-2/asi-gas-safety-device-125x125.jpg"
+      },
+      {
+        "name": "Industrial Gas Saver",
+        "page": "https://dir.indiamart.com/impcat/industrial-gas-saver.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/FK/GLADMIN-136558/industrial-gas-saver-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "LPG Cylinder Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/NL/XG/GLADMIN-146046/lpg-cylinder-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "LPG Cylinder Adapter",
+        "page": "https://dir.indiamart.com/impcat/lpg-cylinder-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/SJ/GLADMIN-156798/lpg-cylinder-adapter-125x125.jpg"
+      },
+      {
+        "name": "LPG Vaporizer",
+        "page": "https://dir.indiamart.com/impcat/lpg-vaporizer.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/AH/QO/JY/82392/lpg-vaporizer-125x125.jpg"
+      },
+      {
+        "name": "Brass LPG Parts",
+        "page": "https://dir.indiamart.com/impcat/brass-lpg-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/QL/EK/GLADMIN-68641/brass-lpg-parts-125x125.jpg"
+      },
+      {
+        "name": "LPG Pipe",
+        "page": "https://dir.indiamart.com/impcat/lpg-pipe.html",
+        "thumbnail": "http://3.imimg.com/data3/SO/AS/GLADMIN-32399/lpg-pipe-125x125.jpg"
+      },
+      {
+        "name": "LPG Valves",
+        "page": "https://dir.indiamart.com/impcat/lpg-valves.html",
+        "thumbnail": "http://3.imimg.com/data3/LM/KS/GLADMIN-9700/lpg-valves-125x125.jpg"
+      },
+      {
+        "name": "LPG Manifold System",
+        "page": "https://dir.indiamart.com/impcat/lpg-manifold-system.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/HS/GLADMIN-109751/lpg-manifold-system-125x125.jpg"
+      },
+      {
+        "name": "LPG Cylinder Valve",
+        "page": "https://dir.indiamart.com/impcat/lpg-cylinder-valve.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/CR/GLADMIN-74252/lpg-cylinder-valve-125x125.jpg"
+      },
+      {
+        "name": "LPG Reducer",
+        "page": "https://dir.indiamart.com/impcat/lpg-reducer.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/SM/GLADMIN-153036/lpg-reducer-125x125.jpg"
+      },
+      {
+        "name": "LPG Filter",
+        "page": "https://dir.indiamart.com/impcat/lpg-filter.html",
+        "thumbnail": "http://3.imimg.com/data3/DE/ET/GLADMIN-155130/lpg-filter-125x125.jpg"
+      },
+      {
+        "name": "Cylinder Covers",
+        "page": "https://dir.indiamart.com/impcat/cylinder-covers.html",
+        "thumbnail": "http://3.imimg.com/data3/UP/DP/GLADMIN-25272/cylinder-covers-125x125.jpg"
+      },
+      {
+        "name": "LPG Solenoid Valves",
+        "page": "https://dir.indiamart.com/impcat/lpg-solenoid-valves.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/YP/GLADMIN-139065/lpg-solenoid-valves-125x125.jpg"
+      },
+      {
+        "name": "LPG Reticulation System",
+        "page": "https://dir.indiamart.com/impcat/lpg-reticulation-system.html",
+        "thumbnail": "http://3.imimg.com/data3/SW/EK/GLADMIN-162341/lpg-reticulation-system-125x125.jpg"
+      },
+      {
+        "name": "LPG Filling Heads",
+        "page": "https://dir.indiamart.com/impcat/lpg-filling-heads.html",
+        "thumbnail": "http://3.imimg.com/data3/VU/YX/GLADMIN-68642/lpg-filling-heads-125x125.jpg"
+      },
+      {
+        "name": "VP Ring",
+        "page": "https://dir.indiamart.com/impcat/vp-ring.html",
+        "thumbnail": "http://5.imimg.com/data5/OA/KR/GQ/GLADMIN-68155/vp-ring-125x125.png"
+      },
+      {
+        "name": "LPG Gas System Parts",
+        "page": "https://dir.indiamart.com/impcat/lpg-gas-system-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/BF/CT/GLADMIN-146047/lpg-gas-system-parts-125x125.jpg"
+      },
+      {
+        "name": "LPG Cylinder Bung",
+        "page": "https://dir.indiamart.com/impcat/lpg-cylinder-bung.html",
+        "thumbnail": "http://5.imimg.com/data5/EJ/WC/UW/GLADMIN-73467/lpg-cylinder-bung-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Gas Cylinder",
+    "category_thumbnail": "http://3.imimg.com/data3/QB/KI/GLADMIN-136957/industrial-gas-cylinder-125x125.jpg",
+    "items": [
+      {
+        "name": "Liquid Nitrogen Container",
+        "page": "https://dir.indiamart.com/impcat/liquid-nitrogen-container.html",
+        "thumbnail": "http://3.imimg.com/data3/OL/SO/GLADMIN-87759/liquid-nitrogen-container-125x125.jpg"
+      },
+      {
+        "name": "Helium Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/helium-gas-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/VK/ZU/UA/92368/helium-gas-cylinder-125x125.jpeg"
+      },
+      {
+        "name": "Carbon Dioxide Cylinder",
+        "page": "https://dir.indiamart.com/impcat/carbon-dioxide-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/NN/NN/GLADMIN-/carbon-dioxide-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Hydrogen Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/hydrogen-gas-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/AL/NO/GLADMIN-161120/hydrogen-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Industrial Oxygen Cylinder",
+        "page": "https://dir.indiamart.com/impcat/industrial-oxygen-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/WF/MJ/OM/GLADMIN-31571/industrial-oxygen-cylinder-125x125.png"
+      },
+      {
+        "name": "Nitrogen Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/nitrogen-gas-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/MH/RH/GLADMIN-137633/nitrogen-gas-cylinder-125x125.png"
+      },
+      {
+        "name": "Cryocans",
+        "page": "https://dir.indiamart.com/impcat/cryocans.html",
+        "thumbnail": "http://3.imimg.com/data3/YT/ST/GLADMIN-145562/cryocans-125x125.jpg"
+      },
+      {
+        "name": "Argon Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/argon-gas-cylinder.html",
+        "thumbnail": "http://3.imimg.com/data3/JW/ML/GLADMIN-163809/argon-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Industrial Liquid Oxygen Cylinder",
+        "page": "https://dir.indiamart.com/impcat/liquid-oxygen.html",
+        "thumbnail": "http://5.imimg.com/data5/SJ/QJ/OT/GLADMIN-31571/liquid-oxygen-125x125.jpg"
+      },
+      {
+        "name": "Ammonia Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/ammonia-gas-cylinder.html",
+        "thumbnail": "http://4.imimg.com/data4/LI/LP/GLADMIN-2/ammonia-gas-cylinder-125x125.jpg"
+      },
+      {
+        "name": "Cryogenic Containers",
+        "page": "https://dir.indiamart.com/impcat/cryogenic-containers.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/AX/GLADMIN-26132/cryogenic-containers-125x125.jpg"
+      },
+      {
+        "name": "Chlorine Tonner",
+        "page": "https://dir.indiamart.com/impcat/chlorine-tonner.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/11/UE/UB/AX/86685/chlorine-tonner-125x125.jpg"
+      },
+      {
+        "name": "Butane Cylinders",
+        "page": "https://dir.indiamart.com/impcat/butane-cylinders.html",
+        "thumbnail": "http://3.imimg.com/data3/HC/UW/GLADMIN-107046/butane-cylinders-125x125.jpg"
+      },
+      {
+        "name": "Ethylene Gas Cylinder",
+        "page": "https://dir.indiamart.com/impcat/ethylene-gas-cylinder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/6/424746531/IA/GY/WF/92336/ethylene-gas-cylinder-125x125.webp"
+      }
+    ]
+  }
+]

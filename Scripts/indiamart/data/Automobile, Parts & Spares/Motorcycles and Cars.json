@@ -1,0 +1,337 @@
+[
+  {
+    "category_name": "Scooter",
+    "category_thumbnail": "http://3.imimg.com/data3/KY/PR/GLADMIN-72926/scooter-125x125.jpg",
+    "items": [
+      {
+        "name": "Electric Scooter",
+        "page": "https://dir.indiamart.com/impcat/electric-scooter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/WG/MY/YH/81953/electric-scooter-125x125.jpg"
+      },
+      {
+        "name": "Motor Scooters",
+        "page": "https://dir.indiamart.com/impcat/motor-scooters.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/PF/GLADMIN-33329/motor-scooters-125x125.jpg"
+      },
+      {
+        "name": "Mini Scooter",
+        "page": "https://dir.indiamart.com/impcat/mini-scooter.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/TS/GLADMIN-32803/mini-scooter-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Motorcycle",
+    "category_thumbnail": "http://3.imimg.com/data3/HA/GB/GLADMIN-20873/motorcycle-125x125.jpg",
+    "items": [
+      {
+        "name": "Dirt Bike",
+        "page": "https://dir.indiamart.com/impcat/dirt-bike.html",
+        "thumbnail": "http://3.imimg.com/data3/EK/QX/GLADMIN-26545/dirt-bike-125x125.jpg"
+      },
+      {
+        "name": "Racing Bike",
+        "page": "https://dir.indiamart.com/impcat/racing-bike.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/XH/GLADMIN-72921/racing-bike-125x125.jpg"
+      },
+      {
+        "name": "Power Bike",
+        "page": "https://dir.indiamart.com/impcat/power-bike.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/LJ/GLADMIN-72920/power-bike-125x125.jpg"
+      },
+      {
+        "name": "Two Wheelers",
+        "page": "https://dir.indiamart.com/impcat/two-wheelers.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/UP/GLADMIN-841/two-wheelers-125x125.jpg"
+      },
+      {
+        "name": "Sport Motorcycle",
+        "page": "https://dir.indiamart.com/impcat/sport-motorcycle.html",
+        "thumbnail": "http://3.imimg.com/data3/KH/JX/GLADMIN-78117/sport-motorcycle-125x125.jpg"
+      },
+      {
+        "name": "Three Wheel Bike",
+        "page": "https://dir.indiamart.com/impcat/three-wheel-bike.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/SX/GLADMIN-129718/three-wheel-bike-125x125.jpg"
+      },
+      {
+        "name": "Motor Bicycle",
+        "page": "https://dir.indiamart.com/impcat/motor-bicycle.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/OA/GLADMIN-33322/motor-bicycle-125x125.jpg"
+      },
+      {
+        "name": "Cruiser Motorcycle",
+        "page": "https://dir.indiamart.com/impcat/cruiser-motorcycle.html",
+        "thumbnail": "http://4.imimg.com/data4/XU/SM/GLADMIN-183871/cruiser-motorcycle-125x125.jpg"
+      },
+      {
+        "name": "Adventure Motorcycle",
+        "page": "https://dir.indiamart.com/impcat/adventure-motorcycle.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/320351376/VK/BA/BP/64193/adventure-motorcycle-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Cars",
+    "category_thumbnail": "http://5.imimg.com/data5/RR/RR/GLADMIN-/a-img923-3106-vfhjwv-125x125.jpg",
+    "items": [
+      {
+        "name": "Modified Jeeps",
+        "page": "https://dir.indiamart.com/impcat/modified-jeeps.html",
+        "thumbnail": "http://3.imimg.com/data3/FX/JH/GLADMIN-177542/modified-jeeps-125x125.jpg"
+      },
+      {
+        "name": "Motor Cars",
+        "page": "https://dir.indiamart.com/impcat/motor-cars.html",
+        "thumbnail": "http://3.imimg.com/data3/FF/QB/GLADMIN-33324/motor-cars-125x125.jpg"
+      },
+      {
+        "name": "Four Wheelers",
+        "page": "https://dir.indiamart.com/impcat/four-wheelers.html",
+        "thumbnail": "http://5.imimg.com/data5/JD/KF/GLADMIN-2/four-wheelers-125x125.jpg"
+      },
+      {
+        "name": "Antique Cars",
+        "page": "https://dir.indiamart.com/impcat/antique-cars.html",
+        "thumbnail": "http://3.imimg.com/data3/XD/SB/GLADMIN-22692/antique-cars-125x125.jpg"
+      },
+      {
+        "name": "Bullet Proof Car",
+        "page": "https://dir.indiamart.com/impcat/bullet-proof-car.html",
+        "thumbnail": "http://3.imimg.com/data3/EB/SP/GLADMIN-98669/bullet-proof-car-125x125.jpg"
+      },
+      {
+        "name": "Luxury Car",
+        "page": "https://dir.indiamart.com/impcat/luxury-car.html",
+        "thumbnail": "http://3.imimg.com/data3/DI/OO/GLADMIN-72912/luxury-car-125x125.jpg"
+      },
+      {
+        "name": "Mini Car",
+        "page": "https://dir.indiamart.com/impcat/mini-car.html",
+        "thumbnail": "http://3.imimg.com/data3/OS/IU/GLADMIN-32765/mini-car-125x125.jpg"
+      },
+      {
+        "name": "Sport Utility Vehicles",
+        "page": "https://dir.indiamart.com/impcat/sport-utility-vehicles.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/RD/GLADMIN-38780/sport-utility-vehicles-125x125.jpg"
+      },
+      {
+        "name": "Sport Cars",
+        "page": "https://dir.indiamart.com/impcat/sport-cars.html",
+        "thumbnail": "http://3.imimg.com/data3/GE/YI/GLADMIN-38652/sport-cars-125x125.jpg"
+      },
+      {
+        "name": "Armored Cars",
+        "page": "https://dir.indiamart.com/impcat/armored-cars.html",
+        "thumbnail": "http://3.imimg.com/data3/JT/IJ/GLADMIN-22375/armored-cars-125x125.jpg"
+      },
+      {
+        "name": "Diesel Car",
+        "page": "https://dir.indiamart.com/impcat/diesel-car.html",
+        "thumbnail": "http://3.imimg.com/data3/BU/VL/GLADMIN-72901/diesel-car-125x125.jpg"
+      },
+      {
+        "name": "Automatic Car",
+        "page": "https://dir.indiamart.com/impcat/automatic-car.html",
+        "thumbnail": "http://5.imimg.com/data5/ON/AC/GLADMIN-2/automatic-cars-125x125.png"
+      },
+      {
+        "name": "Crossover Car",
+        "page": "https://dir.indiamart.com/impcat/crossover-car.html",
+        "thumbnail": "http://3.imimg.com/data3/KA/JL/GLADMIN-105115/crossover-car-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "All Terrain Vehicle",
+    "category_thumbnail": "http://3.imimg.com/data3/UE/JY/GLADMIN-21435/all-terrain-vehicle-125x125.jpg",
+    "items": [
+      {
+        "name": "ATV Motorcycle",
+        "page": "https://dir.indiamart.com/impcat/atv-motorcycle.html",
+        "thumbnail": "http://3.imimg.com/data3/JQ/MT/GLADMIN-72892/atv-motorcycle-125x125.jpg"
+      },
+      {
+        "name": "Kids ATV Motorcycle",
+        "page": "https://dir.indiamart.com/impcat/fully-automatic-atv.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/417697990/UD/QJ/CJ/103402/fully-automatic-atv-125x125.webp"
+      },
+      {
+        "name": "ATV Parts",
+        "page": "https://dir.indiamart.com/impcat/atv-parts.html",
+        "thumbnail": "http://5.imimg.com/data5/EN/DX/GLADMIN-2/atv-parts-125x125.jpg"
+      },
+      {
+        "name": "ATV Rental",
+        "page": "https://dir.indiamart.com/impcat/atv-rental.html",
+        "thumbnail": "http://5.imimg.com/data5/JN/TP/OG/GLADMIN-56986/atv-rental-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Second Hand Vehicles",
+    "category_thumbnail": "http://5.imimg.com/data5/DD/DD/GLADMIN-/a-img922-3547-tiou7g-125x125.jpg",
+    "items": [
+      {
+        "name": "Second Hand Motorbike",
+        "page": "https://dir.indiamart.com/impcat/used-motorbike.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/YG/GLADMIN-144229/used-motorbike-125x125.jpg"
+      },
+      {
+        "name": "Second Hand Cars",
+        "page": "https://dir.indiamart.com/impcat/used-cars.html",
+        "thumbnail": "http://3.imimg.com/data3/EX/NJ/GLADMIN-149844/used-cars-125x125.jpg"
+      },
+      {
+        "name": "Second Hand Scooty",
+        "page": "https://dir.indiamart.com/impcat/second-hand-scooty.html",
+        "thumbnail": "http://4.imimg.com/data4/II/MB/GLADMIN-2/second-hand-scooty-125x125.png"
+      },
+      {
+        "name": "Second Hand Scooter",
+        "page": "https://dir.indiamart.com/impcat/used-scooter.html",
+        "thumbnail": "http://5.imimg.com/data5/XJ/TA/GLADMIN-2/used-scooter-125x125.jpg"
+      },
+      {
+        "name": "Used Electric Golf Cart",
+        "page": "https://dir.indiamart.com/impcat/used-electric-golf-cart.html",
+        "thumbnail": "http://5.imimg.com/data5/BB/BB/GLADMIN-/used-electric-golf-cart-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Second Hand Cars",
+    "category_thumbnail": "http://3.imimg.com/data3/EX/NJ/GLADMIN-149844/used-cars-125x125.jpg",
+    "items": [
+      {
+        "name": "Second Hand Cars Dealer",
+        "page": "https://dir.indiamart.com/impcat/second-hand-cars-dealer.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/MK/GLADMIN-175502/second-hand-cars-dealer-125x125.jpg"
+      },
+      {
+        "name": "Pre Owned Car Sales Service",
+        "page": "https://dir.indiamart.com/impcat/pre-owned-car-sales-service.html",
+        "thumbnail": "http://3.imimg.com/data3/YS/UW/GLADMIN-121214/pre-owned-car-sales-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Luxury Car",
+    "category_thumbnail": "http://3.imimg.com/data3/DI/OO/GLADMIN-72912/luxury-car-125x125.jpg",
+    "items": [
+      {
+        "name": "Convertible Car",
+        "page": "https://dir.indiamart.com/impcat/convertible-car.html",
+        "thumbnail": "http://5.imimg.com/data5/TT/TT/GLADMIN-/a-img924-2231-nnnuix-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Electric Two Wheelers, Parts And Kits",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/AB/ZY/QC/81953/electric-two-wheelers-parts-and-kits-125x125.png",
+    "items": [
+      {
+        "name": "Electric Scooter",
+        "page": "https://dir.indiamart.com/impcat/electric-scooter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/WG/MY/YH/81953/electric-scooter-125x125.jpg"
+      },
+      {
+        "name": "Electric Scooter Batteries",
+        "page": "https://dir.indiamart.com/impcat/electric-scooter-batteries.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/CV/GLADMIN-108093/electric-scooter-batteries-125x125.jpg"
+      },
+      {
+        "name": "Electric Bike Charger",
+        "page": "https://dir.indiamart.com/impcat/electric-bike-charger.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/YG/GLADMIN-166857/electric-bike-charger-125x125.jpg"
+      },
+      {
+        "name": "Electric Bicycle",
+        "page": "https://dir.indiamart.com/impcat/electric-bicycle.html",
+        "thumbnail": "http://3.imimg.com/data3/JB/MC/GLADMIN-27220/electric-bicycle-125x125.jpg"
+      },
+      {
+        "name": "Electric Motorcycle",
+        "page": "https://dir.indiamart.com/impcat/electric-motorcycle.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/CM/SB/FE/81953/electric-motorcycle-125x125.jpg"
+      },
+      {
+        "name": "Handicap Electric Scooter",
+        "page": "https://dir.indiamart.com/impcat/handicap-electric-scooter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/9/449841266/HR/KG/WR/105497/hes-125x125.jpg"
+      },
+      {
+        "name": "Electric Loader Scooter",
+        "page": "https://dir.indiamart.com/impcat/electric-loader-scooter.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/412885708/WX/FA/CS/96809/electric-loader-scooter-125x125.jpg"
+      },
+      {
+        "name": "Electric Motorcycle Conversion Kit",
+        "page": "https://dir.indiamart.com/impcat/electric-motorcycle-conversion-kit.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/4/NC/SJ/VR/62828/electric-motorcycle-conversion-kit-125x125.jpg"
+      },
+      {
+        "name": "Battery Operated Bike",
+        "page": "https://dir.indiamart.com/impcat/battery-operated-bike.html",
+        "thumbnail": "http://3.imimg.com/data3/GO/DG/GLADMIN-49708/battery-operated-bike-125x125.jpg"
+      },
+      {
+        "name": "Electric Pocket Bike",
+        "page": "https://dir.indiamart.com/impcat/electric-pocket-bike.html",
+        "thumbnail": "http://5.imimg.com/data5/HF/CP/GLADMIN-2/image_20170706_115817_6979-125x125.jpg"
+      },
+      {
+        "name": "EV Motor Controller",
+        "page": "https://dir.indiamart.com/impcat/electric-bike-motor-controller.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/380320617/NW/SZ/MT/105497/electric-bike-motor-controller-125x125.png"
+      },
+      {
+        "name": "Electric Motorcycle Parts",
+        "page": "https://dir.indiamart.com/impcat/electric-motorcycle-part.html",
+        "thumbnail": "http://3.imimg.com/data3/AM/DW/GLADMIN-68722/electric-motorcycle-part-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Electric Four Wheelers, Parts And Kits",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/KZ/LB/QC/86025/battery-operated-private-vehicles-125x125.jpg",
+    "items": [
+      {
+        "name": "Electric Car",
+        "page": "https://dir.indiamart.com/impcat/electric-motor-car.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/390338906/QG/PY/OX/97095/electric-motor-car-125x125.jpg"
+      },
+      {
+        "name": "ECO Friendly Vehicles",
+        "page": "https://dir.indiamart.com/impcat/eco-friendly-vehicles.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/DQ/GLADMIN-123948/eco-friendly-vehicles-125x125.jpg"
+      },
+      {
+        "name": "Electric Car Charger",
+        "page": "https://dir.indiamart.com/impcat/electric-car-charger.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/2/383438778/JY/XL/SB/105497/electric-car-charger-125x125.png"
+      },
+      {
+        "name": "Electric Engine Spare Parts",
+        "page": "https://dir.indiamart.com/impcat/electric-engine-spare-part.html",
+        "thumbnail": "http://3.imimg.com/data3/KX/IY/GLADMIN-139429/electric-engine-spare-part-125x125.jpg"
+      },
+      {
+        "name": "Electric Car Batteries",
+        "page": "https://dir.indiamart.com/impcat/electric-car-batteries.html",
+        "thumbnail": "http://5.imimg.com/data5/MY/JF/GLADMIN-2/electric-car-batteries-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Second Hand Motorbike",
+        "page": "https://dir.indiamart.com/impcat/used-motorbike.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/YG/GLADMIN-144229/used-motorbike-125x125.jpg"
+      }
+    ]
+  }
+]

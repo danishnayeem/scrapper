@@ -1,0 +1,934 @@
+[
+  {
+    "category_name": "Beads",
+    "category_thumbnail": "http://3.imimg.com/data3/SX/RS/GLADMIN-105824/beads-125x125.jpg",
+    "items": [
+      {
+        "name": "Glass Beads",
+        "page": "https://dir.indiamart.com/impcat/glass-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/KM/MY-2/glass-beads-125x125.jpg"
+      },
+      {
+        "name": "Plastic Beads",
+        "page": "https://dir.indiamart.com/impcat/plastic-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/OL/GLADMIN-999/plastic-beads-125x125.jpg"
+      },
+      {
+        "name": "Crystal Beads",
+        "page": "https://dir.indiamart.com/impcat/crystal-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/JT/GLADMIN-12112/crystal-beads-125x125.jpg"
+      },
+      {
+        "name": "Pearl Beads",
+        "page": "https://dir.indiamart.com/impcat/pearl-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/HT/DK/GLADMIN-5805/pearl-beads-125x125.jpg"
+      },
+      {
+        "name": "Rudraksha Beads",
+        "page": "https://dir.indiamart.com/impcat/rudraksha-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/ER/OO/GLADMIN-8339/rudraksha-beads-125x125.jpg"
+      },
+      {
+        "name": "PVC Beading",
+        "page": "https://dir.indiamart.com/impcat/pvc-beading.html",
+        "thumbnail": "http://3.imimg.com/data3/RQ/OT/GLADMIN-157271/pvc-beading-125x125.jpg"
+      },
+      {
+        "name": "Pearl Plastic Bead",
+        "page": "https://dir.indiamart.com/impcat/pearl-plastic-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/UA/GLADMIN-73597/pearl-plastic-bead-125x125.jpg"
+      },
+      {
+        "name": "Tasbih Prayer Beads",
+        "page": "https://dir.indiamart.com/impcat/tasbih-prayer-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/HH/GLADMIN-129491/tasbih-prayer-beads-125x125.jpg"
+      },
+      {
+        "name": "Wooden Bead",
+        "page": "https://dir.indiamart.com/impcat/wooden-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/CU/DL/GLADMIN-19389/wooden-bead-125x125.jpg"
+      },
+      {
+        "name": "Gemstone Beads",
+        "page": "https://dir.indiamart.com/impcat/gemstone-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/SU/KN/GLADMIN-606/gemstone-beads-125x125.jpg"
+      },
+      {
+        "name": "Glass Stone",
+        "page": "https://dir.indiamart.com/impcat/glass-stone.html",
+        "thumbnail": "http://4.imimg.com/data4/AE/PX/GLADMIN-65837/glass-stone-125x125.jpg"
+      },
+      {
+        "name": "Glass Seed Bead",
+        "page": "https://dir.indiamart.com/impcat/glass-seed-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/QF/GLADMIN-65836/glass-seed-bead-125x125.jpg"
+      },
+      {
+        "name": "Machine Cut Glass Chatons",
+        "page": "https://dir.indiamart.com/impcat/machine-cut-glass-chatons.html",
+        "thumbnail": "http://3.imimg.com/data3/XH/TC/GLADMIN-153069/machine-cut-glass-chatons-125x125.jpg"
+      },
+      {
+        "name": "Fancy Bead",
+        "page": "https://dir.indiamart.com/impcat/fancy-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/VG/YD/GLADMIN-73559/fancy-bead-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Beads",
+        "page": "https://dir.indiamart.com/impcat/acrylic-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/SY/YQ/GLADMIN-605/acrylic-beads-125x125.jpg"
+      },
+      {
+        "name": "Stone Beads",
+        "page": "https://dir.indiamart.com/impcat/stone-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/HV/XB/GLADMIN-1000/stone-beads-125x125.jpg"
+      },
+      {
+        "name": "Brass Beads",
+        "page": "https://dir.indiamart.com/impcat/brass-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/IO/GLADMIN-4616/brass-beads-125x125.jpg"
+      },
+      {
+        "name": "Coral Beads",
+        "page": "https://dir.indiamart.com/impcat/coral-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/SV/GLADMIN-4066/coral-beads-125x125.jpg"
+      },
+      {
+        "name": "Jewelry Beads",
+        "page": "https://dir.indiamart.com/impcat/jewelry-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/QQ/GLADMIN-65841/jewelry-beads-125x125.jpg"
+      },
+      {
+        "name": "Freshwater Pearl Bead",
+        "page": "https://dir.indiamart.com/impcat/freshwater-pearl-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/YL/MR/GLADMIN-73567/freshwater-pearl-bead-125x125.jpg"
+      },
+      {
+        "name": "Round Bead",
+        "page": "https://dir.indiamart.com/impcat/round-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/KR/RC/GLADMIN-73612/round-bead-125x125.jpg"
+      },
+      {
+        "name": "Alphabet Beads",
+        "page": "https://dir.indiamart.com/impcat/alphabet-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/SL/GLADMIN-21453/alphabet-beads-125x125.jpg"
+      },
+      {
+        "name": "DIY Bead Kit",
+        "page": "https://dir.indiamart.com/impcat/diy-bead-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/KQ/MW/GLADMIN-108778/diy-bead-kit-125x125.jpg"
+      },
+      {
+        "name": "Clay Bead",
+        "page": "https://dir.indiamart.com/impcat/clay-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/HX/FT/GLADMIN-3841/clay-bead-125x125.jpg"
+      },
+      {
+        "name": "Gold Plated Bead",
+        "page": "https://dir.indiamart.com/impcat/gold-plated-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/NJ/SJ/GLADMIN-16190/gold-plated-bead-125x125.jpg"
+      },
+      {
+        "name": "Silver Beads",
+        "page": "https://dir.indiamart.com/impcat/silver-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/IE/MY-2/silver-beads-125x125.jpg"
+      },
+      {
+        "name": "Metal Beads",
+        "page": "https://dir.indiamart.com/impcat/metal-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/NR/GLADMIN-607/metal-beads-125x125.jpg"
+      },
+      {
+        "name": "Emerald Beads",
+        "page": "https://dir.indiamart.com/impcat/emerald-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/VM/AS/GLADMIN-7001/emerald-beads-125x125.jpg"
+      },
+      {
+        "name": "Gemstone Chips",
+        "page": "https://dir.indiamart.com/impcat/gemstone-chips.html",
+        "thumbnail": "http://3.imimg.com/data3/AQ/BV/GLADMIN-11982/gemstone-chips-125x125.jpg"
+      },
+      {
+        "name": "Ceramic Beads",
+        "page": "https://dir.indiamart.com/impcat/ceramic-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/MF/OC/GLADMIN-997/ceramic-beads-125x125.jpg"
+      },
+      {
+        "name": "Road Marking Glass Beads",
+        "page": "https://dir.indiamart.com/impcat/road-marking-glass-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/ER/LD/GLADMIN-162864/road-marking-glass-beads-125x125.jpg"
+      },
+      {
+        "name": "Colored Glass Beads",
+        "page": "https://dir.indiamart.com/impcat/colored-glass-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/CR/ST/GLADMIN-104054/colored-glass-beads-125x125.jpg"
+      },
+      {
+        "name": "Prayer Bead",
+        "page": "https://dir.indiamart.com/impcat/prayer-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/QP/GLADMIN-73607/prayer-bead-125x125.jpg"
+      },
+      {
+        "name": "Jewelry Glass Bead",
+        "page": "https://dir.indiamart.com/impcat/jewelry-glass-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/OS/IE/GLADMIN-73580/jewelry-glass-bead-125x125.jpg"
+      },
+      {
+        "name": "Faceted Crystal Bead",
+        "page": "https://dir.indiamart.com/impcat/faceted-crystal-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/FC/GLADMIN-73554/faceted-crystal-bead-125x125.jpg"
+      },
+      {
+        "name": "Faceted Beads",
+        "page": "https://dir.indiamart.com/impcat/faceted-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/PH/SA/GLADMIN-6223/faceted-beads-125x125.jpg"
+      },
+      {
+        "name": "Onyx Bead",
+        "page": "https://dir.indiamart.com/impcat/onyx-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/XT/QC/GLADMIN-166290/onyx-bead-125x125.jpg"
+      },
+      {
+        "name": "Ruby Beads",
+        "page": "https://dir.indiamart.com/impcat/ruby-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/SM/GLADMIN-8335/ruby-beads-125x125.jpg"
+      },
+      {
+        "name": "Seed Bead",
+        "page": "https://dir.indiamart.com/impcat/seed-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/GX/TL/GLADMIN-18011/seed-bead-125x125.jpg"
+      },
+      {
+        "name": "Glass Chip Bead",
+        "page": "https://dir.indiamart.com/impcat/glass-chip-bead.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/XX/GLADMIN-/a-img922-3949-0oc3qi-125x125.jpg"
+      },
+      {
+        "name": "Glass Pearl Bead",
+        "page": "https://dir.indiamart.com/impcat/glass-pearl-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/BP/GC/GLADMIN-65835/glass-pearl-bead-125x125.jpg"
+      },
+      {
+        "name": "Zirconium Beads",
+        "page": "https://dir.indiamart.com/impcat/zirconium-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/BR/GLADMIN-163238/zirconium-beads-125x125.jpg"
+      },
+      {
+        "name": "Colorful Wooden Bead",
+        "page": "https://dir.indiamart.com/impcat/colorful-wooden-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/JU/TI/GLADMIN-73544/colorful-wooden-bead-125x125.jpg"
+      },
+      {
+        "name": "Mirror Beads",
+        "page": "https://dir.indiamart.com/impcat/mirror-beads.html",
+        "thumbnail": "http://5.imimg.com/data5/IB/EK/OP/GLADMIN-68155/mirror-beads-125x125.jpg"
+      },
+      {
+        "name": "Imitation Bead",
+        "page": "https://dir.indiamart.com/impcat/imitation-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/KI/VA/GLADMIN-65839/imitation-bead-125x125.jpg"
+      },
+      {
+        "name": "Resin Beads",
+        "page": "https://dir.indiamart.com/impcat/resin-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/FE/GLADMIN-73610/resin-beads-125x125.jpg"
+      },
+      {
+        "name": "Heart Shaped Bead",
+        "page": "https://dir.indiamart.com/impcat/heart-shaped-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/VV/NQ/GLADMIN-73576/heart-shaped-bead-125x125.jpg"
+      },
+      {
+        "name": "Quartz Bead",
+        "page": "https://dir.indiamart.com/impcat/quartz-bead.html",
+        "thumbnail": "http://4.imimg.com/data4/GF/SQ/GLADMIN-18413/quartz-bead-125x125.jpg"
+      },
+      {
+        "name": "Agate Bead",
+        "page": "https://dir.indiamart.com/impcat/agate-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/IC/QP/GLADMIN-73526/agate-bead-125x125.jpg"
+      },
+      {
+        "name": "Decorative Glass Bead",
+        "page": "https://dir.indiamart.com/impcat/decorative-glass-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/PC/KX/GLADMIN-25426/decorative-glass-bead-125x125.jpg"
+      },
+      {
+        "name": "Transparent Glass Beads",
+        "page": "https://dir.indiamart.com/impcat/transparent-glass-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/BY/MY-2/transparent-glass-beads-125x125.jpg"
+      },
+      {
+        "name": "Sterling Silver Beads",
+        "page": "https://dir.indiamart.com/impcat/sterling-silver-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/YS/WG/GLADMIN-7968/sterling-silver-beads-125x125.jpg"
+      },
+      {
+        "name": "Seashell Beads",
+        "page": "https://dir.indiamart.com/impcat/seashell-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/TL/HI/GLADMIN-73614/seashell-beads-125x125.jpg"
+      },
+      {
+        "name": "Multicolor Beads",
+        "page": "https://dir.indiamart.com/impcat/multicolor-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/DO/MY-2/multicolor-beads-125x125.jpg"
+      },
+      {
+        "name": "Sapphire Beads",
+        "page": "https://dir.indiamart.com/impcat/sapphire-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/NL/IQ/GLADMIN-8398/sapphire-beads-125x125.jpg"
+      },
+      {
+        "name": "Big Hole Glass Bead",
+        "page": "https://dir.indiamart.com/impcat/big-hole-glass-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/VT/OJ/GLADMIN-73532/big-hole-glass-bead-125x125.jpg"
+      },
+      {
+        "name": "Bead Cap",
+        "page": "https://dir.indiamart.com/impcat/bead-cap.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/XE/GLADMIN-73531/bead-cap-125x125.jpg"
+      },
+      {
+        "name": "Cubic Zirconia Beads",
+        "page": "https://dir.indiamart.com/impcat/cubic-zirconia-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/LK/GLADMIN-73547/cubic-zirconia-beads-125x125.jpg"
+      },
+      {
+        "name": "Semi Precious Gemstone Beads",
+        "page": "https://dir.indiamart.com/impcat/semi-precious-gemstone-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/YA/FT/GLADMIN-37591/semi-precious-gemstone-beads-125x125.jpg"
+      },
+      {
+        "name": "Rosary Bead",
+        "page": "https://dir.indiamart.com/impcat/rosary-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/YR/DH/GLADMIN-73611/rosary-bead-125x125.jpg"
+      },
+      {
+        "name": "Amethyst Beads",
+        "page": "https://dir.indiamart.com/impcat/amethyst-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/GH/GLADMIN-143215/amethyst-beads-125x125.jpg"
+      },
+      {
+        "name": "Silver Foil Glass Bead",
+        "page": "https://dir.indiamart.com/impcat/silver-foil-glass-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/TY/YS/GLADMIN-73616/silver-foil-glass-bead-125x125.jpg"
+      },
+      {
+        "name": "Green Jade Bead",
+        "page": "https://dir.indiamart.com/impcat/green-jade-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/DE/TW/GLADMIN-73574/green-jade-bead-125x125.jpg"
+      },
+      {
+        "name": "Flower Bead",
+        "page": "https://dir.indiamart.com/impcat/flower-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/AR/AB/GLADMIN-73564/flower-bead-125x125.jpg"
+      },
+      {
+        "name": "Bugle Beads",
+        "page": "https://dir.indiamart.com/impcat/bugle-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/VP/GLADMIN-80596/bugle-beads-125x125.jpg"
+      },
+      {
+        "name": "Indian Beads",
+        "page": "https://dir.indiamart.com/impcat/indian-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/KT/GLADMIN-10924/indian-beads-125x125.jpg"
+      },
+      {
+        "name": "Oval Bead",
+        "page": "https://dir.indiamart.com/impcat/oval-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/NQ/GLADMIN-73591/oval-bead-125x125.jpg"
+      },
+      {
+        "name": "Ethiopian Opal Beads",
+        "page": "https://dir.indiamart.com/impcat/ethiopian-opal-beads.html",
+        "thumbnail": "http://4.imimg.com/data4/KJ/XY/GLADMIN-180496/ethiopian-opal-beads-125x125.jpg"
+      },
+      {
+        "name": "Aluminum Bead",
+        "page": "https://dir.indiamart.com/impcat/aluminum-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/IV/UY/GLADMIN-15120/aluminum-bead-125x125.jpg"
+      },
+      {
+        "name": "Plastic Stone",
+        "page": "https://dir.indiamart.com/impcat/plastic-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/IA/GLADMIN-80861/plastic-stone-125x125.jpg"
+      },
+      {
+        "name": "Chip Bead",
+        "page": "https://dir.indiamart.com/impcat/chip-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/IC/GLADMIN-73538/chip-bead-125x125.jpg"
+      },
+      {
+        "name": "Tourmaline Beads",
+        "page": "https://dir.indiamart.com/impcat/tourmaline-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/WC/GLADMIN-2512/tourmaline-beads-125x125.jpg"
+      },
+      {
+        "name": "Faceted Gemstone Bead",
+        "page": "https://dir.indiamart.com/impcat/faceted-gemstone-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/DM/GLADMIN-73555/faceted-gemstone-bead-125x125.jpg"
+      },
+      {
+        "name": "Carnelian Beads",
+        "page": "https://dir.indiamart.com/impcat/carnelian-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/DS/ME/GLADMIN-100916/carnelian-beads-125x125.jpg"
+      },
+      {
+        "name": "Metalized Beads",
+        "page": "https://dir.indiamart.com/impcat/metalized-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/WC/EV/GLADMIN-10076/metalized-beads-125x125.jpg"
+      },
+      {
+        "name": "Sandalwood Beads",
+        "page": "https://dir.indiamart.com/impcat/sandalwood-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/SB/GLADMIN-156598/sandalwood-beads-125x125.jpg"
+      },
+      {
+        "name": "Drop Bead",
+        "page": "https://dir.indiamart.com/impcat/drop-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/ET/TA/GLADMIN-73550/drop-bead-125x125.jpg"
+      },
+      {
+        "name": "Rainbow Beads",
+        "page": "https://dir.indiamart.com/impcat/rainbow-beads.html",
+        "thumbnail": "http://5.imimg.com/data5/GK/JH/GLADMIN-2/beads-125x125.jpg"
+      },
+      {
+        "name": "Bone Beads",
+        "page": "https://dir.indiamart.com/impcat/bone-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/BM/MY-2/bone-beads-125x125.jpg"
+      },
+      {
+        "name": "Copper Beads",
+        "page": "https://dir.indiamart.com/impcat/copper-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/SM/HM/GLADMIN-12109/copper-beads-125x125.jpg"
+      },
+      {
+        "name": "Pearl Colored Bead",
+        "page": "https://dir.indiamart.com/impcat/pearl-colored-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/YP/GLADMIN-73596/pearl-colored-bead-125x125.jpg"
+      },
+      {
+        "name": "Reflective Glass Bead",
+        "page": "https://dir.indiamart.com/impcat/reflective-glass-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/UX/MB/GLADMIN-80997/reflective-glass-bead-125x125.jpg"
+      },
+      {
+        "name": "Pandora Bead",
+        "page": "https://dir.indiamart.com/impcat/pandora-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/QO/OV/GLADMIN-73595/pandora-bead-125x125.jpg"
+      },
+      {
+        "name": "Caviar Bead",
+        "page": "https://dir.indiamart.com/impcat/caviar-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/NV/JP/GLADMIN-73535/caviar-bead-125x125.jpg"
+      },
+      {
+        "name": "Tiger Eye Beads",
+        "page": "https://dir.indiamart.com/impcat/tiger-eye-beads.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/HH/GLADMIN-/tiger-eye-beads-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Stone",
+        "page": "https://dir.indiamart.com/impcat/acrylic-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/UE/KM/GLADMIN-49902/acrylic-stone-125x125.jpg"
+      },
+      {
+        "name": "Drop On Glass Beads",
+        "page": "https://dir.indiamart.com/impcat/drop-on-glass-beads.html",
+        "thumbnail": "http://5.imimg.com/data5/YY/YY/GLADMIN-/a-img922-6319-vkrjm3-125x125.jpg"
+      },
+      {
+        "name": "Garment Beads",
+        "page": "https://dir.indiamart.com/impcat/garment-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/US/GLADMIN-104741/garment-beads-125x125.jpg"
+      },
+      {
+        "name": "Round Wood Bead",
+        "page": "https://dir.indiamart.com/impcat/round-wood-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/HF/GLADMIN-73613/round-wood-bead-125x125.jpg"
+      },
+      {
+        "name": "Rhinestone Bead",
+        "page": "https://dir.indiamart.com/impcat/rhinestone-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/GI/BC/GLADMIN-36410/rhinestone-bead-125x125.jpg"
+      },
+      {
+        "name": "Loose Beads",
+        "page": "https://dir.indiamart.com/impcat/loose-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/DN/DK/GLADMIN-9654/loose-beads-125x125.jpg"
+      },
+      {
+        "name": "Pyrite Beads",
+        "page": "https://dir.indiamart.com/impcat/pyrite-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/UX/BA/GLADMIN-154952/pyrite-beads-125x125.jpg"
+      },
+      {
+        "name": "Horn Bead",
+        "page": "https://dir.indiamart.com/impcat/horn-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/XC/MY-2/horn-bead-125x125.jpg"
+      },
+      {
+        "name": "Pipe Bead",
+        "page": "https://dir.indiamart.com/impcat/pipe-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/EW/WO/GLADMIN-73600/pipe-bead-125x125.jpg"
+      },
+      {
+        "name": "Chevron Bead",
+        "page": "https://dir.indiamart.com/impcat/chevron-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/IE/GLADMIN-73537/chevron-bead-125x125.jpg"
+      },
+      {
+        "name": "Hematite Bead",
+        "page": "https://dir.indiamart.com/impcat/hematite-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/HH/KT/GLADMIN-73578/hematite-bead-125x125.jpg"
+      },
+      {
+        "name": "Wooden Rosaries",
+        "page": "https://dir.indiamart.com/impcat/wooden-rosaries.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/WC/GLADMIN-129609/wooden-rosaries-125x125.jpg"
+      },
+      {
+        "name": "Handmade Glass Beads",
+        "page": "https://dir.indiamart.com/impcat/handmade-glass-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/UW/HU/GLADMIN-11842/handmade-glass-beads-125x125.jpg"
+      },
+      {
+        "name": "Tanzanite Bead",
+        "page": "https://dir.indiamart.com/impcat/tanzanite-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/ML/YN/GLADMIN-73619/tanzanite-bead-125x125.jpg"
+      },
+      {
+        "name": "Opal Beads",
+        "page": "https://dir.indiamart.com/impcat/opal-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/JF/GLADMIN-65847/opal-beads-125x125.jpg"
+      },
+      {
+        "name": "Peridot Bead",
+        "page": "https://dir.indiamart.com/impcat/peridot-bead.html",
+        "thumbnail": "http://4.imimg.com/data4/SK/DN/GLADMIN-183020/peridot-bead-125x125.jpg"
+      },
+      {
+        "name": "Glass Pearl",
+        "page": "https://dir.indiamart.com/impcat/glass-pearl.html",
+        "thumbnail": "http://3.imimg.com/data3/IB/FV/GLADMIN-28743/glass-pearl-125x125.jpg"
+      },
+      {
+        "name": "Tumbled Stone Beads",
+        "page": "https://dir.indiamart.com/impcat/tumbled-stone-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/GD/WB/GLADMIN-146002/tumbled-stone-beads-125x125.jpg"
+      },
+      {
+        "name": "Transparent Bead",
+        "page": "https://dir.indiamart.com/impcat/transparent-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/EW/AQ/GLADMIN-73622/transparent-bead-125x125.jpg"
+      },
+      {
+        "name": "Painted Wooden Bead",
+        "page": "https://dir.indiamart.com/impcat/painted-wooden-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/MA/GLADMIN-73594/painted-wooden-bead-125x125.jpg"
+      },
+      {
+        "name": "Multi Color Faceted Beads",
+        "page": "https://dir.indiamart.com/impcat/multi-color-faceted-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/UI/XB/GLADMIN-145999/multi-color-faceted-beads-125x125.jpg"
+      },
+      {
+        "name": "Shell Beads",
+        "page": "https://dir.indiamart.com/impcat/shell-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/AN/GLADMIN-65848/shell-beads-125x125.jpg"
+      },
+      {
+        "name": "Round Spacer Bead",
+        "page": "https://dir.indiamart.com/impcat/round-spacer-bead.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/368197675/HW/YL/OD/90525/round-spacer-bead-125x125.png"
+      },
+      {
+        "name": "Amber Bead",
+        "page": "https://dir.indiamart.com/impcat/amber-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/FU/GLADMIN-73527/amber-bead-125x125.jpg"
+      },
+      {
+        "name": "Fire Polished Bead",
+        "page": "https://dir.indiamart.com/impcat/fire-polished-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/XU/RP/GLADMIN-73560/fire-polished-bead-125x125.jpg"
+      },
+      {
+        "name": "Pony Beads",
+        "page": "https://dir.indiamart.com/impcat/pony-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/CW/LE/GLADMIN-73605/pony-beads-125x125.jpg"
+      },
+      {
+        "name": "Semi Precious Stone Beads",
+        "page": "https://dir.indiamart.com/impcat/semi-precious-stone-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/MG/NB/GLADMIN-8513/semi-precious-stone-beads-125x125.jpg"
+      },
+      {
+        "name": "Smoky Quartz Bead",
+        "page": "https://dir.indiamart.com/impcat/smoky-quartz-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/WT/GLADMIN-73617/smoky-quartz-bead-125x125.jpg"
+      },
+      {
+        "name": "Garnet Beads",
+        "page": "https://dir.indiamart.com/impcat/garnet-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/JE/YG/GLADMIN-166795/garnet-beads-125x125.jpg"
+      },
+      {
+        "name": "Turquoise Beads",
+        "page": "https://dir.indiamart.com/impcat/turquoise-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/JP/GLADMIN-2609/turquoise-beads-125x125.jpg"
+      },
+      {
+        "name": "Lampwork Glass Beads",
+        "page": "https://dir.indiamart.com/impcat/lampwork-glass-beads.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/368192703/LR/CL/RQ/90525/lampwork-glass-beads-125x125.png"
+      },
+      {
+        "name": "Emerald Faceted Beads",
+        "page": "https://dir.indiamart.com/impcat/emerald-faceted-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/EG/GR/GLADMIN-145998/emerald-faceted-beads-125x125.jpg"
+      },
+      {
+        "name": "Crystal Color Bead",
+        "page": "https://dir.indiamart.com/impcat/crystal-color-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/AX/GLADMIN-73546/crystal-color-bead-125x125.jpg"
+      },
+      {
+        "name": "Teardrop Gemstone Beads",
+        "page": "https://dir.indiamart.com/impcat/teardrop-gemstone-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/XM/GLADMIN-146000/teardrop-gemstone-beads-125x125.jpg"
+      },
+      {
+        "name": "Antique Bead",
+        "page": "https://dir.indiamart.com/impcat/antique-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/PY/MM/GLADMIN-14786/antique-bead-125x125.jpg"
+      },
+      {
+        "name": "Jade Bead",
+        "page": "https://dir.indiamart.com/impcat/jade-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/UW/GLADMIN-73579/jade-bead-125x125.jpg"
+      },
+      {
+        "name": "Zari Bead",
+        "page": "https://dir.indiamart.com/impcat/zari-bead.html",
+        "thumbnail": "http://4.imimg.com/data4/UX/EG/GLADMIN-84911/zari-bead-125x125.jpg"
+      },
+      {
+        "name": "Faceted Glass Bead",
+        "page": "https://dir.indiamart.com/impcat/faceted-glass-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/BX/LC/GLADMIN-73556/faceted-glass-bead-125x125.jpg"
+      },
+      {
+        "name": "Tube Beads",
+        "page": "https://dir.indiamart.com/impcat/tube-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/EB/NT/GLADMIN-73623/tube-beads-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Stone Bead",
+        "page": "https://dir.indiamart.com/impcat/acrylic-stone-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/KC/MA/GLADMIN-49903/acrylic-stone-bead-125x125.jpg"
+      },
+      {
+        "name": "Synthetic Beads",
+        "page": "https://dir.indiamart.com/impcat/synthetic-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/TN/KS/GLADMIN-2880/synthetic-beads-125x125.jpg"
+      },
+      {
+        "name": "Crystal Bicones Bead",
+        "page": "https://dir.indiamart.com/impcat/crystal-bicones-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/LO/HF/GLADMIN-99102/crystal-bicones-bead-125x125.jpg"
+      },
+      {
+        "name": "Dyed Beads",
+        "page": "https://dir.indiamart.com/impcat/dyed-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/BY/XV/GLADMIN-73551/dyed-beads-125x125.jpg"
+      },
+      {
+        "name": "Assorted Colored Beads",
+        "page": "https://dir.indiamart.com/impcat/assorted-colored-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/SW/GLADMIN-129250/assorted-colored-beads-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Fancy Bead",
+        "page": "https://dir.indiamart.com/impcat/acrylic-fancy-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/HT/LT/GLADMIN-73524/acrylic-fancy-bead-125x125.jpg"
+      },
+      {
+        "name": "Terracotta Bead",
+        "page": "https://dir.indiamart.com/impcat/terracotta-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/VB/GLADMIN-73620/terracotta-bead-125x125.jpg"
+      },
+      {
+        "name": "Barrel Bead",
+        "page": "https://dir.indiamart.com/impcat/barrel-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/MA/XP/GLADMIN-73530/barrel-bead-125x125.jpg"
+      },
+      {
+        "name": "Crochet Beads",
+        "page": "https://dir.indiamart.com/impcat/crochet-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/OB/VN/GLADMIN-144799/crochet-beads-125x125.jpg"
+      },
+      {
+        "name": "Soapstone Bead",
+        "page": "https://dir.indiamart.com/impcat/soapstone-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/ED/GLADMIN-19262/soapstone-bead-125x125.jpg"
+      },
+      {
+        "name": "Plain Bead",
+        "page": "https://dir.indiamart.com/impcat/plain-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/PB/GI/GLADMIN-73601/plain-bead-125x125.jpg"
+      },
+      {
+        "name": "Faceted Stone Bead",
+        "page": "https://dir.indiamart.com/impcat/faceted-stone-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/RY/WW/GLADMIN-73558/faceted-stone-bead-125x125.jpg"
+      },
+      {
+        "name": "Labradorite Beads",
+        "page": "https://dir.indiamart.com/impcat/labradorite-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/UG/GLADMIN-166291/labradorite-beads-125x125.jpg"
+      },
+      {
+        "name": "Precious Stone Beads",
+        "page": "https://dir.indiamart.com/impcat/precious-stone-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/WU/GR/GLADMIN-12395/precious-stone-beads-125x125.jpg"
+      },
+      {
+        "name": "Briolette Beads",
+        "page": "https://dir.indiamart.com/impcat/briolette-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/CL/GLADMIN-166289/briolette-beads-125x125.jpg"
+      },
+      {
+        "name": "Foil Glass Bead",
+        "page": "https://dir.indiamart.com/impcat/foil-glass-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/LA/GLADMIN-73566/foil-glass-bead-125x125.jpg"
+      },
+      {
+        "name": "Handcrafted Bead",
+        "page": "https://dir.indiamart.com/impcat/handcrafted-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/FS/GV/GLADMIN-65838/handcrafted-bead-125x125.jpg"
+      },
+      {
+        "name": "Lampwork Beads",
+        "page": "https://dir.indiamart.com/impcat/lampwork-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/QW/MH/GLADMIN-65843/lampwork-beads-125x125.jpg"
+      },
+      {
+        "name": "Ruby Drops",
+        "page": "https://dir.indiamart.com/impcat/ruby-drops.html",
+        "thumbnail": "http://3.imimg.com/data3/TV/DN/GLADMIN-/yahoo_site_admin-assets-images-dscn0486-112195338_large-125x125.jpg"
+      },
+      {
+        "name": "Bali Bead",
+        "page": "https://dir.indiamart.com/impcat/bali-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/HH/PG/GLADMIN-73529/bali-bead-125x125.jpg"
+      },
+      {
+        "name": "Silver Plated Bead",
+        "page": "https://dir.indiamart.com/impcat/silver-plated-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/XA/GLADMIN-19003/silver-plated-bead-125x125.jpg"
+      },
+      {
+        "name": "Microbeads",
+        "page": "https://dir.indiamart.com/impcat/microbeads.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/IM/GLADMIN-101860/microbeads-125x125.jpg"
+      },
+      {
+        "name": "Bead Craft",
+        "page": "https://dir.indiamart.com/impcat/bead-craft.html",
+        "thumbnail": "http://3.imimg.com/data3/JM/KP/GLADMIN-64985/bead-craft-125x125.jpg"
+      },
+      {
+        "name": "Leather Bead",
+        "page": "https://dir.indiamart.com/impcat/leather-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/HH/MY-2/leather-bead-125x125.jpg"
+      },
+      {
+        "name": "Gold Foil Bead",
+        "page": "https://dir.indiamart.com/impcat/gold-foil-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/PQ/UN/GLADMIN-73573/gold-foil-bead-125x125.jpg"
+      },
+      {
+        "name": "Cabochon Bead",
+        "page": "https://dir.indiamart.com/impcat/cabochon-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/WX/WP/GLADMIN-73534/cabochon-bead-125x125.jpg"
+      },
+      {
+        "name": "Lac Bead",
+        "page": "https://dir.indiamart.com/impcat/lac-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/FN/MO/GLADMIN-65842/lac-bead-125x125.jpg"
+      },
+      {
+        "name": "Lampwork Fancy Bead",
+        "page": "https://dir.indiamart.com/impcat/lampwork-fancy-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/HH/GLADMIN-73583/lampwork-fancy-bead-125x125.jpg"
+      },
+      {
+        "name": "Coated Bead",
+        "page": "https://dir.indiamart.com/impcat/coated-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/US/RF/GLADMIN-73540/coated-bead-125x125.jpg"
+      },
+      {
+        "name": "Painted Glass Bead",
+        "page": "https://dir.indiamart.com/impcat/painted-glass-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/RM/HV/GLADMIN-73593/painted-glass-bead-125x125.jpg"
+      },
+      {
+        "name": "Painted Bead",
+        "page": "https://dir.indiamart.com/impcat/painted-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/HJ/DU/GLADMIN-73592/painted-bead-125x125.jpg"
+      },
+      {
+        "name": "Pressed Bead",
+        "page": "https://dir.indiamart.com/impcat/pressed-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/BS/YX/GLADMIN-73608/pressed-bead-125x125.jpg"
+      },
+      {
+        "name": "African Bead",
+        "page": "https://dir.indiamart.com/impcat/african-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/OW/WJ/GLADMIN-73525/african-bead-125x125.jpg"
+      },
+      {
+        "name": "Flat Bead",
+        "page": "https://dir.indiamart.com/impcat/flat-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/QJ/AF/GLADMIN-73561/flat-bead-125x125.jpg"
+      },
+      {
+        "name": "Pendant Beads",
+        "page": "https://dir.indiamart.com/impcat/pendant-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/MK/RI/GLADMIN-73598/pendant-beads-125x125.jpg"
+      },
+      {
+        "name": "Metal Casting Beads",
+        "page": "https://dir.indiamart.com/impcat/metal-casting-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/HL/LO/GLADMIN-73586/metal-casting-beads-125x125.jpg"
+      },
+      {
+        "name": "Millefiori Bead",
+        "page": "https://dir.indiamart.com/impcat/millefiori-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/LL/FD/GLADMIN-73587/millefiori-bead-125x125.jpg"
+      },
+      {
+        "name": "Paper Bead",
+        "page": "https://dir.indiamart.com/impcat/paper-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/DS/KV/MY-2/paper-bead-125x125.jpg"
+      },
+      {
+        "name": "MOP Beads",
+        "page": "https://dir.indiamart.com/impcat/mop-beads.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/JS/GLADMIN-65845/mop-beads-125x125.jpg"
+      },
+      {
+        "name": "Enamel Bead",
+        "page": "https://dir.indiamart.com/impcat/enamel-bead.html",
+        "thumbnail": "http://3.imimg.com/data3/FO/DS/GLADMIN-73553/enamel-bead-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Rudraksha Beads",
+    "category_thumbnail": "http://3.imimg.com/data3/ER/OO/GLADMIN-8339/rudraksha-beads-125x125.jpg",
+    "items": [
+      {
+        "name": "Rudraksha  Mala",
+        "page": "https://dir.indiamart.com/impcat/rudraksha-mala.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/VR/GLADMIN-8340/rudraksha-mala-125x125.jpg"
+      },
+      {
+        "name": "5 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/5-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/RN/QF/GLADMIN-181598/5-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "1 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/1-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/LL/UT/GLADMIN-182605/1-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "7 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/7-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/SG/KK/GLADMIN-181593/7-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "Gauri Shankar Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/gauri-shankar-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/VG/OJ/GLADMIN-181588/gauri-shankar-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "14 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/14-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/YV/LD/GLADMIN-182606/14-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "21 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/21-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/VJ/OL/GLADMIN-182607/21-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "2 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/2-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/TQ/UT/GLADMIN-181590/2-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "15 Mukhi Rudraksh",
+        "page": "https://dir.indiamart.com/impcat/15-mukhi-rudraksh.html",
+        "thumbnail": "http://4.imimg.com/data4/UE/IB/GLADMIN-185662/15-mukhi-rudraksh-125x125.jpg"
+      },
+      {
+        "name": "6 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/6-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/TG/DA/GLADMIN-181599/6-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "12 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/12-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/HT/KK/GLADMIN-181600/12-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "9 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/9-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/NY/TI/GLADMIN-181601/9-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "3 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/3-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/GC/PA/GLADMIN-181589/3-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "13 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/13-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/EF/AE/GLADMIN-181597/13-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "4 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/4-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/EA/RS/GLADMIN-181592/4-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "8 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/8-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/CY/UE/GLADMIN-181594/8-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "11 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/11-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/UO/LE/GLADMIN-181595/11-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "16 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/16-mukhi-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/MS/WP/GLADMIN-185661/16-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "10 Mukhi Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/10-mukhi-rudraksha.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/AQ/GLADMIN-181596/10-mukhi-rudraksha-125x125.jpg"
+      },
+      {
+        "name": "Ganesh Rudraksha",
+        "page": "https://dir.indiamart.com/impcat/ganesh-rudraksha.html",
+        "thumbnail": "http://4.imimg.com/data4/JX/LA/GLADMIN-181591/ganesh-rudraksha-125x125.jpg"
+      }
+    ]
+  }
+]

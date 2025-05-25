@@ -1,0 +1,38 @@
+[
+  {
+    "category_name": "Leather Stationery",
+    "category_thumbnail": "http://3.imimg.com/data3/SH/AL/GLADMIN-228/leather-stationery-125x125.jpg",
+    "items": [
+      {
+        "name": "Leather Folders",
+        "page": "https://dir.indiamart.com/impcat/leather-folders.html",
+        "thumbnail": "http://3.imimg.com/data3/GS/TE/GLADMIN-11442/leather-folders-125x125.jpg"
+      },
+      {
+        "name": "Leather Journals",
+        "page": "https://dir.indiamart.com/impcat/leather-journals.html",
+        "thumbnail": "http://3.imimg.com/data3/KB/JG/MY-2/leather-journals-125x125.jpg"
+      },
+      {
+        "name": "Leather Organizers",
+        "page": "https://dir.indiamart.com/impcat/leather-organizers.html",
+        "thumbnail": "http://3.imimg.com/data3/AU/QP/GLADMIN-1101/leather-organizers-125x125.jpg"
+      },
+      {
+        "name": "Leather Notebooks",
+        "page": "https://dir.indiamart.com/impcat/leather-notebooks.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/MH/MY-2/leather-notebooks-125x125.jpg"
+      },
+      {
+        "name": "Leather Portfolio",
+        "page": "https://dir.indiamart.com/impcat/leather-portfolio.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/PY/MY-2/leather-portfolio-125x125.jpg"
+      },
+      {
+        "name": "Leather Notepad",
+        "page": "https://dir.indiamart.com/impcat/leather-notepad.html",
+        "thumbnail": "http://5.imimg.com/data5/MW/RM/KV/GLADMIN-68155/leather-notepad-125x125.jpg"
+      }
+    ]
+  }
+]

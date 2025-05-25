@@ -1,0 +1,619 @@
+[
+  {
+    "category_name": "Fresh Fish",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/LM/OR/MB/92368/fresh-fish-125x125.jpg",
+    "items": [
+      {
+        "name": "Fish",
+        "page": "https://dir.indiamart.com/impcat/fish.html",
+        "thumbnail": "http://3.imimg.com/data3/IW/XT/GLADMIN-105863/fish-125x125.jpg"
+      },
+      {
+        "name": "Freshwater Fishes",
+        "page": "https://dir.indiamart.com/impcat/freshwater-fishes.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/DS/GLADMIN-20973/freshwater-fishes-125x125.jpg"
+      },
+      {
+        "name": "Rohu Fish",
+        "page": "https://dir.indiamart.com/impcat/rohu-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/AH/ZR/CV/86648/rohu-fish-125x125.jpg"
+      },
+      {
+        "name": "Pomfret Fish",
+        "page": "https://dir.indiamart.com/impcat/pomfret-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/FN/HH/CV/91623/pomfret-fish-125x125.jpg"
+      },
+      {
+        "name": "Salmon Fish",
+        "page": "https://dir.indiamart.com/impcat/salmon-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/IL/TK/KD/86648/salmon-fish-125x125.jpg"
+      },
+      {
+        "name": "Catla Fish",
+        "page": "https://dir.indiamart.com/impcat/catla-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/WN/BH/OQ/92368/catla-fish-125x125.jpg"
+      },
+      {
+        "name": "Murrel Fish",
+        "page": "https://dir.indiamart.com/impcat/murrel-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/HH/EO/GLADMIN-2/murrel-fish-125x125.jpg"
+      },
+      {
+        "name": "Seer Fish",
+        "page": "https://dir.indiamart.com/impcat/seer-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/LU/VV/BN/92368/seer-fish-125x125.jpg"
+      },
+      {
+        "name": "Tuna Fish",
+        "page": "https://dir.indiamart.com/impcat/tuna-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/FN/EI/HP/92375/tuna-fish-125x125.jpg"
+      },
+      {
+        "name": "Basa Fish",
+        "page": "https://dir.indiamart.com/impcat/basa-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/VF/AN/YO/86648/basa-fish-125x125.jpg"
+      },
+      {
+        "name": "Fighter Fish",
+        "page": "https://dir.indiamart.com/impcat/fighter-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/319440640/ES/WJ/PH/92383/fighter-fish-125x125.webp"
+      },
+      {
+        "name": "Fresh Hilsa Fish",
+        "page": "https://dir.indiamart.com/impcat/fresh-hilsa-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/TM/QJ/XQ/86648/fresh-hilsa-fish-125x125.jpg"
+      },
+      {
+        "name": "Indian Mackerel",
+        "page": "https://dir.indiamart.com/impcat/indian-mackerel.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/WM/GLADMIN-10942/indian-mackerel-125x125.jpg"
+      },
+      {
+        "name": "Sea Bass",
+        "page": "https://dir.indiamart.com/impcat/sea-bass.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/PW/GLADMIN-162159/sea-bass-125x125.jpg"
+      },
+      {
+        "name": "Bombay Duck Fish",
+        "page": "https://dir.indiamart.com/impcat/bombay-duck-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/MV/ZQ/TB/GLADMIN-68087/bombay-duck-fish-125x125.jpg"
+      },
+      {
+        "name": "King Fish",
+        "page": "https://dir.indiamart.com/impcat/king-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/PP/CG/SC/GLADMIN-65832/king-fish-125x125.jpg"
+      },
+      {
+        "name": "Trout",
+        "page": "https://dir.indiamart.com/impcat/coral-trout.html",
+        "thumbnail": "http://4.imimg.com/data4/NV/JQ/GLADMIN-179988/coral-trout-125x125.jpg"
+      },
+      {
+        "name": "Sole Fish",
+        "page": "https://dir.indiamart.com/impcat/sole-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/DK/QW/TZ/GLADMIN-68087/sole-fish-125x125.jpg"
+      },
+      {
+        "name": "Snapper Fish",
+        "page": "https://dir.indiamart.com/impcat/snapper-fish.html",
+        "thumbnail": "http://3.imimg.com/data3/JB/VQ/GLADMIN-138380/snapper-fish-125x125.jpg"
+      },
+      {
+        "name": "Sardine Fish",
+        "page": "https://dir.indiamart.com/impcat/sardine-fish.html",
+        "thumbnail": "http://4.imimg.com/data4/SS/HJ/GLADMIN-183948/sardine-fish-125x125.jpg"
+      },
+      {
+        "name": "Anchovy Fish",
+        "page": "https://dir.indiamart.com/impcat/anchovy-fish.html",
+        "thumbnail": "http://4.imimg.com/data4/VG/AD/GLADMIN-183949/anchovy-fish-125x125.jpg"
+      },
+      {
+        "name": "Ghol Fish",
+        "page": "https://dir.indiamart.com/impcat/ghol-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/ID/MO/QP/GLADMIN-56986/ghol-fish-125x125.jpg"
+      },
+      {
+        "name": "Silver Croaker Fish",
+        "page": "https://dir.indiamart.com/impcat/silver-croaker-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/BD/OR/PW/GLADMIN-73467/silver-croaker-fish-125x125.jpg"
+      },
+      {
+        "name": "Ribbon Fish",
+        "page": "https://dir.indiamart.com/impcat/ribbon-fish.html",
+        "thumbnail": "http://3.imimg.com/data3/TD/NJ/GLADMIN-161458/ribbon-fish-125x125.jpg"
+      },
+      {
+        "name": "Vetki Fish",
+        "page": "https://dir.indiamart.com/impcat/vetki-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/338022667/ZD/DO/ZY/92383/vetki-fish-125x125.jpg"
+      },
+      {
+        "name": "Cuttlefish",
+        "page": "https://dir.indiamart.com/impcat/cuttlefish.html",
+        "thumbnail": "http://3.imimg.com/data3/XW/SM/GLADMIN-25542/cuttlefish-125x125.jpg"
+      },
+      {
+        "name": "Pabda Fish",
+        "page": "https://dir.indiamart.com/impcat/pabda-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/6/IL/ZK/AE/81953/pabda-fish-125x125.jpg"
+      },
+      {
+        "name": "Lady Fish",
+        "page": "https://dir.indiamart.com/impcat/lady-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/UP/MO/TQ/GLADMIN-68087/lady-fish-125x125.jpg"
+      },
+      {
+        "name": "Barracuda Fish",
+        "page": "https://dir.indiamart.com/impcat/barracuda-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/BW/HY/GLADMIN-2/image_20170706_115334_5433-125x125.jpg"
+      },
+      {
+        "name": "Rani Fish",
+        "page": "https://dir.indiamart.com/impcat/rani-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/JD/ZB/GA/GLADMIN-68087/rani-fish-125x125.jpeg"
+      },
+      {
+        "name": "Emperor Fish",
+        "page": "https://dir.indiamart.com/impcat/emperor-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/QF/RD/AB/GLADMIN-68087/emperor-fish-125x125.jpeg"
+      },
+      {
+        "name": "Chinese Pomfret",
+        "page": "https://dir.indiamart.com/impcat/chinese-pomfret.html",
+        "thumbnail": "http://5.imimg.com/data5/PK/NB/IX/GLADMIN-68087/chinese-pomfret-125x125.jpg"
+      },
+      {
+        "name": "Grass Carp Fish",
+        "page": "https://dir.indiamart.com/impcat/white-amur-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/338027271/WN/KW/SH/92383/white-amur-fish-125x125.webp"
+      },
+      {
+        "name": "Threadfin Fish",
+        "page": "https://dir.indiamart.com/impcat/threadfin-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/TW/GB/UW/GLADMIN-68087/threadfin-fish-125x125.png"
+      },
+      {
+        "name": "Reef Cod Fish",
+        "page": "https://dir.indiamart.com/impcat/reef-cod-fish.html",
+        "thumbnail": "http://3.imimg.com/data3/GB/SO/GLADMIN-166645/reef-cod-fish-125x125.jpg"
+      },
+      {
+        "name": "Sea Bream",
+        "page": "https://dir.indiamart.com/impcat/sea-bream.html",
+        "thumbnail": "http://4.imimg.com/data4/GV/ES/GLADMIN-162158/sea-bream-125x125.jpg"
+      },
+      {
+        "name": "Queen Fish",
+        "page": "https://dir.indiamart.com/impcat/queen-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/CI/KN/MU/GLADMIN-68087/queen-fish-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Seafood",
+    "category_thumbnail": "http://4.imimg.com/data4/VV/LG/GLADMIN-1116/sea-food-125x125.jpg",
+    "items": [
+      {
+        "name": "Dry Fish",
+        "page": "https://dir.indiamart.com/impcat/dry-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/HK/XY/UF/92368/dry-fish-125x125.jpg"
+      },
+      {
+        "name": "Live Crab",
+        "page": "https://dir.indiamart.com/impcat/live-crab.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/TW/BT/WC/92368/live-crab-125x125.jpg"
+      },
+      {
+        "name": "Frozen Prawns",
+        "page": "https://dir.indiamart.com/impcat/frozen-prawns.html",
+        "thumbnail": "http://5.imimg.com/data5/SN/SW/GLADMIN-2/frozen-prawns-125x125.jpg"
+      },
+      {
+        "name": "Shrimp",
+        "page": "https://dir.indiamart.com/impcat/shrimp.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/PA/PF/PA/92368/shrimp-125x125.jpg"
+      },
+      {
+        "name": "Frozen Sea Foods",
+        "page": "https://dir.indiamart.com/impcat/frozen-sea-foods.html",
+        "thumbnail": "http://3.imimg.com/data3/WA/VU/GLADMIN-6607/frozen-sea-foods-125x125.jpg"
+      },
+      {
+        "name": "Frozen Fishes",
+        "page": "https://dir.indiamart.com/impcat/frozen-fishes.html",
+        "thumbnail": "http://3.imimg.com/data3/JR/MR/GLADMIN-139910/frozen-fishes-125x125.jpg"
+      },
+      {
+        "name": "Tiger Prawns",
+        "page": "https://dir.indiamart.com/impcat/tiger-prawns.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/XT/WL/PK/92368/tiger-prawns-125x125.jpg"
+      },
+      {
+        "name": "Vannamei Prawn",
+        "page": "https://dir.indiamart.com/impcat/vannamei-prawn.html",
+        "thumbnail": "http://5.imimg.com/data5/AS/QE/BP/GLADMIN-68087/vannamei-prawn-125x125.jpg"
+      },
+      {
+        "name": "Frozen Octopus",
+        "page": "https://dir.indiamart.com/impcat/frozen-octopus.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/FK/GLADMIN-162975/frozen-octopus-125x125.gif"
+      },
+      {
+        "name": "Lobster",
+        "page": "https://dir.indiamart.com/impcat/lobster.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/JD/LL/CW/92368/lobster-125x125.jpg"
+      },
+      {
+        "name": "Cuttlefish Bone",
+        "page": "https://dir.indiamart.com/impcat/cuttlefish-bone.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/DG/GLADMIN-78011/cuttlefish-bone-125x125.jpg"
+      },
+      {
+        "name": "Bombay Duck Fish",
+        "page": "https://dir.indiamart.com/impcat/bombay-duck-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/MV/ZQ/TB/GLADMIN-68087/bombay-duck-fish-125x125.jpg"
+      },
+      {
+        "name": "Sea Crab",
+        "page": "https://dir.indiamart.com/impcat/sea-crab.html",
+        "thumbnail": "http://4.imimg.com/data4/LI/LA/GLADMIN-186050/sea-crab-125x125.jpg"
+      },
+      {
+        "name": "Dried Fish Maw",
+        "page": "https://dir.indiamart.com/impcat/dried-fish-maw.html",
+        "thumbnail": "http://3.imimg.com/data3/NE/TD/GLADMIN-158326/dried-fish-maw-125x125.jpg"
+      },
+      {
+        "name": "Black Tiger Prawns",
+        "page": "https://dir.indiamart.com/impcat/black-tiger-prawns.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/KI/GLADMIN-141072/black-tiger-prawns-125x125.jpg"
+      },
+      {
+        "name": "Squid",
+        "page": "https://dir.indiamart.com/impcat/squid.html",
+        "thumbnail": "http://3.imimg.com/data3/EU/EH/GLADMIN-135766/squid-125x125.jpg"
+      },
+      {
+        "name": "Freshwater Eels",
+        "page": "https://dir.indiamart.com/impcat/freshwater-eels.html",
+        "thumbnail": "http://3.imimg.com/data3/SY/EC/GLADMIN-107365/freshwater-eels-125x125.jpg"
+      },
+      {
+        "name": "Clam",
+        "page": "https://dir.indiamart.com/impcat/clam.html",
+        "thumbnail": "http://5.imimg.com/data5/OP/XY/GLADMIN-2/tridacna_squamosa3-125x125.jpg"
+      },
+      {
+        "name": "Canned Sardine",
+        "page": "https://dir.indiamart.com/impcat/canned-sardine.html",
+        "thumbnail": "http://3.imimg.com/data3/PX/KQ/GLADMIN-78007/canned-sardine-125x125.jpg"
+      },
+      {
+        "name": "Imitation Crab Meat",
+        "page": "https://dir.indiamart.com/impcat/imitation-crab-meat.html",
+        "thumbnail": "http://3.imimg.com/data3/KM/PA/GLADMIN-30799/imitation-crab-meat-125x125.jpg"
+      },
+      {
+        "name": "Canned Tuna",
+        "page": "https://dir.indiamart.com/impcat/canned-tuna.html",
+        "thumbnail": "http://3.imimg.com/data3/UA/NJ/GLADMIN-109755/canned-tuna-125x125.jpg"
+      },
+      {
+        "name": "Frozen Sea Crab",
+        "page": "https://dir.indiamart.com/impcat/frozen-sea-crab.html",
+        "thumbnail": "http://5.imimg.com/data5/HQ/RY/PM/GLADMIN-68087/frozen-sea-crab-125x125.jpg"
+      },
+      {
+        "name": "Frozen Lobsters",
+        "page": "https://dir.indiamart.com/impcat/frozen-lobsters.html",
+        "thumbnail": "http://5.imimg.com/data5/SG/VG/HZ/GLADMIN-68087/frozen-lobsters-125x125.jpg"
+      },
+      {
+        "name": "King Crab",
+        "page": "https://dir.indiamart.com/impcat/king-crab.html",
+        "thumbnail": "http://3.imimg.com/data3/YL/UL/GLADMIN-139060/king-crab-125x125.jpg"
+      },
+      {
+        "name": "Smoked Seafood",
+        "page": "https://dir.indiamart.com/impcat/smoked-seafood.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/QK/GLADMIN-38078/smoked-seafood-125x125.jpg"
+      },
+      {
+        "name": "Sea Sponge",
+        "page": "https://dir.indiamart.com/impcat/sea-sponge.html",
+        "thumbnail": "http://3.imimg.com/data3/HI/WX/GLADMIN-114510/sea-sponge-125x125.jpg"
+      },
+      {
+        "name": "Frozen Pomfret",
+        "page": "https://dir.indiamart.com/impcat/frozen-pomfret.html",
+        "thumbnail": "http://5.imimg.com/data5/LA/TU/GJ/GLADMIN-68087/frozen-pomfret-125x125.jpg"
+      },
+      {
+        "name": "Crab Claw",
+        "page": "https://dir.indiamart.com/impcat/crab-claw.html",
+        "thumbnail": "http://3.imimg.com/data3/DJ/GK/GLADMIN-78009/crab-claw-125x125.jpg"
+      },
+      {
+        "name": "Canned Fish",
+        "page": "https://dir.indiamart.com/impcat/canned-fish.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/AK/GLADMIN-157507/canned-fish-125x125.jpg"
+      },
+      {
+        "name": "Rock Lobster",
+        "page": "https://dir.indiamart.com/impcat/rock-lobster.html",
+        "thumbnail": "http://5.imimg.com/data5/IS/JX/LN/GLADMIN-68087/rock-lobster-125x125.jpg"
+      },
+      {
+        "name": "Aquatic Animals",
+        "page": "https://dir.indiamart.com/impcat/aquatic-animals.html",
+        "thumbnail": "http://4.imimg.com/data4/XH/IJ/GLADMIN-22078/aquatic-animals-125x125.jpg"
+      },
+      {
+        "name": "Smoked Salmon",
+        "page": "https://dir.indiamart.com/impcat/smoked-salmon.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/MA/GLADMIN-38077/smoked-salmon-125x125.jpg"
+      },
+      {
+        "name": "Milkfish",
+        "page": "https://dir.indiamart.com/impcat/milkfish.html",
+        "thumbnail": "http://5.imimg.com/data5/UA/XH/XK/GLADMIN-56986/milkfish-125x125.jpg"
+      },
+      {
+        "name": "Fish Steak",
+        "page": "https://dir.indiamart.com/impcat/fish-steak.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/HG/GLADMIN-146053/fish-steak-125x125.jpg"
+      },
+      {
+        "name": "Dried Anchovies",
+        "page": "https://dir.indiamart.com/impcat/dried-anchovies.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/BS/GLADMIN-110531/dried-anchovies-125x125.jpg"
+      },
+      {
+        "name": "Crab Stick",
+        "page": "https://dir.indiamart.com/impcat/crab-stick.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/TW/GLADMIN-78010/crab-stick-125x125.jpg"
+      },
+      {
+        "name": "Blood Clam",
+        "page": "https://dir.indiamart.com/impcat/blood-clam.html",
+        "thumbnail": "http://5.imimg.com/data5/LN/BC/YM/GLADMIN-73467/blood-clam-125x125.jpeg"
+      },
+      {
+        "name": "Scylla Serrata",
+        "page": "https://dir.indiamart.com/impcat/scylla-serrata.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/KY/GLADMIN-137634/scylla-serrata-125x125.jpg"
+      },
+      {
+        "name": "Frozen Mackerel",
+        "page": "https://dir.indiamart.com/impcat/frozen-mackerel.html",
+        "thumbnail": "http://5.imimg.com/data5/UQ/PI/RF/GLADMIN-68087/frozen-mackerel-125x125.jpg"
+      },
+      {
+        "name": "Flower Prawn",
+        "page": "https://dir.indiamart.com/impcat/flower-prawn.html",
+        "thumbnail": "http://5.imimg.com/data5/PE/RF/TP/GLADMIN-68087/flower-prawn-125x125.jpg"
+      },
+      {
+        "name": "King Prawn Black Tiger",
+        "page": "https://dir.indiamart.com/impcat/king-prawn-black-tiger.html",
+        "thumbnail": "http://3.imimg.com/data3/OC/VO/GLADMIN-146054/king-prawn-black-tiger-125x125.jpg"
+      },
+      {
+        "name": "Lobster Tail",
+        "page": "https://dir.indiamart.com/impcat/lobster-tail.html",
+        "thumbnail": "http://3.imimg.com/data3/XM/BH/GLADMIN-78019/lobster-tail-125x125.jpg"
+      },
+      {
+        "name": "Frozen Sardine",
+        "page": "https://dir.indiamart.com/impcat/frozen-sardine.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/AB/GLADMIN-78015/frozen-sardine-125x125.jpg"
+      },
+      {
+        "name": "Malabar Reef Cod",
+        "page": "https://dir.indiamart.com/impcat/malabar-reef-cod.html",
+        "thumbnail": "http://3.imimg.com/data3/CS/PG/GLADMIN-9798/malabar-reef-cod-125x125.jpg"
+      },
+      {
+        "name": "Tuna Loin",
+        "page": "https://dir.indiamart.com/impcat/tuna-loin.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/QH/GLADMIN-78025/tuna-loin-125x125.jpg"
+      },
+      {
+        "name": "Crab Cakes",
+        "page": "https://dir.indiamart.com/impcat/crab-cakes.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/AX/GLADMIN-25509/crab-cakes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fish Seeds",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TA/RU/KQ/92368/fish-seeds-125x125.jpg",
+    "items": [
+      {
+        "name": "Tilapia Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/tilapia-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/LA/GL/WH/86687/tilapia-fish-125x125.PNG"
+      },
+      {
+        "name": "Pangasius Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/pangasius-fish.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/CW/ZF/ZN/86648/pangasius-fish-125x125.jpg"
+      },
+      {
+        "name": "Murrel Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/murrel-fish-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318526506/SX/NC/UZ/92383/murrel-fish-seed-125x125.webp"
+      },
+      {
+        "name": "Grass Carp Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/grass-carp-fish.html",
+        "thumbnail": "http://4.imimg.com/data4/LD/MI/GLADMIN-183546/grass-carp-fish-125x125.jpg"
+      },
+      {
+        "name": "Rohu Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/rohu-fish-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318148513/HY/QH/XK/92383/rohu-fish-seed-125x125.webp"
+      },
+      {
+        "name": "Katla Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/katla-fish-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318152482/ZG/UN/BA/92383/katla-fish-seed-125x125.jpg"
+      },
+      {
+        "name": "Desi Magur Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/desi-magur-fish-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318530964/KH/DZ/YN/92383/desi-magur-fish-seed-125x125.webp"
+      },
+      {
+        "name": "Rupchanda Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/rupchanda-fish-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/421319801/NN/GH/CA/90177/rupchanda-fish-seed-125x125.jpg"
+      },
+      {
+        "name": "Catfish Seed",
+        "page": "https://dir.indiamart.com/impcat/catfish-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318814859/BN/BT/XR/92383/catfish-seed-125x125.jpg"
+      },
+      {
+        "name": "Singi Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/singi-fish-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/322005376/JK/TG/OU/92383/singi-fish-seed-125x125.jpg"
+      },
+      {
+        "name": "Common Carp Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/common-carp-fish-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324965773/XU/AG/XW/64512/common-carp-fish-seed-125x125.jpg"
+      },
+      {
+        "name": "Koi Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/koi-fish-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/322013728/GG/HV/RY/92383/koi-fish-seed-125x125.webp"
+      },
+      {
+        "name": "Pabda Fish Seed",
+        "page": "https://dir.indiamart.com/impcat/pabda-fish-seeds.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/6/318154749/SC/FG/YE/92383/pabda-fish-seeds-125x125.webp"
+      }
+    ]
+  },
+  {
+    "category_name": "Shrimp",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/PA/PF/PA/92368/shrimp-125x125.jpg",
+    "items": [
+      {
+        "name": "Tiger Prawns",
+        "page": "https://dir.indiamart.com/impcat/tiger-prawns.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/XT/WL/PK/92368/tiger-prawns-125x125.jpg"
+      },
+      {
+        "name": "Vannamei Prawn",
+        "page": "https://dir.indiamart.com/impcat/vannamei-prawn.html",
+        "thumbnail": "http://5.imimg.com/data5/AS/QE/BP/GLADMIN-68087/vannamei-prawn-125x125.jpg"
+      },
+      {
+        "name": "Shrimp Seed",
+        "page": "https://dir.indiamart.com/impcat/shrimp-seed.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335800077/DD/AO/NB/92383/shrimp-seed-125x125.jpg"
+      },
+      {
+        "name": "Shrimp Meal",
+        "page": "https://dir.indiamart.com/impcat/shrimp-meal.html",
+        "thumbnail": "http://3.imimg.com/data3/JI/UF/GLADMIN-78021/shrimp-meal-125x125.jpg"
+      },
+      {
+        "name": "Breaded Shrimp",
+        "page": "https://dir.indiamart.com/impcat/breaded-shrimp.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/EP/GLADMIN-139233/breaded-shrimp-125x125.jpg"
+      },
+      {
+        "name": "White Prawns",
+        "page": "https://dir.indiamart.com/impcat/white-prawns.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/338031493/DF/NN/QO/92383/white-prawns-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fish Fillet",
+    "category_thumbnail": "http://3.imimg.com/data3/TI/SF/GLADMIN-78012/fish-fillet-125x125.jpg",
+    "items": [
+      {
+        "name": "Basa Fish Fillet",
+        "page": "https://dir.indiamart.com/impcat/basa-fish-fillet.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/BC/GLADMIN-164563/basa-fish-fillet-125x125.jpg"
+      },
+      {
+        "name": "Frozen Basa Fillet",
+        "page": "https://dir.indiamart.com/impcat/frozen-basa-fillet.html",
+        "thumbnail": "http://5.imimg.com/data5/FR/PZ/AU/GLADMIN-68087/frozen-basa-fillet-125x125.jpg"
+      },
+      {
+        "name": "Frozen Fish Fillet",
+        "page": "https://dir.indiamart.com/impcat/frozen-fish-fillet.html",
+        "thumbnail": "http://3.imimg.com/data3/XE/DV/GLADMIN-78014/frozen-fish-fillet-125x125.jpg"
+      },
+      {
+        "name": "Tilapia Fillet",
+        "page": "https://dir.indiamart.com/impcat/tilapia-fillet.html",
+        "thumbnail": "http://3.imimg.com/data3/VU/KB/GLADMIN-78024/tilapia-fillet-125x125.jpg"
+      },
+      {
+        "name": "Mahi Mahi Fillet",
+        "page": "https://dir.indiamart.com/impcat/mahi-mahi-fillet.html",
+        "thumbnail": "http://5.imimg.com/data5/NX/BB/UZ/GLADMIN-65832/mahi-mahi-fillet-125x125.jpg"
+      },
+      {
+        "name": "Salmon Fillet",
+        "page": "https://dir.indiamart.com/impcat/salmon-fillet.html",
+        "thumbnail": "http://3.imimg.com/data3/OU/HQ/GLADMIN-128983/salmon-fillet-125x125.jpg"
+      },
+      {
+        "name": "Mackerel Fillet",
+        "page": "https://dir.indiamart.com/impcat/mackerel-fillet.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/CV/GLADMIN-110434/mackerel-fillet-125x125.jpg"
+      },
+      {
+        "name": "Cod Fillet",
+        "page": "https://dir.indiamart.com/impcat/cod-fillet.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/TU/GLADMIN-78008/cod-fillet-125x125.jpg"
+      },
+      {
+        "name": "Frozen Pangasius Fillets",
+        "page": "https://dir.indiamart.com/impcat/frozen-pangasius-fillets.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/DD/GLADMIN-154777/frozen-pangasius-fillets-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Squid",
+    "category_thumbnail": "http://3.imimg.com/data3/EU/EH/GLADMIN-135766/squid-125x125.jpg",
+    "items": [
+      {
+        "name": "Frozen Squids",
+        "page": "https://dir.indiamart.com/impcat/frozen-squids.html",
+        "thumbnail": "http://5.imimg.com/data5/SJ/LX/XZ/GLADMIN-68087/frozen-squids-125x125.jpg"
+      },
+      {
+        "name": "Squid Tube",
+        "page": "https://dir.indiamart.com/impcat/squid-tube.html",
+        "thumbnail": "http://3.imimg.com/data3/BQ/FD/GLADMIN-78023/squid-tube-125x125.jpg"
+      },
+      {
+        "name": "Squid Ring",
+        "page": "https://dir.indiamart.com/impcat/squid-ring.html",
+        "thumbnail": "http://3.imimg.com/data3/LA/AG/GLADMIN-78022/squid-ring-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Fish",
+        "page": "https://dir.indiamart.com/impcat/fish.html",
+        "thumbnail": "http://3.imimg.com/data3/IW/XT/GLADMIN-105863/fish-125x125.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "category_name": "Media Player",
+    "category_thumbnail": "http://3.imimg.com/data3/HA/CM/GLADMIN-31850/media-player-125x125.jpg",
+    "items": [
+      {
+        "name": "MP3 Player",
+        "page": "https://dir.indiamart.com/impcat/mp3-player.html",
+        "thumbnail": "http://3.imimg.com/data3/BQ/CC/GLADMIN-16854/mp3-player-125x125.jpg"
+      },
+      {
+        "name": "DVD Players",
+        "page": "https://dir.indiamart.com/impcat/dvd-players.html",
+        "thumbnail": "http://3.imimg.com/data3/SC/HI/GLADMIN-6755/dvd-players-125x125.jpg"
+      },
+      {
+        "name": "Music Player",
+        "page": "https://dir.indiamart.com/impcat/music-player.html",
+        "thumbnail": "http://3.imimg.com/data3/SY/NW/GLADMIN-33692/music-player-125x125.jpg"
+      },
+      {
+        "name": "Multimedia Player",
+        "page": "https://dir.indiamart.com/impcat/multimedia-player.html",
+        "thumbnail": "http://3.imimg.com/data3/ID/UH/GLADMIN-33673/multimedia-player-125x125.jpg"
+      },
+      {
+        "name": "VCR Player",
+        "page": "https://dir.indiamart.com/impcat/vcr-player.html",
+        "thumbnail": "http://3.imimg.com/data3/UR/SG/GLADMIN-40678/vcr-player-125x125.jpg"
+      },
+      {
+        "name": "Cassette Player",
+        "page": "https://dir.indiamart.com/impcat/cassette-player.html",
+        "thumbnail": "http://3.imimg.com/data3/KM/OO/GLADMIN-24495/cassette-player-125x125.jpg"
+      },
+      {
+        "name": "MP4 Player",
+        "page": "https://dir.indiamart.com/impcat/mp4-player.html",
+        "thumbnail": "http://3.imimg.com/data3/GL/IY/GLADMIN-33637/mp4-player-125x125.jpg"
+      },
+      {
+        "name": "Cassette Deck",
+        "page": "https://dir.indiamart.com/impcat/cassette-deck.html",
+        "thumbnail": "http://3.imimg.com/data3/LC/RT/GLADMIN-24494/cassette-deck-125x125.jpg"
+      },
+      {
+        "name": "USB MP3 Player",
+        "page": "https://dir.indiamart.com/impcat/usb-mp3-player.html",
+        "thumbnail": "http://3.imimg.com/data3/UM/DH/GLADMIN-40563/usb-mp3-player-125x125.jpg"
+      },
+      {
+        "name": "Portable DVD Player",
+        "page": "https://dir.indiamart.com/impcat/portable-dvd-player.html",
+        "thumbnail": "http://3.imimg.com/data3/PO/EO/GLADMIN-18252/portable-dvd-player-125x125.jpg"
+      },
+      {
+        "name": "CD Player",
+        "page": "https://dir.indiamart.com/impcat/cd-player.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/AK/GLADMIN-14461/cd-player-125x125.jpg"
+      },
+      {
+        "name": "Digital MP3 Player",
+        "page": "https://dir.indiamart.com/impcat/digital-mp3-player.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/RU/GLADMIN-55157/digital-mp3-player-125x125.jpg"
+      },
+      {
+        "name": "Blu Ray Disc Player",
+        "page": "https://dir.indiamart.com/impcat/blu-ray-disc-player.html",
+        "thumbnail": "http://5.imimg.com/data5/JJ/JJ/GLADMIN-/blu-ray-disc-player-125x125.jpg"
+      },
+      {
+        "name": "Portable MP3 Player",
+        "page": "https://dir.indiamart.com/impcat/portable-mp3-player.html",
+        "thumbnail": "http://3.imimg.com/data3/OD/MG/GLADMIN-55180/portable-mp3-player-125x125.jpg"
+      },
+      {
+        "name": "Record Player",
+        "page": "https://dir.indiamart.com/impcat/record-player.html",
+        "thumbnail": "http://3.imimg.com/data3/QQ/YM/GLADMIN-36219/record-player-125x125.jpg"
+      },
+      {
+        "name": "DVD Loader",
+        "page": "https://dir.indiamart.com/impcat/dvd-loader.html",
+        "thumbnail": "http://3.imimg.com/data3/GG/RJ/GLADMIN-27084/dvd-loader-125x125.jpg"
+      },
+      {
+        "name": "Digital Audio Player",
+        "page": "https://dir.indiamart.com/impcat/digital-audio-player.html",
+        "thumbnail": "http://3.imimg.com/data3/GK/DI/GLADMIN-26494/digital-audio-player-125x125.jpg"
+      },
+      {
+        "name": "Video Players",
+        "page": "https://dir.indiamart.com/impcat/video-players.html",
+        "thumbnail": "http://3.imimg.com/data3/NM/YM/GLADMIN-40718/video-players-125x125.jpg"
+      },
+      {
+        "name": "DVD Lens",
+        "page": "https://dir.indiamart.com/impcat/dvd-lens.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/DP/GLADMIN-53038/dvd-lens-125x125.jpg"
+      },
+      {
+        "name": "VCD Player",
+        "page": "https://dir.indiamart.com/impcat/vcd-player.html",
+        "thumbnail": "http://3.imimg.com/data3/SO/LM/GLADMIN-20001/vcd-player-125x125.jpg"
+      },
+      {
+        "name": "Digital Video Player",
+        "page": "https://dir.indiamart.com/impcat/digital-video-player.html",
+        "thumbnail": "http://3.imimg.com/data3/NK/GX/GLADMIN-26234/digital-video-player-125x125.jpg"
+      },
+      {
+        "name": "Digital Signage Player",
+        "page": "https://dir.indiamart.com/impcat/digital-signage-player.html",
+        "thumbnail": "http://3.imimg.com/data3/RI/HX/GLADMIN-132620/digital-signage-player-125x125.jpg"
+      },
+      {
+        "name": "Portable Media Player",
+        "page": "https://dir.indiamart.com/impcat/portable-media-player.html",
+        "thumbnail": "http://3.imimg.com/data3/YN/HO/GLADMIN-111791/portable-media-player-125x125.jpg"
+      },
+      {
+        "name": "Mini DVD Player",
+        "page": "https://dir.indiamart.com/impcat/mini-dvd-player.html",
+        "thumbnail": "http://3.imimg.com/data3/RD/AL/GLADMIN-32777/mini-dvd-player-125x125.jpg"
+      },
+      {
+        "name": "Portable Music Player",
+        "page": "https://dir.indiamart.com/impcat/portable-music-player.html",
+        "thumbnail": "http://3.imimg.com/data3/GI/EM/GLADMIN-111792/portable-music-player-125x125.jpg"
+      },
+      {
+        "name": "Digital DVD Player",
+        "page": "https://dir.indiamart.com/impcat/digital-dvd-player.html",
+        "thumbnail": "http://3.imimg.com/data3/GA/SA/GLADMIN-55156/digital-dvd-player-125x125.jpg"
+      },
+      {
+        "name": "Karaoke Player",
+        "page": "https://dir.indiamart.com/impcat/karaoke-player.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/AF/GLADMIN-15262/karaoke-player-125x125.jpg"
+      },
+      {
+        "name": "CD Recorder",
+        "page": "https://dir.indiamart.com/impcat/cd-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/FR/GLADMIN-24607/cd-recorder-125x125.jpg"
+      },
+      {
+        "name": "Portable Multimedia Player",
+        "page": "https://dir.indiamart.com/impcat/portable-multimedia-player.html",
+        "thumbnail": "http://3.imimg.com/data3/FG/II/GLADMIN-35405/portable-multimedia-player-125x125.jpg"
+      },
+      {
+        "name": "Digital Player",
+        "page": "https://dir.indiamart.com/impcat/digital-player.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/GL/GLADMIN-26644/digital-player-125x125.jpg"
+      },
+      {
+        "name": "DVD Accessories",
+        "page": "https://dir.indiamart.com/impcat/dvd-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/QP/GLADMIN-107627/dvd-accessories-125x125.jpg"
+      },
+      {
+        "name": "Portable Digital Audio Player",
+        "page": "https://dir.indiamart.com/impcat/portable-digital-audio-player.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/OL/GLADMIN-111925/portable-digital-audio-player-125x125.jpg"
+      },
+      {
+        "name": "DVD Media Player",
+        "page": "https://dir.indiamart.com/impcat/dvd-media-player.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/GF/GLADMIN-27086/dvd-media-player-125x125.jpg"
+      },
+      {
+        "name": "Dual CD Player",
+        "page": "https://dir.indiamart.com/impcat/dual-cd-player.html",
+        "thumbnail": "http://3.imimg.com/data3/AM/VN/GLADMIN-26964/dual-cd-player-125x125.jpg"
+      },
+      {
+        "name": "Flash Media Player",
+        "page": "https://dir.indiamart.com/impcat/flash-media-player.html",
+        "thumbnail": "http://3.imimg.com/data3/PM/QS/GLADMIN-108365/flash-media-player-125x125.jpg"
+      },
+      {
+        "name": "MP3 Video Player",
+        "page": "https://dir.indiamart.com/impcat/mp3-video-player.html",
+        "thumbnail": "http://3.imimg.com/data3/EM/GN/GLADMIN-53054/mp3-video-player-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Video Recorder",
+    "category_thumbnail": "http://3.imimg.com/data3/KS/FG/GLADMIN-40723/video-recorder-125x125.jpg",
+    "items": [
+      {
+        "name": "Video Camcorder",
+        "page": "https://dir.indiamart.com/impcat/video-camcorder.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/DA/GLADMIN-40682/video-camcorder-125x125.jpg"
+      },
+      {
+        "name": "Video Cassette",
+        "page": "https://dir.indiamart.com/impcat/video-cassette.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/OA/GLADMIN-40687/video-cassette-125x125.jpg"
+      },
+      {
+        "name": "Video Tape",
+        "page": "https://dir.indiamart.com/impcat/video-tape.html",
+        "thumbnail": "http://3.imimg.com/data3/FT/BD/GLADMIN-40731/video-tape-125x125.jpg"
+      },
+      {
+        "name": "Film Cassette",
+        "page": "https://dir.indiamart.com/impcat/film-cassette.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/GW/GLADMIN-94667/film-cassette-125x125.jpg"
+      },
+      {
+        "name": "DV Camcorder",
+        "page": "https://dir.indiamart.com/impcat/dv-camcorder.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/RJ/GLADMIN-27070/dv-camcorder-125x125.jpg"
+      },
+      {
+        "name": "Portable Video Recorder",
+        "page": "https://dir.indiamart.com/impcat/portable-video-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/FH/DY/GLADMIN-35427/portable-video-recorder-125x125.jpg"
+      },
+      {
+        "name": "DVD Video Recorder",
+        "page": "https://dir.indiamart.com/impcat/dvd-video-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/FF/GLADMIN-27100/dvd-video-recorder-125x125.jpg"
+      },
+      {
+        "name": "Personal Video Recorder",
+        "page": "https://dir.indiamart.com/impcat/personal-video-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/HN/GLADMIN-33962/personal-video-recorder-125x125.jpg"
+      },
+      {
+        "name": "Analog Video Recorder",
+        "page": "https://dir.indiamart.com/impcat/analog-video-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/QV/KK/MY-2/analog-video-recorder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Media Switches",
+    "category_thumbnail": "http://3.imimg.com/data3/IJ/WV/GLADMIN-50236/audio-video-switches-125x125.jpg",
+    "items": [
+      {
+        "name": "Video Switcher",
+        "page": "https://dir.indiamart.com/impcat/video-switcher.html",
+        "thumbnail": "http://3.imimg.com/data3/AD/UH/GLADMIN-2748/video-switcher-125x125.jpg"
+      },
+      {
+        "name": "HDMI Switch",
+        "page": "https://dir.indiamart.com/impcat/hdmi-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/FS/JX/GLADMIN-105395/hdmi-switch-125x125.jpg"
+      },
+      {
+        "name": "LCD KVM Switches",
+        "page": "https://dir.indiamart.com/impcat/lcd-kvm-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/AN/IM/GLADMIN-108348/lcd-kvm-switches-125x125.jpg"
+      },
+      {
+        "name": "Matrix Switches",
+        "page": "https://dir.indiamart.com/impcat/matrix-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/NO/SM/GLADMIN-69432/matrix-switches-125x125.jpg"
+      },
+      {
+        "name": "Video Matrix Switches",
+        "page": "https://dir.indiamart.com/impcat/video-matrix-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/TP/BG/GLADMIN-40711/video-matrix-switches-125x125.jpg"
+      },
+      {
+        "name": "Video Switch",
+        "page": "https://dir.indiamart.com/impcat/video-switch.html",
+        "thumbnail": "http://3.imimg.com/data3/JE/LJ/GLADMIN-19982/video-switch-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "AV Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/RG/JH/GLADMIN-45845/av-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Audio Video Connector",
+        "page": "https://dir.indiamart.com/impcat/audio-video-connector.html",
+        "thumbnail": "http://3.imimg.com/data3/VI/NA/GLADMIN-45843/audio-video-connector-125x125.jpg"
+      },
+      {
+        "name": "IEC Connector",
+        "page": "https://dir.indiamart.com/impcat/iec-connector.html",
+        "thumbnail": "http://3.imimg.com/data3/ID/JW/GLADMIN-53338/iec-connector-125x125.jpg"
+      },
+      {
+        "name": "Audio Video Distributor",
+        "page": "https://dir.indiamart.com/impcat/audio-video-distributor.html",
+        "thumbnail": "http://3.imimg.com/data3/XJ/IV/GLADMIN-45844/audio-video-distributor-125x125.jpg"
+      },
+      {
+        "name": "Mini Adapter",
+        "page": "https://dir.indiamart.com/impcat/mini-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/TM/RP/GLADMIN-45939/mini-adapter-125x125.jpg"
+      },
+      {
+        "name": "NTSC Converter",
+        "page": "https://dir.indiamart.com/impcat/ntsc-converter.html",
+        "thumbnail": "http://3.imimg.com/data3/QM/CE/GLADMIN-32879/ntsc-converter-125x125.jpg"
+      },
+      {
+        "name": "Media Switches",
+        "page": "https://dir.indiamart.com/impcat/audio-video-switches.html",
+        "thumbnail": "http://3.imimg.com/data3/IJ/WV/GLADMIN-50236/audio-video-switches-125x125.jpg"
+      },
+      {
+        "name": "Audio Video Adapter",
+        "page": "https://dir.indiamart.com/impcat/audio-video-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/JI/GT/GLADMIN-49803/audio-video-adapter-125x125.jpg"
+      },
+      {
+        "name": "Audio Video Integrator",
+        "page": "https://dir.indiamart.com/impcat/audio-video-integrator.html",
+        "thumbnail": "http://3.imimg.com/data3/SC/KF/GLADMIN-155980/audio-video-integrator-125x125.jpg"
+      },
+      {
+        "name": "Video Multiplexers",
+        "page": "https://dir.indiamart.com/impcat/video-multiplexers.html",
+        "thumbnail": "http://3.imimg.com/data3/XS/HW/GLADMIN-40715/video-multiplexers-125x125.jpg"
+      },
+      {
+        "name": "AV Adapter",
+        "page": "https://dir.indiamart.com/impcat/av-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/EV/LM/GLADMIN-45928/av-adapter-125x125.jpg"
+      },
+      {
+        "name": "AV Transmitter",
+        "page": "https://dir.indiamart.com/impcat/av-transmitter.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/PE/GLADMIN-22271/av-transmitter-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Digital Video Recorder",
+    "category_thumbnail": "http://3.imimg.com/data3/NL/LX/GLADMIN-13511/digital-video-recorder-125x125.jpg",
+    "items": [
+      {
+        "name": "CCTV NVR",
+        "page": "https://dir.indiamart.com/impcat/cctv-nvr.html",
+        "thumbnail": "http://4.imimg.com/data4/OO/OO/GLADMIN-/cctv-nvr-125x125.jpg"
+      },
+      {
+        "name": "Network Video Recorder",
+        "page": "https://dir.indiamart.com/impcat/network-video-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/SU/GLADMIN-17654/network-video-recorder-125x125.jpg"
+      },
+      {
+        "name": "High Definition DVR",
+        "page": "https://dir.indiamart.com/impcat/high-definition-dvr.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/AC/GLADMIN-52972/high-definition-dvr-125x125.jpg"
+      },
+      {
+        "name": "Mobile Digital Video Recorder",
+        "page": "https://dir.indiamart.com/impcat/mobile-digital-video-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/JI/EK/GLADMIN-32809/mobile-digital-video-recorder-125x125.jpg"
+      },
+      {
+        "name": "DVR Surveillance System",
+        "page": "https://dir.indiamart.com/impcat/dvr-surveillance-system.html",
+        "thumbnail": "http://3.imimg.com/data3/HE/BT/GLADMIN-27104/dvr-surveillance-system-125x125.jpg"
+      },
+      {
+        "name": "CCTV Digital Video Recorder",
+        "page": "https://dir.indiamart.com/impcat/cctv-digital-video-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/PW/GLADMIN-52965/cctv-digital-video-recorder-125x125.jpg"
+      },
+      {
+        "name": "DVR Camera",
+        "page": "https://dir.indiamart.com/impcat/dvr-camera.html",
+        "thumbnail": "http://3.imimg.com/data3/VS/YD/GLADMIN-52970/dvr-camera-125x125.jpg"
+      },
+      {
+        "name": "Medical Video Recorder",
+        "page": "https://dir.indiamart.com/impcat/medical-video-recorder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/334667226/WS/FC/CD/92511/medical-video-recorder-125x125.jpg"
+      },
+      {
+        "name": "HD Digital Video Recorder",
+        "page": "https://dir.indiamart.com/impcat/hd-digital-video-recorder.html",
+        "thumbnail": "http://4.imimg.com/data4/VO/AS/GLADMIN-181780/hd-digital-video-recorder-125x125.jpg"
+      },
+      {
+        "name": "AHD DVR",
+        "page": "https://dir.indiamart.com/impcat/ahd-dvr.html",
+        "thumbnail": "http://4.imimg.com/data4/SX/IF/GLADMIN-182773/ahd-dvr-125x125.jpg"
+      },
+      {
+        "name": "DVR Parts",
+        "page": "https://dir.indiamart.com/impcat/dvr-parts.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/SI/GLADMIN-80269/dvr-parts-125x125.jpg"
+      },
+      {
+        "name": "Mini Recorder",
+        "page": "https://dir.indiamart.com/impcat/mini-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/XA/YO/GLADMIN-32802/mini-recorder-125x125.jpg"
+      },
+      {
+        "name": "HDCVI DVR",
+        "page": "https://dir.indiamart.com/impcat/hdcvi-dvr.html",
+        "thumbnail": "http://4.imimg.com/data4/NP/FQ/GLADMIN-185178/hdcvi-dvr-125x125.jpg"
+      },
+      {
+        "name": "Hard Disk Recorder",
+        "page": "https://dir.indiamart.com/impcat/hard-disk-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/SV/GLADMIN-55165/hard-disk-recorder-125x125.jpg"
+      },
+      {
+        "name": "DV Recorder",
+        "page": "https://dir.indiamart.com/impcat/dv-recorder.html",
+        "thumbnail": "http://3.imimg.com/data3/LA/IS/GLADMIN-27071/dv-recorder-125x125.jpg"
+      },
+      {
+        "name": "Standalone DVR",
+        "page": "https://dir.indiamart.com/impcat/standalone-dvr.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/335994753/QA/FU/VI/64193/standalone-dvr-125x125.png"
+      },
+      {
+        "name": "Hybrid DVR",
+        "page": "https://dir.indiamart.com/impcat/hybrid-dvr.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/8/333076655/VE/FV/YI/64193/hybrid-dvr-125x125.png"
+      }
+    ]
+  }
+]

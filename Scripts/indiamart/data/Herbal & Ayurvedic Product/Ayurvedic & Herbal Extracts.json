@@ -1,0 +1,1256 @@
+[
+  {
+    "category_name": "Herbal Powder",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/GG/HA/ZA/43668/herbal-powder-125x125.webp",
+    "items": [
+      {
+        "name": "Moringa Leaves Powder",
+        "page": "https://dir.indiamart.com/impcat/moringa-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/QX/AB/GLADMIN-20462/moringa-powder-125x125.jpg"
+      },
+      {
+        "name": "Organic Moringa Powder",
+        "page": "https://dir.indiamart.com/impcat/organic-moringa-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/VD/LK/NF/56704/organic-moringa-powder-125x125.jpg"
+      },
+      {
+        "name": "Ayurvedic & Herbal Powder",
+        "page": "https://dir.indiamart.com/impcat/ayurvedic-herbal-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/FW/BO/TZ/43668/ayurvedic-herbal-powder-125x125.jpg"
+      },
+      {
+        "name": "Ashwagandha Powder",
+        "page": "https://dir.indiamart.com/impcat/ashwagandha-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/HV/GLADMIN-4937/ashwagandha-powder-125x125.jpg"
+      },
+      {
+        "name": "Cordyceps Sinensis Powder",
+        "page": "https://dir.indiamart.com/impcat/cordyceps-sinensi.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/363294633/JN/GP/OP/92376/cordyceps-sinensis-powder-125x125.jpg"
+      },
+      {
+        "name": "Spirulina Powder",
+        "page": "https://dir.indiamart.com/impcat/spirulina-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/OG/PF/WJ/43668/spirulina-powder-125x125.webp"
+      },
+      {
+        "name": "Kattha",
+        "page": "https://dir.indiamart.com/impcat/kattha.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/RF/BN/MJ/86648/kattha-125x125.jpg"
+      },
+      {
+        "name": "Neem Powder",
+        "page": "https://dir.indiamart.com/impcat/neem-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/IE/JL/GLADMIN-7336/neem-powder-125x125.jpg"
+      },
+      {
+        "name": "Amla Powder",
+        "page": "https://dir.indiamart.com/impcat/amla-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/SB/MU/MY-2/amla-powder-125x125.jpg"
+      },
+      {
+        "name": "Swarna Bhasma",
+        "page": "https://dir.indiamart.com/impcat/swarna-bhasma.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/2/UF/SW/SJ/85379/swarna-bhasma-125x125.jpg"
+      },
+      {
+        "name": "Double Stem Cell Powder",
+        "page": "https://dir.indiamart.com/impcat/double-stem-cell-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/WJ/YB/GLADMIN-182592/double-stem-cell-powder-125x125.jpg"
+      },
+      {
+        "name": "Godanti Bhasma",
+        "page": "https://dir.indiamart.com/impcat/godanti-bhasma.html",
+        "thumbnail": "http://3.imimg.com/data3/ME/XS/GLADMIN-16176/godanti-bhasma-125x125.jpg"
+      },
+      {
+        "name": "Turmeric Curcumin",
+        "page": "https://dir.indiamart.com/impcat/turmeric-curcumin.html",
+        "thumbnail": "http://3.imimg.com/data3/PN/YN/GLADMIN-40405/turmeric-curcumin-125x125.jpg"
+      },
+      {
+        "name": "Shikakai Powder",
+        "page": "https://dir.indiamart.com/impcat/shikakai-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/XX/ZQ/XZ/56704/shikakai-powder-125x125.jpg"
+      },
+      {
+        "name": "Stevia Powder",
+        "page": "https://dir.indiamart.com/impcat/stevia-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/TN/QW/GLADMIN-42490/stevia-powder-125x125.jpg"
+      },
+      {
+        "name": "Jamun Powder",
+        "page": "https://dir.indiamart.com/impcat/jamun-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/UY/SL/GLADMIN-146688/jamun-powder-125x125.jpg"
+      },
+      {
+        "name": "Licorice Powder",
+        "page": "https://dir.indiamart.com/impcat/licorice-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/CJ/LR/KP/56704/licorice-powder-125x125.jpg"
+      },
+      {
+        "name": "Malt Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/malt-extract-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/NF/PS/GLADMIN-182168/malt-extract-powder-125x125.jpg"
+      },
+      {
+        "name": "Shatavari Powder",
+        "page": "https://dir.indiamart.com/impcat/shatavari-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/ZP/CE/GD/56704/shatavari-powder-125x125.jpeg"
+      },
+      {
+        "name": "Herbal Bath Powder",
+        "page": "https://dir.indiamart.com/impcat/herbal-bath-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/TH/MC/GLADMIN-180191/herbal-bath-powder-125x125.jpg"
+      },
+      {
+        "name": "Hibiscus Powder",
+        "page": "https://dir.indiamart.com/impcat/hibiscus-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/KN/MN/GLADMIN-2/hibiscus-powder-125x125.jpg"
+      },
+      {
+        "name": "Wheat Grass Powder",
+        "page": "https://dir.indiamart.com/impcat/wheat-grass-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/TY/CO/GLADMIN-111129/wheat-grass-powder-125x125.jpg"
+      },
+      {
+        "name": "Bael Powder",
+        "page": "https://dir.indiamart.com/impcat/bael-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/DW/TA/GLADMIN-177701/bael-powder-125x125.jpg"
+      },
+      {
+        "name": "Aloe Vera Powder",
+        "page": "https://dir.indiamart.com/impcat/aloe-vera-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/TJ/OO/GLADMIN-3271/aloe-vera-powder-125x125.jpg"
+      },
+      {
+        "name": "Haritaki Powder",
+        "page": "https://dir.indiamart.com/impcat/haritaki-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/JA/BB/IZ/GLADMIN-56986/haritaki-powder-125x125.jpg"
+      },
+      {
+        "name": "Flaxseed Powder",
+        "page": "https://dir.indiamart.com/impcat/flax-seed-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/XO/MY/GLADMIN-2/flax-seed-powder-125x125.jpg"
+      },
+      {
+        "name": "Maca Powder",
+        "page": "https://dir.indiamart.com/impcat/maca-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/AY/EK/GLADMIN-183571/maca-powder-125x125.jpg"
+      },
+      {
+        "name": "Rose Petal Powder",
+        "page": "https://dir.indiamart.com/impcat/rose-petal-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/4/304003243/RN/UE/VZ/43668/rose-petal-powder-125x125.jpg"
+      },
+      {
+        "name": "Acacia Gum Powder",
+        "page": "https://dir.indiamart.com/impcat/acacia-gum-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/OD/VV/GLADMIN-153828/acacia-gum-powder-125x125.jpg"
+      },
+      {
+        "name": "Shilajit Powder",
+        "page": "https://dir.indiamart.com/impcat/shilajit-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/QV/CR/GLADMIN-179540/shilajit-powder-125x125.jpg"
+      },
+      {
+        "name": "Bhringraj Powder",
+        "page": "https://dir.indiamart.com/impcat/bhringraj-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/LA/MN/GLADMIN-183645/bhringraj-powder-125x125.jpg"
+      },
+      {
+        "name": "Tulsi Powder",
+        "page": "https://dir.indiamart.com/impcat/tulsi-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/PJ/EX/MT/56704/tulsi-powder-125x125.jpg"
+      },
+      {
+        "name": "Anardana Powder",
+        "page": "https://dir.indiamart.com/impcat/anardana-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/GE/XS/GLADMIN-183644/anardana-powder-125x125.jpg"
+      },
+      {
+        "name": "Arjuna Powder",
+        "page": "https://dir.indiamart.com/impcat/arjuna-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/TN/GLADMIN-166281/arjuna-powder-125x125.jpg"
+      },
+      {
+        "name": "Senna Powder",
+        "page": "https://dir.indiamart.com/impcat/senna-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/QM/OG/FW/56704/senna-powder-125x125.jpg"
+      },
+      {
+        "name": "Kattha Powder",
+        "page": "https://dir.indiamart.com/impcat/acacia-catechu-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/6/US/MX/WO/81953/acacia-catechu-powder-125x125.jpg"
+      },
+      {
+        "name": "Gokhru Powder",
+        "page": "https://dir.indiamart.com/impcat/gokhru-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/TQ/BP/GLADMIN-2/gokhru-powder-125x125.jpg"
+      },
+      {
+        "name": "Guggul Powder",
+        "page": "https://dir.indiamart.com/impcat/guggul-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/OI/QE/GO/GLADMIN-68155/guggul-powder-125x125.jpg"
+      },
+      {
+        "name": "Chirata Powder",
+        "page": "https://dir.indiamart.com/impcat/chirata-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/BU/QJ/GLADMIN-178707/chirata-powder-125x125.jpg"
+      },
+      {
+        "name": "Organic Spirulina Powder",
+        "page": "https://dir.indiamart.com/impcat/organic-spirulina-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/5/304502595/GB/TY/FZ/43668/organic-spirulina-powder-125x125.webp"
+      },
+      {
+        "name": "Lecithin Powder",
+        "page": "https://dir.indiamart.com/impcat/lecithin-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/TK/JM/GLADMIN-133868/lecithin-powder-125x125.jpg"
+      },
+      {
+        "name": "Sea Buckthorn Powder",
+        "page": "https://dir.indiamart.com/impcat/sea-buckthorn-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/TM/WB/IS/GLADMIN-68155/sea-buckthorn-powder-125x125.jpg"
+      },
+      {
+        "name": "Lemongrass Powder",
+        "page": "https://dir.indiamart.com/impcat/lemongrass-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GG/GG/GLADMIN-/lemongrass-powder-125x125.jpg"
+      },
+      {
+        "name": "Lutein Powder",
+        "page": "https://dir.indiamart.com/impcat/lutein-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/NM/MY-2/imag-125x125.jpg"
+      },
+      {
+        "name": "Kapur Kachri Powder",
+        "page": "https://dir.indiamart.com/impcat/kapur-kachri-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/ZJ/PY/YC/GLADMIN-65832/kapur-kachri-powder-125x125.jpg"
+      },
+      {
+        "name": "Shankh Bhasma",
+        "page": "https://dir.indiamart.com/impcat/shankh-bhasma.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/SQ/XX/EH/85062/shankh-bhasma-125x125.jpeg"
+      },
+      {
+        "name": "Pan Masala Kattha",
+        "page": "https://dir.indiamart.com/impcat/pan-masala-kattha.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/6/UC/VN/ZN/81953/pan-masala-kattha-125x125.png"
+      },
+      {
+        "name": "Alfalfa Leaf Powder",
+        "page": "https://dir.indiamart.com/impcat/alfalfa-leaf-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/3/HQ/FU/BN/56704/alfalfa-leaf-powder-125x125.jpg"
+      },
+      {
+        "name": "Garcinia Cambogia Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/garcinia-cambogia-extract-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/DX/XX/GLADMIN-165470/garcinia-cambogia-extract-powder-125x125.jpg"
+      },
+      {
+        "name": "Loha Bhasma",
+        "page": "https://dir.indiamart.com/impcat/loh-bhasma.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/VY/PA/GW/85062/loh-bhasma-125x125.jpg"
+      },
+      {
+        "name": "Brahmi Powder",
+        "page": "https://dir.indiamart.com/impcat/brahmi-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/QY/KU/GLADMIN-184240/brahmi-powder-125x125.jpg"
+      },
+      {
+        "name": "Guduchi Powder",
+        "page": "https://dir.indiamart.com/impcat/guduchi-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/7/YT/GL/IP/86649/guduchi-powder-125x125.png"
+      },
+      {
+        "name": "Banana Leaf Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/banaba-leaf-extract-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/IY/GLADMIN-147499/banaba-leaf-extract-powder-125x125.jpg"
+      },
+      {
+        "name": "Abhrak Bhasma",
+        "page": "https://dir.indiamart.com/impcat/abhrak-bhasma.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/XL/MG/MG/86649/abhrak-bhasma-125x125.jpg"
+      },
+      {
+        "name": "Honey Powder",
+        "page": "https://dir.indiamart.com/impcat/honey-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/IW/PQ/GLADMIN-180353/honey-powder-125x125.jpg"
+      },
+      {
+        "name": "Kalmegh Powder",
+        "page": "https://dir.indiamart.com/impcat/kalmegh-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/10/LI/JV/FK/28031/kalmegh-powder-125x125.jpg"
+      },
+      {
+        "name": "Anantamool Powder",
+        "page": "https://dir.indiamart.com/impcat/anantamool-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/RR/RR/GLADMIN-/data4-tt-tt-gladmin-image-cache-data-productimage-an9430-500x500-500x500-125x125.jpg"
+      },
+      {
+        "name": "Jatamansi Powder",
+        "page": "https://dir.indiamart.com/impcat/jatamansi-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/YM/XP/NP/GLADMIN-68087/jatamansi-powder-125x125.png"
+      },
+      {
+        "name": "Punarnava Powder",
+        "page": "https://dir.indiamart.com/impcat/punarnava-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/IH/ZP/UD/GLADMIN-68087/punarnava-powder-125x125.jpg"
+      },
+      {
+        "name": "Vijaysar Powder",
+        "page": "https://dir.indiamart.com/impcat/vijaysar-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/BP/CA/VZ/GLADMIN-65832/vijaysar-powder-125x125.jpg"
+      },
+      {
+        "name": "Silymarin Powder",
+        "page": "https://dir.indiamart.com/impcat/silymarin-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/RS/DQ/GLADMIN-145114/silymarin-powder-125x125.jpg"
+      },
+      {
+        "name": "Manjistha Powder",
+        "page": "https://dir.indiamart.com/impcat/manjistha-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/KY/VE/XG/GLADMIN-81955/manjistha-powder-125x125.jpg"
+      },
+      {
+        "name": "Gymnema Sylvestre Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/gymnema-sylvestre-extract-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/TI/OE/GLADMIN-158582/gymnema-sylvestre-extract-powder-125x125.jpg"
+      },
+      {
+        "name": "Ganthoda Powder",
+        "page": "https://dir.indiamart.com/impcat/ganthoda-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/VG/AA/NR/GLADMIN-56986/ganthoda-powder-125x125.jpg"
+      },
+      {
+        "name": "Marigold Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/marigold-extract-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411858569/PN/RY/KL/92376/marigold-extract-powder-125x125.jpg"
+      },
+      {
+        "name": "Nagarmotha Powder",
+        "page": "https://dir.indiamart.com/impcat/nagarmotha-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/IO/RT/GLADMIN-2/nagarmotha-powder-125x125.jpg"
+      },
+      {
+        "name": "Khas Powder",
+        "page": "https://dir.indiamart.com/impcat/khas-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/TN/JE/RG/GLADMIN-76037/khas-powder-125x125.jpg"
+      },
+      {
+        "name": "Moringa Seeds Powder",
+        "page": "https://dir.indiamart.com/impcat/moringa-seeds-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GU/DD/VR/GLADMIN-56986/moringa-seeds-powder-125x125.jpg"
+      },
+      {
+        "name": "Chamomile Powder",
+        "page": "https://dir.indiamart.com/impcat/chamomile-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/YN/KR/LK/GLADMIN-68087/chamomile-powder-125x125.jpg"
+      },
+      {
+        "name": "Kashaya Powder",
+        "page": "https://dir.indiamart.com/impcat/kashaya-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/434340996/XV/HA/ZC/93696/kashaya-powder-125x125.png"
+      },
+      {
+        "name": "Barley Grass Powder",
+        "page": "https://dir.indiamart.com/impcat/barley-grass-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/TQ/TU/GLADMIN-178601/barley-grass-powder-125x125.jpg"
+      },
+      {
+        "name": "Shankhpushpi Powder",
+        "page": "https://dir.indiamart.com/impcat/shankhpushpi-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/NJ/GT/BY/GLADMIN-68087/shankhpushpi-powder-125x125.png"
+      },
+      {
+        "name": "Ashoka Powder",
+        "page": "https://dir.indiamart.com/impcat/ashoka-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/3/PY/PB/ZA/85062/ashoka-powder-125x125.png"
+      },
+      {
+        "name": "Mandur Bhasma",
+        "page": "https://dir.indiamart.com/impcat/mandur-bhasma.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/375662091/BJ/OU/OU/92376/mandur-bhasma-125x125.jpg"
+      },
+      {
+        "name": "Amla Reetha Shikakai Powder",
+        "page": "https://dir.indiamart.com/impcat/amla-reetha-shikakai-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/435513311/TY/CO/JN/100839/amla-reetha-shikakai-powder-125x125.jpg"
+      },
+      {
+        "name": "Neem Bark Powder",
+        "page": "https://dir.indiamart.com/impcat/neem-bark-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/XQ/UI/GLADMIN-7314/neem-bark-powder-125x125.jpg"
+      },
+      {
+        "name": "Raspberry Powder",
+        "page": "https://dir.indiamart.com/impcat/raspberry-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/II/II/GLADMIN-/raspberry-powder-125x125.jpg"
+      },
+      {
+        "name": "Dashmool Powder",
+        "page": "https://dir.indiamart.com/impcat/dashmool-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/ZY/KM/VB/GLADMIN-73621/dashmool-powder-125x125.png"
+      },
+      {
+        "name": "Mulberry Powder",
+        "page": "https://dir.indiamart.com/impcat/mulberry-leaf-herbal-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/325371343/BU/XC/KI/43668/mulberry-leaf-herbal-powder-125x125.webp"
+      },
+      {
+        "name": "Kuppaimeni Powder",
+        "page": "https://dir.indiamart.com/impcat/kuppaimeni-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/CM/VB/BR/GLADMIN-76037/kuppaimeni-powder-125x125.jpg"
+      },
+      {
+        "name": "Babchi Powder",
+        "page": "https://dir.indiamart.com/impcat/babchi-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/CC/RN/VO/GLADMIN-68087/babchi-powder-125x125.jpg"
+      },
+      {
+        "name": "Talmakhana Powder",
+        "page": "https://dir.indiamart.com/impcat/talmakhana-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/327455005/DO/SC/NH/43668/talmakhana-powder-125x125.jpg"
+      },
+      {
+        "name": "Bottle Gourd Powder",
+        "page": "https://dir.indiamart.com/impcat/bottle-gourd-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/SH/IB/GLADMIN-140878/bottle-gourd-powder-125x125.jpg"
+      },
+      {
+        "name": "Chitrak Powder",
+        "page": "https://dir.indiamart.com/impcat/chitrak-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/4/EG/IL/IM/85062/chitrak-powder-125x125.jpg"
+      },
+      {
+        "name": "Lotus Powder",
+        "page": "https://dir.indiamart.com/impcat/lotus-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/TR/SB/AT/GLADMIN-68087/lotus-powder-125x125.jpg"
+      },
+      {
+        "name": "Akarkara Powder",
+        "page": "https://dir.indiamart.com/impcat/akarkara-natural-herbal-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/327550126/OT/DL/ZT/43668/akarkara-natural-herbal-extract-125x125.jpg"
+      },
+      {
+        "name": "Calcium Sennoside",
+        "page": "https://dir.indiamart.com/impcat/calcium-sennoside.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/NW/GLADMIN-121092/calcium-sennoside-125x125.jpg"
+      },
+      {
+        "name": "Neem Seed Powder",
+        "page": "https://dir.indiamart.com/impcat/neem-seed-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/11/468778664/GF/FL/CO/113487/nsp-125x125.png"
+      },
+      {
+        "name": "Spenai Powder",
+        "page": "https://dir.indiamart.com/impcat/spenai-powder.html",
+        "thumbnail": "http://4.imimg.com/data4/GR/RK/GLADMIN-182451/spenai-powder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Herbal Extracts",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/IX/LM/WV/43668/herbal-extracts-125x125.jpg",
+    "items": [
+      {
+        "name": "Shilajit Resin",
+        "page": "https://dir.indiamart.com/impcat/shilajit-resin.html",
+        "thumbnail": "http://5.imimg.com/data5/MI/IQ/SY/GLADMIN-76441/shilajit-resin-125x125.jpg"
+      },
+      {
+        "name": "Shilajit Extract",
+        "page": "https://dir.indiamart.com/impcat/shilajit-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/PG/KV/GLADMIN-177417/shilajit-extract-125x125.jpg"
+      },
+      {
+        "name": "Fruit Extracts",
+        "page": "https://dir.indiamart.com/impcat/fruit-extracts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/438766429/DG/CS/KY/92376/fruit-extracts-125x125.jpg"
+      },
+      {
+        "name": "Green Tea Extract",
+        "page": "https://dir.indiamart.com/impcat/green-tea-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/TT/GLADMIN-29815/green-tea-extract-125x125.jpg"
+      },
+      {
+        "name": "Black Tea Extract",
+        "page": "https://dir.indiamart.com/impcat/black-tea-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/PV/PE/GLADMIN-156534/black-tea-extract-125x125.jpg"
+      },
+      {
+        "name": "Berberine Hydrochloride",
+        "page": "https://dir.indiamart.com/impcat/berberine-hydrochloride.html",
+        "thumbnail": "http://3.imimg.com/data3/CG/TD/GLADMIN-/images-pmimage-2-p13250553671027301m-125x125.jpg"
+      },
+      {
+        "name": "Safed Musli Powder",
+        "page": "https://dir.indiamart.com/impcat/safed-musli-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/325017392/DC/KB/EI/43668/safed-musli-powder-125x125.jpg"
+      },
+      {
+        "name": "Kutki Extract",
+        "page": "https://dir.indiamart.com/impcat/kutki-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/WJ/GLADMIN-167088/kutki-extract-125x125.jpg"
+      },
+      {
+        "name": "Plant Extracts",
+        "page": "https://dir.indiamart.com/impcat/plant-extracts.html",
+        "thumbnail": "http://3.imimg.com/data3/NJ/XN/GLADMIN-126303/plant-extracts-125x125.jpg"
+      },
+      {
+        "name": "Ginseng Extract",
+        "page": "https://dir.indiamart.com/impcat/ginseng-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/UM/GLADMIN-29422/ginseng-extract-125x125.jpg"
+      },
+      {
+        "name": "Aloe Vera Extracts",
+        "page": "https://dir.indiamart.com/impcat/aloe-vera-extracts.html",
+        "thumbnail": "http://3.imimg.com/data3/DV/JQ/GLADMIN-21450/aloe-vera-extracts-125x125.jpg"
+      },
+      {
+        "name": "Papaya Leaf Extract",
+        "page": "https://dir.indiamart.com/impcat/papaya-leaf-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/GM/RF/GLADMIN-180234/papaya-leaf-extract-125x125.png"
+      },
+      {
+        "name": "Resveratrol Extract",
+        "page": "https://dir.indiamart.com/impcat/resveratrol-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437062664/QE/HY/KV/92376/resveratrol-extract-125x125.png"
+      },
+      {
+        "name": "Tongkat Ali Extract",
+        "page": "https://dir.indiamart.com/impcat/tongkat-ali-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/SR/OJ/GLADMIN-2/tongkat-ali-extract-125x125.jpg"
+      },
+      {
+        "name": "Pine Bark Extract",
+        "page": "https://dir.indiamart.com/impcat/pine-bark-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/JE/GO/GLADMIN-109915/pine-bark-extract-125x125.jpg"
+      },
+      {
+        "name": "Grape Seed Extract",
+        "page": "https://dir.indiamart.com/impcat/grape-seed-extracts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437046374/MC/ND/KF/92376/grape-seed-extracts-125x125.jpg"
+      },
+      {
+        "name": "Ginkgo Biloba Extract",
+        "page": "https://dir.indiamart.com/impcat/ginkgo-biloba-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/JX/GLADMIN-161119/ginkgo-biloba-extract-125x125.jpg"
+      },
+      {
+        "name": "Vitex Negundo Extract",
+        "page": "https://dir.indiamart.com/impcat/vitex-negundo.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409964925/OQ/PN/ME/92376/vitex-negundo-125x125.png"
+      },
+      {
+        "name": "Arbutin Extract",
+        "page": "https://dir.indiamart.com/impcat/arbutin-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/CC/AR/GLADMIN-160046/arbutin-extract-125x125.jpg"
+      },
+      {
+        "name": "Apamarga Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/apamarga.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409961648/HQ/GD/BQ/92376/apamarga-125x125.jpg"
+      },
+      {
+        "name": "Mastic Gum",
+        "page": "https://dir.indiamart.com/impcat/mastic.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/438052298/MY/FE/LH/100839/mastic-gum-125x125.jpg"
+      },
+      {
+        "name": "Cocoa Extract",
+        "page": "https://dir.indiamart.com/impcat/cocoa-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/411772673/YQ/ZU/XR/92376/cocoa-extract-125x125.jpg"
+      },
+      {
+        "name": "Gymnema Sylvestre Extract",
+        "page": "https://dir.indiamart.com/impcat/gymnema-sylvestre-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/AG/WC/GLADMIN-154354/gymnema-sylvestre-extract-125x125.jpg"
+      },
+      {
+        "name": "Coleus Extract",
+        "page": "https://dir.indiamart.com/impcat/coleus-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/YU/FY/GLADMIN-152898/coleus-extract-125x125.jpg"
+      },
+      {
+        "name": "Wild Mango Seed Extract",
+        "page": "https://dir.indiamart.com/impcat/wild-mango-seed-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/HI/GLADMIN-158875/wild-mango-seed-extract-125x125.jpg"
+      },
+      {
+        "name": "Garlic Extract",
+        "page": "https://dir.indiamart.com/impcat/garlic-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/US/HB/GLADMIN-29231/garlic-extract-125x125.jpg"
+      },
+      {
+        "name": "Green Coffee Bean Extract",
+        "page": "https://dir.indiamart.com/impcat/green-coffee-bean-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/YM/IS/GLADMIN-151294/green-coffee-bean-extract-125x125.jpg"
+      },
+      {
+        "name": "Asparagus Racemosus Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/asparagus-racemosus-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419174942/EY/PH/YO/92376/asparagus-racemosus-extract-125x125.jpg"
+      },
+      {
+        "name": "Lycopene Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/lycopene-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419444911/RL/MF/WU/92376/lycopene-extract-125x125.jpg"
+      },
+      {
+        "name": "Alfalfa Extract",
+        "page": "https://dir.indiamart.com/impcat/alfalfa-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/VM/GLADMIN-72695/alfalfa-extract-125x125.jpg"
+      },
+      {
+        "name": "Dashmool",
+        "page": "https://dir.indiamart.com/impcat/dashmool.html",
+        "thumbnail": "http://4.imimg.com/data4/OC/NR/GLADMIN-178693/dashmool-125x125.jpg"
+      },
+      {
+        "name": "Mullein Leaf Extract",
+        "page": "https://dir.indiamart.com/impcat/mullein-leaf-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/FA/TF/GLADMIN-180489/mullein-leaf-extract-125x125.jpg"
+      },
+      {
+        "name": "Phyllanthus Niruri Extract",
+        "page": "https://dir.indiamart.com/impcat/phyllanthus-niruri-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419199989/UM/BV/QL/92376/phyllanthus-niruri-extract-125x125.jpg"
+      },
+      {
+        "name": "Astragalus Root Extract",
+        "page": "https://dir.indiamart.com/impcat/astragalus-root-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/418987093/WI/LE/IK/92376/astragalus-root-extract-125x125.jpg"
+      },
+      {
+        "name": "Broccoli Extract",
+        "page": "https://dir.indiamart.com/impcat/broccoli-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419504352/YA/EA/FD/92376/broccoli-extract-125x125.jpg"
+      },
+      {
+        "name": "Bitter Gourd Extract",
+        "page": "https://dir.indiamart.com/impcat/bitter-gourd-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419356273/WJ/UC/JI/92376/bitter-gourd-extract-125x125.jpg"
+      },
+      {
+        "name": "Salacia Reticulata Extract",
+        "page": "https://dir.indiamart.com/impcat/salacia-reticulata-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/FI/OD/GLADMIN-179877/salacia-reticulata-extract-125x125.jpg"
+      },
+      {
+        "name": "Valerian Extract",
+        "page": "https://dir.indiamart.com/impcat/valerian-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/SF/UA/GLADMIN-40791/valerian-extract-125x125.jpg"
+      },
+      {
+        "name": "Cucumber Extract",
+        "page": "https://dir.indiamart.com/impcat/cucumber-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/JL/YM/MK/GLADMIN-56986/cucumber-extract-125x125.jpg"
+      },
+      {
+        "name": "Kudzu Root Extract",
+        "page": "https://dir.indiamart.com/impcat/kudzu-root-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/FH/BG/GLADMIN-88206/kudzu-root-extract-125x125.jpg"
+      },
+      {
+        "name": "Capsicum Extract",
+        "page": "https://dir.indiamart.com/impcat/capsicum-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/HA/CT/GLADMIN-161385/capsicum-extract-125x125.jpg"
+      },
+      {
+        "name": "Chasteberry Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/chasteberry-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409894619/PE/UH/JK/92376/chasteberry-powder-125x125.jpg"
+      },
+      {
+        "name": "Spices Extracts",
+        "page": "https://dir.indiamart.com/impcat/cinnamon-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/RL/WK/GLADMIN-166836/cinnamon-extract-125x125.jpg"
+      },
+      {
+        "name": "Floral Extract",
+        "page": "https://dir.indiamart.com/impcat/floral-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/AF/SC/GLADMIN-64910/floral-extract-125x125.jpg"
+      },
+      {
+        "name": "Chicory Extract",
+        "page": "https://dir.indiamart.com/impcat/chicory-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/JJ/TC/GLADMIN-182167/chicory-extract-125x125.jpg"
+      },
+      {
+        "name": "Neem Leaf Extract",
+        "page": "https://dir.indiamart.com/impcat/neem-leaf-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/JN/TS/GLADMIN-2/neem-leaf-extract-125x125.jpg"
+      },
+      {
+        "name": "Kidney Bean Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/kidney-bean-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419316920/DG/SW/FS/92376/kidney-bean-extract-125x125.png"
+      },
+      {
+        "name": "Chestnut Extract",
+        "page": "https://dir.indiamart.com/impcat/chestnut-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/RX/JW/GLADMIN-24034/chestnut-extract-125x125.jpg"
+      },
+      {
+        "name": "Sandalwood Extract",
+        "page": "https://dir.indiamart.com/impcat/sandalwood-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/418976938/HV/LB/CC/92376/sandalwood-extract-125x125.png"
+      },
+      {
+        "name": "Policosanol Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/policosanol-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419590809/AQ/FR/CA/92376/policosanol-extract-125x125.jpg"
+      },
+      {
+        "name": "Henna Extract",
+        "page": "https://dir.indiamart.com/impcat/henna-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/WQ/KM/GLADMIN-9135/henna-extract-125x125.jpg"
+      },
+      {
+        "name": "Terminalia Chebula Extract",
+        "page": "https://dir.indiamart.com/impcat/terminalia-chebula-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/7/324212005/QW/AJ/CX/43668/terminalia-chebula-extract-125x125.jpg"
+      },
+      {
+        "name": "Onion Extract",
+        "page": "https://dir.indiamart.com/impcat/onion-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/FN/YD/GLADMIN-2/onion-extract-125x125.jpg"
+      },
+      {
+        "name": "Bromelain Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/bromelain-extract-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409220973/XD/BY/CS/92376/bromelain-extract-powder-125x125.jpeg"
+      },
+      {
+        "name": "Peppermint Extract",
+        "page": "https://dir.indiamart.com/impcat/peppermint-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/YG/HL/GLADMIN-33908/peppermint-extract-125x125.jpg"
+      },
+      {
+        "name": "Herbal Rosehip Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/herbal-rosehip-extract-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409218612/CU/EB/PJ/92376/herbal-rosehip-extract-powder-125x125.png"
+      },
+      {
+        "name": "Graviola Leaf Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/graviola-leaf-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419124151/OF/TD/GS/92376/graviola-leaf-extract-125x125.png"
+      },
+      {
+        "name": "Kaiphal Powder",
+        "page": "https://dir.indiamart.com/impcat/kaiphal-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/435709902/IQ/ND/FB/89939/kaiphal-powder-125x125.webp"
+      },
+      {
+        "name": "Gentian Extract",
+        "page": "https://dir.indiamart.com/impcat/gentian-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/BR/FS/GLADMIN-29392/gentian-extract-125x125.jpg"
+      },
+      {
+        "name": "Hydrastis Canadensis",
+        "page": "https://dir.indiamart.com/impcat/hydrastis-canadensis.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/CN/GLADMIN-178074/hydrastis-canadensis-125x125.jpg"
+      },
+      {
+        "name": "Centella Asiatica Extract",
+        "page": "https://dir.indiamart.com/impcat/centella-asiatica-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/LK/LG/GLADMIN-180232/centella-asiatica-extract-125x125.jpg"
+      },
+      {
+        "name": "Terminalia Arjuna Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/terminalia-arjuna-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/QQ/BJ/GLADMIN-184184/terminalia-arjuna-extract-125x125.png"
+      },
+      {
+        "name": "Abroma Augusta Extract",
+        "page": "https://dir.indiamart.com/impcat/abroma-augusta-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/444060309/ER/CE/CL/100839/abroma-125x125.jpg"
+      },
+      {
+        "name": "Mushroom Extract",
+        "page": "https://dir.indiamart.com/impcat/mushroom-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/12/472124826/EG/WR/AS/113487/me-125x125.png"
+      },
+      {
+        "name": "Gymnemic Acid",
+        "page": "https://dir.indiamart.com/impcat/gymnemic-acid.html",
+        "thumbnail": "http://3.imimg.com/data3/HG/BY/GLADMIN-164662/gymnemic-acid-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Fruit Extracts",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/438766429/DG/CS/KY/92376/fruit-extracts-125x125.jpg",
+    "items": [
+      {
+        "name": "Amla Powder",
+        "page": "https://dir.indiamart.com/impcat/amla-powder.html",
+        "thumbnail": "http://3.imimg.com/data3/SB/MU/MY-2/amla-powder-125x125.jpg"
+      },
+      {
+        "name": "Haritaki Powder",
+        "page": "https://dir.indiamart.com/impcat/haritaki-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/JA/BB/IZ/GLADMIN-56986/haritaki-powder-125x125.jpg"
+      },
+      {
+        "name": "Acai Berry Extracts",
+        "page": "https://dir.indiamart.com/impcat/acai-berry-extracts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437022190/XY/GL/LF/92376/acai-berry-extracts-125x125.jpg"
+      },
+      {
+        "name": "Cranberry Extract",
+        "page": "https://dir.indiamart.com/impcat/cranberry-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/436828575/QG/PP/EZ/92376/cranberry-extract-125x125.jpg"
+      },
+      {
+        "name": "Pomegranate Extract",
+        "page": "https://dir.indiamart.com/impcat/pomegranate-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/JY/EU/GLADMIN-179535/pomegranate-extract-125x125.jpg"
+      },
+      {
+        "name": "Grape Seed Extract",
+        "page": "https://dir.indiamart.com/impcat/grape-seed-extracts.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437046374/MC/ND/KF/92376/grape-seed-extracts-125x125.jpg"
+      },
+      {
+        "name": "Carica Papaya Fruit Extract",
+        "page": "https://dir.indiamart.com/impcat/carica-papaya-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437037249/PS/UM/GA/92376/carica-papaya-extract-125x125.jpg"
+      },
+      {
+        "name": "Wild Mango Seed Extract",
+        "page": "https://dir.indiamart.com/impcat/wild-mango-seed-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/DH/HI/GLADMIN-158875/wild-mango-seed-extract-125x125.jpg"
+      },
+      {
+        "name": "Terminalia Bellirica Extract",
+        "page": "https://dir.indiamart.com/impcat/terminalia-bellirica-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437502867/AX/TW/KQ/92376/terminalia-bellirica-extract-125x125.jpg"
+      },
+      {
+        "name": "Bilberry Extract",
+        "page": "https://dir.indiamart.com/impcat/bilberry-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/439484552/UR/KV/MA/92376/bilberry-extract-125x125.jpg"
+      },
+      {
+        "name": "Avocado Fruit Powder",
+        "page": "https://dir.indiamart.com/impcat/avocado-extract-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/1/380422157/IF/GE/CU/92376/avocado-extract-powder-125x125.jpg"
+      },
+      {
+        "name": "Noni Fruit Extract",
+        "page": "https://dir.indiamart.com/impcat/noni-fruit-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/438075125/GG/MC/LE/92376/noni-fruit-extract-125x125.jpg"
+      },
+      {
+        "name": "Orange Peel Extract",
+        "page": "https://dir.indiamart.com/impcat/orange-peels-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/418768774/CP/IT/DY/92376/orange-peels-extract-125x125.jpg"
+      },
+      {
+        "name": "Fig Extract",
+        "page": "https://dir.indiamart.com/impcat/fig-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/438945903/QM/YI/UI/92376/fig-extract-125x125.jpg"
+      },
+      {
+        "name": "Goji Berry Extract",
+        "page": "https://dir.indiamart.com/impcat/goji-berry-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/OM/TB/LC/GLADMIN-68155/goji-berry-extract-125x125.png"
+      },
+      {
+        "name": "Amla Extract Liquid",
+        "page": "https://dir.indiamart.com/impcat/amla-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437919612/AE/NU/QG/92376/amla-extract-125x125.jpg"
+      },
+      {
+        "name": "Saw Palmetto Extract",
+        "page": "https://dir.indiamart.com/impcat/saw-palmetto-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437506496/FD/NK/IZ/92376/saw-palmetto-extract-125x125.jpg"
+      },
+      {
+        "name": "Apple Extract",
+        "page": "https://dir.indiamart.com/impcat/apple-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/438958760/ZP/JR/BB/92376/apple-extract-125x125.png"
+      },
+      {
+        "name": "Acerola Cherry Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/acerola-cherry-extract-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409226202/MM/TV/CE/92376/acerola-cherry-extract-powder-125x125.png"
+      },
+      {
+        "name": "Orange Fruit Extract",
+        "page": "https://dir.indiamart.com/impcat/orange-fruit-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/XX/XX/GLADMIN-/orange-fruit-extract-125x125.jpg"
+      },
+      {
+        "name": "Mangosteen Extract",
+        "page": "https://dir.indiamart.com/impcat/mangosteen-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437805113/IE/SJ/YH/92376/mangosteen-extract-125x125.jpg"
+      },
+      {
+        "name": "Bromelain Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/bromelain-extract-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409220973/XD/BY/CS/92376/bromelain-extract-powder-125x125.jpeg"
+      },
+      {
+        "name": "Guarana Extract",
+        "page": "https://dir.indiamart.com/impcat/guarana-seed-natural-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/445224450/TA/DI/SU/89939/guaranaextract-125x125.webp"
+      },
+      {
+        "name": "Aegle Marmelos Extract",
+        "page": "https://dir.indiamart.com/impcat/aegle-marmelos-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/8/BS/OF/YT/85062/aegle-marmelos-extract-125x125.jpg"
+      },
+      {
+        "name": "Hawthorn Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/hawthorne-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/418882574/ZG/XG/RN/92376/hawthorn-extract-125x125.jpg"
+      },
+      {
+        "name": "Tamarind Extract",
+        "page": "https://dir.indiamart.com/impcat/tamarind-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/8/439917297/TJ/BX/VA/92376/tamarind-extract-125x125.jpg"
+      },
+      {
+        "name": "Elderberry Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/elderberry-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409884524/XX/IG/XR/92376/elderberry-extract-125x125.png"
+      },
+      {
+        "name": "Mulberry Extract",
+        "page": "https://dir.indiamart.com/impcat/mulberry-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409486997/QR/UQ/YS/107115/mulberry-extract-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Plant Extracts",
+    "category_thumbnail": "http://3.imimg.com/data3/NJ/XN/GLADMIN-126303/plant-extracts-125x125.jpg",
+    "items": [
+      {
+        "name": "Boswellia Serrata Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/boswellia-serrata-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/418860205/JT/UP/VQ/92376/boswellia-serrata-extract-powder-125x125.jpg"
+      },
+      {
+        "name": "Ashwagandha Extract",
+        "page": "https://dir.indiamart.com/impcat/ashwagandha-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/BD/PJ/GLADMIN-179530/ashwagandha-extract-125x125.jpg"
+      },
+      {
+        "name": "Rosemary Extract",
+        "page": "https://dir.indiamart.com/impcat/rosemary-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/XP/AY/GLADMIN-36867/rosemary-extract-125x125.jpg"
+      },
+      {
+        "name": "Catechu",
+        "page": "https://dir.indiamart.com/impcat/catechu.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/JV/GLADMIN-44616/catechu-125x125.jpg"
+      },
+      {
+        "name": "Guggul Extract",
+        "page": "https://dir.indiamart.com/impcat/guggul-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/BI/XU/GLADMIN-165786/guggul-extract-125x125.jpg"
+      },
+      {
+        "name": "Neem Extracts",
+        "page": "https://dir.indiamart.com/impcat/neem-extracts.html",
+        "thumbnail": "http://3.imimg.com/data3/GN/YG/GLADMIN-7323/neem-extracts-125x125.jpg"
+      },
+      {
+        "name": "Licorice Extract",
+        "page": "https://dir.indiamart.com/impcat/licorice-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/NG/JQ/GLADMIN-31603/licorice-extract-125x125.jpg"
+      },
+      {
+        "name": "Bacopa Monnieri Extract",
+        "page": "https://dir.indiamart.com/impcat/bacopa-monnieri-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/KU/RA/GLADMIN-153362/bacopa-monnieri-extract-125x125.jpg"
+      },
+      {
+        "name": "Milk Thistle Extract",
+        "page": "https://dir.indiamart.com/impcat/milk-thistle-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/WT/HF/GLADMIN-180233/milk-thistle-extract-125x125.jpg"
+      },
+      {
+        "name": "Cissus Quadrangularis Extract",
+        "page": "https://dir.indiamart.com/impcat/cissus-quadrangularis-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/NO/NG/GLADMIN-179536/cissus-quadrangularis-extract-125x125.jpg"
+      },
+      {
+        "name": "Tribulus Terrestris Extract",
+        "page": "https://dir.indiamart.com/impcat/tribulus-terrestris-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419195568/AV/JE/LQ/92376/tribulus-terrestris-extract-125x125.jpg"
+      },
+      {
+        "name": "Stevia Extract",
+        "page": "https://dir.indiamart.com/impcat/stevia-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/ZP/CN/AL/43668/stevia-extract-125x125.webp"
+      },
+      {
+        "name": "Bamboo Extract",
+        "page": "https://dir.indiamart.com/impcat/bamboo-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/AB/ZX/XR/GLADMIN-56986/bamboo-extract-125x125.jpg"
+      },
+      {
+        "name": "Tulsi Extracts",
+        "page": "https://dir.indiamart.com/impcat/tulsi-extracts.html",
+        "thumbnail": "http://3.imimg.com/data3/NU/TH/MY-2/tulsi-extracts-125x125.jpg"
+      },
+      {
+        "name": "Mucuna Pruriens Extract",
+        "page": "https://dir.indiamart.com/impcat/mucuna-pruriens-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/SH/LI/GLADMIN-179532/mucuna-pruriens-extract-125x125.jpg"
+      },
+      {
+        "name": "Kalmegh Extract",
+        "page": "https://dir.indiamart.com/impcat/andrographis-paniculata-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/414503206/YF/QB/SW/92376/andrographis-paniculata-extract-125x125.jpg"
+      },
+      {
+        "name": "Senna Extract",
+        "page": "https://dir.indiamart.com/impcat/senna-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/NC/FH/GLADMIN-180231/senna-extract-125x125.jpg"
+      },
+      {
+        "name": "Artichoke Extract",
+        "page": "https://dir.indiamart.com/impcat/artichoke-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/414533550/HO/UV/EQ/92376/artichoke-extract-125x125.jpg"
+      },
+      {
+        "name": "Lagerstroemia Speciosa Extract",
+        "page": "https://dir.indiamart.com/impcat/lagerstroemia-speciosa-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/364570441/GH/XN/GN/93748/lagerstroemia-speciosa-extract-125x125.jpg"
+      },
+      {
+        "name": "Horsetail Extract",
+        "page": "https://dir.indiamart.com/impcat/horsetail-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/XF/RB/GLADMIN-2/horsetail-extract-125x125.jpg"
+      },
+      {
+        "name": "Adhatoda Extract",
+        "page": "https://dir.indiamart.com/impcat/adhatoda-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/GF/IT/GLADMIN-185320/adhatoda-extract-125x125.jpg"
+      },
+      {
+        "name": "Caralluma Fimbriata Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/caralluma-fimbriata-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419186698/YM/PN/HZ/92376/caralluma-fimbriata-extract-125x125.png"
+      },
+      {
+        "name": "Shikakai Extract",
+        "page": "https://dir.indiamart.com/impcat/shikakai-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/IB/FB/MK/GLADMIN-68155/shikakai-extract-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Anti Bacterial & Fungal Extracts",
+    "category_thumbnail": "http://3.imimg.com/data3/IF/PM/GLADMIN-105028/cordyceps-sinensis-extract-125x125.jpg",
+    "items": [
+      {
+        "name": "Dried Cordyceps Sinensis",
+        "page": "https://dir.indiamart.com/impcat/dried-cordyceps-sinensis.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/11/361837117/CO/OV/YG/92376/dried-cordyceps-sinensis-125x125.jpg"
+      },
+      {
+        "name": "Phytochemicals",
+        "page": "https://dir.indiamart.com/impcat/phytochemicals.html",
+        "thumbnail": "http://3.imimg.com/data3/LA/WG/GLADMIN-41803/phytochemicals-125x125.jpg"
+      },
+      {
+        "name": "Ganoderma Extract",
+        "page": "https://dir.indiamart.com/impcat/ganoderma-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/OS/GLADMIN-165217/ganoderma-extract-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Spices Extracts",
+    "category_thumbnail": "http://3.imimg.com/data3/RL/WK/GLADMIN-166836/cinnamon-extract-125x125.jpg",
+    "items": [
+      {
+        "name": "Turmeric Extract",
+        "page": "https://dir.indiamart.com/impcat/turmeric-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/UF/CB/GLADMIN-2604/turmeric-extract-125x125.jpg"
+      },
+      {
+        "name": "Gambier",
+        "page": "https://dir.indiamart.com/impcat/gambier.html",
+        "thumbnail": "http://4.imimg.com/data4/VP/XN/GLADMIN-179353/gambier-125x125.jpg"
+      },
+      {
+        "name": "Fenugreek Extract",
+        "page": "https://dir.indiamart.com/impcat/fenugreek-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/YE/LB/GLADMIN-/images-products-3416-125x125.jpg"
+      },
+      {
+        "name": "Cardamom Extract",
+        "page": "https://dir.indiamart.com/impcat/cardamom-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/QR/SI/GLADMIN-165559/cardamom-extract-125x125.jpg"
+      },
+      {
+        "name": "Piperine Extract",
+        "page": "https://dir.indiamart.com/impcat/piperine-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/UV/OK/GLADMIN-179531/piperine-extract-125x125.jpg"
+      },
+      {
+        "name": "Saffron Extract",
+        "page": "https://dir.indiamart.com/impcat/saffron-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/SW/XL/GLADMIN-36710/saffron-extract-125x125.jpg"
+      },
+      {
+        "name": "Ginger Extract",
+        "page": "https://dir.indiamart.com/impcat/ginger-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/FC/SM/GLADMIN-29419/ginger-extract-125x125.jpg"
+      },
+      {
+        "name": "Cinnamon Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/cinnamon-extract-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409192151/LY/NM/GN/92376/cinnamon-extract-powder-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Floral Extract",
+    "category_thumbnail": "http://3.imimg.com/data3/AF/SC/GLADMIN-64910/floral-extract-125x125.jpg",
+    "items": [
+      {
+        "name": "Tongkat Ali Extract",
+        "page": "https://dir.indiamart.com/impcat/tongkat-ali-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/SR/OJ/GLADMIN-2/tongkat-ali-extract-125x125.jpg"
+      },
+      {
+        "name": "Bhringraj Extract",
+        "page": "https://dir.indiamart.com/impcat/eclipta-prostrata-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/7/437474216/SR/OD/EG/100839/bhringraj-extract-125x125.jpg"
+      },
+      {
+        "name": "Hops Extract",
+        "page": "https://dir.indiamart.com/impcat/hops-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/GX/TG/GLADMIN-2/hops-extract-jpg-125x125.jpeg"
+      },
+      {
+        "name": "Rose Extract",
+        "page": "https://dir.indiamart.com/impcat/rose-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/HX/QS/GLADMIN-2/rose-extract-125x125.jpg"
+      },
+      {
+        "name": "Alfalfa Extract",
+        "page": "https://dir.indiamart.com/impcat/alfalfa-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/VM/GLADMIN-72695/alfalfa-extract-125x125.jpg"
+      },
+      {
+        "name": "Echinacea Extract",
+        "page": "https://dir.indiamart.com/impcat/echinacea-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/418970444/KV/QA/DC/92376/echinacea-extract-125x125.png"
+      },
+      {
+        "name": "Valerian Extract",
+        "page": "https://dir.indiamart.com/impcat/valerian-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/SF/UA/GLADMIN-40791/valerian-extract-125x125.jpg"
+      },
+      {
+        "name": "Nigella Sativa Seed Extract",
+        "page": "https://dir.indiamart.com/impcat/nigella-sativa-seed-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/EE/EE/GLADMIN-/a-img923-1439-lvapsb-125x125.jpg"
+      },
+      {
+        "name": "Hibiscus Extract",
+        "page": "https://dir.indiamart.com/impcat/hibiscus-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/WU/AF/GLADMIN-9237/hibiscus-extract-125x125.jpg"
+      },
+      {
+        "name": "Jasmine Extract",
+        "page": "https://dir.indiamart.com/impcat/jasmine-extract.html",
+        "thumbnail": "http://4.imimg.com/data4/KC/MN/GLADMIN-180603/jasmine-extract-125x125.jpg"
+      },
+      {
+        "name": "Lotus Extract",
+        "page": "https://dir.indiamart.com/impcat/lotus-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/409761791/ZI/SN/AT/107115/lotus-extract-125x125.jpg"
+      },
+      {
+        "name": "Calendula Officinalis Extract",
+        "page": "https://dir.indiamart.com/impcat/calendula-officinalis-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/LM/IC/GLADMIN-2/calendula-officinalis-extract-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Root and Vegetable Extracts",
+    "category_thumbnail": "http://4.imimg.com/data4/HJ/TL/GLADMIN-2/carrot-extract-125x125.jpg",
+    "items": [
+      {
+        "name": "Ginseng Extract",
+        "page": "https://dir.indiamart.com/impcat/ginseng-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/YP/UM/GLADMIN-29422/ginseng-extract-125x125.jpg"
+      },
+      {
+        "name": "Garlic Extract",
+        "page": "https://dir.indiamart.com/impcat/garlic-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/US/HB/GLADMIN-29231/garlic-extract-125x125.jpg"
+      },
+      {
+        "name": "Astragalus Root Extract",
+        "page": "https://dir.indiamart.com/impcat/astragalus-root-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/418987093/WI/LE/IK/92376/astragalus-root-extract-125x125.jpg"
+      },
+      {
+        "name": "Broccoli Extract",
+        "page": "https://dir.indiamart.com/impcat/broccoli-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419504352/YA/EA/FD/92376/broccoli-extract-125x125.jpg"
+      },
+      {
+        "name": "Ginger Extract",
+        "page": "https://dir.indiamart.com/impcat/ginger-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/FC/SM/GLADMIN-29419/ginger-extract-125x125.jpg"
+      },
+      {
+        "name": "Bitter Gourd Extract",
+        "page": "https://dir.indiamart.com/impcat/bitter-gourd-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/5/419356273/WJ/UC/JI/92376/bitter-gourd-extract-125x125.jpg"
+      },
+      {
+        "name": "Cucumber Extract",
+        "page": "https://dir.indiamart.com/impcat/cucumber-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/JL/YM/MK/GLADMIN-56986/cucumber-extract-125x125.jpg"
+      },
+      {
+        "name": "Capsicum Extract",
+        "page": "https://dir.indiamart.com/impcat/capsicum-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/HA/CT/GLADMIN-161385/capsicum-extract-125x125.jpg"
+      },
+      {
+        "name": "Onion Extract",
+        "page": "https://dir.indiamart.com/impcat/onion-extract.html",
+        "thumbnail": "http://5.imimg.com/data5/FN/YD/GLADMIN-2/onion-extract-125x125.jpg"
+      },
+      {
+        "name": "Berberis Aristata Extract Powder",
+        "page": "https://dir.indiamart.com/impcat/berberis-aristata-extract-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/12/471010521/DQ/HV/MX/113581/images-125x125.jpg"
+      },
+      {
+        "name": "Rhubarb Extract",
+        "page": "https://dir.indiamart.com/impcat/rhubarb-extract.html",
+        "thumbnail": "http://3.imimg.com/data3/MN/ML/GLADMIN-36420/rhubarb-extract-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Other Popular Categories",
+    "category_thumbnail": "",
+    "items": [
+      {
+        "name": "Ayurvedic & Herbal Powder",
+        "page": "https://dir.indiamart.com/impcat/ayurvedic-herbal-powder.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/FW/BO/TZ/43668/ayurvedic-herbal-powder-125x125.jpg"
+      }
+    ]
+  }
+]

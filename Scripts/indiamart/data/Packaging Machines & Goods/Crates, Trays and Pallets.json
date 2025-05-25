@@ -1,0 +1,853 @@
+[
+  {
+    "category_name": "Plastic Crates",
+    "category_thumbnail": "http://3.imimg.com/data3/VL/GY/GLADMIN-6048/plastic-crates-125x125.jpg",
+    "items": [
+      {
+        "name": "Plastic Vegetable Crate",
+        "page": "https://dir.indiamart.com/impcat/plastic-vegetable-crate.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/QQ/GLADMIN-155507/plastic-vegetable-crate-125x125.jpg"
+      },
+      {
+        "name": "Industrial Plastic Crate",
+        "page": "https://dir.indiamart.com/impcat/industrial-plastic-crate.html",
+        "thumbnail": "http://4.imimg.com/data4/JK/FE/GLADMIN-181532/industrial-plastic-crate-125x125.jpg"
+      },
+      {
+        "name": "Plastic Milk Crates",
+        "page": "https://dir.indiamart.com/impcat/plastic-milk-crates.html",
+        "thumbnail": "http://3.imimg.com/data3/JL/OK/GLADMIN-155504/plastic-milk-crates-125x125.jpg"
+      },
+      {
+        "name": "Perforated Plastic Crates",
+        "page": "https://dir.indiamart.com/impcat/perforated-plastic-crates.html",
+        "thumbnail": "http://3.imimg.com/data3/CA/HW/GLADMIN-153013/perforated-plastic-crates-125x125.jpg"
+      },
+      {
+        "name": "Plastic Bottle Crates",
+        "page": "https://dir.indiamart.com/impcat/plastic-bottle-crates.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/EJ/GLADMIN-155502/plastic-bottle-crates-125x125.jpg"
+      },
+      {
+        "name": "Jumbo Crate",
+        "page": "https://dir.indiamart.com/impcat/jumbo-crate.html",
+        "thumbnail": "http://3.imimg.com/data3/LR/RX/GLADMIN-160346/jumbo-crate-125x125.jpg"
+      },
+      {
+        "name": "PP Crates",
+        "page": "https://dir.indiamart.com/impcat/pp-crates.html",
+        "thumbnail": "http://4.imimg.com/data4/YC/PS/GLADMIN-178225/pp-crates-125x125.jpg"
+      },
+      {
+        "name": "HDPE Crate",
+        "page": "https://dir.indiamart.com/impcat/hdpe-crate.html",
+        "thumbnail": "http://3.imimg.com/data3/PR/XK/GLADMIN-177028/hdpe-crate-125x125.jpg"
+      },
+      {
+        "name": "Tools Caddy",
+        "page": "https://dir.indiamart.com/impcat/storage-caddy.html",
+        "thumbnail": "http://5.imimg.com/data5/KB/VC/GLADMIN-2/tools-caddy-125x125.jpg"
+      },
+      {
+        "name": "Caddy Tool Bucket",
+        "page": "https://dir.indiamart.com/impcat/caddy-tool-bucket.html",
+        "thumbnail": "http://4.imimg.com/data4/GV/HY/GLADMIN-2/caddy-tool-bucket-125x125.jpg"
+      },
+      {
+        "name": "Doff Baskets",
+        "page": "https://dir.indiamart.com/impcat/doff-baskets.html",
+        "thumbnail": "http://4.imimg.com/data4/DI/YO/GLADMIN-180993/doff-baskets-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Packaging Trays",
+    "category_thumbnail": "http://3.imimg.com/data3/EP/AQ/GLADMIN-34212/packaging-trays-125x125.jpg",
+    "items": [
+      {
+        "name": "Mushroom Tray",
+        "page": "https://dir.indiamart.com/impcat/mushroom-tray.html",
+        "thumbnail": "http://4.imimg.com/data4/XF/LQ/GLADMIN-2/mushroom-tray-125x125.jpg"
+      },
+      {
+        "name": "Plastic Trays",
+        "page": "https://dir.indiamart.com/impcat/plastic-trays.html",
+        "thumbnail": "http://3.imimg.com/data3/MW/YA/MY-2/plastic-trays-125x125.jpg"
+      },
+      {
+        "name": "Saree Packing Tray",
+        "page": "https://dir.indiamart.com/impcat/saree-packing-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/IV/UQ/GLADMIN-177522/saree-packing-tray-125x125.jpg"
+      },
+      {
+        "name": "Sweet Packaging Tray",
+        "page": "https://dir.indiamart.com/impcat/sweet-packaging-tray.html",
+        "thumbnail": "http://4.imimg.com/data4/XO/IW/GLADMIN-2/sweet-packaging-tray-125x125.jpg"
+      },
+      {
+        "name": "Biscuit Packaging Tray",
+        "page": "https://dir.indiamart.com/impcat/biscuit-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/FP/PW/GLADMIN-140872/biscuit-tray-125x125.jpg"
+      },
+      {
+        "name": "Optical Counter Trays",
+        "page": "https://dir.indiamart.com/impcat/optical-counter-trays.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2021/9/HI/WT/JI/84833/optical-counter-trays-125x125.jpg"
+      },
+      {
+        "name": "Chocolate Tray",
+        "page": "https://dir.indiamart.com/impcat/chocolate-tray.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/CF/SW/WS/71486/chocolate-tray-125x125.jpg"
+      },
+      {
+        "name": "Display Trays",
+        "page": "https://dir.indiamart.com/impcat/display-trays.html",
+        "thumbnail": "http://3.imimg.com/data3/EF/OG/GLADMIN-26671/display-trays-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Formed Trays",
+        "page": "https://dir.indiamart.com/impcat/vacuum-formed-trays.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/NF/GLADMIN-40765/vacuum-formed-trays-125x125.jpg"
+      },
+      {
+        "name": "Jewelry Tray",
+        "page": "https://dir.indiamart.com/impcat/jewelry-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/PH/TJ/GLADMIN-99623/jewelry-tray-125x125.jpg"
+      },
+      {
+        "name": "Cardboard Tray",
+        "page": "https://dir.indiamart.com/impcat/cardboard-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/DP/XR/GLADMIN-132592/cardboard-tray-125x125.jpg"
+      },
+      {
+        "name": "Cosmetic Tray",
+        "page": "https://dir.indiamart.com/impcat/cosmetic-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/YU/EW/GLADMIN-85919/cosmetic-tray-125x125.jpg"
+      },
+      {
+        "name": "Bottle Trays",
+        "page": "https://dir.indiamart.com/impcat/bottle-trays.html",
+        "thumbnail": "http://3.imimg.com/data3/XQ/YT/GLADMIN-23763/bottle-trays-125x125.jpg"
+      },
+      {
+        "name": "Clamshell Tray",
+        "page": "https://dir.indiamart.com/impcat/clamshell-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/NM/GLADMIN-85909/clamshell-tray-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Formed Products",
+        "page": "https://dir.indiamart.com/impcat/vacuum-formed-products.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/JW/GLADMIN-20659/vacuum-formed-products-125x125.jpg"
+      },
+      {
+        "name": "Injection Packaging Tray",
+        "page": "https://dir.indiamart.com/impcat/injection-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/SG/JR/GLADMIN-136559/injection-tray-125x125.jpg"
+      },
+      {
+        "name": "Material Handling Trays",
+        "page": "https://dir.indiamart.com/impcat/material-handling-trays.html",
+        "thumbnail": "http://3.imimg.com/data3/VO/UO/GLADMIN-31780/material-handling-trays-125x125.jpg"
+      },
+      {
+        "name": "Vial Packaging Tray",
+        "page": "https://dir.indiamart.com/impcat/vial-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/HL/GLADMIN-19965/vial-tray-125x125.jpg"
+      },
+      {
+        "name": "Corrugated Tray Box",
+        "page": "https://dir.indiamart.com/impcat/corrugated-tray-box.html",
+        "thumbnail": "http://5.imimg.com/data5/FX/SX/GLADMIN-2/1353hr-125x125.jpg"
+      },
+      {
+        "name": "Pen Trays",
+        "page": "https://dir.indiamart.com/impcat/pen-trays.html",
+        "thumbnail": "http://5.imimg.com/data5/EM/VG/GLADMIN-2/pen-trays-125x125.jpg"
+      },
+      {
+        "name": "Foam Trays",
+        "page": "https://dir.indiamart.com/impcat/foam-trays.html",
+        "thumbnail": "http://3.imimg.com/data3/VK/OX/GLADMIN-28687/foam-trays-125x125.jpg"
+      },
+      {
+        "name": "Tray Boxes",
+        "page": "https://dir.indiamart.com/impcat/tray-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/NJ/ME/GLADMIN-74490/tray-boxes-125x125.jpg"
+      },
+      {
+        "name": "Conductive Containers",
+        "page": "https://dir.indiamart.com/impcat/conductive-containers.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/SJ/GLADMIN-25751/conductive-containers-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Industrial Pallet",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2023/12/367973234/XC/JR/OX/88875/industrial-pallet-125x125.webp",
+    "items": [
+      {
+        "name": "Wooden Pallets",
+        "page": "https://dir.indiamart.com/impcat/wooden-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/HP/GLADMIN-1128/wooden-pallets-125x125.jpg"
+      },
+      {
+        "name": "Plastic Pallets",
+        "page": "https://dir.indiamart.com/impcat/plastic-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/AO/GLADMIN-253/plastic-pallets-125x125.jpg"
+      },
+      {
+        "name": "Fly Ash Brick Pallet",
+        "page": "https://dir.indiamart.com/impcat/fly-ash-brick-pallet.html",
+        "thumbnail": "http://4.imimg.com/data4/GI/MC/GLADMIN-185980/fly-ash-brick-pallet-125x125.jpg"
+      },
+      {
+        "name": "Spill Containment Pallets",
+        "page": "https://dir.indiamart.com/impcat/spill-containment-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/VN/GLADMIN-37496/spill-containment-pallets-125x125.jpg"
+      },
+      {
+        "name": "Euro Pallets",
+        "page": "https://dir.indiamart.com/impcat/euro-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/ME/GT/GLADMIN-41767/euro-pallets-125x125.jpg"
+      },
+      {
+        "name": "Pallet Boxes",
+        "page": "https://dir.indiamart.com/impcat/pallet-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/YJ/KL/GLADMIN-33818/pallet-boxes-125x125.jpg"
+      },
+      {
+        "name": "Storage Pallet",
+        "page": "https://dir.indiamart.com/impcat/storage-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/ML/XE/GLADMIN-89985/storage-pallet-125x125.jpg"
+      },
+      {
+        "name": "Metal Pallets",
+        "page": "https://dir.indiamart.com/impcat/metal-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/LW/GLADMIN-33376/metal-pallets-125x125.jpg"
+      },
+      {
+        "name": "Warehouse Pallet",
+        "page": "https://dir.indiamart.com/impcat/warehouse-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/MX/GLADMIN-150612/warehouse-pallet-125x125.jpg"
+      },
+      {
+        "name": "Cage Pallets",
+        "page": "https://dir.indiamart.com/impcat/cage-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/DI/QA/GLADMIN-/upload-pct-02-pallet_cages-125x125.jpg"
+      },
+      {
+        "name": "Brick Pallet",
+        "page": "https://dir.indiamart.com/impcat/brick-pallet.html",
+        "thumbnail": "http://4.imimg.com/data4/DR/LM/GLADMIN-2/brick-pallet-125x125.jpg"
+      },
+      {
+        "name": "Pallet Collar",
+        "page": "https://dir.indiamart.com/impcat/pallet-collar.html",
+        "thumbnail": "http://3.imimg.com/data3/YK/OA/GLADMIN-85929/pallet-collar-125x125.jpg"
+      },
+      {
+        "name": "MS Pallet",
+        "page": "https://dir.indiamart.com/impcat/ms-pallet.html",
+        "thumbnail": "http://4.imimg.com/data4/NF/RQ/GLADMIN-180336/ms-pallet-125x125.png"
+      },
+      {
+        "name": "Drum Pallets",
+        "page": "https://dir.indiamart.com/impcat/drum-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/PL/GLADMIN-26923/drum-pallets-125x125.jpg"
+      },
+      {
+        "name": "Four Way Pallets",
+        "page": "https://dir.indiamart.com/impcat/four-way-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/OQ/WL/GLADMIN-41765/four-way-pallets-125x125.jpg"
+      },
+      {
+        "name": "Stainless Steel Pallet",
+        "page": "https://dir.indiamart.com/impcat/stainless-steel-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/WS/AU/GLADMIN-166470/stainless-steel-pallet-125x125.jpg"
+      },
+      {
+        "name": "Steel Pallet",
+        "page": "https://dir.indiamart.com/impcat/steel-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/BQ/AR/GLADMIN-21035/steel-pallet-125x125.jpg"
+      },
+      {
+        "name": "Crate Pallets",
+        "page": "https://dir.indiamart.com/impcat/crate-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/WD/OQ/GLADMIN-41764/crate-pallets-125x125.jpg"
+      },
+      {
+        "name": "Two Way Pallets",
+        "page": "https://dir.indiamart.com/impcat/two-way-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/KT/CW/GLADMIN-41766/two-way-pallets-125x125.jpg"
+      },
+      {
+        "name": "Corrugated Pallets",
+        "page": "https://dir.indiamart.com/impcat/corrugated-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/TH/KU/MY-2/corrugated-pallets-125x125.jpg"
+      },
+      {
+        "name": "Paper Honeycomb Pallet",
+        "page": "https://dir.indiamart.com/impcat/paper-honeycomb-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/IA/GN/GLADMIN-134167/paper-honeycomb-pallet-125x125.jpg"
+      },
+      {
+        "name": "Export Pallets",
+        "page": "https://dir.indiamart.com/impcat/export-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/LS/GLADMIN-150613/export-pallets-125x125.jpg"
+      },
+      {
+        "name": "Pallet Containers",
+        "page": "https://dir.indiamart.com/impcat/pallet-containers.html",
+        "thumbnail": "http://3.imimg.com/data3/DD/JX/GLADMIN-33819/pallet-containers-125x125.jpg"
+      },
+      {
+        "name": "Rackable Pallet",
+        "page": "https://dir.indiamart.com/impcat/rackable-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/PY/GLADMIN-85938/rackable-pallet-125x125.jpg"
+      },
+      {
+        "name": "Pallet Racking Accessories",
+        "page": "https://dir.indiamart.com/impcat/pallet-racking-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/EE/GLADMIN-80776/pallet-racking-accessories-125x125.jpg"
+      },
+      {
+        "name": "Paper Pallet",
+        "page": "https://dir.indiamart.com/impcat/paper-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/QI/BK/GLADMIN-134168/paper-pallet-125x125.jpg"
+      },
+      {
+        "name": "Wooden Pallet Collar",
+        "page": "https://dir.indiamart.com/impcat/wooden-pallet-collar.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/TO/GLADMIN-155764/wooden-pallet-collar-125x125.jpg"
+      },
+      {
+        "name": "Stringer Pallet",
+        "page": "https://dir.indiamart.com/impcat/stringer-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/HQ/JI/GLADMIN-117950/stringer-pallet-125x125.jpg"
+      },
+      {
+        "name": "Spill Containment Systems",
+        "page": "https://dir.indiamart.com/impcat/spill-containment-systems.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/CJ/MY-2/spill-containment-systems1-125x125.jpg"
+      },
+      {
+        "name": "Material Movement Pallet",
+        "page": "https://dir.indiamart.com/impcat/material-movement-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/JT/SD/GLADMIN-111134/material-movement-pallet-125x125.jpg"
+      },
+      {
+        "name": "Heat Treated Pallets",
+        "page": "https://dir.indiamart.com/impcat/heat-treated-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/AV/RI/GLADMIN-149687/heat-treated-pallets-125x125.jpg"
+      },
+      {
+        "name": "Heavy Material Storage Pallet",
+        "page": "https://dir.indiamart.com/impcat/heavy-material-storage-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/TE/GG/GLADMIN-111269/heavy-material-storage-pallet-125x125.jpg"
+      },
+      {
+        "name": "Reversible Pallets",
+        "page": "https://dir.indiamart.com/impcat/reversible-pallets.html",
+        "thumbnail": "http://4.imimg.com/data4/QU/GL/GLADMIN-179131/reversible-pallets-125x125.jpg"
+      },
+      {
+        "name": "Nestable Pallets",
+        "page": "https://dir.indiamart.com/impcat/nestable-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/MA/JH/GLADMIN-32637/nestable-pallets-125x125.jpg"
+      },
+      {
+        "name": "Forming Board",
+        "page": "https://dir.indiamart.com/impcat/forming-board.html",
+        "thumbnail": "http://4.imimg.com/data4/XX/FA/GLADMIN-182180/forming-board-125x125.jpg"
+      },
+      {
+        "name": "Collapsible Pallet",
+        "page": "https://dir.indiamart.com/impcat/collapsible-pallet.html",
+        "thumbnail": "http://4.imimg.com/data4/PP/HU/GLADMIN-181823/collapsible-pallet-125x125.jpg"
+      },
+      {
+        "name": "Engine Pallet",
+        "page": "https://dir.indiamart.com/impcat/engine-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/UD/IQ/GLADMIN-111133/engine-pallet-125x125.jpg"
+      },
+      {
+        "name": "Air Freight Pallets",
+        "page": "https://dir.indiamart.com/impcat/air-freight-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/KO/SD/GLADMIN-99609/air-freight-pallets-125x125.jpg"
+      },
+      {
+        "name": "Pallet Assembly",
+        "page": "https://dir.indiamart.com/impcat/pallet-assembly.html",
+        "thumbnail": "http://3.imimg.com/data3/OR/UO/GLADMIN-43379/pallet-assembly-125x125.jpg"
+      },
+      {
+        "name": "Hygiene Pallet",
+        "page": "https://dir.indiamart.com/impcat/hygiene-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/YU/SO/GLADMIN-150611/hygiene-pallet-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Plastic Trays",
+    "category_thumbnail": "http://3.imimg.com/data3/MW/YA/MY-2/plastic-trays-125x125.jpg",
+    "items": [
+      {
+        "name": "Plastic Disposable Trays",
+        "page": "https://dir.indiamart.com/impcat/plastic-disposable-trays.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/TT/VC/LJ/71486/plastic-disposable-trays-125x125.PNG"
+      },
+      {
+        "name": "HIPS Trays",
+        "page": "https://dir.indiamart.com/impcat/hips-trays.html",
+        "thumbnail": "http://4.imimg.com/data4/GU/YJ/GLADMIN-180553/hips-trays-125x125.jpg"
+      },
+      {
+        "name": "Polypropylene Tray",
+        "page": "https://dir.indiamart.com/impcat/polypropylene-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/NQ/LQ/GLADMIN-80882/polypropylene-tray-125x125.jpg"
+      },
+      {
+        "name": "ABS Tray",
+        "page": "https://dir.indiamart.com/impcat/abs-tray.html",
+        "thumbnail": "http://5.imimg.com/data5/YI/KL/GLADMIN-2/abs-tray-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Wooden Pallets",
+    "category_thumbnail": "http://3.imimg.com/data3/DK/HP/GLADMIN-1128/wooden-pallets-125x125.jpg",
+    "items": [
+      {
+        "name": "Industrial Wooden Pallets",
+        "page": "https://dir.indiamart.com/impcat/industrial-wooden-pallets.html",
+        "thumbnail": "http://4.imimg.com/data4/ED/QK/GLADMIN-178220/industrial-wooden-pallets-125x125.jpg"
+      },
+      {
+        "name": "Pinewood Pallet",
+        "page": "https://dir.indiamart.com/impcat/pinewood-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/BB/HB/GLADMIN-141950/pinewood-pallet-125x125.jpg"
+      },
+      {
+        "name": "Two Ways Wooden Pallet",
+        "page": "https://dir.indiamart.com/impcat/two-ways-wooden-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/HY/UW/GLADMIN-142058/two-ways-wooden-pallet-125x125.jpg"
+      },
+      {
+        "name": "Four Way Wooden Pallets",
+        "page": "https://dir.indiamart.com/impcat/four-way-wooden-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/JB/GLADMIN-152852/four-way-wooden-pallets-125x125.jpg"
+      },
+      {
+        "name": "Used Wooden Pallets",
+        "page": "https://dir.indiamart.com/impcat/used-wooden-pallets.html",
+        "thumbnail": "http://5.imimg.com/data5/NN/NN/GLADMIN-/used-wooden-pallets-125x125.jpg"
+      },
+      {
+        "name": "Export Wooden Pallets",
+        "page": "https://dir.indiamart.com/impcat/export-wooden-pallets.html",
+        "thumbnail": "http://5.imimg.com/data5/QL/BY/PD/GLADMIN-65832/export-wooden-pallets-125x125.jpg"
+      },
+      {
+        "name": "Plywood Pallet",
+        "page": "https://dir.indiamart.com/impcat/plywood-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/HA/DV/GLADMIN-85934/plywood-pallet-125x125.jpg"
+      },
+      {
+        "name": "Hardwood Pallets",
+        "page": "https://dir.indiamart.com/impcat/hardwood-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/CF/KB/GLADMIN-157798/hardwood-pallets-125x125.jpg"
+      },
+      {
+        "name": "Fumigated Wooden Pallets",
+        "page": "https://dir.indiamart.com/impcat/fumigated-wooden-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/NE/BK/GLADMIN-149671/fumigated-wooden-pallets-125x125.jpg"
+      },
+      {
+        "name": "Heat Treated Wooden Pallet",
+        "page": "https://dir.indiamart.com/impcat/heat-treated-wooden-pallet.html",
+        "thumbnail": "http://4.imimg.com/data4/JX/WV/GLADMIN-181949/heat-treated-wooden-pallet-125x125.jpg"
+      },
+      {
+        "name": "ISPM 15 Wooden Pallets",
+        "page": "https://dir.indiamart.com/impcat/ispm-15-wooden-pallets.html",
+        "thumbnail": "http://4.imimg.com/data4/KT/LH/GLADMIN-178279/ispm-15-wooden-pallets-125x125.png"
+      },
+      {
+        "name": "Compressed Wood Pallet",
+        "page": "https://dir.indiamart.com/impcat/compressed-wood-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/WA/BP/GLADMIN-149647/compressed-wood-pallet-125x125.jpg"
+      },
+      {
+        "name": "Rubber Wood Pallets",
+        "page": "https://dir.indiamart.com/impcat/rubber-wood-pallets.html",
+        "thumbnail": "http://4.imimg.com/data4/LP/VG/GLADMIN-2/rubber-wood-pallets-125x125.jpg"
+      },
+      {
+        "name": "Babool Wood Pallet",
+        "page": "https://dir.indiamart.com/impcat/babool-wood-pallet.html",
+        "thumbnail": "http://4.imimg.com/data4/XL/RD/GLADMIN-180199/babool-wood-pallet-125x125.jpg"
+      },
+      {
+        "name": "Neem Wood Pallets",
+        "page": "https://dir.indiamart.com/impcat/neem-wood-pallets.html",
+        "thumbnail": "http://4.imimg.com/data4/GM/CU/GLADMIN-183998/neem-wood-pallets-125x125.png"
+      },
+      {
+        "name": "Wooden Pallets Heat Treatment",
+        "page": "https://dir.indiamart.com/impcat/wooden-pallets-heat-treatment.html",
+        "thumbnail": "http://3.imimg.com/data3/VC/JN/GLADMIN-176188/wooden-pallets-heat-treatment-125x125.jpg"
+      },
+      {
+        "name": "Wooden Pallet Collar",
+        "page": "https://dir.indiamart.com/impcat/wooden-pallet-collar.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/TO/GLADMIN-155764/wooden-pallet-collar-125x125.jpg"
+      },
+      {
+        "name": "Wooden Skids",
+        "page": "https://dir.indiamart.com/impcat/wooden-skids.html",
+        "thumbnail": "http://3.imimg.com/data3/RG/AS/GLADMIN-117712/wooden-skids-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Packaging Boards",
+    "category_thumbnail": "http://3.imimg.com/data3/IA/XI/GLADMIN-34160/packaging-boards-125x125.jpg",
+    "items": [
+      {
+        "name": "PP Corrugated Sheets",
+        "page": "https://dir.indiamart.com/impcat/pp-corrugated-sheets.html",
+        "thumbnail": "http://4.imimg.com/data4/YR/XK/GLADMIN-178394/pp-corrugated-sheets-125x125.jpg"
+      },
+      {
+        "name": "Duplex Board",
+        "page": "https://dir.indiamart.com/impcat/duplex-board.html",
+        "thumbnail": "http://3.imimg.com/data3/NO/LW/GLADMIN-26997/duplex-board-125x125.jpg"
+      },
+      {
+        "name": "Angle Board",
+        "page": "https://dir.indiamart.com/impcat/angle-board.html",
+        "thumbnail": "http://3.imimg.com/data3/DQ/KA/GLADMIN-4785/angle-board-125x125.jpg"
+      },
+      {
+        "name": "Coated Duplex Board",
+        "page": "https://dir.indiamart.com/impcat/coated-duplex-board.html",
+        "thumbnail": "http://3.imimg.com/data3/QD/WB/GLADMIN-25086/coated-duplex-board-125x125.jpg"
+      },
+      {
+        "name": "Honeycomb Boards",
+        "page": "https://dir.indiamart.com/impcat/honeycomb-boards.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/XH/GLADMIN-106137/honeycomb-boards-125x125.jpg"
+      },
+      {
+        "name": "Flute Boards",
+        "page": "https://dir.indiamart.com/impcat/flute-boards.html",
+        "thumbnail": "http://3.imimg.com/data3/OK/NO/GLADMIN-166780/flute-boards-125x125.jpg"
+      },
+      {
+        "name": "Packing Plywood",
+        "page": "https://dir.indiamart.com/impcat/packing-plywood.html",
+        "thumbnail": "http://4.imimg.com/data4/KG/AT/GLADMIN-185512/packing-plywood-125x125.jpg"
+      },
+      {
+        "name": "Straw Board",
+        "page": "https://dir.indiamart.com/impcat/straw-board.html",
+        "thumbnail": "http://5.imimg.com/data5/GE/TO/GLADMIN-2/straw-board-125x125.jpg"
+      },
+      {
+        "name": "Corrugated Boards",
+        "page": "https://dir.indiamart.com/impcat/corrugated-cardboard.html",
+        "thumbnail": "http://3.imimg.com/data3/PJ/CB/GLADMIN-25476/corrugated-boards-125x125.jpg"
+      },
+      {
+        "name": "Corner Boards",
+        "page": "https://dir.indiamart.com/impcat/corner-boards.html",
+        "thumbnail": "http://3.imimg.com/data3/CN/XH/GLADMIN-4075/corner-boards-125x125.jpg"
+      },
+      {
+        "name": "Edge Boards",
+        "page": "https://dir.indiamart.com/impcat/edge-boards.html",
+        "thumbnail": "http://3.imimg.com/data3/EY/UH/GLADMIN-6792/edge-boards-125x125.jpg"
+      },
+      {
+        "name": "Corrugated Paper Board",
+        "page": "https://dir.indiamart.com/impcat/corrugated-paper-board.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/QE/GLADMIN-68981/corrugated-paper-board-125x125.jpg"
+      },
+      {
+        "name": "Laminated Paperboard",
+        "page": "https://dir.indiamart.com/impcat/laminated-paperboard.html",
+        "thumbnail": "http://5.imimg.com/data5/WE/WU/GLADMIN-2/laminated-paperboard-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Packing Crates",
+    "category_thumbnail": "http://3.imimg.com/data3/JM/PY/GLADMIN-34215/packing-crates-125x125.jpg",
+    "items": [
+      {
+        "name": "Plastic Crates",
+        "page": "https://dir.indiamart.com/impcat/plastic-crates.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/GY/GLADMIN-6048/plastic-crates-125x125.jpg"
+      },
+      {
+        "name": "Storage Crate",
+        "page": "https://dir.indiamart.com/impcat/storage-crate.html",
+        "thumbnail": "http://3.imimg.com/data3/CT/MS/GLADMIN-38219/storage-crate-125x125.jpg"
+      },
+      {
+        "name": "Wooden Crates",
+        "page": "https://dir.indiamart.com/impcat/wooden-crates.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/EI/GLADMIN-3531/wooden-crates-125x125.jpg"
+      },
+      {
+        "name": "Fishing Crate",
+        "page": "https://dir.indiamart.com/impcat/fishing-crate.html",
+        "thumbnail": "http://5.imimg.com/data5/IM/OD/GLADMIN-2/fishing-crate-125x125.jpg"
+      },
+      {
+        "name": "Sericulture Crates",
+        "page": "https://dir.indiamart.com/impcat/sericulture-crates.html",
+        "thumbnail": "http://3.imimg.com/data3/KV/OV/GLADMIN-166397/sericulture-crates-125x125.jpg"
+      },
+      {
+        "name": "Collapsible Crate",
+        "page": "https://dir.indiamart.com/impcat/collapsible-crate.html",
+        "thumbnail": "http://3.imimg.com/data3/GM/CM/GLADMIN-24357/collapsible-crate-125x125.jpg"
+      },
+      {
+        "name": "Fabricated Crates",
+        "page": "https://dir.indiamart.com/impcat/fabricated-crates.html",
+        "thumbnail": "http://3.imimg.com/data3/OY/DD/GLADMIN-161503/fabricated-crates-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Storage Bins",
+    "category_thumbnail": "http://3.imimg.com/data3/TR/DP/GLADMIN-909/storage-bins-125x125.jpg",
+    "items": [
+      {
+        "name": "Plastic Bins",
+        "page": "https://dir.indiamart.com/impcat/plastic-bins.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/ND/GLADMIN-2/plastic-bin-125x125.jpg"
+      },
+      {
+        "name": "Plastic Storage Bin",
+        "page": "https://dir.indiamart.com/impcat/plastic-storage-bin.html",
+        "thumbnail": "http://3.imimg.com/data3/KW/YY/GLADMIN-94738/plastic-storage-bin-125x125.jpg"
+      },
+      {
+        "name": "Polypropylene Corrugated Box",
+        "page": "https://dir.indiamart.com/impcat/polypropylene-corrugated-box.html",
+        "thumbnail": "http://4.imimg.com/data4/YI/XM/GLADMIN-178133/polypropylene-corrugated-box-125x125.jpg"
+      },
+      {
+        "name": "ESD Bins",
+        "page": "https://dir.indiamart.com/impcat/esd-bins.html",
+        "thumbnail": "http://3.imimg.com/data3/SE/PD/GLADMIN-166635/esd-bins-125x125.jpg"
+      },
+      {
+        "name": "Metal Storage Bin",
+        "page": "https://dir.indiamart.com/impcat/metal-storage-bin.html",
+        "thumbnail": "http://5.imimg.com/data5/DK/XB/MV/GLADMIN-73467/metal-storage-bin-125x125.jpg"
+      },
+      {
+        "name": "Shelf Bins",
+        "page": "https://dir.indiamart.com/impcat/shelf-bins.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/VI/GLADMIN-37993/shelf-bins-125x125.jpg"
+      },
+      {
+        "name": "Corrugated Plastic Box",
+        "page": "https://dir.indiamart.com/impcat/corrugated-plastic-boxes.html",
+        "thumbnail": "http://5.imimg.com/data5/KE/GG/HP/GLADMIN-73289/corrugated-plastic-box-125x125.jpg"
+      },
+      {
+        "name": "Flour Bins",
+        "page": "https://dir.indiamart.com/impcat/flour-bins.html",
+        "thumbnail": "http://5.imimg.com/data5/VB/PG/GLADMIN-2/flour-bin-125x125.jpg"
+      },
+      {
+        "name": "Stackable Containers",
+        "page": "https://dir.indiamart.com/impcat/stackable-containers.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/XH/GLADMIN-38682/stackable-containers-125x125.jpg"
+      },
+      {
+        "name": "Plastic Tote Boxes",
+        "page": "https://dir.indiamart.com/impcat/plastic-tote-boxes.html",
+        "thumbnail": "http://5.imimg.com/data5/BH/SQ/BB/GLADMIN-73289/plastic-tote-boxes-125x125.jpg"
+      },
+      {
+        "name": "PP Storage Bin",
+        "page": "https://dir.indiamart.com/impcat/pp-bin.html",
+        "thumbnail": "http://5.imimg.com/data5/VY/QS/GLADMIN-2/durable-pp-bin-500x500-125x125.jpg"
+      },
+      {
+        "name": "Material Handling Bin",
+        "page": "https://dir.indiamart.com/impcat/material-handling-bin.html",
+        "thumbnail": "http://3.imimg.com/data3/NI/RX/GLADMIN-94731/material-handling-bin-125x125.jpg"
+      },
+      {
+        "name": "PP Corrugated Bins",
+        "page": "https://dir.indiamart.com/impcat/pp-corrugated-bins.html",
+        "thumbnail": "http://4.imimg.com/data4/XQ/LB/GLADMIN-178419/pp-corrugated-bins-125x125.jpg"
+      },
+      {
+        "name": "Bulk Storage Bins",
+        "page": "https://dir.indiamart.com/impcat/bulk-storage-bins.html",
+        "thumbnail": "http://3.imimg.com/data3/FU/PB/GLADMIN-23661/bulk-storage-bins-125x125.jpg"
+      },
+      {
+        "name": "Bin Boxes",
+        "page": "https://dir.indiamart.com/impcat/bin-boxes.html",
+        "thumbnail": "http://5.imimg.com/data5/LD/MB/GLADMIN-2/bin-box-125x125.jpg"
+      },
+      {
+        "name": "PP Corrugated Conductive Boxes",
+        "page": "https://dir.indiamart.com/impcat/pp-corrugated-conductive-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/SV/HQ/GLADMIN-144468/pp-corrugated-conductive-boxes-125x125.jpg"
+      },
+      {
+        "name": "Tote Bins",
+        "page": "https://dir.indiamart.com/impcat/tote-bins.html",
+        "thumbnail": "http://5.imimg.com/data5/DO/VB/GLADMIN-2/tote-125x125.jpg"
+      },
+      {
+        "name": "Nestable Containers",
+        "page": "https://dir.indiamart.com/impcat/nestable-containers.html",
+        "thumbnail": "http://3.imimg.com/data3/OX/NV/GLADMIN-32636/nestable-containers-125x125.jpg"
+      },
+      {
+        "name": "PVC Corrugated Boxes",
+        "page": "https://dir.indiamart.com/impcat/pvc-corrugated-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/WO/GJ/GLADMIN-143797/pvc-corrugated-boxes-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Plastic Pallets",
+    "category_thumbnail": "http://3.imimg.com/data3/RE/AO/GLADMIN-253/plastic-pallets-125x125.jpg",
+    "items": [
+      {
+        "name": "Used Plastic Pallets",
+        "page": "https://dir.indiamart.com/impcat/used-plastic-pallets.html",
+        "thumbnail": "http://4.imimg.com/data4/RQ/HY/GLADMIN-179995/used-plastic-pallets-125x125.jpg"
+      },
+      {
+        "name": "Industrial Plastic Pallet",
+        "page": "https://dir.indiamart.com/impcat/industrial-plastic-pallet.html",
+        "thumbnail": "http://5.imimg.com/data5/UA/XL/OI/GLADMIN-65832/industrial-plastic-pallet-125x125.jpg"
+      },
+      {
+        "name": "Roto Molded Plastic Pallets",
+        "page": "https://dir.indiamart.com/impcat/roto-molded-plastic-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/RX/SH/GLADMIN-155519/roto-molded-plastic-pallets-125x125.jpg"
+      },
+      {
+        "name": "HDPE Pallets",
+        "page": "https://dir.indiamart.com/impcat/hdpe-pallet.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/BG/GLADMIN-85925/hdpe-pallet-125x125.jpg"
+      },
+      {
+        "name": "Recycled Plastic Pallets",
+        "page": "https://dir.indiamart.com/impcat/recycled-plastic-pallets.html",
+        "thumbnail": "http://5.imimg.com/data5/VA/MR/ZI/GLADMIN-68087/recycled-plastic-pallets-125x125.jpg"
+      },
+      {
+        "name": "Scrap Plastic Pallets",
+        "page": "https://dir.indiamart.com/impcat/scrap-plastic-pallets.html",
+        "thumbnail": "http://3.imimg.com/data3/OA/BN/GLADMIN-143112/scrap-plastic-pallets-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Vacuum Formed Products",
+    "category_thumbnail": "http://3.imimg.com/data3/OE/JW/GLADMIN-20659/vacuum-formed-products-125x125.jpg",
+    "items": [
+      {
+        "name": "Blister Tray",
+        "page": "https://dir.indiamart.com/impcat/blister-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/SA/GLADMIN-145057/blister-tray-125x125.jpg"
+      },
+      {
+        "name": "Scrubber Packaging Blister",
+        "page": "https://dir.indiamart.com/impcat/scrubber-packaging-blister.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/UU/HC/QF/81953/scrubber-packaging-blister-125x125.jpg"
+      },
+      {
+        "name": "HIPS Trays",
+        "page": "https://dir.indiamart.com/impcat/hips-trays.html",
+        "thumbnail": "http://4.imimg.com/data4/GU/YJ/GLADMIN-180553/hips-trays-125x125.jpg"
+      },
+      {
+        "name": "Vacuum Formed Trays",
+        "page": "https://dir.indiamart.com/impcat/vacuum-formed-trays.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/NF/GLADMIN-40765/vacuum-formed-trays-125x125.jpg"
+      },
+      {
+        "name": "Thermoformed Tray",
+        "page": "https://dir.indiamart.com/impcat/thermoformed-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/GP/VC/GLADMIN-88192/thermoformed-tray-125x125.jpg"
+      },
+      {
+        "name": "Blister Boxes",
+        "page": "https://dir.indiamart.com/impcat/blister-boxes.html",
+        "thumbnail": "http://3.imimg.com/data3/CW/EU/GLADMIN-99614/blister-boxes-125x125.jpg"
+      },
+      {
+        "name": "Thermoformed Plastics",
+        "page": "https://dir.indiamart.com/impcat/thermoformed-plastics.html",
+        "thumbnail": "http://3.imimg.com/data3/XL/TQ/GLADMIN-38485/thermoformed-plastics-125x125.jpg"
+      },
+      {
+        "name": "ABS Tray",
+        "page": "https://dir.indiamart.com/impcat/abs-tray.html",
+        "thumbnail": "http://5.imimg.com/data5/YI/KL/GLADMIN-2/abs-tray-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Blister Tray",
+    "category_thumbnail": "http://3.imimg.com/data3/JY/SA/GLADMIN-145057/blister-tray-125x125.jpg",
+    "items": [
+      {
+        "name": "Scrubber Packaging Blister",
+        "page": "https://dir.indiamart.com/impcat/scrubber-packaging-blister.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/12/UU/HC/QF/81953/scrubber-packaging-blister-125x125.jpg"
+      },
+      {
+        "name": "HIPS Trays",
+        "page": "https://dir.indiamart.com/impcat/hips-trays.html",
+        "thumbnail": "http://4.imimg.com/data4/GU/YJ/GLADMIN-180553/hips-trays-125x125.jpg"
+      },
+      {
+        "name": "Thermoformed Tray",
+        "page": "https://dir.indiamart.com/impcat/thermoformed-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/GP/VC/GLADMIN-88192/thermoformed-tray-125x125.jpg"
+      },
+      {
+        "name": "Cosmetic Tray",
+        "page": "https://dir.indiamart.com/impcat/cosmetic-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/YU/EW/GLADMIN-85919/cosmetic-tray-125x125.jpg"
+      },
+      {
+        "name": "Clamshell Tray",
+        "page": "https://dir.indiamart.com/impcat/clamshell-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/WT/NM/GLADMIN-85909/clamshell-tray-125x125.jpg"
+      },
+      {
+        "name": "Pharmaceutical Packaging Tray",
+        "page": "https://dir.indiamart.com/impcat/pharmaceutical-tray.html",
+        "thumbnail": "http://3.imimg.com/data3/FI/ER/GLADMIN-127542/pharmaceutical-tray-125x125.jpg"
+      },
+      {
+        "name": "Thermoformed Plastics",
+        "page": "https://dir.indiamart.com/impcat/thermoformed-plastics.html",
+        "thumbnail": "http://3.imimg.com/data3/XL/TQ/GLADMIN-38485/thermoformed-plastics-125x125.jpg"
+      },
+      {
+        "name": "Thermoformed Packaging",
+        "page": "https://dir.indiamart.com/impcat/thermoformed-packaging.html",
+        "thumbnail": "http://3.imimg.com/data3/CE/BF/GLADMIN-38484/thermoformed-packaging-125x125.jpg"
+      }
+    ]
+  }
+]

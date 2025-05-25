@@ -1,0 +1,961 @@
+[
+  {
+    "category_name": "Healing Crystals",
+    "category_thumbnail": "http://5.imimg.com/data5/FJ/NA/GLADMIN-2/healing-125x125.gif",
+    "items": [
+      {
+        "name": "Pyrite Stone",
+        "page": "https://dir.indiamart.com/impcat/pyrite-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/DJ/UM/GLADMIN-2/pyrite-125x125.jpg"
+      },
+      {
+        "name": "Turquoise Stone",
+        "page": "https://dir.indiamart.com/impcat/turquoise-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/PH/GLADMIN-13090/turquoise-stone-125x125.jpg"
+      },
+      {
+        "name": "Crystal Stone",
+        "page": "https://dir.indiamart.com/impcat/crystal-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/SF/VZ/PK/92368/crystal-stone-125x125.jpg"
+      },
+      {
+        "name": "Quartz Stone",
+        "page": "https://dir.indiamart.com/impcat/quartz-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/JX/HY/GLADMIN-2/quartz-125x125.jpg"
+      },
+      {
+        "name": "Ox Gallstone",
+        "page": "https://dir.indiamart.com/impcat/ox-gallstone.html",
+        "thumbnail": "http://3.imimg.com/data3/CO/FO/GLADMIN-116155/ox-gallstone-125x125.jpg"
+      },
+      {
+        "name": "Jade Stone",
+        "page": "https://dir.indiamart.com/impcat/jade-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/WU/HL/GLADMIN-13068/jade-stone-125x125.jpg"
+      },
+      {
+        "name": "Seven Chakra Healing Stone",
+        "page": "https://dir.indiamart.com/impcat/seven-chakra-healing-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/MF/US/BM/GLADMIN-68087/seven-chakra-healing-stone-125x125.jpg"
+      },
+      {
+        "name": "Aventurine Stone",
+        "page": "https://dir.indiamart.com/impcat/aventurine-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/WN/GLADMIN-13060/aventurine-stone-125x125.jpg"
+      },
+      {
+        "name": "Moonstone",
+        "page": "https://dir.indiamart.com/impcat/moonstone.html",
+        "thumbnail": "http://3.imimg.com/data3/WU/IO/GLADMIN-13074/moonstone-stone-125x125.jpg"
+      },
+      {
+        "name": "Jasper Stones",
+        "page": "https://dir.indiamart.com/impcat/jasper-stones.html",
+        "thumbnail": "http://3.imimg.com/data3/LQ/IK/GLADMIN-10344/jasper-stones-125x125.jpg"
+      },
+      {
+        "name": "Tigers Eye Stone",
+        "page": "https://dir.indiamart.com/impcat/tigers-eye-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/GS/GLADMIN-13088/tigers-eye-stone-125x125.jpg"
+      },
+      {
+        "name": "Labradorite Stone",
+        "page": "https://dir.indiamart.com/impcat/labradorite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/NJ/MR/GLADMIN-13070/labradorite-stone-125x125.jpg"
+      },
+      {
+        "name": "Garnet Stone",
+        "page": "https://dir.indiamart.com/impcat/garnet-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/OV/WL/GLADMIN-11926/garnet-stone-125x125.jpg"
+      },
+      {
+        "name": "Crystal Pendulum",
+        "page": "https://dir.indiamart.com/impcat/crystal-pendulum.html",
+        "thumbnail": "http://5.imimg.com/data5/GG/GG/GLADMIN-/crystal-pendulum-125x125.jpg"
+      },
+      {
+        "name": "Malachite Stone",
+        "page": "https://dir.indiamart.com/impcat/malachite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/KV/CS/GLADMIN-13072/malachite-stone-125x125.jpg"
+      },
+      {
+        "name": "Crystal Gemstone",
+        "page": "https://dir.indiamart.com/impcat/crystal-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/TM/HK/GLADMIN-25157/crystal-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Healing Sticks",
+        "page": "https://dir.indiamart.com/impcat/healing-sticks.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/VK/GLADMIN-149686/healing-sticks-125x125.jpg"
+      },
+      {
+        "name": "Sunstone Stone",
+        "page": "https://dir.indiamart.com/impcat/sunstone-stone.html",
+        "thumbnail": "http://4.imimg.com/data4/DH/BN/GLADMIN-13087/sunstone-stone-125x125.jpg"
+      },
+      {
+        "name": "Carnelian Stone",
+        "page": "https://dir.indiamart.com/impcat/cornelian-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/IY/QG/GLADMIN-13422/cornelian-stone-125x125.jpg"
+      },
+      {
+        "name": "Fluorite Stone",
+        "page": "https://dir.indiamart.com/impcat/fluorite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/XO/UN/GLADMIN-13064/fluorite-stone-125x125.jpg"
+      },
+      {
+        "name": "Hematite Stone",
+        "page": "https://dir.indiamart.com/impcat/hematite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/AO/WW/GLADMIN-13066/hematite-stone-125x125.jpg"
+      },
+      {
+        "name": "Kunzite Stone",
+        "page": "https://dir.indiamart.com/impcat/kunzite-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/XU/NX/GLADMIN-2/kunzi-125x125.jpg"
+      },
+      {
+        "name": "Sodalite Stone",
+        "page": "https://dir.indiamart.com/impcat/sodalite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/TG/GLADMIN-19286/sodalite-stone-125x125.jpg"
+      },
+      {
+        "name": "Merkaba Star",
+        "page": "https://dir.indiamart.com/impcat/merkaba-star.html",
+        "thumbnail": "http://5.imimg.com/data5/MM/BM/LF/GLADMIN-68155/merkaba-star-125x125.jpg"
+      },
+      {
+        "name": "Palm Stone",
+        "page": "https://dir.indiamart.com/impcat/palmstone.html",
+        "thumbnail": "http://3.imimg.com/data3/AO/WP/GLADMIN-80777/palmstone-125x125.jpg"
+      },
+      {
+        "name": "Howlite Stone",
+        "page": "https://dir.indiamart.com/impcat/howlite-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/SZ/YI/VU/GLADMIN-65832/howlite-stone-125x125.jpg"
+      },
+      {
+        "name": "Chrysocolla Stone",
+        "page": "https://dir.indiamart.com/impcat/chrysocolla-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/WV/GLADMIN-13771/chrysocolla-stone-125x125.jpg"
+      },
+      {
+        "name": "Chrysoprase Stone",
+        "page": "https://dir.indiamart.com/impcat/chrysoprase-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/PF/MR/GLADMIN-13772/chrysoprase-stone-125x125.jpg"
+      },
+      {
+        "name": "Unakite Stone",
+        "page": "https://dir.indiamart.com/impcat/unakite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/GC/LP/GLADMIN-20104/unakite-stone-125x125.jpg"
+      },
+      {
+        "name": "Fuchsite Ruby",
+        "page": "https://dir.indiamart.com/impcat/fuchsite-ruby.html",
+        "thumbnail": "http://5.imimg.com/data5/ES/HX/AV/GLADMIN-72666/fuchsite-ruby-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Semi Precious Stones",
+    "category_thumbnail": "http://3.imimg.com/data3/JF/HT/GLADMIN-411/semi-precious-stones-125x125.jpg",
+    "items": [
+      {
+        "name": "Pearl Stone",
+        "page": "https://dir.indiamart.com/impcat/pearl-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TI/ML/LA/92368/pearl-stone-125x125.jpg"
+      },
+      {
+        "name": "Healing Crystals",
+        "page": "https://dir.indiamart.com/impcat/healing-crystals.html",
+        "thumbnail": "http://5.imimg.com/data5/FJ/NA/GLADMIN-2/healing-125x125.gif"
+      },
+      {
+        "name": "Opal Stone",
+        "page": "https://dir.indiamart.com/impcat/opal-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/IX/FQ/FF/92368/opal-stone-125x125.jpg"
+      },
+      {
+        "name": "Moissanite Stone",
+        "page": "https://dir.indiamart.com/impcat/moissanite-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/YT/ZO/NI/92368/moissanite-stone-125x125.jpeg"
+      },
+      {
+        "name": "Quartz Stone",
+        "page": "https://dir.indiamart.com/impcat/quartz-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/JX/HY/GLADMIN-2/quartz-125x125.jpg"
+      },
+      {
+        "name": "Tourmaline Stone",
+        "page": "https://dir.indiamart.com/impcat/tourmaline-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/OU/YB/GLADMIN-2/tour-125x125.jpg"
+      },
+      {
+        "name": "Agate Stone",
+        "page": "https://dir.indiamart.com/impcat/agate-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/SI/CW/GLADMIN-3168/agate-stone-125x125.jpg"
+      },
+      {
+        "name": "Gomati Chakra",
+        "page": "https://dir.indiamart.com/impcat/gomati-chakra.html",
+        "thumbnail": "http://4.imimg.com/data4/AN/SC/GLADMIN-184465/gomati-chakra-125x125.jpg"
+      },
+      {
+        "name": "Coral Gemstone",
+        "page": "https://dir.indiamart.com/impcat/coral-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/IN/TB/GLADMIN-/images-thumbs-0000603_300-125x125.jpeg"
+      },
+      {
+        "name": "Onyx Stone",
+        "page": "https://dir.indiamart.com/impcat/onyx-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/TR/PX/GLADMIN-13078/onyx-stone-125x125.jpg"
+      },
+      {
+        "name": "Lapis Lazuli",
+        "page": "https://dir.indiamart.com/impcat/lapis-lazuli.html",
+        "thumbnail": "http://3.imimg.com/data3/YW/LB/GLADMIN-31529/lapis-lazuli-125x125.jpg"
+      },
+      {
+        "name": "Tanzanite Gemstone",
+        "page": "https://dir.indiamart.com/impcat/tanzanite-gemstone.html",
+        "thumbnail": "http://5.imimg.com/data5/GN/LB/GLADMIN-2/tanzanite-stone-125x125.jpg"
+      },
+      {
+        "name": "Peridot Stone",
+        "page": "https://dir.indiamart.com/impcat/peridot-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/FP/YL/GLADMIN-13081/peridot-stone-125x125.jpg"
+      },
+      {
+        "name": "Amber Stone",
+        "page": "https://dir.indiamart.com/impcat/amber-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/RT/LC/MY-2/amber-stone-125x125.jpg"
+      },
+      {
+        "name": "Rainbow Moonstone",
+        "page": "https://dir.indiamart.com/impcat/rainbow-moonstone.html",
+        "thumbnail": "http://5.imimg.com/data5/EV/SU/GLADMIN-2/rainbow-moonston-125x125.jpg"
+      },
+      {
+        "name": "Obsidian Stone",
+        "page": "https://dir.indiamart.com/impcat/obsidian-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/OC/GLADMIN-13077/obsidian-stone-125x125.jpg"
+      },
+      {
+        "name": "Raw Agate Stone",
+        "page": "https://dir.indiamart.com/impcat/raw-agate-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/WR/OU/GZ/GLADMIN-76037/raw-agate-stone-125x125.jpg"
+      },
+      {
+        "name": "Topaz Stone",
+        "page": "https://dir.indiamart.com/impcat/topaz-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/YP/MY-2/topaz-stone-125x125.jpg"
+      },
+      {
+        "name": "Amazonite Stone",
+        "page": "https://dir.indiamart.com/impcat/amazonite-stone.html",
+        "thumbnail": "http://4.imimg.com/data4/HL/DH/GLADMIN-13058/amazonite-stone-125x125.jpg"
+      },
+      {
+        "name": "Chalcedony Stone",
+        "page": "https://dir.indiamart.com/impcat/chalcedony-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/YH/HE/GLADMIN-13686/chalcedony-stone-125x125.jpg"
+      },
+      {
+        "name": "Serpentine Stone",
+        "page": "https://dir.indiamart.com/impcat/serpentine-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/BJ/HR/GLADMIN-13086/serpentine-stone-125x125.jpg"
+      },
+      {
+        "name": "Apatite Stone",
+        "page": "https://dir.indiamart.com/impcat/apatite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/MY/XJ/GLADMIN-4879/apatite-stone-125x125.jpg"
+      },
+      {
+        "name": "Beryl Stone",
+        "page": "https://dir.indiamart.com/impcat/beryl-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/VD/SN/GLADMIN-2/beryl-125x125.gif"
+      },
+      {
+        "name": "Larimar Gemstone",
+        "page": "https://dir.indiamart.com/impcat/larimar-gemstone.html",
+        "thumbnail": "http://5.imimg.com/data5/IX/BL/GLADMIN-2/larimar-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Ametrine Stone",
+        "page": "https://dir.indiamart.com/impcat/ametrine-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/UV/SP/GLADMIN-13059/ametrine-stone-125x125.jpg"
+      },
+      {
+        "name": "Crystal Pencil",
+        "page": "https://dir.indiamart.com/impcat/crystal-pencil.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/NN/JT/SI/85917/crystal-pencil-125x125.png"
+      },
+      {
+        "name": "Iolite Stone",
+        "page": "https://dir.indiamart.com/impcat/iolite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/BY/OB/GLADMIN-10247/iolite-stone-125x125.jpg"
+      },
+      {
+        "name": "Kyanite Gemstone",
+        "page": "https://dir.indiamart.com/impcat/kyanite-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/RB/GO/GLADMIN-157002/kyanite-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Sugilite Stone",
+        "page": "https://dir.indiamart.com/impcat/sugilite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/XB/XH/GLADMIN-18854/sugilite-stone-125x125.jpg"
+      },
+      {
+        "name": "Azurite Stone",
+        "page": "https://dir.indiamart.com/impcat/azurite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/CJ/XH/GLADMIN-13061/azurite-stone-125x125.jpg"
+      },
+      {
+        "name": "Heliodor Stone",
+        "page": "https://dir.indiamart.com/impcat/heliodor-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/WI/GW/GLADMIN-13065/heliodor-stone-125x125.jpg"
+      },
+      {
+        "name": "Faceted Spinel Gemstone",
+        "page": "https://dir.indiamart.com/impcat/faceted-spinel-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/VJ/TG/GLADMIN-138798/faceted-spinel-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Rhodochrosite Stone",
+        "page": "https://dir.indiamart.com/impcat/rhodochrosite-stone.html",
+        "thumbnail": "http://4.imimg.com/data4/KK/KK/GLADMIN-/rhodochrosite-stone-125x125.jpg"
+      },
+      {
+        "name": "Charoite Stone",
+        "page": "https://dir.indiamart.com/impcat/charoite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/DI/WU/GLADMIN-13063/charoite-stone-125x125.jpg"
+      },
+      {
+        "name": "Sillimanite Stone",
+        "page": "https://dir.indiamart.com/impcat/sillimanite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/QU/EL/GLADMIN-19186/sillimanite-stone-125x125.jpg"
+      },
+      {
+        "name": "7 Chakra Reiki Set",
+        "page": "https://dir.indiamart.com/impcat/7-chakra-reiki-set.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/SZ/UW/FQ/85917/7-chakra-reiki-set-125x125.jpg"
+      },
+      {
+        "name": "Andalusite Stone",
+        "page": "https://dir.indiamart.com/impcat/andalusite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/VC/TY/GLADMIN-14724/andalusite-stone-125x125.jpg"
+      },
+      {
+        "name": "Diopside Stone",
+        "page": "https://dir.indiamart.com/impcat/diopside-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/FE/SN/GLADMIN-13927/diopside-stone-125x125.jpg"
+      },
+      {
+        "name": "Septarian Gemstone",
+        "page": "https://dir.indiamart.com/impcat/septarian-gemstone.html",
+        "thumbnail": "http://5.imimg.com/data5/WN/RH/RC/GLADMIN-68087/septarian-gemstone-125x125.png"
+      },
+      {
+        "name": "Geometric Crystal Set",
+        "page": "https://dir.indiamart.com/impcat/geometric-crystal-set.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/5/CH/WG/MA/85917/geometric-crystal-set-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Gemstone",
+    "category_thumbnail": "http://5.imimg.com/data5/YL/RA/GLADMIN-2/gemstone-125x125.jpg",
+    "items": [
+      {
+        "name": "Red Coral",
+        "page": "https://dir.indiamart.com/impcat/red-coral.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/GA/TG/VE/86648/red-coral-125x125.jpg"
+      },
+      {
+        "name": "Emerald Stone",
+        "page": "https://dir.indiamart.com/impcat/emerald-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/NJ/YI/GLADMIN-7004/emerald-stone-125x125.jpg"
+      },
+      {
+        "name": "Sulemani Hakik",
+        "page": "https://dir.indiamart.com/impcat/sulemani-hakik.html",
+        "thumbnail": "http://5.imimg.com/data5/XJ/TS/GLADMIN-2/sulemani-hakik-125x125.jpg"
+      },
+      {
+        "name": "Precious Stone",
+        "page": "https://dir.indiamart.com/impcat/precious-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/QT/GLADMIN-8597/precious-stone-125x125.jpg"
+      },
+      {
+        "name": "Semi Precious Stones",
+        "page": "https://dir.indiamart.com/impcat/semi-precious-stones.html",
+        "thumbnail": "http://3.imimg.com/data3/JF/HT/GLADMIN-411/semi-precious-stones-125x125.jpg"
+      },
+      {
+        "name": "Zircon Stone",
+        "page": "https://dir.indiamart.com/impcat/zircon-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/KK/LD/GLADMIN-13091/zircon-stone-125x125.jpg"
+      },
+      {
+        "name": "Zambian Emerald",
+        "page": "https://dir.indiamart.com/impcat/zambian-emerald.html",
+        "thumbnail": "http://5.imimg.com/data5/TJ/CC/GLADMIN-2/zambian-125x125.jpg"
+      },
+      {
+        "name": "Aquamarine Stone",
+        "page": "https://dir.indiamart.com/impcat/aquamarine-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/BD/MY-2/aquamarine-stone-125x125.jpg"
+      },
+      {
+        "name": "Natural Red Coral",
+        "page": "https://dir.indiamart.com/impcat/natural-red-coral.html",
+        "thumbnail": "http://5.imimg.com/data5/GG/GG/GLADMIN-/a-img924-3251-hztf9n-125x125.jpg"
+      },
+      {
+        "name": "Rough Gemstone",
+        "page": "https://dir.indiamart.com/impcat/rough-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/AA/SG/GLADMIN-81049/rough-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Fancy Stone",
+        "page": "https://dir.indiamart.com/impcat/fancy-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/PP/VT/GLADMIN-65834/fancy-stone-125x125.jpg"
+      },
+      {
+        "name": "Ethiopian Opal",
+        "page": "https://dir.indiamart.com/impcat/ethiopian-opal.html",
+        "thumbnail": "http://4.imimg.com/data4/SP/JS/GLADMIN-180495/ethiopian-opal-125x125.jpg"
+      },
+      {
+        "name": "White Zircon Stone",
+        "page": "https://dir.indiamart.com/impcat/white-zircon-stone.html",
+        "thumbnail": "http://4.imimg.com/data4/PP/PP/GLADMIN-/white-zircon-stone-125x125.jpg"
+      },
+      {
+        "name": "Zircon",
+        "page": "https://dir.indiamart.com/impcat/zircon.html",
+        "thumbnail": "http://3.imimg.com/data3/MJ/YU/GLADMIN-2800/zircon-125x125.jpg"
+      },
+      {
+        "name": "Cut Gemstone",
+        "page": "https://dir.indiamart.com/impcat/cut-gem-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/NC/CO/GLADMIN-12681/cut-gem-stone-125x125.jpg"
+      },
+      {
+        "name": "Red Gemstone",
+        "page": "https://dir.indiamart.com/impcat/red-gemstone.html",
+        "thumbnail": "http://4.imimg.com/data4/JJ/JJ/GLADMIN-/red-gemstone-125x125.jpg"
+      },
+      {
+        "name": "White Coral Stone",
+        "page": "https://dir.indiamart.com/impcat/white-coral-stone.html",
+        "thumbnail": "http://4.imimg.com/data4/FD/FH/GLADMIN-2/white-coral-stone-125x125.jpg"
+      },
+      {
+        "name": "Moldavite Gemstone",
+        "page": "https://dir.indiamart.com/impcat/moldavite-gemstone.html",
+        "thumbnail": "http://4.imimg.com/data4/LB/IQ/GLADMIN-184511/moldavite-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Black Gemstone",
+        "page": "https://dir.indiamart.com/impcat/black-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/UC/JO/GLADMIN-80580/black-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Smoky Quartz",
+        "page": "https://dir.indiamart.com/impcat/smoky-quartz.html",
+        "thumbnail": "http://4.imimg.com/data4/VY/WH/GLADMIN-38082/smoky-quartz-125x125.jpg"
+      },
+      {
+        "name": "Opal Cabochon",
+        "page": "https://dir.indiamart.com/impcat/opal-cabochon.html",
+        "thumbnail": "http://4.imimg.com/data4/GL/YS/GLADMIN-180499/opal-cabochon-125x125.jpg"
+      },
+      {
+        "name": "Labradorite Cabochon",
+        "page": "https://dir.indiamart.com/impcat/labradorite-cabochon.html",
+        "thumbnail": "http://4.imimg.com/data4/LS/WH/GLADMIN-180500/labradorite-cabochon-125x125.jpg"
+      },
+      {
+        "name": "Moonstone Cabochon",
+        "page": "https://dir.indiamart.com/impcat/moonstone-cabochon.html",
+        "thumbnail": "http://5.imimg.com/data5/FQ/UA/GLADMIN-2/moonstone-cabochon-125x125.jpg"
+      },
+      {
+        "name": "Morganite Stone",
+        "page": "https://dir.indiamart.com/impcat/morganite-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/LO/XT/GLADMIN-2/morganite-125x125.jpg"
+      },
+      {
+        "name": "Prehnite",
+        "page": "https://dir.indiamart.com/impcat/prehnite.html",
+        "thumbnail": "http://5.imimg.com/data5/DJ/BU/FA/GLADMIN-68155/prehnite-125x125.jpg"
+      },
+      {
+        "name": "Chrysoberyl Stone",
+        "page": "https://dir.indiamart.com/impcat/chrysoberyl-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/RA/YA/GLADMIN-13770/chrysoberyl-stone-125x125.jpg"
+      },
+      {
+        "name": "Ceylon Gemstone",
+        "page": "https://dir.indiamart.com/impcat/ceylon-gemstone.html",
+        "thumbnail": "http://5.imimg.com/data5/SU/SG/IR/GLADMIN-56986/ceylon-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Watermelon Tourmaline Gemstone",
+        "page": "https://dir.indiamart.com/impcat/watermelon-tourmaline-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/EB/BM/GLADMIN-137542/watermelon-tourmaline-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Citrine Faceted Stone",
+        "page": "https://dir.indiamart.com/impcat/citrine-faceted-stone.html",
+        "thumbnail": "http://4.imimg.com/data4/LL/XE/GLADMIN-180505/citrine-faceted-stone-125x125.jpg"
+      },
+      {
+        "name": "Nephrite Stone",
+        "page": "https://dir.indiamart.com/impcat/nephrite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/OM/FX/GLADMIN-13076/nephrite-stone-125x125.jpg"
+      },
+      {
+        "name": "Indian Gem",
+        "page": "https://dir.indiamart.com/impcat/indian-gem.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/LU/GLADMIN-126382/indian-gem-125x125.jpg"
+      },
+      {
+        "name": "Rubellite Stone",
+        "page": "https://dir.indiamart.com/impcat/rubellite-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/AJ/OI/GLADMIN-2/rub-125x125.jpg"
+      },
+      {
+        "name": "Silver Gemstone",
+        "page": "https://dir.indiamart.com/impcat/silver-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/MP/BD/GLADMIN-96211/silver-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Pietersite Gemstone",
+        "page": "https://dir.indiamart.com/impcat/pietersite-gemstone.html",
+        "thumbnail": "http://5.imimg.com/data5/RW/BY/RE/GLADMIN-68087/pietersite-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Bronzite Gemstone",
+        "page": "https://dir.indiamart.com/impcat/bronzite-gemstone.html",
+        "thumbnail": "http://5.imimg.com/data5/MB/FO/XC/GLADMIN-68087/bronzite-gemstone-125x125.png"
+      },
+      {
+        "name": "Green Amber",
+        "page": "https://dir.indiamart.com/impcat/green-amber.html",
+        "thumbnail": "http://3.imimg.com/data3/FA/JK/GLADMIN-29807/green-amber-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Precious Stone",
+    "category_thumbnail": "http://3.imimg.com/data3/VL/QT/GLADMIN-8597/precious-stone-125x125.jpg",
+    "items": [
+      {
+        "name": "Ruby Gemstone",
+        "page": "https://dir.indiamart.com/impcat/ruby-gemstone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/AB/RA/FN/86648/ruby-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Emerald",
+        "page": "https://dir.indiamart.com/impcat/emerald.html",
+        "thumbnail": "http://3.imimg.com/data3/UB/CO/GLADMIN-80280/emerald-125x125.jpg"
+      },
+      {
+        "name": "Precious Gemstones",
+        "page": "https://dir.indiamart.com/impcat/precious-gemstones.html",
+        "thumbnail": "http://3.imimg.com/data3/GN/JU/GLADMIN-8596/precious-gemstones-125x125.jpg"
+      },
+      {
+        "name": "Cats Eye Stone",
+        "page": "https://dir.indiamart.com/impcat/cats-eye-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/EO/GG/GLADMIN-162577/cats-eye-stone-125x125.jpg"
+      },
+      {
+        "name": "Sapphire Gemstone",
+        "page": "https://dir.indiamart.com/impcat/sapphire-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/RR/EN/GLADMIN-81092/sapphire-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Alexandrite Gemstones",
+        "page": "https://dir.indiamart.com/impcat/alexandrite-gemstones.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/HI/GLADMIN-154024/alexandrite-gemstones-125x125.jpg"
+      },
+      {
+        "name": "Ruby Zoisite Gemstone",
+        "page": "https://dir.indiamart.com/impcat/ruby-zoisite-gemstone.html",
+        "thumbnail": "http://5.imimg.com/data5/IJ/LP/KW/GLADMIN-72666/ruby-zoisite-gemstone-125x125.png"
+      }
+    ]
+  },
+  {
+    "category_name": "Sapphire Gemstone",
+    "category_thumbnail": "http://3.imimg.com/data3/RR/EN/GLADMIN-81092/sapphire-gemstone-125x125.jpg",
+    "items": [
+      {
+        "name": "Yellow Sapphire",
+        "page": "https://dir.indiamart.com/impcat/yellow-sapphire.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/XA/EP/CV/92368/yellow-sapphire-125x125.jpg"
+      },
+      {
+        "name": "Blue Sapphire",
+        "page": "https://dir.indiamart.com/impcat/blue-sapphire.html",
+        "thumbnail": "http://3.imimg.com/data3/WO/XE/GLADMIN-4486/blue-sapphire-125x125.jpg"
+      },
+      {
+        "name": "Ceylon Sapphire Gemstone",
+        "page": "https://dir.indiamart.com/impcat/ceylon-sapphire-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/BX/GJ/GLADMIN-157279/ceylon-sapphire-gemstone-125x125.jpg"
+      },
+      {
+        "name": "White Sapphire",
+        "page": "https://dir.indiamart.com/impcat/white-sapphire.html",
+        "thumbnail": "http://5.imimg.com/data5/MK/SQ/GLADMIN-2/white-sapphire-125x125.jpg"
+      },
+      {
+        "name": "Bangkok Blue Sapphire",
+        "page": "https://dir.indiamart.com/impcat/bangkok-blue-sapphire.html",
+        "thumbnail": "http://5.imimg.com/data5/DW/EH/GV/GLADMIN-68155/bangkok-blue-sapphire-125x125.jpg"
+      },
+      {
+        "name": "Pink Sapphire Stone",
+        "page": "https://dir.indiamart.com/impcat/pink-sapphire-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/NM/AR/GLADMIN-2/pink-125x125.jpg"
+      },
+      {
+        "name": "Corundum",
+        "page": "https://dir.indiamart.com/impcat/corundum.html",
+        "thumbnail": "http://3.imimg.com/data3/VE/CO/GLADMIN-122171/corundum-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Quartz Stone",
+    "category_thumbnail": "http://5.imimg.com/data5/JX/HY/GLADMIN-2/quartz-125x125.jpg",
+    "items": [
+      {
+        "name": "Rose Quartz",
+        "page": "https://dir.indiamart.com/impcat/rose-quartz.html",
+        "thumbnail": "http://5.imimg.com/data5/KF/VL/GLADMIN-2/rosequartz-125x125.jpg"
+      },
+      {
+        "name": "Amethyst Stone",
+        "page": "https://dir.indiamart.com/impcat/amethyst-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/TW/LL/GLADMIN-2/amethyst-125x125.jpg"
+      },
+      {
+        "name": "Citrine Stone",
+        "page": "https://dir.indiamart.com/impcat/citrine-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/VM/FF/GLADMIN-2/citrine-125x125.jpg"
+      },
+      {
+        "name": "Prasiolite Stone",
+        "page": "https://dir.indiamart.com/impcat/prasiolite-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/UG/FL/GLADMIN-18314/prasiolite-stone-125x125.jpg"
+      },
+      {
+        "name": "Druzy Quartz Stone",
+        "page": "https://dir.indiamart.com/impcat/druzy-quartz-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/MD/OS/GLADMIN-13829/druzy-quartz-stone-125x125.jpg"
+      },
+      {
+        "name": "Rutilite Stone",
+        "page": "https://dir.indiamart.com/impcat/rutilite-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/DS/GE/GLADMIN-2/rutile-125x125.jpg"
+      },
+      {
+        "name": "Lemon Quartz",
+        "page": "https://dir.indiamart.com/impcat/lemon-quartz.html",
+        "thumbnail": "http://5.imimg.com/data5/PH/XN/GLADMIN-2/lemon-125x125.jpg"
+      },
+      {
+        "name": "Quartz Gemstone Cabochon",
+        "page": "https://dir.indiamart.com/impcat/quartz-gemstone-cabochon.html",
+        "thumbnail": "http://3.imimg.com/data3/LJ/RV/GLADMIN-154652/quartz-gemstone-cabochon-125x125.jpg"
+      },
+      {
+        "name": "Druzy Gemstone",
+        "page": "https://dir.indiamart.com/impcat/druzy-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/TJ/GLADMIN-138864/druzy-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Black Rutile",
+        "page": "https://dir.indiamart.com/impcat/black-rutile.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2024/4/406916741/JF/QN/EQ/96809/black-rutile-125x125.jpg"
+      },
+      {
+        "name": "Druzy Titanium Stone",
+        "page": "https://dir.indiamart.com/impcat/druzy-titanium-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/DM/DW/GLADMIN-13830/druzy-titanium-stone-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Pearl Stone",
+    "category_thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/TI/ML/LA/92368/pearl-stone-125x125.jpg",
+    "items": [
+      {
+        "name": "Freshwater Pearl",
+        "page": "https://dir.indiamart.com/impcat/freshwater-pearl.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/6/VG/OS/TK/92368/freshwater-pearl-125x125.jpg"
+      },
+      {
+        "name": "South Sea Pearl",
+        "page": "https://dir.indiamart.com/impcat/south-sea-pearl.html",
+        "thumbnail": "http://3.imimg.com/data3/YD/GA/GLADMIN-74571/south-sea-pearl-125x125.jpg"
+      },
+      {
+        "name": "Loose Pearl",
+        "page": "https://dir.indiamart.com/impcat/loose-pearl.html",
+        "thumbnail": "http://3.imimg.com/data3/WW/AR/GLADMIN-80658/loose-pearl-125x125.jpg"
+      },
+      {
+        "name": "Sea Pearl",
+        "page": "https://dir.indiamart.com/impcat/sea-pearl.html",
+        "thumbnail": "http://5.imimg.com/data5/QO/RM/GLADMIN-2/pearl-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Synthetic Stone",
+    "category_thumbnail": "http://3.imimg.com/data3/VA/RL/GLADMIN-2890/synthetic-stone-125x125.jpg",
+    "items": [
+      {
+        "name": "Hot Fix Rhinestone",
+        "page": "https://dir.indiamart.com/impcat/hot-fix-rhinestone.html",
+        "thumbnail": "http://3.imimg.com/data3/UK/FN/GLADMIN-107850/hot-fix-rhinestone-125x125.jpg"
+      },
+      {
+        "name": "Rhinestone",
+        "page": "https://dir.indiamart.com/impcat/rhinestone.html",
+        "thumbnail": "http://3.imimg.com/data3/ES/UE/GLADMIN-55989/rhinestone-125x125.jpg"
+      },
+      {
+        "name": "Resin Stones",
+        "page": "https://dir.indiamart.com/impcat/resin-stones.html",
+        "thumbnail": "http://5.imimg.com/data5/AI/JM/GLADMIN-2/resin-stones-125x125.jpg"
+      },
+      {
+        "name": "Imitation Pearl",
+        "page": "https://dir.indiamart.com/impcat/imitation-pearl.html",
+        "thumbnail": "http://4.imimg.com/data4/NT/RK/GLADMIN-64879/imitation-pearl-125x125.jpg"
+      },
+      {
+        "name": "Acrylic Rhinestone",
+        "page": "https://dir.indiamart.com/impcat/acrylic-rhinestone.html",
+        "thumbnail": "http://3.imimg.com/data3/LX/WB/GLADMIN-50123/acrylic-rhinestone-125x125.jpg"
+      },
+      {
+        "name": "Rhinestud",
+        "page": "https://dir.indiamart.com/impcat/rhinestud.html",
+        "thumbnail": "http://4.imimg.com/data4/DB/WR/GLADMIN-84909/rhinestud-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Rough Gemstone",
+    "category_thumbnail": "http://3.imimg.com/data3/AA/SG/GLADMIN-81049/rough-gemstone-125x125.jpg",
+    "items": [
+      {
+        "name": "Rough Stones",
+        "page": "https://dir.indiamart.com/impcat/rough-stones.html",
+        "thumbnail": "http://3.imimg.com/data3/RE/YK/GLADMIN-8269/rough-stones-125x125.jpg"
+      },
+      {
+        "name": "Rough Emerald",
+        "page": "https://dir.indiamart.com/impcat/rough-emerald.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/YS/GLADMIN-69815/rough-emerald-125x125.jpg"
+      },
+      {
+        "name": "Rough Ruby",
+        "page": "https://dir.indiamart.com/impcat/rough-ruby.html",
+        "thumbnail": "http://3.imimg.com/data3/OG/NQ/GLADMIN-163166/rough-ruby-125x125.jpg"
+      },
+      {
+        "name": "Kyanite Rough",
+        "page": "https://dir.indiamart.com/impcat/kyanite-rough.html",
+        "thumbnail": "http://3.imimg.com/data3/LM/QP/GLADMIN-122365/kyanite-rough-125x125.jpg"
+      },
+      {
+        "name": "Rough Bloodstone",
+        "page": "https://dir.indiamart.com/impcat/rough-bloodstone.html",
+        "thumbnail": "http://3.imimg.com/data3/CX/WX/GLADMIN-160203/rough-bloodstone-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Amethyst Stone",
+    "category_thumbnail": "http://5.imimg.com/data5/TW/LL/GLADMIN-2/amethyst-125x125.jpg",
+    "items": [
+      {
+        "name": "Amethyst Geodes",
+        "page": "https://dir.indiamart.com/impcat/amethyst-geodes.html",
+        "thumbnail": "http://3.imimg.com/data3/LG/PA/GLADMIN-151699/amethyst-geodes-125x125.jpg"
+      },
+      {
+        "name": "African Amethyst",
+        "page": "https://dir.indiamart.com/impcat/african-amethyst.html",
+        "thumbnail": "http://5.imimg.com/data5/MG/UK/GLADMIN-2/african-am-125x125.jpg"
+      },
+      {
+        "name": "Green Amethyst",
+        "page": "https://dir.indiamart.com/impcat/green-amethyst.html",
+        "thumbnail": "http://5.imimg.com/data5/CO/FX/GLADMIN-2/green-125x125.jpg"
+      },
+      {
+        "name": "Brazilian Amethyst",
+        "page": "https://dir.indiamart.com/impcat/brazilian-amethyst.html",
+        "thumbnail": "http://4.imimg.com/data4/IA/DT/GLADMIN-180502/brazilian-amethyst-125x125.jpg"
+      },
+      {
+        "name": "Amethyst Pencil",
+        "page": "https://dir.indiamart.com/impcat/amethyst-pencil.html",
+        "thumbnail": "http://5.imimg.com/data5/ZE/TE/KF/GLADMIN-76037/amethyst-pencil-125x125.jpg"
+      },
+      {
+        "name": "Banded Amethyst",
+        "page": "https://dir.indiamart.com/impcat/banded-amethyst.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/BU/GLADMIN-146970/banded-amethyst-125x125.jpg"
+      },
+      {
+        "name": "Amethyst Pendulum",
+        "page": "https://dir.indiamart.com/impcat/amethyst-pendulum.html",
+        "thumbnail": "http://4.imimg.com/data4/FR/BJ/GLADMIN-2/amethyst-pendulum-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Garnet Stone",
+    "category_thumbnail": "http://3.imimg.com/data3/OV/WL/GLADMIN-11926/garnet-stone-125x125.jpg",
+    "items": [
+      {
+        "name": "Gomed Gemstone",
+        "page": "https://dir.indiamart.com/impcat/gomed-gemstone.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/OK/SI/IA/92375/gomed-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Hessonite",
+        "page": "https://dir.indiamart.com/impcat/hessonite.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/VM/GLADMIN-162567/hessonite-125x125.jpg"
+      },
+      {
+        "name": "Rhodolite Garnet Gemstones",
+        "page": "https://dir.indiamart.com/impcat/rhodolite-garnet-gemstones.html",
+        "thumbnail": "http://3.imimg.com/data3/UN/LT/GLADMIN-138797/rhodolite-garnet-gemstones-125x125.jpg"
+      },
+      {
+        "name": "Tsavorite Gemstone",
+        "page": "https://dir.indiamart.com/impcat/tsavorite-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/BA/AB/GLADMIN-148949/tsavorite-gemstone-125x125.jpg"
+      },
+      {
+        "name": "River Garnet",
+        "page": "https://dir.indiamart.com/impcat/river-garnet.html",
+        "thumbnail": "http://3.imimg.com/data3/IE/TF/GLADMIN-126599/river-garnet-125x125.jpg"
+      },
+      {
+        "name": "Almandine Garnet",
+        "page": "https://dir.indiamart.com/impcat/almandine-garnet.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/CK/GLADMIN-126649/almandine-garnet-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Cut Gemstone",
+    "category_thumbnail": "http://3.imimg.com/data3/NC/CO/GLADMIN-12681/cut-gem-stone-125x125.jpg",
+    "items": [
+      {
+        "name": "Cabochon Stone",
+        "page": "https://dir.indiamart.com/impcat/cabochon-stone.html",
+        "thumbnail": "http://3.imimg.com/data3/TE/XQ/GLADMIN-137517/cabochon-stone-125x125.jpg"
+      },
+      {
+        "name": "Oval Cut Gemstone",
+        "page": "https://dir.indiamart.com/impcat/oval-cut-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/VN/HV/GLADMIN-119223/oval-cut-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Precious Cut Stones",
+        "page": "https://dir.indiamart.com/impcat/precious-cut-stones.html",
+        "thumbnail": "http://3.imimg.com/data3/AJ/UO/GLADMIN-8595/precious-cut-stones-125x125.jpg"
+      },
+      {
+        "name": "Round Cut Gemstone",
+        "page": "https://dir.indiamart.com/impcat/round-cut-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/HQ/GU/GLADMIN-119252/round-cut-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Rose Cut Gemstone",
+        "page": "https://dir.indiamart.com/impcat/rose-cut-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/AE/HO/GLADMIN-119251/rose-cut-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Square Cut Gemstone",
+        "page": "https://dir.indiamart.com/impcat/square-cut-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/OP/GX/GLADMIN-119268/square-cut-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Cushion Cut Gemstone",
+        "page": "https://dir.indiamart.com/impcat/cushion-cut-gemstone.html",
+        "thumbnail": "http://3.imimg.com/data3/BD/CJ/GLADMIN-119147/cushion-cut-gemstone-125x125.jpg"
+      },
+      {
+        "name": "Gemstone Briolettes",
+        "page": "https://dir.indiamart.com/impcat/gemstone-briolettes.html",
+        "thumbnail": "http://5.imimg.com/data5/TS/CW/GLADMIN-2/bri-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Agate Stone",
+    "category_thumbnail": "http://3.imimg.com/data3/SI/CW/GLADMIN-3168/agate-stone-125x125.jpg",
+    "items": [
+      {
+        "name": "Agate Slices",
+        "page": "https://dir.indiamart.com/impcat/agate-slices.html",
+        "thumbnail": "http://5.imimg.com/data5/DD/FI/GLADMIN-2/agate-slices-natural-500x500-125x125.jpg"
+      },
+      {
+        "name": "Tree Agate",
+        "page": "https://dir.indiamart.com/impcat/tree-agate.html",
+        "thumbnail": "http://5.imimg.com/data5/GG/GG/GLADMIN-/tree-agate-125x125.jpg"
+      },
+      {
+        "name": "Agate Tumbled Stone",
+        "page": "https://dir.indiamart.com/impcat/agate-tumbled-stone.html",
+        "thumbnail": "http://5.imimg.com/data5/XD/VR/SF/GLADMIN-76037/agate-tumbled-stone-125x125.jpg"
+      },
+      {
+        "name": "Agate Strand",
+        "page": "https://dir.indiamart.com/impcat/agate-strand.html",
+        "thumbnail": "http://3.imimg.com/data3/UT/TJ/GLADMIN-80531/agate-strand-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Topaz Stone",
+    "category_thumbnail": "http://3.imimg.com/data3/GQ/YP/MY-2/topaz-stone-125x125.jpg",
+    "items": [
+      {
+        "name": "Blue Topaz",
+        "page": "https://dir.indiamart.com/impcat/blue-topaz.html",
+        "thumbnail": "http://3.imimg.com/data3/VF/CN/MY-2/blue-topaz-125x125.jpg"
+      },
+      {
+        "name": "Yellow Topaz",
+        "page": "https://dir.indiamart.com/impcat/yellow-topaz.html",
+        "thumbnail": "http://3.imimg.com/data3/FG/EP/GLADMIN-177663/yellow-topaz-125x125.jpg"
+      },
+      {
+        "name": "London Blue Topaz",
+        "page": "https://dir.indiamart.com/impcat/london-blue-topaz.html",
+        "thumbnail": "http://5.imimg.com/data5/LV/ST/GLADMIN-2/blue-125x125.jpg"
+      },
+      {
+        "name": "Golden Topaz",
+        "page": "https://dir.indiamart.com/impcat/golden-topaz.html",
+        "thumbnail": "http://4.imimg.com/data4/EV/DR/GLADMIN-184035/golden-topaz-125x125.jpg"
+      }
+    ]
+  }
+]

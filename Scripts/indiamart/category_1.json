@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Drugs & Pharmaceuticals",
+    "page": "https://dir.indiamart.com/industry/drugs-medicines.html",
+    "thumbnail": "https://hm.imimg.com/imhome_gifs/bigBn06.jpg"
+  },
+  {
+    "name": "Hospital & Diagnostics",
+    "page": "https://dir.indiamart.com/industry/medical-pharma.html",
+    "thumbnail": "https://hm.imimg.com/imhome_gifs/bigBn04.jpg"
+  },
+  {
+    "name": "Food & Beverages",
+    "page": "https://dir.indiamart.com/industry/agro-farm.html",
+    "thumbnail": "https://hm.imimg.com/imhome_gifs/vegetable-fruits.png"
+  },
+  {
+    "name": "Industrial Plants & Machinery",
+    "page": "https://dir.indiamart.com/industry/plant-machinery.html",
+    "thumbnail": "https://hm.imimg.com/imhome_gifs/industrial-plants-machinery.jpg"
+  },
+  {
+    "name": "Industrial Supplies",
+    "page": "https://dir.indiamart.com/industry/industrial-supplies.html",
+    "thumbnail": "https://utils.imimg.com/imsrchui/images/group-imgs/industrial-supplies.jpg"
+  },
+  {
+    "name": "Building & Construction",
+    "page": "https://dir.indiamart.com/industry/builders-hardware.html",
+    "thumbnail": "https://dir.imimg.com/images/Building_Construction.jpg"
+  },
+  {
+    "name": "Apparel & Garments",
+    "page": "https://dir.indiamart.com/industry/apparel-garments.html",
+    "thumbnail": "https://hm.imimg.com/imhome_gifs/apparel-clothing-garments.jpg"
+  },
+  {
+    "name": "Electronics & Electrical",
+    "page": "https://dir.indiamart.com/industry/electronic-goods.html",
+    "thumbnail": "https://hm.imimg.com/imhome_gifs/electronics-electrical-goods.jpg"
+  },
+  {
+    "name": "Packaging Machines & Goods",
+    "page": "https://dir.indiamart.com/industry/packaging-material.html",
+    "thumbnail": "https://hm.imimg.com/imhome_gifs/bigBn05.jpg"
+  },
+  {
+    "name": "Chemicals, Dyes & Solvents",
+    "page": "https://dir.indiamart.com/industry/chemicals-fertilizers.html",
+    "thumbnail": "https://hm.imimg.com/imhome_gifs/bigBn03.jpg"
+  },
+  {
+    "name": "Mechanical Parts & Spares",
+    "page": "https://dir.indiamart.com/industry/mechanical-components.html",
+    "thumbnail": "https://dir.imimg.com/images/mechnical_parts_spares.jpg"
+  },
+  {
+    "name": "Lab Instruments & Supplies",
+    "page": "https://dir.indiamart.com/industry/scientific-instruments.html",
+    "thumbnail": "https://dir.imimg.com/images/Lab_Instruments_Supplies.jpg"
+  },
+  {
+    "name": "Furniture & Supplies",
+    "page": "https://dir.indiamart.com/industry/furniture.html",
+    "thumbnail": "https://dir.imimg.com/images/Furniture_Supplies.jpg"
+  },
+  {
+    "name": "Automobile, Parts & Spares",
+    "page": "https://dir.indiamart.com/industry/automobiles-spares.html",
+    "thumbnail": "https://dir.imimg.com/images/Automobile_Parts_Spares.jpg"
+  },
+  {
+    "name": "Agriculture & Farming",
+    "page": "https://dir.indiamart.com/industry/agro-poultry-dairy.html",
+    "thumbnail": "https://dir.imimg.com/images/Agriculture_Farming.jpg"
+  },
+  {
+    "name": "Housewares & Supplies",
+    "page": "https://dir.indiamart.com/industry/home-supplies.html",
+    "thumbnail": "https://dir.imimg.com/images/Housewares_Supplies.jpg"
+  },
+  {
+    "name": "Metals, Alloys & Minerals",
+    "page": "https://dir.indiamart.com/industry/ores-metals.html",
+    "thumbnail": "https://dir.imimg.com/images/Metals_Alloys_Minerals.jpg"
+  },
+  {
+    "name": "Hand & Machine Tools",
+    "page": "https://dir.indiamart.com/industry/hand-tools.html",
+    "thumbnail": "https://dir.imimg.com/images/Hand_Machine_Tools.jpg"
+  },
+  {
+    "name": "Handicrafts & Decoratives",
+    "page": "https://dir.indiamart.com/industry/handicrafts-gifts.html",
+    "thumbnail": "https://dir.imimg.com/images/Handicrafts_Decoratives.jpg"
+  },
+  {
+    "name": "Kitchen Utensils & Appliances",
+    "page": "https://dir.indiamart.com/industry/kitchen-utensils-cookware.html",
+    "thumbnail": "https://dir.imimg.com/images/Kitchen_Utensils_Appliances.jpg"
+  },
+  {
+    "name": "Textiles, Yarn & Fabrics",
+    "page": "https://dir.indiamart.com/industry/textiles-yarn.html",
+    "thumbnail": "https://dir.imimg.com/images/Textiles_Yarn_Fabrics.jpg"
+  },
+  {
+    "name": "Books & Stationery",
+    "page": "https://dir.indiamart.com/industry/printing-publishing.html",
+    "thumbnail": "https://dir.imimg.com/images/Books_Stationery.jpg"
+  },
+  {
+    "name": "Cosmetics & Personal Care",
+    "page": "https://dir.indiamart.com/industry/cosmetics-toiletries.html",
+    "thumbnail": "https://dir.imimg.com/images/Cosmetics_Personal_Care.jpg"
+  },
+  {
+    "name": "Home Textile & Furnishing",
+    "page": "https://dir.indiamart.com/industry/home-furnishings.html",
+    "thumbnail": "https://dir.imimg.com/images/Home_Textile_Furnishing.jpg"
+  },
+  {
+    "name": "Engineering Services",
+    "page": "https://dir.indiamart.com/industry/fabrication.html",
+    "thumbnail": "https://4.imimg.com/data4/UA/IV/GLADMIN-2/728_welding-_soldering_and_brazing_service-500x500.jpg"
+  },
+  {
+    "name": "Gems, Jewelry & Astrology",
+    "page": "https://dir.indiamart.com/industry/gems-jewellery.html",
+    "thumbnail": "https://dir.imimg.com/images/Gems_Jewelry_Astrology.jpg"
+  },
+  {
+    "name": "Computer & IT Solutions",
+    "page": "https://dir.indiamart.com/industry/computer-hardware.html",
+    "thumbnail": "https://dir.imimg.com/images/Computer_ITSolutions.jpg"
+  },
+  {
+    "name": "Fashion Accessories & Gear",
+    "page": "https://dir.indiamart.com/industry/fashion-accessories.html",
+    "thumbnail": "https://dir.imimg.com/images/Fashion_Accessories_Gear.jpg"
+  },
+  {
+    "name": "Herbal & Ayurvedic Product",
+    "page": "https://dir.indiamart.com/industry/ayurvedic-herbal.html",
+    "thumbnail": "https://dir.imimg.com/images/Herbal_Ayurvedic_Product.jpg"
+  },
+  {
+    "name": "Security Systems & Services",
+    "page": "https://dir.indiamart.com/industry/security-device.html",
+    "thumbnail": "https://dir.imimg.com/images/Security_Systems_Services.jpg"
+  },
+  {
+    "name": "Sports Goods, Toys & Games",
+    "page": "https://dir.indiamart.com/industry/sports-goods.html",
+    "thumbnail": "https://dir.imimg.com/images/Sports_Goods_Toys_Games.jpg"
+  },
+  {
+    "name": "Telecom Equipment & Goods",
+    "page": "https://dir.indiamart.com/industry/telecom-products.html",
+    "thumbnail": "https://3.imimg.com/data3/GU/MC/GLADMIN-2/89_telecommunication-equipment-and-parts-500x500.jpg"
+  },
+  {
+    "name": "Paper & Paper Products",
+    "page": "https://dir.indiamart.com/industry/paper.html",
+    "thumbnail": "https://dir.imimg.com/images/Paper_Paper_Products.jpg"
+  },
+  {
+    "name": "Bags, Belts & Wallets",
+    "page": "https://dir.indiamart.com/industry/bags-belts-wallets.html",
+    "thumbnail": "https://dir.imimg.com/images/Bags_Belts_Wallets.jpg"
+  },
+  {
+    "name": "Media, PR & Publishing",
+    "page": "https://dir.indiamart.com/industry/media-advertising.html",
+    "thumbnail": "https://dir.imimg.com/images/Media_PR_Publishing.jpg"
+  },
+  {
+    "name": "Marble, Granite & Stones",
+    "page": "https://dir.indiamart.com/industry/stones-marble.html",
+    "thumbnail": "https://dir.imimg.com/images/Marble_Granite_Stones.jpg"
+  },
+  {
+    "name": "Event Planner & Organizer",
+    "page": "https://dir.indiamart.com/industry/trade-promotion.html",
+    "thumbnail": "https://dir.imimg.com/images/event_planner_organizers.jpg"
+  },
+  {
+    "name": "IT & Telecom Services",
+    "page": "https://dir.indiamart.com/industry/it-services.html",
+    "thumbnail": "https://dir.imimg.com/images/Telecom_Equipment_Goods.jpg"
+  },
+  {
+    "name": "Product Rental & Leasing",
+    "page": "https://dir.indiamart.com/industry/rental-services.html",
+    "thumbnail": "https://dir.imimg.com/images/Product_Rental_Leasing.jpg"
+  },
+  {
+    "name": "Transportation & Logistics",
+    "page": "https://dir.indiamart.com/industry/packers-movers.html",
+    "thumbnail": "https://dir.imimg.com/images/Transportation_Logistics.jpg"
+  },
+  {
+    "name": "Business & Audit Services",
+    "page": "https://dir.indiamart.com/industry/business-facilitation.html",
+    "thumbnail": "https://dir.imimg.com/images/Business_Audit_Services.jpg"
+  },
+  {
+    "name": "Financial & Legal Services",
+    "page": "https://dir.indiamart.com/industry/finance-law.html",
+    "thumbnail": "https://dir.imimg.com/images/Financial_Legal_Services.jpg"
+  },
+  {
+    "name": "Education & Training",
+    "page": "https://dir.indiamart.com/industry/education-training.html",
+    "thumbnail": "https://dir.imimg.com/images/Education_Training.jpg"
+  },
+  {
+    "name": "Travel, Tourism & Hotels",
+    "page": "https://dir.indiamart.com/industry/travel-tourism.html",
+    "thumbnail": "https://dir.imimg.com/images/Travel_Tourism_Hotels.jpg"
+  },
+  {
+    "name": "Call Center & BPO Services",
+    "page": "https://dir.indiamart.com/industry/callcenter-bpo.html",
+    "thumbnail": "https://dir.imimg.com/images/CallCenter_BPO_Services.jpg"
+  },
+  {
+    "name": "Bicycle, Rickshaw & Spares",
+    "page": "https://dir.indiamart.com/industry/bicycles-rickshaws.html",
+    "thumbnail": "https://dir.imimg.com/images/Bicycle_Rickshaw_Spares.jpg"
+  },
+  {
+    "name": "R&D and Testing Labs",
+    "page": "https://dir.indiamart.com/industry/research-development.html",
+    "thumbnail": "https://dir.imimg.com/images/RnD_Testing_Labs.jpg"
+  },
+  {
+    "name": "Architecture & Interiors",
+    "page": "https://dir.indiamart.com/industry/architectural-designing.html",
+    "thumbnail": "https://dir.imimg.com/images/Architecture_Interiors.jpg"
+  },
+  {
+    "name": "HR Planning & Recruitment",
+    "page": "https://dir.indiamart.com/industry/human-resource.html",
+    "thumbnail": "https://dir.imimg.com/images/HR_Planning_Recruitment.jpg"
+  },
+  {
+    "name": "Rail, Shipping & Aviation",
+    "page": "https://dir.indiamart.com/industry/transportation.html",
+    "thumbnail": "https://dir.imimg.com/images/Rail_Shipping_Aviation.jpg"
+  },
+  {
+    "name": "House Keeping Services",
+    "page": "https://dir.indiamart.com/industry/facility-management.html",
+    "thumbnail": "https://hm.imimg.com/imhome_gifs/bigBn02.jpg"
+  },
+  {
+    "name": "Leather Products",
+    "page": "https://dir.indiamart.com/industry/leather.html",
+    "thumbnail": "https://dir.imimg.com/images/Leather_Products.jpg"
+  },
+  {
+    "name": "Contractors & Freelancers",
+    "page": "https://dir.indiamart.com/industry/small-businesses.html",
+    "thumbnail": "https://dir.imimg.com/images/Contractors_Freelancers.jpg"
+  },
+  {
+    "name": "Electronics Components",
+    "page": "https://dir.indiamart.com/industry/electronics-components-supplies.html",
+    "thumbnail": "https://dir.imimg.com/images/Electronics_Components.jpg"
+  },
+  {
+    "name": "Electrical Equipment",
+    "page": "https://dir.indiamart.com/industry/electrical-equipment-supplies.html",
+    "thumbnail": "https://dir.imimg.com/images/Electrical_Equipment.jpg"
+  },
+  {
+    "name": "Hospital,Clinic & Consultation",
+    "page": "https://dir.indiamart.com/industry/hospital-consultation.html",
+    "thumbnail": "https://dir.imimg.com/images/Hospital_Clinic_Consultation.jpg"
+  }
+]

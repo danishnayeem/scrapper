@@ -1,0 +1,513 @@
+[
+  {
+    "category_name": "Antenna",
+    "category_thumbnail": "http://3.imimg.com/data3/ND/XN/MY-2/antenna-125x125.jpg",
+    "items": [
+      {
+        "name": "Dish Antenna",
+        "page": "https://dir.indiamart.com/impcat/dish-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/GH/GC/GLADMIN-15471/dish-antenna-125x125.jpg"
+      },
+      {
+        "name": "Car Antenna",
+        "page": "https://dir.indiamart.com/impcat/car-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/UH/JT/GLADMIN-23333/car-antenna-125x125.jpg"
+      },
+      {
+        "name": "Log Periodic Antenna",
+        "page": "https://dir.indiamart.com/impcat/log-periodic-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/XQ/OF/GLADMIN-17209/log-periodic-antenna-125x125.jpg"
+      },
+      {
+        "name": "Mobile Antennas",
+        "page": "https://dir.indiamart.com/impcat/mobile-antennas.html",
+        "thumbnail": "http://3.imimg.com/data3/RJ/UM/GLADMIN-33162/mobile-antennas-125x125.jpg"
+      },
+      {
+        "name": "Outdoor Antenna",
+        "page": "https://dir.indiamart.com/impcat/outdoor-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/EE/SO/GLADMIN-34111/outdoor-antenna-125x125.jpg"
+      },
+      {
+        "name": "Wireless Antenna",
+        "page": "https://dir.indiamart.com/impcat/wireless-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/KF/XI/GLADMIN-41141/wireless-antenna-125x125.jpg"
+      },
+      {
+        "name": "Sector Antenna",
+        "page": "https://dir.indiamart.com/impcat/sector-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/VX/SG/GLADMIN-45883/sector-antenna-125x125.jpg"
+      },
+      {
+        "name": "TV Antenna",
+        "page": "https://dir.indiamart.com/impcat/tv-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/VU/QB/GLADMIN-19773/tv-antenna-125x125.jpg"
+      },
+      {
+        "name": "Omnidirectional Antenna",
+        "page": "https://dir.indiamart.com/impcat/omnidirectional-antenna.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/12/PU/PV/IR/49660/omnidirectional-antenna-125x125.webp"
+      },
+      {
+        "name": "GSM Antenna",
+        "page": "https://dir.indiamart.com/impcat/gsm-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/KP/MY-2/gsm-antenna-125x125.jpg"
+      },
+      {
+        "name": "Directional Antenna",
+        "page": "https://dir.indiamart.com/impcat/directional-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/SK/VC/GLADMIN-13934/directional-antenna-125x125.jpg"
+      },
+      {
+        "name": "VHF Antennas",
+        "page": "https://dir.indiamart.com/impcat/vhf-antennas.html",
+        "thumbnail": "http://3.imimg.com/data3/UO/QO/GLADMIN-39054/vhf-antennas-125x125.jpg"
+      },
+      {
+        "name": "GSM Magnetic Antenna",
+        "page": "https://dir.indiamart.com/impcat/gsm-magnetic-antenna.html",
+        "thumbnail": "http://4.imimg.com/data4/QI/IM/GLADMIN-181178/gsm-magnetic-antenna-125x125.jpg"
+      },
+      {
+        "name": "Yagi Antenna",
+        "page": "https://dir.indiamart.com/impcat/yagi-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/NP/FI/GLADMIN-20378/yagi-antenna-125x125.jpg"
+      },
+      {
+        "name": "Rubber Duck Antenna",
+        "page": "https://dir.indiamart.com/impcat/rubber-duck-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/EN/CQ/GLADMIN-36586/rubber-duck-antenna-125x125.jpg"
+      },
+      {
+        "name": "Mobile Phone Antenna",
+        "page": "https://dir.indiamart.com/impcat/mobile-phone-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/RW/TC/GLADMIN-32815/mobile-phone-antenna-125x125.jpg"
+      },
+      {
+        "name": "UHF Antenna",
+        "page": "https://dir.indiamart.com/impcat/uhf-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/FL/OR/GLADMIN-19792/uhf-antenna-125x125.jpg"
+      },
+      {
+        "name": "Grid Antenna",
+        "page": "https://dir.indiamart.com/impcat/grid-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/RH/EE/GLADMIN-15941/grid-antenna-125x125.jpg"
+      },
+      {
+        "name": "Base Station Antenna",
+        "page": "https://dir.indiamart.com/impcat/base-station-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/WF/PY/GLADMIN-22898/base-station-antenna-125x125.jpg"
+      },
+      {
+        "name": "Walkie Talkie Antenna",
+        "page": "https://dir.indiamart.com/impcat/walkie-talkie-antenna.html",
+        "thumbnail": "http://4.imimg.com/data4/GG/GG/GLADMIN-/walkie-talkie-antenna-125x125.jpg"
+      },
+      {
+        "name": "GPS Antenna",
+        "page": "https://dir.indiamart.com/impcat/gps-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/MJ/KN/GLADMIN-15920/gps-antenna-125x125.jpg"
+      },
+      {
+        "name": "Patch Panel Antenna",
+        "page": "https://dir.indiamart.com/impcat/patch-panel-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/TM/BN/GLADMIN-146167/patch-panel-antenna-125x125.jpg"
+      },
+      {
+        "name": "Radio Antenna",
+        "page": "https://dir.indiamart.com/impcat/radio-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/YO/SU/GLADMIN-18464/radio-antenna-125x125.jpg"
+      },
+      {
+        "name": "Wireless Network Antenna",
+        "page": "https://dir.indiamart.com/impcat/wireless-network-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/KY/WW/GLADMIN-41166/wireless-network-antenna-125x125.jpg"
+      },
+      {
+        "name": "FM Antenna",
+        "page": "https://dir.indiamart.com/impcat/fm-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/HD/CO/GLADMIN-12185/fm-antenna-125x125.jpg"
+      },
+      {
+        "name": "Telescopic Antenna",
+        "page": "https://dir.indiamart.com/impcat/telescopic-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/LI/PG/GLADMIN-3020/telescopic-antenna-125x125.jpg"
+      },
+      {
+        "name": "Panel Antenna",
+        "page": "https://dir.indiamart.com/impcat/panel-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/VU/ML/GLADMIN-16523/panel-antenna-125x125.jpg"
+      },
+      {
+        "name": "Ceiling Antenna",
+        "page": "https://dir.indiamart.com/impcat/ceiling-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/XG/GLADMIN-45875/ceiling-antenna-125x125.jpg"
+      },
+      {
+        "name": "Horn Antenna",
+        "page": "https://dir.indiamart.com/impcat/horn-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/JS/EE/GLADMIN-16302/horn-antenna-125x125.jpg"
+      },
+      {
+        "name": "RF Antenna",
+        "page": "https://dir.indiamart.com/impcat/rf-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/RC/WM/GLADMIN-18599/rf-antenna-125x125.jpg"
+      },
+      {
+        "name": "Dipole Antenna",
+        "page": "https://dir.indiamart.com/impcat/dipole-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/CH/FV/GLADMIN-15462/dipole-antenna-125x125.jpg"
+      },
+      {
+        "name": "Whip Antenna",
+        "page": "https://dir.indiamart.com/impcat/whip-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/PC/VF/GLADMIN-20131/whip-antenna-125x125.jpg"
+      },
+      {
+        "name": "Ferrite Rod",
+        "page": "https://dir.indiamart.com/impcat/ferrite-rods.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2022/7/BO/SN/RF/68815/ferrite-rods-125x125.jpg"
+      },
+      {
+        "name": "Ferrite Rod Core",
+        "page": "https://dir.indiamart.com/impcat/ferrite-rod-core.html",
+        "thumbnail": "http://3.imimg.com/data3/ND/IM/GLADMIN-65606/ferrite-rod-core-125x125.jpg"
+      },
+      {
+        "name": "Vsat Antenna",
+        "page": "https://dir.indiamart.com/impcat/vsat-antenna.html",
+        "thumbnail": "http://4.imimg.com/data4/VN/QI/GLADMIN-179071/vsat-antenna-125x125.jpg"
+      },
+      {
+        "name": "Indoor Antenna",
+        "page": "https://dir.indiamart.com/impcat/indoor-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/JD/KP/GLADMIN-30660/indoor-antenna-125x125.jpg"
+      },
+      {
+        "name": "HF Antenna",
+        "page": "https://dir.indiamart.com/impcat/hf-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/BJ/SK/GLADMIN-30333/hf-antenna-125x125.jpg"
+      },
+      {
+        "name": "Communication Antennas",
+        "page": "https://dir.indiamart.com/impcat/communication-antennas.html",
+        "thumbnail": "http://3.imimg.com/data3/YV/XO/GLADMIN-25443/communication-antennas-125x125.jpg"
+      },
+      {
+        "name": "Broadband Antennas",
+        "page": "https://dir.indiamart.com/impcat/broadband-antennas.html",
+        "thumbnail": "http://3.imimg.com/data3/ED/DV/GLADMIN-23613/broadband-antennas-125x125.jpg"
+      },
+      {
+        "name": "Ground Plane Antenna",
+        "page": "https://dir.indiamart.com/impcat/ground-plane-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/PK/PX/MY-2/ground-plane-antenna-125x125.jpg"
+      },
+      {
+        "name": "Patch Antenna",
+        "page": "https://dir.indiamart.com/impcat/patch-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/JY/KO/GLADMIN-16692/patch-antenna-125x125.jpg"
+      },
+      {
+        "name": "Helical Antenna",
+        "page": "https://dir.indiamart.com/impcat/helical-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/IQ/FD/MY-2/helical-antenna-125x125.jpg"
+      },
+      {
+        "name": "Marine Antenna",
+        "page": "https://dir.indiamart.com/impcat/marine-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/FQ/MX/GLADMIN-17400/marine-antenna-125x125.jpg"
+      },
+      {
+        "name": "Access Point Antenna",
+        "page": "https://dir.indiamart.com/impcat/access-point-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/LE/RL/GLADMIN-98674/access-point-antenna-125x125.jpg"
+      },
+      {
+        "name": "Radar Antenna",
+        "page": "https://dir.indiamart.com/impcat/radar-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/NS/AE/GLADMIN-18439/radar-antenna-125x125.jpg"
+      },
+      {
+        "name": "Microstrip Antenna",
+        "page": "https://dir.indiamart.com/impcat/microstrip-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/YJ/YY/GLADMIN-15303/microstrip-antenna-125x125.gif"
+      },
+      {
+        "name": "Microwave Antennas",
+        "page": "https://dir.indiamart.com/impcat/microwave-antennas.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/LS/GLADMIN-33539/microwave-antennas-125x125.jpg"
+      },
+      {
+        "name": "Cellular Yagi Antenna",
+        "page": "https://dir.indiamart.com/impcat/cellular-yagi-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/TQ/XN/GLADMIN-104295/cellular-yagi-antenna-125x125.jpg"
+      },
+      {
+        "name": "Antenna Mounting Kit",
+        "page": "https://dir.indiamart.com/impcat/antenna-mounting-kit.html",
+        "thumbnail": "http://3.imimg.com/data3/XC/VH/MY-2/antenna-mounting-kit-125x125.jpg"
+      },
+      {
+        "name": "Broadcast Antenna",
+        "page": "https://dir.indiamart.com/impcat/broadcast-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/DY/JK/GLADMIN-15217/broadcast-antenna-125x125.jpg"
+      },
+      {
+        "name": "CDMA Antennas",
+        "page": "https://dir.indiamart.com/impcat/cdma-antennas.html",
+        "thumbnail": "http://3.imimg.com/data3/UJ/WI/GLADMIN-155207/cdma-antennas-125x125.jpg"
+      },
+      {
+        "name": "Digital Antenna",
+        "page": "https://dir.indiamart.com/impcat/digital-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/VQ/DY/GLADMIN-26202/digital-antenna-125x125.jpg"
+      },
+      {
+        "name": "IFT Ferrite Core",
+        "page": "https://dir.indiamart.com/impcat/ift-ferrite-core.html",
+        "thumbnail": "http://3.imimg.com/data3/QP/LB/GLADMIN-107316/ift-ferrite-core-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Dish Antenna",
+    "category_thumbnail": "http://3.imimg.com/data3/GH/GC/GLADMIN-15471/dish-antenna-125x125.jpg",
+    "items": [
+      {
+        "name": "TATA Sky Dish Antenna",
+        "page": "https://dir.indiamart.com/impcat/tata-sky-dish-antenna.html",
+        "thumbnail": "http://4.imimg.com/data4/CC/PV/GLADMIN-2/tata-sky-dish-antenna-125x125.jpg"
+      },
+      {
+        "name": "C Band Dish",
+        "page": "https://dir.indiamart.com/impcat/c-band-dish.html",
+        "thumbnail": "http://4.imimg.com/data4/AK/KI/GLADMIN-184800/c-band-dish-125x125.jpg"
+      },
+      {
+        "name": "Satellite Antenna",
+        "page": "https://dir.indiamart.com/impcat/satellite-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/HR/GLADMIN-17973/satellite-antenna-125x125.jpg"
+      },
+      {
+        "name": "Satellite Dishes",
+        "page": "https://dir.indiamart.com/impcat/satellite-dishes.html",
+        "thumbnail": "http://3.imimg.com/data3/TC/BT/GLADMIN-37076/satellite-dishes-125x125.jpg"
+      },
+      {
+        "name": "Parabolic Antenna",
+        "page": "https://dir.indiamart.com/impcat/parabolic-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/BV/MI/MY-2/parabolic-antenna-125x125.jpg"
+      },
+      {
+        "name": "Dish Network Services",
+        "page": "https://dir.indiamart.com/impcat/dish-network-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FC/OB/GLADMIN-170388/dish-network-services-125x125.jpg"
+      },
+      {
+        "name": "Offset Dish Antenna",
+        "page": "https://dir.indiamart.com/impcat/offset-dish-antenna.html",
+        "thumbnail": "http://3.imimg.com/data3/VP/XT/GLADMIN-111717/offset-dish-antenna-125x125.jpg"
+      },
+      {
+        "name": "Mimo Dish Antenna",
+        "page": "https://dir.indiamart.com/impcat/mimo-dish-antenna.html",
+        "thumbnail": "http://5.imimg.com/data5/PD/XF/MC/GLADMIN-68087/mimo-dish-antenna-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Satellite Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/OV/US/GLADMIN-128998/satellite-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Ku Band LNB",
+        "page": "https://dir.indiamart.com/impcat/ku-band-lnb.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/AG/GLADMIN-45880/ku-band-lnb-125x125.jpg"
+      },
+      {
+        "name": "C Band LNB",
+        "page": "https://dir.indiamart.com/impcat/c-band-lnb.html",
+        "thumbnail": "http://5.imimg.com/data5/BB/BB/GLADMIN-/c-band-lnb-125x125.jpg"
+      },
+      {
+        "name": "Lnb Switches",
+        "page": "https://dir.indiamart.com/impcat/lnb-switches.html",
+        "thumbnail": "http://5.imimg.com/data5/XX/XX/GLADMIN-/a-img923-2310-ewvkdy-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Communication Towers",
+    "category_thumbnail": "http://3.imimg.com/data3/TP/IT/GLADMIN-20844/communication-towers-125x125.jpg",
+    "items": [
+      {
+        "name": "Telecom Tower",
+        "page": "https://dir.indiamart.com/impcat/telecom-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/SA/RQ/GLADMIN-43430/telecom-tower-125x125.jpg"
+      },
+      {
+        "name": "Transmission Towers",
+        "page": "https://dir.indiamart.com/impcat/transmission-towers.html",
+        "thumbnail": "http://3.imimg.com/data3/OE/JD/GLADMIN-39004/transmission-towers-125x125.jpg"
+      },
+      {
+        "name": "Self Supporting Tower",
+        "page": "https://dir.indiamart.com/impcat/self-supporting-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/WL/RE/GLADMIN-53257/self-supporting-tower-125x125.jpg"
+      },
+      {
+        "name": "Transmission Line Tower",
+        "page": "https://dir.indiamart.com/impcat/transmission-line-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/WH/XX/GLADMIN-40160/transmission-line-tower-125x125.jpg"
+      },
+      {
+        "name": "WiFi Tower",
+        "page": "https://dir.indiamart.com/impcat/wifi-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/YM/FN/GLADMIN-163333/wifi-tower-125x125.jpg"
+      },
+      {
+        "name": "Monopole Tower",
+        "page": "https://dir.indiamart.com/impcat/monopole-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/VN/WY/GLADMIN-150534/monopole-tower-125x125.jpg"
+      },
+      {
+        "name": "Roof Top Tower",
+        "page": "https://dir.indiamart.com/impcat/roof-top-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/AU/GLADMIN-53255/roof-top-tower-125x125.jpg"
+      },
+      {
+        "name": "Galvanized Telecom Tower",
+        "page": "https://dir.indiamart.com/impcat/galvanized-telecom-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/AP/VA/GLADMIN-144725/galvanized-telecom-tower-125x125.jpg"
+      },
+      {
+        "name": "Steel Tower",
+        "page": "https://dir.indiamart.com/impcat/steel-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/KG/TL/GLADMIN-113909/steel-tower-125x125.jpg"
+      },
+      {
+        "name": "Guyed Towers",
+        "page": "https://dir.indiamart.com/impcat/guyed-towers.html",
+        "thumbnail": "http://3.imimg.com/data3/KE/UG/GLADMIN-20846/guyed-towers-125x125.jpg"
+      },
+      {
+        "name": "Signal Towers",
+        "page": "https://dir.indiamart.com/impcat/signal-towers.html",
+        "thumbnail": "http://3.imimg.com/data3/FR/SY/GLADMIN-101735/signal-towers-125x125.jpg"
+      },
+      {
+        "name": "Solar Telecom Tower",
+        "page": "https://dir.indiamart.com/impcat/solar-telecom-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/IG/KU/GLADMIN-132945/solar-telecom-tower-125x125.jpg"
+      },
+      {
+        "name": "Wireless Tower",
+        "page": "https://dir.indiamart.com/impcat/wireless-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/YI/YT/GLADMIN-43431/wireless-tower-125x125.jpg"
+      },
+      {
+        "name": "Broadcast Tower",
+        "page": "https://dir.indiamart.com/impcat/broadcast-tower.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/UN/GLADMIN-53194/broadcast-tower-125x125.jpg"
+      },
+      {
+        "name": "Microwave Towers",
+        "page": "https://dir.indiamart.com/impcat/microwave-towers.html",
+        "thumbnail": "http://3.imimg.com/data3/KX/LR/GLADMIN-20845/microwave-towers-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Antenna Accessories",
+    "category_thumbnail": "http://3.imimg.com/data3/QL/FJ/GLADMIN-98676/antenna-accessories-125x125.jpg",
+    "items": [
+      {
+        "name": "Antenna Booster",
+        "page": "https://dir.indiamart.com/impcat/antenna-booster.html",
+        "thumbnail": "http://3.imimg.com/data3/CV/HB/GLADMIN-14744/antenna-booster-125x125.jpg"
+      },
+      {
+        "name": "Dish Antenna Accessories",
+        "page": "https://dir.indiamart.com/impcat/dish-antenna-accessories.html",
+        "thumbnail": "http://3.imimg.com/data3/SO/AC/GLADMIN-108317/dish-antenna-accessories-125x125.jpg"
+      },
+      {
+        "name": "Antenna Cable",
+        "page": "https://dir.indiamart.com/impcat/antenna-cable.html",
+        "thumbnail": "http://3.imimg.com/data3/HE/BM/MY-2/antenna-cable-125x125.jpg"
+      },
+      {
+        "name": "Antenna Trainer Kits",
+        "page": "https://dir.indiamart.com/impcat/antenna-trainer-kits.html",
+        "thumbnail": "http://3.imimg.com/data3/HB/MD/GLADMIN-144513/antenna-trainer-kits-125x125.jpg"
+      },
+      {
+        "name": "Antenna Mast",
+        "page": "https://dir.indiamart.com/impcat/antenna-mast.html",
+        "thumbnail": "http://3.imimg.com/data3/XN/DC/GLADMIN-53189/antenna-mast-125x125.jpg"
+      },
+      {
+        "name": "Antenna Mounts",
+        "page": "https://dir.indiamart.com/impcat/antenna-mounts.html",
+        "thumbnail": "http://3.imimg.com/data3/CW/RA/GLADMIN-22683/antenna-mounts-125x125.jpg"
+      },
+      {
+        "name": "Antenna Part",
+        "page": "https://dir.indiamart.com/impcat/antenna-part.html",
+        "thumbnail": "http://3.imimg.com/data3/KN/XU/GLADMIN-53190/antenna-part-125x125.jpg"
+      },
+      {
+        "name": "Antenna Tuner",
+        "page": "https://dir.indiamart.com/impcat/antenna-tuner.html",
+        "thumbnail": "http://3.imimg.com/data3/FE/TX/MY-2/antenna-tuner-125x125.jpg"
+      },
+      {
+        "name": "Telecom Tower Lights",
+        "page": "https://dir.indiamart.com/impcat/telecom-tower-lights.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/QS/GLADMIN-3008/telecom-tower-lights-125x125.jpg"
+      },
+      {
+        "name": "Antenna Switches",
+        "page": "https://dir.indiamart.com/impcat/antenna-switches.html",
+        "thumbnail": "http://5.imimg.com/data5/UU/UU/GLADMIN-/a-img922-8245-8eguyy-125x125.jpg"
+      },
+      {
+        "name": "Antenna Adapter",
+        "page": "https://dir.indiamart.com/impcat/antenna-adapter.html",
+        "thumbnail": "http://3.imimg.com/data3/PE/CP/GLADMIN-14743/antenna-adapter-125x125.jpg"
+      },
+      {
+        "name": "Antenna Clamp",
+        "page": "https://dir.indiamart.com/impcat/antenna-clamp.html",
+        "thumbnail": "http://4.imimg.com/data4/FE/XC/GLADMIN-179292/antenna-clamp-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Telescopic Mast",
+    "category_thumbnail": "http://3.imimg.com/data3/TV/HU/GLADMIN-41985/telescopic-mast-125x125.jpg",
+    "items": [
+      {
+        "name": "High Mast System",
+        "page": "https://dir.indiamart.com/impcat/high-mast-system.html",
+        "thumbnail": "http://3.imimg.com/data3/IP/FX/GLADMIN-132895/high-mast-system-125x125.jpg"
+      },
+      {
+        "name": "Electrical High Mast",
+        "page": "https://dir.indiamart.com/impcat/electrical-high-mast.html",
+        "thumbnail": "http://3.imimg.com/data3/QK/AK/GLADMIN-101930/electrical-high-mast-125x125.jpg"
+      },
+      {
+        "name": "Polygonal High Mast",
+        "page": "https://dir.indiamart.com/impcat/polygonal-high-mast.html",
+        "thumbnail": "http://3.imimg.com/data3/BH/CV/GLADMIN-101934/polygonal-high-mast-125x125.jpg"
+      },
+      {
+        "name": "Pneumatic Telescopic Masts",
+        "page": "https://dir.indiamart.com/impcat/pneumatic-telescopic-masts.html",
+        "thumbnail": "http://3.imimg.com/data3/DA/HY/GLADMIN-159051/pneumatic-telescopic-masts-125x125.jpg"
+      }
+    ]
+  }
+]

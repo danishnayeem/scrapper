@@ -1,0 +1,427 @@
+[
+  {
+    "category_name": "Medical Consultancy Services",
+    "category_thumbnail": "http://3.imimg.com/data3/PJ/PI/GLADMIN-171609/medical-consultancy-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Sexologist Services",
+        "page": "https://dir.indiamart.com/impcat/sexologist-services.html",
+        "thumbnail": "http://3.imimg.com/data3/OD/VQ/GLADMIN-176467/sexologist-services-125x125.jpg"
+      },
+      {
+        "name": "Blood Banks",
+        "page": "https://dir.indiamart.com/impcat/blood-banks.html",
+        "thumbnail": "http://3.imimg.com/data3/HW/HA/GLADMIN-23487/blood-banks-125x125.jpg"
+      },
+      {
+        "name": "Physiotherapy Consultants",
+        "page": "https://dir.indiamart.com/impcat/physiotherapy-consultants.html",
+        "thumbnail": "http://3.imimg.com/data3/FV/SE/GLADMIN-43907/physiotherapy-consultants-125x125.jpg"
+      },
+      {
+        "name": "Embryo Donation",
+        "page": "https://dir.indiamart.com/impcat/embryo-donation.html",
+        "thumbnail": "http://3.imimg.com/data3/QW/PL/GLADMIN-137158/embryo-donation-125x125.jpg"
+      },
+      {
+        "name": "Hospitals",
+        "page": "https://dir.indiamart.com/impcat/hospitals.html",
+        "thumbnail": "http://3.imimg.com/data3/QE/DM/GLADMIN-105952/hospitals-125x125.jpg"
+      },
+      {
+        "name": "Pharmacy Management Services",
+        "page": "https://dir.indiamart.com/impcat/pharmacy-management-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FT/PV/GLADMIN-173267/pharmacy-management-services-125x125.jpg"
+      },
+      {
+        "name": "Cath Lab",
+        "page": "https://dir.indiamart.com/impcat/cath-lab.html",
+        "thumbnail": "http://3.imimg.com/data3/IS/EQ/GLADMIN-24541/cath-lab-125x125.jpg"
+      },
+      {
+        "name": "Psychological Tests",
+        "page": "https://dir.indiamart.com/impcat/psychological-tests.html",
+        "thumbnail": "http://3.imimg.com/data3/FE/EX/GLADMIN-35915/psychological-tests-125x125.jpg"
+      },
+      {
+        "name": "Health Care Consultancy Service",
+        "page": "https://dir.indiamart.com/impcat/health-care-consultancy-service.html",
+        "thumbnail": "http://3.imimg.com/data3/VD/TL/GLADMIN-174257/health-care-consultancy-service-125x125.jpg"
+      },
+      {
+        "name": "Pharmaceutical Consultants",
+        "page": "https://dir.indiamart.com/impcat/pharmaceutical-consultants.html",
+        "thumbnail": "http://3.imimg.com/data3/AW/SU/GLADMIN-33978/pharmaceutical-consultants-125x125.jpg"
+      },
+      {
+        "name": "Psychological Consultants",
+        "page": "https://dir.indiamart.com/impcat/psychological-consultants.html",
+        "thumbnail": "http://3.imimg.com/data3/ID/NB/GLADMIN-146737/psychological-consultants-125x125.jpg"
+      },
+      {
+        "name": "Gamma Radiography",
+        "page": "https://dir.indiamart.com/impcat/gamma-radiography.html",
+        "thumbnail": "http://3.imimg.com/data3/JJ/BH/GLADMIN-176801/gamma-radiography-125x125.jpg"
+      },
+      {
+        "name": "Computerized Eye Testing Services",
+        "page": "https://dir.indiamart.com/impcat/computerized-eye-testing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/GE/CQ/GLADMIN-175609/computerized-eye-testing-services-125x125.jpg"
+      },
+      {
+        "name": "Hospital Consultant",
+        "page": "https://dir.indiamart.com/impcat/hospital-consultant.html",
+        "thumbnail": "http://3.imimg.com/data3/MX/WQ/GLADMIN-84094/hospital-consultant-125x125.jpg"
+      },
+      {
+        "name": "Medical Coding Service",
+        "page": "https://dir.indiamart.com/impcat/medical-coding-service.html",
+        "thumbnail": "http://3.imimg.com/data3/IK/KO/GLADMIN-171608/medical-coding-service-125x125.jpg"
+      },
+      {
+        "name": "Telemedicine Services",
+        "page": "https://dir.indiamart.com/impcat/telemedicine-services.html",
+        "thumbnail": "http://3.imimg.com/data3/UG/VC/GLADMIN-109914/telemedicine-services-125x125.jpg"
+      },
+      {
+        "name": "Cancer Screening",
+        "page": "https://dir.indiamart.com/impcat/cancer-screening.html",
+        "thumbnail": "http://3.imimg.com/data3/CD/CN/GLADMIN-23215/cancer-screening-125x125.jpg"
+      },
+      {
+        "name": "Private Hospitals",
+        "page": "https://dir.indiamart.com/impcat/private-hospitals.html",
+        "thumbnail": "http://3.imimg.com/data3/XF/PU/GLADMIN-35757/private-hospitals-125x125.jpg"
+      },
+      {
+        "name": "Clinical Trial Services",
+        "page": "https://dir.indiamart.com/impcat/clinical-trial-services.html",
+        "thumbnail": "http://3.imimg.com/data3/NT/PB/GLADMIN-43070/clinical-trial-services-125x125.jpg"
+      },
+      {
+        "name": "Coronary Angiography",
+        "page": "https://dir.indiamart.com/impcat/coronary-angiography.html",
+        "thumbnail": "http://3.imimg.com/data3/BK/JH/GLADMIN-44245/coronary-angiography-125x125.jpg"
+      },
+      {
+        "name": "Public Hospital",
+        "page": "https://dir.indiamart.com/impcat/public-hospital.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/XG/GLADMIN-34804/public-hospital-125x125.jpg"
+      },
+      {
+        "name": "Microbiology Services",
+        "page": "https://dir.indiamart.com/impcat/microbiology-services.html",
+        "thumbnail": "http://3.imimg.com/data3/CG/UQ/GLADMIN-139800/microbiology-services-125x125.jpg"
+      },
+      {
+        "name": "Mental Health Nursing Services",
+        "page": "https://dir.indiamart.com/impcat/mental-health-nursing-services.html",
+        "thumbnail": "http://3.imimg.com/data3/SG/LB/GLADMIN-171619/mental-health-nursing-services-125x125.jpg"
+      },
+      {
+        "name": "Breast Augmentation Service",
+        "page": "https://dir.indiamart.com/impcat/breast-augmentation-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HR/IX/GLADMIN-173856/breast-augmentation-service-125x125.jpg"
+      },
+      {
+        "name": "Stress Management",
+        "page": "https://dir.indiamart.com/impcat/stress-management.html",
+        "thumbnail": "http://3.imimg.com/data3/OT/BX/GLADMIN-118236/stress-management-125x125.jpg"
+      },
+      {
+        "name": "Medical Product Development",
+        "page": "https://dir.indiamart.com/impcat/medical-product-development.html",
+        "thumbnail": "http://3.imimg.com/data3/VA/TA/GLADMIN-31902/medical-product-development-125x125.jpg"
+      },
+      {
+        "name": "Optician Services",
+        "page": "https://dir.indiamart.com/impcat/optician-services.html",
+        "thumbnail": "http://3.imimg.com/data3/FW/EV/GLADMIN-176564/optician-services-125x125.jpg"
+      },
+      {
+        "name": "Kids Dentistry Services",
+        "page": "https://dir.indiamart.com/impcat/kids-dentistry-services.html",
+        "thumbnail": "http://3.imimg.com/data3/WQ/FQ/GLADMIN-169421/kids-dentistry-services-125x125.jpg"
+      },
+      {
+        "name": "Medical Illustrations Service",
+        "page": "https://dir.indiamart.com/impcat/medical-illustrations-service.html",
+        "thumbnail": "http://3.imimg.com/data3/NF/AN/GLADMIN-171614/medical-illustrations-service-125x125.jpg"
+      },
+      {
+        "name": "Cardiothoracic Surgeons",
+        "page": "https://dir.indiamart.com/impcat/cardiothoracic-surgeons.html",
+        "thumbnail": "http://3.imimg.com/data3/GQ/NB/GLADMIN-24330/cardiothoracic-surgeons-125x125.jpg"
+      },
+      {
+        "name": "Liver Transplantation",
+        "page": "https://dir.indiamart.com/impcat/liver-transplantation.html",
+        "thumbnail": "http://3.imimg.com/data3/EJ/BV/GLADMIN-176431/liver-transplantation-125x125.jpg"
+      },
+      {
+        "name": "Mobile Hospitals",
+        "page": "https://dir.indiamart.com/impcat/mobile-hospitals.html",
+        "thumbnail": "http://3.imimg.com/data3/HO/SB/GLADMIN-32812/mobile-hospitals-125x125.jpg"
+      },
+      {
+        "name": "Teeth Scaling",
+        "page": "https://dir.indiamart.com/impcat/teeth-scaling.html",
+        "thumbnail": "http://3.imimg.com/data3/DK/PP/GLADMIN-176502/teeth-scaling-125x125.jpg"
+      },
+      {
+        "name": "Interventional Radiology",
+        "page": "https://dir.indiamart.com/impcat/interventional-radiology.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/RG/GLADMIN-176409/interventional-radiology-125x125.jpg"
+      },
+      {
+        "name": "Umbilical Cord Blood Stem Cells Banking",
+        "page": "https://dir.indiamart.com/impcat/umbilical-cord-blood-stem-cells-banking.html",
+        "thumbnail": "http://3.imimg.com/data3/VB/TT/GLADMIN-111446/umbilical-cord-blood-stem-cells-banking-125x125.jpg"
+      },
+      {
+        "name": "Body Sculpting",
+        "page": "https://dir.indiamart.com/impcat/body-sculpting.html",
+        "thumbnail": "http://3.imimg.com/data3/HC/CH/GLADMIN-176625/body-sculpting-125x125.jpg"
+      },
+      {
+        "name": "Nurse Station",
+        "page": "https://dir.indiamart.com/impcat/nurse-station.html",
+        "thumbnail": "http://4.imimg.com/data4/WU/JA/GLADMIN-182977/nurse-station-125x125.jpg"
+      },
+      {
+        "name": "Hearing Aid Evaluation",
+        "page": "https://dir.indiamart.com/impcat/hearing-aid-evaluation.html",
+        "thumbnail": "http://4.imimg.com/data4/RW/MR/GLADMIN-2/hearing-aid-evaluation-125x125.jpg"
+      },
+      {
+        "name": "Pediatric Cardiologists",
+        "page": "https://dir.indiamart.com/impcat/pediatric-cardiologists.html",
+        "thumbnail": "http://3.imimg.com/data3/CM/UI/GLADMIN-34779/pediatric-cardiologists-125x125.jpg"
+      },
+      {
+        "name": "Laser Dentistry Services",
+        "page": "https://dir.indiamart.com/impcat/laser-dentistry-services.html",
+        "thumbnail": "http://3.imimg.com/data3/HE/UO/GLADMIN-174034/laser-dentistry-services-125x125.jpg"
+      },
+      {
+        "name": "Liver Function Testing Service",
+        "page": "https://dir.indiamart.com/impcat/liver-function-testing-service.html",
+        "thumbnail": "http://3.imimg.com/data3/GN/PV/GLADMIN-168722/liver-function-testing-service-125x125.jpg"
+      },
+      {
+        "name": "Pulmonology Service",
+        "page": "https://dir.indiamart.com/impcat/pulmonology-service.html",
+        "thumbnail": "http://3.imimg.com/data3/HT/FE/GLADMIN-176542/pulmonology-service-125x125.jpg"
+      },
+      {
+        "name": "Stress Test Service",
+        "page": "https://dir.indiamart.com/impcat/stress-test-service.html",
+        "thumbnail": "http://3.imimg.com/data3/NA/AA/GLADMIN-169677/stress-test-service-125x125.jpg"
+      },
+      {
+        "name": "Nephrologists",
+        "page": "https://dir.indiamart.com/impcat/nephrologists.html",
+        "thumbnail": "http://4.imimg.com/data4/PH/SN/GLADMIN-181474/nephrologists-125x125.jpg"
+      },
+      {
+        "name": "Adolescent Counselling Services",
+        "page": "https://dir.indiamart.com/impcat/adolescent-counselling-services.html",
+        "thumbnail": "http://3.imimg.com/data3/MR/GV/GLADMIN-149802/adolescent-counselling-services-125x125.jpg"
+      },
+      {
+        "name": "Pediatric Surgeons",
+        "page": "https://dir.indiamart.com/impcat/pediatric-surgeons.html",
+        "thumbnail": "http://3.imimg.com/data3/RN/KD/GLADMIN-34781/pediatric-surgeons-125x125.jpg"
+      },
+      {
+        "name": "Pulse Diagnosis",
+        "page": "https://dir.indiamart.com/impcat/pulse-diagnosis.html",
+        "thumbnail": "http://3.imimg.com/data3/RG/XL/GLADMIN-176541/pulse-diagnosis-125x125.jpg"
+      },
+      {
+        "name": "Chest Specialists",
+        "page": "https://dir.indiamart.com/impcat/chest-specialists.html",
+        "thumbnail": "http://3.imimg.com/data3/EV/MH/GLADMIN-43910/chest-specialists-125x125.jpg"
+      },
+      {
+        "name": "Medical Manufacturing",
+        "page": "https://dir.indiamart.com/impcat/medical-manufacturing.html",
+        "thumbnail": "http://3.imimg.com/data3/TB/RQ/GLADMIN-142085/medical-manufacturing-125x125.jpg"
+      },
+      {
+        "name": "Plastic Surgeons",
+        "page": "https://dir.indiamart.com/impcat/plastic-surgeons.html",
+        "thumbnail": "http://3.imimg.com/data3/HS/JP/GLADMIN-35255/plastic-surgeons-125x125.jpg"
+      },
+      {
+        "name": "Medical Management",
+        "page": "https://dir.indiamart.com/impcat/medical-management.html",
+        "thumbnail": "http://3.imimg.com/data3/AK/AQ/GLADMIN-31892/medical-management-125x125.jpg"
+      },
+      {
+        "name": "Pediatric Intensive Care",
+        "page": "https://dir.indiamart.com/impcat/pediatric-intensive-care.html",
+        "thumbnail": "http://3.imimg.com/data3/VL/HT/GLADMIN-170619/pediatric-intensive-care-125x125.jpg"
+      },
+      {
+        "name": "Video Laryngoscopy",
+        "page": "https://dir.indiamart.com/impcat/video-laryngoscopy.html",
+        "thumbnail": "http://5.imimg.com/data5/EM/IP/GLADMIN-2/dsc00303-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Dermatology Treatment Services",
+    "category_thumbnail": "http://3.imimg.com/data3/OQ/TM/GLADMIN-139274/dermatology-skin-treatment-125x125.jpg",
+    "items": [
+      {
+        "name": "Laser Tattoo Removal Treatment",
+        "page": "https://dir.indiamart.com/impcat/laser-tattoo-removal-treatment.html",
+        "thumbnail": "http://3.imimg.com/data3/JH/JQ/GLADMIN-172129/laser-tattoo-removal-treatment-125x125.jpg"
+      },
+      {
+        "name": "Skin Treatment Solution",
+        "page": "https://dir.indiamart.com/impcat/skin-treatment-solution.html",
+        "thumbnail": "http://3.imimg.com/data3/LF/FA/GLADMIN-107000/skin-treatment-solution-125x125.jpg"
+      },
+      {
+        "name": "Face Lift Services",
+        "page": "https://dir.indiamart.com/impcat/face-lift-services.html",
+        "thumbnail": "http://3.imimg.com/data3/IR/FU/GLADMIN-171006/face-lift-services-125x125.jpg"
+      },
+      {
+        "name": "Dark Circles Treatment",
+        "page": "https://dir.indiamart.com/impcat/dark-circles-treatment.html",
+        "thumbnail": "http://3.imimg.com/data3/XK/MQ/GLADMIN-173911/dark-circles-treatment-125x125.jpg"
+      },
+      {
+        "name": "Dossier Services",
+        "page": "https://dir.indiamart.com/impcat/dossier-services.html",
+        "thumbnail": "http://3.imimg.com/data3/PI/RU/GLADMIN-176322/dossier-services-125x125.jpg"
+      },
+      {
+        "name": "Dermatology Consultants",
+        "page": "https://dir.indiamart.com/impcat/dermatology-consultants.html",
+        "thumbnail": "http://3.imimg.com/data3/KJ/IC/GLADMIN-43908/dermatology-consultants-125x125.jpg"
+      },
+      {
+        "name": "Hair Treatment",
+        "page": "https://dir.indiamart.com/impcat/hair-treatment.html",
+        "thumbnail": "http://5.imimg.com/data5/NN/NN/GLADMIN-/hair-treatment-125x125.jpg"
+      },
+      {
+        "name": "Cosmetics Products Consultation",
+        "page": "https://dir.indiamart.com/impcat/cosmetics-products-consultation.html",
+        "thumbnail": "http://3.imimg.com/data3/PL/NU/GLADMIN-171446/cosmetics-products-consultation-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Medical Equipment Repair Services",
+    "category_thumbnail": "http://3.imimg.com/data3/SI/XO/GLADMIN-148855/medical-equipment-repair-services-125x125.jpg",
+    "items": [
+      {
+        "name": "Medical Ventilator Repairing Services",
+        "page": "https://dir.indiamart.com/impcat/ventilators-repairing-services.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/MR/NL/NA/31394/medical-ventilator-repairing-services-125x125.jpg"
+      },
+      {
+        "name": "X Ray Machine Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/x-ray-machine-repairing-service.html",
+        "thumbnail": "http://5.imimg.com/data5/IG/IA/GLADMIN-2/hqdefault-125x125.jpg"
+      },
+      {
+        "name": "ECG Machine Repair",
+        "page": "https://dir.indiamart.com/impcat/ecg-machine-repairing-service.html",
+        "thumbnail": "http://5.imimg.com/data5/WL/YW/GLADMIN-2/ecg-machine-repair-125x125.jpg"
+      },
+      {
+        "name": "CT Scan Machine Repairing Service",
+        "page": "https://dir.indiamart.com/impcat/ct-scan-machine-repairing-service.html",
+        "thumbnail": "http://5.imimg.com/data5/AC/CX/GW/GLADMIN-68155/ct-scan-machine-repairing-service-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Hair Treatment",
+    "category_thumbnail": "http://5.imimg.com/data5/NN/NN/GLADMIN-/hair-treatment-125x125.jpg",
+    "items": [
+      {
+        "name": "Laser Hair Removal Services",
+        "page": "https://dir.indiamart.com/impcat/laser-hair-removal-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VN/CC/GLADMIN-174080/laser-hair-removal-services-125x125.jpg"
+      },
+      {
+        "name": "Hair Fixing",
+        "page": "https://dir.indiamart.com/impcat/hair-fixing.html",
+        "thumbnail": "http://5.imimg.com/data5/BE/OX/GLADMIN-2/hair-fixing-125x125.jpg"
+      },
+      {
+        "name": "Hair Fall Treatment Service",
+        "page": "https://dir.indiamart.com/impcat/hair-fall-treatment-service.html",
+        "thumbnail": "http://3.imimg.com/data3/KH/UU/GLADMIN-170558/hair-fall-treatment-service-125x125.jpg"
+      },
+      {
+        "name": "Hair Weaving Service",
+        "page": "https://dir.indiamart.com/impcat/hair-weaving-service.html",
+        "thumbnail": "http://3.imimg.com/data3/KS/MX/GLADMIN-174757/hair-weaving-service-125x125.jpg"
+      },
+      {
+        "name": "Dandruff Treatment",
+        "page": "https://dir.indiamart.com/impcat/dandruff-treatment.html",
+        "thumbnail": "http://3.imimg.com/data3/SJ/XY/GLADMIN-176695/dandruff-treatment-125x125.jpg"
+      },
+      {
+        "name": "Fue Hair Transplant Service",
+        "page": "https://dir.indiamart.com/impcat/fue-hair-transplant-service.html",
+        "thumbnail": "http://3.imimg.com/data3/EH/RK/GLADMIN-170526/fue-hair-transplant-service-125x125.jpg"
+      },
+      {
+        "name": "Hair Replacement Services",
+        "page": "https://dir.indiamart.com/impcat/hair-replacement-services.html",
+        "thumbnail": "http://3.imimg.com/data3/VO/FV/GLADMIN-171815/hair-replacement-services-125x125.jpg"
+      },
+      {
+        "name": "Laser Hair Treatment",
+        "page": "https://dir.indiamart.com/impcat/lase-hair-treatment.html",
+        "thumbnail": "http://3.imimg.com/data3/OW/EJ/GLADMIN-106994/lase-hair-treatment-125x125.jpg"
+      },
+      {
+        "name": "Hair Bonding Services",
+        "page": "https://dir.indiamart.com/impcat/hair-bonding-services.html",
+        "thumbnail": "http://3.imimg.com/data3/BO/CP/GLADMIN-168901/hair-bonding-services-125x125.jpg"
+      },
+      {
+        "name": "Follicular Hair Transplant",
+        "page": "https://dir.indiamart.com/impcat/follicular-hair-transplant.html",
+        "thumbnail": "http://3.imimg.com/data3/NH/VW/GLADMIN-174523/follicular-hair-transplant-125x125.jpg"
+      }
+    ]
+  },
+  {
+    "category_name": "Respiratory Equipment Rental",
+    "category_thumbnail": "http://5.imimg.com/data5/ZQ/ON/EH/GLADMIN-81953/respiratory-equipment-rental-125x125.png",
+    "items": [
+      {
+        "name": "BiPAP Machine On Rent",
+        "page": "https://dir.indiamart.com/impcat/bipap-machine-on-rent.html",
+        "thumbnail": "http://5.imimg.com/data5/XG/ND/LN/GLADMIN-73467/bipap-machine-on-rent-125x125.jpg"
+      },
+      {
+        "name": "Ventilator Rental",
+        "page": "https://dir.indiamart.com/impcat/ventilator-rental.html",
+        "thumbnail": "http://5.imimg.com/data5/GLADMIN/Default/2020/9/WS/KB/OB/31394/ventilator-rental-125x125.jpg"
+      },
+      {
+        "name": "CPAP Machine On Rent",
+        "page": "https://dir.indiamart.com/impcat/cpap-machine-on-rent.html",
+        "thumbnail": "http://5.imimg.com/data5/SD/PO/KR/GLADMIN-73467/cpap-machine-on-rent-125x125.jpg"
+      },
+      {
+        "name": "Nebulizer Rental",
+        "page": "https://dir.indiamart.com/impcat/nebulizer-rental.html",
+        "thumbnail": "http://5.imimg.com/data5/ZX/MP/IS/GLADMIN-81953/nebulizer-rental-125x125.png"
+      }
+    ]
+  }
+]
